@@ -1,14 +1,14 @@
 # Machine Learning for the Arts&Humanities
 
-This repository is part of the [course Machine Learning for the Arts&Humanities](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2023/499860) at the University of Bologna, master degree in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge).
+This repository is part of the course [Machine Learning for the Arts&Humanities](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2023/499860) at the University of Bologna, master degree in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge).
 
-The repository will be updated continuosly in the future, as new editions of this course are proposed.
+*Please note that this repository will be updated continuosly in the future, as new editions of this course are proposed.*
 
 ## Contents
 
-1. [Linear Regression](1 - Linear regression.ipynb)
-2. [Linear Classification](2 - Linear classification.ipynb)
-3. [PyTorch](3 - PyTorch.ipynb)
+1. [Linear regression](1_linear_regression.ipynb)
+2. [Linear classification](1_linear_classification.ipynb)
+3. [PyTorch](3_pytorch.ipynb)
 
 ## Datasets and exercises
 
@@ -26,4 +26,4 @@ These materials are in part based on the book *[Dive into Deep Learning](https:/
 
 Some materials are re-purposed from:
 * [UvA Deep Learning course](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html).
-* [PyTorch tutorials](https://pytorch.org/tutorials/)
+* [PyTorch tutorials](https://pytorch.org/tutorials/).
