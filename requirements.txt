@@ -1,0 +1,10 @@
+notebook
+jupyter_contrib_nbextensions
+pandas
+matplotlib
+seaborn
+nltk
+numpy
+scikit-learn
+torch
+torchvision

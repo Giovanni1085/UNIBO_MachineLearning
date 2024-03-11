@@ -1,3 +1,7 @@
+# Personal
+models/*
+data/FashionMNIST/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
