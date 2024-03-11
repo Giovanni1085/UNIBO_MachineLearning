@@ -7,7 +7,7 @@ This repository is part of the course [Machine Learning for the Arts&Humanities]
 ## Contents
 
 1. [Linear regression](1_linear_regression.ipynb)
-2. [Linear classification](1_linear_classification.ipynb)
+2. [Linear classification](2_linear_classification.ipynb)
 3. [PyTorch](3_pytorch.ipynb)
 
 ## Datasets and exercises
