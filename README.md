@@ -9,10 +9,14 @@ This repository is part of the course [Machine Learning for the Arts&Humanities]
 1. [Linear regression](1_linear_regression.ipynb)
 2. [Linear classification](2_linear_classification.ipynb)
 3. [PyTorch](3_pytorch.ipynb)
+4. [Machine Vision](4_machine_vision.ipynb)
+5. Language Processing
+6. Generative AI
 
 ## Datasets and exercises
 
-We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data), available in the [Data folder](data/).
+We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data), available in the [Data folder](data/). Additional datasets are borrowed from:
+* [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1) from the Programming Historian series.
 
 ## Setting-up your working environment
 
