@@ -28,7 +28,7 @@ The main use cases for RAG include question-answering on specific collections of
 * Retrieval speed: Searching through large external corpora can be computationally expensive and slow, especially if the corpus is very large. Efficient retrieval methods, such as DPR (Dense Passage Retrieval), are crucial to maintaining reasonable response times.
 * Fusion of retrieved information: Integrating multiple retrieved documents into the generative process can be complex, and the model must decide how to weigh or combine the information from each retrieved passage.
 
-<img src="figures/rag.png" width="600px" heigth="500px">
+<img src="../figures/rag.png" width="600px" heigth="500px">
 
 *[Source](https://www.trantorinc.com/blog/what-is-rag-retrieval-augmented-generation).*
 
