@@ -1,0 +1,656 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=DESTRUCTION OF A FUSTIAN MILL IN SALFORD.
+1-1	0-11	DESTRUCTION	_	_	
+1-2	12-14	OF	_	_	
+1-3	15-16	A	_	_	
+1-4	17-24	FUSTIAN	_	_	
+1-5	25-29	MILL	_	_	
+1-6	30-32	IN	_	_	
+1-7	33-40	SALFORD	https://en.wikipedia.org/wiki/Salford	LOC	
+1-8	40-41	.	_	_	
+
+#Text=A four-storeyed brick building, formerly used as a cotton mill, and one of the oldest structures of its class in Salford, was last night destroyed, and its valuable contents consumed by fire.
+2-1	43-44	A	_	_	
+2-2	45-58	four-storeyed	_	_	
+2-3	59-64	brick	_	_	
+2-4	65-73	building	_	_	
+2-5	73-74	,	_	_	
+2-6	75-83	formerly	_	_	
+2-7	84-88	used	_	_	
+2-8	89-91	as	_	_	
+2-9	92-93	a	_	_	
+2-10	94-100	cotton	_	_	
+2-11	101-105	mill	_	_	
+2-12	105-106	,	_	_	
+2-13	107-110	and	_	_	
+2-14	111-114	one	_	_	
+2-15	115-117	of	_	_	
+2-16	118-121	the	_	_	
+2-17	122-128	oldest	_	_	
+2-18	129-139	structures	_	_	
+2-19	140-142	of	_	_	
+2-20	143-146	its	_	_	
+2-21	147-152	class	_	_	
+2-22	153-155	in	_	_	
+2-23	156-163	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+2-24	163-164	,	_	_	
+2-25	165-168	was	_	_	
+2-26	169-173	last	_	_	
+2-27	174-179	night	_	_	
+2-28	180-189	destroyed	_	_	
+2-29	189-190	,	_	_	
+2-30	191-194	and	_	_	
+2-31	195-198	its	_	_	
+2-32	199-207	valuable	_	_	
+2-33	208-216	contents	_	_	
+2-34	217-225	consumed	_	_	
+2-35	226-228	by	_	_	
+2-36	229-233	fire	_	_	
+2-37	233-234	.	_	_	
+
+#Text=It is situated in Cable-street, and was in the occupation of Messrs.
+3-1	235-237	It	_	_	
+3-2	238-240	is	_	_	
+3-3	241-249	situated	_	_	
+3-4	250-252	in	_	_	
+3-5	253-265	Cable-street	*	STREET	
+3-6	265-266	,	_	_	
+3-7	267-270	and	_	_	
+3-8	271-274	was	_	_	
+3-9	275-277	in	_	_	
+3-10	278-281	the	_	_	
+3-11	282-292	occupation	_	_	
+3-12	293-295	of	_	_	
+3-13	296-302	Messrs	_	_	
+3-14	302-303	.	_	_	
+
+#Text=Henry Williams and Co., fustian finishers.
+4-1	304-309	Henry	_	_	
+4-2	310-318	Williams	_	_	
+4-3	319-322	and	_	_	
+4-4	323-325	Co	_	_	
+4-5	325-326	.	_	_	
+4-6	326-327	,	_	_	
+4-7	328-335	fustian	_	_	
+4-8	336-345	finishers	_	_	
+4-9	345-346	.	_	_	
+
+#Text=The premises were stocked with goods to the value of upwards of £20,000.
+5-1	347-350	The	_	_	
+5-2	351-359	premises	_	_	
+5-3	360-364	were	_	_	
+5-4	365-372	stocked	_	_	
+5-5	373-377	with	_	_	
+5-6	378-383	goods	_	_	
+5-7	384-386	to	_	_	
+5-8	387-390	the	_	_	
+5-9	391-396	value	_	_	
+5-10	397-399	of	_	_	
+5-11	400-407	upwards	_	_	
+5-12	408-410	of	_	_	
+5-13	411-418	£20,000	_	_	
+5-14	418-419	.	_	_	
+
+#Text=Considering the inflammable nature of the stock, it is not surprising that the fire should have spread with alarming rapidity.
+6-1	420-431	Considering	_	_	
+6-2	432-435	the	_	_	
+6-3	436-447	inflammable	_	_	
+6-4	448-454	nature	_	_	
+6-5	455-457	of	_	_	
+6-6	458-461	the	_	_	
+6-7	462-467	stock	_	_	
+6-8	467-468	,	_	_	
+6-9	469-471	it	_	_	
+6-10	472-474	is	_	_	
+6-11	475-478	not	_	_	
+6-12	479-489	surprising	_	_	
+6-13	490-494	that	_	_	
+6-14	495-498	the	_	_	
+6-15	499-503	fire	_	_	
+6-16	504-510	should	_	_	
+6-17	511-515	have	_	_	
+6-18	516-522	spread	_	_	
+6-19	523-527	with	_	_	
+6-20	528-536	alarming	_	_	
+6-21	537-545	rapidity	_	_	
+6-22	545-546	.	_	_	
+
+#Text=Behind, and adjoining, are the extensive factories of Messrs.
+7-1	547-553	Behind	_	_	
+7-2	553-554	,	_	_	
+7-3	555-558	and	_	_	
+7-4	559-568	adjoining	_	_	
+7-5	568-569	,	_	_	
+7-6	570-573	are	_	_	
+7-7	574-577	the	_	_	
+7-8	578-587	extensive	_	_	
+7-9	588-597	factories	_	_	
+7-10	598-600	of	_	_	
+7-11	601-607	Messrs	_	_	
+7-12	607-608	.	_	_	
+
+#Text=Higgin, machinists, which were at one time seriously endangered.
+8-1	609-615	Higgin	_	_	
+8-2	615-616	,	_	_	
+8-3	617-627	machinists	_	_	
+8-4	627-628	,	_	_	
+8-5	629-634	which	_	_	
+8-6	635-639	were	_	_	
+8-7	640-642	at	_	_	
+8-8	643-646	one	_	_	
+8-9	647-651	time	_	_	
+8-10	652-661	seriously	_	_	
+8-11	662-672	endangered	_	_	
+8-12	672-673	.	_	_	
+
+#Text=Had the the broken out in the night, it is believed that the whole range would have been destroyed.
+9-1	674-677	Had	_	_	
+9-2	678-681	the	_	_	
+9-3	682-685	the	_	_	
+9-4	686-692	broken	_	_	
+9-5	693-696	out	_	_	
+9-6	697-699	in	_	_	
+9-7	700-703	the	_	_	
+9-8	704-709	night	_	_	
+9-9	709-710	,	_	_	
+9-10	711-713	it	_	_	
+9-11	714-716	is	_	_	
+9-12	717-725	believed	_	_	
+9-13	726-730	that	_	_	
+9-14	731-734	the	_	_	
+9-15	735-740	whole	_	_	
+9-16	741-746	range	_	_	
+9-17	747-752	would	_	_	
+9-18	753-757	have	_	_	
+9-19	758-762	been	_	_	
+9-20	763-772	destroyed	_	_	
+9-21	772-773	.	_	_	
+
+#Text=There was another difficulty of immense importance,— the want of a sufficient supply of water.
+10-1	774-779	There	_	_	
+10-2	780-783	was	_	_	
+10-3	784-791	another	_	_	
+10-4	792-802	difficulty	_	_	
+10-5	803-805	of	_	_	
+10-6	806-813	immense	_	_	
+10-7	814-824	importance	_	_	
+10-8	824-825	,	_	_	
+10-9	825-826	—	_	_	
+10-10	827-830	the	_	_	
+10-11	831-835	want	_	_	
+10-12	836-838	of	_	_	
+10-13	839-840	a	_	_	
+10-14	841-851	sufficient	_	_	
+10-15	852-858	supply	_	_	
+10-16	859-861	of	_	_	
+10-17	862-867	water	_	_	
+10-18	867-868	.	_	_	
+
+#Text=It is said, also, that there was a hit eh in connecting one of the pipes, which occasioned a delay of nearly half an hour.
+11-1	869-871	It	_	_	
+11-2	872-874	is	_	_	
+11-3	875-879	said	_	_	
+11-4	879-880	,	_	_	
+11-5	881-885	also	_	_	
+11-6	885-886	,	_	_	
+11-7	887-891	that	_	_	
+11-8	892-897	there	_	_	
+11-9	898-901	was	_	_	
+11-10	902-903	a	_	_	
+11-11	904-907	hit	_	_	
+11-12	908-910	eh	_	_	
+11-13	911-913	in	_	_	
+11-14	914-924	connecting	_	_	
+11-15	925-928	one	_	_	
+11-16	929-931	of	_	_	
+11-17	932-935	the	_	_	
+11-18	936-941	pipes	_	_	
+11-19	941-942	,	_	_	
+11-20	943-948	which	_	_	
+11-21	949-959	occasioned	_	_	
+11-22	960-961	a	_	_	
+11-23	962-967	delay	_	_	
+11-24	968-970	of	_	_	
+11-25	971-977	nearly	_	_	
+11-26	978-982	half	_	_	
+11-27	983-985	an	_	_	
+11-28	986-990	hour	_	_	
+11-29	990-991	.	_	_	
+
+#Text=Be that as it may, Mr.
+12-1	992-994	Be	_	_	
+12-2	995-999	that	_	_	
+12-3	1000-1002	as	_	_	
+12-4	1003-1005	it	_	_	
+12-5	1006-1009	may	_	_	
+12-6	1009-1010	,	_	_	
+12-7	1011-1013	Mr	_	_	
+12-8	1013-1014	.	_	_	
+
+#Text=Atherton—who with his brigade was quickly on the spot—after receiving the announcement, found it necessaiy to despatch a messenger to Manchester for an additional supply.
+13-1	1015-1027	Atherton—who	_	_	
+13-2	1028-1032	with	_	_	
+13-3	1033-1036	his	_	_	
+13-4	1037-1044	brigade	_	_	
+13-5	1045-1048	was	_	_	
+13-6	1049-1056	quickly	_	_	
+13-7	1057-1059	on	_	_	
+13-8	1060-1063	the	_	_	
+13-9	1064-1074	spot—after	_	_	
+13-10	1075-1084	receiving	_	_	
+13-11	1085-1088	the	_	_	
+13-12	1089-1101	announcement	_	_	
+13-13	1101-1102	,	_	_	
+13-14	1103-1108	found	_	_	
+13-15	1109-1111	it	_	_	
+13-16	1112-1121	necessaiy	_	_	
+13-17	1122-1124	to	_	_	
+13-18	1125-1133	despatch	_	_	
+13-19	1134-1135	a	_	_	
+13-20	1136-1145	messenger	_	_	
+13-21	1146-1148	to	_	_	
+13-22	1149-1159	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+13-23	1160-1163	for	_	_	
+13-24	1164-1166	an	_	_	
+13-25	1167-1177	additional	_	_	
+13-26	1178-1184	supply	_	_	
+13-27	1184-1185	.	_	_	
+
+#Text=This occasioned a further detention.
+14-1	1186-1190	This	_	_	
+14-2	1191-1201	occasioned	_	_	
+14-3	1202-1203	a	_	_	
+14-4	1204-1211	further	_	_	
+14-5	1212-1221	detention	_	_	
+14-6	1221-1222	.	_	_	
+
+#Text=Flames will not stop.
+15-1	1223-1229	Flames	_	_	
+15-2	1230-1234	will	_	_	
+15-3	1235-1238	not	_	_	
+15-4	1239-1243	stop	_	_	
+15-5	1243-1244	.	_	_	
+
+#Text=The fluffy material used in the manufacture of fustian is somewhat akin to gun cotton.
+16-1	1245-1248	The	_	_	
+16-2	1249-1255	fluffy	_	_	
+16-3	1256-1264	material	_	_	
+16-4	1265-1269	used	_	_	
+16-5	1270-1272	in	_	_	
+16-6	1273-1276	the	_	_	
+16-7	1277-1288	manufacture	_	_	
+16-8	1289-1291	of	_	_	
+16-9	1292-1299	fustian	_	_	
+16-10	1300-1302	is	_	_	
+16-11	1303-1311	somewhat	_	_	
+16-12	1312-1316	akin	_	_	
+16-13	1317-1319	to	_	_	
+16-14	1320-1323	gun	_	_	
+16-15	1324-1330	cotton	_	_	
+16-16	1330-1331	.	_	_	
+
+#Text=Once a-fire it spreads rapidly.
+17-1	1332-1336	Once	_	_	
+17-2	1337-1343	a-fire	_	_	
+17-3	1344-1346	it	_	_	
+17-4	1347-1354	spreads	_	_	
+17-5	1355-1362	rapidly	_	_	
+17-6	1362-1363	.	_	_	
+
+#Text=So it was in this case.
+18-1	1364-1366	So	_	_	
+18-2	1367-1369	it	_	_	
+18-3	1370-1373	was	_	_	
+18-4	1374-1376	in	_	_	
+18-5	1377-1381	this	_	_	
+18-6	1382-1386	case	_	_	
+18-7	1386-1387	.	_	_	
+
+#Text=A man named Batty had to escape by a window on the third storey— where the fire broke out—nobody knows how—and in trying to descend by means of "a piece" which he had thrown out, he fell, and sustained severe injuries.
+19-1	1388-1389	A	_	_	
+19-2	1390-1393	man	_	_	
+19-3	1394-1399	named	_	_	
+19-4	1400-1405	Batty	_	_	
+19-5	1406-1409	had	_	_	
+19-6	1410-1412	to	_	_	
+19-7	1413-1419	escape	_	_	
+19-8	1420-1422	by	_	_	
+19-9	1423-1424	a	_	_	
+19-10	1425-1431	window	_	_	
+19-11	1432-1434	on	_	_	
+19-12	1435-1438	the	_	_	
+19-13	1439-1444	third	_	_	
+19-14	1445-1451	storey	_	_	
+19-15	1451-1452	—	_	_	
+19-16	1453-1458	where	_	_	
+19-17	1459-1462	the	_	_	
+19-18	1463-1467	fire	_	_	
+19-19	1468-1473	broke	_	_	
+19-20	1474-1484	out—nobody	_	_	
+19-21	1485-1490	knows	_	_	
+19-22	1491-1498	how—and	_	_	
+19-23	1499-1501	in	_	_	
+19-24	1502-1508	trying	_	_	
+19-25	1509-1511	to	_	_	
+19-26	1512-1519	descend	_	_	
+19-27	1520-1522	by	_	_	
+19-28	1523-1528	means	_	_	
+19-29	1529-1531	of	_	_	
+19-30	1532-1533	"	_	_	
+19-31	1533-1534	a	_	_	
+19-32	1535-1540	piece	_	_	
+19-33	1540-1541	"	_	_	
+19-34	1542-1547	which	_	_	
+19-35	1548-1550	he	_	_	
+19-36	1551-1554	had	_	_	
+19-37	1555-1561	thrown	_	_	
+19-38	1562-1565	out	_	_	
+19-39	1565-1566	,	_	_	
+19-40	1567-1569	he	_	_	
+19-41	1570-1574	fell	_	_	
+19-42	1574-1575	,	_	_	
+19-43	1576-1579	and	_	_	
+19-44	1580-1589	sustained	_	_	
+19-45	1590-1596	severe	_	_	
+19-46	1597-1605	injuries	_	_	
+19-47	1605-1606	.	_	_	
+
+#Text=The flames spread rapidly upwards and downwards until the whole building was enveloped in fire.
+20-1	1607-1610	The	_	_	
+20-2	1611-1617	flames	_	_	
+20-3	1618-1624	spread	_	_	
+20-4	1625-1632	rapidly	_	_	
+20-5	1633-1640	upwards	_	_	
+20-6	1641-1644	and	_	_	
+20-7	1645-1654	downwards	_	_	
+20-8	1655-1660	until	_	_	
+20-9	1661-1664	the	_	_	
+20-10	1665-1670	whole	_	_	
+20-11	1671-1679	building	_	_	
+20-12	1680-1683	was	_	_	
+20-13	1684-1693	enveloped	_	_	
+20-14	1694-1696	in	_	_	
+20-15	1697-1701	fire	_	_	
+20-16	1701-1702	.	_	_	
+
+#Text=From the first there appeared to be no hope of saving the premises, but a portion of the stock was rescued.
+21-1	1703-1707	From	_	_	
+21-2	1708-1711	the	_	_	
+21-3	1712-1717	first	_	_	
+21-4	1718-1723	there	_	_	
+21-5	1724-1732	appeared	_	_	
+21-6	1733-1735	to	_	_	
+21-7	1736-1738	be	_	_	
+21-8	1739-1741	no	_	_	
+21-9	1742-1746	hope	_	_	
+21-10	1747-1749	of	_	_	
+21-11	1750-1756	saving	_	_	
+21-12	1757-1760	the	_	_	
+21-13	1761-1769	premises	_	_	
+21-14	1769-1770	,	_	_	
+21-15	1771-1774	but	_	_	
+21-16	1775-1776	a	_	_	
+21-17	1777-1784	portion	_	_	
+21-18	1785-1787	of	_	_	
+21-19	1788-1791	the	_	_	
+21-20	1792-1797	stock	_	_	
+21-21	1798-1801	was	_	_	
+21-22	1802-1809	rescued	_	_	
+21-23	1809-1810	.	_	_	
+
+#Text=The flames raged furiously.
+22-1	1811-1814	The	_	_	
+22-2	1815-1821	flames	_	_	
+22-3	1822-1827	raged	_	_	
+22-4	1828-1837	furiously	_	_	
+22-5	1837-1838	.	_	_	
+
+#Text=Tons of water from the engines flooded every part of the ignited structure; but each jet seemed to add fuel to the fire.
+23-1	1839-1843	Tons	_	_	
+23-2	1844-1846	of	_	_	
+23-3	1847-1852	water	_	_	
+23-4	1853-1857	from	_	_	
+23-5	1858-1861	the	_	_	
+23-6	1862-1869	engines	_	_	
+23-7	1870-1877	flooded	_	_	
+23-8	1878-1883	every	_	_	
+23-9	1884-1888	part	_	_	
+23-10	1889-1891	of	_	_	
+23-11	1892-1895	the	_	_	
+23-12	1896-1903	ignited	_	_	
+23-13	1904-1913	structure	_	_	
+23-14	1913-1914	;	_	_	
+23-15	1915-1918	but	_	_	
+23-16	1919-1923	each	_	_	
+23-17	1924-1927	jet	_	_	
+23-18	1928-1934	seemed	_	_	
+23-19	1935-1937	to	_	_	
+23-20	1938-1941	add	_	_	
+23-21	1942-1946	fuel	_	_	
+23-22	1947-1949	to	_	_	
+23-23	1950-1953	the	_	_	
+23-24	1954-1958	fire	_	_	
+23-25	1958-1959	.	_	_	
+
+#Text=The flames sped quickly to the topmost story, and licked the walls with their fiery tongues.
+24-1	1960-1963	The	_	_	
+24-2	1964-1970	flames	_	_	
+24-3	1971-1975	sped	_	_	
+24-4	1976-1983	quickly	_	_	
+24-5	1984-1986	to	_	_	
+24-6	1987-1990	the	_	_	
+24-7	1991-1998	topmost	_	_	
+24-8	1999-2004	story	_	_	
+24-9	2004-2005	,	_	_	
+24-10	2006-2009	and	_	_	
+24-11	2010-2016	licked	_	_	
+24-12	2017-2020	the	_	_	
+24-13	2021-2026	walls	_	_	
+24-14	2027-2031	with	_	_	
+24-15	2032-2037	their	_	_	
+24-16	2038-2043	fiery	_	_	
+24-17	2044-2051	tongues	_	_	
+24-18	2051-2052	.	_	_	
+
+#Text=Presently the roof fell in with a dreadful crash; and floor after floor came toppling down in horrid confusion, making the night hideous with the dreadful glare and the multitudinous sparks which shot across the darkened sky.
+25-1	2053-2062	Presently	_	_	
+25-2	2063-2066	the	_	_	
+25-3	2067-2071	roof	_	_	
+25-4	2072-2076	fell	_	_	
+25-5	2077-2079	in	_	_	
+25-6	2080-2084	with	_	_	
+25-7	2085-2086	a	_	_	
+25-8	2087-2095	dreadful	_	_	
+25-9	2096-2101	crash	_	_	
+25-10	2101-2102	;	_	_	
+25-11	2103-2106	and	_	_	
+25-12	2107-2112	floor	_	_	
+25-13	2113-2118	after	_	_	
+25-14	2119-2124	floor	_	_	
+25-15	2125-2129	came	_	_	
+25-16	2130-2138	toppling	_	_	
+25-17	2139-2143	down	_	_	
+25-18	2144-2146	in	_	_	
+25-19	2147-2153	horrid	_	_	
+25-20	2154-2163	confusion	_	_	
+25-21	2163-2164	,	_	_	
+25-22	2165-2171	making	_	_	
+25-23	2172-2175	the	_	_	
+25-24	2176-2181	night	_	_	
+25-25	2182-2189	hideous	_	_	
+25-26	2190-2194	with	_	_	
+25-27	2195-2198	the	_	_	
+25-28	2199-2207	dreadful	_	_	
+25-29	2208-2213	glare	_	_	
+25-30	2214-2217	and	_	_	
+25-31	2218-2221	the	_	_	
+25-32	2222-2235	multitudinous	_	_	
+25-33	2236-2242	sparks	_	_	
+25-34	2243-2248	which	_	_	
+25-35	2249-2253	shot	_	_	
+25-36	2254-2260	across	_	_	
+25-37	2261-2264	the	_	_	
+25-38	2265-2273	darkened	_	_	
+25-39	2274-2277	sky	_	_	
+25-40	2277-2278	.	_	_	
+
+#Text=A multitude gathered to witness the sight It was soon over.
+26-1	2279-2280	A	_	_	
+26-2	2281-2290	multitude	_	_	
+26-3	2291-2299	gathered	_	_	
+26-4	2300-2302	to	_	_	
+26-5	2303-2310	witness	_	_	
+26-6	2311-2314	the	_	_	
+26-7	2315-2320	sight	_	_	
+26-8	2321-2323	It	_	_	
+26-9	2324-2327	was	_	_	
+26-10	2328-2332	soon	_	_	
+26-11	2333-2337	over	_	_	
+26-12	2337-2338	.	_	_	
+
+#Text=Little remained for the spectator but wet feet, obstructive policemen, damp-looking firemen in glazed helmets and with glistening lanterns, by the light of which the smoking ruins could be discerned steaming forth clouds of vapour in the dank night atmosphere.
+27-1	2339-2345	Little	_	_	
+27-2	2346-2354	remained	_	_	
+27-3	2355-2358	for	_	_	
+27-4	2359-2362	the	_	_	
+27-5	2363-2372	spectator	_	_	
+27-6	2373-2376	but	_	_	
+27-7	2377-2380	wet	_	_	
+27-8	2381-2385	feet	_	_	
+27-9	2385-2386	,	_	_	
+27-10	2387-2398	obstructive	_	_	
+27-11	2399-2408	policemen	_	_	
+27-12	2408-2409	,	_	_	
+27-13	2410-2422	damp-looking	_	_	
+27-14	2423-2430	firemen	_	_	
+27-15	2431-2433	in	_	_	
+27-16	2434-2440	glazed	_	_	
+27-17	2441-2448	helmets	_	_	
+27-18	2449-2452	and	_	_	
+27-19	2453-2457	with	_	_	
+27-20	2458-2468	glistening	_	_	
+27-21	2469-2477	lanterns	_	_	
+27-22	2477-2478	,	_	_	
+27-23	2479-2481	by	_	_	
+27-24	2482-2485	the	_	_	
+27-25	2486-2491	light	_	_	
+27-26	2492-2494	of	_	_	
+27-27	2495-2500	which	_	_	
+27-28	2501-2504	the	_	_	
+27-29	2505-2512	smoking	_	_	
+27-30	2513-2518	ruins	_	_	
+27-31	2519-2524	could	_	_	
+27-32	2525-2527	be	_	_	
+27-33	2528-2537	discerned	_	_	
+27-34	2538-2546	steaming	_	_	
+27-35	2547-2552	forth	_	_	
+27-36	2553-2559	clouds	_	_	
+27-37	2560-2562	of	_	_	
+27-38	2563-2569	vapour	_	_	
+27-39	2570-2572	in	_	_	
+27-40	2573-2576	the	_	_	
+27-41	2577-2581	dank	_	_	
+27-42	2582-2587	night	_	_	
+27-43	2588-2598	atmosphere	_	_	
+27-44	2598-2599	.	_	_	
+
+#Text=An engine came from Manchester under the direction of Engineer King; and the Broughton volunteers, under Captain Drew, also proffered their assistance.
+28-1	2600-2602	An	_	_	
+28-2	2603-2609	engine	_	_	
+28-3	2610-2614	came	_	_	
+28-4	2615-2619	from	_	_	
+28-5	2620-2630	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+28-6	2631-2636	under	_	_	
+28-7	2637-2640	the	_	_	
+28-8	2641-2650	direction	_	_	
+28-9	2651-2653	of	_	_	
+28-10	2654-2662	Engineer	_	_	
+28-11	2663-2667	King	_	_	
+28-12	2667-2668	;	_	_	
+28-13	2669-2672	and	_	_	
+28-14	2673-2676	the	_	_	
+28-15	2677-2686	Broughton	https://en.wikipedia.org/wiki/Broughton,\_Salford	LOC	
+28-16	2687-2697	volunteers	_	_	
+28-17	2697-2698	,	_	_	
+28-18	2699-2704	under	_	_	
+28-19	2705-2712	Captain	_	_	
+28-20	2713-2717	Drew	_	_	
+28-21	2717-2718	,	_	_	
+28-22	2719-2723	also	_	_	
+28-23	2724-2733	proffered	_	_	
+28-24	2734-2739	their	_	_	
+28-25	2740-2750	assistance	_	_	
+28-26	2750-2751	.	_	_	
+
+#Text=The premises are gutted.
+29-1	2752-2755	The	_	_	
+29-2	2756-2764	premises	_	_	
+29-3	2765-2768	are	_	_	
+29-4	2769-2775	gutted	_	_	
+29-5	2775-2776	.	_	_	
+
+#Text=Some cottage property adjoining was endangered, but was saved by the exertions of the firemen under Mr.
+30-1	2777-2781	Some	_	_	
+30-2	2782-2789	cottage	_	_	
+30-3	2790-2798	property	_	_	
+30-4	2799-2808	adjoining	_	_	
+30-5	2809-2812	was	_	_	
+30-6	2813-2823	endangered	_	_	
+30-7	2823-2824	,	_	_	
+30-8	2825-2828	but	_	_	
+30-9	2829-2832	was	_	_	
+30-10	2833-2838	saved	_	_	
+30-11	2839-2841	by	_	_	
+30-12	2842-2845	the	_	_	
+30-13	2846-2855	exertions	_	_	
+30-14	2856-2858	of	_	_	
+30-15	2859-2862	the	_	_	
+30-16	2863-2870	firemen	_	_	
+30-17	2871-2876	under	_	_	
+30-18	2877-2879	Mr	_	_	
+30-19	2879-2880	.	_	_	
+
+#Text=Atherton: and excepting some damage to the premises of Messrs.
+31-1	2881-2889	Atherton	_	_	
+31-2	2889-2890	:	_	_	
+31-3	2891-2894	and	_	_	
+31-4	2895-2904	excepting	_	_	
+31-5	2905-2909	some	_	_	
+31-6	2910-2916	damage	_	_	
+31-7	2917-2919	to	_	_	
+31-8	2920-2923	the	_	_	
+31-9	2924-2932	premises	_	_	
+31-10	2933-2935	of	_	_	
+31-11	2936-2942	Messrs	_	_	
+31-12	2942-2943	.	_	_	
+
+#Text=Higgin, by water, the loss will be confined to Messrs.
+32-1	2944-2950	Higgin	_	_	
+32-2	2950-2951	,	_	_	
+32-3	2952-2954	by	_	_	
+32-4	2955-2960	water	_	_	
+32-5	2960-2961	,	_	_	
+32-6	2962-2965	the	_	_	
+32-7	2966-2970	loss	_	_	
+32-8	2971-2975	will	_	_	
+32-9	2976-2978	be	_	_	
+32-10	2979-2987	confined	_	_	
+32-11	2988-2990	to	_	_	
+32-12	2991-2997	Messrs	_	_	
+32-13	2997-2998	.	_	_	
+
+#Text=Williams, whose stock, we understand, is insured.
+33-1	2999-3007	Williams	_	_	
+33-2	3007-3008	,	_	_	
+33-3	3009-3014	whose	_	_	
+33-4	3015-3020	stock	_	_	
+33-5	3020-3021	,	_	_	
+33-6	3022-3024	we	_	_	
+33-7	3025-3035	understand	_	_	
+33-8	3035-3036	,	_	_	
+33-9	3037-3039	is	_	_	
+33-10	3040-3047	insured	_	_	
+33-11	3047-3048	.	_	_	

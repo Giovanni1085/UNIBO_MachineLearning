@@ -1,0 +1,215 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=LATEST INTELLIGENCE.
+1-1	0-6	LATEST	_	_	
+1-2	7-19	INTELLIGENCE	_	_	
+1-3	19-20	.	_	_	
+
+#Text=[REUTERS TELEGKAMB.]
+2-1	22-23	[	_	_	
+2-2	23-30	REUTERS	_	_	
+2-3	31-40	TELEGKAMB	_	_	
+2-4	40-41	.	_	_	
+2-5	41-42	]	_	_	
+
+#Text=DENMARK.
+3-1	43-50	DENMARK	https://en.wikipedia.org/wiki/Denmark	LOC	
+3-2	50-51	.	_	_	
+
+#Text=Copenhagen, Monday, 10 50 p.m.
+4-1	52-62	Copenhagen	https://en.wikipedia.org/wiki/Copenhagen	LOC	
+4-2	62-63	,	_	_	
+4-3	64-70	Monday	_	_	
+4-4	70-71	,	_	_	
+4-5	72-74	10	_	_	
+4-6	75-77	50	_	_	
+4-7	78-81	p.m	_	_	
+4-8	81-82	.	_	_	
+
+#Text=It is officially announced that on the 14th inst. the Prussians in Jutland continued their confiscation of goods and horses.
+5-1	83-85	It	_	_	
+5-2	86-88	is	_	_	
+5-3	89-99	officially	_	_	
+5-4	100-109	announced	_	_	
+5-5	110-114	that	_	_	
+5-6	115-117	on	_	_	
+5-7	118-121	the	_	_	
+5-8	122-126	14th	_	_	
+5-9	127-131	inst	_	_	
+5-10	131-132	.	_	_	
+5-11	133-136	the	_	_	
+5-12	137-146	Prussians	_	_	
+5-13	147-149	in	_	_	
+5-14	150-157	Jutland	https://en.wikipedia.org/wiki/Jutland	LOC	
+5-15	158-167	continued	_	_	
+5-16	168-173	their	_	_	
+5-17	174-186	confiscation	_	_	
+5-18	187-189	of	_	_	
+5-19	190-195	goods	_	_	
+5-20	196-199	and	_	_	
+5-21	200-206	horses	_	_	
+5-22	206-207	.	_	_	
+
+#Text=Large quantities of the wires from the Government telegraphic lines were also carried away.
+6-1	208-213	Large	_	_	
+6-2	214-224	quantities	_	_	
+6-3	225-227	of	_	_	
+6-4	228-231	the	_	_	
+6-5	232-237	wires	_	_	
+6-6	238-242	from	_	_	
+6-7	243-246	the	_	_	
+6-8	247-257	Government	_	_	
+6-9	258-269	telegraphic	_	_	
+6-10	270-275	lines	_	_	
+6-11	276-280	were	_	_	
+6-12	281-285	also	_	_	
+6-13	286-293	carried	_	_	
+6-14	294-298	away	_	_	
+6-15	298-299	.	_	_	
+
+#Text=F R E.
+7-1	300-301	F	_	_	
+7-2	302-303	R	_	_	
+7-3	304-305	E	_	_	
+7-4	305-306	.	_	_	
+
+#Text=Paris, Tuesday.
+8-1	307-312	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+8-2	312-313	,	_	_	
+8-3	314-321	Tuesday	_	_	
+8-4	321-322	.	_	_	
+
+#Text=The Paris evening papers of to-day deny the rumour of Baron Yon Beust having been received by the Emperor, the former not having visited Paris.
+9-1	323-326	The	_	_	
+9-2	327-332	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+9-3	333-340	evening	_	_	
+9-4	341-347	papers	_	_	
+9-5	348-350	of	_	_	
+9-6	351-357	to-day	_	_	
+9-7	358-362	deny	_	_	
+9-8	363-366	the	_	_	
+9-9	367-373	rumour	_	_	
+9-10	374-376	of	_	_	
+9-11	377-382	Baron	_	_	
+9-12	383-386	Yon	_	_	
+9-13	387-392	Beust	_	_	
+9-14	393-399	having	_	_	
+9-15	400-404	been	_	_	
+9-16	405-413	received	_	_	
+9-17	414-416	by	_	_	
+9-18	417-420	the	_	_	
+9-19	421-428	Emperor	_	_	
+9-20	428-429	,	_	_	
+9-21	430-433	the	_	_	
+9-22	434-440	former	_	_	
+9-23	441-444	not	_	_	
+9-24	445-451	having	_	_	
+9-25	452-459	visited	_	_	
+9-26	460-465	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+9-27	465-466	.	_	_	
+
+#Text=La Fiance, of ihis evening, speaking of the report as to probable ministerial changes, believes itself able to assert that no change will take place, at least not during this session of the Corps Legislatif.
+10-1	467-469	La	_	_	
+10-2	470-476	Fiance	_	_	
+10-3	476-477	,	_	_	
+10-4	478-480	of	_	_	
+10-5	481-485	ihis	_	_	
+10-6	486-493	evening	_	_	
+10-7	493-494	,	_	_	
+10-8	495-503	speaking	_	_	
+10-9	504-506	of	_	_	
+10-10	507-510	the	_	_	
+10-11	511-517	report	_	_	
+10-12	518-520	as	_	_	
+10-13	521-523	to	_	_	
+10-14	524-532	probable	_	_	
+10-15	533-544	ministerial	_	_	
+10-16	545-552	changes	_	_	
+10-17	552-553	,	_	_	
+10-18	554-562	believes	_	_	
+10-19	563-569	itself	_	_	
+10-20	570-574	able	_	_	
+10-21	575-577	to	_	_	
+10-22	578-584	assert	_	_	
+10-23	585-589	that	_	_	
+10-24	590-592	no	_	_	
+10-25	593-599	change	_	_	
+10-26	600-604	will	_	_	
+10-27	605-609	take	_	_	
+10-28	610-615	place	_	_	
+10-29	615-616	,	_	_	
+10-30	617-619	at	_	_	
+10-31	620-625	least	_	_	
+10-32	626-629	not	_	_	
+10-33	630-636	during	_	_	
+10-34	637-641	this	_	_	
+10-35	642-649	session	_	_	
+10-36	650-652	of	_	_	
+10-37	653-656	the	_	_	
+10-38	657-662	Corps	_	_	
+10-39	663-673	Legislatif	_	_	
+10-40	673-674	.	_	_	
+
+#Text=THE LATE SEA FIGHT.
+11-1	675-678	THE	_	_	
+11-2	679-683	LATE	_	_	
+11-3	684-687	SEA	_	_	
+11-4	688-693	FIGHT	_	_	
+11-5	693-694	.	_	_	
+
+#Text=Hamburg, Tuesday.
+12-1	695-702	Hamburg	https://en.wikipedia.org/wiki/Hamburg	LOC	
+12-2	702-703	,	_	_	
+12-3	704-711	Tuesday	_	_	
+12-4	711-712	.	_	_	
+
+#Text=A communication from Rear-Admiral Tegathoff denies the statement published in several journals, that H.M.S.
+13-1	713-714	A	_	_	
+13-2	715-728	communication	_	_	
+13-3	729-733	from	_	_	
+13-4	734-746	Rear-Admiral	_	_	
+13-5	747-756	Tegathoff	_	_	
+13-6	757-763	denies	_	_	
+13-7	764-767	the	_	_	
+13-8	768-777	statement	_	_	
+13-9	778-787	published	_	_	
+13-10	788-790	in	_	_	
+13-11	791-798	several	_	_	
+13-12	799-807	journals	_	_	
+13-13	807-808	,	_	_	
+13-14	809-813	that	_	_	
+13-15	814-819	H.M.S	_	_	
+13-16	819-820	.	_	_	
+
+#Text=Aurora manoeuvred to separate the Austrian frigate Schwarzenburg from the allied squadron.
+14-1	821-827	Aurora	_	_	
+14-2	828-838	manoeuvred	_	_	
+14-3	839-841	to	_	_	
+14-4	842-850	separate	_	_	
+14-5	851-854	the	_	_	
+14-6	855-863	Austrian	_	_	
+14-7	864-871	frigate	_	_	
+14-8	872-885	Schwarzenburg	_	_	
+14-9	886-890	from	_	_	
+14-10	891-894	the	_	_	
+14-11	895-901	allied	_	_	
+14-12	902-910	squadron	_	_	
+14-13	910-911	.	_	_	
+
+#Text=The Aurora was at anchor off Heligoland until the close of the engagement.
+15-1	912-915	The	_	_	
+15-2	916-922	Aurora	_	_	
+15-3	923-926	was	_	_	
+15-4	927-929	at	_	_	
+15-5	930-936	anchor	_	_	
+15-6	937-940	off	_	_	
+15-7	941-951	Heligoland	https://en.wikipedia.org/wiki/Heligoland	LOC	
+15-8	952-957	until	_	_	
+15-9	958-961	the	_	_	
+15-10	962-967	close	_	_	
+15-11	968-970	of	_	_	
+15-12	971-974	the	_	_	
+15-13	975-985	engagement	_	_	
+15-14	985-986	.	_	_	

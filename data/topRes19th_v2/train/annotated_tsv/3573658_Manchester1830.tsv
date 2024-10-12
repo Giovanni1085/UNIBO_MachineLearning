@@ -1,0 +1,218 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=OLDHAM, July 29.
+1-1	0-6	OLDHAM	https://en.wikipedia.org/wiki/Oldham	LOC	
+1-2	6-7	,	_	_	
+1-3	8-12	July	_	_	
+1-4	13-15	29	_	_	
+1-5	15-16	.	_	_	
+
+#Text=Intended .Market.
+2-1	18-26	Intended	_	_	
+2-2	27-28	.	_	_	
+2-3	28-34	Market	_	_	
+2-4	34-35	.	_	_	
+
+#Text=—The committee of police commissioners appointed in April last, to take preliminary steps for the erection of a spacious covered market, recommend the area nearly opposite to the church, and the land occupied by buildings extending from Greaves-street to Mill-street, as a suitable site.
+3-1	35-36	—	_	_	
+3-2	36-39	The	_	_	
+3-3	40-49	committee	_	_	
+3-4	50-52	of	_	_	
+3-5	53-59	police	_	_	
+3-6	60-73	commissioners	_	_	
+3-7	74-83	appointed	_	_	
+3-8	84-86	in	_	_	
+3-9	87-92	April	_	_	
+3-10	93-97	last	_	_	
+3-11	97-98	,	_	_	
+3-12	99-101	to	_	_	
+3-13	102-106	take	_	_	
+3-14	107-118	preliminary	_	_	
+3-15	119-124	steps	_	_	
+3-16	125-128	for	_	_	
+3-17	129-132	the	_	_	
+3-18	133-141	erection	_	_	
+3-19	142-144	of	_	_	
+3-20	145-146	a	_	_	
+3-21	147-155	spacious	_	_	
+3-22	156-163	covered	_	_	
+3-23	164-170	market	_	_	
+3-24	170-171	,	_	_	
+3-25	172-181	recommend	_	_	
+3-26	182-185	the	_	_	
+3-27	186-190	area	_	_	
+3-28	191-197	nearly	_	_	
+3-29	198-206	opposite	_	_	
+3-30	207-209	to	_	_	
+3-31	210-213	the	_	_	
+3-32	214-220	church	_	_	
+3-33	220-221	,	_	_	
+3-34	222-225	and	_	_	
+3-35	226-229	the	_	_	
+3-36	230-234	land	_	_	
+3-37	235-243	occupied	_	_	
+3-38	244-246	by	_	_	
+3-39	247-256	buildings	_	_	
+3-40	257-266	extending	_	_	
+3-41	267-271	from	_	_	
+3-42	272-286	Greaves-street	*	STREET	
+3-43	287-289	to	_	_	
+3-44	290-301	Mill-street	*	STREET	
+3-45	301-302	,	_	_	
+3-46	303-305	as	_	_	
+3-47	306-307	a	_	_	
+3-48	308-316	suitable	_	_	
+3-49	317-321	site	_	_	
+3-50	321-322	.	_	_	
+
+#Text=An act of parliament will be necessary to authorise the erection of the new market; and it is estimated that the total cost, including the purchase of the property on the site, will not fall short of about £16,000.
+4-1	323-325	An	_	_	
+4-2	326-329	act	_	_	
+4-3	330-332	of	_	_	
+4-4	333-343	parliament	_	_	
+4-5	344-348	will	_	_	
+4-6	349-351	be	_	_	
+4-7	352-361	necessary	_	_	
+4-8	362-364	to	_	_	
+4-9	365-374	authorise	_	_	
+4-10	375-378	the	_	_	
+4-11	379-387	erection	_	_	
+4-12	388-390	of	_	_	
+4-13	391-394	the	_	_	
+4-14	395-398	new	_	_	
+4-15	399-405	market	_	_	
+4-16	405-406	;	_	_	
+4-17	407-410	and	_	_	
+4-18	411-413	it	_	_	
+4-19	414-416	is	_	_	
+4-20	417-426	estimated	_	_	
+4-21	427-431	that	_	_	
+4-22	432-435	the	_	_	
+4-23	436-441	total	_	_	
+4-24	442-446	cost	_	_	
+4-25	446-447	,	_	_	
+4-26	448-457	including	_	_	
+4-27	458-461	the	_	_	
+4-28	462-470	purchase	_	_	
+4-29	471-473	of	_	_	
+4-30	474-477	the	_	_	
+4-31	478-486	property	_	_	
+4-32	487-489	on	_	_	
+4-33	490-493	the	_	_	
+4-34	494-498	site	_	_	
+4-35	498-499	,	_	_	
+4-36	500-504	will	_	_	
+4-37	505-508	not	_	_	
+4-38	509-513	fall	_	_	
+4-39	514-519	short	_	_	
+4-40	520-522	of	_	_	
+4-41	523-528	about	_	_	
+4-42	529-536	£16,000	_	_	
+4-43	536-537	.	_	_	
+
+#Text=The Oldham Ringers formally opened the peal of twelve bells in the tower of Oldham church on Monday last.
+5-1	538-541	The	_	_	
+5-2	542-548	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+5-3	549-556	Ringers	_	_	
+5-4	557-565	formally	_	_	
+5-5	566-572	opened	_	_	
+5-6	573-576	the	_	_	
+5-7	577-581	peal	_	_	
+5-8	582-584	of	_	_	
+5-9	585-591	twelve	_	_	
+5-10	592-597	bells	_	_	
+5-11	598-600	in	_	_	
+5-12	601-604	the	_	_	
+5-13	605-610	tower	_	_	
+5-14	611-613	of	_	_	
+5-15	614-620	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+5-16	621-627	church	_	_	
+5-17	628-630	on	_	_	
+5-18	631-637	Monday	_	_	
+5-19	638-642	last	_	_	
+5-20	642-643	.	_	_	
+
+#Text=The occurrence excited considerable interest, and there was a numerous atten lance of ringers, from the Collegiate Church and St.
+6-1	644-647	The	_	_	
+6-2	648-658	occurrence	_	_	
+6-3	659-666	excited	_	_	
+6-4	667-679	considerable	_	_	
+6-5	680-688	interest	_	_	
+6-6	688-689	,	_	_	
+6-7	690-693	and	_	_	
+6-8	694-699	there	_	_	
+6-9	700-703	was	_	_	
+6-10	704-705	a	_	_	
+6-11	706-714	numerous	_	_	
+6-12	715-720	atten	_	_	
+6-13	721-726	lance	_	_	
+6-14	727-729	of	_	_	
+6-15	730-737	ringers	_	_	
+6-16	737-738	,	_	_	
+6-17	739-743	from	_	_	
+6-18	744-747	the	_	_	
+6-19	748-758	Collegiate	https://en.wikipedia.org/wiki/Manchester\_Cathedral#Collegiate\_church[1]	BUILDING[1]	
+6-20	759-765	Church	https://en.wikipedia.org/wiki/Manchester\_Cathedral#Collegiate\_church[1]	BUILDING[1]	
+6-21	766-769	and	_	_	
+6-22	770-772	St	_	_	
+6-23	772-773	.	_	_	
+
+#Text=Johns, Manchester, Rothctham, Mottram.
+7-1	774-779	Johns	_	_	
+7-2	779-780	,	_	_	
+7-3	781-791	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+7-4	791-792	,	_	_	
+7-5	793-802	Rothctham	https://en.wikipedia.org/wiki/Rotherham	LOC	
+7-6	802-803	,	_	_	
+7-7	804-811	Mottram	https://en.wikipedia.org/wiki/Mottram\_in\_Longdendale	LOC	
+7-8	811-812	.	_	_	
+
+#Text=Ashton-under-Lyne, Halifax, Sowerby, Sheffield.
+8-1	813-830	Ashton-under-Lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+8-2	830-831	,	_	_	
+8-3	832-839	Halifax	https://en.wikipedia.org/wiki/Halifax,\_West\_Yorkshire	LOC	
+8-4	839-840	,	_	_	
+8-5	841-848	Sowerby	https://en.wikipedia.org/wiki/Sowerby,\_West\_Yorkshire	LOC	
+8-6	848-849	,	_	_	
+8-7	850-859	Sheffield	https://en.wikipedia.org/wiki/Sheffield	LOC	
+8-8	859-860	.	_	_	
+
+#Text=Bolton, and Chiistleton, near Chester.
+9-1	861-867	Bolton	https://en.wikipedia.org/wiki/Bolton	LOC	
+9-2	867-868	,	_	_	
+9-3	869-872	and	_	_	
+9-4	873-884	Chiistleton	https://en.wikipedia.org/wiki/Christleton	LOC	
+9-5	884-885	,	_	_	
+9-6	886-890	near	_	_	
+9-7	891-898	Chester	https://en.wikipedia.org/wiki/Chester\_(district)	LOC	
+9-8	898-899	.	_	_	
+
+#Text=A variety of scientific peals were rung by parties from these places, as well as by the Oldham senior and junior societies of ringers.
+10-1	900-901	A	_	_	
+10-2	902-909	variety	_	_	
+10-3	910-912	of	_	_	
+10-4	913-923	scientific	_	_	
+10-5	924-929	peals	_	_	
+10-6	930-934	were	_	_	
+10-7	935-939	rung	_	_	
+10-8	940-942	by	_	_	
+10-9	943-950	parties	_	_	
+10-10	951-955	from	_	_	
+10-11	956-961	these	_	_	
+10-12	962-968	places	_	_	
+10-13	968-969	,	_	_	
+10-14	970-972	as	_	_	
+10-15	973-977	well	_	_	
+10-16	978-980	as	_	_	
+10-17	981-983	by	_	_	
+10-18	984-987	the	_	_	
+10-19	988-994	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+10-20	995-1001	senior	_	_	
+10-21	1002-1005	and	_	_	
+10-22	1006-1012	junior	_	_	
+10-23	1013-1022	societies	_	_	
+10-24	1023-1025	of	_	_	
+10-25	1026-1033	ringers	_	_	
+10-26	1033-1034	.	_	_	

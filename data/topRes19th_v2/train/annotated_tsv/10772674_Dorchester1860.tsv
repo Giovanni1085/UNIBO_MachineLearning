@@ -1,0 +1,592 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CORFE MULLEN.
+1-1	0-5	CORFE	https://en.wikipedia.org/wiki/Corfe\_Mullen[1]	LOC[1]	
+1-2	6-12	MULLEN	https://en.wikipedia.org/wiki/Corfe\_Mullen[1]	LOC[1]	
+1-3	12-13	.	_	_	
+
+#Text=DISASTROUS Fire.
+2-1	15-25	DISASTROUS	_	_	
+2-2	26-30	Fire	_	_	
+2-3	30-31	.	_	_	
+
+#Text=—Between one and two oclock on Friday morning a fire of a most destructive nature broke out at a farm in Corfe Mullen village, on the estate of St.
+3-1	31-32	—	_	_	
+3-2	32-39	Between	_	_	
+3-3	40-43	one	_	_	
+3-4	44-47	and	_	_	
+3-5	48-51	two	_	_	
+3-6	52-58	oclock	_	_	
+3-7	59-61	on	_	_	
+3-8	62-68	Friday	_	_	
+3-9	69-76	morning	_	_	
+3-10	77-78	a	_	_	
+3-11	79-83	fire	_	_	
+3-12	84-86	of	_	_	
+3-13	87-88	a	_	_	
+3-14	89-93	most	_	_	
+3-15	94-105	destructive	_	_	
+3-16	106-112	nature	_	_	
+3-17	113-118	broke	_	_	
+3-18	119-122	out	_	_	
+3-19	123-125	at	_	_	
+3-20	126-127	a	_	_	
+3-21	128-132	farm	_	_	
+3-22	133-135	in	_	_	
+3-23	136-141	Corfe	https://en.wikipedia.org/wiki/Corfe\_Mullen[2]	LOC[2]	
+3-24	142-148	Mullen	https://en.wikipedia.org/wiki/Corfe\_Mullen[2]	LOC[2]	
+3-25	149-156	village	_	_	
+3-26	156-157	,	_	_	
+3-27	158-160	on	_	_	
+3-28	161-164	the	_	_	
+3-29	165-171	estate	_	_	
+3-30	172-174	of	_	_	
+3-31	175-177	St	_	_	
+3-32	177-178	.	_	_	
+
+#Text=John Coventry, Esq.
+4-1	179-183	John	_	_	
+4-2	184-192	Coventry	_	_	
+4-3	192-193	,	_	_	
+4-4	194-197	Esq	_	_	
+4-5	197-198	.	_	_	
+
+#Text=Mr.
+5-1	199-201	Mr	_	_	
+5-2	201-202	.	_	_	
+
+#Text=William Perbani was just leaving the place, having sold off his stock, and transferred his lease to Mr.
+6-1	203-210	William	_	_	
+6-2	211-218	Perbani	_	_	
+6-3	219-222	was	_	_	
+6-4	223-227	just	_	_	
+6-5	228-235	leaving	_	_	
+6-6	236-239	the	_	_	
+6-7	240-245	place	_	_	
+6-8	245-246	,	_	_	
+6-9	247-253	having	_	_	
+6-10	254-258	sold	_	_	
+6-11	259-262	off	_	_	
+6-12	263-266	his	_	_	
+6-13	267-272	stock	_	_	
+6-14	272-273	,	_	_	
+6-15	274-277	and	_	_	
+6-16	278-289	transferred	_	_	
+6-17	290-293	his	_	_	
+6-18	294-299	lease	_	_	
+6-19	300-302	to	_	_	
+6-20	303-305	Mr	_	_	
+6-21	305-306	.	_	_	
+
+#Text=Jesty, of Bere Regis, the award has yet not having been completed, although Mr.
+7-1	307-312	Jesty	_	_	
+7-2	312-313	,	_	_	
+7-3	314-316	of	_	_	
+7-4	317-321	Bere	https://en.wikipedia.org/wiki/Bere\_Regis[3]	LOC[3]	
+7-5	322-327	Regis	https://en.wikipedia.org/wiki/Bere\_Regis[3]	LOC[3]	
+7-6	327-328	,	_	_	
+7-7	329-332	the	_	_	
+7-8	333-338	award	_	_	
+7-9	339-342	has	_	_	
+7-10	343-346	yet	_	_	
+7-11	347-350	not	_	_	
+7-12	351-357	having	_	_	
+7-13	358-362	been	_	_	
+7-14	363-372	completed	_	_	
+7-15	372-373	,	_	_	
+7-16	374-382	although	_	_	
+7-17	383-385	Mr	_	_	
+7-18	385-386	.	_	_	
+
+#Text=Jesty has been in possession, so that, the property not being insured, the heavy loss is likely to fall on the latter.
+8-1	387-392	Jesty	_	_	
+8-2	393-396	has	_	_	
+8-3	397-401	been	_	_	
+8-4	402-404	in	_	_	
+8-5	405-415	possession	_	_	
+8-6	415-416	,	_	_	
+8-7	417-419	so	_	_	
+8-8	420-424	that	_	_	
+8-9	424-425	,	_	_	
+8-10	426-429	the	_	_	
+8-11	430-438	property	_	_	
+8-12	439-442	not	_	_	
+8-13	443-448	being	_	_	
+8-14	449-456	insured	_	_	
+8-15	456-457	,	_	_	
+8-16	458-461	the	_	_	
+8-17	462-467	heavy	_	_	
+8-18	468-472	loss	_	_	
+8-19	473-475	is	_	_	
+8-20	476-482	likely	_	_	
+8-21	483-485	to	_	_	
+8-22	486-490	fall	_	_	
+8-23	491-493	on	_	_	
+8-24	494-497	the	_	_	
+8-25	498-504	latter	_	_	
+8-26	504-505	.	_	_	
+
+#Text=It appears that between 9 and 10oclock Mrs.
+9-1	506-508	It	_	_	
+9-2	509-516	appears	_	_	
+9-3	517-521	that	_	_	
+9-4	522-529	between	_	_	
+9-5	530-531	9	_	_	
+9-6	532-535	and	_	_	
+9-7	536-544	10oclock	_	_	
+9-8	545-548	Mrs	_	_	
+9-9	548-549	.	_	_	
+
+#Text=Perham smelt something like burning wood, and she and her servant looked partly round the stable and piggery, but discovered nothing.
+10-1	550-556	Perham	_	_	
+10-2	557-562	smelt	_	_	
+10-3	563-572	something	_	_	
+10-4	573-577	like	_	_	
+10-5	578-585	burning	_	_	
+10-6	586-590	wood	_	_	
+10-7	590-591	,	_	_	
+10-8	592-595	and	_	_	
+10-9	596-599	she	_	_	
+10-10	600-603	and	_	_	
+10-11	604-607	her	_	_	
+10-12	608-615	servant	_	_	
+10-13	616-622	looked	_	_	
+10-14	623-629	partly	_	_	
+10-15	630-635	round	_	_	
+10-16	636-639	the	_	_	
+10-17	640-646	stable	_	_	
+10-18	647-650	and	_	_	
+10-19	651-658	piggery	_	_	
+10-20	658-659	,	_	_	
+10-21	660-663	but	_	_	
+10-22	664-674	discovered	_	_	
+10-23	675-682	nothing	_	_	
+10-24	682-683	.	_	_	
+
+#Text=Mr.
+11-1	684-686	Mr	_	_	
+11-2	686-687	.	_	_	
+
+#Text=Perham came home at 10 oclock and put his horse in the stable without a light, and all appeared safe.
+12-1	688-694	Perham	_	_	
+12-2	695-699	came	_	_	
+12-3	700-704	home	_	_	
+12-4	705-707	at	_	_	
+12-5	708-710	10	_	_	
+12-6	711-717	oclock	_	_	
+12-7	718-721	and	_	_	
+12-8	722-725	put	_	_	
+12-9	726-729	his	_	_	
+12-10	730-735	horse	_	_	
+12-11	736-738	in	_	_	
+12-12	739-742	the	_	_	
+12-13	743-749	stable	_	_	
+12-14	750-757	without	_	_	
+12-15	758-759	a	_	_	
+12-16	760-765	light	_	_	
+12-17	765-766	,	_	_	
+12-18	767-770	and	_	_	
+12-19	771-774	all	_	_	
+12-20	775-783	appeared	_	_	
+12-21	784-788	safe	_	_	
+12-22	788-789	.	_	_	
+
+#Text=Mrs.
+13-1	790-793	Mrs	_	_	
+13-2	793-794	.	_	_	
+
+#Text=Perham, it appears, said nothing to her husband of her suspicion, having retired to rest at 11 oclock, and about one she awoke and saw a glare of light.
+14-1	795-801	Perham	_	_	
+14-2	801-802	,	_	_	
+14-3	803-805	it	_	_	
+14-4	806-813	appears	_	_	
+14-5	813-814	,	_	_	
+14-6	815-819	said	_	_	
+14-7	820-827	nothing	_	_	
+14-8	828-830	to	_	_	
+14-9	831-834	her	_	_	
+14-10	835-842	husband	_	_	
+14-11	843-845	of	_	_	
+14-12	846-849	her	_	_	
+14-13	850-859	suspicion	_	_	
+14-14	859-860	,	_	_	
+14-15	861-867	having	_	_	
+14-16	868-875	retired	_	_	
+14-17	876-878	to	_	_	
+14-18	879-883	rest	_	_	
+14-19	884-886	at	_	_	
+14-20	887-889	11	_	_	
+14-21	890-896	oclock	_	_	
+14-22	896-897	,	_	_	
+14-23	898-901	and	_	_	
+14-24	902-907	about	_	_	
+14-25	908-911	one	_	_	
+14-26	912-915	she	_	_	
+14-27	916-921	awoke	_	_	
+14-28	922-925	and	_	_	
+14-29	926-929	saw	_	_	
+14-30	930-931	a	_	_	
+14-31	932-937	glare	_	_	
+14-32	938-940	of	_	_	
+14-33	941-946	light	_	_	
+14-34	946-947	.	_	_	
+
+#Text=Upon getting up it was found that the mangel and waggon sheds, where a quantity of furze faggots were stowed away, were nearly down, and a poor cow and calf wero sacrificed to the devouring element.
+15-1	948-952	Upon	_	_	
+15-2	953-960	getting	_	_	
+15-3	961-963	up	_	_	
+15-4	964-966	it	_	_	
+15-5	967-970	was	_	_	
+15-6	971-976	found	_	_	
+15-7	977-981	that	_	_	
+15-8	982-985	the	_	_	
+15-9	986-992	mangel	_	_	
+15-10	993-996	and	_	_	
+15-11	997-1003	waggon	_	_	
+15-12	1004-1009	sheds	_	_	
+15-13	1009-1010	,	_	_	
+15-14	1011-1016	where	_	_	
+15-15	1017-1018	a	_	_	
+15-16	1019-1027	quantity	_	_	
+15-17	1028-1030	of	_	_	
+15-18	1031-1036	furze	_	_	
+15-19	1037-1044	faggots	_	_	
+15-20	1045-1049	were	_	_	
+15-21	1050-1056	stowed	_	_	
+15-22	1057-1061	away	_	_	
+15-23	1061-1062	,	_	_	
+15-24	1063-1067	were	_	_	
+15-25	1068-1074	nearly	_	_	
+15-26	1075-1079	down	_	_	
+15-27	1079-1080	,	_	_	
+15-28	1081-1084	and	_	_	
+15-29	1085-1086	a	_	_	
+15-30	1087-1091	poor	_	_	
+15-31	1092-1095	cow	_	_	
+15-32	1096-1099	and	_	_	
+15-33	1100-1104	calf	_	_	
+15-34	1105-1109	wero	_	_	
+15-35	1110-1120	sacrificed	_	_	
+15-36	1121-1123	to	_	_	
+15-37	1124-1127	the	_	_	
+15-38	1128-1137	devouring	_	_	
+15-39	1138-1145	element	_	_	
+15-40	1145-1146	.	_	_	
+
+#Text=The stable adjoining was also in a blaze, where there were five horses, and so rapid was the spread of tho flames that all of them perished.
+16-1	1147-1150	The	_	_	
+16-2	1151-1157	stable	_	_	
+16-3	1158-1167	adjoining	_	_	
+16-4	1168-1171	was	_	_	
+16-5	1172-1176	also	_	_	
+16-6	1177-1179	in	_	_	
+16-7	1180-1181	a	_	_	
+16-8	1182-1187	blaze	_	_	
+16-9	1187-1188	,	_	_	
+16-10	1189-1194	where	_	_	
+16-11	1195-1200	there	_	_	
+16-12	1201-1205	were	_	_	
+16-13	1206-1210	five	_	_	
+16-14	1211-1217	horses	_	_	
+16-15	1217-1218	,	_	_	
+16-16	1219-1222	and	_	_	
+16-17	1223-1225	so	_	_	
+16-18	1226-1231	rapid	_	_	
+16-19	1232-1235	was	_	_	
+16-20	1236-1239	the	_	_	
+16-21	1240-1246	spread	_	_	
+16-22	1247-1249	of	_	_	
+16-23	1250-1253	tho	_	_	
+16-24	1254-1260	flames	_	_	
+16-25	1261-1265	that	_	_	
+16-26	1266-1269	all	_	_	
+16-27	1270-1272	of	_	_	
+16-28	1273-1277	them	_	_	
+16-29	1278-1286	perished	_	_	
+16-30	1286-1287	.	_	_	
+
+#Text=The barn, containing six or seven sacks of oats, was also burnt down, besides which three waggons and the whole of the implements were destroyed, aud two hay ricks, one entirely consumed and the other partly burnt—what was saved by the Wimborne fire engine being unfit for food.
+17-1	1288-1291	The	_	_	
+17-2	1292-1296	barn	_	_	
+17-3	1296-1297	,	_	_	
+17-4	1298-1308	containing	_	_	
+17-5	1309-1312	six	_	_	
+17-6	1313-1315	or	_	_	
+17-7	1316-1321	seven	_	_	
+17-8	1322-1327	sacks	_	_	
+17-9	1328-1330	of	_	_	
+17-10	1331-1335	oats	_	_	
+17-11	1335-1336	,	_	_	
+17-12	1337-1340	was	_	_	
+17-13	1341-1345	also	_	_	
+17-14	1346-1351	burnt	_	_	
+17-15	1352-1356	down	_	_	
+17-16	1356-1357	,	_	_	
+17-17	1358-1365	besides	_	_	
+17-18	1366-1371	which	_	_	
+17-19	1372-1377	three	_	_	
+17-20	1378-1385	waggons	_	_	
+17-21	1386-1389	and	_	_	
+17-22	1390-1393	the	_	_	
+17-23	1394-1399	whole	_	_	
+17-24	1400-1402	of	_	_	
+17-25	1403-1406	the	_	_	
+17-26	1407-1417	implements	_	_	
+17-27	1418-1422	were	_	_	
+17-28	1423-1432	destroyed	_	_	
+17-29	1432-1433	,	_	_	
+17-30	1434-1437	aud	_	_	
+17-31	1438-1441	two	_	_	
+17-32	1442-1445	hay	_	_	
+17-33	1446-1451	ricks	_	_	
+17-34	1451-1452	,	_	_	
+17-35	1453-1456	one	_	_	
+17-36	1457-1465	entirely	_	_	
+17-37	1466-1474	consumed	_	_	
+17-38	1475-1478	and	_	_	
+17-39	1479-1482	the	_	_	
+17-40	1483-1488	other	_	_	
+17-41	1489-1495	partly	_	_	
+17-42	1496-1506	burnt—what	_	_	
+17-43	1507-1510	was	_	_	
+17-44	1511-1516	saved	_	_	
+17-45	1517-1519	by	_	_	
+17-46	1520-1523	the	_	_	
+17-47	1524-1532	Wimborne	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+17-48	1533-1537	fire	_	_	
+17-49	1538-1544	engine	_	_	
+17-50	1545-1550	being	_	_	
+17-51	1551-1556	unfit	_	_	
+17-52	1557-1560	for	_	_	
+17-53	1561-1565	food	_	_	
+17-54	1565-1566	.	_	_	
+
+#Text=It appears to have been the custom for the servant maid to put the ashes from the house in a heap against the end of the stable, which end was made of weather boards, and it is possible that as a good deal of wood was used for fuel that some embers may have remained from time to time imperceptible, and slowly communicated with the weather boarding, and thence to the straw in the stable, though the true cause is quite unknown.
+18-1	1567-1569	It	_	_	
+18-2	1570-1577	appears	_	_	
+18-3	1578-1580	to	_	_	
+18-4	1581-1585	have	_	_	
+18-5	1586-1590	been	_	_	
+18-6	1591-1594	the	_	_	
+18-7	1595-1601	custom	_	_	
+18-8	1602-1605	for	_	_	
+18-9	1606-1609	the	_	_	
+18-10	1610-1617	servant	_	_	
+18-11	1618-1622	maid	_	_	
+18-12	1623-1625	to	_	_	
+18-13	1626-1629	put	_	_	
+18-14	1630-1633	the	_	_	
+18-15	1634-1639	ashes	_	_	
+18-16	1640-1644	from	_	_	
+18-17	1645-1648	the	_	_	
+18-18	1649-1654	house	_	_	
+18-19	1655-1657	in	_	_	
+18-20	1658-1659	a	_	_	
+18-21	1660-1664	heap	_	_	
+18-22	1665-1672	against	_	_	
+18-23	1673-1676	the	_	_	
+18-24	1677-1680	end	_	_	
+18-25	1681-1683	of	_	_	
+18-26	1684-1687	the	_	_	
+18-27	1688-1694	stable	_	_	
+18-28	1694-1695	,	_	_	
+18-29	1696-1701	which	_	_	
+18-30	1702-1705	end	_	_	
+18-31	1706-1709	was	_	_	
+18-32	1710-1714	made	_	_	
+18-33	1715-1717	of	_	_	
+18-34	1718-1725	weather	_	_	
+18-35	1726-1732	boards	_	_	
+18-36	1732-1733	,	_	_	
+18-37	1734-1737	and	_	_	
+18-38	1738-1740	it	_	_	
+18-39	1741-1743	is	_	_	
+18-40	1744-1752	possible	_	_	
+18-41	1753-1757	that	_	_	
+18-42	1758-1760	as	_	_	
+18-43	1761-1762	a	_	_	
+18-44	1763-1767	good	_	_	
+18-45	1768-1772	deal	_	_	
+18-46	1773-1775	of	_	_	
+18-47	1776-1780	wood	_	_	
+18-48	1781-1784	was	_	_	
+18-49	1785-1789	used	_	_	
+18-50	1790-1793	for	_	_	
+18-51	1794-1798	fuel	_	_	
+18-52	1799-1803	that	_	_	
+18-53	1804-1808	some	_	_	
+18-54	1809-1815	embers	_	_	
+18-55	1816-1819	may	_	_	
+18-56	1820-1824	have	_	_	
+18-57	1825-1833	remained	_	_	
+18-58	1834-1838	from	_	_	
+18-59	1839-1843	time	_	_	
+18-60	1844-1846	to	_	_	
+18-61	1847-1851	time	_	_	
+18-62	1852-1865	imperceptible	_	_	
+18-63	1865-1866	,	_	_	
+18-64	1867-1870	and	_	_	
+18-65	1871-1877	slowly	_	_	
+18-66	1878-1890	communicated	_	_	
+18-67	1891-1895	with	_	_	
+18-68	1896-1899	the	_	_	
+18-69	1900-1907	weather	_	_	
+18-70	1908-1916	boarding	_	_	
+18-71	1916-1917	,	_	_	
+18-72	1918-1921	and	_	_	
+18-73	1922-1928	thence	_	_	
+18-74	1929-1931	to	_	_	
+18-75	1932-1935	the	_	_	
+18-76	1936-1941	straw	_	_	
+18-77	1942-1944	in	_	_	
+18-78	1945-1948	the	_	_	
+18-79	1949-1955	stable	_	_	
+18-80	1955-1956	,	_	_	
+18-81	1957-1963	though	_	_	
+18-82	1964-1967	the	_	_	
+18-83	1968-1972	true	_	_	
+18-84	1973-1978	cause	_	_	
+18-85	1979-1981	is	_	_	
+18-86	1982-1987	quite	_	_	
+18-87	1988-1995	unknown	_	_	
+18-88	1995-1996	.	_	_	
+
+#Text=Mr.
+19-1	1997-1999	Mr	_	_	
+19-2	1999-2000	.	_	_	
+
+#Text=Perham allowed his fire insurance to lapse at Christmas, and thus the loss will fall on Mr.
+20-1	2001-2007	Perham	_	_	
+20-2	2008-2015	allowed	_	_	
+20-3	2016-2019	his	_	_	
+20-4	2020-2024	fire	_	_	
+20-5	2025-2034	insurance	_	_	
+20-6	2035-2037	to	_	_	
+20-7	2038-2043	lapse	_	_	
+20-8	2044-2046	at	_	_	
+20-9	2047-2056	Christmas	_	_	
+20-10	2056-2057	,	_	_	
+20-11	2058-2061	and	_	_	
+20-12	2062-2066	thus	_	_	
+20-13	2067-2070	the	_	_	
+20-14	2071-2075	loss	_	_	
+20-15	2076-2080	will	_	_	
+20-16	2081-2085	fall	_	_	
+20-17	2086-2088	on	_	_	
+20-18	2089-2091	Mr	_	_	
+20-19	2091-2092	.	_	_	
+
+#Text=Jesty or himself, it being estimated at about £250.
+21-1	2093-2098	Jesty	_	_	
+21-2	2099-2101	or	_	_	
+21-3	2102-2109	himself	_	_	
+21-4	2109-2110	,	_	_	
+21-5	2111-2113	it	_	_	
+21-6	2114-2119	being	_	_	
+21-7	2120-2129	estimated	_	_	
+21-8	2130-2132	at	_	_	
+21-9	2133-2138	about	_	_	
+21-10	2139-2143	£250	_	_	
+21-11	2143-2144	.	_	_	
+
+#Text=The buildings are insured in the-Atlas office, Mr.
+22-1	2145-2148	The	_	_	
+22-2	2149-2158	buildings	_	_	
+22-3	2159-2162	are	_	_	
+22-4	2163-2170	insured	_	_	
+22-5	2171-2173	in	_	_	
+22-6	2174-2183	the-Atlas	_	_	
+22-7	2184-2190	office	_	_	
+22-8	2190-2191	,	_	_	
+22-9	2192-2194	Mr	_	_	
+22-10	2194-2195	.	_	_	
+
+#Text=I.
+23-1	2196-2197	I	_	_	
+23-2	2197-2198	.	_	_	
+
+#Text=O.
+24-1	2199-2200	O	_	_	
+24-2	2200-2201	.	_	_	
+
+#Text=Chislett being the agent, and also agent of the estate.
+25-1	2202-2210	Chislett	_	_	
+25-2	2211-2216	being	_	_	
+25-3	2217-2220	the	_	_	
+25-4	2221-2226	agent	_	_	
+25-5	2226-2227	,	_	_	
+25-6	2228-2231	and	_	_	
+25-7	2232-2236	also	_	_	
+25-8	2237-2242	agent	_	_	
+25-9	2243-2245	of	_	_	
+25-10	2246-2249	the	_	_	
+25-11	2250-2256	estate	_	_	
+25-12	2256-2257	.	_	_	
+
+#Text=The fire must have been very sudden or confined, as neither the police constable, who passed by the farm-yard at half-past 11 oclock, nor Mr.
+26-1	2258-2261	The	_	_	
+26-2	2262-2266	fire	_	_	
+26-3	2267-2271	must	_	_	
+26-4	2272-2276	have	_	_	
+26-5	2277-2281	been	_	_	
+26-6	2282-2286	very	_	_	
+26-7	2287-2293	sudden	_	_	
+26-8	2294-2296	or	_	_	
+26-9	2297-2305	confined	_	_	
+26-10	2305-2306	,	_	_	
+26-11	2307-2309	as	_	_	
+26-12	2310-2317	neither	_	_	
+26-13	2318-2321	the	_	_	
+26-14	2322-2328	police	_	_	
+26-15	2329-2338	constable	_	_	
+26-16	2338-2339	,	_	_	
+26-17	2340-2343	who	_	_	
+26-18	2344-2350	passed	_	_	
+26-19	2351-2353	by	_	_	
+26-20	2354-2357	the	_	_	
+26-21	2358-2367	farm-yard	_	_	
+26-22	2368-2370	at	_	_	
+26-23	2371-2380	half-past	_	_	
+26-24	2381-2383	11	_	_	
+26-25	2384-2390	oclock	_	_	
+26-26	2390-2391	,	_	_	
+26-27	2392-2395	nor	_	_	
+26-28	2396-2398	Mr	_	_	
+26-29	2398-2399	.	_	_	
+
+#Text=Perham, on his return home, saw anything ; Mrs.
+27-1	2400-2406	Perham	_	_	
+27-2	2406-2407	,	_	_	
+27-3	2408-2410	on	_	_	
+27-4	2411-2414	his	_	_	
+27-5	2415-2421	return	_	_	
+27-6	2422-2426	home	_	_	
+27-7	2426-2427	,	_	_	
+27-8	2428-2431	saw	_	_	
+27-9	2432-2440	anything	_	_	
+27-10	2441-2442	;	_	_	
+27-11	2443-2446	Mrs	_	_	
+27-12	2446-2447	.	_	_	
+
+#Text=Perham only having smelt burning wood, which is very possible to have proceeded from the ash heap.
+28-1	2448-2454	Perham	_	_	
+28-2	2455-2459	only	_	_	
+28-3	2460-2466	having	_	_	
+28-4	2467-2472	smelt	_	_	
+28-5	2473-2480	burning	_	_	
+28-6	2481-2485	wood	_	_	
+28-7	2485-2486	,	_	_	
+28-8	2487-2492	which	_	_	
+28-9	2493-2495	is	_	_	
+28-10	2496-2500	very	_	_	
+28-11	2501-2509	possible	_	_	
+28-12	2510-2512	to	_	_	
+28-13	2513-2517	have	_	_	
+28-14	2518-2527	proceeded	_	_	
+28-15	2528-2532	from	_	_	
+28-16	2533-2536	the	_	_	
+28-17	2537-2540	ash	_	_	
+28-18	2541-2545	heap	_	_	
+28-19	2545-2546	.	_	_	

@@ -1,0 +1,281 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=NOTICE.
+1-1	0-6	NOTICE	_	_	
+1-2	6-7	.	_	_	
+
+#Text=—REGULAR WEEKLY ATTENDANCE, TEETH.
+2-1	7-8	—	_	_	
+2-2	8-15	REGULAR	_	_	
+2-3	16-22	WEEKLY	_	_	
+2-4	23-33	ATTENDANCE	_	_	
+2-5	33-34	,	_	_	
+2-6	35-40	TEETH	_	_	
+2-7	40-41	.	_	_	
+
+#Text=TEETH.
+3-1	42-47	TEETH	_	_	
+3-2	47-48	.	_	_	
+
+#Text=Messrs molloy,surgeon dentists, of 112, Rusholme-road (near All Saints), Manchester, rm-y be consulted every Saturday, from Ten till Five o’clock, at 931 Stamford-slreet, Ashton, tee residence of Mr.
+4-1	50-56	Messrs	_	_	
+4-2	57-63	molloy	_	_	
+4-3	63-64	,	_	_	
+4-4	64-71	surgeon	_	_	
+4-5	72-80	dentists	_	_	
+4-6	80-81	,	_	_	
+4-7	82-84	of	_	_	
+4-8	85-88	112	_	_	
+4-9	88-89	,	_	_	
+4-10	90-103	Rusholme-road	*	STREET	
+4-11	104-105	(	_	_	
+4-12	105-109	near	_	_	
+4-13	110-113	All	*[1]	BUILDING[1]	
+4-14	114-120	Saints	*[1]	BUILDING[1]	
+4-15	120-121	)	_	_	
+4-16	121-122	,	_	_	
+4-17	123-133	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+4-18	133-134	,	_	_	
+4-19	135-139	rm-y	_	_	
+4-20	140-142	be	_	_	
+4-21	143-152	consulted	_	_	
+4-22	153-158	every	_	_	
+4-23	159-167	Saturday	_	_	
+4-24	167-168	,	_	_	
+4-25	169-173	from	_	_	
+4-26	174-177	Ten	_	_	
+4-27	178-182	till	_	_	
+4-28	183-187	Five	_	_	
+4-29	188-189	o	_	_	
+4-30	189-190	’	_	_	
+4-31	190-195	clock	_	_	
+4-32	195-196	,	_	_	
+4-33	197-199	at	_	_	
+4-34	200-203	931	_	_	
+4-35	204-219	Stamford-slreet	*	STREET	
+4-36	219-220	,	_	_	
+4-37	221-227	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+4-38	227-228	,	_	_	
+4-39	229-232	tee	_	_	
+4-40	233-242	residence	_	_	
+4-41	243-245	of	_	_	
+4-42	246-248	Mr	_	_	
+4-43	248-249	.	_	_	
+
+#Text=Bostock, Chemist.
+5-1	250-257	Bostock	_	_	
+5-2	257-258	,	_	_	
+5-3	259-266	Chemist	_	_	
+5-4	266-267	.	_	_	
+
+#Text=They continue to suppy their unrivalled MINERAL TEETH and ARTIFICIAL GUMS, which restore both the appearance of natural teeth and their usefulness in mastication.
+6-1	269-273	They	_	_	
+6-2	274-282	continue	_	_	
+6-3	283-285	to	_	_	
+6-4	286-291	suppy	_	_	
+6-5	292-297	their	_	_	
+6-6	298-308	unrivalled	_	_	
+6-7	309-316	MINERAL	_	_	
+6-8	317-322	TEETH	_	_	
+6-9	323-326	and	_	_	
+6-10	327-337	ARTIFICIAL	_	_	
+6-11	338-342	GUMS	_	_	
+6-12	342-343	,	_	_	
+6-13	344-349	which	_	_	
+6-14	350-357	restore	_	_	
+6-15	358-362	both	_	_	
+6-16	363-366	the	_	_	
+6-17	367-377	appearance	_	_	
+6-18	378-380	of	_	_	
+6-19	381-388	natural	_	_	
+6-20	389-394	teeth	_	_	
+6-21	395-398	and	_	_	
+6-22	399-404	their	_	_	
+6-23	405-415	usefulness	_	_	
+6-24	416-418	in	_	_	
+6-25	419-430	mastication	_	_	
+6-26	430-431	.	_	_	
+
+#Text=Their method of fixing them defies detection and dispenses with all painful operations.
+7-1	432-437	Their	_	_	
+7-2	438-444	method	_	_	
+7-3	445-447	of	_	_	
+7-4	448-454	fixing	_	_	
+7-5	455-459	them	_	_	
+7-6	460-466	defies	_	_	
+7-7	467-476	detection	_	_	
+7-8	477-480	and	_	_	
+7-9	481-490	dispenses	_	_	
+7-10	491-495	with	_	_	
+7-11	496-499	all	_	_	
+7-12	500-507	painful	_	_	
+7-13	508-518	operations	_	_	
+7-14	518-519	.	_	_	
+
+#Text=Mersrs.
+8-1	520-526	Mersrs	_	_	
+8-2	526-527	.	_	_	
+
+#Text=Molloy’s method of applying the PATENT GUMCOLOURED VULCANITE restores the deficiency of the gums and teeth, the natural appearance of the featu-es, and is particularly applicable in those cases in which from old age or long loss of the teeth the gums have become sarnnk or wasted.
+9-1	528-534	Molloy	_	_	
+9-2	534-535	’	_	_	
+9-3	535-536	s	_	_	
+9-4	537-543	method	_	_	
+9-5	544-546	of	_	_	
+9-6	547-555	applying	_	_	
+9-7	556-559	the	_	_	
+9-8	560-566	PATENT	_	_	
+9-9	567-578	GUMCOLOURED	_	_	
+9-10	579-588	VULCANITE	_	_	
+9-11	589-597	restores	_	_	
+9-12	598-601	the	_	_	
+9-13	602-612	deficiency	_	_	
+9-14	613-615	of	_	_	
+9-15	616-619	the	_	_	
+9-16	620-624	gums	_	_	
+9-17	625-628	and	_	_	
+9-18	629-634	teeth	_	_	
+9-19	634-635	,	_	_	
+9-20	636-639	the	_	_	
+9-21	640-647	natural	_	_	
+9-22	648-658	appearance	_	_	
+9-23	659-661	of	_	_	
+9-24	662-665	the	_	_	
+9-25	666-674	featu-es	_	_	
+9-26	674-675	,	_	_	
+9-27	676-679	and	_	_	
+9-28	680-682	is	_	_	
+9-29	683-695	particularly	_	_	
+9-30	696-706	applicable	_	_	
+9-31	707-709	in	_	_	
+9-32	710-715	those	_	_	
+9-33	716-721	cases	_	_	
+9-34	722-724	in	_	_	
+9-35	725-730	which	_	_	
+9-36	731-735	from	_	_	
+9-37	736-739	old	_	_	
+9-38	740-743	age	_	_	
+9-39	744-746	or	_	_	
+9-40	747-751	long	_	_	
+9-41	752-756	loss	_	_	
+9-42	757-759	of	_	_	
+9-43	760-763	the	_	_	
+9-44	764-769	teeth	_	_	
+9-45	770-773	the	_	_	
+9-46	774-778	gums	_	_	
+9-47	779-783	have	_	_	
+9-48	784-790	become	_	_	
+9-49	791-797	sarnnk	_	_	
+9-50	798-800	or	_	_	
+9-51	801-807	wasted	_	_	
+9-52	807-808	.	_	_	
+
+#Text=By theuseof this perfectly incorrodible, light, and flexible material, from one to a com pie e set of aitifioial teeth may be worn with the greatest comfort, perfo-ming all the functions of natu-ai teeth without causing the slightest pain or inconvenience, and can be removed and replaced with the greatest ease.
+10-1	809-811	By	_	_	
+10-2	812-820	theuseof	_	_	
+10-3	821-825	this	_	_	
+10-4	826-835	perfectly	_	_	
+10-5	836-848	incorrodible	_	_	
+10-6	848-849	,	_	_	
+10-7	850-855	light	_	_	
+10-8	855-856	,	_	_	
+10-9	857-860	and	_	_	
+10-10	861-869	flexible	_	_	
+10-11	870-878	material	_	_	
+10-12	878-879	,	_	_	
+10-13	880-884	from	_	_	
+10-14	885-888	one	_	_	
+10-15	889-891	to	_	_	
+10-16	892-893	a	_	_	
+10-17	894-897	com	_	_	
+10-18	898-901	pie	_	_	
+10-19	902-903	e	_	_	
+10-20	904-907	set	_	_	
+10-21	908-910	of	_	_	
+10-22	911-921	aitifioial	_	_	
+10-23	922-927	teeth	_	_	
+10-24	928-931	may	_	_	
+10-25	932-934	be	_	_	
+10-26	935-939	worn	_	_	
+10-27	940-944	with	_	_	
+10-28	945-948	the	_	_	
+10-29	949-957	greatest	_	_	
+10-30	958-965	comfort	_	_	
+10-31	965-966	,	_	_	
+10-32	967-977	perfo-ming	_	_	
+10-33	978-981	all	_	_	
+10-34	982-985	the	_	_	
+10-35	986-995	functions	_	_	
+10-36	996-998	of	_	_	
+10-37	999-1006	natu-ai	_	_	
+10-38	1007-1012	teeth	_	_	
+10-39	1013-1020	without	_	_	
+10-40	1021-1028	causing	_	_	
+10-41	1029-1032	the	_	_	
+10-42	1033-1042	slightest	_	_	
+10-43	1043-1047	pain	_	_	
+10-44	1048-1050	or	_	_	
+10-45	1051-1064	inconvenience	_	_	
+10-46	1064-1065	,	_	_	
+10-47	1066-1069	and	_	_	
+10-48	1070-1073	can	_	_	
+10-49	1074-1076	be	_	_	
+10-50	1077-1084	removed	_	_	
+10-51	1085-1088	and	_	_	
+10-52	1089-1097	replaced	_	_	
+10-53	1098-1102	with	_	_	
+10-54	1103-1106	the	_	_	
+10-55	1107-1115	greatest	_	_	
+10-56	1116-1120	ease	_	_	
+10-57	1120-1121	.	_	_	
+
+#Text=Tneir WHITE ENAMEL restores black and decayed teeth to tneir original whiteness, prevents toothache, and makes a hollow tooth sound and useful for many years.
+11-1	1122-1127	Tneir	_	_	
+11-2	1128-1133	WHITE	_	_	
+11-3	1134-1140	ENAMEL	_	_	
+11-4	1141-1149	restores	_	_	
+11-5	1150-1155	black	_	_	
+11-6	1156-1159	and	_	_	
+11-7	1160-1167	decayed	_	_	
+11-8	1168-1173	teeth	_	_	
+11-9	1174-1176	to	_	_	
+11-10	1177-1182	tneir	_	_	
+11-11	1183-1191	original	_	_	
+11-12	1192-1201	whiteness	_	_	
+11-13	1201-1202	,	_	_	
+11-14	1203-1211	prevents	_	_	
+11-15	1212-1221	toothache	_	_	
+11-16	1221-1222	,	_	_	
+11-17	1223-1226	and	_	_	
+11-18	1227-1232	makes	_	_	
+11-19	1233-1234	a	_	_	
+11-20	1235-1241	hollow	_	_	
+11-21	1242-1247	tooth	_	_	
+11-22	1248-1253	sound	_	_	
+11-23	1254-1257	and	_	_	
+11-24	1258-1264	useful	_	_	
+11-25	1265-1268	for	_	_	
+11-26	1269-1273	many	_	_	
+11-27	1274-1279	years	_	_	
+11-28	1279-1280	.	_	_	
+
+#Text=Terms—A single teoth from ss.
+12-1	1281-1288	Terms—A	_	_	
+12-2	1289-1295	single	_	_	
+12-3	1296-1301	teoth	_	_	
+12-4	1302-1306	from	_	_	
+12-5	1307-1309	ss	_	_	
+12-6	1309-1310	.	_	_	
+
+#Text=Attendance every Saturday at 231, Stamford-street, Ashton
+13-1	1312-1322	Attendance	_	_	
+13-2	1323-1328	every	_	_	
+13-3	1329-1337	Saturday	_	_	
+13-4	1338-1340	at	_	_	
+13-5	1341-1344	231	_	_	
+13-6	1344-1345	,	_	_	
+13-7	1346-1361	Stamford-street	*	STREET	
+13-8	1361-1362	,	_	_	
+13-9	1363-1369	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	

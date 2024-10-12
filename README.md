@@ -10,13 +10,18 @@ This repository is part of the course [Machine Learning for the Arts&Humanities]
 2. [Linear classification](2_linear_classification.ipynb)
 3. [PyTorch](3_pytorch.ipynb)
 4. [Machine Vision](4_machine_vision.ipynb)
-5. Language Processing
-6. Generative AI
+5. [Language Processing](5_language_processing.ipynb)
+6. [Retrieval Augmented Generation](rag_app)
 
 ## Datasets and exercises
 
-We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data), available in the [Data folder](data/). Additional datasets are borrowed from:
+We will use several **datasets**, available in the [Data folder](data/). 
+
+These datasets include:
+* [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS/tree/master/data), various datasets.
 * [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1) from the Programming Historian series.
+* [British Library 19th century books](https://github.com/mromanello/ADA-DHOxSS/tree/master/data#british-library-19th-century-books).
+* [TopRes19th dataset](https://github.com/hipe-eval/HIPE-2022-data/blob/main/documentation/README-topres19th.md#topres19th-dataset).
 
 ## Setting-up your working environment
 

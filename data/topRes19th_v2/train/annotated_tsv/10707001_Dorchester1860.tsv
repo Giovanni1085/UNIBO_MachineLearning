@@ -1,0 +1,334 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=SCOTLAND.
+1-1	0-8	SCOTLAND	https://en.wikipedia.org/wiki/Scotland	LOC	
+1-2	8-9	.	_	_	
+
+#Text=Extraordinary Lunacy Case.
+2-1	11-24	Extraordinary	_	_	
+2-2	25-31	Lunacy	_	_	
+2-3	32-36	Case	_	_	
+2-4	36-37	.	_	_	
+
+#Text=A seven days jury trial was concluded at Edinburgh on Friday laßt, in which Mr.
+3-1	38-39	A	_	_	
+3-2	40-45	seven	_	_	
+3-3	46-50	days	_	_	
+3-4	51-55	jury	_	_	
+3-5	56-61	trial	_	_	
+3-6	62-65	was	_	_	
+3-7	66-75	concluded	_	_	
+3-8	76-78	at	_	_	
+3-9	79-88	Edinburgh	https://en.wikipedia.org/wiki/Edinburgh	LOC	
+3-10	89-91	on	_	_	
+3-11	92-98	Friday	_	_	
+3-12	99-103	laßt	_	_	
+3-13	103-104	,	_	_	
+3-14	105-107	in	_	_	
+3-15	108-113	which	_	_	
+3-16	114-116	Mr	_	_	
+3-17	116-117	.	_	_	
+
+#Text=Angus Macintosh, of Holme, a proprietor in Invernessshire, in possession of estates yielding him several thousands a year, sought £5,000 damages from Dr.
+4-1	118-123	Angus	_	_	
+4-2	124-133	Macintosh	_	_	
+4-3	133-134	,	_	_	
+4-4	135-137	of	_	_	
+4-5	138-143	Holme	_	_	
+4-6	143-144	,	_	_	
+4-7	145-146	a	_	_	
+4-8	147-157	proprietor	_	_	
+4-9	158-160	in	_	_	
+4-10	161-175	Invernessshire	https://en.wikipedia.org/wiki/Inverness-shire	LOC	
+4-11	175-176	,	_	_	
+4-12	177-179	in	_	_	
+4-13	180-190	possession	_	_	
+4-14	191-193	of	_	_	
+4-15	194-201	estates	_	_	
+4-16	202-210	yielding	_	_	
+4-17	211-214	him	_	_	
+4-18	215-222	several	_	_	
+4-19	223-232	thousands	_	_	
+4-20	233-234	a	_	_	
+4-21	235-239	year	_	_	
+4-22	239-240	,	_	_	
+4-23	241-247	sought	_	_	
+4-24	248-254	£5,000	_	_	
+4-25	255-262	damages	_	_	
+4-26	263-267	from	_	_	
+4-27	268-270	Dr	_	_	
+4-28	270-271	.	_	_	
+
+#Text=John Smith and Dr.
+5-1	272-276	John	_	_	
+5-2	277-282	Smith	_	_	
+5-3	283-286	and	_	_	
+5-4	287-289	Dr	_	_	
+5-5	289-290	.	_	_	
+
+#Text=Lowe, proprietors of Saughton-Hall Asylum, a first-class private institution for the insane, on the ground of wrongous and illegal detention there.
+6-1	291-295	Lowe	_	_	
+6-2	295-296	,	_	_	
+6-3	297-308	proprietors	_	_	
+6-4	309-311	of	_	_	
+6-5	312-325	Saughton-Hall	*[1]	BUILDING[1]	
+6-6	326-332	Asylum	*[1]	BUILDING[1]	
+6-7	332-333	,	_	_	
+6-8	334-335	a	_	_	
+6-9	336-347	first-class	_	_	
+6-10	348-355	private	_	_	
+6-11	356-367	institution	_	_	
+6-12	368-371	for	_	_	
+6-13	372-375	the	_	_	
+6-14	376-382	insane	_	_	
+6-15	382-383	,	_	_	
+6-16	384-386	on	_	_	
+6-17	387-390	the	_	_	
+6-18	391-397	ground	_	_	
+6-19	398-400	of	_	_	
+6-20	401-409	wrongous	_	_	
+6-21	410-413	and	_	_	
+6-22	414-421	illegal	_	_	
+6-23	422-431	detention	_	_	
+6-24	432-437	there	_	_	
+6-25	437-438	.	_	_	
+
+#Text=The detention took place so far back as from the 13th of June to the 20th of July, 1852, when, through connivance of one of the keepers, Mr.
+7-1	439-442	The	_	_	
+7-2	443-452	detention	_	_	
+7-3	453-457	took	_	_	
+7-4	458-463	place	_	_	
+7-5	464-466	so	_	_	
+7-6	467-470	far	_	_	
+7-7	471-475	back	_	_	
+7-8	476-478	as	_	_	
+7-9	479-483	from	_	_	
+7-10	484-487	the	_	_	
+7-11	488-492	13th	_	_	
+7-12	493-495	of	_	_	
+7-13	496-500	June	_	_	
+7-14	501-503	to	_	_	
+7-15	504-507	the	_	_	
+7-16	508-512	20th	_	_	
+7-17	513-515	of	_	_	
+7-18	516-520	July	_	_	
+7-19	520-521	,	_	_	
+7-20	522-526	1852	_	_	
+7-21	526-527	,	_	_	
+7-22	528-532	when	_	_	
+7-23	532-533	,	_	_	
+7-24	534-541	through	_	_	
+7-25	542-552	connivance	_	_	
+7-26	553-555	of	_	_	
+7-27	556-559	one	_	_	
+7-28	560-562	of	_	_	
+7-29	563-566	the	_	_	
+7-30	567-574	keepers	_	_	
+7-31	574-575	,	_	_	
+7-32	576-578	Mr	_	_	
+7-33	578-579	.	_	_	
+
+#Text=Macintosh succeeded in escaping.
+8-1	580-589	Macintosh	_	_	
+8-2	590-599	succeeded	_	_	
+8-3	600-602	in	_	_	
+8-4	603-611	escaping	_	_	
+8-5	611-612	.	_	_	
+
+#Text=An action was brought against the defenders in 1853, but was abandoned, and a similar suit was at the same time instituted against Drs.
+9-1	613-615	An	_	_	
+9-2	616-622	action	_	_	
+9-3	623-626	was	_	_	
+9-4	627-634	brought	_	_	
+9-5	635-642	against	_	_	
+9-6	643-646	the	_	_	
+9-7	647-656	defenders	_	_	
+9-8	657-659	in	_	_	
+9-9	660-664	1853	_	_	
+9-10	664-665	,	_	_	
+9-11	666-669	but	_	_	
+9-12	670-673	was	_	_	
+9-13	674-683	abandoned	_	_	
+9-14	683-684	,	_	_	
+9-15	685-688	and	_	_	
+9-16	689-690	a	_	_	
+9-17	691-698	similar	_	_	
+9-18	699-703	suit	_	_	
+9-19	704-707	was	_	_	
+9-20	708-710	at	_	_	
+9-21	711-714	the	_	_	
+9-22	715-719	same	_	_	
+9-23	720-724	time	_	_	
+9-24	725-735	instituted	_	_	
+9-25	736-743	against	_	_	
+9-26	744-747	Drs	_	_	
+9-27	747-748	.	_	_	
+
+#Text=Glover and Weir, who signed the medical certificate, and Mr.
+10-1	749-755	Glover	_	_	
+10-2	756-759	and	_	_	
+10-3	760-764	Weir	_	_	
+10-4	764-765	,	_	_	
+10-5	766-769	who	_	_	
+10-6	770-776	signed	_	_	
+10-7	777-780	the	_	_	
+10-8	781-788	medical	_	_	
+10-9	789-800	certificate	_	_	
+10-10	800-801	,	_	_	
+10-11	802-805	and	_	_	
+10-12	806-808	Mr	_	_	
+10-13	808-809	.	_	_	
+
+#Text=Hugh Fraser, writer to the Signet, who applied to the sheriff for a warrant for the pursuers confinement.
+11-1	810-814	Hugh	_	_	
+11-2	815-821	Fraser	_	_	
+11-3	821-822	,	_	_	
+11-4	823-829	writer	_	_	
+11-5	830-832	to	_	_	
+11-6	833-836	the	_	_	
+11-7	837-843	Signet	_	_	
+11-8	843-844	,	_	_	
+11-9	845-848	who	_	_	
+11-10	849-856	applied	_	_	
+11-11	857-859	to	_	_	
+11-12	860-863	the	_	_	
+11-13	864-871	sheriff	_	_	
+11-14	872-875	for	_	_	
+11-15	876-877	a	_	_	
+11-16	878-885	warrant	_	_	
+11-17	886-889	for	_	_	
+11-18	890-893	the	_	_	
+11-19	894-902	pursuers	_	_	
+11-20	903-914	confinement	_	_	
+11-21	914-915	.	_	_	
+
+#Text=On the 29th of July, 1859, after a five days trial, the jury returned an unanimous verdict that the pursuer was insane at the time, and was justifiably sent to the asylum and detained there.
+12-1	916-918	On	_	_	
+12-2	919-922	the	_	_	
+12-3	923-927	29th	_	_	
+12-4	928-930	of	_	_	
+12-5	931-935	July	_	_	
+12-6	935-936	,	_	_	
+12-7	937-941	1859	_	_	
+12-8	941-942	,	_	_	
+12-9	943-948	after	_	_	
+12-10	949-950	a	_	_	
+12-11	951-955	five	_	_	
+12-12	956-960	days	_	_	
+12-13	961-966	trial	_	_	
+12-14	966-967	,	_	_	
+12-15	968-971	the	_	_	
+12-16	972-976	jury	_	_	
+12-17	977-985	returned	_	_	
+12-18	986-988	an	_	_	
+12-19	989-998	unanimous	_	_	
+12-20	999-1006	verdict	_	_	
+12-21	1007-1011	that	_	_	
+12-22	1012-1015	the	_	_	
+12-23	1016-1023	pursuer	_	_	
+12-24	1024-1027	was	_	_	
+12-25	1028-1034	insane	_	_	
+12-26	1035-1037	at	_	_	
+12-27	1038-1041	the	_	_	
+12-28	1042-1046	time	_	_	
+12-29	1046-1047	,	_	_	
+12-30	1048-1051	and	_	_	
+12-31	1052-1055	was	_	_	
+12-32	1056-1067	justifiably	_	_	
+12-33	1068-1072	sent	_	_	
+12-34	1073-1075	to	_	_	
+12-35	1076-1079	the	_	_	
+12-36	1080-1086	asylum	_	_	
+12-37	1087-1090	and	_	_	
+12-38	1091-1099	detained	_	_	
+12-39	1100-1105	there	_	_	
+12-40	1105-1106	.	_	_	
+
+#Text=The present action against his custodiers was instituted °nly in May, 1863, and now came to trial.
+13-1	1107-1110	The	_	_	
+13-2	1111-1118	present	_	_	
+13-3	1119-1125	action	_	_	
+13-4	1126-1133	against	_	_	
+13-5	1134-1137	his	_	_	
+13-6	1138-1148	custodiers	_	_	
+13-7	1149-1152	was	_	_	
+13-8	1153-1163	instituted	_	_	
+13-9	1164-1165	°	_	_	
+13-10	1165-1168	nly	_	_	
+13-11	1169-1171	in	_	_	
+13-12	1172-1175	May	_	_	
+13-13	1175-1176	,	_	_	
+13-14	1177-1181	1863	_	_	
+13-15	1181-1182	,	_	_	
+13-16	1183-1186	and	_	_	
+13-17	1187-1190	now	_	_	
+13-18	1191-1195	came	_	_	
+13-19	1196-1198	to	_	_	
+13-20	1199-1204	trial	_	_	
+13-21	1204-1205	.	_	_	
+
+#Text=The jury were absent about three hours, and returned a verdict hy nine to three in favour of the defenders, a recent statute in Scotland enabling a divided jury in Scotland to give a verdict by three-fourths of their number alter three hours deliberation.
+14-1	1206-1209	The	_	_	
+14-2	1210-1214	jury	_	_	
+14-3	1215-1219	were	_	_	
+14-4	1220-1226	absent	_	_	
+14-5	1227-1232	about	_	_	
+14-6	1233-1238	three	_	_	
+14-7	1239-1244	hours	_	_	
+14-8	1244-1245	,	_	_	
+14-9	1246-1249	and	_	_	
+14-10	1250-1258	returned	_	_	
+14-11	1259-1260	a	_	_	
+14-12	1261-1268	verdict	_	_	
+14-13	1269-1271	hy	_	_	
+14-14	1272-1276	nine	_	_	
+14-15	1277-1279	to	_	_	
+14-16	1280-1285	three	_	_	
+14-17	1286-1288	in	_	_	
+14-18	1289-1295	favour	_	_	
+14-19	1296-1298	of	_	_	
+14-20	1299-1302	the	_	_	
+14-21	1303-1312	defenders	_	_	
+14-22	1312-1313	,	_	_	
+14-23	1314-1315	a	_	_	
+14-24	1316-1322	recent	_	_	
+14-25	1323-1330	statute	_	_	
+14-26	1331-1333	in	_	_	
+14-27	1334-1342	Scotland	https://en.wikipedia.org/wiki/Scotland	LOC	
+14-28	1343-1351	enabling	_	_	
+14-29	1352-1353	a	_	_	
+14-30	1354-1361	divided	_	_	
+14-31	1362-1366	jury	_	_	
+14-32	1367-1369	in	_	_	
+14-33	1370-1378	Scotland	https://en.wikipedia.org/wiki/Scotland	LOC	
+14-34	1379-1381	to	_	_	
+14-35	1382-1386	give	_	_	
+14-36	1387-1388	a	_	_	
+14-37	1389-1396	verdict	_	_	
+14-38	1397-1399	by	_	_	
+14-39	1400-1413	three-fourths	_	_	
+14-40	1414-1416	of	_	_	
+14-41	1417-1422	their	_	_	
+14-42	1423-1429	number	_	_	
+14-43	1430-1435	alter	_	_	
+14-44	1436-1441	three	_	_	
+14-45	1442-1447	hours	_	_	
+14-46	1448-1460	deliberation	_	_	
+14-47	1460-1461	.	_	_	
+
+#Text=The verdict was received in court with loud cheering and some hissing.
+15-1	1462-1465	The	_	_	
+15-2	1466-1473	verdict	_	_	
+15-3	1474-1477	was	_	_	
+15-4	1478-1486	received	_	_	
+15-5	1487-1489	in	_	_	
+15-6	1490-1495	court	_	_	
+15-7	1496-1500	with	_	_	
+15-8	1501-1505	loud	_	_	
+15-9	1506-1514	cheering	_	_	
+15-10	1515-1518	and	_	_	
+15-11	1519-1523	some	_	_	
+15-12	1524-1531	hissing	_	_	
+15-13	1531-1532	.	_	_	

@@ -1,0 +1,240 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=DEVONSHIRE.
+1-1	0-10	DEVONSHIRE	https://en.wikipedia.org/wiki/Devon	LOC	
+1-2	10-11	.	_	_	
+
+#Text=EXETER.
+2-1	13-19	EXETER	https://en.wikipedia.org/wiki/Exeter	LOC	
+2-2	19-20	.	_	_	
+
+#Text=Ecclesiastical Commission.
+3-1	21-35	Ecclesiastical	_	_	
+3-2	36-46	Commission	_	_	
+3-3	46-47	.	_	_	
+
+#Text=—Five clergymen, composing a commission appointed by the Bishop of Exeter, sat on Tuesday and Wednesday, to inquire into the following charges made against the Rev.
+4-1	47-48	—	_	_	
+4-2	48-52	Five	_	_	
+4-3	53-62	clergymen	_	_	
+4-4	62-63	,	_	_	
+4-5	64-73	composing	_	_	
+4-6	74-75	a	_	_	
+4-7	76-86	commission	_	_	
+4-8	87-96	appointed	_	_	
+4-9	97-99	by	_	_	
+4-10	100-103	the	_	_	
+4-11	104-110	Bishop	_	_	
+4-12	111-113	of	_	_	
+4-13	114-120	Exeter	https://en.wikipedia.org/wiki/Exeter	LOC	
+4-14	120-121	,	_	_	
+4-15	122-125	sat	_	_	
+4-16	126-128	on	_	_	
+4-17	129-136	Tuesday	_	_	
+4-18	137-140	and	_	_	
+4-19	141-150	Wednesday	_	_	
+4-20	150-151	,	_	_	
+4-21	152-154	to	_	_	
+4-22	155-162	inquire	_	_	
+4-23	163-167	into	_	_	
+4-24	168-171	the	_	_	
+4-25	172-181	following	_	_	
+4-26	182-189	charges	_	_	
+4-27	190-194	made	_	_	
+4-28	195-202	against	_	_	
+4-29	203-206	the	_	_	
+4-30	207-210	Rev	_	_	
+4-31	210-211	.	_	_	
+
+#Text=T.
+5-1	212-213	T	_	_	
+5-2	213-214	.	_	_	
+
+#Text=B.
+6-1	215-216	B	_	_	
+6-2	216-217	.	_	_	
+
+#Text=Simpson, incumbent of East Teignmoutb, by Mr.
+7-1	218-225	Simpson	_	_	
+7-2	225-226	,	_	_	
+7-3	227-236	incumbent	_	_	
+7-4	237-239	of	_	_	
+7-5	240-244	East	https://en.wikipedia.org/wiki/Teignmouth[1]	LOC[1]	
+7-6	245-255	Teignmoutb	https://en.wikipedia.org/wiki/Teignmouth[1]	LOC[1]	
+7-7	255-256	,	_	_	
+7-8	257-259	by	_	_	
+7-9	260-262	Mr	_	_	
+7-10	262-263	.	_	_	
+
+#Text=T.
+8-1	264-265	T	_	_	
+8-2	265-266	.	_	_	
+
+#Text=Flamank, one of the churchwardenf:—First, having lights on the Communion Table when not required for the purpose of giving light.
+9-1	267-274	Flamank	_	_	
+9-2	274-275	,	_	_	
+9-3	276-279	one	_	_	
+9-4	280-282	of	_	_	
+9-5	283-286	the	_	_	
+9-6	287-300	churchwardenf	_	_	
+9-7	300-301	:	_	_	
+9-8	301-302	—	_	_	
+9-9	302-307	First	_	_	
+9-10	307-308	,	_	_	
+9-11	309-315	having	_	_	
+9-12	316-322	lights	_	_	
+9-13	323-325	on	_	_	
+9-14	326-329	the	_	_	
+9-15	330-339	Communion	_	_	
+9-16	340-345	Table	_	_	
+9-17	346-350	when	_	_	
+9-18	351-354	not	_	_	
+9-19	355-363	required	_	_	
+9-20	364-367	for	_	_	
+9-21	368-371	the	_	_	
+9-22	372-379	purpose	_	_	
+9-23	380-382	of	_	_	
+9-24	383-389	giving	_	_	
+9-25	390-395	light	_	_	
+9-26	395-396	.	_	_	
+
+#Text=Second, mixing water with the wine, immediately before consecrating tbe elements for celebrating tbe Holy Communion.
+10-1	397-403	Second	_	_	
+10-2	403-404	,	_	_	
+10-3	405-411	mixing	_	_	
+10-4	412-417	water	_	_	
+10-5	418-422	with	_	_	
+10-6	423-426	the	_	_	
+10-7	427-431	wine	_	_	
+10-8	431-432	,	_	_	
+10-9	433-444	immediately	_	_	
+10-10	445-451	before	_	_	
+10-11	452-464	consecrating	_	_	
+10-12	465-468	tbe	_	_	
+10-13	469-477	elements	_	_	
+10-14	478-481	for	_	_	
+10-15	482-493	celebrating	_	_	
+10-16	494-497	tbe	_	_	
+10-17	498-502	Holy	_	_	
+10-18	503-512	Communion	_	_	
+10-19	512-513	.	_	_	
+
+#Text=Third, after the prayer of consecration raising the paten with both bands above his head.
+11-1	514-519	Third	_	_	
+11-2	519-520	,	_	_	
+11-3	521-526	after	_	_	
+11-4	527-530	the	_	_	
+11-5	531-537	prayer	_	_	
+11-6	538-540	of	_	_	
+11-7	541-553	consecration	_	_	
+11-8	554-561	raising	_	_	
+11-9	562-565	the	_	_	
+11-10	566-571	paten	_	_	
+11-11	572-576	with	_	_	
+11-12	577-581	both	_	_	
+11-13	582-587	bands	_	_	
+11-14	588-593	above	_	_	
+11-15	594-597	his	_	_	
+11-16	598-602	head	_	_	
+11-17	602-603	.	_	_	
+
+#Text=Fourth, when the alms are collected at the Communion Service placing them, not on the table, but on a stool at the side.
+12-1	604-610	Fourth	_	_	
+12-2	610-611	,	_	_	
+12-3	612-616	when	_	_	
+12-4	617-620	the	_	_	
+12-5	621-625	alms	_	_	
+12-6	626-629	are	_	_	
+12-7	630-639	collected	_	_	
+12-8	640-642	at	_	_	
+12-9	643-646	the	_	_	
+12-10	647-656	Communion	_	_	
+12-11	657-664	Service	_	_	
+12-12	665-672	placing	_	_	
+12-13	673-677	them	_	_	
+12-14	677-678	,	_	_	
+12-15	679-682	not	_	_	
+12-16	683-685	on	_	_	
+12-17	686-689	the	_	_	
+12-18	690-695	table	_	_	
+12-19	695-696	,	_	_	
+12-20	697-700	but	_	_	
+12-21	701-703	on	_	_	
+12-22	704-705	a	_	_	
+12-23	706-711	stool	_	_	
+12-24	712-714	at	_	_	
+12-25	715-718	the	_	_	
+12-26	719-723	side	_	_	
+12-27	723-724	.	_	_	
+
+#Text=Fifth, omitting the word "all" from the concluding prayer, commencing " The grace of our Lord."
+13-1	725-730	Fifth	_	_	
+13-2	730-731	,	_	_	
+13-3	732-740	omitting	_	_	
+13-4	741-744	the	_	_	
+13-5	745-749	word	_	_	
+13-6	750-751	"	_	_	
+13-7	751-754	all	_	_	
+13-8	754-755	"	_	_	
+13-9	756-760	from	_	_	
+13-10	761-764	the	_	_	
+13-11	765-775	concluding	_	_	
+13-12	776-782	prayer	_	_	
+13-13	782-783	,	_	_	
+13-14	784-794	commencing	_	_	
+13-15	795-796	"	_	_	
+13-16	797-800	The	_	_	
+13-17	801-806	grace	_	_	
+13-18	807-809	of	_	_	
+13-19	810-813	our	_	_	
+13-20	814-818	Lord	_	_	
+13-21	818-819	.	_	_	
+13-22	819-820	"	_	_	
+
+#Text=After taking evidence, and hearing Dr.
+14-1	821-826	After	_	_	
+14-2	827-833	taking	_	_	
+14-3	834-842	evidence	_	_	
+14-4	842-843	,	_	_	
+14-5	844-847	and	_	_	
+14-6	848-855	hearing	_	_	
+14-7	856-858	Dr	_	_	
+14-8	858-859	.	_	_	
+
+#Text=Stephens and Dr.
+15-1	860-868	Stephens	_	_	
+15-2	869-872	and	_	_	
+15-3	873-875	Dr	_	_	
+15-4	875-876	.	_	_	
+
+#Text=Deane pro and con. the Chancellor said it was the unanimous opinion of the commissioners that there were sufficient prima facie grounds for instituting further proceedings.
+16-1	877-882	Deane	_	_	
+16-2	883-886	pro	_	_	
+16-3	887-890	and	_	_	
+16-4	891-894	con	_	_	
+16-5	894-895	.	_	_	
+16-6	896-899	the	_	_	
+16-7	900-910	Chancellor	_	_	
+16-8	911-915	said	_	_	
+16-9	916-918	it	_	_	
+16-10	919-922	was	_	_	
+16-11	923-926	the	_	_	
+16-12	927-936	unanimous	_	_	
+16-13	937-944	opinion	_	_	
+16-14	945-947	of	_	_	
+16-15	948-951	the	_	_	
+16-16	952-965	commissioners	_	_	
+16-17	966-970	that	_	_	
+16-18	971-976	there	_	_	
+16-19	977-981	were	_	_	
+16-20	982-992	sufficient	_	_	
+16-21	993-998	prima	_	_	
+16-22	999-1004	facie	_	_	
+16-23	1005-1012	grounds	_	_	
+16-24	1013-1016	for	_	_	
+16-25	1017-1028	instituting	_	_	
+16-26	1029-1036	further	_	_	
+16-27	1037-1048	proceedings	_	_	
+16-28	1048-1049	.	_	_	

@@ -1,0 +1,519 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WEYMOUTH:—W EDNESDAY, June 9, 
+#Text=Fashionable Arrivals.
+1-1	0-8	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-2	8-9	:	_	_	
+1-3	9-10	—	_	_	
+1-4	10-11	W	_	_	
+1-5	12-20	EDNESDAY	_	_	
+1-6	20-21	,	_	_	
+1-7	22-26	June	_	_	
+1-8	27-28	9	_	_	
+1-9	28-29	,	_	_	
+1-10	31-42	Fashionable	_	_	
+1-11	43-51	Arrivals	_	_	
+1-12	51-52	.	_	_	
+
+#Text=—Col. and Mis.
+2-1	52-53	—	_	_	
+2-2	53-56	Col	_	_	
+2-3	56-57	.	_	_	
+2-4	58-61	and	_	_	
+2-5	62-65	Mis	_	_	
+2-6	65-66	.	_	_	
+
+#Text=Sherston, Hon.
+3-1	67-75	Sherston	_	_	
+3-2	75-76	,	_	_	
+3-3	77-80	Hon	_	_	
+3-4	80-81	.	_	_	
+
+#Text=Mrs.
+4-1	82-85	Mrs	_	_	
+4-2	85-86	.	_	_	
+
+#Text=Harris, Co!
+5-1	87-93	Harris	_	_	
+5-2	93-94	,	_	_	
+5-3	95-97	Co	_	_	
+5-4	97-98	!	_	_	
+
+#Text=,.
+6-1	98-99	,	_	_	
+6-2	99-100	.	_	_	
+
+#Text=England, Mrs.
+7-1	101-108	England	_	_	
+7-2	108-109	,	_	_	
+7-3	110-113	Mrs	_	_	
+7-4	113-114	.	_	_	
+
+#Text=Col.
+8-1	115-118	Col	_	_	
+8-2	118-119	.	_	_	
+
+#Text=King.
+9-1	120-124	King	_	_	
+9-2	124-125	.	_	_	
+
+#Text=Capt and the Misses Bolder, Tapt.
+10-1	126-130	Capt	_	_	
+10-2	131-134	and	_	_	
+10-3	135-138	the	_	_	
+10-4	139-145	Misses	_	_	
+10-5	146-152	Bolder	_	_	
+10-6	152-153	,	_	_	
+10-7	154-158	Tapt	_	_	
+10-8	158-159	.	_	_	
+
+#Text=Halifax..
+11-1	160-167	Halifax	_	_	
+11-2	167-168	.	_	_	
+11-3	168-169	.	_	_	
+
+#Text=Capt.
+12-1	170-174	Capt	_	_	
+12-2	174-175	.	_	_	
+
+#Text=JSngland, Capt, Denny, Lieut.
+13-1	176-184	JSngland	_	_	
+13-2	184-185	,	_	_	
+13-3	186-190	Capt	_	_	
+13-4	190-191	,	_	_	
+13-5	192-197	Denny	_	_	
+13-6	197-198	,	_	_	
+13-7	199-204	Lieut	_	_	
+13-8	204-205	.	_	_	
+
+#Text=Knollys, Lieut.
+14-1	206-213	Knollys	_	_	
+14-2	213-214	,	_	_	
+14-3	215-220	Lieut	_	_	
+14-4	220-221	.	_	_	
+
+#Text=Moore, Mr.
+15-1	222-227	Moore	_	_	
+15-2	227-228	,	_	_	
+15-3	229-231	Mr	_	_	
+15-4	231-232	.	_	_	
+
+#Text=Mrs, and Miss Pjrmer, Mr. bisher, Mr.
+16-1	233-236	Mrs	_	_	
+16-2	236-237	,	_	_	
+16-3	238-241	and	_	_	
+16-4	242-246	Miss	_	_	
+16-5	247-253	Pjrmer	_	_	
+16-6	253-254	,	_	_	
+16-7	255-257	Mr	_	_	
+16-8	257-258	.	_	_	
+16-9	259-265	bisher	_	_	
+16-10	265-266	,	_	_	
+16-11	267-269	Mr	_	_	
+16-12	269-270	.	_	_	
+
+#Text=Goulding, Mr.
+17-1	271-279	Goulding	_	_	
+17-2	279-280	,	_	_	
+17-3	281-283	Mr	_	_	
+17-4	283-284	.	_	_	
+
+#Text=B.
+18-1	285-286	B	_	_	
+18-2	286-287	.	_	_	
+
+#Text=Hartopp, Mr.
+19-1	288-295	Hartopp	_	_	
+19-2	295-296	,	_	_	
+19-3	297-299	Mr	_	_	
+19-4	299-300	.	_	_	
+
+#Text=Wilson, Mr. and M.ss Pring, Mr. and Mrs.
+20-1	301-307	Wilson	_	_	
+20-2	307-308	,	_	_	
+20-3	309-311	Mr	_	_	
+20-4	311-312	.	_	_	
+20-5	313-316	and	_	_	
+20-6	317-321	M.ss	_	_	
+20-7	322-327	Pring	_	_	
+20-8	327-328	,	_	_	
+20-9	329-331	Mr	_	_	
+20-10	331-332	.	_	_	
+20-11	333-336	and	_	_	
+20-12	337-340	Mrs	_	_	
+20-13	340-341	.	_	_	
+
+#Text=Woodcock, th« Misses Kent, Mr.
+21-1	342-350	Woodcock	_	_	
+21-2	350-351	,	_	_	
+21-3	352-354	th	_	_	
+21-4	354-355	«	_	_	
+21-5	356-362	Misses	_	_	
+21-6	363-367	Kent	_	_	
+21-7	367-368	,	_	_	
+21-8	369-371	Mr	_	_	
+21-9	371-372	.	_	_	
+
+#Text=Parker, Rev.
+22-1	373-379	Parker	_	_	
+22-2	379-380	,	_	_	
+22-3	381-384	Rev	_	_	
+22-4	384-385	.	_	_	
+
+#Text=Mr.
+23-1	386-388	Mr	_	_	
+23-2	388-389	.	_	_	
+
+#Text=Bridges, Mrs.
+24-1	390-397	Bridges	_	_	
+24-2	397-398	,	_	_	
+24-3	399-402	Mrs	_	_	
+24-4	402-403	.	_	_	
+
+#Text=Sheppard, Capt. and Mrs.
+25-1	404-412	Sheppard	_	_	
+25-2	412-413	,	_	_	
+25-3	414-418	Capt	_	_	
+25-4	418-419	.	_	_	
+25-5	420-423	and	_	_	
+25-6	424-427	Mrs	_	_	
+25-7	427-428	.	_	_	
+
+#Text=Bishop, Mr. and Mrs.
+26-1	429-435	Bishop	_	_	
+26-2	435-436	,	_	_	
+26-3	437-439	Mr	_	_	
+26-4	439-440	.	_	_	
+26-5	441-444	and	_	_	
+26-6	445-448	Mrs	_	_	
+26-7	448-449	.	_	_	
+
+#Text=Staddon, Mr. and Sirs.
+27-1	450-457	Staddon	_	_	
+27-2	457-458	,	_	_	
+27-3	459-461	Mr	_	_	
+27-4	461-462	.	_	_	
+27-5	463-466	and	_	_	
+27-6	467-471	Sirs	_	_	
+27-7	471-472	.	_	_	
+
+#Text=Wintor, Mr. and Mrs.
+28-1	473-479	Wintor	_	_	
+28-2	479-480	,	_	_	
+28-3	481-483	Mr	_	_	
+28-4	483-484	.	_	_	
+28-5	485-488	and	_	_	
+28-6	489-492	Mrs	_	_	
+28-7	492-493	.	_	_	
+
+#Text=William., Mr. and Mrs.
+29-1	494-501	William	_	_	
+29-2	501-502	.	_	_	
+29-3	502-503	,	_	_	
+29-4	504-506	Mr	_	_	
+29-5	506-507	.	_	_	
+29-6	508-511	and	_	_	
+29-7	512-515	Mrs	_	_	
+29-8	515-516	.	_	_	
+
+#Text=Brown, Mr. and Misa Noble.
+30-1	517-522	Brown	_	_	
+30-2	522-523	,	_	_	
+30-3	524-526	Mr	_	_	
+30-4	526-527	.	_	_	
+30-5	528-531	and	_	_	
+30-6	532-536	Misa	_	_	
+30-7	537-542	Noble	_	_	
+30-8	542-543	.	_	_	
+
+#Text=Mr.
+31-1	544-546	Mr	_	_	
+31-2	546-547	.	_	_	
+
+#Text=Noble, jun., Mr. and Mrs Hall, Sir.
+32-1	548-553	Noble	_	_	
+32-2	553-554	,	_	_	
+32-3	555-558	jun	_	_	
+32-4	558-559	.	_	_	
+32-5	559-560	,	_	_	
+32-6	561-563	Mr	_	_	
+32-7	563-564	.	_	_	
+32-8	565-568	and	_	_	
+32-9	569-572	Mrs	_	_	
+32-10	573-577	Hall	_	_	
+32-11	577-578	,	_	_	
+32-12	579-582	Sir	_	_	
+32-13	582-583	.	_	_	
+
+#Text=Mrs. and Miss Saunders, Mr.
+33-1	584-587	Mrs	_	_	
+33-2	587-588	.	_	_	
+33-3	589-592	and	_	_	
+33-4	593-597	Miss	_	_	
+33-5	598-606	Saunders	_	_	
+33-6	606-607	,	_	_	
+33-7	608-610	Mr	_	_	
+33-8	610-611	.	_	_	
+
+#Text=St.
+34-1	612-614	St	_	_	
+34-2	614-615	.	_	_	
+
+#Text=George, Mr.
+35-1	616-622	George	_	_	
+35-2	622-623	,	_	_	
+35-3	624-626	Mr	_	_	
+35-4	626-627	.	_	_	
+
+#Text=Brewer, Mr.
+36-1	628-634	Brewer	_	_	
+36-2	634-635	,	_	_	
+36-3	636-638	Mr	_	_	
+36-4	638-639	.	_	_	
+
+#Text=Resting, Mr.
+37-1	640-647	Resting	_	_	
+37-2	647-648	,	_	_	
+37-3	649-651	Mr	_	_	
+37-4	651-652	.	_	_	
+
+#Text=Goodrich, Mrs.
+38-1	653-661	Goodrich	_	_	
+38-2	661-662	,	_	_	
+38-3	663-666	Mrs	_	_	
+38-4	666-667	.	_	_	
+
+#Text=Napier, Mr.
+39-1	668-674	Napier	_	_	
+39-2	674-675	,	_	_	
+39-3	676-678	Mr	_	_	
+39-4	678-679	.	_	_	
+
+#Text=Shirley, Mrs.
+40-1	680-687	Shirley	_	_	
+40-2	687-688	,	_	_	
+40-3	689-692	Mrs	_	_	
+40-4	692-693	.	_	_	
+
+#Text=Koutledge, Miss Majestie, Mr.
+41-1	694-703	Koutledge	_	_	
+41-2	703-704	,	_	_	
+41-3	705-709	Miss	_	_	
+41-4	710-718	Majestie	_	_	
+41-5	718-719	,	_	_	
+41-6	720-722	Mr	_	_	
+41-7	722-723	.	_	_	
+
+#Text=Cousens, &c. acc. t The Weymouth and Melcombe-Regis fradesmen s Benefit Society held their triennial meeting on Thursday last, when the members, accompanied by the president, steward, and other officrs, preceded by the admirable band of the Royal Scots Greys, formed a most imposing procession, and attended Divine Service at St.
+42-1	724-731	Cousens	_	_	
+42-2	731-732	,	_	_	
+42-3	733-734	&	_	_	
+42-4	734-735	c	_	_	
+42-5	735-736	.	_	_	
+42-6	737-740	acc	_	_	
+42-7	740-741	.	_	_	
+42-8	742-743	t	_	_	
+42-9	744-747	The	_	_	
+42-10	748-756	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+42-11	757-760	and	_	_	
+42-12	761-775	Melcombe-Regis	https://en.wikipedia.org/wiki/Melcombe\_Regis	LOC	
+42-13	776-785	fradesmen	_	_	
+42-14	786-787	s	_	_	
+42-15	788-795	Benefit	_	_	
+42-16	796-803	Society	_	_	
+42-17	804-808	held	_	_	
+42-18	809-814	their	_	_	
+42-19	815-824	triennial	_	_	
+42-20	825-832	meeting	_	_	
+42-21	833-835	on	_	_	
+42-22	836-844	Thursday	_	_	
+42-23	845-849	last	_	_	
+42-24	849-850	,	_	_	
+42-25	851-855	when	_	_	
+42-26	856-859	the	_	_	
+42-27	860-867	members	_	_	
+42-28	867-868	,	_	_	
+42-29	869-880	accompanied	_	_	
+42-30	881-883	by	_	_	
+42-31	884-887	the	_	_	
+42-32	888-897	president	_	_	
+42-33	897-898	,	_	_	
+42-34	899-906	steward	_	_	
+42-35	906-907	,	_	_	
+42-36	908-911	and	_	_	
+42-37	912-917	other	_	_	
+42-38	918-925	officrs	_	_	
+42-39	925-926	,	_	_	
+42-40	927-935	preceded	_	_	
+42-41	936-938	by	_	_	
+42-42	939-942	the	_	_	
+42-43	943-952	admirable	_	_	
+42-44	953-957	band	_	_	
+42-45	958-960	of	_	_	
+42-46	961-964	the	_	_	
+42-47	965-970	Royal	_	_	
+42-48	971-976	Scots	_	_	
+42-49	977-982	Greys	_	_	
+42-50	982-983	,	_	_	
+42-51	984-990	formed	_	_	
+42-52	991-992	a	_	_	
+42-53	993-997	most	_	_	
+42-54	998-1006	imposing	_	_	
+42-55	1007-1017	procession	_	_	
+42-56	1017-1018	,	_	_	
+42-57	1019-1022	and	_	_	
+42-58	1023-1031	attended	_	_	
+42-59	1032-1038	Divine	_	_	
+42-60	1039-1046	Service	_	_	
+42-61	1047-1049	at	_	_	
+42-62	1050-1052	St	*[1]	BUILDING[1]	
+42-63	1052-1053	.	*[1]	BUILDING[1]	
+
+#Text=Mary’s church, where a most impressive discourse was preached by the Rev.
+43-1	1054-1058	Mary	*[1]	BUILDING[1]	
+43-2	1058-1059	’	*[1]	BUILDING[1]	
+43-3	1059-1060	s	*[1]	BUILDING[1]	
+43-4	1061-1067	church	*[1]	BUILDING[1]	
+43-5	1067-1068	,	_	_	
+43-6	1069-1074	where	_	_	
+43-7	1075-1076	a	_	_	
+43-8	1077-1081	most	_	_	
+43-9	1082-1092	impressive	_	_	
+43-10	1093-1102	discourse	_	_	
+43-11	1103-1106	was	_	_	
+43-12	1107-1115	preached	_	_	
+43-13	1116-1118	by	_	_	
+43-14	1119-1122	the	_	_	
+43-15	1123-1126	Rev	_	_	
+43-16	1126-1127	.	_	_	
+
+#Text=W.
+44-1	1128-1129	W	_	_	
+44-2	1129-1130	.	_	_	
+
+#Text=Brassey, from John xiii.
+45-1	1131-1138	Brassey	_	_	
+45-2	1138-1139	,	_	_	
+45-3	1140-1144	from	_	_	
+45-4	1145-1149	John	_	_	
+45-5	1150-1154	xiii	_	_	
+45-6	1154-1155	.	_	_	
+
+#Text=,v.
+46-1	1155-1156	,	_	_	
+46-2	1156-1157	v	_	_	
+46-3	1157-1158	.	_	_	
+
+#Text=So.
+47-1	1159-1161	So	_	_	
+47-2	1161-1162	.	_	_	
+
+#Text=After Divine Service the procession returned to the Black Dog Tavern, and upwards of 160 members partook of a most sump, tuous dinner, prepared by Mr.
+48-1	1163-1168	After	_	_	
+48-2	1169-1175	Divine	_	_	
+48-3	1176-1183	Service	_	_	
+48-4	1184-1187	the	_	_	
+48-5	1188-1198	procession	_	_	
+48-6	1199-1207	returned	_	_	
+48-7	1208-1210	to	_	_	
+48-8	1211-1214	the	_	_	
+48-9	1215-1220	Black	*[2]	BUILDING[2]	
+48-10	1221-1224	Dog	*[2]	BUILDING[2]	
+48-11	1225-1231	Tavern	*[2]	BUILDING[2]	
+48-12	1231-1232	,	_	_	
+48-13	1233-1236	and	_	_	
+48-14	1237-1244	upwards	_	_	
+48-15	1245-1247	of	_	_	
+48-16	1248-1251	160	_	_	
+48-17	1252-1259	members	_	_	
+48-18	1260-1267	partook	_	_	
+48-19	1268-1270	of	_	_	
+48-20	1271-1272	a	_	_	
+48-21	1273-1277	most	_	_	
+48-22	1278-1282	sump	_	_	
+48-23	1282-1283	,	_	_	
+48-24	1284-1289	tuous	_	_	
+48-25	1290-1296	dinner	_	_	
+48-26	1296-1297	,	_	_	
+48-27	1298-1306	prepared	_	_	
+48-28	1307-1309	by	_	_	
+48-29	1310-1312	Mr	_	_	
+48-30	1312-1313	.	_	_	
+
+#Text=Munden, in a substantial style of liberality.
+49-1	1314-1320	Munden	_	_	
+49-2	1320-1321	,	_	_	
+49-3	1322-1324	in	_	_	
+49-4	1325-1326	a	_	_	
+49-5	1327-1338	substantial	_	_	
+49-6	1339-1344	style	_	_	
+49-7	1345-1347	of	_	_	
+49-8	1348-1358	liberality	_	_	
+49-9	1358-1359	.	_	_	
+
+#Text=Mr.
+50-1	1360-1362	Mr	_	_	
+50-2	1362-1363	.	_	_	
+
+#Text=John Randall, the President, filled the chair, supported on his right and left by several honorary Several appropriate toasts and sentiments were drank, the band of the Royal Scots Greys at intervals playing loyal and martial airs, relieved by some admirable songs and glees during the evening, which was most happily enjoyed.
+51-1	1364-1368	John	_	_	
+51-2	1369-1376	Randall	_	_	
+51-3	1376-1377	,	_	_	
+51-4	1378-1381	the	_	_	
+51-5	1382-1391	President	_	_	
+51-6	1391-1392	,	_	_	
+51-7	1393-1399	filled	_	_	
+51-8	1400-1403	the	_	_	
+51-9	1404-1409	chair	_	_	
+51-10	1409-1410	,	_	_	
+51-11	1411-1420	supported	_	_	
+51-12	1421-1423	on	_	_	
+51-13	1424-1427	his	_	_	
+51-14	1428-1433	right	_	_	
+51-15	1434-1437	and	_	_	
+51-16	1438-1442	left	_	_	
+51-17	1443-1445	by	_	_	
+51-18	1446-1453	several	_	_	
+51-19	1454-1462	honorary	_	_	
+51-20	1463-1470	Several	_	_	
+51-21	1471-1482	appropriate	_	_	
+51-22	1483-1489	toasts	_	_	
+51-23	1490-1493	and	_	_	
+51-24	1494-1504	sentiments	_	_	
+51-25	1505-1509	were	_	_	
+51-26	1510-1515	drank	_	_	
+51-27	1515-1516	,	_	_	
+51-28	1517-1520	the	_	_	
+51-29	1521-1525	band	_	_	
+51-30	1526-1528	of	_	_	
+51-31	1529-1532	the	_	_	
+51-32	1533-1538	Royal	_	_	
+51-33	1539-1544	Scots	_	_	
+51-34	1545-1550	Greys	_	_	
+51-35	1551-1553	at	_	_	
+51-36	1554-1563	intervals	_	_	
+51-37	1564-1571	playing	_	_	
+51-38	1572-1577	loyal	_	_	
+51-39	1578-1581	and	_	_	
+51-40	1582-1589	martial	_	_	
+51-41	1590-1594	airs	_	_	
+51-42	1594-1595	,	_	_	
+51-43	1596-1604	relieved	_	_	
+51-44	1605-1607	by	_	_	
+51-45	1608-1612	some	_	_	
+51-46	1613-1622	admirable	_	_	
+51-47	1623-1628	songs	_	_	
+51-48	1629-1632	and	_	_	
+51-49	1633-1638	glees	_	_	
+51-50	1639-1645	during	_	_	
+51-51	1646-1649	the	_	_	
+51-52	1650-1657	evening	_	_	
+51-53	1657-1658	,	_	_	
+51-54	1659-1664	which	_	_	
+51-55	1665-1668	was	_	_	
+51-56	1669-1673	most	_	_	
+51-57	1674-1681	happily	_	_	
+51-58	1682-1689	enjoyed	_	_	
+51-59	1689-1690	.	_	_	

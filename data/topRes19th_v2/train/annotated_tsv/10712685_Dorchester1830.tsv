@@ -1,0 +1,231 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WILTSHIRE.
+1-1	0-9	WILTSHIRE	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+1-2	9-10	.	_	_	
+
+#Text=Reform Dinner at Malmesbury.
+2-1	12-18	Reform	_	_	
+2-2	19-25	Dinner	_	_	
+2-3	26-28	at	_	_	
+2-4	29-39	Malmesbury	https://en.wikipedia.org/wiki/Malmesbury	LOC	
+2-5	39-40	.	_	_	
+
+#Text=—On Monday, a public dinner took place at the King’s Arms Inn, Malmesbury, in honour of Parliamentary Reform.
+3-1	40-41	—	_	_	
+3-2	41-43	On	_	_	
+3-3	44-50	Monday	_	_	
+3-4	50-51	,	_	_	
+3-5	52-53	a	_	_	
+3-6	54-60	public	_	_	
+3-7	61-67	dinner	_	_	
+3-8	68-72	took	_	_	
+3-9	73-78	place	_	_	
+3-10	79-81	at	_	_	
+3-11	82-85	the	_	_	
+3-12	86-90	King	*[1]	BUILDING[1]	
+3-13	90-91	’	*[1]	BUILDING[1]	
+3-14	91-92	s	*[1]	BUILDING[1]	
+3-15	93-97	Arms	*[1]	BUILDING[1]	
+3-16	98-101	Inn	*[1]	BUILDING[1]	
+3-17	101-102	,	_	_	
+3-18	103-113	Malmesbury	https://en.wikipedia.org/wiki/Malmesbury	LOC	
+3-19	113-114	,	_	_	
+3-20	115-117	in	_	_	
+3-21	118-124	honour	_	_	
+3-22	125-127	of	_	_	
+3-23	128-141	Parliamentary	_	_	
+3-24	142-148	Reform	_	_	
+3-25	148-149	.	_	_	
+
+#Text=The Hon.
+4-1	150-153	The	_	_	
+4-2	154-157	Hon	_	_	
+4-3	157-158	.	_	_	
+
+#Text=Capt.
+5-1	159-163	Capt	_	_	
+5-2	163-164	.	_	_	
+
+#Text=Bouverie, on Wednesday, entertained the members of the Corporation of Salisbury, with his election dinner, at the Black Horse Inn, which was p ovided and served up in Mr.
+6-1	165-173	Bouverie	_	_	
+6-2	173-174	,	_	_	
+6-3	175-177	on	_	_	
+6-4	178-187	Wednesday	_	_	
+6-5	187-188	,	_	_	
+6-6	189-200	entertained	_	_	
+6-7	201-204	the	_	_	
+6-8	205-212	members	_	_	
+6-9	213-215	of	_	_	
+6-10	216-219	the	_	_	
+6-11	220-231	Corporation	_	_	
+6-12	232-234	of	_	_	
+6-13	235-244	Salisbury	https://en.wikipedia.org/wiki/Salisbury	LOC	
+6-14	244-245	,	_	_	
+6-15	246-250	with	_	_	
+6-16	251-254	his	_	_	
+6-17	255-263	election	_	_	
+6-18	264-270	dinner	_	_	
+6-19	270-271	,	_	_	
+6-20	272-274	at	_	_	
+6-21	275-278	the	_	_	
+6-22	279-284	Black	*[2]	BUILDING[2]	
+6-23	285-290	Horse	*[2]	BUILDING[2]	
+6-24	291-294	Inn	*[2]	BUILDING[2]	
+6-25	294-295	,	_	_	
+6-26	296-301	which	_	_	
+6-27	302-305	was	_	_	
+6-28	306-307	p	_	_	
+6-29	308-314	ovided	_	_	
+6-30	315-318	and	_	_	
+6-31	319-325	served	_	_	
+6-32	326-328	up	_	_	
+6-33	329-331	in	_	_	
+6-34	332-334	Mr	_	_	
+6-35	334-335	.	_	_	
+
+#Text=Rogers’s best style.
+7-1	336-342	Rogers	_	_	
+7-2	342-343	’	_	_	
+7-3	343-344	s	_	_	
+7-4	345-349	best	_	_	
+7-5	350-355	style	_	_	
+7-6	355-356	.	_	_	
+
+#Text=The Rev.
+8-1	357-360	The	_	_	
+8-2	361-364	Rev	_	_	
+8-3	364-365	.	_	_	
+
+#Text=Mr.
+9-1	366-368	Mr	_	_	
+9-2	368-369	.	_	_	
+
+#Text=Edmonsrone, of Potterne, and the Rev.
+10-1	370-380	Edmonsrone	_	_	
+10-2	380-381	,	_	_	
+10-3	382-384	of	_	_	
+10-4	385-393	Potterne	https://en.wikipedia.org/wiki/Potterne	LOC	
+10-5	393-394	,	_	_	
+10-6	395-398	and	_	_	
+10-7	399-402	the	_	_	
+10-8	403-406	Rev	_	_	
+10-9	406-407	.	_	_	
+
+#Text=Canon Bowles, of Brembill, have withdrawn from the County Magistracy of this county.
+11-1	408-413	Canon	_	_	
+11-2	414-420	Bowles	_	_	
+11-3	420-421	,	_	_	
+11-4	422-424	of	_	_	
+11-5	425-433	Brembill	https://en.wikipedia.org/wiki/Bremhill	LOC	
+11-6	433-434	,	_	_	
+11-7	435-439	have	_	_	
+11-8	440-449	withdrawn	_	_	
+11-9	450-454	from	_	_	
+11-10	455-458	the	_	_	
+11-11	459-465	County	_	_	
+11-12	466-476	Magistracy	_	_	
+11-13	477-479	of	_	_	
+11-14	480-484	this	_	_	
+11-15	485-491	county	_	_	
+11-16	491-492	.	_	_	
+
+#Text=A strike took place among the agricultural labourers at West Laviogton, on Monday week, in consequence of the farmers having reduced their wages from nine to eight shillings per week.
+12-1	493-494	A	_	_	
+12-2	495-501	strike	_	_	
+12-3	502-506	took	_	_	
+12-4	507-512	place	_	_	
+12-5	513-518	among	_	_	
+12-6	519-522	the	_	_	
+12-7	523-535	agricultural	_	_	
+12-8	536-545	labourers	_	_	
+12-9	546-548	at	_	_	
+12-10	549-553	West	https://en.wikipedia.org/wiki/West\_Lavington,\_Wiltshire[3]	LOC[3]	
+12-11	554-563	Laviogton	https://en.wikipedia.org/wiki/West\_Lavington,\_Wiltshire[3]	LOC[3]	
+12-12	563-564	,	_	_	
+12-13	565-567	on	_	_	
+12-14	568-574	Monday	_	_	
+12-15	575-579	week	_	_	
+12-16	579-580	,	_	_	
+12-17	581-583	in	_	_	
+12-18	584-595	consequence	_	_	
+12-19	596-598	of	_	_	
+12-20	599-602	the	_	_	
+12-21	603-610	farmers	_	_	
+12-22	611-617	having	_	_	
+12-23	618-625	reduced	_	_	
+12-24	626-631	their	_	_	
+12-25	632-637	wages	_	_	
+12-26	638-642	from	_	_	
+12-27	643-647	nine	_	_	
+12-28	648-650	to	_	_	
+12-29	651-656	eight	_	_	
+12-30	657-666	shillings	_	_	
+12-31	667-670	per	_	_	
+12-32	671-675	week	_	_	
+12-33	675-676	.	_	_	
+
+#Text=We arc, however, happy to be able to state, that on Wednesday the poor fellows quietly returned to their work.
+13-1	677-679	We	_	_	
+13-2	680-683	arc	_	_	
+13-3	683-684	,	_	_	
+13-4	685-692	however	_	_	
+13-5	692-693	,	_	_	
+13-6	694-699	happy	_	_	
+13-7	700-702	to	_	_	
+13-8	703-705	be	_	_	
+13-9	706-710	able	_	_	
+13-10	711-713	to	_	_	
+13-11	714-719	state	_	_	
+13-12	719-720	,	_	_	
+13-13	721-725	that	_	_	
+13-14	726-728	on	_	_	
+13-15	729-738	Wednesday	_	_	
+13-16	739-742	the	_	_	
+13-17	743-747	poor	_	_	
+13-18	748-755	fellows	_	_	
+13-19	756-763	quietly	_	_	
+13-20	764-772	returned	_	_	
+13-21	773-775	to	_	_	
+13-22	776-781	their	_	_	
+13-23	782-786	work	_	_	
+13-24	786-787	.	_	_	
+
+#Text=John North, Esq., was on Friday, the 27th ult., chosen an Alderman of the (corporation of Devizes, and afterwards unanimously elected Mayor for the ensuing year.
+14-1	788-792	John	_	_	
+14-2	793-798	North	_	_	
+14-3	798-799	,	_	_	
+14-4	800-803	Esq	_	_	
+14-5	803-804	.	_	_	
+14-6	804-805	,	_	_	
+14-7	806-809	was	_	_	
+14-8	810-812	on	_	_	
+14-9	813-819	Friday	_	_	
+14-10	819-820	,	_	_	
+14-11	821-824	the	_	_	
+14-12	825-829	27th	_	_	
+14-13	830-833	ult	_	_	
+14-14	833-834	.	_	_	
+14-15	834-835	,	_	_	
+14-16	836-842	chosen	_	_	
+14-17	843-845	an	_	_	
+14-18	846-854	Alderman	_	_	
+14-19	855-857	of	_	_	
+14-20	858-861	the	_	_	
+14-21	862-863	(	_	_	
+14-22	863-874	corporation	_	_	
+14-23	875-877	of	_	_	
+14-24	878-885	Devizes	https://en.wikipedia.org/wiki/Devizes	LOC	
+14-25	885-886	,	_	_	
+14-26	887-890	and	_	_	
+14-27	891-901	afterwards	_	_	
+14-28	902-913	unanimously	_	_	
+14-29	914-921	elected	_	_	
+14-30	922-927	Mayor	_	_	
+14-31	928-931	for	_	_	
+14-32	932-935	the	_	_	
+14-33	936-943	ensuing	_	_	
+14-34	944-948	year	_	_	
+14-35	948-949	.	_	_	

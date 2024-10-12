@@ -1,0 +1,478 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=(& USE TURNER’S BLACKING.
+1-1	0-1	(	_	_	
+1-2	1-2	&	_	_	
+1-3	3-6	USE	_	_	
+1-4	7-13	TURNER	_	_	
+1-5	13-14	’	_	_	
+1-6	14-15	S	_	_	
+1-7	16-24	BLACKING	_	_	
+1-8	24-25	.	_	_	
+
+#Text=NOTICE.
+2-1	27-33	NOTICE	_	_	
+2-2	33-34	.	_	_	
+
+#Text=—How delightful to see a Lady or Gentleman’s beautiful black shinine; Boot or Shoe reflecting every surrounding object in TURNERS UNRIVALLED BLACKING.
+3-1	34-35	—	_	_	
+3-2	35-38	How	_	_	
+3-3	39-49	delightful	_	_	
+3-4	50-52	to	_	_	
+3-5	53-56	see	_	_	
+3-6	57-58	a	_	_	
+3-7	59-63	Lady	_	_	
+3-8	64-66	or	_	_	
+3-9	67-76	Gentleman	_	_	
+3-10	76-77	’	_	_	
+3-11	77-78	s	_	_	
+3-12	79-88	beautiful	_	_	
+3-13	89-94	black	_	_	
+3-14	95-102	shinine	_	_	
+3-15	102-103	;	_	_	
+3-16	104-108	Boot	_	_	
+3-17	109-111	or	_	_	
+3-18	112-116	Shoe	_	_	
+3-19	117-127	reflecting	_	_	
+3-20	128-133	every	_	_	
+3-21	134-145	surrounding	_	_	
+3-22	146-152	object	_	_	
+3-23	153-155	in	_	_	
+3-24	156-163	TURNERS	_	_	
+3-25	164-174	UNRIVALLED	_	_	
+3-26	175-183	BLACKING	_	_	
+3-27	183-184	.	_	_	
+
+#Text=This invaluable composition may be had wholesale and retail at iheDorsot County Chroniclefand Somersetshire Gazette Office, and retail of all respectable shopkeepers,iu stone bottles, at 6d., Is., and JBd. each.
+4-1	185-189	This	_	_	
+4-2	190-200	invaluable	_	_	
+4-3	201-212	composition	_	_	
+4-4	213-216	may	_	_	
+4-5	217-219	be	_	_	
+4-6	220-223	had	_	_	
+4-7	224-233	wholesale	_	_	
+4-8	234-237	and	_	_	
+4-9	238-244	retail	_	_	
+4-10	245-247	at	_	_	
+4-11	248-257	iheDorsot	_	_	
+4-11.1	251-257	Dorsot	*[1]	BUILDING[1]	
+4-12	258-264	County	*[1]	BUILDING[1]	
+4-13	265-278	Chroniclefand	*[1]	BUILDING[1]	
+4-14	279-292	Somersetshire	*[1]	BUILDING[1]	
+4-15	293-300	Gazette	*[1]	BUILDING[1]	
+4-16	301-307	Office	*[1]	BUILDING[1]	
+4-17	307-308	,	_	_	
+4-18	309-312	and	_	_	
+4-19	313-319	retail	_	_	
+4-20	320-322	of	_	_	
+4-21	323-326	all	_	_	
+4-22	327-338	respectable	_	_	
+4-23	339-350	shopkeepers	_	_	
+4-24	350-351	,	_	_	
+4-25	351-353	iu	_	_	
+4-26	354-359	stone	_	_	
+4-27	360-367	bottles	_	_	
+4-28	367-368	,	_	_	
+4-29	369-371	at	_	_	
+4-30	372-374	6d	_	_	
+4-31	374-375	.	_	_	
+4-32	375-376	,	_	_	
+4-33	377-379	Is	_	_	
+4-34	379-380	.	_	_	
+4-35	380-381	,	_	_	
+4-36	382-385	and	_	_	
+4-37	386-389	JBd	_	_	
+4-38	389-390	.	_	_	
+4-39	391-395	each	_	_	
+4-40	395-396	.	_	_	
+
+#Text=A CHALLENGE.
+5-1	398-399	A	_	_	
+5-2	400-409	CHALLENGE	_	_	
+5-3	409-410	.	_	_	
+
+#Text=I challenge the world to produce, if it can, A Blacking thats equal to Turner’s Japan ; For like crystal it shines, while it softens the leather.
+6-1	411-412	I	_	_	
+6-2	413-422	challenge	_	_	
+6-3	423-426	the	_	_	
+6-4	427-432	world	_	_	
+6-5	433-435	to	_	_	
+6-6	436-443	produce	_	_	
+6-7	443-444	,	_	_	
+6-8	445-447	if	_	_	
+6-9	448-450	it	_	_	
+6-10	451-454	can	_	_	
+6-11	454-455	,	_	_	
+6-12	456-457	A	_	_	
+6-13	458-466	Blacking	_	_	
+6-14	467-472	thats	_	_	
+6-15	473-478	equal	_	_	
+6-16	479-481	to	_	_	
+6-17	482-488	Turner	_	_	
+6-18	488-489	’	_	_	
+6-19	489-490	s	_	_	
+6-20	491-496	Japan	https://en.wikipedia.org/wiki/Japan	LOC	
+6-21	497-498	;	_	_	
+6-22	499-502	For	_	_	
+6-23	503-507	like	_	_	
+6-24	508-515	crystal	_	_	
+6-25	516-518	it	_	_	
+6-26	519-525	shines	_	_	
+6-27	525-526	,	_	_	
+6-28	527-532	while	_	_	
+6-29	533-535	it	_	_	
+6-30	536-543	softens	_	_	
+6-31	544-547	the	_	_	
+6-32	548-555	leather	_	_	
+6-33	555-556	.	_	_	
+
+#Text=And makes your boots proof ’gainst the wind and the weather.
+7-1	557-560	And	_	_	
+7-2	561-566	makes	_	_	
+7-3	567-571	your	_	_	
+7-4	572-577	boots	_	_	
+7-5	578-583	proof	_	_	
+7-6	584-585	’	_	_	
+7-7	585-591	gainst	_	_	
+7-8	592-595	the	_	_	
+7-9	596-600	wind	_	_	
+7-10	601-604	and	_	_	
+7-11	605-608	the	_	_	
+7-12	609-616	weather	_	_	
+7-13	616-617	.	_	_	
+
+#Text=Why the praises of Turner’s Japan should 1 tell.
+8-1	618-621	Why	_	_	
+8-2	622-625	the	_	_	
+8-3	626-633	praises	_	_	
+8-4	634-636	of	_	_	
+8-5	637-643	Turner	_	_	
+8-6	643-644	’	_	_	
+8-7	644-645	s	_	_	
+8-8	646-651	Japan	https://en.wikipedia.org/wiki/Japan	LOC	
+8-9	652-658	should	_	_	
+8-10	659-660	1	_	_	
+8-11	661-665	tell	_	_	
+8-12	665-666	.	_	_	
+
+#Text=When those who have used it must know it so well ?
+9-1	667-671	When	_	_	
+9-2	672-677	those	_	_	
+9-3	678-681	who	_	_	
+9-4	682-686	have	_	_	
+9-5	687-691	used	_	_	
+9-6	692-694	it	_	_	
+9-7	695-699	must	_	_	
+9-8	700-704	know	_	_	
+9-9	705-707	it	_	_	
+9-10	708-710	so	_	_	
+9-11	711-715	well	_	_	
+9-12	716-717	?	_	_	
+
+#Text=Why should coachmen still brush at old harness in vain, When this blacking can give it fresh lustre again?
+10-1	718-721	Why	_	_	
+10-2	722-728	should	_	_	
+10-3	729-737	coachmen	_	_	
+10-4	738-743	still	_	_	
+10-5	744-749	brush	_	_	
+10-6	750-752	at	_	_	
+10-7	753-756	old	_	_	
+10-8	757-764	harness	_	_	
+10-9	765-767	in	_	_	
+10-10	768-772	vain	_	_	
+10-11	772-773	,	_	_	
+10-12	774-778	When	_	_	
+10-13	779-783	this	_	_	
+10-14	784-792	blacking	_	_	
+10-15	793-796	can	_	_	
+10-16	797-801	give	_	_	
+10-17	802-804	it	_	_	
+10-18	805-810	fresh	_	_	
+10-19	811-817	lustre	_	_	
+10-20	818-823	again	_	_	
+10-21	823-824	?	_	_	
+
+#Text=For, without second sight, 1 can prophesy soon, That you will see it adopted by Foot and Dragoon ; For you scarcely can tell, when drawn up on parade.
+11-1	825-828	For	_	_	
+11-2	828-829	,	_	_	
+11-3	830-837	without	_	_	
+11-4	838-844	second	_	_	
+11-5	845-850	sight	_	_	
+11-6	850-851	,	_	_	
+11-7	852-853	1	_	_	
+11-8	854-857	can	_	_	
+11-9	858-866	prophesy	_	_	
+11-10	867-871	soon	_	_	
+11-11	871-872	,	_	_	
+11-12	873-877	That	_	_	
+11-13	878-881	you	_	_	
+11-14	882-886	will	_	_	
+11-15	887-890	see	_	_	
+11-16	891-893	it	_	_	
+11-17	894-901	adopted	_	_	
+11-18	902-904	by	_	_	
+11-19	905-909	Foot	_	_	
+11-20	910-913	and	_	_	
+11-21	914-921	Dragoon	_	_	
+11-22	922-923	;	_	_	
+11-23	924-927	For	_	_	
+11-24	928-931	you	_	_	
+11-25	932-940	scarcely	_	_	
+11-26	941-944	can	_	_	
+11-27	945-949	tell	_	_	
+11-28	949-950	,	_	_	
+11-29	951-955	when	_	_	
+11-30	956-961	drawn	_	_	
+11-31	962-964	up	_	_	
+11-32	965-967	on	_	_	
+11-33	968-974	parade	_	_	
+11-34	974-975	.	_	_	
+
+#Text=Which glitters the brightest, the boot or the blade.
+12-1	976-981	Which	_	_	
+12-2	982-990	glitters	_	_	
+12-3	991-994	the	_	_	
+12-4	995-1004	brightest	_	_	
+12-5	1004-1005	,	_	_	
+12-6	1006-1009	the	_	_	
+12-7	1010-1014	boot	_	_	
+12-8	1015-1017	or	_	_	
+12-9	1018-1021	the	_	_	
+12-10	1022-1027	blade	_	_	
+12-11	1027-1028	.	_	_	
+
+#Text=The Gentlemen too, who would boast their attire.
+13-1	1029-1032	The	_	_	
+13-2	1033-1042	Gentlemen	_	_	
+13-3	1043-1046	too	_	_	
+13-4	1046-1047	,	_	_	
+13-5	1048-1051	who	_	_	
+13-6	1052-1057	would	_	_	
+13-7	1058-1063	boast	_	_	
+13-8	1064-1069	their	_	_	
+13-9	1070-1076	attire	_	_	
+13-10	1076-1077	.	_	_	
+
+#Text=And feel for respect so profound a desire.
+14-1	1078-1081	And	_	_	
+14-2	1082-1086	feel	_	_	
+14-3	1087-1090	for	_	_	
+14-4	1091-1098	respect	_	_	
+14-5	1099-1101	so	_	_	
+14-6	1102-1110	profound	_	_	
+14-7	1111-1112	a	_	_	
+14-8	1113-1119	desire	_	_	
+14-9	1119-1120	.	_	_	
+
+#Text=May hear the fair Ladies, if Turner’s they use, Cry, How charmingly polished his manners and shoes?
+15-1	1121-1124	May	_	_	
+15-2	1125-1129	hear	_	_	
+15-3	1130-1133	the	_	_	
+15-4	1134-1138	fair	_	_	
+15-5	1139-1145	Ladies	_	_	
+15-6	1145-1146	,	_	_	
+15-7	1147-1149	if	_	_	
+15-8	1150-1156	Turner	_	_	
+15-9	1156-1157	’	_	_	
+15-10	1157-1158	s	_	_	
+15-11	1159-1163	they	_	_	
+15-12	1164-1167	use	_	_	
+15-13	1167-1168	,	_	_	
+15-14	1169-1172	Cry	_	_	
+15-15	1172-1173	,	_	_	
+15-16	1174-1177	How	_	_	
+15-17	1178-1188	charmingly	_	_	
+15-18	1189-1197	polished	_	_	
+15-19	1198-1201	his	_	_	
+15-20	1202-1209	manners	_	_	
+15-21	1210-1213	and	_	_	
+15-22	1214-1219	shoes	_	_	
+15-23	1219-1220	?	_	_	
+
+#Text=Ye Authors and Poets who gladly engage To reform and instruct this degenerate age.
+16-1	1221-1223	Ye	_	_	
+16-2	1224-1231	Authors	_	_	
+16-3	1232-1235	and	_	_	
+16-4	1236-1241	Poets	_	_	
+16-5	1242-1245	who	_	_	
+16-6	1246-1252	gladly	_	_	
+16-7	1253-1259	engage	_	_	
+16-8	1260-1262	To	_	_	
+16-9	1263-1269	reform	_	_	
+16-10	1270-1273	and	_	_	
+16-11	1274-1282	instruct	_	_	
+16-12	1283-1287	this	_	_	
+16-13	1288-1298	degenerate	_	_	
+16-14	1299-1302	age	_	_	
+16-15	1302-1303	.	_	_	
+
+#Text=Use Turner’s Japan and your fame will take root, Then your genius will shine as well as your boot.
+17-1	1304-1307	Use	_	_	
+17-2	1308-1314	Turner	_	_	
+17-3	1314-1315	’	_	_	
+17-4	1315-1316	s	_	_	
+17-5	1317-1322	Japan	_	_	
+17-6	1323-1326	and	_	_	
+17-7	1327-1331	your	_	_	
+17-8	1332-1336	fame	_	_	
+17-9	1337-1341	will	_	_	
+17-10	1342-1346	take	_	_	
+17-11	1347-1351	root	_	_	
+17-12	1351-1352	,	_	_	
+17-13	1353-1357	Then	_	_	
+17-14	1358-1362	your	_	_	
+17-15	1363-1369	genius	_	_	
+17-16	1370-1374	will	_	_	
+17-17	1375-1380	shine	_	_	
+17-18	1381-1383	as	_	_	
+17-19	1384-1388	well	_	_	
+17-20	1389-1391	as	_	_	
+17-21	1392-1396	your	_	_	
+17-22	1397-1401	boot	_	_	
+17-23	1401-1402	.	_	_	
+
+#Text=Though Davy and Home have astonished the world.
+18-1	1403-1409	Though	_	_	
+18-2	1410-1414	Davy	_	_	
+18-3	1415-1418	and	_	_	
+18-4	1419-1423	Home	_	_	
+18-5	1424-1428	have	_	_	
+18-6	1429-1439	astonished	_	_	
+18-7	1440-1443	the	_	_	
+18-8	1444-1449	world	_	_	
+18-9	1449-1450	.	_	_	
+
+#Text=And the chemical volume of nature unfurl’d.
+19-1	1451-1454	And	_	_	
+19-2	1455-1458	the	_	_	
+19-3	1459-1467	chemical	_	_	
+19-4	1468-1474	volume	_	_	
+19-5	1475-1477	of	_	_	
+19-6	1478-1484	nature	_	_	
+19-7	1485-1491	unfurl	_	_	
+19-8	1491-1492	’	_	_	
+19-9	1492-1493	d	_	_	
+19-10	1493-1494	.	_	_	
+
+#Text=Vet in chemistry surely there something was larking, Till Turner discover’d his wonderful Blacking.
+20-1	1495-1498	Vet	_	_	
+20-2	1499-1501	in	_	_	
+20-3	1502-1511	chemistry	_	_	
+20-4	1512-1518	surely	_	_	
+20-5	1519-1524	there	_	_	
+20-6	1525-1534	something	_	_	
+20-7	1535-1538	was	_	_	
+20-8	1539-1546	larking	_	_	
+20-9	1546-1547	,	_	_	
+20-10	1548-1552	Till	_	_	
+20-11	1553-1559	Turner	_	_	
+20-12	1560-1568	discover	_	_	
+20-13	1568-1569	’	_	_	
+20-14	1569-1570	d	_	_	
+20-15	1571-1574	his	_	_	
+20-16	1575-1584	wonderful	_	_	
+20-17	1585-1593	Blacking	_	_	
+20-18	1593-1594	.	_	_	
+
+#Text=Who do not feel pride in a Wellington’s name.
+21-1	1595-1598	Who	_	_	
+21-2	1599-1601	do	_	_	
+21-3	1602-1605	not	_	_	
+21-4	1606-1610	feel	_	_	
+21-5	1611-1616	pride	_	_	
+21-6	1617-1619	in	_	_	
+21-7	1620-1621	a	_	_	
+21-8	1622-1632	Wellington	_	_	
+21-9	1632-1633	’	_	_	
+21-10	1633-1634	s	_	_	
+21-11	1635-1639	name	_	_	
+21-12	1639-1640	.	_	_	
+
+#Text=When the whole of the universe rings with his famet So are Turner and Wellington famous afar.
+22-1	1641-1645	When	_	_	
+22-2	1646-1649	the	_	_	
+22-3	1650-1655	whole	_	_	
+22-4	1656-1658	of	_	_	
+22-5	1659-1662	the	_	_	
+22-6	1663-1671	universe	_	_	
+22-7	1672-1677	rings	_	_	
+22-8	1678-1682	with	_	_	
+22-9	1683-1686	his	_	_	
+22-10	1687-1692	famet	_	_	
+22-11	1693-1695	So	_	_	
+22-12	1696-1699	are	_	_	
+22-13	1700-1706	Turner	_	_	
+22-14	1707-1710	and	_	_	
+22-15	1711-1721	Wellington	_	_	
+22-16	1722-1728	famous	_	_	
+22-17	1729-1733	afar	_	_	
+22-18	1733-1734	.	_	_	
+
+#Text=One the hero of Blacking, the other of War!!
+23-1	1736-1739	One	_	_	
+23-2	1740-1743	the	_	_	
+23-3	1744-1748	hero	_	_	
+23-4	1749-1751	of	_	_	
+23-5	1752-1760	Blacking	_	_	
+23-6	1760-1761	,	_	_	
+23-7	1762-1765	the	_	_	
+23-8	1766-1771	other	_	_	
+23-9	1772-1774	of	_	_	
+23-10	1775-1778	War	_	_	
+23-11	1778-1779	!	_	_	
+23-12	1779-1780	!	_	_	
+
+#Text=Gentlemen may observe tnat this Composition, when used fot their Gig and Carriage Harness, after one or two applications will produce a brilliant, rich, glossy black lustre, and at the »aine time act as a preserver of the leather.
+24-1	1781-1790	Gentlemen	_	_	
+24-2	1791-1794	may	_	_	
+24-3	1795-1802	observe	_	_	
+24-4	1803-1807	tnat	_	_	
+24-5	1808-1812	this	_	_	
+24-6	1813-1824	Composition	_	_	
+24-7	1824-1825	,	_	_	
+24-8	1826-1830	when	_	_	
+24-9	1831-1835	used	_	_	
+24-10	1836-1839	fot	_	_	
+24-11	1840-1845	their	_	_	
+24-12	1846-1849	Gig	_	_	
+24-13	1850-1853	and	_	_	
+24-14	1854-1862	Carriage	_	_	
+24-15	1863-1870	Harness	_	_	
+24-16	1870-1871	,	_	_	
+24-17	1872-1877	after	_	_	
+24-18	1878-1881	one	_	_	
+24-19	1882-1884	or	_	_	
+24-20	1885-1888	two	_	_	
+24-21	1889-1901	applications	_	_	
+24-22	1902-1906	will	_	_	
+24-23	1907-1914	produce	_	_	
+24-24	1915-1916	a	_	_	
+24-25	1917-1926	brilliant	_	_	
+24-26	1926-1927	,	_	_	
+24-27	1928-1932	rich	_	_	
+24-28	1932-1933	,	_	_	
+24-29	1934-1940	glossy	_	_	
+24-30	1941-1946	black	_	_	
+24-31	1947-1953	lustre	_	_	
+24-32	1953-1954	,	_	_	
+24-33	1955-1958	and	_	_	
+24-34	1959-1961	at	_	_	
+24-35	1962-1965	the	_	_	
+24-36	1966-1967	»	_	_	
+24-37	1967-1971	aine	_	_	
+24-38	1972-1976	time	_	_	
+24-39	1977-1980	act	_	_	
+24-40	1981-1983	as	_	_	
+24-41	1984-1985	a	_	_	
+24-42	1986-1995	preserver	_	_	
+24-43	1996-1998	of	_	_	
+24-44	1999-2002	the	_	_	
+24-45	2003-2010	leather	_	_	
+24-46	2010-2011	.	_	_	
+
+#Text=HICJiARU TLHNER.
+25-1	2012-2020	HICJiARU	_	_	
+25-2	2021-2027	TLHNER	_	_	
+25-3	2027-2028	.	_	_	

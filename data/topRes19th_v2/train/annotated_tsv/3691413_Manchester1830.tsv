@@ -1,0 +1,660 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CONSERVATIVE DINNERS.
+1-1	0-12	CONSERVATIVE	_	_	
+1-2	13-20	DINNERS	_	_	
+1-3	20-21	.	_	_	
+
+#Text=Wakefield Operative Conservative Association—On Monday last, the members of this association met and dined together at the house of Mr.
+2-1	23-32	Wakefield	https://en.wikipedia.org/wiki/Wakefield	LOC	
+2-2	33-42	Operative	_	_	
+2-3	43-55	Conservative	_	_	
+2-4	56-70	Association—On	_	_	
+2-5	71-77	Monday	_	_	
+2-6	78-82	last	_	_	
+2-7	82-83	,	_	_	
+2-8	84-87	the	_	_	
+2-9	88-95	members	_	_	
+2-10	96-98	of	_	_	
+2-11	99-103	this	_	_	
+2-12	104-115	association	_	_	
+2-13	116-119	met	_	_	
+2-14	120-123	and	_	_	
+2-15	124-129	dined	_	_	
+2-16	130-138	together	_	_	
+2-17	139-141	at	_	_	
+2-18	142-145	the	_	_	
+2-19	146-151	house	_	_	
+2-20	152-154	of	_	_	
+2-21	155-157	Mr	_	_	
+2-22	157-158	.	_	_	
+
+#Text=Joseph Patrick, the sign of the Shears, where a sumptuous dinner was provided.
+3-1	159-165	Joseph	_	_	
+3-2	166-173	Patrick	_	_	
+3-3	173-174	,	_	_	
+3-4	175-178	the	_	_	
+3-5	179-183	sign	_	_	
+3-6	184-186	of	_	_	
+3-7	187-190	the	_	_	
+3-8	191-197	Shears	_	_	
+3-9	197-198	,	_	_	
+3-10	199-204	where	_	_	
+3-11	205-206	a	_	_	
+3-12	207-216	sumptuous	_	_	
+3-13	217-223	dinner	_	_	
+3-14	224-227	was	_	_	
+3-15	228-236	provided	_	_	
+3-16	236-237	.	_	_	
+
+#Text=Mr.
+4-1	238-240	Mr	_	_	
+4-2	240-241	.	_	_	
+
+#Text=John Waterall presided with tact and ability; the usual Conservative toasts and songs went round in rapid succession ; able speeches were at intervals delivered, and the evening was spent with the utmost hilarity and good nature.— Leeds Intelligencer.
+5-1	242-246	John	_	_	
+5-2	247-255	Waterall	_	_	
+5-3	256-264	presided	_	_	
+5-4	265-269	with	_	_	
+5-5	270-274	tact	_	_	
+5-6	275-278	and	_	_	
+5-7	279-286	ability	_	_	
+5-8	286-287	;	_	_	
+5-9	288-291	the	_	_	
+5-10	292-297	usual	_	_	
+5-11	298-310	Conservative	_	_	
+5-12	311-317	toasts	_	_	
+5-13	318-321	and	_	_	
+5-14	322-327	songs	_	_	
+5-15	328-332	went	_	_	
+5-16	333-338	round	_	_	
+5-17	339-341	in	_	_	
+5-18	342-347	rapid	_	_	
+5-19	348-358	succession	_	_	
+5-20	359-360	;	_	_	
+5-21	361-365	able	_	_	
+5-22	366-374	speeches	_	_	
+5-23	375-379	were	_	_	
+5-24	380-382	at	_	_	
+5-25	383-392	intervals	_	_	
+5-26	393-402	delivered	_	_	
+5-27	402-403	,	_	_	
+5-28	404-407	and	_	_	
+5-29	408-411	the	_	_	
+5-30	412-419	evening	_	_	
+5-31	420-423	was	_	_	
+5-32	424-429	spent	_	_	
+5-33	430-434	with	_	_	
+5-34	435-438	the	_	_	
+5-35	439-445	utmost	_	_	
+5-36	446-454	hilarity	_	_	
+5-37	455-458	and	_	_	
+5-38	459-463	good	_	_	
+5-39	464-470	nature	_	_	
+5-40	470-471	.	_	_	
+5-41	471-472	—	_	_	
+5-42	473-478	Leeds	_	_	
+5-43	479-492	Intelligencer	_	_	
+5-44	492-493	.	_	_	
+
+#Text=Conservative Demonstration at Leeds, On Wednesday, a public dinner was given by the Conservative Burgesses of Leeds, to the Conservative members of the Leeds Town Council, in the Music Hall, Albion-street, which was very numerously attended, and proved to be one of the most enthusiastic and spirit-stirring assemblies that we have attended for sometime past.
+6-1	494-506	Conservative	_	_	
+6-2	507-520	Demonstration	_	_	
+6-3	521-523	at	_	_	
+6-4	524-529	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+6-5	529-530	,	_	_	
+6-6	531-533	On	_	_	
+6-7	534-543	Wednesday	_	_	
+6-8	543-544	,	_	_	
+6-9	545-546	a	_	_	
+6-10	547-553	public	_	_	
+6-11	554-560	dinner	_	_	
+6-12	561-564	was	_	_	
+6-13	565-570	given	_	_	
+6-14	571-573	by	_	_	
+6-15	574-577	the	_	_	
+6-16	578-590	Conservative	_	_	
+6-17	591-600	Burgesses	_	_	
+6-18	601-603	of	_	_	
+6-19	604-609	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+6-20	609-610	,	_	_	
+6-21	611-613	to	_	_	
+6-22	614-617	the	_	_	
+6-23	618-630	Conservative	_	_	
+6-24	631-638	members	_	_	
+6-25	639-641	of	_	_	
+6-26	642-645	the	_	_	
+6-27	646-651	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+6-28	652-656	Town	_	_	
+6-29	657-664	Council	_	_	
+6-30	664-665	,	_	_	
+6-31	666-668	in	_	_	
+6-32	669-672	the	_	_	
+6-33	673-678	Music	*[1]	BUILDING[1]	
+6-34	679-683	Hall	*[1]	BUILDING[1]	
+6-35	683-684	,	_	_	
+6-36	685-698	Albion-street	*	STREET	
+6-37	698-699	,	_	_	
+6-38	700-705	which	_	_	
+6-39	706-709	was	_	_	
+6-40	710-714	very	_	_	
+6-41	715-725	numerously	_	_	
+6-42	726-734	attended	_	_	
+6-43	734-735	,	_	_	
+6-44	736-739	and	_	_	
+6-45	740-746	proved	_	_	
+6-46	747-749	to	_	_	
+6-47	750-752	be	_	_	
+6-48	753-756	one	_	_	
+6-49	757-759	of	_	_	
+6-50	760-763	the	_	_	
+6-51	764-768	most	_	_	
+6-52	769-781	enthusiastic	_	_	
+6-53	782-785	and	_	_	
+6-54	786-801	spirit-stirring	_	_	
+6-55	802-812	assemblies	_	_	
+6-56	813-817	that	_	_	
+6-57	818-820	we	_	_	
+6-58	821-825	have	_	_	
+6-59	826-834	attended	_	_	
+6-60	835-838	for	_	_	
+6-61	839-847	sometime	_	_	
+6-62	848-852	past	_	_	
+6-63	852-853	.	_	_	
+
+#Text=Mr.
+7-1	854-856	Mr	_	_	
+7-2	856-857	.	_	_	
+
+#Text=George Hirst, president of the Leeds Tradesmens Conservative Association, occupied the chair; the vice-chairman were Mr.
+8-1	858-864	George	_	_	
+8-2	865-870	Hirst	_	_	
+8-3	870-871	,	_	_	
+8-4	872-881	president	_	_	
+8-5	882-884	of	_	_	
+8-6	885-888	the	_	_	
+8-7	889-894	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+8-8	895-905	Tradesmens	_	_	
+8-9	906-918	Conservative	_	_	
+8-10	919-930	Association	_	_	
+8-11	930-931	,	_	_	
+8-12	932-940	occupied	_	_	
+8-13	941-944	the	_	_	
+8-14	945-950	chair	_	_	
+8-15	950-951	;	_	_	
+8-16	952-955	the	_	_	
+8-17	956-969	vice-chairman	_	_	
+8-18	970-974	were	_	_	
+8-19	975-977	Mr	_	_	
+8-20	977-978	.	_	_	
+
+#Text=E.
+9-1	979-980	E	_	_	
+9-2	980-981	.	_	_	
+
+#Text=J.
+10-1	982-983	J	_	_	
+10-2	983-984	.	_	_	
+
+#Text=Teale, Mr.
+11-1	985-990	Teale	_	_	
+11-2	990-991	,	_	_	
+11-3	992-994	Mr	_	_	
+11-4	994-995	.	_	_	
+
+#Text=Yates, Mr.
+12-1	996-1001	Yates	_	_	
+12-2	1001-1002	,	_	_	
+12-3	1003-1005	Mr	_	_	
+12-4	1005-1006	.	_	_	
+
+#Text=S.
+13-1	1007-1008	S	_	_	
+13-2	1008-1009	.	_	_	
+
+#Text=Cooper, and Mr.
+14-1	1010-1016	Cooper	_	_	
+14-2	1016-1017	,	_	_	
+14-3	1018-1021	and	_	_	
+14-4	1022-1024	Mr	_	_	
+14-5	1024-1025	.	_	_	
+
+#Text=Wood.
+15-1	1026-1030	Wood	_	_	
+15-2	1030-1031	.	_	_	
+
+#Text=At the principal table, on the right and left of the chairman we observed Mr.
+16-1	1032-1034	At	_	_	
+16-2	1035-1038	the	_	_	
+16-3	1039-1048	principal	_	_	
+16-4	1049-1054	table	_	_	
+16-5	1054-1055	,	_	_	
+16-6	1056-1058	on	_	_	
+16-7	1059-1062	the	_	_	
+16-8	1063-1068	right	_	_	
+16-9	1069-1072	and	_	_	
+16-10	1073-1077	left	_	_	
+16-11	1078-1080	of	_	_	
+16-12	1081-1084	the	_	_	
+16-13	1085-1093	chairman	_	_	
+16-14	1094-1096	we	_	_	
+16-15	1097-1105	observed	_	_	
+16-16	1106-1108	Mr	_	_	
+16-17	1108-1109	.	_	_	
+
+#Text=Alderman Hall, Councillors Beckett, Hey, Hayward, Potts, Howard, Hunter, Lawson.and Dove, Thomas Blayds, Esq., T.
+17-1	1110-1118	Alderman	_	_	
+17-2	1119-1123	Hall	_	_	
+17-3	1123-1124	,	_	_	
+17-4	1125-1136	Councillors	_	_	
+17-5	1137-1144	Beckett	_	_	
+17-6	1144-1145	,	_	_	
+17-7	1146-1149	Hey	_	_	
+17-8	1149-1150	,	_	_	
+17-9	1151-1158	Hayward	_	_	
+17-10	1158-1159	,	_	_	
+17-11	1160-1165	Potts	_	_	
+17-12	1165-1166	,	_	_	
+17-13	1167-1173	Howard	_	_	
+17-14	1173-1174	,	_	_	
+17-15	1175-1181	Hunter	_	_	
+17-16	1181-1182	,	_	_	
+17-17	1183-1193	Lawson.and	_	_	
+17-18	1194-1198	Dove	_	_	
+17-19	1198-1199	,	_	_	
+17-20	1200-1206	Thomas	_	_	
+17-21	1207-1213	Blayds	_	_	
+17-22	1213-1214	,	_	_	
+17-23	1215-1218	Esq	_	_	
+17-24	1218-1219	.	_	_	
+17-25	1219-1220	,	_	_	
+17-26	1221-1222	T	_	_	
+17-27	1222-1223	.	_	_	
+
+#Text=E.
+18-1	1224-1225	E	_	_	
+18-2	1225-1226	.	_	_	
+
+#Text=Upton, Esq., Alexander Watson, Esq., and several other gentlemen.
+19-1	1227-1232	Upton	_	_	
+19-2	1232-1233	,	_	_	
+19-3	1234-1237	Esq	_	_	
+19-4	1237-1238	.	_	_	
+19-5	1238-1239	,	_	_	
+19-6	1240-1249	Alexander	_	_	
+19-7	1250-1256	Watson	_	_	
+19-8	1256-1257	,	_	_	
+19-9	1258-1261	Esq	_	_	
+19-10	1261-1262	.	_	_	
+19-11	1262-1263	,	_	_	
+19-12	1264-1267	and	_	_	
+19-13	1268-1275	several	_	_	
+19-14	1276-1281	other	_	_	
+19-15	1282-1291	gentlemen	_	_	
+19-16	1291-1292	.	_	_	
+
+#Text=About 250 persons sat down to dinner.
+20-1	1293-1298	About	_	_	
+20-2	1299-1302	250	_	_	
+20-3	1303-1310	persons	_	_	
+20-4	1311-1314	sat	_	_	
+20-5	1315-1319	down	_	_	
+20-6	1320-1322	to	_	_	
+20-7	1323-1329	dinner	_	_	
+20-8	1329-1330	.	_	_	
+
+#Text=—Leeds Intelligencer.
+21-1	1330-1331	—	_	_	
+21-2	1331-1336	Leeds	_	_	
+21-3	1337-1350	Intelligencer	_	_	
+21-4	1350-1351	.	_	_	
+
+#Text=Tewkesbury Conservative Dinner—On Tuesday, one of the most numerous and respectable meetings of the constituency of the borough of Tewkesbury that can be remembered on any similar occasion, held a festival in the Assembly Room at the Town Hall, to celebrate the return of their tried and "approved good" member,William Dowdeswell, Esq.
+22-1	1352-1362	Tewkesbury	https://en.wikipedia.org/wiki/Tewkesbury	LOC	
+22-2	1363-1375	Conservative	_	_	
+22-3	1376-1385	Dinner—On	_	_	
+22-4	1386-1393	Tuesday	_	_	
+22-5	1393-1394	,	_	_	
+22-6	1395-1398	one	_	_	
+22-7	1399-1401	of	_	_	
+22-8	1402-1405	the	_	_	
+22-9	1406-1410	most	_	_	
+22-10	1411-1419	numerous	_	_	
+22-11	1420-1423	and	_	_	
+22-12	1424-1435	respectable	_	_	
+22-13	1436-1444	meetings	_	_	
+22-14	1445-1447	of	_	_	
+22-15	1448-1451	the	_	_	
+22-16	1452-1464	constituency	_	_	
+22-17	1465-1467	of	_	_	
+22-18	1468-1471	the	_	_	
+22-19	1472-1479	borough	https://en.wikipedia.org/wiki/Tewkesbury\_Borough[2]	LOC[2]	
+22-20	1480-1482	of	https://en.wikipedia.org/wiki/Tewkesbury\_Borough[2]	LOC[2]	
+22-21	1483-1493	Tewkesbury	https://en.wikipedia.org/wiki/Tewkesbury\_Borough[2]	LOC[2]	
+22-22	1494-1498	that	_	_	
+22-23	1499-1502	can	_	_	
+22-24	1503-1505	be	_	_	
+22-25	1506-1516	remembered	_	_	
+22-26	1517-1519	on	_	_	
+22-27	1520-1523	any	_	_	
+22-28	1524-1531	similar	_	_	
+22-29	1532-1540	occasion	_	_	
+22-30	1540-1541	,	_	_	
+22-31	1542-1546	held	_	_	
+22-32	1547-1548	a	_	_	
+22-33	1549-1557	festival	_	_	
+22-34	1558-1560	in	_	_	
+22-35	1561-1564	the	_	_	
+22-36	1565-1573	Assembly	*[3]	BUILDING[3]	
+22-37	1574-1578	Room	*[3]	BUILDING[3]	
+22-38	1579-1581	at	_	_	
+22-39	1582-1585	the	_	_	
+22-40	1586-1590	Town	*[4]	BUILDING[4]	
+22-41	1591-1595	Hall	*[4]	BUILDING[4]	
+22-42	1595-1596	,	_	_	
+22-43	1597-1599	to	_	_	
+22-44	1600-1609	celebrate	_	_	
+22-45	1610-1613	the	_	_	
+22-46	1614-1620	return	_	_	
+22-47	1621-1623	of	_	_	
+22-48	1624-1629	their	_	_	
+22-49	1630-1635	tried	_	_	
+22-50	1636-1639	and	_	_	
+22-51	1640-1641	"	_	_	
+22-52	1641-1649	approved	_	_	
+22-53	1650-1654	good	_	_	
+22-54	1654-1655	"	_	_	
+22-55	1656-1662	member	_	_	
+22-56	1662-1663	,	_	_	
+22-57	1663-1670	William	_	_	
+22-58	1671-1681	Dowdeswell	_	_	
+22-59	1681-1682	,	_	_	
+22-60	1683-1686	Esq	_	_	
+22-61	1686-1687	.	_	_	
+
+#Text=Mr.
+23-1	1688-1690	Mr	_	_	
+23-2	1690-1691	.	_	_	
+
+#Text=William Dowdeswell was in the chair, supported on his right by Sir A.
+24-1	1692-1699	William	_	_	
+24-2	1700-1710	Dowdeswell	_	_	
+24-3	1711-1714	was	_	_	
+24-4	1715-1717	in	_	_	
+24-5	1718-1721	the	_	_	
+24-6	1722-1727	chair	_	_	
+24-7	1727-1728	,	_	_	
+24-8	1729-1738	supported	_	_	
+24-9	1739-1741	on	_	_	
+24-10	1742-1745	his	_	_	
+24-11	1746-1751	right	_	_	
+24-12	1752-1754	by	_	_	
+24-13	1755-1758	Sir	_	_	
+24-14	1759-1760	A	_	_	
+24-15	1760-1761	.	_	_	
+
+#Text=Lechmere, Bart., and on his left by the Hon.
+25-1	1762-1770	Lechmere	_	_	
+25-2	1770-1771	,	_	_	
+25-3	1772-1776	Bart	_	_	
+25-4	1776-1777	.	_	_	
+25-5	1777-1778	,	_	_	
+25-6	1779-1782	and	_	_	
+25-7	1783-1785	on	_	_	
+25-8	1786-1789	his	_	_	
+25-9	1790-1794	left	_	_	
+25-10	1795-1797	by	_	_	
+25-11	1798-1801	the	_	_	
+25-12	1802-1805	Hon	_	_	
+25-13	1805-1806	.	_	_	
+
+#Text=Wm.
+26-1	1807-1809	Wm	_	_	
+26-2	1809-1810	.	_	_	
+
+#Text=Coventry.
+27-1	1811-1819	Coventry	_	_	
+27-2	1819-1820	.	_	_	
+
+#Text=Among the company were J.
+28-1	1821-1826	Among	_	_	
+28-2	1827-1830	the	_	_	
+28-3	1831-1838	company	_	_	
+28-4	1839-1843	were	_	_	
+28-5	1844-1845	J	_	_	
+28-6	1845-1846	.	_	_	
+
+#Text=W.
+29-1	1847-1848	W	_	_	
+29-2	1848-1849	.	_	_	
+
+#Text=Martin, Esq., Rev.
+30-1	1850-1856	Martin	_	_	
+30-2	1856-1857	,	_	_	
+30-3	1858-1861	Esq	_	_	
+30-4	1861-1862	.	_	_	
+30-5	1862-1863	,	_	_	
+30-6	1864-1867	Rev	_	_	
+30-7	1867-1868	.	_	_	
+
+#Text=George Turberville, E.
+31-1	1869-1875	George	_	_	
+31-2	1876-1887	Turberville	_	_	
+31-3	1887-1888	,	_	_	
+31-4	1889-1890	E	_	_	
+31-5	1890-1891	.	_	_	
+
+#Text=G.
+32-1	1892-1893	G	_	_	
+32-2	1893-1894	.	_	_	
+
+#Text=Stone, Esq., Uvedale Price, Esq., Revs.
+33-1	1895-1900	Stone	_	_	
+33-2	1900-1901	,	_	_	
+33-3	1902-1905	Esq	_	_	
+33-4	1905-1906	.	_	_	
+33-5	1906-1907	,	_	_	
+33-6	1908-1915	Uvedale	_	_	
+33-7	1916-1921	Price	_	_	
+33-8	1921-1922	,	_	_	
+33-9	1923-1926	Esq	_	_	
+33-10	1926-1927	.	_	_	
+33-11	1927-1928	,	_	_	
+33-12	1929-1933	Revs	_	_	
+33-13	1933-1934	.	_	_	
+
+#Text=A.
+34-1	1935-1936	A	_	_	
+34-2	1936-1937	.	_	_	
+
+#Text=Luders, A.
+35-1	1938-1944	Luders	_	_	
+35-2	1944-1945	,	_	_	
+35-3	1946-1947	A	_	_	
+35-4	1947-1948	.	_	_	
+
+#Text=B.
+36-1	1949-1950	B	_	_	
+36-2	1950-1951	.	_	_	
+
+#Text=Lechmere.
+37-1	1952-1960	Lechmere	_	_	
+37-2	1960-1961	.	_	_	
+
+#Text=R.
+38-1	1962-1963	R	_	_	
+38-2	1963-1964	.	_	_	
+
+#Text=L.
+39-1	1965-1966	L	_	_	
+39-2	1966-1967	.	_	_	
+
+#Text=Freer, R.
+40-1	1968-1973	Freer	_	_	
+40-2	1973-1974	,	_	_	
+40-3	1975-1976	R	_	_	
+40-4	1976-1977	.	_	_	
+
+#Text=Hepworth, F.
+41-1	1978-1986	Hepworth	_	_	
+41-2	1986-1987	,	_	_	
+41-3	1988-1989	F	_	_	
+41-4	1989-1990	.	_	_	
+
+#Text=Foxton, I.
+42-1	1991-1997	Foxton	_	_	
+42-2	1997-1998	,	_	_	
+42-3	1999-2000	I	_	_	
+42-4	2000-2001	.	_	_	
+
+#Text=Prosser, J.
+43-1	2002-2009	Prosser	_	_	
+43-2	2009-2010	,	_	_	
+43-3	2011-2012	J	_	_	
+43-4	2012-2013	.	_	_	
+
+#Text=Sermon, Esq., I.
+44-1	2014-2020	Sermon	_	_	
+44-2	2020-2021	,	_	_	
+44-3	2022-2025	Esq	_	_	
+44-4	2025-2026	.	_	_	
+44-5	2026-2027	,	_	_	
+44-6	2028-2029	I	_	_	
+44-7	2029-2030	.	_	_	
+
+#Text=M.
+45-1	2031-2032	M	_	_	
+45-2	2032-2033	.	_	_	
+
+#Text=P.
+46-1	2034-2035	P	_	_	
+46-2	2035-2036	.	_	_	
+
+#Text=Hopton, Esq., J.
+47-1	2037-2043	Hopton	_	_	
+47-2	2043-2044	,	_	_	
+47-3	2045-2048	Esq	_	_	
+47-4	2048-2049	.	_	_	
+47-5	2049-2050	,	_	_	
+47-6	2051-2052	J	_	_	
+47-7	2052-2053	.	_	_	
+
+#Text=E.
+48-1	2054-2055	E	_	_	
+48-2	2055-2056	.	_	_	
+
+#Text=Barnes, Esq., W.
+49-1	2057-2063	Barnes	_	_	
+49-2	2063-2064	,	_	_	
+49-3	2065-2068	Esq	_	_	
+49-4	2068-2069	.	_	_	
+49-5	2069-2070	,	_	_	
+49-6	2071-2072	W	_	_	
+49-7	2072-2073	.	_	_	
+
+#Text=S.
+50-1	2074-2075	S	_	_	
+50-2	2075-2076	.	_	_	
+
+#Text=Evans, Esq., J.
+51-1	2077-2082	Evans	_	_	
+51-2	2082-2083	,	_	_	
+51-3	2084-2087	Esq	_	_	
+51-4	2087-2088	.	_	_	
+51-5	2088-2089	,	_	_	
+51-6	2090-2091	J	_	_	
+51-7	2091-2092	.	_	_	
+
+#Text=Moore, Esq., A.
+52-1	2093-2098	Moore	_	_	
+52-2	2098-2099	,	_	_	
+52-3	2100-2103	Esq	_	_	
+52-4	2103-2104	.	_	_	
+52-5	2104-2105	,	_	_	
+52-6	2106-2107	A	_	_	
+52-7	2107-2108	.	_	_	
+
+#Text=Sproule, Esq., and many other gentlemen of distinction.
+53-1	2109-2116	Sproule	_	_	
+53-2	2116-2117	,	_	_	
+53-3	2118-2121	Esq	_	_	
+53-4	2121-2122	.	_	_	
+53-5	2122-2123	,	_	_	
+53-6	2124-2127	and	_	_	
+53-7	2128-2132	many	_	_	
+53-8	2133-2138	other	_	_	
+53-9	2139-2148	gentlemen	_	_	
+53-10	2149-2151	of	_	_	
+53-11	2152-2163	distinction	_	_	
+53-12	2163-2164	.	_	_	
+
+#Text=The vice-president of the centre table was A.
+54-1	2165-2168	The	_	_	
+54-2	2169-2183	vice-president	_	_	
+54-3	2184-2186	of	_	_	
+54-4	2187-2190	the	_	_	
+54-5	2191-2197	centre	_	_	
+54-6	2198-2203	table	_	_	
+54-7	2204-2207	was	_	_	
+54-8	2208-2209	A	_	_	
+54-9	2209-2210	.	_	_	
+
+#Text=Sutherland Graeme, Esq., and Messrs.
+55-1	2211-2221	Sutherland	_	_	
+55-2	2222-2228	Graeme	_	_	
+55-3	2228-2229	,	_	_	
+55-4	2230-2233	Esq	_	_	
+55-5	2233-2234	.	_	_	
+55-6	2234-2235	,	_	_	
+55-7	2236-2239	and	_	_	
+55-8	2240-2246	Messrs	_	_	
+55-9	2246-2247	.	_	_	
+
+#Text=Higginson and J.
+56-1	2248-2257	Higginson	_	_	
+56-2	2258-2261	and	_	_	
+56-3	2262-2263	J	_	_	
+56-4	2263-2264	.	_	_	
+
+#Text=Petley filled the same office at the other two.
+57-1	2265-2271	Petley	_	_	
+57-2	2272-2278	filled	_	_	
+57-3	2279-2282	the	_	_	
+57-4	2283-2287	same	_	_	
+57-5	2288-2294	office	_	_	
+57-6	2295-2297	at	_	_	
+57-7	2298-2301	the	_	_	
+57-8	2302-2307	other	_	_	
+57-9	2308-2311	two	_	_	
+57-10	2311-2312	.	_	_	
+
+#Text=The large room was completely filled, and it accommodates about 200; while in the adjoining one 40 more gentlemen sat down to dinner—Worcestershire Guardian.
+58-1	2313-2316	The	_	_	
+58-2	2317-2322	large	_	_	
+58-3	2323-2327	room	_	_	
+58-4	2328-2331	was	_	_	
+58-5	2332-2342	completely	_	_	
+58-6	2343-2349	filled	_	_	
+58-7	2349-2350	,	_	_	
+58-8	2351-2354	and	_	_	
+58-9	2355-2357	it	_	_	
+58-10	2358-2370	accommodates	_	_	
+58-11	2371-2376	about	_	_	
+58-12	2377-2380	200	_	_	
+58-13	2380-2381	;	_	_	
+58-14	2382-2387	while	_	_	
+58-15	2388-2390	in	_	_	
+58-16	2391-2394	the	_	_	
+58-17	2395-2404	adjoining	_	_	
+58-18	2405-2408	one	_	_	
+58-19	2409-2411	40	_	_	
+58-20	2412-2416	more	_	_	
+58-21	2417-2426	gentlemen	_	_	
+58-22	2427-2430	sat	_	_	
+58-23	2431-2435	down	_	_	
+58-24	2436-2438	to	_	_	
+58-25	2439-2460	dinner—Worcestershire	_	_	
+58-26	2461-2469	Guardian	_	_	
+58-27	2469-2470	.	_	_	

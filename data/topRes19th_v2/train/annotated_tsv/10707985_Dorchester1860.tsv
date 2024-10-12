@@ -1,0 +1,348 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WILTSHIRE.
+1-1	0-9	WILTSHIRE	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+1-2	9-10	.	_	_	
+
+#Text=SALISBURY.
+2-1	12-21	SALISBURY	https://en.wikipedia.org/wiki/Salisbury	LOC	
+2-2	21-22	.	_	_	
+
+#Text=Salisbury Training School.
+3-1	23-32	Salisbury	https://en.wikipedia.org/wiki/Salisbury	LOC	
+3-2	33-41	Training	_	_	
+3-3	42-48	School	_	_	
+3-4	48-49	.	_	_	
+
+#Text=—The students at this institution have presented a magnificent private communion service to their late Chaplain and Preceptor, the Rev.
+4-1	49-50	—	_	_	
+4-2	50-53	The	_	_	
+4-3	54-62	students	_	_	
+4-4	63-65	at	_	_	
+4-5	66-70	this	_	_	
+4-6	71-82	institution	_	_	
+4-7	83-87	have	_	_	
+4-8	88-97	presented	_	_	
+4-9	98-99	a	_	_	
+4-10	100-111	magnificent	_	_	
+4-11	112-119	private	_	_	
+4-12	120-129	communion	_	_	
+4-13	130-137	service	_	_	
+4-14	138-140	to	_	_	
+4-15	141-146	their	_	_	
+4-16	147-151	late	_	_	
+4-17	152-160	Chaplain	_	_	
+4-18	161-164	and	_	_	
+4-19	165-174	Preceptor	_	_	
+4-20	174-175	,	_	_	
+4-21	176-179	the	_	_	
+4-22	180-183	Rev	_	_	
+4-23	183-184	.	_	_	
+
+#Text=E.
+5-1	185-186	E	_	_	
+5-2	186-187	.	_	_	
+
+#Text=C.
+6-1	188-189	C	_	_	
+6-2	189-190	.	_	_	
+
+#Text=Collard, as a token of their personal regard, and their high appreciation of his devoted services durinjr a period of many years.
+7-1	191-198	Collard	_	_	
+7-2	198-199	,	_	_	
+7-3	200-202	as	_	_	
+7-4	203-204	a	_	_	
+7-5	205-210	token	_	_	
+7-6	211-213	of	_	_	
+7-7	214-219	their	_	_	
+7-8	220-228	personal	_	_	
+7-9	229-235	regard	_	_	
+7-10	235-236	,	_	_	
+7-11	237-240	and	_	_	
+7-12	241-246	their	_	_	
+7-13	247-251	high	_	_	
+7-14	252-264	appreciation	_	_	
+7-15	265-267	of	_	_	
+7-16	268-271	his	_	_	
+7-17	272-279	devoted	_	_	
+7-18	280-288	services	_	_	
+7-19	289-296	durinjr	_	_	
+7-20	297-298	a	_	_	
+7-21	299-305	period	_	_	
+7-22	306-308	of	_	_	
+7-23	309-313	many	_	_	
+7-24	314-319	years	_	_	
+7-25	319-320	.	_	_	
+
+#Text=Southern Counties Agricultural Association.— At a meeting of the committee of this association, held on Monday week, at Basingstoke, Lord Eversley in the chair, the county of Wilts was removed from the scheme, in consequence of its being included in the district of the Bath and West of England Society.
+8-1	321-329	Southern	_	_	
+8-2	330-338	Counties	_	_	
+8-3	339-351	Agricultural	_	_	
+8-4	352-363	Association	_	_	
+8-5	363-364	.	_	_	
+8-6	364-365	—	_	_	
+8-7	366-368	At	_	_	
+8-8	369-370	a	_	_	
+8-9	371-378	meeting	_	_	
+8-10	379-381	of	_	_	
+8-11	382-385	the	_	_	
+8-12	386-395	committee	_	_	
+8-13	396-398	of	_	_	
+8-14	399-403	this	_	_	
+8-15	404-415	association	_	_	
+8-16	415-416	,	_	_	
+8-17	417-421	held	_	_	
+8-18	422-424	on	_	_	
+8-19	425-431	Monday	_	_	
+8-20	432-436	week	_	_	
+8-21	436-437	,	_	_	
+8-22	438-440	at	_	_	
+8-23	441-452	Basingstoke	https://en.wikipedia.org/wiki/Basingstoke	LOC	
+8-24	452-453	,	_	_	
+8-25	454-458	Lord	_	_	
+8-26	459-467	Eversley	_	_	
+8-27	468-470	in	_	_	
+8-28	471-474	the	_	_	
+8-29	475-480	chair	_	_	
+8-30	480-481	,	_	_	
+8-31	482-485	the	_	_	
+8-32	486-492	county	_	_	
+8-33	493-495	of	_	_	
+8-34	496-501	Wilts	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+8-35	502-505	was	_	_	
+8-36	506-513	removed	_	_	
+8-37	514-518	from	_	_	
+8-38	519-522	the	_	_	
+8-39	523-529	scheme	_	_	
+8-40	529-530	,	_	_	
+8-41	531-533	in	_	_	
+8-42	534-545	consequence	_	_	
+8-43	546-548	of	_	_	
+8-44	549-552	its	_	_	
+8-45	553-558	being	_	_	
+8-46	559-567	included	_	_	
+8-47	568-570	in	_	_	
+8-48	571-574	the	_	_	
+8-49	575-583	district	_	_	
+8-50	584-586	of	_	_	
+8-51	587-590	the	_	_	
+8-52	591-595	Bath	_	_	
+8-53	596-599	and	_	_	
+8-54	600-604	West	_	_	
+8-55	605-607	of	_	_	
+8-56	608-615	England	_	_	
+8-57	616-623	Society	_	_	
+8-58	623-624	.	_	_	
+
+#Text=Diocesan.
+9-1	625-633	Diocesan	_	_	
+9-2	633-634	.	_	_	
+
+#Text=—On the 15th inst. the Right Rev. the Lord Bishop of Salisbury instituted the Rev.
+10-1	634-635	—	_	_	
+10-2	635-637	On	_	_	
+10-3	638-641	the	_	_	
+10-4	642-646	15th	_	_	
+10-5	647-651	inst	_	_	
+10-6	651-652	.	_	_	
+10-7	653-656	the	_	_	
+10-8	657-662	Right	_	_	
+10-9	663-666	Rev	_	_	
+10-10	666-667	.	_	_	
+10-11	668-671	the	_	_	
+10-12	672-676	Lord	_	_	
+10-13	677-683	Bishop	_	_	
+10-14	684-686	of	_	_	
+10-15	687-696	Salisbury	_	_	
+10-16	697-707	instituted	_	_	
+10-17	708-711	the	_	_	
+10-18	712-715	Rev	_	_	
+10-19	715-716	.	_	_	
+
+#Text=Charles Percival Phinn, clerk, 8.A., to the rectory of Churchel Parva, alias More Critchell with Long Crechel alias Critchill, Dorset, void by the death of William Moss King, clerk, on the presentation of Henry Charles Sturt, of Critchell House, Dorset, Esq.; also the Rev.
+11-1	717-724	Charles	_	_	
+11-2	725-733	Percival	_	_	
+11-3	734-739	Phinn	_	_	
+11-4	739-740	,	_	_	
+11-5	741-746	clerk	_	_	
+11-6	746-747	,	_	_	
+11-7	748-749	8	_	_	
+11-8	749-750	.	_	_	
+11-9	750-751	A	_	_	
+11-10	751-752	.	_	_	
+11-11	752-753	,	_	_	
+11-12	754-756	to	_	_	
+11-13	757-760	the	_	_	
+11-14	761-768	rectory	_	_	
+11-15	769-771	of	_	_	
+11-16	772-780	Churchel	*[1]	LOC[1]	
+11-17	781-786	Parva	*[1]	LOC[1]	
+11-18	786-787	,	_	_	
+11-19	788-793	alias	_	_	
+11-20	794-798	More	_	_	
+11-21	799-808	Critchell	_	_	
+11-22	809-813	with	_	_	
+11-23	814-818	Long	https://en.wikipedia.org/wiki/Long\_Crichel[2]	LOC[2]	
+11-24	819-826	Crechel	https://en.wikipedia.org/wiki/Long\_Crichel[2]	LOC[2]	
+11-25	827-832	alias	_	_	
+11-26	833-842	Critchill	_	_	
+11-27	842-843	,	_	_	
+11-28	844-850	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+11-29	850-851	,	_	_	
+11-30	852-856	void	_	_	
+11-31	857-859	by	_	_	
+11-32	860-863	the	_	_	
+11-33	864-869	death	_	_	
+11-34	870-872	of	_	_	
+11-35	873-880	William	_	_	
+11-36	881-885	Moss	_	_	
+11-37	886-890	King	_	_	
+11-38	890-891	,	_	_	
+11-39	892-897	clerk	_	_	
+11-40	897-898	,	_	_	
+11-41	899-901	on	_	_	
+11-42	902-905	the	_	_	
+11-43	906-918	presentation	_	_	
+11-44	919-921	of	_	_	
+11-45	922-927	Henry	_	_	
+11-46	928-935	Charles	_	_	
+11-47	936-941	Sturt	_	_	
+11-48	941-942	,	_	_	
+11-49	943-945	of	_	_	
+11-50	946-955	Critchell	*[3]	BUILDING[3]	
+11-51	956-961	House	*[3]	BUILDING[3]	
+11-52	961-962	,	_	_	
+11-53	963-969	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+11-54	969-970	,	_	_	
+11-55	971-974	Esq	_	_	
+11-56	974-975	.	_	_	
+11-57	975-976	;	_	_	
+11-58	977-981	also	_	_	
+11-59	982-985	the	_	_	
+11-60	986-989	Rev	_	_	
+11-61	989-990	.	_	_	
+
+#Text=John Wade Shelton, clerk, 8.A., to the perpetual curacy of Stourton Caundle, Dorset, void by the death of John Gilderdale, clerk, on the nomination of Sir Henry Ainslie Hoare, of Stourhead, Wilts, Bart.
+12-1	991-995	John	_	_	
+12-2	996-1000	Wade	_	_	
+12-3	1001-1008	Shelton	_	_	
+12-4	1008-1009	,	_	_	
+12-5	1010-1015	clerk	_	_	
+12-6	1015-1016	,	_	_	
+12-7	1017-1018	8	_	_	
+12-8	1018-1019	.	_	_	
+12-9	1019-1020	A	_	_	
+12-10	1020-1021	.	_	_	
+12-11	1021-1022	,	_	_	
+12-12	1023-1025	to	_	_	
+12-13	1026-1029	the	_	_	
+12-14	1030-1039	perpetual	_	_	
+12-15	1040-1046	curacy	_	_	
+12-16	1047-1049	of	_	_	
+12-17	1050-1058	Stourton	https://en.wikipedia.org/wiki/Stourton\_Caundle[4]	LOC[4]	
+12-18	1059-1066	Caundle	https://en.wikipedia.org/wiki/Stourton\_Caundle[4]	LOC[4]	
+12-19	1066-1067	,	_	_	
+12-20	1068-1074	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+12-21	1074-1075	,	_	_	
+12-22	1076-1080	void	_	_	
+12-23	1081-1083	by	_	_	
+12-24	1084-1087	the	_	_	
+12-25	1088-1093	death	_	_	
+12-26	1094-1096	of	_	_	
+12-27	1097-1101	John	_	_	
+12-28	1102-1112	Gilderdale	_	_	
+12-29	1112-1113	,	_	_	
+12-30	1114-1119	clerk	_	_	
+12-31	1119-1120	,	_	_	
+12-32	1121-1123	on	_	_	
+12-33	1124-1127	the	_	_	
+12-34	1128-1138	nomination	_	_	
+12-35	1139-1141	of	_	_	
+12-36	1142-1145	Sir	_	_	
+12-37	1146-1151	Henry	_	_	
+12-38	1152-1159	Ainslie	_	_	
+12-39	1160-1165	Hoare	_	_	
+12-40	1165-1166	,	_	_	
+12-41	1167-1169	of	_	_	
+12-42	1170-1179	Stourhead	https://en.wikipedia.org/wiki/Stourhead	LOC	
+12-43	1179-1180	,	_	_	
+12-44	1181-1186	Wilts	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+12-45	1186-1187	,	_	_	
+12-46	1188-1192	Bart	_	_	
+12-47	1192-1193	.	_	_	
+
+#Text=—On the same day his lordship licensed the following gentlemen The Rev.
+13-1	1193-1194	—	_	_	
+13-2	1194-1196	On	_	_	
+13-3	1197-1200	the	_	_	
+13-4	1201-1205	same	_	_	
+13-5	1206-1209	day	_	_	
+13-6	1210-1213	his	_	_	
+13-7	1214-1222	lordship	_	_	
+13-8	1223-1231	licensed	_	_	
+13-9	1232-1235	the	_	_	
+13-10	1236-1245	following	_	_	
+13-11	1246-1255	gentlemen	_	_	
+13-12	1256-1259	The	_	_	
+13-13	1260-1263	Rev	_	_	
+13-14	1263-1264	.	_	_	
+
+#Text=William Darby, clerk, to the curacy of Ashmore, Dorset; the Rev.
+14-1	1265-1272	William	_	_	
+14-2	1273-1278	Darby	_	_	
+14-3	1278-1279	,	_	_	
+14-4	1280-1285	clerk	_	_	
+14-5	1285-1286	,	_	_	
+14-6	1287-1289	to	_	_	
+14-7	1290-1293	the	_	_	
+14-8	1294-1300	curacy	_	_	
+14-9	1301-1303	of	_	_	
+14-10	1304-1311	Ashmore	https://en.wikipedia.org/wiki/Ashmore	LOC	
+14-11	1311-1312	,	_	_	
+14-12	1313-1319	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+14-13	1319-1320	;	_	_	
+14-14	1321-1324	the	_	_	
+14-15	1325-1328	Rev	_	_	
+14-16	1328-1329	.	_	_	
+
+#Text=Charles Shilson, clerk, M.A., to the curacy of Bishopstone, Wilts, and the Rev.
+15-1	1330-1337	Charles	_	_	
+15-2	1338-1345	Shilson	_	_	
+15-3	1345-1346	,	_	_	
+15-4	1347-1352	clerk	_	_	
+15-5	1352-1353	,	_	_	
+15-6	1354-1357	M.A	_	_	
+15-7	1357-1358	.	_	_	
+15-8	1358-1359	,	_	_	
+15-9	1360-1362	to	_	_	
+15-10	1363-1366	the	_	_	
+15-11	1367-1373	curacy	_	_	
+15-12	1374-1376	of	_	_	
+15-13	1377-1388	Bishopstone	*	LOC	
+15-14	1388-1389	,	_	_	
+15-15	1390-1395	Wilts	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+15-16	1395-1396	,	_	_	
+15-17	1397-1400	and	_	_	
+15-18	1401-1404	the	_	_	
+15-19	1405-1408	Rev	_	_	
+15-20	1408-1409	.	_	_	
+
+#Text=William Westall, clerk, M.A., to the curacy of Tisbury, Wilts.
+16-1	1410-1417	William	_	_	
+16-2	1418-1425	Westall	_	_	
+16-3	1425-1426	,	_	_	
+16-4	1427-1432	clerk	_	_	
+16-5	1432-1433	,	_	_	
+16-6	1434-1437	M.A	_	_	
+16-7	1437-1438	.	_	_	
+16-8	1438-1439	,	_	_	
+16-9	1440-1442	to	_	_	
+16-10	1443-1446	the	_	_	
+16-11	1447-1453	curacy	_	_	
+16-12	1454-1456	of	_	_	
+16-13	1457-1464	Tisbury	https://en.wikipedia.org/wiki/Tisbury,\_Wiltshire	LOC	
+16-14	1464-1465	,	_	_	
+16-15	1466-1471	Wilts	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+16-16	1471-1472	.	_	_	

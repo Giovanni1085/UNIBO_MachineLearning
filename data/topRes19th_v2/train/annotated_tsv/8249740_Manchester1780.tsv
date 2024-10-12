@@ -1,0 +1,835 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=BANKRUPTS.
+1-1	0-9	BANKRUPTS	_	_	
+1-2	9-10	.	_	_	
+
+#Text=StephCTi Pcarlon, of Thrapllon, in the County of Northampton, Shopkeeper, Dtralet and Chapman; to appear Oft. 19, 20, and Nov. 3, at Guildhall, London, Attorney, Air.
+2-1	12-20	StephCTi	_	_	
+2-2	21-28	Pcarlon	_	_	
+2-3	28-29	,	_	_	
+2-4	30-32	of	_	_	
+2-5	33-42	Thrapllon	https://en.wikipedia.org/wiki/Thrapston	LOC	
+2-6	42-43	,	_	_	
+2-7	44-46	in	_	_	
+2-8	47-50	the	_	_	
+2-9	51-57	County	_	_	
+2-10	58-60	of	_	_	
+2-11	61-72	Northampton	https://en.wikipedia.org/wiki/Northamptonshire	LOC	
+2-12	72-73	,	_	_	
+2-13	74-84	Shopkeeper	_	_	
+2-14	84-85	,	_	_	
+2-15	86-93	Dtralet	_	_	
+2-16	94-97	and	_	_	
+2-17	98-105	Chapman	_	_	
+2-18	105-106	;	_	_	
+2-19	107-109	to	_	_	
+2-20	110-116	appear	_	_	
+2-21	117-120	Oft	_	_	
+2-22	120-121	.	_	_	
+2-23	122-124	19	_	_	
+2-24	124-125	,	_	_	
+2-25	126-128	20	_	_	
+2-26	128-129	,	_	_	
+2-27	130-133	and	_	_	
+2-28	134-137	Nov	_	_	
+2-29	137-138	.	_	_	
+2-30	139-140	3	_	_	
+2-31	140-141	,	_	_	
+2-32	142-144	at	_	_	
+2-33	145-154	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	BUILDING	
+2-34	154-155	,	_	_	
+2-35	156-162	London	https://en.wikipedia.org/wiki/London	LOC	
+2-36	162-163	,	_	_	
+2-37	164-172	Attorney	_	_	
+2-38	172-173	,	_	_	
+2-39	174-177	Air	_	_	
+2-40	177-178	.	_	_	
+
+#Text=Fairbank, Ely-plaec, London.
+3-1	179-187	Fairbank	_	_	
+3-2	187-188	,	_	_	
+3-3	189-198	Ely-plaec	*	STREET	
+3-4	198-199	,	_	_	
+3-5	200-206	London	https://en.wikipedia.org/wiki/London	LOC	
+3-6	206-207	.	_	_	
+
+#Text=James Macgowan, of Palcr-nolterrow, London, Bookfeller; to appear Oft. 13, 13, and Kov. 3, at Guildhall, London.
+4-1	208-213	James	_	_	
+4-2	214-222	Macgowan	_	_	
+4-3	222-223	,	_	_	
+4-4	224-226	of	_	_	
+4-5	227-242	Palcr-nolterrow	_	_	
+4-6	242-243	,	_	_	
+4-7	244-250	London	https://en.wikipedia.org/wiki/London	LOC	
+4-8	250-251	,	_	_	
+4-9	252-262	Bookfeller	_	_	
+4-10	262-263	;	_	_	
+4-11	264-266	to	_	_	
+4-12	267-273	appear	_	_	
+4-13	274-277	Oft	_	_	
+4-14	277-278	.	_	_	
+4-15	279-281	13	_	_	
+4-16	281-282	,	_	_	
+4-17	283-285	13	_	_	
+4-18	285-286	,	_	_	
+4-19	287-290	and	_	_	
+4-20	291-294	Kov	_	_	
+4-21	294-295	.	_	_	
+4-22	296-297	3	_	_	
+4-23	297-298	,	_	_	
+4-24	299-301	at	_	_	
+4-25	302-311	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	STREET	
+4-26	311-312	,	_	_	
+4-27	313-319	London	https://en.wikipedia.org/wiki/London	LOC	
+4-28	319-320	.	_	_	
+
+#Text=Attorney, Mr.
+5-1	321-329	Attorney	_	_	
+5-2	329-330	,	_	_	
+5-3	331-333	Mr	_	_	
+5-4	333-334	.	_	_	
+
+#Text=Fairbank, Ely-place, Loudon Jolm Haworth and Edmund Hawoith, late of Blackburn, in the County of Lancalter, Callico-printers, Dealers and .
+6-1	335-343	Fairbank	_	_	
+6-2	343-344	,	_	_	
+6-3	345-354	Ely-place	*	STREET	
+6-4	354-355	,	_	_	
+6-5	356-362	Loudon	https://en.wikipedia.org/wiki/Ely\_Place	LOC	
+6-6	363-367	Jolm	_	_	
+6-7	368-375	Haworth	_	_	
+6-8	376-379	and	_	_	
+6-9	380-386	Edmund	_	_	
+6-10	387-394	Hawoith	_	_	
+6-11	394-395	,	_	_	
+6-12	396-400	late	_	_	
+6-13	401-403	of	_	_	
+6-14	404-413	Blackburn	https://en.wikipedia.org/wiki/Blackburn	LOC	
+6-15	413-414	,	_	_	
+6-16	415-417	in	_	_	
+6-17	418-421	the	_	_	
+6-18	422-428	County	_	_	
+6-19	429-431	of	_	_	
+6-20	432-441	Lancalter	https://en.wikipedia.org/wiki/Lancashire	LOC	
+6-21	441-442	,	_	_	
+6-22	443-459	Callico-printers	_	_	
+6-23	459-460	,	_	_	
+6-24	461-468	Dealers	_	_	
+6-25	469-472	and	_	_	
+6-26	473-474	.	_	_	
+
+#Text=Chapmen, furviving Partners of William Haworth, late at the fame Place, Callico-printer, deceaied ; to appear Oft. 12, 13, and Nov. 3, at the Royal Oak Inn, in Mancheller, Attorney, Mr.
+7-1	475-482	Chapmen	_	_	
+7-2	482-483	,	_	_	
+7-3	484-493	furviving	_	_	
+7-4	494-502	Partners	_	_	
+7-5	503-505	of	_	_	
+7-6	506-513	William	_	_	
+7-7	514-521	Haworth	_	_	
+7-8	521-522	,	_	_	
+7-9	523-527	late	_	_	
+7-10	528-530	at	_	_	
+7-11	531-534	the	_	_	
+7-12	535-539	fame	_	_	
+7-13	540-545	Place	_	_	
+7-14	545-546	,	_	_	
+7-15	547-562	Callico-printer	_	_	
+7-16	562-563	,	_	_	
+7-17	564-572	deceaied	_	_	
+7-18	573-574	;	_	_	
+7-19	575-577	to	_	_	
+7-20	578-584	appear	_	_	
+7-21	585-588	Oft	_	_	
+7-22	588-589	.	_	_	
+7-23	590-592	12	_	_	
+7-24	592-593	,	_	_	
+7-25	594-596	13	_	_	
+7-26	596-597	,	_	_	
+7-27	598-601	and	_	_	
+7-28	602-605	Nov	_	_	
+7-29	605-606	.	_	_	
+7-30	607-608	3	_	_	
+7-31	608-609	,	_	_	
+7-32	610-612	at	_	_	
+7-33	613-616	the	_	_	
+7-34	617-622	Royal	*[1]	BUILDING[1]	
+7-35	623-626	Oak	*[1]	BUILDING[1]	
+7-36	627-630	Inn	*[1]	BUILDING[1]	
+7-37	630-631	,	_	_	
+7-38	632-634	in	_	_	
+7-39	635-645	Mancheller	https://en.wikipedia.org/wiki/Manchester	LOC	
+7-40	645-646	,	_	_	
+7-41	647-655	Attorney	_	_	
+7-42	655-656	,	_	_	
+7-43	657-659	Mr	_	_	
+7-44	659-660	.	_	_	
+
+#Text=Milne, in Mancheller.
+8-1	661-666	Milne	_	_	
+8-2	666-667	,	_	_	
+8-3	668-670	in	_	_	
+8-4	671-681	Mancheller	https://en.wikipedia.org/wiki/Manchester	LOC	
+8-5	681-682	.	_	_	
+
+#Text=John Lee, of Bridgnorth, in the County of Salop, Shoemaker, Dealer and Chapman ; to appear Oft. 5, 6, and Nov. 3, at the Hand and Bottle, in Bridgnorth.
+9-1	683-687	John	_	_	
+9-2	688-691	Lee	_	_	
+9-3	691-692	,	_	_	
+9-4	693-695	of	_	_	
+9-5	696-706	Bridgnorth	https://en.wikipedia.org/wiki/Bridgnorth	LOC	
+9-6	706-707	,	_	_	
+9-7	708-710	in	_	_	
+9-8	711-714	the	_	_	
+9-9	715-721	County	https://en.wikipedia.org/wiki/Shropshire[2]	LOC[2]	
+9-10	722-724	of	https://en.wikipedia.org/wiki/Shropshire[2]	LOC[2]	
+9-11	725-730	Salop	https://en.wikipedia.org/wiki/Shropshire[2]	LOC[2]	
+9-12	730-731	,	_	_	
+9-13	732-741	Shoemaker	_	_	
+9-14	741-742	,	_	_	
+9-15	743-749	Dealer	_	_	
+9-16	750-753	and	_	_	
+9-17	754-761	Chapman	_	_	
+9-18	762-763	;	_	_	
+9-19	764-766	to	_	_	
+9-20	767-773	appear	_	_	
+9-21	774-777	Oft	_	_	
+9-22	777-778	.	_	_	
+9-23	779-780	5	_	_	
+9-24	780-781	,	_	_	
+9-25	782-783	6	_	_	
+9-26	783-784	,	_	_	
+9-27	785-788	and	_	_	
+9-28	789-792	Nov	_	_	
+9-29	792-793	.	_	_	
+9-30	794-795	3	_	_	
+9-31	795-796	,	_	_	
+9-32	797-799	at	_	_	
+9-33	800-803	the	_	_	
+9-34	804-808	Hand	_	_	
+9-35	809-812	and	_	_	
+9-36	813-819	Bottle	_	_	
+9-37	819-820	,	_	_	
+9-38	821-823	in	_	_	
+9-39	824-834	Bridgnorth	https://en.wikipedia.org/wiki/Bridgnorth	LOC	
+9-40	834-835	.	_	_	
+
+#Text=Attorney, Mr.
+10-1	836-844	Attorney	_	_	
+10-2	844-845	,	_	_	
+10-3	846-848	Mr	_	_	
+10-4	848-849	.	_	_	
+
+#Text=Gilbert Brown, in Shitfhal).
+11-1	850-857	Gilbert	_	_	
+11-2	858-863	Brown	_	_	
+11-3	863-864	,	_	_	
+11-4	865-867	in	_	_	
+11-5	868-876	Shitfhal	https://en.wikipedia.org/wiki/Shifnal	LOC	
+11-6	876-877	)	_	_	
+11-7	877-878	.	_	_	
+
+#Text=Richard Wilks, of Narrow-ftrcet, Limchoufe, in the County of MiddleTex, Brandy-merchant, Dealer and Chapman; to appear Oft. 6, 13, and Nov. 3, at Guildhall, London.
+12-1	879-886	Richard	_	_	
+12-2	887-892	Wilks	_	_	
+12-3	892-893	,	_	_	
+12-4	894-896	of	_	_	
+12-5	897-910	Narrow-ftrcet	*	STREET	
+12-6	910-911	,	_	_	
+12-7	912-921	Limchoufe	https://en.wikipedia.org/wiki/Limehouse	LOC	
+12-8	921-922	,	_	_	
+12-9	923-925	in	_	_	
+12-10	926-929	the	_	_	
+12-11	930-936	County	https://en.wikipedia.org/wiki/Middlesex[3]	LOC[3]	
+12-12	937-939	of	https://en.wikipedia.org/wiki/Middlesex[3]	LOC[3]	
+12-13	940-949	MiddleTex	https://en.wikipedia.org/wiki/Middlesex[3]	LOC[3]	
+12-14	949-950	,	_	_	
+12-15	951-966	Brandy-merchant	_	_	
+12-16	966-967	,	_	_	
+12-17	968-974	Dealer	_	_	
+12-18	975-978	and	_	_	
+12-19	979-986	Chapman	_	_	
+12-20	986-987	;	_	_	
+12-21	988-990	to	_	_	
+12-22	991-997	appear	_	_	
+12-23	998-1001	Oft	_	_	
+12-24	1001-1002	.	_	_	
+12-25	1003-1004	6	_	_	
+12-26	1004-1005	,	_	_	
+12-27	1006-1008	13	_	_	
+12-28	1008-1009	,	_	_	
+12-29	1010-1013	and	_	_	
+12-30	1014-1017	Nov	_	_	
+12-31	1017-1018	.	_	_	
+12-32	1019-1020	3	_	_	
+12-33	1020-1021	,	_	_	
+12-34	1022-1024	at	_	_	
+12-35	1025-1034	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	LOC	
+12-36	1034-1035	,	_	_	
+12-37	1036-1042	London	https://en.wikipedia.org/wiki/London	LOC	
+12-38	1042-1043	.	_	_	
+
+#Text=Attorney, Mr.
+13-1	1044-1052	Attorney	_	_	
+13-2	1052-1053	,	_	_	
+13-3	1054-1056	Mr	_	_	
+13-4	1056-1057	.	_	_	
+
+#Text=Wooirich, Clitibrd’s-inn.
+14-1	1058-1066	Wooirich	_	_	
+14-2	1066-1067	,	_	_	
+14-3	1068-1076	Clitibrd	_	_	
+14-4	1076-1077	’	_	_	
+14-5	1077-1082	s-inn	_	_	
+14-6	1082-1083	.	_	_	
+
+#Text=William Antrobus Sydebotham, of Stockport, in the Connty of Chefter, Button-manufafturcr; to appear Oft.
+15-1	1084-1091	William	_	_	
+15-2	1092-1100	Antrobus	_	_	
+15-3	1101-1111	Sydebotham	_	_	
+15-4	1111-1112	,	_	_	
+15-5	1113-1115	of	_	_	
+15-6	1116-1125	Stockport	https://en.wikipedia.org/wiki/Stockport	LOC	
+15-7	1125-1126	,	_	_	
+15-8	1127-1129	in	_	_	
+15-9	1130-1133	the	_	_	
+15-10	1134-1140	Connty	https://en.wikipedia.org/wiki/Cheshire[4]	LOC[4]	
+15-11	1141-1143	of	https://en.wikipedia.org/wiki/Cheshire[4]	LOC[4]	
+15-12	1144-1151	Chefter	https://en.wikipedia.org/wiki/Cheshire[4]	LOC[4]	
+15-13	1151-1152	,	_	_	
+15-14	1153-1172	Button-manufafturcr	_	_	
+15-15	1172-1173	;	_	_	
+15-16	1174-1176	to	_	_	
+15-17	1177-1183	appear	_	_	
+15-18	1184-1187	Oft	_	_	
+15-19	1187-1188	.	_	_	
+
+#Text=Jj, 17, and Nov, 6, at the Anchor, in Stockport.
+16-1	1189-1191	Jj	_	_	
+16-2	1191-1192	,	_	_	
+16-3	1193-1195	17	_	_	
+16-4	1195-1196	,	_	_	
+16-5	1197-1200	and	_	_	
+16-6	1201-1204	Nov	_	_	
+16-7	1204-1205	,	_	_	
+16-8	1206-1207	6	_	_	
+16-9	1207-1208	,	_	_	
+16-10	1209-1211	at	_	_	
+16-11	1212-1215	the	_	_	
+16-12	1216-1222	Anchor	_	_	
+16-13	1222-1223	,	_	_	
+16-14	1224-1226	in	_	_	
+16-15	1227-1236	Stockport	https://en.wikipedia.org/wiki/Stockport	LOC	
+16-16	1236-1237	.	_	_	
+
+#Text=Attorney, Mr.
+17-1	1238-1246	Attorney	_	_	
+17-2	1246-1247	,	_	_	
+17-3	1248-1250	Mr	_	_	
+17-4	1250-1251	.	_	_	
+
+#Text=Robert Newton, in Stockport.
+18-1	1252-1258	Robert	_	_	
+18-2	1259-1265	Newton	_	_	
+18-3	1265-1266	,	_	_	
+18-4	1267-1269	in	_	_	
+18-5	1270-1279	Stockport	https://en.wikipedia.org/wiki/Stockport	LOC	
+18-6	1279-1280	.	_	_	
+
+#Text=DAYS appointed for the Payment of DIVIDENDS.
+19-1	1281-1285	DAYS	_	_	
+19-2	1286-1295	appointed	_	_	
+19-3	1296-1299	for	_	_	
+19-4	1300-1303	the	_	_	
+19-5	1304-1311	Payment	_	_	
+19-6	1312-1314	of	_	_	
+19-7	1315-1324	DIVIDENDS	_	_	
+19-8	1324-1325	.	_	_	
+
+#Text=Oft. 13.
+20-1	1326-1329	Oft	_	_	
+20-2	1329-1330	.	_	_	
+20-3	1331-1333	13	_	_	
+20-4	1333-1334	.	_	_	
+
+#Text=William Ellam and Samuel Spendlcy, of Manchellcr, in the County Palatine of Lancaller, Mercers and Copartners; at Guildhall, London.
+21-1	1335-1342	William	_	_	
+21-2	1343-1348	Ellam	_	_	
+21-3	1349-1352	and	_	_	
+21-4	1353-1359	Samuel	_	_	
+21-5	1360-1368	Spendlcy	_	_	
+21-6	1368-1369	,	_	_	
+21-7	1370-1372	of	_	_	
+21-8	1373-1383	Manchellcr	https://en.wikipedia.org/wiki/Manchester	LOC	
+21-9	1383-1384	,	_	_	
+21-10	1385-1387	in	_	_	
+21-11	1388-1391	the	_	_	
+21-12	1392-1398	County	https://en.wikipedia.org/wiki/Lancashire[5]	LOC[5]	
+21-13	1399-1407	Palatine	https://en.wikipedia.org/wiki/Lancashire[5]	LOC[5]	
+21-14	1408-1410	of	https://en.wikipedia.org/wiki/Lancashire[5]	LOC[5]	
+21-15	1411-1420	Lancaller	https://en.wikipedia.org/wiki/Lancashire[5]	LOC[5]	
+21-16	1420-1421	,	_	_	
+21-17	1422-1429	Mercers	_	_	
+21-18	1430-1433	and	_	_	
+21-19	1434-1444	Copartners	_	_	
+21-20	1444-1445	;	_	_	
+21-21	1446-1448	at	_	_	
+21-22	1449-1458	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	LOC	
+21-23	1458-1459	,	_	_	
+21-24	1460-1466	London	https://en.wikipedia.org/wiki/London	LOC	
+21-25	1466-1467	.	_	_	
+
+#Text=Ij.
+22-1	1468-1470	Ij	_	_	
+22-2	1470-1471	.	_	_	
+
+#Text=James Linden, of the Town and County of Southampton, Printer, Bookfeiler, Dealer and Chapman ; at the Dolphin Inn, in Southampton. 15.
+23-1	1472-1477	James	_	_	
+23-2	1478-1484	Linden	_	_	
+23-3	1484-1485	,	_	_	
+23-4	1486-1488	of	_	_	
+23-5	1489-1492	the	_	_	
+23-6	1493-1497	Town	_	_	
+23-7	1498-1501	and	_	_	
+23-8	1502-1508	County	_	_	
+23-9	1509-1511	of	_	_	
+23-10	1512-1523	Southampton	https://en.wikipedia.org/wiki/Southampton	LOC	
+23-11	1523-1524	,	_	_	
+23-12	1525-1532	Printer	_	_	
+23-13	1532-1533	,	_	_	
+23-14	1534-1544	Bookfeiler	_	_	
+23-15	1544-1545	,	_	_	
+23-16	1546-1552	Dealer	_	_	
+23-17	1553-1556	and	_	_	
+23-18	1557-1564	Chapman	_	_	
+23-19	1565-1566	;	_	_	
+23-20	1567-1569	at	_	_	
+23-21	1570-1573	the	_	_	
+23-22	1574-1581	Dolphin	*[6]	BUILDING[6]	
+23-23	1582-1585	Inn	*[6]	BUILDING[6]	
+23-24	1585-1586	,	_	_	
+23-25	1587-1589	in	_	_	
+23-26	1590-1601	Southampton	https://en.wikipedia.org/wiki/Southampton	LOC	
+23-27	1601-1602	.	_	_	
+23-28	1603-1605	15	_	_	
+23-29	1605-1606	.	_	_	
+
+#Text=James Armfhong, late of the City of Chichefter, in the County of SuiTex, Mercer, Dealer and Chapman; at the Dolphin Inn, in Southampton, 16, Charles Tagg, of Reading, in the County of Berks, Cabinet-maker and Ifpholfterer; at the George Inn, Reading. 19.
+24-1	1607-1612	James	_	_	
+24-2	1613-1621	Armfhong	_	_	
+24-3	1621-1622	,	_	_	
+24-4	1623-1627	late	_	_	
+24-5	1628-1630	of	_	_	
+24-6	1631-1634	the	_	_	
+24-7	1635-1639	City	_	_	
+24-8	1640-1642	of	_	_	
+24-9	1643-1653	Chichefter	https://en.wikipedia.org/wiki/Chichester	LOC	
+24-10	1653-1654	,	_	_	
+24-11	1655-1657	in	_	_	
+24-12	1658-1661	the	_	_	
+24-13	1662-1668	County	https://en.wikipedia.org/wiki/Sussex[7]	LOC[7]	
+24-14	1669-1671	of	https://en.wikipedia.org/wiki/Sussex[7]	LOC[7]	
+24-15	1672-1678	SuiTex	https://en.wikipedia.org/wiki/Sussex[7]	LOC[7]	
+24-16	1678-1679	,	_	_	
+24-17	1680-1686	Mercer	_	_	
+24-18	1686-1687	,	_	_	
+24-19	1688-1694	Dealer	_	_	
+24-20	1695-1698	and	_	_	
+24-21	1699-1706	Chapman	_	_	
+24-22	1706-1707	;	_	_	
+24-23	1708-1710	at	_	_	
+24-24	1711-1714	the	_	_	
+24-25	1715-1722	Dolphin	*[8]	BUILDING[8]	
+24-26	1723-1726	Inn	*[8]	BUILDING[8]	
+24-27	1726-1727	,	_	_	
+24-28	1728-1730	in	_	_	
+24-29	1731-1742	Southampton	https://en.wikipedia.org/wiki/Southampton	LOC	
+24-30	1742-1743	,	_	_	
+24-31	1744-1746	16	_	_	
+24-32	1746-1747	,	_	_	
+24-33	1748-1755	Charles	_	_	
+24-34	1756-1760	Tagg	_	_	
+24-35	1760-1761	,	_	_	
+24-36	1762-1764	of	_	_	
+24-37	1765-1772	Reading	https://en.wikipedia.org/wiki/Reading,\_Berkshire	LOC	
+24-38	1772-1773	,	_	_	
+24-39	1774-1776	in	_	_	
+24-40	1777-1780	the	_	_	
+24-41	1781-1787	County	https://en.wikipedia.org/wiki/Berkshire[9]	LOC[9]	
+24-42	1788-1790	of	https://en.wikipedia.org/wiki/Berkshire[9]	LOC[9]	
+24-43	1791-1796	Berks	https://en.wikipedia.org/wiki/Berkshire[9]	LOC[9]	
+24-44	1796-1797	,	_	_	
+24-45	1798-1811	Cabinet-maker	_	_	
+24-46	1812-1815	and	_	_	
+24-47	1816-1828	Ifpholfterer	_	_	
+24-48	1828-1829	;	_	_	
+24-49	1830-1832	at	_	_	
+24-50	1833-1836	the	_	_	
+24-51	1837-1843	George	*[10]	BUILDING[10]	
+24-52	1844-1847	Inn	*[10]	BUILDING[10]	
+24-53	1847-1848	,	_	_	
+24-54	1849-1856	Reading	https://en.wikipedia.org/wiki/Reading,\_Berkshire	LOC	
+24-55	1856-1857	.	_	_	
+24-56	1858-1860	19	_	_	
+24-57	1860-1861	.	_	_	
+
+#Text=Richardfon Kingslor.l, of the Pariih of A(h next Sandwich, in the County of Kent, Miller, Dealer and Chapman ; at Guildhall, London.
+25-1	1862-1872	Richardfon	_	_	
+25-2	1873-1883	Kingslor.l	_	_	
+25-3	1883-1884	,	_	_	
+25-4	1885-1887	of	_	_	
+25-5	1888-1891	the	_	_	
+25-6	1892-1898	Pariih	_	_	
+25-7	1899-1901	of	_	_	
+25-8	1902-1903	A	_	_	
+25-9	1903-1904	(	_	_	
+25-10	1904-1905	h	_	_	
+25-11	1906-1910	next	_	_	
+25-12	1911-1919	Sandwich	https://en.wikipedia.org/wiki/Sandwich,\_Kent	LOC	
+25-13	1919-1920	,	_	_	
+25-14	1921-1923	in	_	_	
+25-15	1924-1927	the	_	_	
+25-16	1928-1934	County	https://en.wikipedia.org/wiki/Kent[11]	LOC[11]	
+25-17	1935-1937	of	https://en.wikipedia.org/wiki/Kent[11]	LOC[11]	
+25-18	1938-1942	Kent	https://en.wikipedia.org/wiki/Kent[11]	LOC[11]	
+25-19	1942-1943	,	_	_	
+25-20	1944-1950	Miller	_	_	
+25-21	1950-1951	,	_	_	
+25-22	1952-1958	Dealer	_	_	
+25-23	1959-1962	and	_	_	
+25-24	1963-1970	Chapman	_	_	
+25-25	1971-1972	;	_	_	
+25-26	1973-1975	at	_	_	
+25-27	1976-1985	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	LOC	
+25-28	1985-1986	,	_	_	
+25-29	1987-1993	London	https://en.wikipedia.org/wiki/London	LOC	
+25-30	1993-1994	.	_	_	
+
+#Text=T9.
+26-1	1995-1997	T9	_	_	
+26-2	1997-1998	.	_	_	
+
+#Text=John Flindeis, of the Town and County of the Town of Nottingham, Cornfaftor, Dealer and Chapman; at the Biackmoor’s-Head, in Nottingham. 19.
+27-1	1999-2003	John	_	_	
+27-2	2004-2012	Flindeis	_	_	
+27-3	2012-2013	,	_	_	
+27-4	2014-2016	of	_	_	
+27-5	2017-2020	the	_	_	
+27-6	2021-2025	Town	_	_	
+27-7	2026-2029	and	_	_	
+27-8	2030-2036	County	_	_	
+27-9	2037-2039	of	_	_	
+27-10	2040-2043	the	_	_	
+27-11	2044-2048	Town	_	_	
+27-12	2049-2051	of	_	_	
+27-13	2052-2062	Nottingham	https://en.wikipedia.org/wiki/Nottingham	LOC	
+27-14	2062-2063	,	_	_	
+27-15	2064-2074	Cornfaftor	_	_	
+27-16	2074-2075	,	_	_	
+27-17	2076-2082	Dealer	_	_	
+27-18	2083-2086	and	_	_	
+27-19	2087-2094	Chapman	_	_	
+27-20	2094-2095	;	_	_	
+27-21	2096-2098	at	_	_	
+27-22	2099-2102	the	_	_	
+27-23	2103-2112	Biackmoor	*[12]	BUILDING[12]	
+27-24	2112-2113	’	*[12]	BUILDING[12]	
+27-25	2113-2119	s-Head	*[12]	BUILDING[12]	
+27-26	2119-2120	,	_	_	
+27-27	2121-2123	in	_	_	
+27-28	2124-2134	Nottingham	https://en.wikipedia.org/wiki/Nottingham	LOC	
+27-29	2134-2135	.	_	_	
+27-30	2136-2138	19	_	_	
+27-31	2138-2139	.	_	_	
+
+#Text=John Randle, of North Kilhvorth, in the County of J eicefter, Woolcombcr, Tammy-weaver, Dealer and Chapman; at the Peaccek Inn, in Davcntry. ■24.
+28-1	2140-2144	John	_	_	
+28-2	2145-2151	Randle	_	_	
+28-3	2151-2152	,	_	_	
+28-4	2153-2155	of	_	_	
+28-5	2156-2161	North	https://en.wikipedia.org/wiki/North\_Kilworth[13]	LOC[13]	
+28-6	2162-2171	Kilhvorth	https://en.wikipedia.org/wiki/North\_Kilworth[13]	LOC[13]	
+28-7	2171-2172	,	_	_	
+28-8	2173-2175	in	_	_	
+28-9	2176-2179	the	_	_	
+28-10	2180-2186	County	https://en.wikipedia.org/wiki/Leicestershire[14]	LOC[14]	
+28-11	2187-2189	of	https://en.wikipedia.org/wiki/Leicestershire[14]	LOC[14]	
+28-12	2190-2191	J	https://en.wikipedia.org/wiki/Leicestershire[14]	LOC[14]	
+28-13	2192-2200	eicefter	https://en.wikipedia.org/wiki/Leicestershire[14]	LOC[14]	
+28-14	2200-2201	,	_	_	
+28-15	2202-2212	Woolcombcr	_	_	
+28-16	2212-2213	,	_	_	
+28-17	2214-2226	Tammy-weaver	_	_	
+28-18	2226-2227	,	_	_	
+28-19	2228-2234	Dealer	_	_	
+28-20	2235-2238	and	_	_	
+28-21	2239-2246	Chapman	_	_	
+28-22	2246-2247	;	_	_	
+28-23	2248-2250	at	_	_	
+28-24	2251-2254	the	_	_	
+28-25	2255-2262	Peaccek	*[15]	BUILDING[15]	
+28-26	2263-2266	Inn	*[15]	BUILDING[15]	
+28-27	2266-2267	,	_	_	
+28-28	2268-2270	in	_	_	
+28-29	2271-2279	Davcntry	https://en.wikipedia.org/wiki/Daventry	LOC	
+28-30	2279-2280	.	_	_	
+28-31	2281-2282	■	_	_	
+28-32	2282-2284	24	_	_	
+28-33	2284-2285	.	_	_	
+
+#Text=Harry Butt, late of Liandilo Crcllenny, in the County of Monmouth, Batcher, Dealer and Chapman; at the Ram, in Gloucellcr. 24.
+29-1	2286-2291	Harry	_	_	
+29-2	2292-2296	Butt	_	_	
+29-3	2296-2297	,	_	_	
+29-4	2298-2302	late	_	_	
+29-5	2303-2305	of	_	_	
+29-6	2306-2314	Liandilo	*[16]	LOC[16]	
+29-7	2315-2324	Crcllenny	*[16]	LOC[16]	
+29-8	2324-2325	,	_	_	
+29-9	2326-2328	in	_	_	
+29-10	2329-2332	the	_	_	
+29-11	2333-2339	County	https://en.wikipedia.org/wiki/Monmouthshire\_(historic)[17]	LOC[17]	
+29-12	2340-2342	of	https://en.wikipedia.org/wiki/Monmouthshire\_(historic)[17]	LOC[17]	
+29-13	2343-2351	Monmouth	https://en.wikipedia.org/wiki/Monmouthshire\_(historic)[17]	LOC[17]	
+29-14	2351-2352	,	_	_	
+29-15	2353-2360	Batcher	_	_	
+29-16	2360-2361	,	_	_	
+29-17	2362-2368	Dealer	_	_	
+29-18	2369-2372	and	_	_	
+29-19	2373-2380	Chapman	_	_	
+29-20	2380-2381	;	_	_	
+29-21	2382-2384	at	_	_	
+29-22	2385-2388	the	_	_	
+29-23	2389-2392	Ram	*	BUILDING	
+29-24	2392-2393	,	_	_	
+29-25	2394-2396	in	_	_	
+29-26	2397-2407	Gloucellcr	https://en.wikipedia.org/wiki/Gloucester	LOC	
+29-27	2407-2408	.	_	_	
+29-28	2409-2411	24	_	_	
+29-29	2411-2412	.	_	_	
+
+#Text=Elizabeth Roberts, late of the City of Gloucerter, Vintner, Dealer and Chapwoman; at the Ram, in Glouceller. 27.
+30-1	2413-2422	Elizabeth	_	_	
+30-2	2423-2430	Roberts	_	_	
+30-3	2430-2431	,	_	_	
+30-4	2432-2436	late	_	_	
+30-5	2437-2439	of	_	_	
+30-6	2440-2443	the	_	_	
+30-7	2444-2448	City	_	_	
+30-8	2449-2451	of	_	_	
+30-9	2452-2462	Gloucerter	https://en.wikipedia.org/wiki/Gloucester	LOC	
+30-10	2462-2463	,	_	_	
+30-11	2464-2471	Vintner	_	_	
+30-12	2471-2472	,	_	_	
+30-13	2473-2479	Dealer	_	_	
+30-14	2480-2483	and	_	_	
+30-15	2484-2493	Chapwoman	_	_	
+30-16	2493-2494	;	_	_	
+30-17	2495-2497	at	_	_	
+30-18	2498-2501	the	_	_	
+30-19	2502-2505	Ram	*	BUILDING	
+30-20	2505-2506	,	_	_	
+30-21	2507-2509	in	_	_	
+30-22	2510-2520	Glouceller	https://en.wikipedia.org/wiki/Gloucester	LOC	
+30-23	2520-2521	.	_	_	
+30-24	2522-2524	27	_	_	
+30-25	2524-2525	.	_	_	
+
+#Text=John Fry, of Whitechapel, in the County of Middlefex, Cheefemonger, Dealer & Chapman; Guildhall, London. 37.
+31-1	2526-2530	John	_	_	
+31-2	2531-2534	Fry	_	_	
+31-3	2534-2535	,	_	_	
+31-4	2536-2538	of	_	_	
+31-5	2539-2550	Whitechapel	*	LOC	
+31-6	2550-2551	,	_	_	
+31-7	2552-2554	in	_	_	
+31-8	2555-2558	the	_	_	
+31-9	2559-2565	County	https://en.wikipedia.org/wiki/Middlesex[18]	LOC[18]	
+31-10	2566-2568	of	https://en.wikipedia.org/wiki/Middlesex[18]	LOC[18]	
+31-11	2569-2578	Middlefex	https://en.wikipedia.org/wiki/Middlesex[18]	LOC[18]	
+31-12	2578-2579	,	_	_	
+31-13	2580-2592	Cheefemonger	_	_	
+31-14	2592-2593	,	_	_	
+31-15	2594-2600	Dealer	_	_	
+31-16	2601-2602	&	_	_	
+31-17	2603-2610	Chapman	_	_	
+31-18	2610-2611	;	_	_	
+31-19	2612-2621	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	LOC	
+31-20	2621-2622	,	_	_	
+31-21	2623-2629	London	https://en.wikipedia.org/wiki/London	LOC	
+31-22	2629-2630	.	_	_	
+31-23	2631-2633	37	_	_	
+31-24	2633-2634	.	_	_	
+
+#Text=William l earn, of Wood-ftrcet, in the City ol London, Silvulmith, Dealer and Chapman; Guildhall, London. 12.
+32-1	2635-2642	William	_	_	
+32-2	2643-2644	l	_	_	
+32-3	2645-2649	earn	_	_	
+32-4	2649-2650	,	_	_	
+32-5	2651-2653	of	_	_	
+32-6	2654-2665	Wood-ftrcet	*	STREET	
+32-7	2665-2666	,	_	_	
+32-8	2667-2669	in	_	_	
+32-9	2670-2673	the	_	_	
+32-10	2674-2678	City	_	_	
+32-11	2679-2681	ol	_	_	
+32-12	2682-2688	London	https://en.wikipedia.org/wiki/London	LOC	
+32-13	2688-2689	,	_	_	
+32-14	2690-2700	Silvulmith	_	_	
+32-15	2700-2701	,	_	_	
+32-16	2702-2708	Dealer	_	_	
+32-17	2709-2712	and	_	_	
+32-18	2713-2720	Chapman	_	_	
+32-19	2720-2721	;	_	_	
+32-20	2722-2731	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	LOC	
+32-21	2731-2732	,	_	_	
+32-22	2733-2739	London	https://en.wikipedia.org/wiki/London	LOC	
+32-23	2739-2740	.	_	_	
+32-24	2741-2743	12	_	_	
+32-25	2743-2744	.	_	_	
+
+#Text=Richard Gamon, of Harpur-fheet, in the Pariih ot St.
+33-1	2745-2752	Richard	_	_	
+33-2	2753-2758	Gamon	_	_	
+33-3	2758-2759	,	_	_	
+33-4	2760-2762	of	_	_	
+33-5	2763-2775	Harpur-fheet	*	STREET	
+33-6	2775-2776	,	_	_	
+33-7	2777-2779	in	_	_	
+33-8	2780-2783	the	_	_	
+33-9	2784-2790	Pariih	_	_	
+33-10	2791-2793	ot	_	_	
+33-11	2794-2796	St	*[19]	BUILDING[19]	
+33-12	2796-2797	.	*[19]	BUILDING[19]	
+
+#Text=George the Martyr, in the Count/ of Mlddlefex, Merchant; at Guildhall, London.
+34-1	2798-2804	George	*[19]	BUILDING[19]	
+34-2	2805-2808	the	*[19]	BUILDING[19]	
+34-3	2809-2815	Martyr	*[19]	BUILDING[19]	
+34-4	2815-2816	,	_	_	
+34-5	2817-2819	in	_	_	
+34-6	2820-2823	the	_	_	
+34-7	2824-2829	Count	https://en.wikipedia.org/wiki/Middlesex[20]	LOC[20]	
+34-8	2829-2830	/	https://en.wikipedia.org/wiki/Middlesex[20]	LOC[20]	
+34-9	2831-2833	of	https://en.wikipedia.org/wiki/Middlesex[20]	LOC[20]	
+34-10	2834-2843	Mlddlefex	https://en.wikipedia.org/wiki/Middlesex[20]	LOC[20]	
+34-11	2843-2844	,	_	_	
+34-12	2845-2853	Merchant	_	_	
+34-13	2853-2854	;	_	_	
+34-14	2855-2857	at	_	_	
+34-15	2858-2867	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	LOC	
+34-16	2867-2868	,	_	_	
+34-17	2869-2875	London	https://en.wikipedia.org/wiki/London	LOC	
+34-18	2875-2876	.	_	_	
+
+#Text=Nov. 2.
+35-1	2877-2880	Nov	_	_	
+35-2	2880-2881	.	_	_	
+35-3	2882-2883	2	_	_	
+35-4	2883-2884	.	_	_	
+
+#Text=Stephen AtleeT, of the Parilhof Warfield, in the County of Berks, Dealer and Chapman ; Guildhall, London.
+36-1	2885-2892	Stephen	_	_	
+36-2	2893-2899	AtleeT	_	_	
+36-3	2899-2900	,	_	_	
+36-4	2901-2903	of	_	_	
+36-5	2904-2907	the	_	_	
+36-6	2908-2916	Parilhof	_	_	
+36-7	2917-2925	Warfield	https://en.wikipedia.org/wiki/Warfield	LOC	
+36-8	2925-2926	,	_	_	
+36-9	2927-2929	in	_	_	
+36-10	2930-2933	the	_	_	
+36-11	2934-2940	County	https://en.wikipedia.org/wiki/Berkshire[21]	LOC[21]	
+36-12	2941-2943	of	https://en.wikipedia.org/wiki/Berkshire[21]	LOC[21]	
+36-13	2944-2949	Berks	https://en.wikipedia.org/wiki/Berkshire[21]	LOC[21]	
+36-14	2949-2950	,	_	_	
+36-15	2951-2957	Dealer	_	_	
+36-16	2958-2961	and	_	_	
+36-17	2962-2969	Chapman	_	_	
+36-18	2970-2971	;	_	_	
+36-19	2972-2981	Guildhall	https://en.wikipedia.org/wiki/Guildhall,\_London	LOC	
+36-20	2981-2982	,	_	_	
+36-21	2983-2989	London	https://en.wikipedia.org/wiki/London	LOC	
+36-22	2989-2990	.	_	_	
+
+#Text=CERTIFICATES to be GRANTED.
+37-1	2991-3003	CERTIFICATES	_	_	
+37-2	3004-3006	to	_	_	
+37-3	3007-3009	be	_	_	
+37-4	3010-3017	GRANTED	_	_	
+37-5	3017-3018	.	_	_	
+
+#Text=Oft, it.
+38-1	3019-3022	Oft	_	_	
+38-2	3022-3023	,	_	_	
+38-3	3024-3026	it	_	_	
+38-4	3026-3027	.	_	_	
+
+#Text=John Boafgrave, of Chingtord, in the County ol Eifex, Higler, Dealer .ni Chapman. 16.
+39-1	3028-3032	John	_	_	
+39-2	3033-3042	Boafgrave	_	_	
+39-3	3042-3043	,	_	_	
+39-4	3044-3046	of	_	_	
+39-5	3047-3056	Chingtord	https://en.wikipedia.org/wiki/Chingford	LOC	
+39-6	3056-3057	,	_	_	
+39-7	3058-3060	in	_	_	
+39-8	3061-3064	the	_	_	
+39-9	3065-3071	County	https://en.wikipedia.org/wiki/Essex[22]	LOC[22]	
+39-10	3072-3074	ol	https://en.wikipedia.org/wiki/Essex[22]	LOC[22]	
+39-11	3075-3080	Eifex	https://en.wikipedia.org/wiki/Essex[22]	LOC[22]	
+39-12	3080-3081	,	_	_	
+39-13	3082-3088	Higler	_	_	
+39-14	3088-3089	,	_	_	
+39-15	3090-3096	Dealer	_	_	
+39-16	3097-3098	.	_	_	
+39-17	3098-3100	ni	_	_	
+39-18	3101-3108	Chapman	_	_	
+39-19	3108-3109	.	_	_	
+39-20	3110-3112	16	_	_	
+39-21	3112-3113	.	_	_	
+
+#Text=Thomas Aldridge, now or late of Hadleigh, hv tlic County of .Suffolk, Maltilcr.
+40-1	3114-3120	Thomas	_	_	
+40-2	3121-3129	Aldridge	_	_	
+40-3	3129-3130	,	_	_	
+40-4	3131-3134	now	_	_	
+40-5	3135-3137	or	_	_	
+40-6	3138-3142	late	_	_	
+40-7	3143-3145	of	_	_	
+40-8	3146-3154	Hadleigh	https://en.wikipedia.org/wiki/Hadleigh,\_Suffolk	LOC	
+40-9	3154-3155	,	_	_	
+40-10	3156-3158	hv	_	_	
+40-11	3159-3163	tlic	_	_	
+40-12	3164-3170	County	https://en.wikipedia.org/wiki/Suffolk[23]	LOC[23]	
+40-13	3171-3173	of	https://en.wikipedia.org/wiki/Suffolk[23]	LOC[23]	
+40-14	3174-3175	.	https://en.wikipedia.org/wiki/Suffolk[23]	LOC[23]	
+40-15	3175-3182	Suffolk	https://en.wikipedia.org/wiki/Suffolk[23]	LOC[23]	
+40-16	3182-3183	,	_	_	
+40-17	3184-3192	Maltilcr	_	_	
+40-18	3192-3193	.	_	_	
+
+#Text=Dealer and Chapman. 16.
+41-1	3194-3200	Dealer	_	_	
+41-2	3201-3204	and	_	_	
+41-3	3205-3212	Chapman	_	_	
+41-4	3212-3213	.	_	_	
+41-5	3214-3216	16	_	_	
+41-6	3216-3217	.	_	_	
+
+#Text=Charles Mahloc, of Ball Dereham, in the County of Norfolk, Scrivener.
+42-1	3218-3225	Charles	_	_	
+42-2	3226-3232	Mahloc	_	_	
+42-3	3232-3233	,	_	_	
+42-4	3234-3236	of	_	_	
+42-5	3237-3241	Ball	_	_	
+42-6	3242-3249	Dereham	https://en.wikipedia.org/wiki/Dereham	LOC	
+42-7	3249-3250	,	_	_	
+42-8	3251-3253	in	_	_	
+42-9	3254-3257	the	_	_	
+42-10	3258-3264	County	https://en.wikipedia.org/wiki/Norfolk[24]	LOC[24]	
+42-11	3265-3267	of	https://en.wikipedia.org/wiki/Norfolk[24]	LOC[24]	
+42-12	3268-3275	Norfolk	https://en.wikipedia.org/wiki/Norfolk[24]	LOC[24]	
+42-13	3275-3276	,	_	_	
+42-14	3277-3286	Scrivener	_	_	
+42-15	3286-3287	.	_	_	

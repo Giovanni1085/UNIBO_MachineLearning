@@ -1,0 +1,206 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=AGRA AND MASTERMANS BANK.
+1-1	0-4	AGRA	_	_	
+1-2	5-8	AND	_	_	
+1-3	9-19	MASTERMANS	_	_	
+1-4	20-24	BANK	_	_	
+1-5	24-25	.	_	_	
+
+#Text=(India.
+2-1	27-28	(	_	_	
+2-2	28-33	India	https://en.wikipedia.org/wiki/India	LOC	
+2-3	33-34	.	_	_	
+
+#Text=Branch.)
+3-1	35-41	Branch	_	_	
+3-2	41-42	.	_	_	
+3-3	42-43	)	_	_	
+
+#Text=The Times says :— It is understood that a plan will be promulgated this day for the resuscitation of the Indian portion of the Agra and Mastermans Bank.
+4-1	44-47	The	_	_	
+4-2	48-53	Times	_	_	
+4-3	54-58	says	_	_	
+4-4	59-60	:	_	_	
+4-5	60-61	—	_	_	
+4-6	62-64	It	_	_	
+4-7	65-67	is	_	_	
+4-8	68-78	understood	_	_	
+4-9	79-83	that	_	_	
+4-10	84-85	a	_	_	
+4-11	86-90	plan	_	_	
+4-12	91-95	will	_	_	
+4-13	96-98	be	_	_	
+4-14	99-110	promulgated	_	_	
+4-15	111-115	this	_	_	
+4-16	116-119	day	_	_	
+4-17	120-123	for	_	_	
+4-18	124-127	the	_	_	
+4-19	128-141	resuscitation	_	_	
+4-20	142-144	of	_	_	
+4-21	145-148	the	_	_	
+4-22	149-155	Indian	_	_	
+4-23	156-163	portion	_	_	
+4-24	164-166	of	_	_	
+4-25	167-170	the	_	_	
+4-26	171-175	Agra	_	_	
+4-27	176-179	and	_	_	
+4-28	180-190	Mastermans	_	_	
+4-29	191-195	Bank	_	_	
+4-30	195-196	.	_	_	
+
+#Text=The liquidation has thus far proceeded in a manner to revive the hopes of the shareholders tbat they may save a considerable portion of their property, and the scheme now about to be submitted will, it is believed, be such as to command the cordial concurrence both of shareholders and creditors.
+5-1	197-200	The	_	_	
+5-2	201-212	liquidation	_	_	
+5-3	213-216	has	_	_	
+5-4	217-221	thus	_	_	
+5-5	222-225	far	_	_	
+5-6	226-235	proceeded	_	_	
+5-7	236-238	in	_	_	
+5-8	239-240	a	_	_	
+5-9	241-247	manner	_	_	
+5-10	248-250	to	_	_	
+5-11	251-257	revive	_	_	
+5-12	258-261	the	_	_	
+5-13	262-267	hopes	_	_	
+5-14	268-270	of	_	_	
+5-15	271-274	the	_	_	
+5-16	275-287	shareholders	_	_	
+5-17	288-292	tbat	_	_	
+5-18	293-297	they	_	_	
+5-19	298-301	may	_	_	
+5-20	302-306	save	_	_	
+5-21	307-308	a	_	_	
+5-22	309-321	considerable	_	_	
+5-23	322-329	portion	_	_	
+5-24	330-332	of	_	_	
+5-25	333-338	their	_	_	
+5-26	339-347	property	_	_	
+5-27	347-348	,	_	_	
+5-28	349-352	and	_	_	
+5-29	353-356	the	_	_	
+5-30	357-363	scheme	_	_	
+5-31	364-367	now	_	_	
+5-32	368-373	about	_	_	
+5-33	374-376	to	_	_	
+5-34	377-379	be	_	_	
+5-35	380-389	submitted	_	_	
+5-36	390-394	will	_	_	
+5-37	394-395	,	_	_	
+5-38	396-398	it	_	_	
+5-39	399-401	is	_	_	
+5-40	402-410	believed	_	_	
+5-41	410-411	,	_	_	
+5-42	412-414	be	_	_	
+5-43	415-419	such	_	_	
+5-44	420-422	as	_	_	
+5-45	423-425	to	_	_	
+5-46	426-433	command	_	_	
+5-47	434-437	the	_	_	
+5-48	438-445	cordial	_	_	
+5-49	446-457	concurrence	_	_	
+5-50	458-462	both	_	_	
+5-51	463-465	of	_	_	
+5-52	466-478	shareholders	_	_	
+5-53	479-482	and	_	_	
+5-54	483-492	creditors	_	_	
+5-55	492-493	.	_	_	
+
+#Text=Tt is probable that King George of Hanover will soon repair to England.
+6-1	494-496	Tt	_	_	
+6-2	497-499	is	_	_	
+6-3	500-508	probable	_	_	
+6-4	509-513	that	_	_	
+6-5	514-518	King	_	_	
+6-6	519-525	George	_	_	
+6-7	526-528	of	_	_	
+6-8	529-536	Hanover	_	_	
+6-9	537-541	will	_	_	
+6-10	542-546	soon	_	_	
+6-11	547-553	repair	_	_	
+6-12	554-556	to	_	_	
+6-13	557-564	England	https://en.wikipedia.org/wiki/England	LOC	
+6-14	564-565	.	_	_	
+
+#Text=Very alarming reports are current in Paris concerning the health of the Empress of Mexico now iv Home.
+7-1	566-570	Very	_	_	
+7-2	571-579	alarming	_	_	
+7-3	580-587	reports	_	_	
+7-4	588-591	are	_	_	
+7-5	592-599	current	_	_	
+7-6	600-602	in	_	_	
+7-7	603-608	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+7-8	609-619	concerning	_	_	
+7-9	620-623	the	_	_	
+7-10	624-630	health	_	_	
+7-11	631-633	of	_	_	
+7-12	634-637	the	_	_	
+7-13	638-645	Empress	_	_	
+7-14	646-648	of	_	_	
+7-15	649-655	Mexico	https://en.wikipedia.org/wiki/Mexico	LOC	
+7-16	656-659	now	_	_	
+7-17	660-662	iv	_	_	
+7-18	663-667	Home	_	_	
+7-19	667-668	.	_	_	
+
+#Text=The morning papers contain long reports of the West Riding Reform Demonstration at Leeds yesterday.
+8-1	669-672	The	_	_	
+8-2	673-680	morning	_	_	
+8-3	681-687	papers	_	_	
+8-4	688-695	contain	_	_	
+8-5	696-700	long	_	_	
+8-6	701-708	reports	_	_	
+8-7	709-711	of	_	_	
+8-8	712-715	the	_	_	
+8-9	716-720	West	https://en.wikipedia.org/wiki/West\_Riding\_of\_Yorkshire[1]	LOC[1]	
+8-10	721-727	Riding	https://en.wikipedia.org/wiki/West\_Riding\_of\_Yorkshire[1]	LOC[1]	
+8-11	728-734	Reform	_	_	
+8-12	735-748	Demonstration	_	_	
+8-13	749-751	at	_	_	
+8-14	752-757	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+8-15	758-767	yesterday	_	_	
+8-16	767-768	.	_	_	
+
+#Text=Captain Sherard Osborne has been nominated a member of the Ordnance Select Committee, vice Captain Key.
+9-1	769-776	Captain	_	_	
+9-2	777-784	Sherard	_	_	
+9-3	785-792	Osborne	_	_	
+9-4	793-796	has	_	_	
+9-5	797-801	been	_	_	
+9-6	802-811	nominated	_	_	
+9-7	812-813	a	_	_	
+9-8	814-820	member	_	_	
+9-9	821-823	of	_	_	
+9-10	824-827	the	_	_	
+9-11	828-836	Ordnance	_	_	
+9-12	837-843	Select	_	_	
+9-13	844-853	Committee	_	_	
+9-14	853-854	,	_	_	
+9-15	855-859	vice	_	_	
+9-16	860-867	Captain	_	_	
+9-17	868-871	Key	_	_	
+9-18	871-872	.	_	_	
+
+#Text=The Paris correspondent of the Time* asserts that the state of the Emperors health continues to cause uneasiness.
+10-1	873-876	The	_	_	
+10-2	877-882	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+10-3	883-896	correspondent	_	_	
+10-4	897-899	of	_	_	
+10-5	900-903	the	_	_	
+10-6	904-908	Time	_	_	
+10-7	908-909	*	_	_	
+10-8	910-917	asserts	_	_	
+10-9	918-922	that	_	_	
+10-10	923-926	the	_	_	
+10-11	927-932	state	_	_	
+10-12	933-935	of	_	_	
+10-13	936-939	the	_	_	
+10-14	940-948	Emperors	_	_	
+10-15	949-955	health	_	_	
+10-16	956-965	continues	_	_	
+10-17	966-968	to	_	_	
+10-18	969-974	cause	_	_	
+10-19	975-985	uneasiness	_	_	
+10-20	985-986	.	_	_	

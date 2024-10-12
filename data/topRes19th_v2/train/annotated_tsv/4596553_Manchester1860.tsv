@@ -1,0 +1,202 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE INSURRECTION IN GREECE.
+1-1	0-3	THE	_	_	
+1-2	4-16	INSURRECTION	_	_	
+1-3	17-19	IN	_	_	
+1-4	20-26	GREECE	https://en.wikipedia.org/wiki/Greece	LOC	
+1-5	26-27	.	_	_	
+
+#Text=Athens, April 5.
+2-1	29-35	Athens	https://en.wikipedia.org/wiki/Athens	LOC	
+2-2	35-36	,	_	_	
+2-3	37-42	April	_	_	
+2-4	43-44	5	_	_	
+2-5	44-45	.	_	_	
+
+#Text=The captured soldiers have attempted to break out of prison.
+3-1	46-49	The	_	_	
+3-2	50-58	captured	_	_	
+3-3	59-67	soldiers	_	_	
+3-4	68-72	have	_	_	
+3-5	73-82	attempted	_	_	
+3-6	83-85	to	_	_	
+3-7	86-91	break	_	_	
+3-8	92-95	out	_	_	
+3-9	96-98	of	_	_	
+3-10	99-105	prison	_	_	
+3-11	105-106	.	_	_	
+
+#Text=Orsini bombs have been discovered in the city.
+4-1	107-113	Orsini	_	_	
+4-2	114-119	bombs	_	_	
+4-3	120-124	have	_	_	
+4-4	125-129	been	_	_	
+4-5	130-140	discovered	_	_	
+4-6	141-143	in	_	_	
+4-7	144-147	the	_	_	
+4-8	148-152	city	_	_	
+4-9	152-153	.	_	_	
+
+#Text=Families are flying to the Piraeus in order to take refuge on shipboard in case of need.
+5-1	154-162	Families	_	_	
+5-2	163-166	are	_	_	
+5-3	167-173	flying	_	_	
+5-4	174-176	to	_	_	
+5-5	177-180	the	_	_	
+5-6	181-188	Piraeus	https://en.wikipedia.org/wiki/Piraeus	LOC	
+5-7	189-191	in	_	_	
+5-8	192-197	order	_	_	
+5-9	198-200	to	_	_	
+5-10	201-205	take	_	_	
+5-11	206-212	refuge	_	_	
+5-12	213-215	on	_	_	
+5-13	216-225	shipboard	_	_	
+5-14	226-228	in	_	_	
+5-15	229-233	case	_	_	
+5-16	234-236	of	_	_	
+5-17	237-241	need	_	_	
+5-18	241-242	.	_	_	
+
+#Text=English and French ships of war have left for Nauplia to afford an asylum for fugitives.
+6-1	243-250	English	_	_	
+6-2	251-254	and	_	_	
+6-3	255-261	French	_	_	
+6-4	262-267	ships	_	_	
+6-5	268-270	of	_	_	
+6-6	271-274	war	_	_	
+6-7	275-279	have	_	_	
+6-8	280-284	left	_	_	
+6-9	285-288	for	_	_	
+6-10	289-296	Nauplia	https://en.wikipedia.org/wiki/Nafplio	LOC	
+6-11	297-299	to	_	_	
+6-12	300-306	afford	_	_	
+6-13	307-309	an	_	_	
+6-14	310-316	asylum	_	_	
+6-15	317-320	for	_	_	
+6-16	321-330	fugitives	_	_	
+6-17	330-331	.	_	_	
+
+#Text=Heavy firing continues against the royal camp.
+7-1	332-337	Heavy	_	_	
+7-2	338-344	firing	_	_	
+7-3	345-354	continues	_	_	
+7-4	355-362	against	_	_	
+7-5	363-366	the	_	_	
+7-6	367-372	royal	_	_	
+7-7	373-377	camp	_	_	
+7-8	377-378	.	_	_	
+
+#Text=Fresh disturbances have broke out in Syra, for which island the steamer Amalia has left with troops.
+8-1	379-384	Fresh	_	_	
+8-2	385-397	disturbances	_	_	
+8-3	398-402	have	_	_	
+8-4	403-408	broke	_	_	
+8-5	409-412	out	_	_	
+8-6	413-415	in	_	_	
+8-7	416-420	Syra	https://en.wikipedia.org/wiki/Syros	LOC	
+8-8	420-421	,	_	_	
+8-9	422-425	for	_	_	
+8-10	426-431	which	_	_	
+8-11	432-438	island	_	_	
+8-12	439-442	the	_	_	
+8-13	443-450	steamer	_	_	
+8-14	451-457	Amalia	_	_	
+8-15	458-461	has	_	_	
+8-16	462-466	left	_	_	
+8-17	467-471	with	_	_	
+8-18	472-478	troops	_	_	
+8-19	478-479	.	_	_	
+
+#Text=A band of Albanian Turks have crossed the frontier at Lomia, and have penetrated to Orano.
+9-1	480-481	A	_	_	
+9-2	482-486	band	_	_	
+9-3	487-489	of	_	_	
+9-4	490-498	Albanian	_	_	
+9-5	499-504	Turks	_	_	
+9-6	505-509	have	_	_	
+9-7	510-517	crossed	_	_	
+9-8	518-521	the	_	_	
+9-9	522-530	frontier	_	_	
+9-10	531-533	at	_	_	
+9-11	534-539	Lomia	*	LOC	
+9-12	539-540	,	_	_	
+9-13	541-544	and	_	_	
+9-14	545-549	have	_	_	
+9-15	550-560	penetrated	_	_	
+9-16	561-563	to	_	_	
+9-17	564-569	Orano	*	LOC	
+9-18	569-570	.	_	_	
+
+#Text=The Government has despatched troops thither, and has forwarded notes to the Turkish Government and the three protecting Pawers.
+10-1	571-574	The	_	_	
+10-2	575-585	Government	_	_	
+10-3	586-589	has	_	_	
+10-4	590-600	despatched	_	_	
+10-5	601-607	troops	_	_	
+10-6	608-615	thither	_	_	
+10-7	615-616	,	_	_	
+10-8	617-620	and	_	_	
+10-9	621-624	has	_	_	
+10-10	625-634	forwarded	_	_	
+10-11	635-640	notes	_	_	
+10-12	641-643	to	_	_	
+10-13	644-647	the	_	_	
+10-14	648-655	Turkish	_	_	
+10-15	656-666	Government	_	_	
+10-16	667-670	and	_	_	
+10-17	671-674	the	_	_	
+10-18	675-680	three	_	_	
+10-19	681-691	protecting	_	_	
+10-20	692-698	Pawers	_	_	
+10-21	698-699	.	_	_	
+
+#Text=Paris, Wednesday Evening.
+11-1	700-705	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+11-2	705-706	,	_	_	
+11-3	707-716	Wednesday	_	_	
+11-4	717-724	Evening	_	_	
+11-5	724-725	.	_	_	
+
+#Text=The King of Greece and the Court are preparing for tha worst and are expected ere long to quit for Bavaria.
+12-1	726-729	The	_	_	
+12-2	730-734	King	_	_	
+12-3	735-737	of	_	_	
+12-4	738-744	Greece	https://en.wikipedia.org/wiki/Greece	LOC	
+12-5	745-748	and	_	_	
+12-6	749-752	the	_	_	
+12-7	753-758	Court	_	_	
+12-8	759-762	are	_	_	
+12-9	763-772	preparing	_	_	
+12-10	773-776	for	_	_	
+12-11	777-780	tha	_	_	
+12-12	781-786	worst	_	_	
+12-13	787-790	and	_	_	
+12-14	791-794	are	_	_	
+12-15	795-803	expected	_	_	
+12-16	804-807	ere	_	_	
+12-17	808-812	long	_	_	
+12-18	813-815	to	_	_	
+12-19	816-820	quit	_	_	
+12-20	821-824	for	_	_	
+12-21	825-832	Bavaria	https://en.wikipedia.org/wiki/Bavaria	LOC	
+12-22	832-833	.	_	_	
+
+#Text=None of the protecting Powers will help them.
+13-1	834-838	None	_	_	
+13-2	839-841	of	_	_	
+13-3	842-845	the	_	_	
+13-4	846-856	protecting	_	_	
+13-5	857-863	Powers	_	_	
+13-6	864-868	will	_	_	
+13-7	869-873	help	_	_	
+13-8	874-878	them	_	_	
+13-9	878-879	.	_	_	
+
+#Text=—Morning Post.
+14-1	879-880	—	_	_	
+14-2	880-887	Morning	_	_	
+14-3	888-892	Post	_	_	
+14-4	892-893	.	_	_	

@@ -1,0 +1,415 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=HAMPSHIRE, 
+#Text=The General Quarter Sessions of the Peace for this county commenced on Tuesday last at the Castle of Winchester, before Richard Pollen, Esq.
+1-1	0-9	HAMPSHIRE	https://en.wikipedia.org/wiki/Hampshire	LOC	
+1-2	9-10	,	_	_	
+1-3	12-15	The	_	_	
+1-4	16-23	General	_	_	
+1-5	24-31	Quarter	_	_	
+1-6	32-40	Sessions	_	_	
+1-7	41-43	of	_	_	
+1-8	44-47	the	_	_	
+1-9	48-53	Peace	_	_	
+1-10	54-57	for	_	_	
+1-11	58-62	this	_	_	
+1-12	63-69	county	_	_	
+1-13	70-79	commenced	_	_	
+1-14	80-82	on	_	_	
+1-15	83-90	Tuesday	_	_	
+1-16	91-95	last	_	_	
+1-17	96-98	at	_	_	
+1-18	99-102	the	_	_	
+1-19	103-109	Castle	https://en.wikipedia.org/wiki/Winchester\_Castle[1]	BUILDING[1]	
+1-20	110-112	of	https://en.wikipedia.org/wiki/Winchester\_Castle[1]	BUILDING[1]	
+1-21	113-123	Winchester	https://en.wikipedia.org/wiki/Winchester\_Castle[1]	BUILDING[1]	
+1-22	123-124	,	_	_	
+1-23	125-131	before	_	_	
+1-24	132-139	Richard	_	_	
+1-25	140-146	Pollen	_	_	
+1-26	146-147	,	_	_	
+1-27	148-151	Esq	_	_	
+1-28	151-152	.	_	_	
+
+#Text=,chairman, theUon.
+2-1	152-153	,	_	_	
+2-2	153-161	chairman	_	_	
+2-3	161-162	,	_	_	
+2-4	163-169	theUon	_	_	
+2-5	169-170	.	_	_	
+
+#Text=Thomas WiUiam Gage, Sir Lucius Curtis, Sir Wm.
+3-1	171-177	Thomas	_	_	
+3-2	178-184	WiUiam	_	_	
+3-3	185-189	Gage	_	_	
+3-4	189-190	,	_	_	
+3-5	191-194	Sir	_	_	
+3-6	195-201	Lucius	_	_	
+3-7	202-208	Curtis	_	_	
+3-8	208-209	,	_	_	
+3-9	210-213	Sir	_	_	
+3-10	214-216	Wm	_	_	
+3-11	216-217	.	_	_	
+
+#Text=Heathcote, Sir John Walter Pollen, Baronets; Edward Walter Blunt, Thomas Butler, Henry Uundas Campbell, John Huthy, Henry Eyre, John Fleming, Wm.
+4-1	218-227	Heathcote	_	_	
+4-2	227-228	,	_	_	
+4-3	229-232	Sir	_	_	
+4-4	233-237	John	_	_	
+4-5	238-244	Walter	_	_	
+4-6	245-251	Pollen	_	_	
+4-7	251-252	,	_	_	
+4-8	253-261	Baronets	_	_	
+4-9	261-262	;	_	_	
+4-10	263-269	Edward	_	_	
+4-11	270-276	Walter	_	_	
+4-12	277-282	Blunt	_	_	
+4-13	282-283	,	_	_	
+4-14	284-290	Thomas	_	_	
+4-15	291-297	Butler	_	_	
+4-16	297-298	,	_	_	
+4-17	299-304	Henry	_	_	
+4-18	305-311	Uundas	_	_	
+4-19	312-320	Campbell	_	_	
+4-20	320-321	,	_	_	
+4-21	322-326	John	_	_	
+4-22	327-332	Huthy	_	_	
+4-23	332-333	,	_	_	
+4-24	334-339	Henry	_	_	
+4-25	340-344	Eyre	_	_	
+4-26	344-345	,	_	_	
+4-27	346-350	John	_	_	
+4-28	351-358	Fleming	_	_	
+4-29	358-359	,	_	_	
+4-30	360-362	Wm	_	_	
+4-31	362-363	.	_	_	
+
+#Text=Grant, Thos.
+5-1	364-369	Grant	_	_	
+5-2	369-370	,	_	_	
+5-3	371-375	Thos	_	_	
+5-4	375-376	.	_	_	
+
+#Text=Grant, Samuel Raymond Jarvis, Ctias.
+6-1	377-382	Grant	_	_	
+6-2	382-383	,	_	_	
+6-3	384-390	Samuel	_	_	
+6-4	391-398	Raymond	_	_	
+6-5	399-405	Jarvis	_	_	
+6-6	405-406	,	_	_	
+6-7	407-412	Ctias	_	_	
+6-8	412-413	.	_	_	
+
+#Text=Shaw liefevre, W’m.
+7-1	414-418	Shaw	_	_	
+7-2	419-427	liefevre	_	_	
+7-3	427-428	,	_	_	
+7-4	429-430	W	_	_	
+7-5	430-431	’	_	_	
+7-6	431-432	m	_	_	
+7-7	432-433	.	_	_	
+
+#Text=Nevill, Henry Wcyland Powell, Samuel George Pechell, John Brett Purvis, Uanicl Quarrier, and Win.
+8-1	434-440	Nevill	_	_	
+8-2	440-441	,	_	_	
+8-3	442-447	Henry	_	_	
+8-4	448-455	Wcyland	_	_	
+8-5	456-462	Powell	_	_	
+8-6	462-463	,	_	_	
+8-7	464-470	Samuel	_	_	
+8-8	471-477	George	_	_	
+8-9	478-485	Pechell	_	_	
+8-10	485-486	,	_	_	
+8-11	487-491	John	_	_	
+8-12	492-497	Brett	_	_	
+8-13	498-504	Purvis	_	_	
+8-14	504-505	,	_	_	
+8-15	506-512	Uanicl	_	_	
+8-16	513-521	Quarrier	_	_	
+8-17	521-522	,	_	_	
+8-18	523-526	and	_	_	
+8-19	527-530	Win	_	_	
+8-20	530-531	.	_	_	
+
+#Text=Thresher, Esouites; the Reverend John Coles and Robert Wright, Clerks.
+9-1	532-540	Thresher	_	_	
+9-2	540-541	,	_	_	
+9-3	542-550	Esouites	_	_	
+9-4	550-551	;	_	_	
+9-5	552-555	the	_	_	
+9-6	556-564	Reverend	_	_	
+9-7	565-569	John	_	_	
+9-8	570-575	Coles	_	_	
+9-9	576-579	and	_	_	
+9-10	580-586	Robert	_	_	
+9-11	587-593	Wright	_	_	
+9-12	593-594	,	_	_	
+9-13	595-601	Clerks	_	_	
+9-14	601-602	.	_	_	
+
+#Text=The fallowing prisoners were tried and sentenced as under: Transportation.
+10-1	603-606	The	_	_	
+10-2	607-616	fallowing	_	_	
+10-3	617-626	prisoners	_	_	
+10-4	627-631	were	_	_	
+10-5	632-637	tried	_	_	
+10-6	638-641	and	_	_	
+10-7	642-651	sentenced	_	_	
+10-8	652-654	as	_	_	
+10-9	655-660	under	_	_	
+10-10	660-661	:	_	_	
+10-11	662-676	Transportation	_	_	
+10-12	676-677	.	_	_	
+
+#Text=—Fourteen yeartt Daniel Boshier, for stealing beans, the property of Thos.
+11-1	677-678	—	_	_	
+11-2	678-686	Fourteen	_	_	
+11-3	687-693	yeartt	_	_	
+11-4	694-700	Daniel	_	_	
+11-5	701-708	Boshier	_	_	
+11-6	708-709	,	_	_	
+11-7	710-713	for	_	_	
+11-8	714-722	stealing	_	_	
+11-9	723-728	beans	_	_	
+11-10	728-729	,	_	_	
+11-11	730-733	the	_	_	
+11-12	734-742	property	_	_	
+11-13	743-745	of	_	_	
+11-14	746-750	Thos	_	_	
+11-15	750-751	.	_	_	
+
+#Text=Righton Seven ye.n t each: Joseph Pennicott, and John Smith, for stealing wearing apparel; Geo.
+12-1	752-759	Righton	_	_	
+12-2	760-765	Seven	_	_	
+12-3	766-770	ye.n	_	_	
+12-4	771-772	t	_	_	
+12-5	773-777	each	_	_	
+12-6	777-778	:	_	_	
+12-7	779-785	Joseph	_	_	
+12-8	786-795	Pennicott	_	_	
+12-9	795-796	,	_	_	
+12-10	797-800	and	_	_	
+12-11	801-805	John	_	_	
+12-12	806-811	Smith	_	_	
+12-13	811-812	,	_	_	
+12-14	813-816	for	_	_	
+12-15	817-825	stealing	_	_	
+12-16	826-833	wearing	_	_	
+12-17	834-841	apparel	_	_	
+12-18	841-842	;	_	_	
+12-19	843-846	Geo	_	_	
+12-20	846-847	.	_	_	
+
+#Text=Cook, for stealing rags; John Brooks, for stealing potatoes; and Wm.
+13-1	848-852	Cook	_	_	
+13-2	852-853	,	_	_	
+13-3	854-857	for	_	_	
+13-4	858-866	stealing	_	_	
+13-5	867-871	rags	_	_	
+13-6	871-872	;	_	_	
+13-7	873-877	John	_	_	
+13-8	878-884	Brooks	_	_	
+13-9	884-885	,	_	_	
+13-10	886-889	for	_	_	
+13-11	890-898	stealing	_	_	
+13-12	899-907	potatoes	_	_	
+13-13	907-908	;	_	_	
+13-14	909-912	and	_	_	
+13-15	913-915	Wm	_	_	
+13-16	915-916	.	_	_	
+
+#Text=Child, for stealing beans. 1 BtPBisONMENT.
+14-1	917-922	Child	_	_	
+14-2	922-923	,	_	_	
+14-3	924-927	for	_	_	
+14-4	928-936	stealing	_	_	
+14-5	937-942	beans	_	_	
+14-6	942-943	.	_	_	
+14-7	944-945	1	_	_	
+14-8	946-958	BtPBisONMENT	_	_	
+14-9	958-959	.	_	_	
+
+#Text=—Nine month!
+15-1	959-960	—	_	_	
+15-2	960-964	Nine	_	_	
+15-3	965-970	month	_	_	
+15-4	970-971	!	_	_	
+
+#Text=and fteed John Callan, for assaulting Mary Ann Holland, of Beldre.
+16-1	972-975	and	_	_	
+16-2	976-981	fteed	_	_	
+16-3	982-986	John	_	_	
+16-4	987-993	Callan	_	_	
+16-5	993-994	,	_	_	
+16-6	995-998	for	_	_	
+16-7	999-1009	assaulting	_	_	
+16-8	1010-1014	Mary	_	_	
+16-9	1015-1018	Ann	_	_	
+16-10	1019-1026	Holland	_	_	
+16-11	1026-1027	,	_	_	
+16-12	1028-1030	of	_	_	
+16-13	1031-1037	Beldre	https://en.wikipedia.org/wiki/Boldre	LOC	
+16-14	1037-1038	.	_	_	
+
+#Text=—Sir month each: John Mitchell, for stealing wheat; and Georg* Morrison, tor stealing two pigs,—TVce monthi: Wra.
+17-1	1038-1039	—	_	_	
+17-2	1039-1042	Sir	_	_	
+17-3	1043-1048	month	_	_	
+17-4	1049-1053	each	_	_	
+17-5	1053-1054	:	_	_	
+17-6	1055-1059	John	_	_	
+17-7	1060-1068	Mitchell	_	_	
+17-8	1068-1069	,	_	_	
+17-9	1070-1073	for	_	_	
+17-10	1074-1082	stealing	_	_	
+17-11	1083-1088	wheat	_	_	
+17-12	1088-1089	;	_	_	
+17-13	1090-1093	and	_	_	
+17-14	1094-1099	Georg	_	_	
+17-15	1099-1100	*	_	_	
+17-16	1101-1109	Morrison	_	_	
+17-17	1109-1110	,	_	_	
+17-18	1111-1114	tor	_	_	
+17-19	1115-1123	stealing	_	_	
+17-20	1124-1127	two	_	_	
+17-21	1128-1132	pigs	_	_	
+17-22	1132-1133	,	_	_	
+17-23	1133-1134	—	_	_	
+17-24	1134-1138	TVce	_	_	
+17-25	1139-1145	monthi	_	_	
+17-26	1145-1146	:	_	_	
+17-27	1147-1150	Wra	_	_	
+17-28	1150-1151	.	_	_	
+
+#Text=Jeans and James Young, for stealing potatoes.
+18-1	1152-1157	Jeans	_	_	
+18-2	1158-1161	and	_	_	
+18-3	1162-1167	James	_	_	
+18-4	1168-1173	Young	_	_	
+18-5	1173-1174	,	_	_	
+18-6	1175-1178	for	_	_	
+18-7	1179-1187	stealing	_	_	
+18-8	1188-1196	potatoes	_	_	
+18-9	1196-1197	.	_	_	
+
+#Text=—Six ueeh: John Brauiley, for stealing a number of oak trees—One month: Wm.
+19-1	1197-1198	—	_	_	
+19-2	1198-1201	Six	_	_	
+19-3	1202-1206	ueeh	_	_	
+19-4	1206-1207	:	_	_	
+19-5	1208-1212	John	_	_	
+19-6	1213-1221	Brauiley	_	_	
+19-7	1221-1222	,	_	_	
+19-8	1223-1226	for	_	_	
+19-9	1227-1235	stealing	_	_	
+19-10	1236-1237	a	_	_	
+19-11	1238-1244	number	_	_	
+19-12	1245-1247	of	_	_	
+19-13	1248-1251	oak	_	_	
+19-14	1252-1261	trees—One	_	_	
+19-15	1262-1267	month	_	_	
+19-16	1267-1268	:	_	_	
+19-17	1269-1271	Wm	_	_	
+19-18	1271-1272	.	_	_	
+
+#Text=Cue, for stealing a saw.— Three were tried and acquitted, and four discharged, no bills having been found against them.
+20-1	1273-1276	Cue	_	_	
+20-2	1276-1277	,	_	_	
+20-3	1278-1281	for	_	_	
+20-4	1282-1290	stealing	_	_	
+20-5	1291-1292	a	_	_	
+20-6	1293-1296	saw	_	_	
+20-7	1296-1297	.	_	_	
+20-8	1297-1298	—	_	_	
+20-9	1299-1304	Three	_	_	
+20-10	1305-1309	were	_	_	
+20-11	1310-1315	tried	_	_	
+20-12	1316-1319	and	_	_	
+20-13	1320-1329	acquitted	_	_	
+20-14	1329-1330	,	_	_	
+20-15	1331-1334	and	_	_	
+20-16	1335-1339	four	_	_	
+20-17	1340-1350	discharged	_	_	
+20-18	1350-1351	,	_	_	
+20-19	1352-1354	no	_	_	
+20-20	1355-1360	bills	_	_	
+20-21	1361-1367	having	_	_	
+20-22	1368-1372	been	_	_	
+20-23	1373-1378	found	_	_	
+20-24	1379-1386	against	_	_	
+20-25	1387-1391	them	_	_	
+20-26	1391-1392	.	_	_	
+
+#Text=The magistrates of Portsmouth have signified to the parish officers, that they will not in future sign any rate for the relief of the poor, until a list has been furnished to them of aU defaulters on former rates, being determined to assist the overseers by enforcing the payment of the several rales, as well as to scrutinize the expenditure of the money when raised.
+21-1	1393-1396	The	_	_	
+21-2	1397-1408	magistrates	_	_	
+21-3	1409-1411	of	_	_	
+21-4	1412-1422	Portsmouth	https://en.wikipedia.org/wiki/Portsmouth	LOC	
+21-5	1423-1427	have	_	_	
+21-6	1428-1437	signified	_	_	
+21-7	1438-1440	to	_	_	
+21-8	1441-1444	the	_	_	
+21-9	1445-1451	parish	_	_	
+21-10	1452-1460	officers	_	_	
+21-11	1460-1461	,	_	_	
+21-12	1462-1466	that	_	_	
+21-13	1467-1471	they	_	_	
+21-14	1472-1476	will	_	_	
+21-15	1477-1480	not	_	_	
+21-16	1481-1483	in	_	_	
+21-17	1484-1490	future	_	_	
+21-18	1491-1495	sign	_	_	
+21-19	1496-1499	any	_	_	
+21-20	1500-1504	rate	_	_	
+21-21	1505-1508	for	_	_	
+21-22	1509-1512	the	_	_	
+21-23	1513-1519	relief	_	_	
+21-24	1520-1522	of	_	_	
+21-25	1523-1526	the	_	_	
+21-26	1527-1531	poor	_	_	
+21-27	1531-1532	,	_	_	
+21-28	1533-1538	until	_	_	
+21-29	1539-1540	a	_	_	
+21-30	1541-1545	list	_	_	
+21-31	1546-1549	has	_	_	
+21-32	1550-1554	been	_	_	
+21-33	1555-1564	furnished	_	_	
+21-34	1565-1567	to	_	_	
+21-35	1568-1572	them	_	_	
+21-36	1573-1575	of	_	_	
+21-37	1576-1578	aU	_	_	
+21-38	1579-1589	defaulters	_	_	
+21-39	1590-1592	on	_	_	
+21-40	1593-1599	former	_	_	
+21-41	1600-1605	rates	_	_	
+21-42	1605-1606	,	_	_	
+21-43	1607-1612	being	_	_	
+21-44	1613-1623	determined	_	_	
+21-45	1624-1626	to	_	_	
+21-46	1627-1633	assist	_	_	
+21-47	1634-1637	the	_	_	
+21-48	1638-1647	overseers	_	_	
+21-49	1648-1650	by	_	_	
+21-50	1651-1660	enforcing	_	_	
+21-51	1661-1664	the	_	_	
+21-52	1665-1672	payment	_	_	
+21-53	1673-1675	of	_	_	
+21-54	1676-1679	the	_	_	
+21-55	1680-1687	several	_	_	
+21-56	1688-1693	rales	_	_	
+21-57	1693-1694	,	_	_	
+21-58	1695-1697	as	_	_	
+21-59	1698-1702	well	_	_	
+21-60	1703-1705	as	_	_	
+21-61	1706-1708	to	_	_	
+21-62	1709-1719	scrutinize	_	_	
+21-63	1720-1723	the	_	_	
+21-64	1724-1735	expenditure	_	_	
+21-65	1736-1738	of	_	_	
+21-66	1739-1742	the	_	_	
+21-67	1743-1748	money	_	_	
+21-68	1749-1753	when	_	_	
+21-69	1754-1760	raised	_	_	
+21-70	1760-1761	.	_	_	

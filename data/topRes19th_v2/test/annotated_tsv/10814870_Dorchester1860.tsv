@@ -1,0 +1,244 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=DEVONSHIRE.
+1-1	0-10	DEVONSHIRE	https://en.wikipedia.org/wiki/Devon	LOC	
+1-2	10-11	.	_	_	
+
+#Text=EXETER.
+2-1	13-19	EXETER	https://en.wikipedia.org/wiki/Exeter	LOC	
+2-2	19-20	.	_	_	
+
+#Text=The Food Rioters.
+3-1	21-24	The	_	_	
+3-2	25-29	Food	_	_	
+3-3	30-37	Rioters	_	_	
+3-4	37-38	.	_	_	
+
+#Text=—Several persons implicated in the recent disgraceful proceedings in this city have been committed for trial on the charge of rioting, or otherwise convicted for assaults and doing wilful damage. .
+4-1	38-39	—	_	_	
+4-2	39-46	Several	_	_	
+4-3	47-54	persons	_	_	
+4-4	55-65	implicated	_	_	
+4-5	66-68	in	_	_	
+4-6	69-72	the	_	_	
+4-7	73-79	recent	_	_	
+4-8	80-91	disgraceful	_	_	
+4-9	92-103	proceedings	_	_	
+4-10	104-106	in	_	_	
+4-11	107-111	this	_	_	
+4-12	112-116	city	_	_	
+4-13	117-121	have	_	_	
+4-14	122-126	been	_	_	
+4-15	127-136	committed	_	_	
+4-16	137-140	for	_	_	
+4-17	141-146	trial	_	_	
+4-18	147-149	on	_	_	
+4-19	150-153	the	_	_	
+4-20	154-160	charge	_	_	
+4-21	161-163	of	_	_	
+4-22	164-171	rioting	_	_	
+4-23	171-172	,	_	_	
+4-24	173-175	or	_	_	
+4-25	176-185	otherwise	_	_	
+4-26	186-195	convicted	_	_	
+4-27	196-199	for	_	_	
+4-28	200-208	assaults	_	_	
+4-29	209-212	and	_	_	
+4-30	213-218	doing	_	_	
+4-31	219-225	wilful	_	_	
+4-32	226-232	damage	_	_	
+4-33	232-233	.	_	_	
+4-34	234-235	.	_	_	
+
+#Text=The Food Riots at Newton Abbot.
+5-1	236-239	The	_	_	
+5-2	240-244	Food	_	_	
+5-3	245-250	Riots	_	_	
+5-4	251-253	at	_	_	
+5-5	254-260	Newton	https://en.wikipedia.org/wiki/Newton\_Abbot[1]	LOC[1]	
+5-6	261-266	Abbot	https://en.wikipedia.org/wiki/Newton\_Abbot[1]	LOC[1]	
+5-7	266-267	.	_	_	
+
+#Text=—At the Devon intermediate sessions on Tuesday, Edward Daw, 27, labourer, George Webber, 17, labourer, and Mary Wootton (on bail), were charged with having, on Nov. sth, at Wblborough, with divers other persons, assembled and disturbed the public peace, and made a great riot and disturbance.
+6-1	267-268	—	_	_	
+6-2	268-270	At	_	_	
+6-3	271-274	the	_	_	
+6-4	275-280	Devon	https://en.wikipedia.org/wiki/Devon	LOC	
+6-5	281-293	intermediate	_	_	
+6-6	294-302	sessions	_	_	
+6-7	303-305	on	_	_	
+6-8	306-313	Tuesday	_	_	
+6-9	313-314	,	_	_	
+6-10	315-321	Edward	_	_	
+6-11	322-325	Daw	_	_	
+6-12	325-326	,	_	_	
+6-13	327-329	27	_	_	
+6-14	329-330	,	_	_	
+6-15	331-339	labourer	_	_	
+6-16	339-340	,	_	_	
+6-17	341-347	George	_	_	
+6-18	348-354	Webber	_	_	
+6-19	354-355	,	_	_	
+6-20	356-358	17	_	_	
+6-21	358-359	,	_	_	
+6-22	360-368	labourer	_	_	
+6-23	368-369	,	_	_	
+6-24	370-373	and	_	_	
+6-25	374-378	Mary	_	_	
+6-26	379-386	Wootton	_	_	
+6-27	387-388	(	_	_	
+6-28	388-390	on	_	_	
+6-29	391-395	bail	_	_	
+6-30	395-396	)	_	_	
+6-31	396-397	,	_	_	
+6-32	398-402	were	_	_	
+6-33	403-410	charged	_	_	
+6-34	411-415	with	_	_	
+6-35	416-422	having	_	_	
+6-36	422-423	,	_	_	
+6-37	424-426	on	_	_	
+6-38	427-430	Nov	_	_	
+6-39	430-431	.	_	_	
+6-40	432-435	sth	_	_	
+6-41	435-436	,	_	_	
+6-42	437-439	at	_	_	
+6-43	440-450	Wblborough	https://en.wikipedia.org/wiki/Wolborough	LOC	
+6-44	450-451	,	_	_	
+6-45	452-456	with	_	_	
+6-46	457-463	divers	_	_	
+6-47	464-469	other	_	_	
+6-48	470-477	persons	_	_	
+6-49	477-478	,	_	_	
+6-50	479-488	assembled	_	_	
+6-51	489-492	and	_	_	
+6-52	493-502	disturbed	_	_	
+6-53	503-506	the	_	_	
+6-54	507-513	public	_	_	
+6-55	514-519	peace	_	_	
+6-56	519-520	,	_	_	
+6-57	521-524	and	_	_	
+6-58	525-529	made	_	_	
+6-59	530-531	a	_	_	
+6-60	532-537	great	_	_	
+6-61	538-542	riot	_	_	
+6-62	543-546	and	_	_	
+6-63	547-558	disturbance	_	_	
+6-64	558-559	.	_	_	
+
+#Text=—The prosecution was based on Vie. 24 and 25, cap. 97, sec. 12, under which any persons riotously and tumultuously assembled together, to the disturbance °f the public peace, and the unlawful injury of property, were guilty of misdemeanour.
+7-1	559-560	—	_	_	
+7-2	560-563	The	_	_	
+7-3	564-575	prosecution	_	_	
+7-4	576-579	was	_	_	
+7-5	580-585	based	_	_	
+7-6	586-588	on	_	_	
+7-7	589-592	Vie	_	_	
+7-8	592-593	.	_	_	
+7-9	594-596	24	_	_	
+7-10	597-600	and	_	_	
+7-11	601-603	25	_	_	
+7-12	603-604	,	_	_	
+7-13	605-608	cap	_	_	
+7-14	608-609	.	_	_	
+7-15	610-612	97	_	_	
+7-16	612-613	,	_	_	
+7-17	614-617	sec	_	_	
+7-18	617-618	.	_	_	
+7-19	619-621	12	_	_	
+7-20	621-622	,	_	_	
+7-21	623-628	under	_	_	
+7-22	629-634	which	_	_	
+7-23	635-638	any	_	_	
+7-24	639-646	persons	_	_	
+7-25	647-656	riotously	_	_	
+7-26	657-660	and	_	_	
+7-27	661-673	tumultuously	_	_	
+7-28	674-683	assembled	_	_	
+7-29	684-692	together	_	_	
+7-30	692-693	,	_	_	
+7-31	694-696	to	_	_	
+7-32	697-700	the	_	_	
+7-33	701-712	disturbance	_	_	
+7-34	713-714	°	_	_	
+7-35	714-715	f	_	_	
+7-36	716-719	the	_	_	
+7-37	720-726	public	_	_	
+7-38	727-732	peace	_	_	
+7-39	732-733	,	_	_	
+7-40	734-737	and	_	_	
+7-41	738-741	the	_	_	
+7-42	742-750	unlawful	_	_	
+7-43	751-757	injury	_	_	
+7-44	758-760	of	_	_	
+7-45	761-769	property	_	_	
+7-46	769-770	,	_	_	
+7-47	771-775	were	_	_	
+7-48	776-782	guilty	_	_	
+7-49	783-785	of	_	_	
+7-50	786-798	misdemeanour	_	_	
+7-51	798-799	.	_	_	
+
+#Text=—The prisoners were all found guilty, and Webber was also convicted on another count, which set forth that he had broken into Mr.
+8-1	799-800	—	_	_	
+8-2	800-803	The	_	_	
+8-3	804-813	prisoners	_	_	
+8-4	814-818	were	_	_	
+8-5	819-822	all	_	_	
+8-6	823-828	found	_	_	
+8-7	829-835	guilty	_	_	
+8-8	835-836	,	_	_	
+8-9	837-840	and	_	_	
+8-10	841-847	Webber	_	_	
+8-11	848-851	was	_	_	
+8-12	852-856	also	_	_	
+8-13	857-866	convicted	_	_	
+8-14	867-869	on	_	_	
+8-15	870-877	another	_	_	
+8-16	878-883	count	_	_	
+8-17	883-884	,	_	_	
+8-18	885-890	which	_	_	
+8-19	891-894	set	_	_	
+8-20	895-900	forth	_	_	
+8-21	901-905	that	_	_	
+8-22	906-908	he	_	_	
+8-23	909-912	had	_	_	
+8-24	913-919	broken	_	_	
+8-25	920-924	into	_	_	
+8-26	925-927	Mr	_	_	
+8-27	927-928	.	_	_	
+
+#Text=Risdons shop.
+9-1	929-936	Risdons	_	_	
+9-2	937-941	shop	_	_	
+9-3	941-942	.	_	_	
+
+#Text=—Martin Bweney was indictedfor takingaprominent Part in the riot and assaulting the police, and found Suilty.
+10-1	942-943	—	_	_	
+10-2	943-949	Martin	_	_	
+10-3	950-956	Bweney	_	_	
+10-4	957-960	was	_	_	
+10-5	961-972	indictedfor	_	_	
+10-6	973-989	takingaprominent	_	_	
+10-7	990-994	Part	_	_	
+10-8	995-997	in	_	_	
+10-9	998-1001	the	_	_	
+10-10	1002-1006	riot	_	_	
+10-11	1007-1010	and	_	_	
+10-12	1011-1021	assaulting	_	_	
+10-13	1022-1025	the	_	_	
+10-14	1026-1032	police	_	_	
+10-15	1032-1033	,	_	_	
+10-16	1034-1037	and	_	_	
+10-17	1038-1043	found	_	_	
+10-18	1044-1050	Suilty	_	_	
+10-19	1050-1051	.	_	_	
+
+#Text=—The sentences were deferred.
+11-1	1051-1052	—	_	_	
+11-2	1052-1055	The	_	_	
+11-3	1056-1065	sentences	_	_	
+11-4	1066-1070	were	_	_	
+11-5	1071-1079	deferred	_	_	
+11-6	1079-1080	.	_	_	

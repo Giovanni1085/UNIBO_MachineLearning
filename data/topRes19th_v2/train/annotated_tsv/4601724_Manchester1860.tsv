@@ -1,0 +1,273 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=An American War Steamer off the Irish Coast.
+1-1	0-2	An	_	_	
+1-2	3-11	American	_	_	
+1-3	12-15	War	_	_	
+1-4	16-23	Steamer	_	_	
+1-5	24-27	off	_	_	
+1-6	28-31	the	_	_	
+1-7	32-37	Irish	_	_	
+1-8	38-43	Coast	_	_	
+1-9	43-44	.	_	_	
+
+#Text=—The United States war frigate Canadiagua arrived at Kingston yesterday from Queenstown.
+2-1	44-45	—	_	_	
+2-2	45-48	The	_	_	
+2-3	49-55	United	https://en.wikipedia.org/wiki/United\_States[1]	LOC[1]	
+2-4	56-62	States	https://en.wikipedia.org/wiki/United\_States[1]	LOC[1]	
+2-5	63-66	war	_	_	
+2-6	67-74	frigate	_	_	
+2-7	75-85	Canadiagua	_	_	
+2-8	86-93	arrived	_	_	
+2-9	94-96	at	_	_	
+2-10	97-105	Kingston	https://en.wikipedia.org/wiki/D%C3%BAn\_Laoghaire	LOC	
+2-11	106-115	yesterday	_	_	
+2-12	116-120	from	_	_	
+2-13	121-131	Queenstown	https://en.wikipedia.org/wiki/Cobh	LOC	
+2-14	131-132	.	_	_	
+
+#Text=Seizure op War Ships in the Thames.
+3-1	133-140	Seizure	_	_	
+3-2	141-143	op	_	_	
+3-3	144-147	War	_	_	
+3-4	148-153	Ships	_	_	
+3-5	154-156	in	_	_	
+3-6	157-160	the	_	_	
+3-7	161-167	Thames	https://en.wikipedia.org/wiki/River\_Thames	LOC	
+3-8	167-168	.	_	_	
+
+#Text=—The Shipping Gazette says it is reported that Government has seized the Spanish ironclads fitting out in the Thames ; also the steamer Sirius fitting out for the republic of Columbia.
+4-1	168-169	—	_	_	
+4-2	169-172	The	_	_	
+4-3	173-181	Shipping	_	_	
+4-4	182-189	Gazette	_	_	
+4-5	190-194	says	_	_	
+4-6	195-197	it	_	_	
+4-7	198-200	is	_	_	
+4-8	201-209	reported	_	_	
+4-9	210-214	that	_	_	
+4-10	215-225	Government	_	_	
+4-11	226-229	has	_	_	
+4-12	230-236	seized	_	_	
+4-13	237-240	the	_	_	
+4-14	241-248	Spanish	_	_	
+4-15	249-258	ironclads	_	_	
+4-16	259-266	fitting	_	_	
+4-17	267-270	out	_	_	
+4-18	271-273	in	_	_	
+4-19	274-277	the	_	_	
+4-20	278-284	Thames	https://en.wikipedia.org/wiki/River\_Thames	LOC	
+4-21	285-286	;	_	_	
+4-22	287-291	also	_	_	
+4-23	292-295	the	_	_	
+4-24	296-303	steamer	_	_	
+4-25	304-310	Sirius	_	_	
+4-26	311-318	fitting	_	_	
+4-27	319-322	out	_	_	
+4-28	323-326	for	_	_	
+4-29	327-330	the	_	_	
+4-30	331-339	republic	_	_	
+4-31	340-342	of	_	_	
+4-32	343-351	Columbia	https://en.wikipedia.org/wiki/Colombia	LOC	
+4-33	351-352	.	_	_	
+
+#Text=Mr.
+5-1	353-355	Mr	_	_	
+5-2	355-356	.	_	_	
+
+#Text=Sothern and the Spiritualists. — Mr.
+6-1	357-364	Sothern	_	_	
+6-2	365-368	and	_	_	
+6-3	369-372	the	_	_	
+6-4	373-386	Spiritualists	_	_	
+6-5	386-387	.	_	_	
+6-6	388-389	—	_	_	
+6-7	390-392	Mr	_	_	
+6-8	392-393	.	_	_	
+
+#Text=Benjamin Coleman surrendered at the Central Criminal Couit yesterday to take his trial for libel concerning Mr.
+7-1	394-402	Benjamin	_	_	
+7-2	403-410	Coleman	_	_	
+7-3	411-422	surrendered	_	_	
+7-4	423-425	at	_	_	
+7-5	426-429	the	_	_	
+7-6	430-437	Central	_	_	
+7-7	438-446	Criminal	_	_	
+7-8	447-452	Couit	_	_	
+7-9	453-462	yesterday	_	_	
+7-10	463-465	to	_	_	
+7-11	466-470	take	_	_	
+7-12	471-474	his	_	_	
+7-13	475-480	trial	_	_	
+7-14	481-484	for	_	_	
+7-15	485-490	libel	_	_	
+7-16	491-501	concerning	_	_	
+7-17	502-504	Mr	_	_	
+7-18	504-505	.	_	_	
+
+#Text=Sothern, the actor.
+8-1	506-513	Sothern	_	_	
+8-2	513-514	,	_	_	
+8-3	515-518	the	_	_	
+8-4	519-524	actor	_	_	
+8-5	524-525	.	_	_	
+
+#Text=Application was made for the postponement of the trial, on the ground that it was necessary to procure witnesses from New York, the libel having been copied from a paper published in that city.
+9-1	526-537	Application	_	_	
+9-2	538-541	was	_	_	
+9-3	542-546	made	_	_	
+9-4	547-550	for	_	_	
+9-5	551-554	the	_	_	
+9-6	555-567	postponement	_	_	
+9-7	568-570	of	_	_	
+9-8	571-574	the	_	_	
+9-9	575-580	trial	_	_	
+9-10	580-581	,	_	_	
+9-11	582-584	on	_	_	
+9-12	585-588	the	_	_	
+9-13	589-595	ground	_	_	
+9-14	596-600	that	_	_	
+9-15	601-603	it	_	_	
+9-16	604-607	was	_	_	
+9-17	608-617	necessary	_	_	
+9-18	618-620	to	_	_	
+9-19	621-628	procure	_	_	
+9-20	629-638	witnesses	_	_	
+9-21	639-643	from	_	_	
+9-22	644-647	New	https://en.wikipedia.org/wiki/New\_York\_City[2]	LOC[2]	
+9-23	648-652	York	https://en.wikipedia.org/wiki/New\_York\_City[2]	LOC[2]	
+9-24	652-653	,	_	_	
+9-25	654-657	the	_	_	
+9-26	658-663	libel	_	_	
+9-27	664-670	having	_	_	
+9-28	671-675	been	_	_	
+9-29	676-682	copied	_	_	
+9-30	683-687	from	_	_	
+9-31	688-689	a	_	_	
+9-32	690-695	paper	_	_	
+9-33	696-705	published	_	_	
+9-34	706-708	in	_	_	
+9-35	709-713	that	_	_	
+9-36	714-718	city	_	_	
+9-37	718-719	.	_	_	
+
+#Text=The deputyrecorder refused the application for the postponement, and the trial was fixed for Saturday (to-morrow).
+10-1	720-723	The	_	_	
+10-2	724-738	deputyrecorder	_	_	
+10-3	739-746	refused	_	_	
+10-4	747-750	the	_	_	
+10-5	751-762	application	_	_	
+10-6	763-766	for	_	_	
+10-7	767-770	the	_	_	
+10-8	771-783	postponement	_	_	
+10-9	783-784	,	_	_	
+10-10	785-788	and	_	_	
+10-11	789-792	the	_	_	
+10-12	793-798	trial	_	_	
+10-13	799-802	was	_	_	
+10-14	803-808	fixed	_	_	
+10-15	809-812	for	_	_	
+10-16	813-821	Saturday	_	_	
+10-17	822-823	(	_	_	
+10-18	823-832	to-morrow	_	_	
+10-19	832-833	)	_	_	
+10-20	833-834	.	_	_	
+
+#Text=Parties answerma oM,vmi«fmr\\,s *n tit* Courier are. request* to attmd to thefoliowkVi expUtvationt :— Apply at th* printers," meant that personal application mnt. be made at the Courier Office.
+11-1	836-843	Parties	_	_	
+11-2	844-852	answerma	_	_	
+11-3	853-855	oM	_	_	
+11-4	855-856	,	_	_	
+11-5	856-859	vmi	_	_	
+11-6	859-860	«	_	_	
+11-7	860-863	fmr	_	_	
+11-8	863-864	\	_	_	
+11-9	864-865	,	_	_	
+11-10	865-866	s	_	_	
+11-11	867-868	*	_	_	
+11-12	868-869	n	_	_	
+11-13	870-873	tit	_	_	
+11-14	873-874	*	_	_	
+11-15	875-882	Courier	_	_	
+11-16	883-886	are	_	_	
+11-17	886-887	.	_	_	
+11-18	888-895	request	_	_	
+11-19	895-896	*	_	_	
+11-20	897-899	to	_	_	
+11-21	900-905	attmd	_	_	
+11-22	906-908	to	_	_	
+11-23	909-921	thefoliowkVi	_	_	
+11-24	922-934	expUtvationt	_	_	
+11-25	935-936	:	_	_	
+11-26	936-937	—	_	_	
+11-27	938-943	Apply	_	_	
+11-28	944-946	at	_	_	
+11-29	947-949	th	_	_	
+11-30	949-950	*	_	_	
+11-31	951-959	printers	_	_	
+11-32	959-960	,	_	_	
+11-33	960-961	"	_	_	
+11-34	962-967	meant	_	_	
+11-35	968-972	that	_	_	
+11-36	973-981	personal	_	_	
+11-37	982-993	application	_	_	
+11-38	994-997	mnt	_	_	
+11-39	997-998	.	_	_	
+11-40	999-1001	be	_	_	
+11-41	1002-1006	made	_	_	
+11-42	1007-1009	at	_	_	
+11-43	1010-1013	the	_	_	
+11-44	1014-1021	Courier	_	_	
+11-45	1022-1028	Office	_	_	
+11-46	1028-1029	.	_	_	
+
+#Text=Adtlress [capital Utter and. nn-mifr) at the printers, mrans that application must be mad* by letter, and m no other way.
+12-1	1030-1038	Adtlress	_	_	
+12-2	1039-1040	[	_	_	
+12-3	1040-1047	capital	_	_	
+12-4	1048-1053	Utter	_	_	
+12-5	1054-1057	and	_	_	
+12-6	1057-1058	.	_	_	
+12-7	1059-1066	nn-mifr	_	_	
+12-8	1066-1067	)	_	_	
+12-9	1068-1070	at	_	_	
+12-10	1071-1074	the	_	_	
+12-11	1075-1083	printers	_	_	
+12-12	1083-1084	,	_	_	
+12-13	1085-1090	mrans	_	_	
+12-14	1091-1095	that	_	_	
+12-15	1096-1107	application	_	_	
+12-16	1108-1112	must	_	_	
+12-17	1113-1115	be	_	_	
+12-18	1116-1119	mad	_	_	
+12-19	1119-1120	*	_	_	
+12-20	1121-1123	by	_	_	
+12-21	1124-1130	letter	_	_	
+12-22	1130-1131	,	_	_	
+12-23	1132-1135	and	_	_	
+12-24	1136-1137	m	_	_	
+12-25	1138-1140	no	_	_	
+12-26	1141-1146	other	_	_	
+12-27	1147-1150	way	_	_	
+12-28	1150-1151	.	_	_	
+
+#Text=Applications not in con/orrmfy: %tth these directions cannot be attended to.
+13-1	1152-1164	Applications	_	_	
+13-2	1165-1168	not	_	_	
+13-3	1169-1171	in	_	_	
+13-4	1172-1175	con	_	_	
+13-5	1175-1176	/	_	_	
+13-6	1176-1182	orrmfy	_	_	
+13-7	1182-1183	:	_	_	
+13-8	1184-1185	%	_	_	
+13-9	1185-1188	tth	_	_	
+13-10	1189-1194	these	_	_	
+13-11	1195-1205	directions	_	_	
+13-12	1206-1212	cannot	_	_	
+13-13	1213-1215	be	_	_	
+13-14	1216-1224	attended	_	_	
+13-15	1225-1227	to	_	_	
+13-16	1227-1228	.	_	_	

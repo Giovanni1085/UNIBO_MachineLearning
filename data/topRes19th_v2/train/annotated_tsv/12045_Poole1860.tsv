@@ -1,0 +1,279 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=RINGWOOD.
+1-1	0-8	RINGWOOD	https://en.wikipedia.org/wiki/Ringwood	LOC	
+1-2	8-9	.	_	_	
+
+#Text=Jnetxxa.
+2-1	11-18	Jnetxxa	_	_	
+2-2	18-19	.	_	_	
+
+#Text=—On Saturday week the members of the Gorky Friendly Society met at their clubhouse (Mr.
+3-1	19-20	—	_	_	
+3-2	20-22	On	_	_	
+3-3	23-31	Saturday	_	_	
+3-4	32-36	week	_	_	
+3-5	37-40	the	_	_	
+3-6	41-48	members	_	_	
+3-7	49-51	of	_	_	
+3-8	52-55	the	_	_	
+3-9	56-61	Gorky	https://en.wikipedia.org/wiki/North\_Gorley	LOC	
+3-10	62-70	Friendly	_	_	
+3-11	71-78	Society	_	_	
+3-12	79-82	met	_	_	
+3-13	83-85	at	_	_	
+3-14	86-91	their	_	_	
+3-15	92-101	clubhouse	_	_	
+3-16	102-103	(	_	_	
+3-17	103-105	Mr	_	_	
+3-18	105-106	.	_	_	
+
+#Text=Thomas Hayters) to celebrate the jubilee of the society, and then moved in procession, beaded by the lbsley brass band and a prettily painted banner, on which was inscribed the words, " Jubilee of the Gorley Friendly Society, instituted July 21st, IMO," and their u4tial colours, in excellent order round the village.
+4-1	107-113	Thomas	_	_	
+4-2	114-121	Hayters	_	_	
+4-3	121-122	)	_	_	
+4-4	123-125	to	_	_	
+4-5	126-135	celebrate	_	_	
+4-6	136-139	the	_	_	
+4-7	140-147	jubilee	_	_	
+4-8	148-150	of	_	_	
+4-9	151-154	the	_	_	
+4-10	155-162	society	_	_	
+4-11	162-163	,	_	_	
+4-12	164-167	and	_	_	
+4-13	168-172	then	_	_	
+4-14	173-178	moved	_	_	
+4-15	179-181	in	_	_	
+4-16	182-192	procession	_	_	
+4-17	192-193	,	_	_	
+4-18	194-200	beaded	_	_	
+4-19	201-203	by	_	_	
+4-20	204-207	the	_	_	
+4-21	208-214	lbsley	_	_	
+4-22	215-220	brass	_	_	
+4-23	221-225	band	_	_	
+4-24	226-229	and	_	_	
+4-25	230-231	a	_	_	
+4-26	232-240	prettily	_	_	
+4-27	241-248	painted	_	_	
+4-28	249-255	banner	_	_	
+4-29	255-256	,	_	_	
+4-30	257-259	on	_	_	
+4-31	260-265	which	_	_	
+4-32	266-269	was	_	_	
+4-33	270-279	inscribed	_	_	
+4-34	280-283	the	_	_	
+4-35	284-289	words	_	_	
+4-36	289-290	,	_	_	
+4-37	291-292	"	_	_	
+4-38	293-300	Jubilee	_	_	
+4-39	301-303	of	_	_	
+4-40	304-307	the	_	_	
+4-41	308-314	Gorley	https://en.wikipedia.org/wiki/North\_Gorley	LOC	
+4-42	315-323	Friendly	_	_	
+4-43	324-331	Society	_	_	
+4-44	331-332	,	_	_	
+4-45	333-343	instituted	_	_	
+4-46	344-348	July	_	_	
+4-47	349-353	21st	_	_	
+4-48	353-354	,	_	_	
+4-49	355-358	IMO	_	_	
+4-50	358-359	,	_	_	
+4-51	359-360	"	_	_	
+4-52	361-364	and	_	_	
+4-53	365-370	their	_	_	
+4-54	371-377	u4tial	_	_	
+4-55	378-385	colours	_	_	
+4-56	385-386	,	_	_	
+4-57	387-389	in	_	_	
+4-58	390-399	excellent	_	_	
+4-59	400-405	order	_	_	
+4-60	406-411	round	_	_	
+4-61	412-415	the	_	_	
+4-62	416-423	village	_	_	
+4-63	423-424	.	_	_	
+
+#Text=On returning they were met by the children of the Ibsley church school, carrying numerous banners, who followed them to Gorley Green.
+5-1	425-427	On	_	_	
+5-2	428-437	returning	_	_	
+5-3	438-442	they	_	_	
+5-4	443-447	were	_	_	
+5-5	448-451	met	_	_	
+5-6	452-454	by	_	_	
+5-7	455-458	the	_	_	
+5-8	459-467	children	_	_	
+5-9	468-470	of	_	_	
+5-10	471-474	the	_	_	
+5-11	475-481	Ibsley	https://en.wikipedia.org/wiki/Ibsley	LOC	
+5-12	482-488	church	_	_	
+5-13	489-495	school	_	_	
+5-14	495-496	,	_	_	
+5-15	497-505	carrying	_	_	
+5-16	506-514	numerous	_	_	
+5-17	515-522	banners	_	_	
+5-18	522-523	,	_	_	
+5-19	524-527	who	_	_	
+5-20	528-536	followed	_	_	
+5-21	537-541	them	_	_	
+5-22	542-544	to	_	_	
+5-23	545-551	Gorley	https://en.wikipedia.org/wiki/North\_Gorley[1]	LOC[1]	
+5-24	552-557	Green	https://en.wikipedia.org/wiki/North\_Gorley[1]	LOC[1]	
+5-25	557-558	.	_	_	
+
+#Text=At the club-room a cold, but good and substantial, dinner was prepared for them, with plenty of good home brewed ale, which appeared to be heartily enjoyed.
+6-1	559-561	At	_	_	
+6-2	562-565	the	_	_	
+6-3	566-575	club-room	_	_	
+6-4	576-577	a	_	_	
+6-5	578-582	cold	_	_	
+6-6	582-583	,	_	_	
+6-7	584-587	but	_	_	
+6-8	588-592	good	_	_	
+6-9	593-596	and	_	_	
+6-10	597-608	substantial	_	_	
+6-11	608-609	,	_	_	
+6-12	610-616	dinner	_	_	
+6-13	617-620	was	_	_	
+6-14	621-629	prepared	_	_	
+6-15	630-633	for	_	_	
+6-16	634-638	them	_	_	
+6-17	638-639	,	_	_	
+6-18	640-644	with	_	_	
+6-19	645-651	plenty	_	_	
+6-20	652-654	of	_	_	
+6-21	655-659	good	_	_	
+6-22	660-664	home	_	_	
+6-23	665-671	brewed	_	_	
+6-24	672-675	ale	_	_	
+6-25	675-676	,	_	_	
+6-26	677-682	which	_	_	
+6-27	683-691	appeared	_	_	
+6-28	692-694	to	_	_	
+6-29	695-697	be	_	_	
+6-30	698-706	heartily	_	_	
+6-31	707-714	enjoyed	_	_	
+6-32	714-715	.	_	_	
+
+#Text=Songs and toasts followed the removal of the cloth, and were kept up during the day.
+7-1	716-721	Songs	_	_	
+7-2	722-725	and	_	_	
+7-3	726-732	toasts	_	_	
+7-4	733-741	followed	_	_	
+7-5	742-745	the	_	_	
+7-6	746-753	removal	_	_	
+7-7	754-756	of	_	_	
+7-8	757-760	the	_	_	
+7-9	761-766	cloth	_	_	
+7-10	766-767	,	_	_	
+7-11	768-771	and	_	_	
+7-12	772-776	were	_	_	
+7-13	777-781	kept	_	_	
+7-14	782-784	up	_	_	
+7-15	785-791	during	_	_	
+7-16	792-795	the	_	_	
+7-17	796-799	day	_	_	
+7-18	799-800	.	_	_	
+
+#Text=On the green a boo,li and (Aber staudings were erected, where dancing commenced at sic p.m.
+8-1	801-803	On	_	_	
+8-2	804-807	the	_	_	
+8-3	808-813	green	_	_	
+8-4	814-815	a	_	_	
+8-5	816-819	boo	_	_	
+8-6	819-820	,	_	_	
+8-7	820-822	li	_	_	
+8-8	823-826	and	_	_	
+8-9	827-828	(	_	_	
+8-10	828-832	Aber	_	_	
+8-11	833-842	staudings	_	_	
+8-12	843-847	were	_	_	
+8-13	848-855	erected	_	_	
+8-14	855-856	,	_	_	
+8-15	857-862	where	_	_	
+8-16	863-870	dancing	_	_	
+8-17	871-880	commenced	_	_	
+8-18	881-883	at	_	_	
+8-19	884-887	sic	_	_	
+8-20	888-891	p.m	_	_	
+8-21	891-892	.	_	_	
+
+#Text=The children partook of tea and coke in a field close by.
+9-1	893-896	The	_	_	
+9-2	897-905	children	_	_	
+9-3	906-913	partook	_	_	
+9-4	914-916	of	_	_	
+9-5	917-920	tea	_	_	
+9-6	921-924	and	_	_	
+9-7	925-929	coke	_	_	
+9-8	930-932	in	_	_	
+9-9	933-934	a	_	_	
+9-10	935-940	field	_	_	
+9-11	941-946	close	_	_	
+9-12	947-949	by	_	_	
+9-13	949-950	.	_	_	
+
+#Text=At a short distance below Mr.
+10-1	951-953	At	_	_	
+10-2	954-955	a	_	_	
+10-3	956-961	short	_	_	
+10-4	962-970	distance	_	_	
+10-5	971-976	below	_	_	
+10-6	977-979	Mr	_	_	
+10-7	979-980	.	_	_	
+
+#Text=Boson had provided in the green iu front of the house plenty of cake and good tea, to which upwrels of SOO men, women, and children sat down.
+11-1	981-986	Boson	_	_	
+11-2	987-990	had	_	_	
+11-3	991-999	provided	_	_	
+11-4	1000-1002	in	_	_	
+11-5	1003-1006	the	_	_	
+11-6	1007-1012	green	_	_	
+11-7	1013-1015	iu	_	_	
+11-8	1016-1021	front	_	_	
+11-9	1022-1024	of	_	_	
+11-10	1025-1028	the	_	_	
+11-11	1029-1034	house	_	_	
+11-12	1035-1041	plenty	_	_	
+11-13	1042-1044	of	_	_	
+11-14	1045-1049	cake	_	_	
+11-15	1050-1053	and	_	_	
+11-16	1054-1058	good	_	_	
+11-17	1059-1062	tea	_	_	
+11-18	1062-1063	,	_	_	
+11-19	1064-1066	to	_	_	
+11-20	1067-1072	which	_	_	
+11-21	1073-1080	upwrels	_	_	
+11-22	1081-1083	of	_	_	
+11-23	1084-1087	SOO	_	_	
+11-24	1088-1091	men	_	_	
+11-25	1091-1092	,	_	_	
+11-26	1093-1098	women	_	_	
+11-27	1098-1099	,	_	_	
+11-28	1100-1103	and	_	_	
+11-29	1104-1112	children	_	_	
+11-30	1113-1116	sat	_	_	
+11-31	1117-1121	down	_	_	
+11-32	1121-1122	.	_	_	
+
+#Text=Ow whole went off with great satisfaction, and will be lung remembered by all who were present.
+12-1	1123-1125	Ow	_	_	
+12-2	1126-1131	whole	_	_	
+12-3	1132-1136	went	_	_	
+12-4	1137-1140	off	_	_	
+12-5	1141-1145	with	_	_	
+12-6	1146-1151	great	_	_	
+12-7	1152-1164	satisfaction	_	_	
+12-8	1164-1165	,	_	_	
+12-9	1166-1169	and	_	_	
+12-10	1170-1174	will	_	_	
+12-11	1175-1177	be	_	_	
+12-12	1178-1182	lung	_	_	
+12-13	1183-1193	remembered	_	_	
+12-14	1194-1196	by	_	_	
+12-15	1197-1200	all	_	_	
+12-16	1201-1204	who	_	_	
+12-17	1205-1209	were	_	_	
+12-18	1210-1217	present	_	_	
+12-19	1217-1218	.	_	_	

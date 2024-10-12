@@ -1,0 +1,273 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WEYMOUTU:—WEDN ESDAY, April 29.
+1-1	0-8	WEYMOUTU	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-2	8-9	:	_	_	
+1-3	9-10	—	_	_	
+1-4	10-14	WEDN	_	_	
+1-5	15-20	ESDAY	_	_	
+1-6	20-21	,	_	_	
+1-7	22-27	April	_	_	
+1-8	28-30	29	_	_	
+1-9	30-31	.	_	_	
+
+#Text=Thursday being appointed for tbs celebration of tbe Kings birth day, the Royal flag was hoisted at the Custom-house, Kay’s library.
+2-1	33-41	Thursday	_	_	
+2-2	42-47	being	_	_	
+2-3	48-57	appointed	_	_	
+2-4	58-61	for	_	_	
+2-5	62-65	tbs	_	_	
+2-6	66-77	celebration	_	_	
+2-7	78-80	of	_	_	
+2-8	81-84	tbe	_	_	
+2-9	85-90	Kings	_	_	
+2-10	91-96	birth	_	_	
+2-11	97-100	day	_	_	
+2-12	100-101	,	_	_	
+2-13	102-105	the	_	_	
+2-14	106-111	Royal	_	_	
+2-15	112-116	flag	_	_	
+2-16	117-120	was	_	_	
+2-17	121-128	hoisted	_	_	
+2-18	129-131	at	_	_	
+2-19	132-135	the	_	_	
+2-20	136-148	Custom-house	_	_	
+2-21	148-149	,	_	_	
+2-22	150-153	Kay	*[1]	BUILDING[1]	
+2-23	153-154	’	*[1]	BUILDING[1]	
+2-24	154-155	s	*[1]	BUILDING[1]	
+2-25	156-163	library	*[1]	BUILDING[1]	
+2-26	163-164	.	_	_	
+
+#Text=Ivanhoe post-office steam-packet, f commanded by Mr.
+3-1	165-172	Ivanhoe	_	_	
+3-2	173-184	post-office	_	_	
+3-3	185-197	steam-packet	_	_	
+3-4	197-198	,	_	_	
+3-5	199-200	f	_	_	
+3-6	201-210	commanded	_	_	
+3-7	211-213	by	_	_	
+3-8	214-216	Mr	_	_	
+3-9	216-217	.	_	_	
+
+#Text=R.
+4-1	218-219	R	_	_	
+4-2	219-220	.	_	_	
+
+#Text=White.) his Majesty’s Revenue cmker Hawk, and shipping at anchor in the harbour; and the usual demonstrations of loyalty and respect were manifested.
+5-1	221-226	White	_	_	
+5-2	226-227	.	_	_	
+5-3	227-228	)	_	_	
+5-4	229-232	his	_	_	
+5-5	233-240	Majesty	_	_	
+5-6	240-241	’	_	_	
+5-7	241-242	s	_	_	
+5-8	243-250	Revenue	_	_	
+5-9	251-256	cmker	_	_	
+5-10	257-261	Hawk	_	_	
+5-11	261-262	,	_	_	
+5-12	263-266	and	_	_	
+5-13	267-275	shipping	_	_	
+5-14	276-278	at	_	_	
+5-15	279-285	anchor	_	_	
+5-16	286-288	in	_	_	
+5-17	289-292	the	_	_	
+5-18	293-300	harbour	_	_	
+5-19	300-301	;	_	_	
+5-20	302-305	and	_	_	
+5-21	306-309	the	_	_	
+5-22	310-315	usual	_	_	
+5-23	316-330	demonstrations	_	_	
+5-24	331-333	of	_	_	
+5-25	334-341	loyalty	_	_	
+5-26	342-345	and	_	_	
+5-27	346-353	respect	_	_	
+5-28	354-358	were	_	_	
+5-29	359-369	manifested	_	_	
+5-30	369-370	.	_	_	
+
+#Text=The King of Wood, Steamer, Capt.
+6-1	371-374	The	_	_	
+6-2	375-379	King	_	_	
+6-3	380-382	of	_	_	
+6-4	383-387	Wood	_	_	
+6-5	387-388	,	_	_	
+6-6	389-396	Steamer	_	_	
+6-7	396-397	,	_	_	
+6-8	398-402	Capt	_	_	
+6-9	402-403	.	_	_	
+
+#Text=Peek, Commander, from London to Dartmouth, was towed into this harbour on Monday, by his Majesty’s Royal Cruiser, Sylrm, from the West Bay, having hoisted signals of distress.
+7-1	404-408	Peek	_	_	
+7-2	408-409	,	_	_	
+7-3	410-419	Commander	_	_	
+7-4	419-420	,	_	_	
+7-5	421-425	from	_	_	
+7-6	426-432	London	https://en.wikipedia.org/wiki/London	LOC	
+7-7	433-435	to	_	_	
+7-8	436-445	Dartmouth	https://en.wikipedia.org/wiki/Dartmouth,\_Devon	LOC	
+7-9	445-446	,	_	_	
+7-10	447-450	was	_	_	
+7-11	451-456	towed	_	_	
+7-12	457-461	into	_	_	
+7-13	462-466	this	_	_	
+7-14	467-474	harbour	_	_	
+7-15	475-477	on	_	_	
+7-16	478-484	Monday	_	_	
+7-17	484-485	,	_	_	
+7-18	486-488	by	_	_	
+7-19	489-492	his	_	_	
+7-20	493-500	Majesty	_	_	
+7-21	500-501	’	_	_	
+7-22	501-502	s	_	_	
+7-23	503-508	Royal	_	_	
+7-24	509-516	Cruiser	_	_	
+7-25	516-517	,	_	_	
+7-26	518-523	Sylrm	_	_	
+7-27	523-524	,	_	_	
+7-28	525-529	from	_	_	
+7-29	530-533	the	_	_	
+7-30	534-538	West	*[2]	LOC[2]	
+7-31	539-542	Bay	*[2]	LOC[2]	
+7-32	542-543	,	_	_	
+7-33	544-550	having	_	_	
+7-34	551-558	hoisted	_	_	
+7-35	559-566	signals	_	_	
+7-36	567-569	of	_	_	
+7-37	570-578	distress	_	_	
+7-38	578-579	.	_	_	
+
+#Text=At the late Mekombe-Regis vestry, Messrs.
+8-1	580-582	At	_	_	
+8-2	583-586	the	_	_	
+8-3	587-591	late	_	_	
+8-4	592-605	Mekombe-Regis	https://en.wikipedia.org/wiki/Melcombe\_Regis	LOC	
+8-5	606-612	vestry	_	_	
+8-6	612-613	,	_	_	
+8-7	614-620	Messrs	_	_	
+8-8	620-621	.	_	_	
+
+#Text=Hancock and Jacob were elected Churchwardens, and Messrs.
+9-1	622-629	Hancock	_	_	
+9-2	630-633	and	_	_	
+9-3	634-639	Jacob	_	_	
+9-4	640-644	were	_	_	
+9-5	645-652	elected	_	_	
+9-6	653-666	Churchwardens	_	_	
+9-7	666-667	,	_	_	
+9-8	668-671	and	_	_	
+9-9	672-678	Messrs	_	_	
+9-10	678-679	.	_	_	
+
+#Text=Damon, Robinson, and Fooks, Overseers, for the year ensuing.
+10-1	680-685	Damon	_	_	
+10-2	685-686	,	_	_	
+10-3	687-695	Robinson	_	_	
+10-4	695-696	,	_	_	
+10-5	697-700	and	_	_	
+10-6	701-706	Fooks	_	_	
+10-7	706-707	,	_	_	
+10-8	708-717	Overseers	_	_	
+10-9	717-718	,	_	_	
+10-10	719-722	for	_	_	
+10-11	723-726	the	_	_	
+10-12	727-731	year	_	_	
+10-13	732-739	ensuing	_	_	
+10-14	739-740	.	_	_	
+
+#Text=Yesterday tbe gentlemen of tbe Beef Steak dub, dined together at the Crown Hotel.
+11-1	741-750	Yesterday	_	_	
+11-2	751-754	tbe	_	_	
+11-3	755-764	gentlemen	_	_	
+11-4	765-767	of	_	_	
+11-5	768-771	tbe	_	_	
+11-6	772-776	Beef	_	_	
+11-7	777-782	Steak	_	_	
+11-8	783-786	dub	_	_	
+11-9	786-787	,	_	_	
+11-10	788-793	dined	_	_	
+11-11	794-802	together	_	_	
+11-12	803-805	at	_	_	
+11-13	806-809	the	_	_	
+11-14	810-815	Crown	*[3]	BUILDING[3]	
+11-15	816-821	Hotel	*[3]	BUILDING[3]	
+11-16	821-822	.	_	_	
+
+#Text=The meeting was the fullest that has taken place this season, for the gratifying purpose of complimenting the admission of the following gentlemen of the Oth Dragoon Guards or Carbineers, as new members, they having been previously proposed by Capt.
+12-1	823-826	The	_	_	
+12-2	827-834	meeting	_	_	
+12-3	835-838	was	_	_	
+12-4	839-842	the	_	_	
+12-5	843-850	fullest	_	_	
+12-6	851-855	that	_	_	
+12-7	856-859	has	_	_	
+12-8	860-865	taken	_	_	
+12-9	866-871	place	_	_	
+12-10	872-876	this	_	_	
+12-11	877-883	season	_	_	
+12-12	883-884	,	_	_	
+12-13	885-888	for	_	_	
+12-14	889-892	the	_	_	
+12-15	893-903	gratifying	_	_	
+12-16	904-911	purpose	_	_	
+12-17	912-914	of	_	_	
+12-18	915-928	complimenting	_	_	
+12-19	929-932	the	_	_	
+12-20	933-942	admission	_	_	
+12-21	943-945	of	_	_	
+12-22	946-949	the	_	_	
+12-23	950-959	following	_	_	
+12-24	960-969	gentlemen	_	_	
+12-25	970-972	of	_	_	
+12-26	973-976	the	_	_	
+12-27	977-980	Oth	_	_	
+12-28	981-988	Dragoon	_	_	
+12-29	989-995	Guards	_	_	
+12-30	996-998	or	_	_	
+12-31	999-1009	Carbineers	_	_	
+12-32	1009-1010	,	_	_	
+12-33	1011-1013	as	_	_	
+12-34	1014-1017	new	_	_	
+12-35	1018-1025	members	_	_	
+12-36	1025-1026	,	_	_	
+12-37	1027-1031	they	_	_	
+12-38	1032-1038	having	_	_	
+12-39	1039-1043	been	_	_	
+12-40	1044-1054	previously	_	_	
+12-41	1055-1063	proposed	_	_	
+12-42	1064-1066	by	_	_	
+12-43	1067-1071	Capt	_	_	
+12-44	1071-1072	.	_	_	
+
+#Text=Randall, of the sth Dragoon Guards, via.: Col.
+13-1	1073-1080	Randall	_	_	
+13-2	1080-1081	,	_	_	
+13-3	1082-1084	of	_	_	
+13-4	1085-1088	the	_	_	
+13-5	1089-1092	sth	_	_	
+13-6	1093-1100	Dragoon	_	_	
+13-7	1101-1107	Guards	_	_	
+13-8	1107-1108	,	_	_	
+13-9	1109-1112	via	_	_	
+13-10	1112-1113	.	_	_	
+13-11	1113-1114	:	_	_	
+13-12	1115-1118	Col	_	_	
+13-13	1118-1119	.	_	_	
+
+#Text=Wildman, Capts.
+14-1	1120-1127	Wildman	_	_	
+14-2	1127-1128	,	_	_	
+14-3	1129-1134	Capts	_	_	
+14-4	1134-1135	.	_	_	
+
+#Text=Brymer, Kerens, Gerard and France.
+15-1	1136-1142	Brymer	_	_	
+15-2	1142-1143	,	_	_	
+15-3	1144-1150	Kerens	_	_	
+15-4	1150-1151	,	_	_	
+15-5	1152-1158	Gerard	_	_	
+15-6	1159-1162	and	_	_	
+15-7	1163-1169	France	_	_	
+15-8	1169-1170	.	_	_	

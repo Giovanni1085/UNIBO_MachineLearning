@@ -1,0 +1,231 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=An Expert Thief Twice Detected.
+1-1	0-2	An	_	_	
+1-2	3-9	Expert	_	_	
+1-3	10-15	Thief	_	_	
+1-4	16-21	Twice	_	_	
+1-5	22-30	Detected	_	_	
+1-6	30-31	.	_	_	
+
+#Text=-At the in^MkU yesterday, Sarah Young, of Butlerstreet, in tnat borough, was cbarged with shoplifting. t»U went ou vno previous night into the shop of Mr.
+2-1	31-32	-	_	_	
+2-2	32-34	At	_	_	
+2-3	35-38	the	_	_	
+2-4	39-41	in	_	_	
+2-5	41-42	^	_	_	
+2-6	42-45	MkU	_	_	
+2-7	46-55	yesterday	_	_	
+2-8	55-56	,	_	_	
+2-9	57-62	Sarah	_	_	
+2-10	63-68	Young	_	_	
+2-11	68-69	,	_	_	
+2-12	70-72	of	_	_	
+2-13	73-85	Butlerstreet	*	STREET	
+2-14	85-86	,	_	_	
+2-15	87-89	in	_	_	
+2-16	90-94	tnat	_	_	
+2-17	95-102	borough	_	_	
+2-18	102-103	,	_	_	
+2-19	104-107	was	_	_	
+2-20	108-115	cbarged	_	_	
+2-21	116-120	with	_	_	
+2-22	121-132	shoplifting	_	_	
+2-23	132-133	.	_	_	
+2-24	134-135	t	_	_	
+2-25	135-136	»	_	_	
+2-26	136-137	U	_	_	
+2-27	138-142	went	_	_	
+2-28	143-145	ou	_	_	
+2-29	146-149	vno	_	_	
+2-30	150-158	previous	_	_	
+2-31	159-164	night	_	_	
+2-32	165-169	into	_	_	
+2-33	170-173	the	_	_	
+2-34	174-178	shop	_	_	
+2-35	179-181	of	_	_	
+2-36	182-184	Mr	_	_	
+2-37	184-185	.	_	_	
+
+#Text=Btut, "oot au(t shoemaker, Cha]>el.street, and whilst she was looking at a pair of boots, Mr*.
+3-1	186-190	Btut	_	_	
+3-2	190-191	,	_	_	
+3-3	192-193	"	_	_	
+3-4	193-196	oot	_	_	
+3-5	197-199	au	_	_	
+3-6	199-200	(	_	_	
+3-7	200-201	t	_	_	
+3-8	202-211	shoemaker	_	_	
+3-9	211-212	,	_	_	
+3-10	213-216	Cha	*[1]	STREET[1]	
+3-11	216-217	]	*[1]	STREET[1]	
+3-12	217-218	>	*[1]	STREET[1]	
+3-13	218-227	el.street	*[1]	STREET[1]	
+3-14	227-228	,	_	_	
+3-15	229-232	and	_	_	
+3-16	233-239	whilst	_	_	
+3-17	240-243	she	_	_	
+3-18	244-247	was	_	_	
+3-19	248-255	looking	_	_	
+3-20	256-258	at	_	_	
+3-21	259-260	a	_	_	
+3-22	261-265	pair	_	_	
+3-23	266-268	of	_	_	
+3-24	269-274	boots	_	_	
+3-25	274-275	,	_	_	
+3-26	276-278	Mr	_	_	
+3-27	278-279	*	_	_	
+3-28	279-280	.	_	_	
+
+#Text=Bent saw her cone* ..1 twji other pairs under her cloak.
+4-1	281-285	Bent	_	_	
+4-2	286-289	saw	_	_	
+4-3	290-293	her	_	_	
+4-4	294-298	cone	_	_	
+4-5	298-299	*	_	_	
+4-6	300-301	.	_	_	
+4-7	301-303	.1	_	_	
+4-8	304-308	twji	_	_	
+4-9	309-314	other	_	_	
+4-10	315-320	pairs	_	_	
+4-11	321-326	under	_	_	
+4-12	327-330	her	_	_	
+4-13	331-336	cloak	_	_	
+4-14	336-337	.	_	_	
+
+#Text=Mis.
+5-1	338-341	Mis	_	_	
+5-2	341-342	.	_	_	
+
+#Text=Bent took t»ie boots from her, heat her with them, and lot her go. »bm was watched, however, into a shop a few varus lower down the street, kept by Mr.
+6-1	343-347	Bent	_	_	
+6-2	348-352	took	_	_	
+6-3	353-354	t	_	_	
+6-4	354-355	»	_	_	
+6-5	355-357	ie	_	_	
+6-6	358-363	boots	_	_	
+6-7	364-368	from	_	_	
+6-8	369-372	her	_	_	
+6-9	372-373	,	_	_	
+6-10	374-378	heat	_	_	
+6-11	379-382	her	_	_	
+6-12	383-387	with	_	_	
+6-13	388-392	them	_	_	
+6-14	392-393	,	_	_	
+6-15	394-397	and	_	_	
+6-16	398-401	lot	_	_	
+6-17	402-405	her	_	_	
+6-18	406-408	go	_	_	
+6-19	408-409	.	_	_	
+6-20	410-411	»	_	_	
+6-21	411-413	bm	_	_	
+6-22	414-417	was	_	_	
+6-23	418-425	watched	_	_	
+6-24	425-426	,	_	_	
+6-25	427-434	however	_	_	
+6-26	434-435	,	_	_	
+6-27	436-440	into	_	_	
+6-28	441-442	a	_	_	
+6-29	443-447	shop	_	_	
+6-30	448-449	a	_	_	
+6-31	450-453	few	_	_	
+6-32	454-459	varus	_	_	
+6-33	460-465	lower	_	_	
+6-34	466-470	down	_	_	
+6-35	471-474	the	_	_	
+6-36	475-481	street	_	_	
+6-37	481-482	,	_	_	
+6-38	483-487	kept	_	_	
+6-39	488-490	by	_	_	
+6-40	491-493	Mr	_	_	
+6-41	493-494	.	_	_	
+
+#Text=W.
+7-1	495-496	W	_	_	
+7-2	496-497	.	_	_	
+
+#Text=JiKinlej.
+8-1	498-506	JiKinlej	_	_	
+8-2	506-507	.	_	_	
+
+#Text=Mrs.
+9-1	508-511	Mrs	_	_	
+9-2	511-512	.	_	_	
+
+#Text=Bent followed her theie immediately, but found thai sbo had alreadysucceeded in stealing another pair of boots, which wer* also found secreted beneath her clothing.
+10-1	513-517	Bent	_	_	
+10-2	518-526	followed	_	_	
+10-3	527-530	her	_	_	
+10-4	531-536	theie	_	_	
+10-5	537-548	immediately	_	_	
+10-6	548-549	,	_	_	
+10-7	550-553	but	_	_	
+10-8	554-559	found	_	_	
+10-9	560-564	thai	_	_	
+10-10	565-568	sbo	_	_	
+10-11	569-572	had	_	_	
+10-12	573-589	alreadysucceeded	_	_	
+10-13	590-592	in	_	_	
+10-14	593-601	stealing	_	_	
+10-15	602-609	another	_	_	
+10-16	610-614	pair	_	_	
+10-17	615-617	of	_	_	
+10-18	618-623	boots	_	_	
+10-19	623-624	,	_	_	
+10-20	625-630	which	_	_	
+10-21	631-634	wer	_	_	
+10-22	634-635	*	_	_	
+10-23	636-640	also	_	_	
+10-24	641-646	found	_	_	
+10-25	647-655	secreted	_	_	
+10-26	656-663	beneath	_	_	
+10-27	664-667	her	_	_	
+10-28	668-676	clothing	_	_	
+10-29	676-677	.	_	_	
+
+#Text=The police wer* then called in, and she was given into custody. rh*r* WA* no doubt but that she was an old offend, i, and she wa» sentenced to t-vo months impri-oMr.mt*
+11-1	678-681	The	_	_	
+11-2	682-688	police	_	_	
+11-3	689-692	wer	_	_	
+11-4	692-693	*	_	_	
+11-5	694-698	then	_	_	
+11-6	699-705	called	_	_	
+11-7	706-708	in	_	_	
+11-8	708-709	,	_	_	
+11-9	710-713	and	_	_	
+11-10	714-717	she	_	_	
+11-11	718-721	was	_	_	
+11-12	722-727	given	_	_	
+11-13	728-732	into	_	_	
+11-14	733-740	custody	_	_	
+11-15	740-741	.	_	_	
+11-16	742-744	rh	_	_	
+11-17	744-745	*	_	_	
+11-18	745-746	r	_	_	
+11-19	746-747	*	_	_	
+11-20	748-750	WA	_	_	
+11-21	750-751	*	_	_	
+11-22	752-754	no	_	_	
+11-23	755-760	doubt	_	_	
+11-24	761-764	but	_	_	
+11-25	765-769	that	_	_	
+11-26	770-773	she	_	_	
+11-27	774-777	was	_	_	
+11-28	778-780	an	_	_	
+11-29	781-784	old	_	_	
+11-30	785-791	offend	_	_	
+11-31	791-792	,	_	_	
+11-32	793-794	i	_	_	
+11-33	794-795	,	_	_	
+11-34	796-799	and	_	_	
+11-35	800-803	she	_	_	
+11-36	804-806	wa	_	_	
+11-37	806-807	»	_	_	
+11-38	808-817	sentenced	_	_	
+11-39	818-820	to	_	_	
+11-40	821-825	t-vo	_	_	
+11-41	826-832	months	_	_	
+11-42	833-845	impri-oMr.mt	_	_	
+11-43	845-846	*	_	_	

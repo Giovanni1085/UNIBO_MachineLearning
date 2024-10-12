@@ -1,0 +1,599 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=LAYING OF THE FOUNDATION STONE OF A NEW CHURCH AT PADIHAM.
+1-1	0-6	LAYING	_	_	
+1-2	7-9	OF	_	_	
+1-3	10-13	THE	_	_	
+1-4	14-24	FOUNDATION	_	_	
+1-5	25-30	STONE	_	_	
+1-6	31-33	OF	_	_	
+1-7	34-35	A	_	_	
+1-8	36-39	NEW	_	_	
+1-9	40-46	CHURCH	_	_	
+1-10	47-49	AT	_	_	
+1-11	50-57	PADIHAM	https://en.wikipedia.org/wiki/Padiham	LOC	
+1-12	57-58	.	_	_	
+
+#Text=Yesterday was quite a gala day at Padiham in celebration of the laying, by Captain Starkie, of Huntroyd, of the corner stone of a large and commodious church to be built on the site of the old parish church, the latter edifice having been pulled down on account of being too small for the population of the parish.
+2-1	60-69	Yesterday	_	_	
+2-2	70-73	was	_	_	
+2-3	74-79	quite	_	_	
+2-4	80-81	a	_	_	
+2-5	82-86	gala	_	_	
+2-6	87-90	day	_	_	
+2-7	91-93	at	_	_	
+2-8	94-101	Padiham	https://en.wikipedia.org/wiki/Padiham	LOC	
+2-9	102-104	in	_	_	
+2-10	105-116	celebration	_	_	
+2-11	117-119	of	_	_	
+2-12	120-123	the	_	_	
+2-13	124-130	laying	_	_	
+2-14	130-131	,	_	_	
+2-15	132-134	by	_	_	
+2-16	135-142	Captain	_	_	
+2-17	143-150	Starkie	_	_	
+2-18	150-151	,	_	_	
+2-19	152-154	of	_	_	
+2-20	155-163	Huntroyd	https://en.wikipedia.org/wiki/Huntroyde\_Hall	BUILDING	
+2-21	163-164	,	_	_	
+2-22	165-167	of	_	_	
+2-23	168-171	the	_	_	
+2-24	172-178	corner	_	_	
+2-25	179-184	stone	_	_	
+2-26	185-187	of	_	_	
+2-27	188-189	a	_	_	
+2-28	190-195	large	_	_	
+2-29	196-199	and	_	_	
+2-30	200-210	commodious	_	_	
+2-31	211-217	church	_	_	
+2-32	218-220	to	_	_	
+2-33	221-223	be	_	_	
+2-34	224-229	built	_	_	
+2-35	230-232	on	_	_	
+2-36	233-236	the	_	_	
+2-37	237-241	site	_	_	
+2-38	242-244	of	_	_	
+2-39	245-248	the	_	_	
+2-40	249-252	old	_	_	
+2-41	253-259	parish	_	_	
+2-42	260-266	church	_	_	
+2-43	266-267	,	_	_	
+2-44	268-271	the	_	_	
+2-45	272-278	latter	_	_	
+2-46	279-286	edifice	_	_	
+2-47	287-293	having	_	_	
+2-48	294-298	been	_	_	
+2-49	299-305	pulled	_	_	
+2-50	306-310	down	_	_	
+2-51	311-313	on	_	_	
+2-52	314-321	account	_	_	
+2-53	322-324	of	_	_	
+2-54	325-330	being	_	_	
+2-55	331-334	too	_	_	
+2-56	335-340	small	_	_	
+2-57	341-344	for	_	_	
+2-58	345-348	the	_	_	
+2-59	349-359	population	_	_	
+2-60	360-362	of	_	_	
+2-61	363-366	the	_	_	
+2-62	367-373	parish	_	_	
+2-63	373-374	.	_	_	
+
+#Text=A procession was formed in the Arbory, on the grounds leading to Huntroyd, and proceeded through the town to Padiham Bridge, and then returned to the church.
+3-1	375-376	A	_	_	
+3-2	377-387	procession	_	_	
+3-3	388-391	was	_	_	
+3-4	392-398	formed	_	_	
+3-5	399-401	in	_	_	
+3-6	402-405	the	_	_	
+3-7	406-412	Arbory	*	BUILDING	
+3-8	412-413	,	_	_	
+3-9	414-416	on	_	_	
+3-10	417-420	the	_	_	
+3-11	421-428	grounds	_	_	
+3-12	429-436	leading	_	_	
+3-13	437-439	to	_	_	
+3-14	440-448	Huntroyd	https://en.wikipedia.org/wiki/Huntroyde\_Hall	BUILDING	
+3-15	448-449	,	_	_	
+3-16	450-453	and	_	_	
+3-17	454-463	proceeded	_	_	
+3-18	464-471	through	_	_	
+3-19	472-475	the	_	_	
+3-20	476-480	town	_	_	
+3-21	481-483	to	_	_	
+3-22	484-491	Padiham	*[1]	BUILDING[1]	
+3-23	492-498	Bridge	*[1]	BUILDING[1]	
+3-24	498-499	,	_	_	
+3-25	500-503	and	_	_	
+3-26	504-508	then	_	_	
+3-27	509-517	returned	_	_	
+3-28	518-520	to	_	_	
+3-29	521-524	the	_	_	
+3-30	525-531	church	_	_	
+3-31	531-532	.	_	_	
+
+#Text=A platform erected at the east end of the site was occupied by ladies, and the ground around the site was occupied by clergy and other gentlemen.
+4-1	533-534	A	_	_	
+4-2	535-543	platform	_	_	
+4-3	544-551	erected	_	_	
+4-4	552-554	at	_	_	
+4-5	555-558	the	_	_	
+4-6	559-563	east	_	_	
+4-7	564-567	end	_	_	
+4-8	568-570	of	_	_	
+4-9	571-574	the	_	_	
+4-10	575-579	site	_	_	
+4-11	580-583	was	_	_	
+4-12	584-592	occupied	_	_	
+4-13	593-595	by	_	_	
+4-14	596-602	ladies	_	_	
+4-15	602-603	,	_	_	
+4-16	604-607	and	_	_	
+4-17	608-611	the	_	_	
+4-18	612-618	ground	_	_	
+4-19	619-625	around	_	_	
+4-20	626-629	the	_	_	
+4-21	630-634	site	_	_	
+4-22	635-638	was	_	_	
+4-23	639-647	occupied	_	_	
+4-24	648-650	by	_	_	
+4-25	651-657	clergy	_	_	
+4-26	658-661	and	_	_	
+4-27	662-667	other	_	_	
+4-28	668-677	gentlemen	_	_	
+4-29	677-678	.	_	_	
+
+#Text=The brethren of the various masonic lodges were represented.
+5-1	679-682	The	_	_	
+5-2	683-691	brethren	_	_	
+5-3	692-694	of	_	_	
+5-4	695-698	the	_	_	
+5-5	699-706	various	_	_	
+5-6	707-714	masonic	_	_	
+5-7	715-721	lodges	_	_	
+5-8	722-726	were	_	_	
+5-9	727-738	represented	_	_	
+5-10	738-739	.	_	_	
+
+#Text=The stone was laid with the usual ceremonies.
+6-1	740-743	The	_	_	
+6-2	744-749	stone	_	_	
+6-3	750-753	was	_	_	
+6-4	754-758	laid	_	_	
+6-5	759-763	with	_	_	
+6-6	764-767	the	_	_	
+6-7	768-773	usual	_	_	
+6-8	774-784	ceremonies	_	_	
+6-9	784-785	.	_	_	
+
+#Text=Mr.
+7-1	786-788	Mr	_	_	
+7-2	788-789	.	_	_	
+
+#Text=W.
+8-1	790-791	W	_	_	
+8-2	791-792	.	_	_	
+
+#Text=Dugdale, of Simonstone, presented Captain Starkie with the silver trowel, which bore a suitable inscription ; and stated that the new church was to be erected by tbe parish, as a monument of grateful respect to the memory of his (Mr.
+9-1	793-800	Dugdale	_	_	
+9-2	800-801	,	_	_	
+9-3	802-804	of	_	_	
+9-4	805-815	Simonstone	https://en.wikipedia.org/wiki/Simonstone,\_Lancashire	LOC	
+9-5	815-816	,	_	_	
+9-6	817-826	presented	_	_	
+9-7	827-834	Captain	_	_	
+9-8	835-842	Starkie	_	_	
+9-9	843-847	with	_	_	
+9-10	848-851	the	_	_	
+9-11	852-858	silver	_	_	
+9-12	859-865	trowel	_	_	
+9-13	865-866	,	_	_	
+9-14	867-872	which	_	_	
+9-15	873-877	bore	_	_	
+9-16	878-879	a	_	_	
+9-17	880-888	suitable	_	_	
+9-18	889-900	inscription	_	_	
+9-19	901-902	;	_	_	
+9-20	903-906	and	_	_	
+9-21	907-913	stated	_	_	
+9-22	914-918	that	_	_	
+9-23	919-922	the	_	_	
+9-24	923-926	new	_	_	
+9-25	927-933	church	_	_	
+9-26	934-937	was	_	_	
+9-27	938-940	to	_	_	
+9-28	941-943	be	_	_	
+9-29	944-951	erected	_	_	
+9-30	952-954	by	_	_	
+9-31	955-958	tbe	_	_	
+9-32	959-965	parish	_	_	
+9-33	965-966	,	_	_	
+9-34	967-969	as	_	_	
+9-35	970-971	a	_	_	
+9-36	972-980	monument	_	_	
+9-37	981-983	of	_	_	
+9-38	984-992	grateful	_	_	
+9-39	993-1000	respect	_	_	
+9-40	1001-1003	to	_	_	
+9-41	1004-1007	the	_	_	
+9-42	1008-1014	memory	_	_	
+9-43	1015-1017	of	_	_	
+9-44	1018-1021	his	_	_	
+9-45	1022-1023	(	_	_	
+9-46	1023-1025	Mr	_	_	
+9-47	1025-1026	.	_	_	
+
+#Text=Starkies) esteemed father, the late lamented Le Gendre Nicholas Sfcarkie, Esq.
+10-1	1027-1035	Starkies	_	_	
+10-2	1035-1036	)	_	_	
+10-3	1037-1045	esteemed	_	_	
+10-4	1046-1052	father	_	_	
+10-5	1052-1053	,	_	_	
+10-6	1054-1057	the	_	_	
+10-7	1058-1062	late	_	_	
+10-8	1063-1071	lamented	_	_	
+10-9	1072-1074	Le	_	_	
+10-10	1075-1081	Gendre	_	_	
+10-11	1082-1090	Nicholas	_	_	
+10-12	1091-1099	Sfcarkie	_	_	
+10-13	1099-1100	,	_	_	
+10-14	1101-1104	Esq	_	_	
+10-15	1104-1105	.	_	_	
+
+#Text=The mallet of mahogany was presented by Mr.
+11-1	1106-1109	The	_	_	
+11-2	1110-1116	mallet	_	_	
+11-3	1117-1119	of	_	_	
+11-4	1120-1128	mahogany	_	_	
+11-5	1129-1132	was	_	_	
+11-6	1133-1142	presented	_	_	
+11-7	1143-1145	by	_	_	
+11-8	1146-1148	Mr	_	_	
+11-9	1148-1149	.	_	_	
+
+#Text=Elijah Hilone.
+12-1	1150-1156	Elijah	_	_	
+12-2	1157-1163	Hilone	_	_	
+12-3	1163-1164	.	_	_	
+
+#Text=The bottle laid in the cavity of the stone on which the corner stone was laid contained the current coins of the realm, a copy of the Prayer-book, and a copy of the London Times, the Manchester Courier, the Preston Herald, Punch, and the Burnley Advertiser.
+13-1	1165-1168	The	_	_	
+13-2	1169-1175	bottle	_	_	
+13-3	1176-1180	laid	_	_	
+13-4	1181-1183	in	_	_	
+13-5	1184-1187	the	_	_	
+13-6	1188-1194	cavity	_	_	
+13-7	1195-1197	of	_	_	
+13-8	1198-1201	the	_	_	
+13-9	1202-1207	stone	_	_	
+13-10	1208-1210	on	_	_	
+13-11	1211-1216	which	_	_	
+13-12	1217-1220	the	_	_	
+13-13	1221-1227	corner	_	_	
+13-14	1228-1233	stone	_	_	
+13-15	1234-1237	was	_	_	
+13-16	1238-1242	laid	_	_	
+13-17	1243-1252	contained	_	_	
+13-18	1253-1256	the	_	_	
+13-19	1257-1264	current	_	_	
+13-20	1265-1270	coins	_	_	
+13-21	1271-1273	of	_	_	
+13-22	1274-1277	the	_	_	
+13-23	1278-1283	realm	_	_	
+13-24	1283-1284	,	_	_	
+13-25	1285-1286	a	_	_	
+13-26	1287-1291	copy	_	_	
+13-27	1292-1294	of	_	_	
+13-28	1295-1298	the	_	_	
+13-29	1299-1310	Prayer-book	_	_	
+13-30	1310-1311	,	_	_	
+13-31	1312-1315	and	_	_	
+13-32	1316-1317	a	_	_	
+13-33	1318-1322	copy	_	_	
+13-34	1323-1325	of	_	_	
+13-35	1326-1329	the	_	_	
+13-36	1330-1336	London	https://en.wikipedia.org/wiki/London	LOC	
+13-37	1337-1342	Times	_	_	
+13-38	1342-1343	,	_	_	
+13-39	1344-1347	the	_	_	
+13-40	1348-1358	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+13-41	1359-1366	Courier	_	_	
+13-42	1366-1367	,	_	_	
+13-43	1368-1371	the	_	_	
+13-44	1372-1379	Preston	https://en.wikipedia.org/wiki/Preston,\_Lancashire	LOC	
+13-45	1380-1386	Herald	_	_	
+13-46	1386-1387	,	_	_	
+13-47	1388-1393	Punch	_	_	
+13-48	1393-1394	,	_	_	
+13-49	1395-1398	and	_	_	
+13-50	1399-1402	the	_	_	
+13-51	1403-1410	Burnley	https://en.wikipedia.org/wiki/Burnley	LOC	
+13-52	1411-1421	Advertiser	_	_	
+13-53	1421-1422	.	_	_	
+
+#Text=The plate with which the cavity was covered, was laid by Mr.
+14-1	1423-1426	The	_	_	
+14-2	1427-1432	plate	_	_	
+14-3	1433-1437	with	_	_	
+14-4	1438-1443	which	_	_	
+14-5	1444-1447	the	_	_	
+14-6	1448-1454	cavity	_	_	
+14-7	1455-1458	was	_	_	
+14-8	1459-1466	covered	_	_	
+14-9	1466-1467	,	_	_	
+14-10	1468-1471	was	_	_	
+14-11	1472-1476	laid	_	_	
+14-12	1477-1479	by	_	_	
+14-13	1480-1482	Mr	_	_	
+14-14	1482-1483	.	_	_	
+
+#Text=R.
+15-1	1484-1485	R	_	_	
+15-2	1485-1486	.	_	_	
+
+#Text=Thompson, J.W., and bore the following inscription : "The corner stone of this church, dedicated to St.
+16-1	1487-1495	Thompson	_	_	
+16-2	1495-1496	,	_	_	
+16-3	1497-1500	J.W	_	_	
+16-4	1500-1501	.	_	_	
+16-5	1501-1502	,	_	_	
+16-6	1503-1506	and	_	_	
+16-7	1507-1511	bore	_	_	
+16-8	1512-1515	the	_	_	
+16-9	1516-1525	following	_	_	
+16-10	1526-1537	inscription	_	_	
+16-11	1538-1539	:	_	_	
+16-12	1540-1541	"	_	_	
+16-13	1541-1544	The	_	_	
+16-14	1545-1551	corner	_	_	
+16-15	1552-1557	stone	_	_	
+16-16	1558-1560	of	_	_	
+16-17	1561-1565	this	_	_	
+16-18	1566-1572	church	_	_	
+16-19	1572-1573	,	_	_	
+16-20	1574-1583	dedicated	_	_	
+16-21	1584-1586	to	_	_	
+16-22	1587-1589	St	_	_	
+16-23	1589-1590	.	_	_	
+
+#Text=Leonard, was re-laid by the patron, Le Gendre Nicholas Starkie, Esq., M.A., Captain 2nd 0.L.M., P.G.S., W.E.D., C.L, on the 28th day of June, 1866, being the 29th anniversary of the coronation of Queen Victoria."
+17-1	1591-1598	Leonard	_	_	
+17-2	1598-1599	,	_	_	
+17-3	1600-1603	was	_	_	
+17-4	1604-1611	re-laid	_	_	
+17-5	1612-1614	by	_	_	
+17-6	1615-1618	the	_	_	
+17-7	1619-1625	patron	_	_	
+17-8	1625-1626	,	_	_	
+17-9	1627-1629	Le	_	_	
+17-10	1630-1636	Gendre	_	_	
+17-11	1637-1645	Nicholas	_	_	
+17-12	1646-1653	Starkie	_	_	
+17-13	1653-1654	,	_	_	
+17-14	1655-1658	Esq	_	_	
+17-15	1658-1659	.	_	_	
+17-16	1659-1660	,	_	_	
+17-17	1661-1664	M.A	_	_	
+17-18	1664-1665	.	_	_	
+17-19	1665-1666	,	_	_	
+17-20	1667-1674	Captain	_	_	
+17-21	1675-1678	2nd	_	_	
+17-22	1679-1680	0	_	_	
+17-23	1680-1681	.	_	_	
+17-24	1681-1684	L.M	_	_	
+17-25	1684-1685	.	_	_	
+17-26	1685-1686	,	_	_	
+17-27	1687-1692	P.G.S	_	_	
+17-28	1692-1693	.	_	_	
+17-29	1693-1694	,	_	_	
+17-30	1695-1700	W.E.D	_	_	
+17-31	1700-1701	.	_	_	
+17-32	1701-1702	,	_	_	
+17-33	1703-1706	C.L	_	_	
+17-34	1706-1707	,	_	_	
+17-35	1708-1710	on	_	_	
+17-36	1711-1714	the	_	_	
+17-37	1715-1719	28th	_	_	
+17-38	1720-1723	day	_	_	
+17-39	1724-1726	of	_	_	
+17-40	1727-1731	June	_	_	
+17-41	1731-1732	,	_	_	
+17-42	1733-1737	1866	_	_	
+17-43	1737-1738	,	_	_	
+17-44	1739-1744	being	_	_	
+17-45	1745-1748	the	_	_	
+17-46	1749-1753	29th	_	_	
+17-47	1754-1765	anniversary	_	_	
+17-48	1766-1768	of	_	_	
+17-49	1769-1772	the	_	_	
+17-50	1773-1783	coronation	_	_	
+17-51	1784-1786	of	_	_	
+17-52	1787-1792	Queen	_	_	
+17-53	1793-1801	Victoria	_	_	
+17-54	1801-1802	.	_	_	
+17-55	1802-1803	"	_	_	
+
+#Text=There were also the names of the Bishop of Manchester, the archdeacon, Rev.
+18-1	1804-1809	There	_	_	
+18-2	1810-1814	were	_	_	
+18-3	1815-1819	also	_	_	
+18-4	1820-1823	the	_	_	
+18-5	1824-1829	names	_	_	
+18-6	1830-1832	of	_	_	
+18-7	1833-1836	the	_	_	
+18-8	1837-1843	Bishop	_	_	
+18-9	1844-1846	of	_	_	
+18-10	1847-1857	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+18-11	1857-1858	,	_	_	
+18-12	1859-1862	the	_	_	
+18-13	1863-1873	archdeacon	_	_	
+18-14	1873-1874	,	_	_	
+18-15	1875-1878	Rev	_	_	
+18-16	1878-1879	.	_	_	
+
+#Text=J.
+19-1	1880-1881	J	_	_	
+19-2	1881-1882	.	_	_	
+
+#Text=H.
+20-1	1883-1884	H	_	_	
+20-2	1884-1885	.	_	_	
+
+#Text=Fox, perpetual curate of Padiham, Rev.
+21-1	1886-1889	Fox	_	_	
+21-2	1889-1890	,	_	_	
+21-3	1891-1900	perpetual	_	_	
+21-4	1901-1907	curate	_	_	
+21-5	1908-1910	of	_	_	
+21-6	1911-1918	Padiham	https://en.wikipedia.org/wiki/Padiham	LOC	
+21-7	1918-1919	,	_	_	
+21-8	1920-1923	Rev	_	_	
+21-9	1923-1924	.	_	_	
+
+#Text=R.
+22-1	1925-1926	R	_	_	
+22-2	1926-1927	.	_	_	
+
+#Text=N.
+23-1	1928-1929	N	_	_	
+23-2	1929-1930	.	_	_	
+
+#Text=Whitaker, vicar of Whalley, Messrs.
+24-1	1931-1939	Whitaker	_	_	
+24-2	1939-1940	,	_	_	
+24-3	1941-1946	vicar	_	_	
+24-4	1947-1949	of	_	_	
+24-5	1950-1957	Whalley	https://en.wikipedia.org/wiki/Whalley,\_Lancashire	LOC	
+24-6	1957-1958	,	_	_	
+24-7	1959-1965	Messrs	_	_	
+24-8	1965-1966	.	_	_	
+
+#Text=J.
+25-1	1967-1968	J	_	_	
+25-2	1968-1969	.	_	_	
+
+#Text=Ashworth, R.
+26-1	1970-1978	Ashworth	_	_	
+26-2	1978-1979	,	_	_	
+26-3	1980-1981	R	_	_	
+26-4	1981-1982	.	_	_	
+
+#Text=Riley, E.
+27-1	1983-1988	Riley	_	_	
+27-2	1988-1989	,	_	_	
+27-3	1990-1991	E	_	_	
+27-4	1991-1992	.	_	_	
+
+#Text=Waddington, and H.
+28-1	1993-2003	Waddington	_	_	
+28-2	2003-2004	,	_	_	
+28-3	2005-2008	and	_	_	
+28-4	2009-2010	H	_	_	
+28-5	2010-2011	.	_	_	
+
+#Text=Roberts, churchwardens of Padiham ; Mr.
+29-1	2012-2019	Roberts	_	_	
+29-2	2019-2020	,	_	_	
+29-3	2021-2034	churchwardens	_	_	
+29-4	2035-2037	of	_	_	
+29-5	2038-2045	Padiham	https://en.wikipedia.org/wiki/Padiham	LOC	
+29-6	2046-2047	;	_	_	
+29-7	2048-2050	Mr	_	_	
+29-8	2050-2051	.	_	_	
+
+#Text=R.
+30-1	2052-2053	R	_	_	
+30-2	2053-2054	.	_	_	
+
+#Text=Thompson, secretary ; Mr.
+31-1	2055-2063	Thompson	_	_	
+31-2	2063-2064	,	_	_	
+31-3	2065-2074	secretary	_	_	
+31-4	2075-2076	;	_	_	
+31-5	2077-2079	Mr	_	_	
+31-6	2079-2080	.	_	_	
+
+#Text=John Waddington, treasurer; William Waddington, architect, Padiham.
+32-1	2081-2085	John	_	_	
+32-2	2086-2096	Waddington	_	_	
+32-3	2096-2097	,	_	_	
+32-4	2098-2107	treasurer	_	_	
+32-5	2107-2108	;	_	_	
+32-6	2109-2116	William	_	_	
+32-7	2117-2127	Waddington	_	_	
+32-8	2127-2128	,	_	_	
+32-9	2129-2138	architect	_	_	
+32-10	2138-2139	,	_	_	
+32-11	2140-2147	Padiham	https://en.wikipedia.org/wiki/Padiham	LOC	
+32-12	2147-2148	.	_	_	
+
+#Text=After the conclusion of the ceremony the clergy and other gentlemen, the building committee and others, in all about 90, took lunch at Huntroyd.
+33-1	2149-2154	After	_	_	
+33-2	2155-2158	the	_	_	
+33-3	2159-2169	conclusion	_	_	
+33-4	2170-2172	of	_	_	
+33-5	2173-2176	the	_	_	
+33-6	2177-2185	ceremony	_	_	
+33-7	2186-2189	the	_	_	
+33-8	2190-2196	clergy	_	_	
+33-9	2197-2200	and	_	_	
+33-10	2201-2206	other	_	_	
+33-11	2207-2216	gentlemen	_	_	
+33-12	2216-2217	,	_	_	
+33-13	2218-2221	the	_	_	
+33-14	2222-2230	building	_	_	
+33-15	2231-2240	committee	_	_	
+33-16	2241-2244	and	_	_	
+33-17	2245-2251	others	_	_	
+33-18	2251-2252	,	_	_	
+33-19	2253-2255	in	_	_	
+33-20	2256-2259	all	_	_	
+33-21	2260-2265	about	_	_	
+33-22	2266-2268	90	_	_	
+33-23	2268-2269	,	_	_	
+33-24	2270-2274	took	_	_	
+33-25	2275-2280	lunch	_	_	
+33-26	2281-2283	at	_	_	
+33-27	2284-2292	Huntroyd	https://en.wikipedia.org/wiki/Huntroyde\_Hall	BUILDING	
+33-28	2292-2293	.	_	_	
+
+#Text=The children of the Sabbath schools in connection with the church were regaled with coffee and buns at the Padiham school, and afterwards proceeded to the Arbory, where they enjoyed themselves in various games.
+34-1	2294-2297	The	_	_	
+34-2	2298-2306	children	_	_	
+34-3	2307-2309	of	_	_	
+34-4	2310-2313	the	_	_	
+34-5	2314-2321	Sabbath	_	_	
+34-6	2322-2329	schools	_	_	
+34-7	2330-2332	in	_	_	
+34-8	2333-2343	connection	_	_	
+34-9	2344-2348	with	_	_	
+34-10	2349-2352	the	_	_	
+34-11	2353-2359	church	_	_	
+34-12	2360-2364	were	_	_	
+34-13	2365-2372	regaled	_	_	
+34-14	2373-2377	with	_	_	
+34-15	2378-2384	coffee	_	_	
+34-16	2385-2388	and	_	_	
+34-17	2389-2393	buns	_	_	
+34-18	2394-2396	at	_	_	
+34-19	2397-2400	the	_	_	
+34-20	2401-2408	Padiham	https://en.wikipedia.org/wiki/Padiham	LOC	
+34-21	2409-2415	school	_	_	
+34-22	2415-2416	,	_	_	
+34-23	2417-2420	and	_	_	
+34-24	2421-2431	afterwards	_	_	
+34-25	2432-2441	proceeded	_	_	
+34-26	2442-2444	to	_	_	
+34-27	2445-2448	the	_	_	
+34-28	2449-2455	Arbory	*	BUILDING	
+34-29	2455-2456	,	_	_	
+34-30	2457-2462	where	_	_	
+34-31	2463-2467	they	_	_	
+34-32	2468-2475	enjoyed	_	_	
+34-33	2476-2486	themselves	_	_	
+34-34	2487-2489	in	_	_	
+34-35	2490-2497	various	_	_	
+34-36	2498-2503	games	_	_	
+34-37	2503-2504	.	_	_	

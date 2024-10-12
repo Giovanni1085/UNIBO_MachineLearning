@@ -1,0 +1,467 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=PERSIAN SUMMER SOAP.
+1-1	0-7	PERSIAN	_	_	
+1-2	8-14	SUMMER	_	_	
+1-3	15-19	SOAP	_	_	
+1-4	19-20	.	_	_	
+
+#Text=—Cooling and refreshing in tbe hottest weather, imparting unequalled bloom and delicacy to the skin, and operating as an efficient cleanser during the heat and dust of summer, alike suitable for the Bathroom and the Nursery, and especially adapted for hot climates The unparalleled qualities and the pure sweet perfume of this delightful Soap introduce it to every Toilet Table. 3d. each.
+2-1	20-21	—	_	_	
+2-2	21-28	Cooling	_	_	
+2-3	29-32	and	_	_	
+2-4	33-43	refreshing	_	_	
+2-5	44-46	in	_	_	
+2-6	47-50	tbe	_	_	
+2-7	51-58	hottest	_	_	
+2-8	59-66	weather	_	_	
+2-9	66-67	,	_	_	
+2-10	68-77	imparting	_	_	
+2-11	78-88	unequalled	_	_	
+2-12	89-94	bloom	_	_	
+2-13	95-98	and	_	_	
+2-14	99-107	delicacy	_	_	
+2-15	108-110	to	_	_	
+2-16	111-114	the	_	_	
+2-17	115-119	skin	_	_	
+2-18	119-120	,	_	_	
+2-19	121-124	and	_	_	
+2-20	125-134	operating	_	_	
+2-21	135-137	as	_	_	
+2-22	138-140	an	_	_	
+2-23	141-150	efficient	_	_	
+2-24	151-159	cleanser	_	_	
+2-25	160-166	during	_	_	
+2-26	167-170	the	_	_	
+2-27	171-175	heat	_	_	
+2-28	176-179	and	_	_	
+2-29	180-184	dust	_	_	
+2-30	185-187	of	_	_	
+2-31	188-194	summer	_	_	
+2-32	194-195	,	_	_	
+2-33	196-201	alike	_	_	
+2-34	202-210	suitable	_	_	
+2-35	211-214	for	_	_	
+2-36	215-218	the	_	_	
+2-37	219-227	Bathroom	_	_	
+2-38	228-231	and	_	_	
+2-39	232-235	the	_	_	
+2-40	236-243	Nursery	_	_	
+2-41	243-244	,	_	_	
+2-42	245-248	and	_	_	
+2-43	249-259	especially	_	_	
+2-44	260-267	adapted	_	_	
+2-45	268-271	for	_	_	
+2-46	272-275	hot	_	_	
+2-47	276-284	climates	_	_	
+2-48	285-288	The	_	_	
+2-49	289-301	unparalleled	_	_	
+2-50	302-311	qualities	_	_	
+2-51	312-315	and	_	_	
+2-52	316-319	the	_	_	
+2-53	320-324	pure	_	_	
+2-54	325-330	sweet	_	_	
+2-55	331-338	perfume	_	_	
+2-56	339-341	of	_	_	
+2-57	342-346	this	_	_	
+2-58	347-357	delightful	_	_	
+2-59	358-362	Soap	_	_	
+2-60	363-372	introduce	_	_	
+2-61	373-375	it	_	_	
+2-62	376-378	to	_	_	
+2-63	379-384	every	_	_	
+2-64	385-391	Toilet	_	_	
+2-65	392-397	Table	_	_	
+2-66	397-398	.	_	_	
+2-67	399-401	3d	_	_	
+2-68	401-402	.	_	_	
+2-69	403-407	each	_	_	
+2-70	407-408	.	_	_	
+
+#Text=—Manufactured only by Hirst, Brooke, and Tomlinson, Leeds.
+3-1	408-409	—	_	_	
+3-2	409-421	Manufactured	_	_	
+3-3	422-426	only	_	_	
+3-4	427-429	by	_	_	
+3-5	430-435	Hirst	_	_	
+3-6	435-436	,	_	_	
+3-7	437-443	Brooke	_	_	
+3-8	443-444	,	_	_	
+3-9	445-448	and	_	_	
+3-10	449-458	Tomlinson	_	_	
+3-11	458-459	,	_	_	
+3-12	460-465	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+3-13	465-466	.	_	_	
+
+#Text=Hirst & brooke’s orange quinine TONIC WINE.
+4-1	468-473	Hirst	_	_	
+4-2	474-475	&	_	_	
+4-3	476-482	brooke	_	_	
+4-4	482-483	’	_	_	
+4-5	483-484	s	_	_	
+4-6	485-491	orange	_	_	
+4-7	492-499	quinine	_	_	
+4-8	500-505	TONIC	_	_	
+4-9	506-510	WINE	_	_	
+4-10	510-511	.	_	_	
+
+#Text=The most agreeable and efficacious tonic stomachic, combining the valuable tonic properties of Peruvian Bark (Quinine) with the stomach qualities of the Bitter Orange, so as not to be objectionable to the most delicate invalid.
+5-1	512-515	The	_	_	
+5-2	516-520	most	_	_	
+5-3	521-530	agreeable	_	_	
+5-4	531-534	and	_	_	
+5-5	535-546	efficacious	_	_	
+5-6	547-552	tonic	_	_	
+5-7	553-562	stomachic	_	_	
+5-8	562-563	,	_	_	
+5-9	564-573	combining	_	_	
+5-10	574-577	the	_	_	
+5-11	578-586	valuable	_	_	
+5-12	587-592	tonic	_	_	
+5-13	593-603	properties	_	_	
+5-14	604-606	of	_	_	
+5-15	607-615	Peruvian	_	_	
+5-16	616-620	Bark	_	_	
+5-17	621-622	(	_	_	
+5-18	622-629	Quinine	_	_	
+5-19	629-630	)	_	_	
+5-20	631-635	with	_	_	
+5-21	636-639	the	_	_	
+5-22	640-647	stomach	_	_	
+5-23	648-657	qualities	_	_	
+5-24	658-660	of	_	_	
+5-25	661-664	the	_	_	
+5-26	665-671	Bitter	_	_	
+5-27	672-678	Orange	_	_	
+5-28	678-679	,	_	_	
+5-29	680-682	so	_	_	
+5-30	683-685	as	_	_	
+5-31	686-689	not	_	_	
+5-32	690-692	to	_	_	
+5-33	693-695	be	_	_	
+5-34	696-709	objectionable	_	_	
+5-35	710-712	to	_	_	
+5-36	713-716	the	_	_	
+5-37	717-721	most	_	_	
+5-38	722-730	delicate	_	_	
+5-39	731-738	invalid	_	_	
+5-40	738-739	.	_	_	
+
+#Text=Invaluable to all suffering from loss of appetite, indigestion, general debility, nervous affections, tic, ague, &c.
+6-1	741-751	Invaluable	_	_	
+6-2	752-754	to	_	_	
+6-3	755-758	all	_	_	
+6-4	759-768	suffering	_	_	
+6-5	769-773	from	_	_	
+6-6	774-778	loss	_	_	
+6-7	779-781	of	_	_	
+6-8	782-790	appetite	_	_	
+6-9	790-791	,	_	_	
+6-10	792-803	indigestion	_	_	
+6-11	803-804	,	_	_	
+6-12	805-812	general	_	_	
+6-13	813-821	debility	_	_	
+6-14	821-822	,	_	_	
+6-15	823-830	nervous	_	_	
+6-16	831-841	affections	_	_	
+6-17	841-842	,	_	_	
+6-18	843-846	tic	_	_	
+6-19	846-847	,	_	_	
+6-20	848-852	ague	_	_	
+6-21	852-853	,	_	_	
+6-22	854-855	&	_	_	
+6-23	855-856	c	_	_	
+6-24	856-857	.	_	_	
+
+#Text=It is highly recommended by the medical profession to be taken whenever Cod Liver Oil is taken.
+7-1	858-860	It	_	_	
+7-2	861-863	is	_	_	
+7-3	864-870	highly	_	_	
+7-4	871-882	recommended	_	_	
+7-5	883-885	by	_	_	
+7-6	886-889	the	_	_	
+7-7	890-897	medical	_	_	
+7-8	898-908	profession	_	_	
+7-9	909-911	to	_	_	
+7-10	912-914	be	_	_	
+7-11	915-920	taken	_	_	
+7-12	921-929	whenever	_	_	
+7-13	930-933	Cod	_	_	
+7-14	934-939	Liver	_	_	
+7-15	940-943	Oil	_	_	
+7-16	944-946	is	_	_	
+7-17	947-952	taken	_	_	
+7-18	952-953	.	_	_	
+
+#Text=One, two, or three wine glass fulls may be taken during the forenoon, or a wine glass full every four hours during the day, by persons suffering from the above complaints, with the greatest benefit.
+8-1	955-958	One	_	_	
+8-2	958-959	,	_	_	
+8-3	960-963	two	_	_	
+8-4	963-964	,	_	_	
+8-5	965-967	or	_	_	
+8-6	968-973	three	_	_	
+8-7	974-978	wine	_	_	
+8-8	979-984	glass	_	_	
+8-9	985-990	fulls	_	_	
+8-10	991-994	may	_	_	
+8-11	995-997	be	_	_	
+8-12	998-1003	taken	_	_	
+8-13	1004-1010	during	_	_	
+8-14	1011-1014	the	_	_	
+8-15	1015-1023	forenoon	_	_	
+8-16	1023-1024	,	_	_	
+8-17	1025-1027	or	_	_	
+8-18	1028-1029	a	_	_	
+8-19	1030-1034	wine	_	_	
+8-20	1035-1040	glass	_	_	
+8-21	1041-1045	full	_	_	
+8-22	1046-1051	every	_	_	
+8-23	1052-1056	four	_	_	
+8-24	1057-1062	hours	_	_	
+8-25	1063-1069	during	_	_	
+8-26	1070-1073	the	_	_	
+8-27	1074-1077	day	_	_	
+8-28	1077-1078	,	_	_	
+8-29	1079-1081	by	_	_	
+8-30	1082-1089	persons	_	_	
+8-31	1090-1099	suffering	_	_	
+8-32	1100-1104	from	_	_	
+8-33	1105-1108	the	_	_	
+8-34	1109-1114	above	_	_	
+8-35	1115-1125	complaints	_	_	
+8-36	1125-1126	,	_	_	
+8-37	1127-1131	with	_	_	
+8-38	1132-1135	the	_	_	
+8-39	1136-1144	greatest	_	_	
+8-40	1145-1152	benefit	_	_	
+8-41	1152-1153	.	_	_	
+
+#Text=Price 2s. 3d. per wine bottle, and sent (carriage free) in cases of one, two, or three dozens, at 275. per dozen, duty included 
+#Text=Sold retail by most Druggists.
+9-1	1154-1159	Price	_	_	
+9-2	1160-1162	2s	_	_	
+9-3	1162-1163	.	_	_	
+9-4	1164-1166	3d	_	_	
+9-5	1166-1167	.	_	_	
+9-6	1168-1171	per	_	_	
+9-7	1172-1176	wine	_	_	
+9-8	1177-1183	bottle	_	_	
+9-9	1183-1184	,	_	_	
+9-10	1185-1188	and	_	_	
+9-11	1189-1193	sent	_	_	
+9-12	1194-1195	(	_	_	
+9-13	1195-1203	carriage	_	_	
+9-14	1204-1208	free	_	_	
+9-15	1208-1209	)	_	_	
+9-16	1210-1212	in	_	_	
+9-17	1213-1218	cases	_	_	
+9-18	1219-1221	of	_	_	
+9-19	1222-1225	one	_	_	
+9-20	1225-1226	,	_	_	
+9-21	1227-1230	two	_	_	
+9-22	1230-1231	,	_	_	
+9-23	1232-1234	or	_	_	
+9-24	1235-1240	three	_	_	
+9-25	1241-1247	dozens	_	_	
+9-26	1247-1248	,	_	_	
+9-27	1249-1251	at	_	_	
+9-28	1252-1255	275	_	_	
+9-29	1255-1256	.	_	_	
+9-30	1257-1260	per	_	_	
+9-31	1261-1266	dozen	_	_	
+9-32	1266-1267	,	_	_	
+9-33	1268-1272	duty	_	_	
+9-34	1273-1281	included	_	_	
+9-35	1283-1287	Sold	_	_	
+9-36	1288-1294	retail	_	_	
+9-37	1295-1297	by	_	_	
+9-38	1298-1302	most	_	_	
+9-39	1303-1312	Druggists	_	_	
+9-40	1312-1313	.	_	_	
+
+#Text=None genuine unless “ Hirst, Brooke, and Tomlinson ” is on the government stamp.
+10-1	1314-1318	None	_	_	
+10-2	1319-1326	genuine	_	_	
+10-3	1327-1333	unless	_	_	
+10-4	1334-1335	“	_	_	
+10-5	1336-1341	Hirst	_	_	
+10-6	1341-1342	,	_	_	
+10-7	1343-1349	Brooke	_	_	
+10-8	1349-1350	,	_	_	
+10-9	1351-1354	and	_	_	
+10-10	1355-1364	Tomlinson	_	_	
+10-11	1365-1366	”	_	_	
+10-12	1367-1369	is	_	_	
+10-13	1370-1372	on	_	_	
+10-14	1373-1376	the	_	_	
+10-15	1377-1387	government	_	_	
+10-16	1388-1393	stamp	_	_	
+10-17	1393-1394	.	_	_	
+
+#Text=SPANISH FLY is the acting ingredient in Alex.
+11-1	1396-1403	SPANISH	_	_	
+11-2	1404-1407	FLY	_	_	
+11-3	1408-1410	is	_	_	
+11-4	1411-1414	the	_	_	
+11-5	1415-1421	acting	_	_	
+11-6	1422-1432	ingredient	_	_	
+11-7	1433-1435	in	_	_	
+11-8	1436-1440	Alex	_	_	
+11-9	1440-1441	.	_	_	
+
+#Text=Ross’s Cantharides Oil, which speedily produces whiskers and thickens hair, 3s. 6d.; sent by post for 54 stamps.
+12-1	1442-1446	Ross	_	_	
+12-2	1446-1447	’	_	_	
+12-3	1447-1448	s	_	_	
+12-4	1449-1460	Cantharides	_	_	
+12-5	1461-1464	Oil	_	_	
+12-6	1464-1465	,	_	_	
+12-7	1466-1471	which	_	_	
+12-8	1472-1480	speedily	_	_	
+12-9	1481-1489	produces	_	_	
+12-10	1490-1498	whiskers	_	_	
+12-11	1499-1502	and	_	_	
+12-12	1503-1511	thickens	_	_	
+12-13	1512-1516	hair	_	_	
+12-14	1516-1517	,	_	_	
+12-15	1518-1520	3s	_	_	
+12-16	1520-1521	.	_	_	
+12-17	1522-1524	6d	_	_	
+12-18	1524-1525	.	_	_	
+12-19	1525-1526	;	_	_	
+12-20	1527-1531	sent	_	_	
+12-21	1532-1534	by	_	_	
+12-22	1535-1539	post	_	_	
+12-23	1540-1543	for	_	_	
+12-24	1544-1546	54	_	_	
+12-25	1547-1553	stamps	_	_	
+12-26	1553-1554	.	_	_	
+
+#Text=—Alex.
+13-1	1554-1555	—	_	_	
+13-2	1555-1559	Alex	_	_	
+13-3	1559-1560	.	_	_	
+
+#Text=Ross, 248.
+14-1	1561-1565	Ross	_	_	
+14-2	1565-1566	,	_	_	
+14-3	1567-1570	248	_	_	
+14-4	1570-1571	.	_	_	
+
+#Text=High Holborn, London.— Sold by all Chemists, and by Mr.
+15-1	1572-1576	High	https://en.wikipedia.org/wiki/High\_Holborn[1]	STREET[1]	
+15-2	1577-1584	Holborn	https://en.wikipedia.org/wiki/High\_Holborn[1]	STREET[1]	
+15-3	1584-1585	,	_	_	
+15-4	1586-1592	London	https://en.wikipedia.org/wiki/London	LOC	
+15-5	1592-1593	.	_	_	
+15-6	1593-1594	—	_	_	
+15-7	1595-1599	Sold	_	_	
+15-8	1600-1602	by	_	_	
+15-9	1603-1606	all	_	_	
+15-10	1607-1615	Chemists	_	_	
+15-11	1615-1616	,	_	_	
+15-12	1617-1620	and	_	_	
+15-13	1621-1623	by	_	_	
+15-14	1624-1626	Mr	_	_	
+15-15	1626-1627	.	_	_	
+
+#Text=Brown, Hairdresser, 173, Stamford-street, Ashton-under-Lyne.
+16-1	1628-1633	Brown	_	_	
+16-2	1633-1634	,	_	_	
+16-3	1635-1646	Hairdresser	_	_	
+16-4	1646-1647	,	_	_	
+16-5	1648-1651	173	_	_	
+16-6	1651-1652	,	_	_	
+16-7	1653-1668	Stamford-street	*	STREET	
+16-8	1668-1669	,	_	_	
+16-9	1670-1687	Ashton-under-Lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+16-10	1687-1688	.	_	_	
+
+#Text=T\\7 ONDERFUL DISCOVERY.
+17-1	1690-1691	T	_	_	
+17-2	1691-1692	\	_	_	
+17-3	1692-1693	7	_	_	
+17-4	1694-1702	ONDERFUL	_	_	
+17-5	1703-1712	DISCOVERY	_	_	
+17-6	1712-1713	.	_	_	
+
+#Text=—Corns Cured T?
+18-1	1713-1714	—	_	_	
+18-2	1714-1719	Corns	_	_	
+18-3	1720-1725	Cured	_	_	
+18-4	1726-1727	T	_	_	
+18-5	1727-1728	?	_	_	
+
+#Text=in one day, by using Alex.
+19-1	1729-1731	in	_	_	
+19-2	1732-1735	one	_	_	
+19-3	1736-1739	day	_	_	
+19-4	1739-1740	,	_	_	
+19-5	1741-1743	by	_	_	
+19-6	1744-1749	using	_	_	
+19-7	1750-1754	Alex	_	_	
+19-8	1754-1755	.	_	_	
+
+#Text=Ross’s Chiropo.
+20-1	1756-1760	Ross	_	_	
+20-2	1760-1761	’	_	_	
+20-3	1761-1762	s	_	_	
+20-4	1763-1770	Chiropo	_	_	
+20-5	1770-1771	.	_	_	
+
+#Text=This preparation gradually dissolves the corn in a few hours.
+21-1	1772-1776	This	_	_	
+21-2	1777-1788	preparation	_	_	
+21-3	1789-1798	gradually	_	_	
+21-4	1799-1808	dissolves	_	_	
+21-5	1809-1812	the	_	_	
+21-6	1813-1817	corn	_	_	
+21-7	1818-1820	in	_	_	
+21-8	1821-1822	a	_	_	
+21-9	1823-1826	few	_	_	
+21-10	1827-1832	hours	_	_	
+21-11	1832-1833	.	_	_	
+
+#Text=Price 45., sent by post for 60 stamps,—24B, High Holborn, London.
+22-1	1834-1839	Price	_	_	
+22-2	1840-1842	45	_	_	
+22-3	1842-1843	.	_	_	
+22-4	1843-1844	,	_	_	
+22-5	1845-1849	sent	_	_	
+22-6	1850-1852	by	_	_	
+22-7	1853-1857	post	_	_	
+22-8	1858-1861	for	_	_	
+22-9	1862-1864	60	_	_	
+22-10	1865-1871	stamps	_	_	
+22-11	1871-1872	,	_	_	
+22-12	1872-1873	—	_	_	
+22-13	1873-1876	24B	_	_	
+22-14	1876-1877	,	_	_	
+22-15	1878-1882	High	https://en.wikipedia.org/wiki/High\_Holborn[2]	STREET[2]	
+22-16	1883-1890	Holborn	https://en.wikipedia.org/wiki/High\_Holborn[2]	STREET[2]	
+22-17	1890-1891	,	_	_	
+22-18	1892-1898	London	_	_	
+22-19	1898-1899	.	_	_	
+
+#Text=Sold by all Chemists, and by Mr.
+23-1	1900-1904	Sold	_	_	
+23-2	1905-1907	by	_	_	
+23-3	1908-1911	all	_	_	
+23-4	1912-1920	Chemists	_	_	
+23-5	1920-1921	,	_	_	
+23-6	1922-1925	and	_	_	
+23-7	1926-1928	by	_	_	
+23-8	1929-1931	Mr	_	_	
+23-9	1931-1932	.	_	_	
+
+#Text=Brown, 173, Stamford-street, Ashton-nnder-Lyne.
+24-1	1933-1938	Brown	_	_	
+24-2	1938-1939	,	_	_	
+24-3	1940-1943	173	_	_	
+24-4	1943-1944	,	_	_	
+24-5	1945-1960	Stamford-street	*	STREET	
+24-6	1960-1961	,	_	_	
+24-7	1962-1979	Ashton-nnder-Lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+24-8	1979-1980	.	_	_	

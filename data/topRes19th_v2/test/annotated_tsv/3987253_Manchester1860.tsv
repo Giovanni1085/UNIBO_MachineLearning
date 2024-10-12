@@ -1,0 +1,339 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE RECENT GALES.
+1-1	0-3	THE	_	_	
+1-2	4-10	RECENT	_	_	
+1-3	11-16	GALES	_	_	
+1-4	16-17	.	_	_	
+
+#Text=SHIPPING DISASTERS.
+2-1	19-27	SHIPPING	_	_	
+2-2	28-37	DISASTERS	_	_	
+2-3	37-38	.	_	_	
+
+#Text=We learn from Lowestoft that the Brigantine Secret, with shot, from Boutflower, Southampton, of and for Sunderland Palace, whilst rounding Ness Point, about six p.m. on Sunday, capsized in a very heavy squall.
+3-1	39-41	We	_	_	
+3-2	42-47	learn	_	_	
+3-3	48-52	from	_	_	
+3-4	53-62	Lowestoft	https://en.wikipedia.org/wiki/Lowestoft	LOC	
+3-5	63-67	that	_	_	
+3-6	68-71	the	_	_	
+3-7	72-82	Brigantine	_	_	
+3-8	83-89	Secret	_	_	
+3-9	89-90	,	_	_	
+3-10	91-95	with	_	_	
+3-11	96-100	shot	_	_	
+3-12	100-101	,	_	_	
+3-13	102-106	from	_	_	
+3-14	107-117	Boutflower	_	_	
+3-15	117-118	,	_	_	
+3-16	119-130	Southampton	https://en.wikipedia.org/wiki/Southampton	LOC	
+3-17	130-131	,	_	_	
+3-18	132-134	of	_	_	
+3-19	135-138	and	_	_	
+3-20	139-142	for	_	_	
+3-21	143-153	Sunderland	https://en.wikipedia.org/wiki/Sunderland	LOC	
+3-22	154-160	Palace	_	_	
+3-23	160-161	,	_	_	
+3-24	162-168	whilst	_	_	
+3-25	169-177	rounding	_	_	
+3-26	178-182	Ness	https://en.wikipedia.org/wiki/Ness\_Point[1]	LOC[1]	
+3-27	183-188	Point	https://en.wikipedia.org/wiki/Ness\_Point[1]	LOC[1]	
+3-28	188-189	,	_	_	
+3-29	190-195	about	_	_	
+3-30	196-199	six	_	_	
+3-31	200-203	p.m	_	_	
+3-32	203-204	.	_	_	
+3-33	205-207	on	_	_	
+3-34	208-214	Sunday	_	_	
+3-35	214-215	,	_	_	
+3-36	216-224	capsized	_	_	
+3-37	225-227	in	_	_	
+3-38	228-229	a	_	_	
+3-39	230-234	very	_	_	
+3-40	235-240	heavy	_	_	
+3-41	241-247	squall	_	_	
+3-42	247-248	.	_	_	
+
+#Text=She drifted on to the Holm Sand, and is a total wreck.
+4-1	249-252	She	_	_	
+4-2	253-260	drifted	_	_	
+4-3	261-263	on	_	_	
+4-4	264-266	to	_	_	
+4-5	267-270	the	_	_	
+4-6	271-275	Holm	*[2]	LOC[2]	
+4-7	276-280	Sand	*[2]	LOC[2]	
+4-8	280-281	,	_	_	
+4-9	282-285	and	_	_	
+4-10	286-288	is	_	_	
+4-11	289-290	a	_	_	
+4-12	291-296	total	_	_	
+4-13	297-302	wreck	_	_	
+4-14	302-303	.	_	_	
+
+#Text=The crew were saved by beachmen.
+5-1	304-307	The	_	_	
+5-2	308-312	crew	_	_	
+5-3	313-317	were	_	_	
+5-4	318-323	saved	_	_	
+5-5	324-326	by	_	_	
+5-6	327-335	beachmen	_	_	
+5-7	335-336	.	_	_	
+
+#Text=According to the reports of vessels which have arrived at New York, the weather on the Atlantic has been most severe and disastrous.
+6-1	337-346	According	_	_	
+6-2	347-349	to	_	_	
+6-3	350-353	the	_	_	
+6-4	354-361	reports	_	_	
+6-5	362-364	of	_	_	
+6-6	365-372	vessels	_	_	
+6-7	373-378	which	_	_	
+6-8	379-383	have	_	_	
+6-9	384-391	arrived	_	_	
+6-10	392-394	at	_	_	
+6-11	395-398	New	https://en.wikipedia.org/wiki/New\_York\_City[3]	LOC[3]	
+6-12	399-403	York	https://en.wikipedia.org/wiki/New\_York\_City[3]	LOC[3]	
+6-13	403-404	,	_	_	
+6-14	405-408	the	_	_	
+6-15	409-416	weather	_	_	
+6-16	417-419	on	_	_	
+6-17	420-423	the	_	_	
+6-18	424-432	Atlantic	https://en.wikipedia.org/wiki/Atlantic\_Ocean	LOC	
+6-19	433-436	has	_	_	
+6-20	437-441	been	_	_	
+6-21	442-446	most	_	_	
+6-22	447-453	severe	_	_	
+6-23	454-457	and	_	_	
+6-24	458-468	disastrous	_	_	
+6-25	468-469	.	_	_	
+
+#Text=The ProteuB, on the 2*2nd of March, was sailing on the northern verge of the Gulf stream, when she encountered a boat containing apparently a solitary man.
+7-1	470-473	The	_	_	
+7-2	474-481	ProteuB	_	_	
+7-3	481-482	,	_	_	
+7-4	483-485	on	_	_	
+7-5	486-489	the	_	_	
+7-6	490-491	2	_	_	
+7-7	491-492	*	_	_	
+7-8	492-495	2nd	_	_	
+7-9	496-498	of	_	_	
+7-10	499-504	March	_	_	
+7-11	504-505	,	_	_	
+7-12	506-509	was	_	_	
+7-13	510-517	sailing	_	_	
+7-14	518-520	on	_	_	
+7-15	521-524	the	_	_	
+7-16	525-533	northern	_	_	
+7-17	534-539	verge	_	_	
+7-18	540-542	of	_	_	
+7-19	543-546	the	_	_	
+7-20	547-551	Gulf	https://en.wikipedia.org/wiki/Gulf\_Stream[4]	LOC[4]	
+7-21	552-558	stream	https://en.wikipedia.org/wiki/Gulf\_Stream[4]	LOC[4]	
+7-22	558-559	,	_	_	
+7-23	560-564	when	_	_	
+7-24	565-568	she	_	_	
+7-25	569-580	encountered	_	_	
+7-26	581-582	a	_	_	
+7-27	583-587	boat	_	_	
+7-28	588-598	containing	_	_	
+7-29	599-609	apparently	_	_	
+7-30	610-611	a	_	_	
+7-31	612-620	solitary	_	_	
+7-32	621-624	man	_	_	
+7-33	624-625	.	_	_	
+
+#Text=Whilst the ship was standing in the direction of the boat, with the view of picking up the castaway, a heavy sea broke over the frail craft, tossed the man out, aDd also washed overboard two dead bodies, which were lying in the bottom of the boat.
+8-1	626-632	Whilst	_	_	
+8-2	633-636	the	_	_	
+8-3	637-641	ship	_	_	
+8-4	642-645	was	_	_	
+8-5	646-654	standing	_	_	
+8-6	655-657	in	_	_	
+8-7	658-661	the	_	_	
+8-8	662-671	direction	_	_	
+8-9	672-674	of	_	_	
+8-10	675-678	the	_	_	
+8-11	679-683	boat	_	_	
+8-12	683-684	,	_	_	
+8-13	685-689	with	_	_	
+8-14	690-693	the	_	_	
+8-15	694-698	view	_	_	
+8-16	699-701	of	_	_	
+8-17	702-709	picking	_	_	
+8-18	710-712	up	_	_	
+8-19	713-716	the	_	_	
+8-20	717-725	castaway	_	_	
+8-21	725-726	,	_	_	
+8-22	727-728	a	_	_	
+8-23	729-734	heavy	_	_	
+8-24	735-738	sea	_	_	
+8-25	739-744	broke	_	_	
+8-26	745-749	over	_	_	
+8-27	750-753	the	_	_	
+8-28	754-759	frail	_	_	
+8-29	760-765	craft	_	_	
+8-30	765-766	,	_	_	
+8-31	767-773	tossed	_	_	
+8-32	774-777	the	_	_	
+8-33	778-781	man	_	_	
+8-34	782-785	out	_	_	
+8-35	785-786	,	_	_	
+8-36	787-790	aDd	_	_	
+8-37	791-795	also	_	_	
+8-38	796-802	washed	_	_	
+8-39	803-812	overboard	_	_	
+8-40	813-816	two	_	_	
+8-41	817-821	dead	_	_	
+8-42	822-828	bodies	_	_	
+8-43	828-829	,	_	_	
+8-44	830-835	which	_	_	
+8-45	836-840	were	_	_	
+8-46	841-846	lying	_	_	
+8-47	847-849	in	_	_	
+8-48	850-853	the	_	_	
+8-49	854-860	bottom	_	_	
+8-50	861-863	of	_	_	
+8-51	864-867	the	_	_	
+8-52	868-872	boat	_	_	
+8-53	872-873	.	_	_	
+
+#Text=The poor sailor perished.
+9-1	874-877	The	_	_	
+9-2	878-882	poor	_	_	
+9-3	883-889	sailor	_	_	
+9-4	890-898	perished	_	_	
+9-5	898-899	.	_	_	
+
+#Text=It is feared he was the only survivor from a eotton laden vessel which had been wrecked and gone to pieces, for on the same day the Proteus passed a large quantity of floating cotton, which had apparently not been long in the water.
+10-1	900-902	It	_	_	
+10-2	903-905	is	_	_	
+10-3	906-912	feared	_	_	
+10-4	913-915	he	_	_	
+10-5	916-919	was	_	_	
+10-6	920-923	the	_	_	
+10-7	924-928	only	_	_	
+10-8	929-937	survivor	_	_	
+10-9	938-942	from	_	_	
+10-10	943-944	a	_	_	
+10-11	945-951	eotton	_	_	
+10-12	952-957	laden	_	_	
+10-13	958-964	vessel	_	_	
+10-14	965-970	which	_	_	
+10-15	971-974	had	_	_	
+10-16	975-979	been	_	_	
+10-17	980-987	wrecked	_	_	
+10-18	988-991	and	_	_	
+10-19	992-996	gone	_	_	
+10-20	997-999	to	_	_	
+10-21	1000-1006	pieces	_	_	
+10-22	1006-1007	,	_	_	
+10-23	1008-1011	for	_	_	
+10-24	1012-1014	on	_	_	
+10-25	1015-1018	the	_	_	
+10-26	1019-1023	same	_	_	
+10-27	1024-1027	day	_	_	
+10-28	1028-1031	the	_	_	
+10-29	1032-1039	Proteus	_	_	
+10-30	1040-1046	passed	_	_	
+10-31	1047-1048	a	_	_	
+10-32	1049-1054	large	_	_	
+10-33	1055-1063	quantity	_	_	
+10-34	1064-1066	of	_	_	
+10-35	1067-1075	floating	_	_	
+10-36	1076-1082	cotton	_	_	
+10-37	1082-1083	,	_	_	
+10-38	1084-1089	which	_	_	
+10-39	1090-1093	had	_	_	
+10-40	1094-1104	apparently	_	_	
+10-41	1105-1108	not	_	_	
+10-42	1109-1113	been	_	_	
+10-43	1114-1118	long	_	_	
+10-44	1119-1121	in	_	_	
+10-45	1122-1125	the	_	_	
+10-46	1126-1131	water	_	_	
+10-47	1131-1132	.	_	_	
+
+#Text=The pilot boat C.
+11-1	1133-1136	The	_	_	
+11-2	1137-1142	pilot	_	_	
+11-3	1143-1147	boat	_	_	
+11-4	1148-1149	C	_	_	
+11-5	1149-1150	.	_	_	
+
+#Text=H.
+12-1	1151-1152	H	_	_	
+12-2	1152-1153	.	_	_	
+
+#Text=Marshall reports having boarded, about 80 miles to the eastward of Montawk, the ship Carolus Magnus, bound for San Francisco.
+13-1	1154-1162	Marshall	_	_	
+13-2	1163-1170	reports	_	_	
+13-3	1171-1177	having	_	_	
+13-4	1178-1185	boarded	_	_	
+13-5	1185-1186	,	_	_	
+13-6	1187-1192	about	_	_	
+13-7	1193-1195	80	_	_	
+13-8	1196-1201	miles	_	_	
+13-9	1202-1204	to	_	_	
+13-10	1205-1208	the	_	_	
+13-11	1209-1217	eastward	_	_	
+13-12	1218-1220	of	_	_	
+13-13	1221-1228	Montawk	https://en.wikipedia.org/wiki/Montauk,\_New\_York	LOC	
+13-14	1228-1229	,	_	_	
+13-15	1230-1233	the	_	_	
+13-16	1234-1238	ship	_	_	
+13-17	1239-1246	Carolus	_	_	
+13-18	1247-1253	Magnus	_	_	
+13-19	1253-1254	,	_	_	
+13-20	1255-1260	bound	_	_	
+13-21	1261-1264	for	_	_	
+13-22	1265-1268	San	https://en.wikipedia.org/wiki/San\_Francisco[5]	LOC[5]	
+13-23	1269-1278	Francisco	https://en.wikipedia.org/wiki/San\_Francisco[5]	LOC[5]	
+13-24	1278-1279	.	_	_	
+
+#Text=The vessel had lost some of her spars, had her bulwarks stove, her decks swept, and was otherwise disabled.
+14-1	1280-1283	The	_	_	
+14-2	1284-1290	vessel	_	_	
+14-3	1291-1294	had	_	_	
+14-4	1295-1299	lost	_	_	
+14-5	1300-1304	some	_	_	
+14-6	1305-1307	of	_	_	
+14-7	1308-1311	her	_	_	
+14-8	1312-1317	spars	_	_	
+14-9	1317-1318	,	_	_	
+14-10	1319-1322	had	_	_	
+14-11	1323-1326	her	_	_	
+14-12	1327-1335	bulwarks	_	_	
+14-13	1336-1341	stove	_	_	
+14-14	1341-1342	,	_	_	
+14-15	1343-1346	her	_	_	
+14-16	1347-1352	decks	_	_	
+14-17	1353-1358	swept	_	_	
+14-18	1358-1359	,	_	_	
+14-19	1360-1363	and	_	_	
+14-20	1364-1367	was	_	_	
+14-21	1368-1377	otherwise	_	_	
+14-22	1378-1386	disabled	_	_	
+14-23	1386-1387	.	_	_	
+
+#Text=Mr.
+15-1	1388-1390	Mr	_	_	
+15-2	1390-1391	.	_	_	
+
+#Text=Ashley, the third officer, brother to the captain, was washed overboard.
+16-1	1392-1398	Ashley	_	_	
+16-2	1398-1399	,	_	_	
+16-3	1400-1403	the	_	_	
+16-4	1404-1409	third	_	_	
+16-5	1410-1417	officer	_	_	
+16-6	1417-1418	,	_	_	
+16-7	1419-1426	brother	_	_	
+16-8	1427-1429	to	_	_	
+16-9	1430-1433	the	_	_	
+16-10	1434-1441	captain	_	_	
+16-11	1441-1442	,	_	_	
+16-12	1443-1446	was	_	_	
+16-13	1447-1453	washed	_	_	
+16-14	1454-1463	overboard	_	_	
+16-15	1463-1464	.	_	_	

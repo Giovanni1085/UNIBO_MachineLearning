@@ -1,0 +1,279 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=HOUSE OF CO.MaMONS, Wednesday, March 31.
+1-1	0-5	HOUSE	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[1]	BUILDING[1]	
+1-2	6-8	OF	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[1]	BUILDING[1]	
+1-3	9-18	CO.MaMONS	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[1]	BUILDING[1]	
+1-4	18-19	,	_	_	
+1-5	20-29	Wednesday	_	_	
+1-6	29-30	,	_	_	
+1-7	31-36	March	_	_	
+1-8	37-39	31	_	_	
+1-9	39-40	.	_	_	
+
+#Text=A new writ w«s issued on the motion of Mr.
+2-1	42-43	A	_	_	
+2-2	44-47	new	_	_	
+2-3	48-52	writ	_	_	
+2-4	53-54	w	_	_	
+2-5	54-55	«	_	_	
+2-6	55-56	s	_	_	
+2-7	57-63	issued	_	_	
+2-8	64-66	on	_	_	
+2-9	67-70	the	_	_	
+2-10	71-77	motion	_	_	
+2-11	78-80	of	_	_	
+2-12	81-83	Mr	_	_	
+2-13	83-84	.	_	_	
+
+#Text=Plants, for Dor.
+3-1	85-91	Plants	_	_	
+3-2	91-92	,	_	_	
+3-3	93-96	for	_	_	
+3-4	97-100	Dor	_	_	
+3-5	100-101	.	_	_	
+
+#Text=Chester, in the room of the Hon.
+4-1	102-109	Chester	_	_	
+4-2	109-110	,	_	_	
+4-3	111-113	in	_	_	
+4-4	114-117	the	_	_	
+4-5	118-122	room	_	_	
+4-6	123-125	of	_	_	
+4-7	126-129	the	_	_	
+4-8	130-133	Hon	_	_	
+4-9	133-134	.	_	_	
+
+#Text=W.
+5-1	135-136	W	_	_	
+5-2	136-137	.	_	_	
+
+#Text=Ashley, who had accepted of the Chlltern Hundreds.
+6-1	138-144	Ashley	_	_	
+6-2	144-145	,	_	_	
+6-3	146-149	who	_	_	
+6-4	150-153	had	_	_	
+6-5	154-162	accepted	_	_	
+6-6	163-165	of	_	_	
+6-7	166-169	the	_	_	
+6-8	170-178	Chlltern	https://en.wikipedia.org/wiki/Chiltern\_Hundreds[2]	LOC[2]	
+6-9	179-187	Hundreds	https://en.wikipedia.org/wiki/Chiltern\_Hundreds[2]	LOC[2]	
+6-10	187-188	.	_	_	
+
+#Text=Mr.
+7-1	189-191	Mr	_	_	
+7-2	191-192	.	_	_	
+
+#Text=Burkell presented a petition from certain licensed victual, lets in Brighton, against opening the beer trade.
+8-1	193-200	Burkell	_	_	
+8-2	201-210	presented	_	_	
+8-3	211-212	a	_	_	
+8-4	213-221	petition	_	_	
+8-5	222-226	from	_	_	
+8-6	227-234	certain	_	_	
+8-7	235-243	licensed	_	_	
+8-8	244-251	victual	_	_	
+8-9	251-252	,	_	_	
+8-10	253-257	lets	_	_	
+8-11	258-260	in	_	_	
+8-12	261-269	Brighton	https://en.wikipedia.org/wiki/Brighton	LOC	
+8-13	269-270	,	_	_	
+8-14	271-278	against	_	_	
+8-15	279-286	opening	_	_	
+8-16	287-290	the	_	_	
+8-17	291-295	beer	_	_	
+8-18	296-301	trade	_	_	
+8-19	301-302	.	_	_	
+
+#Text=The House, in committee, were occupied for the remainder of the evening in the examination of witnesses on Lord Ellenborough’s Divorce Bill Adjourned at half-past eight.
+9-1	303-306	The	_	_	
+9-2	307-312	House	_	_	
+9-3	312-313	,	_	_	
+9-4	314-316	in	_	_	
+9-5	317-326	committee	_	_	
+9-6	326-327	,	_	_	
+9-7	328-332	were	_	_	
+9-8	333-341	occupied	_	_	
+9-9	342-345	for	_	_	
+9-10	346-349	the	_	_	
+9-11	350-359	remainder	_	_	
+9-12	360-362	of	_	_	
+9-13	363-366	the	_	_	
+9-14	367-374	evening	_	_	
+9-15	375-377	in	_	_	
+9-16	378-381	the	_	_	
+9-17	382-393	examination	_	_	
+9-18	394-396	of	_	_	
+9-19	397-406	witnesses	_	_	
+9-20	407-409	on	_	_	
+9-21	410-414	Lord	_	_	
+9-22	415-427	Ellenborough	_	_	
+9-23	427-428	’	_	_	
+9-24	428-429	s	_	_	
+9-25	430-437	Divorce	_	_	
+9-26	438-442	Bill	_	_	
+9-27	443-452	Adjourned	_	_	
+9-28	453-455	at	_	_	
+9-29	456-465	half-past	_	_	
+9-30	466-471	eight	_	_	
+9-31	471-472	.	_	_	
+
+#Text=THURSDAY, April 1.
+10-1	473-481	THURSDAY	_	_	
+10-2	481-482	,	_	_	
+10-3	483-488	April	_	_	
+10-4	489-490	1	_	_	
+10-5	490-491	.	_	_	
+
+#Text=Lord .1.
+11-1	492-496	Lord	_	_	
+11-2	497-499	.1	_	_	
+11-3	499-500	.	_	_	
+
+#Text=Russell brought up the report of the St.
+12-1	501-508	Russell	_	_	
+12-2	509-516	brought	_	_	
+12-3	517-519	up	_	_	
+12-4	520-523	the	_	_	
+12-5	524-530	report	_	_	
+12-6	531-533	of	_	_	
+12-7	534-537	the	_	_	
+12-8	538-540	St	_	_	
+12-9	540-541	.	_	_	
+
+#Text=George’s and St.
+13-1	542-548	George	_	_	
+13-2	548-549	’	_	_	
+13-3	549-550	s	_	_	
+13-4	551-554	and	_	_	
+13-5	555-557	St	_	_	
+13-6	557-558	.	_	_	
+
+#Text=Giles’s Vestrv Acts. lord Ellenborough’s Divorce Bill went through a committee, and the evidence was ordered to be printed. . , , , .
+14-1	559-564	Giles	_	_	
+14-2	564-565	’	_	_	
+14-3	565-566	s	_	_	
+14-4	567-573	Vestrv	_	_	
+14-5	574-578	Acts	_	_	
+14-6	578-579	.	_	_	
+14-7	580-584	lord	_	_	
+14-8	585-597	Ellenborough	_	_	
+14-9	597-598	’	_	_	
+14-10	598-599	s	_	_	
+14-11	600-607	Divorce	_	_	
+14-12	608-612	Bill	_	_	
+14-13	613-617	went	_	_	
+14-14	618-625	through	_	_	
+14-15	626-627	a	_	_	
+14-16	628-637	committee	_	_	
+14-17	637-638	,	_	_	
+14-18	639-642	and	_	_	
+14-19	643-646	the	_	_	
+14-20	647-655	evidence	_	_	
+14-21	656-659	was	_	_	
+14-22	660-667	ordered	_	_	
+14-23	668-670	to	_	_	
+14-24	671-673	be	_	_	
+14-25	674-681	printed	_	_	
+14-26	681-682	.	_	_	
+14-27	683-684	.	_	_	
+14-28	685-686	,	_	_	
+14-29	687-688	,	_	_	
+14-30	689-690	,	_	_	
+14-31	691-692	.	_	_	
+
+#Text=The Lord Advocate of Scotland obtained leave to bring in a bill for uniting the benefits of Jury Trial in civil causes with the ordinary jurisdiction of the Court of Session, and for making certain other alterations and reductions in the judicial establishments of Scotland. .Mr.
+15-1	693-696	The	_	_	
+15-2	697-701	Lord	_	_	
+15-3	702-710	Advocate	_	_	
+15-4	711-713	of	_	_	
+15-5	714-722	Scotland	https://en.wikipedia.org/wiki/Scotland	LOC	
+15-6	723-731	obtained	_	_	
+15-7	732-737	leave	_	_	
+15-8	738-740	to	_	_	
+15-9	741-746	bring	_	_	
+15-10	747-749	in	_	_	
+15-11	750-751	a	_	_	
+15-12	752-756	bill	_	_	
+15-13	757-760	for	_	_	
+15-14	761-768	uniting	_	_	
+15-15	769-772	the	_	_	
+15-16	773-781	benefits	_	_	
+15-17	782-784	of	_	_	
+15-18	785-789	Jury	_	_	
+15-19	790-795	Trial	_	_	
+15-20	796-798	in	_	_	
+15-21	799-804	civil	_	_	
+15-22	805-811	causes	_	_	
+15-23	812-816	with	_	_	
+15-24	817-820	the	_	_	
+15-25	821-829	ordinary	_	_	
+15-26	830-842	jurisdiction	_	_	
+15-27	843-845	of	_	_	
+15-28	846-849	the	_	_	
+15-29	850-855	Court	_	_	
+15-30	856-858	of	_	_	
+15-31	859-866	Session	_	_	
+15-32	866-867	,	_	_	
+15-33	868-871	and	_	_	
+15-34	872-875	for	_	_	
+15-35	876-882	making	_	_	
+15-36	883-890	certain	_	_	
+15-37	891-896	other	_	_	
+15-38	897-908	alterations	_	_	
+15-39	909-912	and	_	_	
+15-40	913-923	reductions	_	_	
+15-41	924-926	in	_	_	
+15-42	927-930	the	_	_	
+15-43	931-939	judicial	_	_	
+15-44	940-954	establishments	_	_	
+15-45	955-957	of	_	_	
+15-46	958-966	Scotland	https://en.wikipedia.org/wiki/Scotland	LOC	
+15-47	966-967	.	_	_	
+15-48	968-969	.	_	_	
+15-49	969-971	Mr	_	_	
+15-50	971-972	.	_	_	
+
+#Text=Robinson rose pursuant to notice to move a resolution for the reduction of taxes, but the lateness of the hour rendered it impossible to do justice to the subject; the hon. member therefore postponed his motion.
+16-1	973-981	Robinson	_	_	
+16-2	982-986	rose	_	_	
+16-3	987-995	pursuant	_	_	
+16-4	996-998	to	_	_	
+16-5	999-1005	notice	_	_	
+16-6	1006-1008	to	_	_	
+16-7	1009-1013	move	_	_	
+16-8	1014-1015	a	_	_	
+16-9	1016-1026	resolution	_	_	
+16-10	1027-1030	for	_	_	
+16-11	1031-1034	the	_	_	
+16-12	1035-1044	reduction	_	_	
+16-13	1045-1047	of	_	_	
+16-14	1048-1053	taxes	_	_	
+16-15	1053-1054	,	_	_	
+16-16	1055-1058	but	_	_	
+16-17	1059-1062	the	_	_	
+16-18	1063-1071	lateness	_	_	
+16-19	1072-1074	of	_	_	
+16-20	1075-1078	the	_	_	
+16-21	1079-1083	hour	_	_	
+16-22	1084-1092	rendered	_	_	
+16-23	1093-1095	it	_	_	
+16-24	1096-1106	impossible	_	_	
+16-25	1107-1109	to	_	_	
+16-26	1110-1112	do	_	_	
+16-27	1113-1120	justice	_	_	
+16-28	1121-1123	to	_	_	
+16-29	1124-1127	the	_	_	
+16-30	1128-1135	subject	_	_	
+16-31	1135-1136	;	_	_	
+16-32	1137-1140	the	_	_	
+16-33	1141-1144	hon	_	_	
+16-34	1144-1145	.	_	_	
+16-35	1146-1152	member	_	_	
+16-36	1153-1162	therefore	_	_	
+16-37	1163-1172	postponed	_	_	
+16-38	1173-1176	his	_	_	
+16-39	1177-1183	motion	_	_	
+16-40	1183-1184	.	_	_	

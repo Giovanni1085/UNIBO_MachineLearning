@@ -1,0 +1,497 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=TAUNTON.
+1-1	0-7	TAUNTON	https://en.wikipedia.org/wiki/Taunton	LOC	
+1-2	7-8	.	_	_	
+
+#Text=Thk Holidays.
+2-1	10-13	Thk	_	_	
+2-2	14-22	Holidays	_	_	
+2-3	22-23	.	_	_	
+
+#Text=—The tradesmen of this town have agreed to entirely suspend business on Monday and Tuesday next.
+3-1	23-24	—	_	_	
+3-2	24-27	The	_	_	
+3-3	28-37	tradesmen	_	_	
+3-4	38-40	of	_	_	
+3-5	41-45	this	_	_	
+3-6	46-50	town	_	_	
+3-7	51-55	have	_	_	
+3-8	56-62	agreed	_	_	
+3-9	63-65	to	_	_	
+3-10	66-74	entirely	_	_	
+3-11	75-82	suspend	_	_	
+3-12	83-91	business	_	_	
+3-13	92-94	on	_	_	
+3-14	95-101	Monday	_	_	
+3-15	102-105	and	_	_	
+3-16	106-113	Tuesday	_	_	
+3-17	114-118	next	_	_	
+3-18	118-119	.	_	_	
+
+#Text=The Bbitish Schools.
+4-1	120-123	The	_	_	
+4-2	124-131	Bbitish	_	_	
+4-3	132-139	Schools	_	_	
+4-4	139-140	.	_	_	
+
+#Text=—The Committee of Council on Education have presented a favourable report with regard to these schools.
+5-1	140-141	—	_	_	
+5-2	141-144	The	_	_	
+5-3	145-154	Committee	_	_	
+5-4	155-157	of	_	_	
+5-5	158-165	Council	_	_	
+5-6	166-168	on	_	_	
+5-7	169-178	Education	_	_	
+5-8	179-183	have	_	_	
+5-9	184-193	presented	_	_	
+5-10	194-195	a	_	_	
+5-11	196-206	favourable	_	_	
+5-12	207-213	report	_	_	
+5-13	214-218	with	_	_	
+5-14	219-225	regard	_	_	
+5-15	226-228	to	_	_	
+5-16	229-234	these	_	_	
+5-17	235-242	schools	_	_	
+5-18	242-243	.	_	_	
+
+#Text=Christmas Show Mabbket.
+6-1	244-253	Christmas	_	_	
+6-2	254-258	Show	_	_	
+6-3	259-266	Mabbket	_	_	
+6-4	266-267	.	_	_	
+
+#Text=—Our market on Saturday last presented a perfect picture, and was crowded with those articles required for the sustenance of man at the approaching festive season.
+7-1	267-268	—	_	_	
+7-2	268-271	Our	_	_	
+7-3	272-278	market	_	_	
+7-4	279-281	on	_	_	
+7-5	282-290	Saturday	_	_	
+7-6	291-295	last	_	_	
+7-7	296-305	presented	_	_	
+7-8	306-307	a	_	_	
+7-9	308-315	perfect	_	_	
+7-10	316-323	picture	_	_	
+7-11	323-324	,	_	_	
+7-12	325-328	and	_	_	
+7-13	329-332	was	_	_	
+7-14	333-340	crowded	_	_	
+7-15	341-345	with	_	_	
+7-16	346-351	those	_	_	
+7-17	352-360	articles	_	_	
+7-18	361-369	required	_	_	
+7-19	370-373	for	_	_	
+7-20	374-377	the	_	_	
+7-21	378-388	sustenance	_	_	
+7-22	389-391	of	_	_	
+7-23	392-395	man	_	_	
+7-24	396-398	at	_	_	
+7-25	399-402	the	_	_	
+7-26	403-414	approaching	_	_	
+7-27	415-422	festive	_	_	
+7-28	423-429	season	_	_	
+7-29	429-430	.	_	_	
+
+#Text=High prices were demanded, and of course paid.
+8-1	431-435	High	_	_	
+8-2	436-442	prices	_	_	
+8-3	443-447	were	_	_	
+8-4	448-456	demanded	_	_	
+8-5	456-457	,	_	_	
+8-6	458-461	and	_	_	
+8-7	462-464	of	_	_	
+8-8	465-471	course	_	_	
+8-9	472-476	paid	_	_	
+8-10	476-477	.	_	_	
+
+#Text=Concebts.
+9-1	478-486	Concebts	_	_	
+9-2	486-487	.	_	_	
+
+#Text=—Two concerts were given on Tuesday in aid of the funds for the erection of a new organ in the church of the neighbouring parish of Bradford.
+10-1	487-488	—	_	_	
+10-2	488-491	Two	_	_	
+10-3	492-500	concerts	_	_	
+10-4	501-505	were	_	_	
+10-5	506-511	given	_	_	
+10-6	512-514	on	_	_	
+10-7	515-522	Tuesday	_	_	
+10-8	523-525	in	_	_	
+10-9	526-529	aid	_	_	
+10-10	530-532	of	_	_	
+10-11	533-536	the	_	_	
+10-12	537-542	funds	_	_	
+10-13	543-546	for	_	_	
+10-14	547-550	the	_	_	
+10-15	551-559	erection	_	_	
+10-16	560-562	of	_	_	
+10-17	563-564	a	_	_	
+10-18	565-568	new	_	_	
+10-19	569-574	organ	_	_	
+10-20	575-577	in	_	_	
+10-21	578-581	the	_	_	
+10-22	582-588	church	_	_	
+10-23	589-591	of	_	_	
+10-24	592-595	the	_	_	
+10-25	596-608	neighbouring	_	_	
+10-26	609-615	parish	_	_	
+10-27	616-618	of	_	_	
+10-28	619-627	Bradford	https://en.wikipedia.org/wiki/Bradford-on-Tone	LOC	
+10-29	627-628	.	_	_	
+
+#Text=Mr.
+11-1	629-631	Mr	_	_	
+11-2	631-632	.	_	_	
+
+#Text=Webber, the Misses Oram, and Miss Vinnicombe, professionals, from Taunton, assisted, and the result was tbe addition of £40 to tbe funds.
+12-1	633-639	Webber	_	_	
+12-2	639-640	,	_	_	
+12-3	641-644	the	_	_	
+12-4	645-651	Misses	_	_	
+12-5	652-656	Oram	_	_	
+12-6	656-657	,	_	_	
+12-7	658-661	and	_	_	
+12-8	662-666	Miss	_	_	
+12-9	667-677	Vinnicombe	_	_	
+12-10	677-678	,	_	_	
+12-11	679-692	professionals	_	_	
+12-12	692-693	,	_	_	
+12-13	694-698	from	_	_	
+12-14	699-706	Taunton	https://en.wikipedia.org/wiki/Taunton	LOC	
+12-15	706-707	,	_	_	
+12-16	708-716	assisted	_	_	
+12-17	716-717	,	_	_	
+12-18	718-721	and	_	_	
+12-19	722-725	the	_	_	
+12-20	726-732	result	_	_	
+12-21	733-736	was	_	_	
+12-22	737-740	tbe	_	_	
+12-23	741-749	addition	_	_	
+12-24	750-752	of	_	_	
+12-25	753-756	£40	_	_	
+12-26	757-759	to	_	_	
+12-27	760-763	tbe	_	_	
+12-28	764-769	funds	_	_	
+12-29	769-770	.	_	_	
+
+#Text=Sebious Accident.
+13-1	771-778	Sebious	_	_	
+13-2	779-787	Accident	_	_	
+13-3	787-788	.	_	_	
+
+#Text=—A serious accident befel Mr.
+14-1	788-789	—	_	_	
+14-2	789-790	A	_	_	
+14-3	791-798	serious	_	_	
+14-4	799-807	accident	_	_	
+14-5	808-813	befel	_	_	
+14-6	814-816	Mr	_	_	
+14-7	816-817	.	_	_	
+
+#Text=Pyne, baker, High-street, on Friday evening.
+15-1	818-822	Pyne	_	_	
+15-2	822-823	,	_	_	
+15-3	824-829	baker	_	_	
+15-4	829-830	,	_	_	
+15-5	831-842	High-street	*	STREET	
+15-6	842-843	,	_	_	
+15-7	844-846	on	_	_	
+15-8	847-853	Friday	_	_	
+15-9	854-861	evening	_	_	
+15-10	861-862	.	_	_	
+
+#Text=The pony he was driving ran away and upset the cart, throwing him and his youthful son to the ground.
+16-1	863-866	The	_	_	
+16-2	867-871	pony	_	_	
+16-3	872-874	he	_	_	
+16-4	875-878	was	_	_	
+16-5	879-886	driving	_	_	
+16-6	887-890	ran	_	_	
+16-7	891-895	away	_	_	
+16-8	896-899	and	_	_	
+16-9	900-905	upset	_	_	
+16-10	906-909	the	_	_	
+16-11	910-914	cart	_	_	
+16-12	914-915	,	_	_	
+16-13	916-924	throwing	_	_	
+16-14	925-928	him	_	_	
+16-15	929-932	and	_	_	
+16-16	933-936	his	_	_	
+16-17	937-945	youthful	_	_	
+16-18	946-949	son	_	_	
+16-19	950-952	to	_	_	
+16-20	953-956	the	_	_	
+16-21	957-963	ground	_	_	
+16-22	963-964	.	_	_	
+
+#Text=Mr.
+17-1	965-967	Mr	_	_	
+17-2	967-968	.	_	_	
+
+#Text=Pyne was seriously iujured, and also sustained a com. pound fracture of one of his legs.
+18-1	969-973	Pyne	_	_	
+18-2	974-977	was	_	_	
+18-3	978-987	seriously	_	_	
+18-4	988-995	iujured	_	_	
+18-5	995-996	,	_	_	
+18-6	997-1000	and	_	_	
+18-7	1001-1005	also	_	_	
+18-8	1006-1015	sustained	_	_	
+18-9	1016-1017	a	_	_	
+18-10	1018-1021	com	_	_	
+18-11	1021-1022	.	_	_	
+18-12	1023-1028	pound	_	_	
+18-13	1029-1037	fracture	_	_	
+18-14	1038-1040	of	_	_	
+18-15	1041-1044	one	_	_	
+18-16	1045-1047	of	_	_	
+18-17	1048-1051	his	_	_	
+18-18	1052-1056	legs	_	_	
+18-19	1056-1057	.	_	_	
+
+#Text=His son fortunately escaped with a few slight contusions.
+19-1	1058-1061	His	_	_	
+19-2	1062-1065	son	_	_	
+19-3	1066-1077	fortunately	_	_	
+19-4	1078-1085	escaped	_	_	
+19-5	1086-1090	with	_	_	
+19-6	1091-1092	a	_	_	
+19-7	1093-1096	few	_	_	
+19-8	1097-1103	slight	_	_	
+19-9	1104-1114	contusions	_	_	
+19-10	1114-1115	.	_	_	
+
+#Text=Concert in Aid ob the Hospital.
+20-1	1116-1123	Concert	_	_	
+20-2	1124-1126	in	_	_	
+20-3	1127-1130	Aid	_	_	
+20-4	1131-1133	ob	_	_	
+20-5	1134-1137	the	_	_	
+20-6	1138-1146	Hospital	_	_	
+20-7	1146-1147	.	_	_	
+
+#Text=—Mr.
+21-1	1147-1148	—	_	_	
+21-2	1148-1150	Mr	_	_	
+21-3	1150-1151	.	_	_	
+
+#Text=Gunn, the talented master of our School of Art, is endeavouring to get up a concert on a grand scale in aid of the funds of the Taunton and Somerset Hospital, which are at present at a somewhat low ebb.
+22-1	1152-1156	Gunn	_	_	
+22-2	1156-1157	,	_	_	
+22-3	1158-1161	the	_	_	
+22-4	1162-1170	talented	_	_	
+22-5	1171-1177	master	_	_	
+22-6	1178-1180	of	_	_	
+22-7	1181-1184	our	_	_	
+22-8	1185-1191	School	*[1]	BUILDING[1]	
+22-9	1192-1194	of	*[1]	BUILDING[1]	
+22-10	1195-1198	Art	*[1]	BUILDING[1]	
+22-11	1198-1199	,	_	_	
+22-12	1200-1202	is	_	_	
+22-13	1203-1215	endeavouring	_	_	
+22-14	1216-1218	to	_	_	
+22-15	1219-1222	get	_	_	
+22-16	1223-1225	up	_	_	
+22-17	1226-1227	a	_	_	
+22-18	1228-1235	concert	_	_	
+22-19	1236-1238	on	_	_	
+22-20	1239-1240	a	_	_	
+22-21	1241-1246	grand	_	_	
+22-22	1247-1252	scale	_	_	
+22-23	1253-1255	in	_	_	
+22-24	1256-1259	aid	_	_	
+22-25	1260-1262	of	_	_	
+22-26	1263-1266	the	_	_	
+22-27	1267-1272	funds	_	_	
+22-28	1273-1275	of	_	_	
+22-29	1276-1279	the	_	_	
+22-30	1280-1287	Taunton	_	_	
+22-31	1288-1291	and	_	_	
+22-32	1292-1300	Somerset	_	_	
+22-33	1301-1309	Hospital	_	_	
+22-34	1309-1310	,	_	_	
+22-35	1311-1316	which	_	_	
+22-36	1317-1320	are	_	_	
+22-37	1321-1323	at	_	_	
+22-38	1324-1331	present	_	_	
+22-39	1332-1334	at	_	_	
+22-40	1335-1336	a	_	_	
+22-41	1337-1345	somewhat	_	_	
+22-42	1346-1349	low	_	_	
+22-43	1350-1353	ebb	_	_	
+22-44	1353-1354	.	_	_	
+
+#Text=We need scarcely say that we wish him every success, more especially when we consider the object is that of the relief of the sufferings of the poor and distressed.
+23-1	1355-1357	We	_	_	
+23-2	1358-1362	need	_	_	
+23-3	1363-1371	scarcely	_	_	
+23-4	1372-1375	say	_	_	
+23-5	1376-1380	that	_	_	
+23-6	1381-1383	we	_	_	
+23-7	1384-1388	wish	_	_	
+23-8	1389-1392	him	_	_	
+23-9	1393-1398	every	_	_	
+23-10	1399-1406	success	_	_	
+23-11	1406-1407	,	_	_	
+23-12	1408-1412	more	_	_	
+23-13	1413-1423	especially	_	_	
+23-14	1424-1428	when	_	_	
+23-15	1429-1431	we	_	_	
+23-16	1432-1440	consider	_	_	
+23-17	1441-1444	the	_	_	
+23-18	1445-1451	object	_	_	
+23-19	1452-1454	is	_	_	
+23-20	1455-1459	that	_	_	
+23-21	1460-1462	of	_	_	
+23-22	1463-1466	the	_	_	
+23-23	1467-1473	relief	_	_	
+23-24	1474-1476	of	_	_	
+23-25	1477-1480	the	_	_	
+23-26	1481-1491	sufferings	_	_	
+23-27	1492-1494	of	_	_	
+23-28	1495-1498	the	_	_	
+23-29	1499-1503	poor	_	_	
+23-30	1504-1507	and	_	_	
+23-31	1508-1518	distressed	_	_	
+23-32	1518-1519	.	_	_	
+
+#Text=The Amebican Wab and its Cause.
+24-1	1520-1523	The	_	_	
+24-2	1524-1532	Amebican	_	_	
+24-3	1533-1536	Wab	_	_	
+24-4	1537-1540	and	_	_	
+24-5	1541-1544	its	_	_	
+24-6	1545-1550	Cause	_	_	
+24-7	1550-1551	.	_	_	
+
+#Text=—Mr.
+25-1	1551-1552	—	_	_	
+25-2	1552-1554	Mr	_	_	
+25-3	1554-1555	.	_	_	
+
+#Text=Harring. ton, a native of South Carolina, delivered a highly interesting lecture on Thursday evening, at tbe Assembly Rooms, on " The American War and its Cause."
+26-1	1556-1563	Harring	_	_	
+26-2	1563-1564	.	_	_	
+26-3	1565-1568	ton	_	_	
+26-4	1568-1569	,	_	_	
+26-5	1570-1571	a	_	_	
+26-6	1572-1578	native	_	_	
+26-7	1579-1581	of	_	_	
+26-8	1582-1587	South	https://en.wikipedia.org/wiki/South\_Carolina[2]	LOC[2]	
+26-9	1588-1596	Carolina	https://en.wikipedia.org/wiki/South\_Carolina[2]	LOC[2]	
+26-10	1596-1597	,	_	_	
+26-11	1598-1607	delivered	_	_	
+26-12	1608-1609	a	_	_	
+26-13	1610-1616	highly	_	_	
+26-14	1617-1628	interesting	_	_	
+26-15	1629-1636	lecture	_	_	
+26-16	1637-1639	on	_	_	
+26-17	1640-1648	Thursday	_	_	
+26-18	1649-1656	evening	_	_	
+26-19	1656-1657	,	_	_	
+26-20	1658-1660	at	_	_	
+26-21	1661-1664	tbe	_	_	
+26-22	1665-1673	Assembly	*[3]	BUILDING[3]	
+26-23	1674-1679	Rooms	*[3]	BUILDING[3]	
+26-24	1679-1680	,	_	_	
+26-25	1681-1683	on	_	_	
+26-26	1684-1685	"	_	_	
+26-27	1686-1689	The	_	_	
+26-28	1690-1698	American	_	_	
+26-29	1699-1702	War	_	_	
+26-30	1703-1706	and	_	_	
+26-31	1707-1710	its	_	_	
+26-32	1711-1716	Cause	_	_	
+26-33	1716-1717	.	_	_	
+26-34	1717-1718	"	_	_	
+
+#Text=Mr.
+27-1	1719-1721	Mr	_	_	
+27-2	1721-1722	.	_	_	
+
+#Text=Harrington is a genuine Southerner, and of course his sympathies are with the Southerners.
+28-1	1723-1733	Harrington	_	_	
+28-2	1734-1736	is	_	_	
+28-3	1737-1738	a	_	_	
+28-4	1739-1746	genuine	_	_	
+28-5	1747-1757	Southerner	_	_	
+28-6	1757-1758	,	_	_	
+28-7	1759-1762	and	_	_	
+28-8	1763-1765	of	_	_	
+28-9	1766-1772	course	_	_	
+28-10	1773-1776	his	_	_	
+28-11	1777-1787	sympathies	_	_	
+28-12	1788-1791	are	_	_	
+28-13	1792-1796	with	_	_	
+28-14	1797-1800	the	_	_	
+28-15	1801-1812	Southerners	_	_	
+28-16	1812-1813	.	_	_	
+
+#Text=He threw the whole blame of the war upon the Northerners, whom he protested would never subjugate the Southerners, who were fighting for what was dear to them—their liberty and independence.
+29-1	1814-1816	He	_	_	
+29-2	1817-1822	threw	_	_	
+29-3	1823-1826	the	_	_	
+29-4	1827-1832	whole	_	_	
+29-5	1833-1838	blame	_	_	
+29-6	1839-1841	of	_	_	
+29-7	1842-1845	the	_	_	
+29-8	1846-1849	war	_	_	
+29-9	1850-1854	upon	_	_	
+29-10	1855-1858	the	_	_	
+29-11	1859-1870	Northerners	_	_	
+29-12	1870-1871	,	_	_	
+29-13	1872-1876	whom	_	_	
+29-14	1877-1879	he	_	_	
+29-15	1880-1889	protested	_	_	
+29-16	1890-1895	would	_	_	
+29-17	1896-1901	never	_	_	
+29-18	1902-1911	subjugate	_	_	
+29-19	1912-1915	the	_	_	
+29-20	1916-1927	Southerners	_	_	
+29-21	1927-1928	,	_	_	
+29-22	1929-1932	who	_	_	
+29-23	1933-1937	were	_	_	
+29-24	1938-1946	fighting	_	_	
+29-25	1947-1950	for	_	_	
+29-26	1951-1955	what	_	_	
+29-27	1956-1959	was	_	_	
+29-28	1960-1964	dear	_	_	
+29-29	1965-1967	to	_	_	
+29-30	1968-1978	them—their	_	_	
+29-31	1979-1986	liberty	_	_	
+29-32	1987-1990	and	_	_	
+29-33	1991-2003	independence	_	_	
+29-34	2003-2004	.	_	_	
+
+#Text=The vicar of St.
+30-1	2005-2008	The	_	_	
+30-2	2009-2014	vicar	_	_	
+30-3	2015-2017	of	_	_	
+30-4	2018-2020	St	https://en.wikipedia.org/wiki/St\_Mary\_Magdalene,\_Taunton[4]	BUILDING[4]	
+30-5	2020-2021	.	https://en.wikipedia.org/wiki/St\_Mary\_Magdalene,\_Taunton[4]	BUILDING[4]	
+
+#Text=Marys, the Rev.
+31-1	2022-2027	Marys	https://en.wikipedia.org/wiki/St\_Mary\_Magdalene,\_Taunton[4]	BUILDING[4]	
+31-2	2027-2028	,	_	_	
+31-3	2029-2032	the	_	_	
+31-4	2033-2036	Rev	_	_	
+31-5	2036-2037	.	_	_	
+
+#Text=W.
+32-1	2038-2039	W	_	_	
+32-2	2039-2040	.	_	_	
+
+#Text=R.
+33-1	2041-2042	R	_	_	
+33-2	2042-2043	.	_	_	
+
+#Text=Clark, presided on the occasion.
+34-1	2044-2049	Clark	_	_	
+34-2	2049-2050	,	_	_	
+34-3	2051-2059	presided	_	_	
+34-4	2060-2062	on	_	_	
+34-5	2063-2066	the	_	_	
+34-6	2067-2075	occasion	_	_	
+34-7	2075-2076	.	_	_	

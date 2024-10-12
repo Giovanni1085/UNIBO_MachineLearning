@@ -1,0 +1,702 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=*l7a/I.
+1-1	0-1	*	_	_	
+1-2	1-4	l7a	_	_	
+1-3	4-5	/	_	_	
+1-4	5-6	I	_	_	
+1-5	6-7	.	_	_	
+
+#Text=V ( h i ESTE J{, TUESDAY, DEC. aj._.
+2-1	8-9	V	_	_	
+2-2	10-11	(	_	_	
+2-3	12-13	h	_	_	
+2-4	14-15	i	_	_	
+2-5	16-20	ESTE	_	_	
+2-6	21-22	J	_	_	
+2-7	22-23	{	_	_	
+2-8	23-24	,	_	_	
+2-9	25-32	TUESDAY	_	_	
+2-10	32-33	,	_	_	
+2-11	34-37	DEC	_	_	
+2-12	37-38	.	_	_	
+2-13	39-41	aj	_	_	
+2-14	41-42	.	_	_	
+2-15	42-43	_	_	_	
+2-16	43-44	.	_	_	
+
+#Text=BIRTHS.
+3-1	45-51	BIRTHS	_	_	
+3-2	51-52	.	_	_	
+
+#Text=On Thursday re’nnlght, Mr« Potter wife of Mr James Potter, of Spoffbrth, tier Wsthcrhy, Safely delivered of 111/1-e fine girl*, who, with the mother, are doing well —On Wednesday se-’nnight, the Lady of Sir Francis Bind tt, B..rt. of a daughter. married. l ately, the Rev.
+4-1	53-55	On	_	_	
+4-2	56-64	Thursday	_	_	
+4-3	65-67	re	_	_	
+4-4	67-68	’	_	_	
+4-5	68-74	nnlght	_	_	
+4-6	74-75	,	_	_	
+4-7	76-78	Mr	_	_	
+4-8	78-79	«	_	_	
+4-9	80-86	Potter	_	_	
+4-10	87-91	wife	_	_	
+4-11	92-94	of	_	_	
+4-12	95-97	Mr	_	_	
+4-13	98-103	James	_	_	
+4-14	104-110	Potter	_	_	
+4-15	110-111	,	_	_	
+4-16	112-114	of	_	_	
+4-17	115-124	Spoffbrth	https://en.wikipedia.org/wiki/Spofforth,\_North\_Yorkshire	LOC	
+4-18	124-125	,	_	_	
+4-19	126-130	tier	_	_	
+4-20	131-139	Wsthcrhy	https://en.wikipedia.org/wiki/Wetherby	LOC	
+4-21	139-140	,	_	_	
+4-22	141-147	Safely	_	_	
+4-23	148-157	delivered	_	_	
+4-24	158-160	of	_	_	
+4-25	161-164	111	_	_	
+4-26	164-165	/	_	_	
+4-27	165-166	1	_	_	
+4-28	166-167	-	_	_	
+4-29	167-168	e	_	_	
+4-30	169-173	fine	_	_	
+4-31	174-178	girl	_	_	
+4-32	178-179	*	_	_	
+4-33	179-180	,	_	_	
+4-34	181-184	who	_	_	
+4-35	184-185	,	_	_	
+4-36	186-190	with	_	_	
+4-37	191-194	the	_	_	
+4-38	195-201	mother	_	_	
+4-39	201-202	,	_	_	
+4-40	203-206	are	_	_	
+4-41	207-212	doing	_	_	
+4-42	213-217	well	_	_	
+4-43	218-219	—	_	_	
+4-44	219-221	On	_	_	
+4-45	222-231	Wednesday	_	_	
+4-46	232-234	se	_	_	
+4-47	234-235	-	_	_	
+4-48	235-236	’	_	_	
+4-49	236-242	nnight	_	_	
+4-50	242-243	,	_	_	
+4-51	244-247	the	_	_	
+4-52	248-252	Lady	_	_	
+4-53	253-255	of	_	_	
+4-54	256-259	Sir	_	_	
+4-55	260-267	Francis	_	_	
+4-56	268-272	Bind	_	_	
+4-57	273-275	tt	_	_	
+4-58	275-276	,	_	_	
+4-59	277-278	B	_	_	
+4-60	278-279	.	_	_	
+4-61	279-280	.	_	_	
+4-62	280-282	rt	_	_	
+4-63	282-283	.	_	_	
+4-64	284-286	of	_	_	
+4-65	287-288	a	_	_	
+4-66	289-297	daughter	_	_	
+4-67	297-298	.	_	_	
+4-68	299-306	married	_	_	
+4-69	306-307	.	_	_	
+4-70	308-309	l	_	_	
+4-71	310-315	ately	_	_	
+4-72	315-316	,	_	_	
+4-73	317-320	the	_	_	
+4-74	321-324	Rev	_	_	
+4-75	324-325	.	_	_	
+
+#Text=J.
+5-1	326-327	J	_	_	
+5-2	327-328	.	_	_	
+
+#Text=Checbrongh, of Hnle-Hdl, Chediire, to Mi*s K.
+6-1	329-339	Checbrongh	_	_	
+6-2	339-340	,	_	_	
+6-3	341-343	of	_	_	
+6-4	344-352	Hnle-Hdl	*	LOC	
+6-5	352-353	,	_	_	
+6-6	354-362	Chediire	https://en.wikipedia.org/wiki/Cheshire	LOC	
+6-7	362-363	,	_	_	
+6-8	364-366	to	_	_	
+6-9	367-369	Mi	_	_	
+6-10	369-370	*	_	_	
+6-11	370-371	s	_	_	
+6-12	372-373	K	_	_	
+6-13	373-374	.	_	_	
+
+#Text=Sewell, youngc-t daughter of the Rev.
+7-1	375-381	Sewell	_	_	
+7-2	381-382	,	_	_	
+7-3	383-391	youngc-t	_	_	
+7-4	392-400	daughter	_	_	
+7-5	401-403	of	_	_	
+7-6	404-407	the	_	_	
+7-7	408-411	Rev	_	_	
+7-8	411-412	.	_	_	
+
+#Text=J.
+8-1	413-414	J	_	_	
+8-2	414-415	.	_	_	
+
+#Text=Sewell, of Kitncorn.
+9-1	416-422	Sewell	_	_	
+9-2	422-423	,	_	_	
+9-3	424-426	of	_	_	
+9-4	427-435	Kitncorn	https://en.wikipedia.org/wiki/Runcorn	LOC	
+9-5	435-436	.	_	_	
+
+#Text=—On Wednesday last at S*ockpoit, Mr John-on, to Mr* Scott, both of that place.
+10-1	436-437	—	_	_	
+10-2	437-439	On	_	_	
+10-3	440-449	Wednesday	_	_	
+10-4	450-454	last	_	_	
+10-5	455-457	at	_	_	
+10-6	458-459	S	https://en.wikipedia.org/wiki/Stockport[1]	LOC[1]	
+10-7	459-460	*	https://en.wikipedia.org/wiki/Stockport[1]	LOC[1]	
+10-8	460-467	ockpoit	https://en.wikipedia.org/wiki/Stockport[1]	LOC[1]	
+10-9	467-468	,	_	_	
+10-10	469-471	Mr	_	_	
+10-11	472-479	John-on	_	_	
+10-12	479-480	,	_	_	
+10-13	481-483	to	_	_	
+10-14	484-486	Mr	_	_	
+10-15	486-487	*	_	_	
+10-16	488-493	Scott	_	_	
+10-17	493-494	,	_	_	
+10-18	495-499	both	_	_	
+10-19	500-502	of	_	_	
+10-20	503-507	that	_	_	
+10-21	508-513	place	_	_	
+10-22	513-514	.	_	_	
+
+#Text=—On Sunday at Eerie*, Mr John Strett e, of Little Bo.ton, to M s« Ann Hunter, of the former place.
+11-1	515-516	—	_	_	
+11-2	516-518	On	_	_	
+11-3	519-525	Sunday	_	_	
+11-4	526-528	at	_	_	
+11-5	529-534	Eerie	https://en.wikipedia.org/wiki/Eccles,\_Greater\_Manchester[2]	LOC[2]	
+11-6	534-535	*	https://en.wikipedia.org/wiki/Eccles,\_Greater\_Manchester[2]	LOC[2]	
+11-7	535-536	,	_	_	
+11-8	537-539	Mr	_	_	
+11-9	540-544	John	_	_	
+11-10	545-551	Strett	_	_	
+11-11	552-553	e	_	_	
+11-12	553-554	,	_	_	
+11-13	555-557	of	_	_	
+11-14	558-564	Little	https://en.wikipedia.org/wiki/Little\_Bolton[3]	LOC[3]	
+11-15	565-571	Bo.ton	https://en.wikipedia.org/wiki/Little\_Bolton[3]	LOC[3]	
+11-16	571-572	,	_	_	
+11-17	573-575	to	_	_	
+11-18	576-577	M	_	_	
+11-19	578-579	s	_	_	
+11-20	579-580	«	_	_	
+11-21	581-584	Ann	_	_	
+11-22	585-591	Hunter	_	_	
+11-23	591-592	,	_	_	
+11-24	593-595	of	_	_	
+11-25	596-599	the	_	_	
+11-26	600-606	former	_	_	
+11-27	607-612	place	_	_	
+11-28	612-613	.	_	_	
+
+#Text=—At the Collegiate Church, Mr )>• *eph I.eather. to Mias Martha LovJ, both of thi* tow n—On Wednesday last at rlu- Collegiate Church, Mr Thomas Johnson, linen-draper, to Miss F.l a.ilieth Woodi-vis, both of this town.— On Friday, Mr Jim s Barnes, 0f Kendal, to Miss Mary-Ann Uylcy. of this town.
+12-1	613-614	—	_	_	
+12-2	614-616	At	_	_	
+12-3	617-620	the	_	_	
+12-4	621-631	Collegiate	*[4]	BUILDING[4]	
+12-5	632-638	Church	*[4]	BUILDING[4]	
+12-6	638-639	,	_	_	
+12-7	640-642	Mr	_	_	
+12-8	643-644	)	_	_	
+12-9	644-645	>	_	_	
+12-10	645-646	•	_	_	
+12-11	647-648	*	_	_	
+12-12	648-651	eph	_	_	
+12-13	652-660	I.eather	_	_	
+12-14	660-661	.	_	_	
+12-15	662-664	to	_	_	
+12-16	665-669	Mias	_	_	
+12-17	670-676	Martha	_	_	
+12-18	677-681	LovJ	_	_	
+12-19	681-682	,	_	_	
+12-20	683-687	both	_	_	
+12-21	688-690	of	_	_	
+12-22	691-694	thi	_	_	
+12-23	694-695	*	_	_	
+12-24	696-699	tow	_	_	
+12-25	700-704	n—On	_	_	
+12-26	705-714	Wednesday	_	_	
+12-27	715-719	last	_	_	
+12-28	720-722	at	_	_	
+12-29	723-726	rlu	_	_	
+12-30	726-727	-	_	_	
+12-31	728-738	Collegiate	*[5]	BUILDING[5]	
+12-32	739-745	Church	*[5]	BUILDING[5]	
+12-33	745-746	,	_	_	
+12-34	747-749	Mr	_	_	
+12-35	750-756	Thomas	_	_	
+12-36	757-764	Johnson	_	_	
+12-37	764-765	,	_	_	
+12-38	766-778	linen-draper	_	_	
+12-39	778-779	,	_	_	
+12-40	780-782	to	_	_	
+12-41	783-787	Miss	_	_	
+12-42	788-791	F.l	_	_	
+12-43	792-800	a.ilieth	_	_	
+12-44	801-810	Woodi-vis	_	_	
+12-45	810-811	,	_	_	
+12-46	812-816	both	_	_	
+12-47	817-819	of	_	_	
+12-48	820-824	this	_	_	
+12-49	825-829	town	_	_	
+12-50	829-830	.	_	_	
+12-51	830-831	—	_	_	
+12-52	832-834	On	_	_	
+12-53	835-841	Friday	_	_	
+12-54	841-842	,	_	_	
+12-55	843-845	Mr	_	_	
+12-56	846-849	Jim	_	_	
+12-57	850-851	s	_	_	
+12-58	852-858	Barnes	_	_	
+12-59	858-859	,	_	_	
+12-60	860-862	0f	_	_	
+12-61	863-869	Kendal	https://en.wikipedia.org/wiki/Kendal	LOC	
+12-62	869-870	,	_	_	
+12-63	871-873	to	_	_	
+12-64	874-878	Miss	_	_	
+12-65	879-887	Mary-Ann	_	_	
+12-66	888-893	Uylcy	_	_	
+12-67	893-894	.	_	_	
+12-68	895-897	of	_	_	
+12-69	898-902	this	_	_	
+12-70	903-907	town	_	_	
+12-71	907-908	.	_	_	
+
+#Text=—Lately, Mr Jodiua Kidder, of N.
+13-1	908-909	—	_	_	
+13-2	909-915	Lately	_	_	
+13-3	915-916	,	_	_	
+13-4	917-919	Mr	_	_	
+13-5	920-926	Jodiua	_	_	
+13-6	927-933	Kidder	_	_	
+13-7	933-934	,	_	_	
+13-8	935-937	of	_	_	
+13-9	938-939	N	*[6]	LOC[6]	
+13-10	939-940	.	*[6]	LOC[6]	
+
+#Text=-w Mill, in the parish of Ashton-under-line, to Miss Ann Buckley ,o( Hoiliuwood.
+14-1	940-941	-	*[6]	LOC[6]	
+14-2	941-942	w	*[6]	LOC[6]	
+14-3	943-947	Mill	*[6]	LOC[6]	
+14-4	947-948	,	_	_	
+14-5	949-951	in	_	_	
+14-6	952-955	the	_	_	
+14-7	956-962	parish	_	_	
+14-8	963-965	of	_	_	
+14-9	966-983	Ashton-under-line	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+14-10	983-984	,	_	_	
+14-11	985-987	to	_	_	
+14-12	988-992	Miss	_	_	
+14-13	993-996	Ann	_	_	
+14-14	997-1004	Buckley	_	_	
+14-15	1005-1006	,	_	_	
+14-16	1006-1007	o	_	_	
+14-17	1007-1008	(	_	_	
+14-18	1009-1019	Hoiliuwood	https://en.wikipedia.org/wiki/Hollinwood,\_Greater\_Manchester	LOC	
+14-19	1019-1020	.	_	_	
+
+#Text=On VVednt-.d-iy sennin.ht. at Woodford, by the Rev.
+15-1	1021-1023	On	_	_	
+15-2	1024-1030	VVednt	_	_	
+15-3	1030-1031	-	_	_	
+15-4	1031-1032	.	_	_	
+15-5	1032-1036	d-iy	_	_	
+15-6	1037-1046	sennin.ht	_	_	
+15-7	1046-1047	.	_	_	
+15-8	1048-1050	at	_	_	
+15-9	1051-1059	Woodford	https://en.wikipedia.org/wiki/Woodford,\_Greater\_Manchester	LOC	
+15-10	1059-1060	,	_	_	
+15-11	1061-1063	by	_	_	
+15-12	1064-1067	the	_	_	
+15-13	1068-1071	Rev	_	_	
+15-14	1071-1072	.	_	_	
+
+#Text=John Peploe Mosley, William Henry Ashnrst, l-«q eldest son of St W ff.
+16-1	1073-1077	John	_	_	
+16-2	1078-1084	Peploe	_	_	
+16-3	1085-1091	Mosley	_	_	
+16-4	1091-1092	,	_	_	
+16-5	1093-1100	William	_	_	
+16-6	1101-1106	Henry	_	_	
+16-7	1107-1114	Ashnrst	_	_	
+16-8	1114-1115	,	_	_	
+16-9	1116-1117	l	_	_	
+16-10	1117-1118	-	_	_	
+16-11	1118-1119	«	_	_	
+16-12	1119-1120	q	_	_	
+16-13	1121-1127	eldest	_	_	
+16-14	1128-1131	son	_	_	
+16-15	1132-1134	of	_	_	
+16-16	1135-1137	St	_	_	
+16-17	1138-1139	W	_	_	
+16-18	1140-1142	ff	_	_	
+16-19	1142-1143	.	_	_	
+
+#Text=Ahurst, of Water-stock, Oxfordshire, to Mis* Mosley, sister of Sir Oswald Mosley, Bait. , DIED.
+17-1	1144-1150	Ahurst	_	_	
+17-2	1150-1151	,	_	_	
+17-3	1152-1154	of	_	_	
+17-4	1155-1166	Water-stock	https://en.wikipedia.org/wiki/Waterstock	LOC	
+17-5	1166-1167	,	_	_	
+17-6	1168-1179	Oxfordshire	https://en.wikipedia.org/wiki/Oxfordshire	LOC	
+17-7	1179-1180	,	_	_	
+17-8	1181-1183	to	_	_	
+17-9	1184-1187	Mis	_	_	
+17-10	1187-1188	*	_	_	
+17-11	1189-1195	Mosley	_	_	
+17-12	1195-1196	,	_	_	
+17-13	1197-1203	sister	_	_	
+17-14	1204-1206	of	_	_	
+17-15	1207-1210	Sir	_	_	
+17-16	1211-1217	Oswald	_	_	
+17-17	1218-1224	Mosley	_	_	
+17-18	1224-1225	,	_	_	
+17-19	1226-1230	Bait	_	_	
+17-20	1230-1231	.	_	_	
+17-21	1232-1233	,	_	_	
+17-22	1234-1238	DIED	_	_	
+17-23	1238-1239	.	_	_	
+
+#Text=A few days ago, John Jackson, Esq.
+18-1	1240-1241	A	_	_	
+18-2	1242-1245	few	_	_	
+18-3	1246-1250	days	_	_	
+18-4	1251-1254	ago	_	_	
+18-5	1254-1255	,	_	_	
+18-6	1256-1260	John	_	_	
+18-7	1261-1268	Jackson	_	_	
+18-8	1268-1269	,	_	_	
+18-9	1270-1273	Esq	_	_	
+18-10	1273-1274	.	_	_	
+
+#Text=Manager of the Theatre Royal, Edinburgh —On Friday se’nnight, at h!
+19-1	1275-1282	Manager	_	_	
+19-2	1283-1285	of	_	_	
+19-3	1286-1289	the	_	_	
+19-4	1290-1297	Theatre	https://en.wikipedia.org/wiki/Theatre\_Royal,\_Edinburgh[7]	BUILDING[7]	
+19-5	1298-1303	Royal	https://en.wikipedia.org/wiki/Theatre\_Royal,\_Edinburgh[7]	BUILDING[7]	
+19-6	1303-1304	,	_	_	
+19-7	1305-1314	Edinburgh	https://en.wikipedia.org/wiki/Edinburgh	LOC	
+19-8	1315-1316	—	_	_	
+19-9	1316-1318	On	_	_	
+19-10	1319-1325	Friday	_	_	
+19-11	1326-1328	se	_	_	
+19-12	1328-1329	’	_	_	
+19-13	1329-1335	nnight	_	_	
+19-14	1335-1336	,	_	_	
+19-15	1337-1339	at	_	_	
+19-16	1340-1341	h	_	_	
+19-17	1341-1342	!	_	_	
+
+#Text=s residence in St.
+20-1	1342-1343	s	_	_	
+20-2	1344-1353	residence	_	_	
+20-3	1354-1356	in	_	_	
+20-4	1357-1359	St	_	_	
+20-5	1359-1360	.	_	_	
+
+#Text=Mary Axe, London, a.cd 82, Joseph Denison, Esq.
+21-1	1361-1365	Mary	_	_	
+21-2	1366-1369	Axe	_	_	
+21-3	1369-1370	,	_	_	
+21-4	1371-1377	London	https://en.wikipedia.org/wiki/London	LOC	
+21-5	1377-1378	,	_	_	
+21-6	1379-1383	a.cd	_	_	
+21-7	1384-1386	82	_	_	
+21-8	1386-1387	,	_	_	
+21-9	1388-1394	Joseph	_	_	
+21-10	1395-1402	Denison	_	_	
+21-11	1402-1403	,	_	_	
+21-12	1404-1407	Esq	_	_	
+21-13	1407-1408	.	_	_	
+
+#Text=Merchant, father to the newly elected Member for Hull.
+22-1	1409-1417	Merchant	_	_	
+22-2	1417-1418	,	_	_	
+22-3	1419-1425	father	_	_	
+22-4	1426-1428	to	_	_	
+22-5	1429-1432	the	_	_	
+22-6	1433-1438	newly	_	_	
+22-7	1439-1446	elected	_	_	
+22-8	1447-1453	Member	_	_	
+22-9	1454-1457	for	_	_	
+22-10	1458-1462	Hull	_	_	
+22-11	1462-1463	.	_	_	
+
+#Text=He is reported to have left behind him property to the va| lue of oni million st Tin".
+23-1	1464-1466	He	_	_	
+23-2	1467-1469	is	_	_	
+23-3	1470-1478	reported	_	_	
+23-4	1479-1481	to	_	_	
+23-5	1482-1486	have	_	_	
+23-6	1487-1491	left	_	_	
+23-7	1492-1498	behind	_	_	
+23-8	1499-1502	him	_	_	
+23-9	1503-1511	property	_	_	
+23-10	1512-1514	to	_	_	
+23-11	1515-1518	the	_	_	
+23-12	1519-1521	va	_	_	
+23-13	1521-1522	|	_	_	
+23-14	1523-1526	lue	_	_	
+23-15	1527-1529	of	_	_	
+23-16	1530-1533	oni	_	_	
+23-17	1534-1541	million	_	_	
+23-18	1542-1544	st	_	_	
+23-19	1545-1548	Tin	_	_	
+23-20	1548-1549	"	_	_	
+23-21	1549-1550	.	_	_	
+
+#Text=—On Wednesday the Bd inst.
+24-1	1550-1551	—	_	_	
+24-2	1551-1553	On	_	_	
+24-3	1554-1563	Wednesday	_	_	
+24-4	1564-1567	the	_	_	
+24-5	1568-1570	Bd	_	_	
+24-6	1571-1575	inst	_	_	
+24-7	1575-1576	.	_	_	
+
+#Text=Mrs Barlow, wife of the Rev.
+25-1	1577-1580	Mrs	_	_	
+25-2	1581-1587	Barlow	_	_	
+25-3	1587-1588	,	_	_	
+25-4	1589-1593	wife	_	_	
+25-5	1594-1596	of	_	_	
+25-6	1597-1600	the	_	_	
+25-7	1601-1604	Rev	_	_	
+25-8	1604-1605	.	_	_	
+
+#Text=R.
+26-1	1606-1607	R	_	_	
+26-2	1607-1608	.	_	_	
+
+#Text=Batlpw, mas. j ter of Win wick school—On the 9th in-t. greatly j esteemed and regretted, Mr Thomas Sidebotharr, of I Warrington.
+27-1	1609-1615	Batlpw	_	_	
+27-2	1615-1616	,	_	_	
+27-3	1617-1620	mas	_	_	
+27-4	1620-1621	.	_	_	
+27-5	1622-1623	j	_	_	
+27-6	1624-1627	ter	_	_	
+27-7	1628-1630	of	_	_	
+27-8	1631-1634	Win	_	_	
+27-9	1635-1639	wick	_	_	
+27-10	1640-1649	school—On	_	_	
+27-11	1650-1653	the	_	_	
+27-12	1654-1657	9th	_	_	
+27-13	1658-1662	in-t	_	_	
+27-14	1662-1663	.	_	_	
+27-15	1664-1671	greatly	_	_	
+27-16	1672-1673	j	_	_	
+27-17	1674-1682	esteemed	_	_	
+27-18	1683-1686	and	_	_	
+27-19	1687-1696	regretted	_	_	
+27-20	1696-1697	,	_	_	
+27-21	1698-1700	Mr	_	_	
+27-22	1701-1707	Thomas	_	_	
+27-23	1708-1719	Sidebotharr	_	_	
+27-24	1719-1720	,	_	_	
+27-25	1721-1723	of	_	_	
+27-26	1724-1725	I	_	_	
+27-27	1726-1736	Warrington	https://en.wikipedia.org/wiki/Warrington	LOC	
+27-28	1736-1737	.	_	_	
+
+#Text=—Same day, generally te*prcted, Mr George Williamson, of King-streit, Salford.
+28-1	1737-1738	—	_	_	
+28-2	1738-1742	Same	_	_	
+28-3	1743-1746	day	_	_	
+28-4	1746-1747	,	_	_	
+28-5	1748-1757	generally	_	_	
+28-6	1758-1760	te	_	_	
+28-7	1760-1761	*	_	_	
+28-8	1761-1767	prcted	_	_	
+28-9	1767-1768	,	_	_	
+28-10	1769-1771	Mr	_	_	
+28-11	1772-1778	George	_	_	
+28-12	1779-1789	Williamson	_	_	
+28-13	1789-1790	,	_	_	
+28-14	1791-1793	of	_	_	
+28-15	1794-1805	King-streit	*	BUILDING	
+28-16	1805-1806	,	_	_	
+28-17	1807-1814	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+28-18	1814-1815	.	_	_	
+
+#Text=—On Friday- the ath in«t.
+29-1	1815-1816	—	_	_	
+29-2	1816-1818	On	_	_	
+29-3	1819-1825	Friday	_	_	
+29-4	1825-1826	-	_	_	
+29-5	1827-1830	the	_	_	
+29-6	1831-1834	ath	_	_	
+29-7	1835-1837	in	_	_	
+29-8	1837-1838	«	_	_	
+29-9	1838-1839	t	_	_	
+29-10	1839-1840	.	_	_	
+
+#Text=Mr Samuel VVillu, of the Angel Inn, Northwich.
+30-1	1841-1843	Mr	_	_	
+30-2	1844-1850	Samuel	_	_	
+30-3	1851-1857	VVillu	_	_	
+30-4	1857-1858	,	_	_	
+30-5	1859-1861	of	_	_	
+30-6	1862-1865	the	_	_	
+30-7	1866-1871	Angel	*[8]	BUILDING[8]	
+30-8	1872-1875	Inn	*[8]	BUILDING[8]	
+30-9	1875-1876	,	_	_	
+30-10	1877-1886	Northwich	https://en.wikipedia.org/wiki/Northwich	LOC	
+30-11	1886-1887	.	_	_	
+
+#Text=—On the 10th Inst, suddenly, Mr Benedict Paul Wagner, far advanced in years; he was the first merchant in the foreign line ever settled in Live.pool.
+31-1	1887-1888	—	_	_	
+31-2	1888-1890	On	_	_	
+31-3	1891-1894	the	_	_	
+31-4	1895-1899	10th	_	_	
+31-5	1900-1904	Inst	_	_	
+31-6	1904-1905	,	_	_	
+31-7	1906-1914	suddenly	_	_	
+31-8	1914-1915	,	_	_	
+31-9	1916-1918	Mr	_	_	
+31-10	1919-1927	Benedict	_	_	
+31-11	1928-1932	Paul	_	_	
+31-12	1933-1939	Wagner	_	_	
+31-13	1939-1940	,	_	_	
+31-14	1941-1944	far	_	_	
+31-15	1945-1953	advanced	_	_	
+31-16	1954-1956	in	_	_	
+31-17	1957-1962	years	_	_	
+31-18	1962-1963	;	_	_	
+31-19	1964-1966	he	_	_	
+31-20	1967-1970	was	_	_	
+31-21	1971-1974	the	_	_	
+31-22	1975-1980	first	_	_	
+31-23	1981-1989	merchant	_	_	
+31-24	1990-1992	in	_	_	
+31-25	1993-1996	the	_	_	
+31-26	1997-2004	foreign	_	_	
+31-27	2005-2009	line	_	_	
+31-28	2010-2014	ever	_	_	
+31-29	2015-2022	settled	_	_	
+31-30	2023-2025	in	_	_	
+31-31	2026-2035	Live.pool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+31-32	2035-2036	.	_	_	
+
+#Text=-On the 11th inst.
+32-1	2036-2037	-	_	_	
+32-2	2037-2039	On	_	_	
+32-3	2040-2043	the	_	_	
+32-4	2044-2048	11th	_	_	
+32-5	2049-2053	inst	_	_	
+32-6	2053-2054	.	_	_	
+
+#Text=Mrsß.ttye, w.fe of Mr lames Battye, of Lcvenshulrre, alter a long and painful indisposition, which she bore with foititude and resignation.
+33-1	2055-2064	Mrsß.ttye	_	_	
+33-2	2064-2065	,	_	_	
+33-3	2066-2070	w.fe	_	_	
+33-4	2071-2073	of	_	_	
+33-5	2074-2076	Mr	_	_	
+33-6	2077-2082	lames	_	_	
+33-7	2083-2089	Battye	_	_	
+33-8	2089-2090	,	_	_	
+33-9	2091-2093	of	_	_	
+33-10	2094-2106	Lcvenshulrre	https://en.wikipedia.org/wiki/Levenshulme	LOC	
+33-11	2106-2107	,	_	_	
+33-12	2108-2113	alter	_	_	
+33-13	2114-2115	a	_	_	
+33-14	2116-2120	long	_	_	
+33-15	2121-2124	and	_	_	
+33-16	2125-2132	painful	_	_	
+33-17	2133-2146	indisposition	_	_	
+33-18	2146-2147	,	_	_	
+33-19	2148-2153	which	_	_	
+33-20	2154-2157	she	_	_	
+33-21	2158-2162	bore	_	_	
+33-22	2163-2167	with	_	_	
+33-23	2168-2177	foititude	_	_	
+33-24	2178-2181	and	_	_	
+33-25	2182-2193	resignation	_	_	
+33-26	2193-2194	.	_	_	
+
+#Text=—On Thursday se’nnight, aged <>l, Mr Lancntcr, surgeon and man-midwife, of Black horn.
+34-1	2194-2195	—	_	_	
+34-2	2195-2197	On	_	_	
+34-3	2198-2206	Thursday	_	_	
+34-4	2207-2209	se	_	_	
+34-5	2209-2210	’	_	_	
+34-6	2210-2216	nnight	_	_	
+34-7	2216-2217	,	_	_	
+34-8	2218-2222	aged	_	_	
+34-9	2223-2224	<	_	_	
+34-10	2224-2225	>	_	_	
+34-11	2225-2226	l	_	_	
+34-12	2226-2227	,	_	_	
+34-13	2228-2230	Mr	_	_	
+34-14	2231-2239	Lancntcr	_	_	
+34-15	2239-2240	,	_	_	
+34-16	2241-2248	surgeon	_	_	
+34-17	2249-2252	and	_	_	
+34-18	2253-2264	man-midwife	_	_	
+34-19	2264-2265	,	_	_	
+34-20	2266-2268	of	_	_	
+34-21	2269-2274	Black	https://en.wikipedia.org/wiki/Blackburn[9]	LOC[9]	
+34-22	2275-2279	horn	https://en.wikipedia.org/wiki/Blackburn[9]	LOC[9]	
+34-23	2279-2280	.	_	_	
+
+#Text=—Same day, at Middlewich, after a { long illness.
+35-1	2280-2281	—	_	_	
+35-2	2281-2285	Same	_	_	
+35-3	2286-2289	day	_	_	
+35-4	2289-2290	,	_	_	
+35-5	2291-2293	at	_	_	
+35-6	2294-2304	Middlewich	https://en.wikipedia.org/wiki/Middlewich	LOC	
+35-7	2304-2305	,	_	_	
+35-8	2306-2311	after	_	_	
+35-9	2312-2313	a	_	_	
+35-10	2314-2315	{	_	_	
+35-11	2316-2320	long	_	_	
+35-12	2321-2328	illness	_	_	
+35-13	2328-2329	.	_	_	
+
+#Text=Mr I iiomas Beckett, timbcr-meichant.
+36-1	2330-2332	Mr	_	_	
+36-2	2333-2334	I	_	_	
+36-3	2335-2341	iiomas	_	_	
+36-4	2342-2349	Beckett	_	_	
+36-5	2349-2350	,	_	_	
+36-6	2351-2366	timbcr-meichant	_	_	
+36-7	2366-2367	.	_	_	
+
+#Text=—On Wednesday la-t, Mr* Dili-, wile of Mr Ollis, of the Crown and Anchor, Hilton-streei.
+37-1	2368-2369	—	_	_	
+37-2	2369-2371	On	_	_	
+37-3	2372-2381	Wednesday	_	_	
+37-4	2382-2386	la-t	_	_	
+37-5	2386-2387	,	_	_	
+37-6	2388-2390	Mr	_	_	
+37-7	2390-2391	*	_	_	
+37-8	2392-2396	Dili	_	_	
+37-9	2396-2397	-	_	_	
+37-10	2397-2398	,	_	_	
+37-11	2399-2403	wile	_	_	
+37-12	2404-2406	of	_	_	
+37-13	2407-2409	Mr	_	_	
+37-14	2410-2415	Ollis	_	_	
+37-15	2415-2416	,	_	_	
+37-16	2417-2419	of	_	_	
+37-17	2420-2423	the	_	_	
+37-18	2424-2429	Crown	*[10]	BUILDING[10]	
+37-19	2430-2433	and	*[10]	BUILDING[10]	
+37-20	2434-2440	Anchor	*[10]	BUILDING[10]	
+37-21	2440-2441	,	_	_	
+37-22	2442-2455	Hilton-streei	*	STREET	
+37-23	2455-2456	.	_	_	

@@ -1,0 +1,361 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ETSHIRE GAZETTE.
+1-1	0-7	ETSHIRE	*	LOC	
+1-2	8-15	GAZETTE	_	_	
+1-3	15-16	.	_	_	
+
+#Text=Hje Rev.
+2-1	18-21	Hje	_	_	
+2-2	22-25	Rev	_	_	
+2-3	25-26	.	_	_	
+
+#Text=John Parsons moved a vote of thanks to the Branches, and the Ladies Associations.
+3-1	27-31	John	_	_	
+3-2	32-39	Parsons	_	_	
+3-3	40-45	moved	_	_	
+3-4	46-47	a	_	_	
+3-5	48-52	vote	_	_	
+3-6	53-55	of	_	_	
+3-7	56-62	thanks	_	_	
+3-8	63-65	to	_	_	
+3-9	66-69	the	_	_	
+3-10	70-78	Branches	_	_	
+3-11	78-79	,	_	_	
+3-12	80-83	and	_	_	
+3-13	84-87	the	_	_	
+3-14	88-94	Ladies	_	_	
+3-15	95-107	Associations	_	_	
+3-16	107-108	.	_	_	
+
+#Text=The Rev.
+4-1	110-113	The	_	_	
+4-2	114-117	Rev	_	_	
+4-3	117-118	.	_	_	
+
+#Text=Godhart seconded the proposition in a speech replete with Christian feeling.
+5-1	119-126	Godhart	_	_	
+5-2	127-135	seconded	_	_	
+5-3	136-139	the	_	_	
+5-4	140-151	proposition	_	_	
+5-5	152-154	in	_	_	
+5-6	155-156	a	_	_	
+5-7	157-163	speech	_	_	
+5-8	164-171	replete	_	_	
+5-9	172-176	with	_	_	
+5-10	177-186	Christian	_	_	
+5-11	187-194	feeling	_	_	
+5-12	194-195	.	_	_	
+
+#Text=It would, he said, have been more gratifying to him to have listened in silence, but he should be sorry if that silence had been construed into coldness for the cause for he warmly felt at his heart a zeal and an interest in the work.
+6-1	196-198	It	_	_	
+6-2	199-204	would	_	_	
+6-3	204-205	,	_	_	
+6-4	206-208	he	_	_	
+6-5	209-213	said	_	_	
+6-6	213-214	,	_	_	
+6-7	215-219	have	_	_	
+6-8	220-224	been	_	_	
+6-9	225-229	more	_	_	
+6-10	230-240	gratifying	_	_	
+6-11	241-243	to	_	_	
+6-12	244-247	him	_	_	
+6-13	248-250	to	_	_	
+6-14	251-255	have	_	_	
+6-15	256-264	listened	_	_	
+6-16	265-267	in	_	_	
+6-17	268-275	silence	_	_	
+6-18	275-276	,	_	_	
+6-19	277-280	but	_	_	
+6-20	281-283	he	_	_	
+6-21	284-290	should	_	_	
+6-22	291-293	be	_	_	
+6-23	294-299	sorry	_	_	
+6-24	300-302	if	_	_	
+6-25	303-307	that	_	_	
+6-26	308-315	silence	_	_	
+6-27	316-319	had	_	_	
+6-28	320-324	been	_	_	
+6-29	325-334	construed	_	_	
+6-30	335-339	into	_	_	
+6-31	340-348	coldness	_	_	
+6-32	349-352	for	_	_	
+6-33	353-356	the	_	_	
+6-34	357-362	cause	_	_	
+6-35	363-366	for	_	_	
+6-36	367-369	he	_	_	
+6-37	370-376	warmly	_	_	
+6-38	377-381	felt	_	_	
+6-39	382-384	at	_	_	
+6-40	385-388	his	_	_	
+6-41	389-394	heart	_	_	
+6-42	395-396	a	_	_	
+6-43	397-401	zeal	_	_	
+6-44	402-405	and	_	_	
+6-45	406-408	an	_	_	
+6-46	409-417	interest	_	_	
+6-47	418-420	in	_	_	
+6-48	421-424	the	_	_	
+6-49	425-429	work	_	_	
+6-50	429-430	.	_	_	
+
+#Text=He trusted they were all met there with an earnest desire for the real success of the cause.
+7-1	431-433	He	_	_	
+7-2	434-441	trusted	_	_	
+7-3	442-446	they	_	_	
+7-4	447-451	were	_	_	
+7-5	452-455	all	_	_	
+7-6	456-459	met	_	_	
+7-7	460-465	there	_	_	
+7-8	466-470	with	_	_	
+7-9	471-473	an	_	_	
+7-10	474-481	earnest	_	_	
+7-11	482-488	desire	_	_	
+7-12	489-492	for	_	_	
+7-13	493-496	the	_	_	
+7-14	497-501	real	_	_	
+7-15	502-509	success	_	_	
+7-16	510-512	of	_	_	
+7-17	513-516	the	_	_	
+7-18	517-522	cause	_	_	
+7-19	522-523	.	_	_	
+
+#Text=He used the words “ real success,” because he hoped they did not so much measure their success by the number of the members, the state of the funds, or even by the number of copies of the Holy Scriptures which were disseminated, as by the holy faith—the genuine Christian humility which should characterize those who supported the work, and were engaged in its labours, and by the blessing of Ood which was bestowed upon their exertions.
+8-1	524-526	He	_	_	
+8-2	527-531	used	_	_	
+8-3	532-535	the	_	_	
+8-4	536-541	words	_	_	
+8-5	542-543	“	_	_	
+8-6	544-548	real	_	_	
+8-7	549-556	success	_	_	
+8-8	556-557	,	_	_	
+8-9	557-558	”	_	_	
+8-10	559-566	because	_	_	
+8-11	567-569	he	_	_	
+8-12	570-575	hoped	_	_	
+8-13	576-580	they	_	_	
+8-14	581-584	did	_	_	
+8-15	585-588	not	_	_	
+8-16	589-591	so	_	_	
+8-17	592-596	much	_	_	
+8-18	597-604	measure	_	_	
+8-19	605-610	their	_	_	
+8-20	611-618	success	_	_	
+8-21	619-621	by	_	_	
+8-22	622-625	the	_	_	
+8-23	626-632	number	_	_	
+8-24	633-635	of	_	_	
+8-25	636-639	the	_	_	
+8-26	640-647	members	_	_	
+8-27	647-648	,	_	_	
+8-28	649-652	the	_	_	
+8-29	653-658	state	_	_	
+8-30	659-661	of	_	_	
+8-31	662-665	the	_	_	
+8-32	666-671	funds	_	_	
+8-33	671-672	,	_	_	
+8-34	673-675	or	_	_	
+8-35	676-680	even	_	_	
+8-36	681-683	by	_	_	
+8-37	684-687	the	_	_	
+8-38	688-694	number	_	_	
+8-39	695-697	of	_	_	
+8-40	698-704	copies	_	_	
+8-41	705-707	of	_	_	
+8-42	708-711	the	_	_	
+8-43	712-716	Holy	_	_	
+8-44	717-727	Scriptures	_	_	
+8-45	728-733	which	_	_	
+8-46	734-738	were	_	_	
+8-47	739-751	disseminated	_	_	
+8-48	751-752	,	_	_	
+8-49	753-755	as	_	_	
+8-50	756-758	by	_	_	
+8-51	759-762	the	_	_	
+8-52	763-767	holy	_	_	
+8-53	768-777	faith—the	_	_	
+8-54	778-785	genuine	_	_	
+8-55	786-795	Christian	_	_	
+8-56	796-804	humility	_	_	
+8-57	805-810	which	_	_	
+8-58	811-817	should	_	_	
+8-59	818-830	characterize	_	_	
+8-60	831-836	those	_	_	
+8-61	837-840	who	_	_	
+8-62	841-850	supported	_	_	
+8-63	851-854	the	_	_	
+8-64	855-859	work	_	_	
+8-65	859-860	,	_	_	
+8-66	861-864	and	_	_	
+8-67	865-869	were	_	_	
+8-68	870-877	engaged	_	_	
+8-69	878-880	in	_	_	
+8-70	881-884	its	_	_	
+8-71	885-892	labours	_	_	
+8-72	892-893	,	_	_	
+8-73	894-897	and	_	_	
+8-74	898-900	by	_	_	
+8-75	901-904	the	_	_	
+8-76	905-913	blessing	_	_	
+8-77	914-916	of	_	_	
+8-78	917-920	Ood	_	_	
+8-79	921-926	which	_	_	
+8-80	927-930	was	_	_	
+8-81	931-939	bestowed	_	_	
+8-82	940-944	upon	_	_	
+8-83	945-950	their	_	_	
+8-84	951-960	exertions	_	_	
+8-85	960-961	.	_	_	
+
+#Text=The motion was carried unanimously.
+9-1	962-965	The	_	_	
+9-2	966-972	motion	_	_	
+9-3	973-976	was	_	_	
+9-4	977-984	carried	_	_	
+9-5	985-996	unanimously	_	_	
+9-6	996-997	.	_	_	
+
+#Text=The Chairman having left the chair, it was taken by William Williams, Esq., and The Rev.
+10-1	998-1001	The	_	_	
+10-2	1002-1010	Chairman	_	_	
+10-3	1011-1017	having	_	_	
+10-4	1018-1022	left	_	_	
+10-5	1023-1026	the	_	_	
+10-6	1027-1032	chair	_	_	
+10-7	1032-1033	,	_	_	
+10-8	1034-1036	it	_	_	
+10-9	1037-1040	was	_	_	
+10-10	1041-1046	taken	_	_	
+10-11	1047-1049	by	_	_	
+10-12	1050-1057	William	_	_	
+10-13	1058-1066	Williams	_	_	
+10-14	1066-1067	,	_	_	
+10-15	1068-1071	Esq	_	_	
+10-16	1071-1072	.	_	_	
+10-17	1072-1073	,	_	_	
+10-18	1074-1077	and	_	_	
+10-19	1078-1081	The	_	_	
+10-20	1082-1085	Rev	_	_	
+10-21	1085-1086	.	_	_	
+
+#Text=A.
+11-1	1087-1088	A	_	_	
+11-2	1088-1089	.	_	_	
+
+#Text=Hrandram, with an introductory speech, proposed the thanks of the meeting to the Right Hon. the Earl of I)igby, for his attention to the business of the day.
+12-1	1090-1098	Hrandram	_	_	
+12-2	1098-1099	,	_	_	
+12-3	1100-1104	with	_	_	
+12-4	1105-1107	an	_	_	
+12-5	1108-1120	introductory	_	_	
+12-6	1121-1127	speech	_	_	
+12-7	1127-1128	,	_	_	
+12-8	1129-1137	proposed	_	_	
+12-9	1138-1141	the	_	_	
+12-10	1142-1148	thanks	_	_	
+12-11	1149-1151	of	_	_	
+12-12	1152-1155	the	_	_	
+12-13	1156-1163	meeting	_	_	
+12-14	1164-1166	to	_	_	
+12-15	1167-1170	the	_	_	
+12-16	1171-1176	Right	_	_	
+12-17	1177-1180	Hon	_	_	
+12-18	1180-1181	.	_	_	
+12-19	1182-1185	the	_	_	
+12-20	1186-1190	Earl	_	_	
+12-21	1191-1193	of	_	_	
+12-22	1194-1195	I	_	_	
+12-23	1195-1196	)	_	_	
+12-24	1196-1200	igby	_	_	
+12-25	1200-1201	,	_	_	
+12-26	1202-1205	for	_	_	
+12-27	1206-1209	his	_	_	
+12-28	1210-1219	attention	_	_	
+12-29	1220-1222	to	_	_	
+12-30	1223-1226	the	_	_	
+12-31	1227-1235	business	_	_	
+12-32	1236-1238	of	_	_	
+12-33	1239-1242	the	_	_	
+12-34	1243-1246	day	_	_	
+12-35	1246-1247	.	_	_	
+
+#Text=The Rev. gentleman expressed a hope, that every blessing might attend his Lordship, that he might feet the blessing of the Bible within himself, and then he would never regret that he had presided over the Dorset Auxiliary Bible Society.
+13-1	1248-1251	The	_	_	
+13-2	1252-1255	Rev	_	_	
+13-3	1255-1256	.	_	_	
+13-4	1257-1266	gentleman	_	_	
+13-5	1267-1276	expressed	_	_	
+13-6	1277-1278	a	_	_	
+13-7	1279-1283	hope	_	_	
+13-8	1283-1284	,	_	_	
+13-9	1285-1289	that	_	_	
+13-10	1290-1295	every	_	_	
+13-11	1296-1304	blessing	_	_	
+13-12	1305-1310	might	_	_	
+13-13	1311-1317	attend	_	_	
+13-14	1318-1321	his	_	_	
+13-15	1322-1330	Lordship	_	_	
+13-16	1330-1331	,	_	_	
+13-17	1332-1336	that	_	_	
+13-18	1337-1339	he	_	_	
+13-19	1340-1345	might	_	_	
+13-20	1346-1350	feet	_	_	
+13-21	1351-1354	the	_	_	
+13-22	1355-1363	blessing	_	_	
+13-23	1364-1366	of	_	_	
+13-24	1367-1370	the	_	_	
+13-25	1371-1376	Bible	_	_	
+13-26	1377-1383	within	_	_	
+13-27	1384-1391	himself	_	_	
+13-28	1391-1392	,	_	_	
+13-29	1393-1396	and	_	_	
+13-30	1397-1401	then	_	_	
+13-31	1402-1404	he	_	_	
+13-32	1405-1410	would	_	_	
+13-33	1411-1416	never	_	_	
+13-34	1417-1423	regret	_	_	
+13-35	1424-1428	that	_	_	
+13-36	1429-1431	he	_	_	
+13-37	1432-1435	had	_	_	
+13-38	1436-1444	presided	_	_	
+13-39	1445-1449	over	_	_	
+13-40	1450-1453	the	_	_	
+13-41	1454-1460	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+13-42	1461-1470	Auxiliary	_	_	
+13-43	1471-1476	Bible	_	_	
+13-44	1477-1484	Society	_	_	
+13-45	1484-1485	.	_	_	
+
+#Text=This motion wss seconded by the Rev.
+14-1	1486-1490	This	_	_	
+14-2	1491-1497	motion	_	_	
+14-3	1498-1501	wss	_	_	
+14-4	1502-1510	seconded	_	_	
+14-5	1511-1513	by	_	_	
+14-6	1514-1517	the	_	_	
+14-7	1518-1521	Rev	_	_	
+14-8	1521-1522	.	_	_	
+
+#Text=Mr.
+15-1	1523-1525	Mr	_	_	
+15-2	1525-1526	.	_	_	
+
+#Text=Bridges, and carried unanimously.
+16-1	1527-1534	Bridges	_	_	
+16-2	1534-1535	,	_	_	
+16-3	1536-1539	and	_	_	
+16-4	1540-1547	carried	_	_	
+16-5	1548-1559	unanimously	_	_	
+16-6	1559-1560	.	_	_	
+
+#Text=—A very liberal collection was made.
+17-1	1560-1561	—	_	_	
+17-2	1561-1562	A	_	_	
+17-3	1563-1567	very	_	_	
+17-4	1568-1575	liberal	_	_	
+17-5	1576-1586	collection	_	_	
+17-6	1587-1590	was	_	_	
+17-7	1591-1595	made	_	_	
+17-8	1595-1596	.	_	_	

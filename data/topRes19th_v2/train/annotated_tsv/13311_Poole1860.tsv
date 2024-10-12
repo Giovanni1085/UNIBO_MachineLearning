@@ -1,0 +1,488 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=SHEttBOUNIC.
+1-1	0-11	SHEttBOUNIC	https://en.wikipedia.org/wiki/Sherborne	LOC	
+1-2	11-12	.	_	_	
+
+#Text=LITERARY INsTITETION.
+2-1	14-22	LITERARY	_	_	
+2-2	23-34	INsTITETION	_	_	
+2-3	34-35	.	_	_	
+
+#Text=—The Rev.
+3-1	35-36	—	_	_	
+3-2	36-39	The	_	_	
+3-3	40-43	Rev	_	_	
+3-4	43-44	.	_	_	
+
+#Text=W.
+4-1	45-46	W	_	_	
+4-2	46-47	.	_	_	
+
+#Text=Barnes, of Dorchester, delivered a lecture at the Institution Rooms, on Thursday last, on the Dorset Dialeet."
+5-1	48-54	Barnes	_	_	
+5-2	54-55	,	_	_	
+5-3	56-58	of	_	_	
+5-4	59-69	Dorchester	https://en.wikipedia.org/wiki/Dorchester,\_Dorset	LOC	
+5-5	69-70	,	_	_	
+5-6	71-80	delivered	_	_	
+5-7	81-82	a	_	_	
+5-8	83-90	lecture	_	_	
+5-9	91-93	at	_	_	
+5-10	94-97	the	_	_	
+5-11	98-109	Institution	*[1]	BUILDING[1]	
+5-12	110-115	Rooms	*[1]	BUILDING[1]	
+5-13	115-116	,	_	_	
+5-14	117-119	on	_	_	
+5-15	120-128	Thursday	_	_	
+5-16	129-133	last	_	_	
+5-17	133-134	,	_	_	
+5-18	135-137	on	_	_	
+5-19	138-141	the	_	_	
+5-20	142-148	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+5-21	149-156	Dialeet	_	_	
+5-22	156-157	.	_	_	
+5-23	157-158	"	_	_	
+
+#Text=The chair was taken by J.
+6-1	159-162	The	_	_	
+6-2	163-168	chair	_	_	
+6-3	169-172	was	_	_	
+6-4	173-178	taken	_	_	
+6-5	179-181	by	_	_	
+6-6	182-183	J	_	_	
+6-7	183-184	.	_	_	
+
+#Text=Y.
+7-1	185-186	Y	_	_	
+7-2	186-187	.	_	_	
+
+#Text=Mammoth, Esq.
+8-1	188-195	Mammoth	_	_	
+8-2	195-196	,	_	_	
+8-3	197-200	Esq	_	_	
+8-4	200-201	.	_	_	
+
+#Text=There was an excellent attendance and the lecture was of a most amusing. iuteresting and instructive character, and. from the marked atteution shown by the audience, it was evident all were highly gratified.
+9-1	202-207	There	_	_	
+9-2	208-211	was	_	_	
+9-3	212-214	an	_	_	
+9-4	215-224	excellent	_	_	
+9-5	225-235	attendance	_	_	
+9-6	236-239	and	_	_	
+9-7	240-243	the	_	_	
+9-8	244-251	lecture	_	_	
+9-9	252-255	was	_	_	
+9-10	256-258	of	_	_	
+9-11	259-260	a	_	_	
+9-12	261-265	most	_	_	
+9-13	266-273	amusing	_	_	
+9-14	273-274	.	_	_	
+9-15	275-286	iuteresting	_	_	
+9-16	287-290	and	_	_	
+9-17	291-302	instructive	_	_	
+9-18	303-312	character	_	_	
+9-19	312-313	,	_	_	
+9-20	314-317	and	_	_	
+9-21	317-318	.	_	_	
+9-22	319-323	from	_	_	
+9-23	324-327	the	_	_	
+9-24	328-334	marked	_	_	
+9-25	335-344	atteution	_	_	
+9-26	345-350	shown	_	_	
+9-27	351-353	by	_	_	
+9-28	354-357	the	_	_	
+9-29	358-366	audience	_	_	
+9-30	366-367	,	_	_	
+9-31	368-370	it	_	_	
+9-32	371-374	was	_	_	
+9-33	375-382	evident	_	_	
+9-34	383-386	all	_	_	
+9-35	387-391	were	_	_	
+9-36	392-398	highly	_	_	
+9-37	399-408	gratified	_	_	
+9-38	408-409	.	_	_	
+
+#Text=Fias.
+10-1	410-414	Fias	_	_	
+10-2	414-415	.	_	_	
+
+#Text=—Shortly after tire oclock on Monday morning last, the inhabitants of this tows were aroused from their slumbers by the doleful sound or the fire-b• 11, and on discovery the tire was timid to proceed front an out-house in the field adjoining the Lamb Inn, in Hound-street, containing hurdles, planks, &c., to the value of about £7O or £BO, used for the fair and markets.
+11-1	415-416	—	_	_	
+11-2	416-423	Shortly	_	_	
+11-3	424-429	after	_	_	
+11-4	430-434	tire	_	_	
+11-5	435-441	oclock	_	_	
+11-6	442-444	on	_	_	
+11-7	445-451	Monday	_	_	
+11-8	452-459	morning	_	_	
+11-9	460-464	last	_	_	
+11-10	464-465	,	_	_	
+11-11	466-469	the	_	_	
+11-12	470-481	inhabitants	_	_	
+11-13	482-484	of	_	_	
+11-14	485-489	this	_	_	
+11-15	490-494	tows	_	_	
+11-16	495-499	were	_	_	
+11-17	500-507	aroused	_	_	
+11-18	508-512	from	_	_	
+11-19	513-518	their	_	_	
+11-20	519-527	slumbers	_	_	
+11-21	528-530	by	_	_	
+11-22	531-534	the	_	_	
+11-23	535-542	doleful	_	_	
+11-24	543-548	sound	_	_	
+11-25	549-551	or	_	_	
+11-26	552-555	the	_	_	
+11-27	556-562	fire-b	_	_	
+11-28	562-563	•	_	_	
+11-29	564-566	11	_	_	
+11-30	566-567	,	_	_	
+11-31	568-571	and	_	_	
+11-32	572-574	on	_	_	
+11-33	575-584	discovery	_	_	
+11-34	585-588	the	_	_	
+11-35	589-593	tire	_	_	
+11-36	594-597	was	_	_	
+11-37	598-603	timid	_	_	
+11-38	604-606	to	_	_	
+11-39	607-614	proceed	_	_	
+11-40	615-620	front	_	_	
+11-41	621-623	an	_	_	
+11-42	624-633	out-house	_	_	
+11-43	634-636	in	_	_	
+11-44	637-640	the	_	_	
+11-45	641-646	field	_	_	
+11-46	647-656	adjoining	_	_	
+11-47	657-660	the	_	_	
+11-48	661-665	Lamb	*[2]	BUILDING[2]	
+11-49	666-669	Inn	*[2]	BUILDING[2]	
+11-50	669-670	,	_	_	
+11-51	671-673	in	_	_	
+11-52	674-686	Hound-street	*	STREET	
+11-53	686-687	,	_	_	
+11-54	688-698	containing	_	_	
+11-55	699-706	hurdles	_	_	
+11-56	706-707	,	_	_	
+11-57	708-714	planks	_	_	
+11-58	714-715	,	_	_	
+11-59	716-717	&	_	_	
+11-60	717-718	c	_	_	
+11-61	718-719	.	_	_	
+11-62	719-720	,	_	_	
+11-63	721-723	to	_	_	
+11-64	724-727	the	_	_	
+11-65	728-733	value	_	_	
+11-66	734-736	of	_	_	
+11-67	737-742	about	_	_	
+11-68	743-746	£7O	_	_	
+11-69	747-749	or	_	_	
+11-70	750-751	£	_	_	
+11-71	751-753	BO	_	_	
+11-72	753-754	,	_	_	
+11-73	755-759	used	_	_	
+11-74	760-763	for	_	_	
+11-75	764-767	the	_	_	
+11-76	768-772	fair	_	_	
+11-77	773-776	and	_	_	
+11-78	777-784	markets	_	_	
+11-79	784-785	.	_	_	
+
+#Text=The engines were quickly on th 2 sp it, bat were of no avail, the materials iu the place being of such a combustible nature that it was speedily bum to the ground, the dames rising so high that the greater portion of the town was illuminated.
+12-1	786-789	The	_	_	
+12-2	790-797	engines	_	_	
+12-3	798-802	were	_	_	
+12-4	803-810	quickly	_	_	
+12-5	811-813	on	_	_	
+12-6	814-816	th	_	_	
+12-7	817-818	2	_	_	
+12-8	819-821	sp	_	_	
+12-9	822-824	it	_	_	
+12-10	824-825	,	_	_	
+12-11	826-829	bat	_	_	
+12-12	830-834	were	_	_	
+12-13	835-837	of	_	_	
+12-14	838-840	no	_	_	
+12-15	841-846	avail	_	_	
+12-16	846-847	,	_	_	
+12-17	848-851	the	_	_	
+12-18	852-861	materials	_	_	
+12-19	862-864	iu	_	_	
+12-20	865-868	the	_	_	
+12-21	869-874	place	_	_	
+12-22	875-880	being	_	_	
+12-23	881-883	of	_	_	
+12-24	884-888	such	_	_	
+12-25	889-890	a	_	_	
+12-26	891-902	combustible	_	_	
+12-27	903-909	nature	_	_	
+12-28	910-914	that	_	_	
+12-29	915-917	it	_	_	
+12-30	918-921	was	_	_	
+12-31	922-930	speedily	_	_	
+12-32	931-934	bum	_	_	
+12-33	935-937	to	_	_	
+12-34	938-941	the	_	_	
+12-35	942-948	ground	_	_	
+12-36	948-949	,	_	_	
+12-37	950-953	the	_	_	
+12-38	954-959	dames	_	_	
+12-39	960-966	rising	_	_	
+12-40	967-969	so	_	_	
+12-41	970-974	high	_	_	
+12-42	975-979	that	_	_	
+12-43	980-983	the	_	_	
+12-44	984-991	greater	_	_	
+12-45	992-999	portion	_	_	
+12-46	1000-1002	of	_	_	
+12-47	1003-1006	the	_	_	
+12-48	1007-1011	town	_	_	
+12-49	1012-1015	was	_	_	
+12-50	1016-1027	illuminated	_	_	
+12-51	1027-1028	.	_	_	
+
+#Text=Fortunately there were no dwelling-houses near, as from the prevailing high wind at the time, iu all probability much loss of property would have ensued.
+13-1	1029-1040	Fortunately	_	_	
+13-2	1041-1046	there	_	_	
+13-3	1047-1051	were	_	_	
+13-4	1052-1054	no	_	_	
+13-5	1055-1070	dwelling-houses	_	_	
+13-6	1071-1075	near	_	_	
+13-7	1075-1076	,	_	_	
+13-8	1077-1079	as	_	_	
+13-9	1080-1084	from	_	_	
+13-10	1085-1088	the	_	_	
+13-11	1089-1099	prevailing	_	_	
+13-12	1100-1104	high	_	_	
+13-13	1105-1109	wind	_	_	
+13-14	1110-1112	at	_	_	
+13-15	1113-1116	the	_	_	
+13-16	1117-1121	time	_	_	
+13-17	1121-1122	,	_	_	
+13-18	1123-1125	iu	_	_	
+13-19	1126-1129	all	_	_	
+13-20	1130-1141	probability	_	_	
+13-21	1142-1146	much	_	_	
+13-22	1147-1151	loss	_	_	
+13-23	1152-1154	of	_	_	
+13-24	1155-1163	property	_	_	
+13-25	1164-1169	would	_	_	
+13-26	1170-1174	have	_	_	
+13-27	1175-1181	ensued	_	_	
+13-28	1181-1182	.	_	_	
+
+#Text=The whole is iusurcd iu the General Fire Office, to the full value.
+14-1	1183-1186	The	_	_	
+14-2	1187-1192	whole	_	_	
+14-3	1193-1195	is	_	_	
+14-4	1196-1203	iusurcd	_	_	
+14-5	1204-1206	iu	_	_	
+14-6	1207-1210	the	_	_	
+14-7	1211-1218	General	*[3]	BUILDING[3]	
+14-8	1219-1223	Fire	*[3]	BUILDING[3]	
+14-9	1224-1230	Office	*[3]	BUILDING[3]	
+14-10	1230-1231	,	_	_	
+14-11	1232-1234	to	_	_	
+14-12	1235-1238	the	_	_	
+14-13	1239-1243	full	_	_	
+14-14	1244-1249	value	_	_	
+14-15	1249-1250	.	_	_	
+
+#Text=UNION CHAPEL SUNDAY SCHOOL—The analal distribution of rewards for punctual attendance to the scholars of this school, took place on Friday evening last.
+15-1	1251-1256	UNION	*[4]	BUILDING[4]	
+15-2	1257-1263	CHAPEL	*[4]	BUILDING[4]	
+15-3	1264-1270	SUNDAY	*[4]	BUILDING[4]	
+15-4	1271-1281	SCHOOL—The	_	_	
+15-4.1	1271-1277	SCHOOL	*[4]	BUILDING[4]	
+15-5	1282-1288	analal	_	_	
+15-6	1289-1301	distribution	_	_	
+15-7	1302-1304	of	_	_	
+15-8	1305-1312	rewards	_	_	
+15-9	1313-1316	for	_	_	
+15-10	1317-1325	punctual	_	_	
+15-11	1326-1336	attendance	_	_	
+15-12	1337-1339	to	_	_	
+15-13	1340-1343	the	_	_	
+15-14	1344-1352	scholars	_	_	
+15-15	1353-1355	of	_	_	
+15-16	1356-1360	this	_	_	
+15-17	1361-1367	school	_	_	
+15-18	1367-1368	,	_	_	
+15-19	1369-1373	took	_	_	
+15-20	1374-1379	place	_	_	
+15-21	1380-1382	on	_	_	
+15-22	1383-1389	Friday	_	_	
+15-23	1390-1397	evening	_	_	
+15-24	1398-1402	last	_	_	
+15-25	1402-1403	.	_	_	
+
+#Text=The children assembled at the schuol.room at half-past five oclock, where they found an immense Christmas tree, beautifully lighted up with small lamps, and, loaded with innumerable presents, which soon dsappeared amongst the respective owners.
+16-1	1404-1407	The	_	_	
+16-2	1408-1416	children	_	_	
+16-3	1417-1426	assembled	_	_	
+16-4	1427-1429	at	_	_	
+16-5	1430-1433	the	_	_	
+16-6	1434-1445	schuol.room	_	_	
+16-7	1446-1448	at	_	_	
+16-8	1449-1458	half-past	_	_	
+16-9	1459-1463	five	_	_	
+16-10	1464-1470	oclock	_	_	
+16-11	1470-1471	,	_	_	
+16-12	1472-1477	where	_	_	
+16-13	1478-1482	they	_	_	
+16-14	1483-1488	found	_	_	
+16-15	1489-1491	an	_	_	
+16-16	1492-1499	immense	_	_	
+16-17	1500-1509	Christmas	_	_	
+16-18	1510-1514	tree	_	_	
+16-19	1514-1515	,	_	_	
+16-20	1516-1527	beautifully	_	_	
+16-21	1528-1535	lighted	_	_	
+16-22	1536-1538	up	_	_	
+16-23	1539-1543	with	_	_	
+16-24	1544-1549	small	_	_	
+16-25	1550-1555	lamps	_	_	
+16-26	1555-1556	,	_	_	
+16-27	1557-1560	and	_	_	
+16-28	1560-1561	,	_	_	
+16-29	1562-1568	loaded	_	_	
+16-30	1569-1573	with	_	_	
+16-31	1574-1585	innumerable	_	_	
+16-32	1586-1594	presents	_	_	
+16-33	1594-1595	,	_	_	
+16-34	1596-1601	which	_	_	
+16-35	1602-1606	soon	_	_	
+16-36	1607-1617	dsappeared	_	_	
+16-37	1618-1625	amongst	_	_	
+16-38	1626-1629	the	_	_	
+16-39	1630-1640	respective	_	_	
+16-40	1641-1647	owners	_	_	
+16-41	1647-1648	.	_	_	
+
+#Text=After the distribution, a very elegant gold pencil case, purchased by the teachers, was taken from the tree and presented by Mr.
+17-1	1649-1654	After	_	_	
+17-2	1655-1658	the	_	_	
+17-3	1659-1671	distribution	_	_	
+17-4	1671-1672	,	_	_	
+17-5	1673-1674	a	_	_	
+17-6	1675-1679	very	_	_	
+17-7	1680-1687	elegant	_	_	
+17-8	1688-1692	gold	_	_	
+17-9	1693-1699	pencil	_	_	
+17-10	1700-1704	case	_	_	
+17-11	1704-1705	,	_	_	
+17-12	1706-1715	purchased	_	_	
+17-13	1716-1718	by	_	_	
+17-14	1719-1722	the	_	_	
+17-15	1723-1731	teachers	_	_	
+17-16	1731-1732	,	_	_	
+17-17	1733-1736	was	_	_	
+17-18	1737-1742	taken	_	_	
+17-19	1743-1747	from	_	_	
+17-20	1748-1751	the	_	_	
+17-21	1752-1756	tree	_	_	
+17-22	1757-1760	and	_	_	
+17-23	1761-1770	presented	_	_	
+17-24	1771-1773	by	_	_	
+17-25	1774-1776	Mr	_	_	
+17-26	1776-1777	.	_	_	
+
+#Text=Worsley to the superintendent, Dr.
+18-1	1778-1785	Worsley	_	_	
+18-2	1786-1788	to	_	_	
+18-3	1789-1792	the	_	_	
+18-4	1793-1807	superintendent	_	_	
+18-5	1807-1808	,	_	_	
+18-6	1809-1811	Dr	_	_	
+18-7	1811-1812	.	_	_	
+
+#Text=Williams, with an address signed by the teachers, begging him to accept it as a slight token of their esteem, and their appreciation of the valuable services rendered by him as superintendent to the above school.
+19-1	1813-1821	Williams	_	_	
+19-2	1821-1822	,	_	_	
+19-3	1823-1827	with	_	_	
+19-4	1828-1830	an	_	_	
+19-5	1831-1838	address	_	_	
+19-6	1839-1845	signed	_	_	
+19-7	1846-1848	by	_	_	
+19-8	1849-1852	the	_	_	
+19-9	1853-1861	teachers	_	_	
+19-10	1861-1862	,	_	_	
+19-11	1863-1870	begging	_	_	
+19-12	1871-1874	him	_	_	
+19-13	1875-1877	to	_	_	
+19-14	1878-1884	accept	_	_	
+19-15	1885-1887	it	_	_	
+19-16	1888-1890	as	_	_	
+19-17	1891-1892	a	_	_	
+19-18	1893-1899	slight	_	_	
+19-19	1900-1905	token	_	_	
+19-20	1906-1908	of	_	_	
+19-21	1909-1914	their	_	_	
+19-22	1915-1921	esteem	_	_	
+19-23	1921-1922	,	_	_	
+19-24	1923-1926	and	_	_	
+19-25	1927-1932	their	_	_	
+19-26	1933-1945	appreciation	_	_	
+19-27	1946-1948	of	_	_	
+19-28	1949-1952	the	_	_	
+19-29	1953-1961	valuable	_	_	
+19-30	1962-1970	services	_	_	
+19-31	1971-1979	rendered	_	_	
+19-32	1980-1982	by	_	_	
+19-33	1983-1986	him	_	_	
+19-34	1987-1989	as	_	_	
+19-35	1990-2004	superintendent	_	_	
+19-36	2005-2007	to	_	_	
+19-37	2008-2011	the	_	_	
+19-38	2012-2017	above	_	_	
+19-39	2018-2024	school	_	_	
+19-40	2024-2025	.	_	_	
+
+#Text=Dr.
+20-1	2026-2028	Dr	_	_	
+20-2	2028-2029	.	_	_	
+
+#Text=Williams replied in a neat speech.
+21-1	2030-2038	Williams	_	_	
+21-2	2039-2046	replied	_	_	
+21-3	2047-2049	in	_	_	
+21-4	2050-2051	a	_	_	
+21-5	2052-2056	neat	_	_	
+21-6	2057-2063	speech	_	_	
+21-7	2063-2064	.	_	_	
+
+#Text=The Rev.
+22-1	2065-2068	The	_	_	
+22-2	2069-2072	Rev	_	_	
+22-3	2072-2073	.	_	_	
+
+#Text=Mr.
+23-1	2074-2076	Mr	_	_	
+23-2	2076-2077	.	_	_	
+
+#Text=Beckley then addressed a few words of advice to the scholars, and after singing and player, the iutetesting meeting sepatatcd.
+24-1	2078-2085	Beckley	_	_	
+24-2	2086-2090	then	_	_	
+24-3	2091-2100	addressed	_	_	
+24-4	2101-2102	a	_	_	
+24-5	2103-2106	few	_	_	
+24-6	2107-2112	words	_	_	
+24-7	2113-2115	of	_	_	
+24-8	2116-2122	advice	_	_	
+24-9	2123-2125	to	_	_	
+24-10	2126-2129	the	_	_	
+24-11	2130-2138	scholars	_	_	
+24-12	2138-2139	,	_	_	
+24-13	2140-2143	and	_	_	
+24-14	2144-2149	after	_	_	
+24-15	2150-2157	singing	_	_	
+24-16	2158-2161	and	_	_	
+24-17	2162-2168	player	_	_	
+24-18	2168-2169	,	_	_	
+24-19	2170-2173	the	_	_	
+24-20	2174-2185	iutetesting	_	_	
+24-21	2186-2193	meeting	_	_	
+24-22	2194-2203	sepatatcd	_	_	
+24-23	2203-2204	.	_	_	

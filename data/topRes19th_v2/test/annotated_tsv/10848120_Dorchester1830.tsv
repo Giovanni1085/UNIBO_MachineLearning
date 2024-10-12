@@ -1,0 +1,223 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WEYMOUTH.
+1-1	0-8	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-2	8-9	.	_	_	
+
+#Text=Handsome HOUSE, fronting the ESPLANADE.
+2-1	10-18	Handsome	_	_	
+2-2	19-24	HOUSE	_	_	
+2-3	24-25	,	_	_	
+2-4	26-34	fronting	_	_	
+2-5	35-38	the	_	_	
+2-6	39-48	ESPLANADE	https://en.wikipedia.org/wiki/The\_Esplanade,\_Weymouth	STREET	
+2-7	48-49	.	_	_	
+
+#Text=TO be SOLD by PRIVATE CONTRACT, or LET, 
+#Text=With immediate possession^ ALL that substantial well-finished Brick-built DWELLING-HOUSE, and GARDEN attached, being No. 8 in the Royal Crescent: consisting of two excellent draw, ing-iooms with folding doors, breakfast and dining rooms, eight good sleeping rooms, a water closet housekeepers room, butler’s pantry, large kitchen, three wine and coal cellars, china closets, and other attached and detached offices for domestic purposes.
+3-1	51-53	TO	_	_	
+3-2	54-56	be	_	_	
+3-3	57-61	SOLD	_	_	
+3-4	62-64	by	_	_	
+3-5	65-72	PRIVATE	_	_	
+3-6	73-81	CONTRACT	_	_	
+3-7	81-82	,	_	_	
+3-8	83-85	or	_	_	
+3-9	86-89	LET	_	_	
+3-10	89-90	,	_	_	
+3-11	92-96	With	_	_	
+3-12	97-106	immediate	_	_	
+3-13	107-117	possession	_	_	
+3-14	117-118	^	_	_	
+3-15	119-122	ALL	_	_	
+3-16	123-127	that	_	_	
+3-17	128-139	substantial	_	_	
+3-18	140-153	well-finished	_	_	
+3-19	154-165	Brick-built	_	_	
+3-20	166-180	DWELLING-HOUSE	_	_	
+3-21	180-181	,	_	_	
+3-22	182-185	and	_	_	
+3-23	186-192	GARDEN	_	_	
+3-24	193-201	attached	_	_	
+3-25	201-202	,	_	_	
+3-26	203-208	being	_	_	
+3-27	209-211	No	_	_	
+3-28	211-212	.	_	_	
+3-29	213-214	8	_	_	
+3-30	215-217	in	_	_	
+3-31	218-221	the	_	_	
+3-32	222-227	Royal	*[1]	STREET[1]	
+3-33	228-236	Crescent	*[1]	STREET[1]	
+3-34	236-237	:	_	_	
+3-35	238-248	consisting	_	_	
+3-36	249-251	of	_	_	
+3-37	252-255	two	_	_	
+3-38	256-265	excellent	_	_	
+3-39	266-270	draw	_	_	
+3-40	270-271	,	_	_	
+3-41	272-281	ing-iooms	_	_	
+3-42	282-286	with	_	_	
+3-43	287-294	folding	_	_	
+3-44	295-300	doors	_	_	
+3-45	300-301	,	_	_	
+3-46	302-311	breakfast	_	_	
+3-47	312-315	and	_	_	
+3-48	316-322	dining	_	_	
+3-49	323-328	rooms	_	_	
+3-50	328-329	,	_	_	
+3-51	330-335	eight	_	_	
+3-52	336-340	good	_	_	
+3-53	341-349	sleeping	_	_	
+3-54	350-355	rooms	_	_	
+3-55	355-356	,	_	_	
+3-56	357-358	a	_	_	
+3-57	359-364	water	_	_	
+3-58	365-371	closet	_	_	
+3-59	372-384	housekeepers	_	_	
+3-60	385-389	room	_	_	
+3-61	389-390	,	_	_	
+3-62	391-397	butler	_	_	
+3-63	397-398	’	_	_	
+3-64	398-399	s	_	_	
+3-65	400-406	pantry	_	_	
+3-66	406-407	,	_	_	
+3-67	408-413	large	_	_	
+3-68	414-421	kitchen	_	_	
+3-69	421-422	,	_	_	
+3-70	423-428	three	_	_	
+3-71	429-433	wine	_	_	
+3-72	434-437	and	_	_	
+3-73	438-442	coal	_	_	
+3-74	443-450	cellars	_	_	
+3-75	450-451	,	_	_	
+3-76	452-457	china	_	_	
+3-77	458-465	closets	_	_	
+3-78	465-466	,	_	_	
+3-79	467-470	and	_	_	
+3-80	471-476	other	_	_	
+3-81	477-485	attached	_	_	
+3-82	486-489	and	_	_	
+3-83	490-498	detached	_	_	
+3-84	499-506	offices	_	_	
+3-85	507-510	for	_	_	
+3-86	511-519	domestic	_	_	
+3-87	520-528	purposes	_	_	
+3-88	528-529	.	_	_	
+
+#Text=Also, all that Coach-House and four-stall Stable, with a Yard attached, corn and harness room and two servants* rooms, and a large light hay-loft over the same, situate nearly behind the Dwel. ling-House, the whole in the occupation of Waldron Hill, Esq. as tenant.
+4-1	530-534	Also	_	_	
+4-2	534-535	,	_	_	
+4-3	536-539	all	_	_	
+4-4	540-544	that	_	_	
+4-5	545-556	Coach-House	_	_	
+4-6	557-560	and	_	_	
+4-7	561-571	four-stall	_	_	
+4-8	572-578	Stable	_	_	
+4-9	578-579	,	_	_	
+4-10	580-584	with	_	_	
+4-11	585-586	a	_	_	
+4-12	587-591	Yard	_	_	
+4-13	592-600	attached	_	_	
+4-14	600-601	,	_	_	
+4-15	602-606	corn	_	_	
+4-16	607-610	and	_	_	
+4-17	611-618	harness	_	_	
+4-18	619-623	room	_	_	
+4-19	624-627	and	_	_	
+4-20	628-631	two	_	_	
+4-21	632-640	servants	_	_	
+4-22	640-641	*	_	_	
+4-23	642-647	rooms	_	_	
+4-24	647-648	,	_	_	
+4-25	649-652	and	_	_	
+4-26	653-654	a	_	_	
+4-27	655-660	large	_	_	
+4-28	661-666	light	_	_	
+4-29	667-675	hay-loft	_	_	
+4-30	676-680	over	_	_	
+4-31	681-684	the	_	_	
+4-32	685-689	same	_	_	
+4-33	689-690	,	_	_	
+4-34	691-698	situate	_	_	
+4-35	699-705	nearly	_	_	
+4-36	706-712	behind	_	_	
+4-37	713-716	the	_	_	
+4-38	717-721	Dwel	_	_	
+4-39	721-722	.	_	_	
+4-40	723-733	ling-House	_	_	
+4-41	733-734	,	_	_	
+4-42	735-738	the	_	_	
+4-43	739-744	whole	_	_	
+4-44	745-747	in	_	_	
+4-45	748-751	the	_	_	
+4-46	752-762	occupation	_	_	
+4-47	763-765	of	_	_	
+4-48	766-773	Waldron	_	_	
+4-49	774-778	Hill	_	_	
+4-50	778-779	,	_	_	
+4-51	780-783	Esq	_	_	
+4-52	783-784	.	_	_	
+4-53	785-787	as	_	_	
+4-54	788-794	tenant	_	_	
+4-55	794-795	.	_	_	
+
+#Text=tT* For further particulars apply personally, or by letter post paid, to Mr.
+5-1	797-799	tT	_	_	
+5-2	799-800	*	_	_	
+5-3	801-804	For	_	_	
+5-4	805-812	further	_	_	
+5-5	813-824	particulars	_	_	
+5-6	825-830	apply	_	_	
+5-7	831-841	personally	_	_	
+5-8	841-842	,	_	_	
+5-9	843-845	or	_	_	
+5-10	846-848	by	_	_	
+5-11	849-855	letter	_	_	
+5-12	856-860	post	_	_	
+5-13	861-865	paid	_	_	
+5-14	865-866	,	_	_	
+5-15	867-869	to	_	_	
+5-16	870-872	Mr	_	_	
+5-17	872-873	.	_	_	
+
+#Text=GEORGE ARDEN, Attorney at Law, or Mr.
+6-1	874-880	GEORGE	_	_	
+6-2	881-886	ARDEN	_	_	
+6-3	886-887	,	_	_	
+6-4	888-896	Attorney	_	_	
+6-5	897-899	at	_	_	
+6-6	900-903	Law	_	_	
+6-7	903-904	,	_	_	
+6-8	905-907	or	_	_	
+6-9	908-910	Mr	_	_	
+6-10	910-911	.	_	_	
+
+#Text=W.
+7-1	912-913	W	_	_	
+7-2	913-914	.	_	_	
+
+#Text=J.
+8-1	915-916	J	_	_	
+8-2	916-917	.	_	_	
+
+#Text=HILL, Estate and House Agent, Weymouth.
+9-1	918-922	HILL	_	_	
+9-2	922-923	,	_	_	
+9-3	924-930	Estate	_	_	
+9-4	931-934	and	_	_	
+9-5	935-940	House	_	_	
+9-6	941-946	Agent	_	_	
+9-7	946-947	,	_	_	
+9-8	948-956	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+9-9	956-957	.	_	_	
+
+#Text=Weymouth, 17th March, 15138.
+10-1	958-966	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+10-2	966-967	,	_	_	
+10-3	968-972	17th	_	_	
+10-4	973-978	March	_	_	
+10-5	978-979	,	_	_	
+10-6	980-985	15138	_	_	
+10-7	985-986	.	_	_	

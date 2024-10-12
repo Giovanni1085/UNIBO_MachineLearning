@@ -1,0 +1,330 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Court, Naval, Military, and Clerical Tailors.
+1-1	0-5	Court	_	_	
+1-2	5-6	,	_	_	
+1-3	7-12	Naval	_	_	
+1-4	12-13	,	_	_	
+1-5	14-22	Military	_	_	
+1-6	22-23	,	_	_	
+1-7	24-27	and	_	_	
+1-8	28-36	Clerical	_	_	
+1-9	37-44	Tailors	_	_	
+1-10	44-45	.	_	_	
+
+#Text=THE MANCHESTER MERCHANT TAILORS’ COMPANY.
+2-1	46-49	THE	_	_	
+2-2	50-60	MANCHESTER	https://en.wikipedia.org/wiki/Manchester	LOC	
+2-3	61-69	MERCHANT	_	_	
+2-4	70-77	TAILORS	_	_	
+2-5	77-78	’	_	_	
+2-6	79-86	COMPANY	_	_	
+2-7	86-87	.	_	_	
+
+#Text=LIMITED, respectfully announce that they make to measure in the latest London and Parisian styles every description of superior Garments, at moderate prices, including:— Dress, Wedding, Mourning, and Neglige Suits.
+3-1	88-95	LIMITED	_	_	
+3-2	95-96	,	_	_	
+3-3	97-109	respectfully	_	_	
+3-4	110-118	announce	_	_	
+3-5	119-123	that	_	_	
+3-6	124-128	they	_	_	
+3-7	129-133	make	_	_	
+3-8	134-136	to	_	_	
+3-9	137-144	measure	_	_	
+3-10	145-147	in	_	_	
+3-11	148-151	the	_	_	
+3-12	152-158	latest	_	_	
+3-13	159-165	London	https://en.wikipedia.org/wiki/London	LOC	
+3-14	166-169	and	_	_	
+3-15	170-178	Parisian	_	_	
+3-16	179-185	styles	_	_	
+3-17	186-191	every	_	_	
+3-18	192-203	description	_	_	
+3-19	204-206	of	_	_	
+3-20	207-215	superior	_	_	
+3-21	216-224	Garments	_	_	
+3-22	224-225	,	_	_	
+3-23	226-228	at	_	_	
+3-24	229-237	moderate	_	_	
+3-25	238-244	prices	_	_	
+3-26	244-245	,	_	_	
+3-27	246-255	including	_	_	
+3-28	255-256	:	_	_	
+3-29	256-257	—	_	_	
+3-30	258-263	Dress	_	_	
+3-31	263-264	,	_	_	
+3-32	265-272	Wedding	_	_	
+3-33	272-273	,	_	_	
+3-34	274-282	Mourning	_	_	
+3-35	282-283	,	_	_	
+3-36	284-287	and	_	_	
+3-37	288-295	Neglige	_	_	
+3-38	296-301	Suits	_	_	
+3-39	301-302	.	_	_	
+
+#Text=Morning, Cheviot, Travelling, and Riding Suits.
+4-1	303-310	Morning	_	_	
+4-2	310-311	,	_	_	
+4-3	312-319	Cheviot	_	_	
+4-4	319-320	,	_	_	
+4-5	321-331	Travelling	_	_	
+4-6	331-332	,	_	_	
+4-7	333-336	and	_	_	
+4-8	337-343	Riding	_	_	
+4-9	344-349	Suits	_	_	
+4-10	349-350	.	_	_	
+
+#Text=Hunting, Shooting, Fishing, and Cricketting Suits.
+5-1	351-358	Hunting	_	_	
+5-2	358-359	,	_	_	
+5-3	360-368	Shooting	_	_	
+5-4	368-369	,	_	_	
+5-5	370-377	Fishing	_	_	
+5-6	377-378	,	_	_	
+5-7	379-382	and	_	_	
+5-8	383-394	Cricketting	_	_	
+5-9	395-400	Suits	_	_	
+5-10	400-401	.	_	_	
+
+#Text=Fashionable Dress and Frock Coats and Vests.
+6-1	402-413	Fashionable	_	_	
+6-2	414-419	Dress	_	_	
+6-3	420-423	and	_	_	
+6-4	424-429	Frock	_	_	
+6-5	430-435	Coats	_	_	
+6-6	436-439	and	_	_	
+6-7	440-445	Vests	_	_	
+6-8	445-446	.	_	_	
+
+#Text=Elegant French, rich Sealskin, and other Vests.
+7-1	447-454	Elegant	_	_	
+7-2	455-461	French	_	_	
+7-3	461-462	,	_	_	
+7-4	463-467	rich	_	_	
+7-5	468-476	Sealskin	_	_	
+7-6	476-477	,	_	_	
+7-7	478-481	and	_	_	
+7-8	482-487	other	_	_	
+7-9	488-493	Vests	_	_	
+7-10	493-494	.	_	_	
+
+#Text=Navy Pilot, Fur Beaver, and other Pea .Jackets.
+8-1	495-499	Navy	_	_	
+8-2	500-505	Pilot	_	_	
+8-3	505-506	,	_	_	
+8-4	507-510	Fur	_	_	
+8-5	511-517	Beaver	_	_	
+8-6	517-518	,	_	_	
+8-7	519-522	and	_	_	
+8-8	523-528	other	_	_	
+8-9	529-532	Pea	_	_	
+8-10	533-534	.	_	_	
+8-11	534-541	Jackets	_	_	
+8-12	541-542	.	_	_	
+
+#Text=Twerton, Melton, Heater, Witney, and other Overconta.
+9-1	543-550	Twerton	_	_	
+9-2	550-551	,	_	_	
+9-3	552-558	Melton	_	_	
+9-4	558-559	,	_	_	
+9-5	560-566	Heater	_	_	
+9-6	566-567	,	_	_	
+9-7	568-574	Witney	_	_	
+9-8	574-575	,	_	_	
+9-9	576-579	and	_	_	
+9-10	580-585	other	_	_	
+9-11	586-595	Overconta	_	_	
+9-12	595-596	.	_	_	
+
+#Text=French, West, Scotch, and Chippeuorton Trousers.
+10-1	597-603	French	_	_	
+10-2	603-604	,	_	_	
+10-3	605-609	West	_	_	
+10-4	609-610	,	_	_	
+10-5	611-617	Scotch	_	_	
+10-6	617-618	,	_	_	
+10-7	619-622	and	_	_	
+10-8	623-635	Chippeuorton	_	_	
+10-9	636-644	Trousers	_	_	
+10-10	644-645	.	_	_	
+
+#Text=Ladies’ Stylish West End Riding Habits and Jackets.
+11-1	646-652	Ladies	_	_	
+11-2	652-653	’	_	_	
+11-3	654-661	Stylish	_	_	
+11-4	662-666	West	_	_	
+11-5	667-670	End	_	_	
+11-6	671-677	Riding	_	_	
+11-7	678-684	Habits	_	_	
+11-8	685-688	and	_	_	
+11-9	689-696	Jackets	_	_	
+11-10	696-697	.	_	_	
+
+#Text=Court Dresses, Naval, Military, and Volunteer Outfits.
+12-1	698-703	Court	_	_	
+12-2	704-711	Dresses	_	_	
+12-3	711-712	,	_	_	
+12-4	713-718	Naval	_	_	
+12-5	718-719	,	_	_	
+12-6	720-728	Military	_	_	
+12-7	728-729	,	_	_	
+12-8	730-733	and	_	_	
+12-9	734-743	Volunteer	_	_	
+12-10	744-751	Outfits	_	_	
+12-11	751-752	.	_	_	
+
+#Text=Corporation, Official, Clerical, and Barristers’ Robes.
+13-1	753-764	Corporation	_	_	
+13-2	764-765	,	_	_	
+13-3	766-774	Official	_	_	
+13-4	774-775	,	_	_	
+13-5	776-784	Clerical	_	_	
+13-6	784-785	,	_	_	
+13-7	786-789	and	_	_	
+13-8	790-800	Barristers	_	_	
+13-9	800-801	’	_	_	
+13-10	802-807	Robes	_	_	
+13-11	807-808	.	_	_	
+
+#Text=Liveries for Servants, Clubs, and Public Companies, Ac.
+14-1	809-817	Liveries	_	_	
+14-2	818-821	for	_	_	
+14-3	822-830	Servants	_	_	
+14-4	830-831	,	_	_	
+14-5	832-837	Clubs	_	_	
+14-6	837-838	,	_	_	
+14-7	839-842	and	_	_	
+14-8	843-849	Public	_	_	
+14-9	850-859	Companies	_	_	
+14-10	859-860	,	_	_	
+14-11	861-863	Ac	_	_	
+14-12	863-864	.	_	_	
+
+#Text=The Cloths for the various seasons forwarded from time to time hv the Company’s buyers are manufactured by eminent West of England, Scotch, and French manufacturers, from the finest Australian and Cape wools, and include the Newest and most Stylish Patterns; they are wool dyed, thoroughly shrunk, fashionable, and for quality cannot be surpassed by any house in the kingdom.
+15-1	865-868	The	_	_	
+15-2	869-875	Cloths	_	_	
+15-3	876-879	for	_	_	
+15-4	880-883	the	_	_	
+15-5	884-891	various	_	_	
+15-6	892-899	seasons	_	_	
+15-7	900-909	forwarded	_	_	
+15-8	910-914	from	_	_	
+15-9	915-919	time	_	_	
+15-10	920-922	to	_	_	
+15-11	923-927	time	_	_	
+15-12	928-930	hv	_	_	
+15-13	931-934	the	_	_	
+15-14	935-942	Company	_	_	
+15-15	942-943	’	_	_	
+15-16	943-944	s	_	_	
+15-17	945-951	buyers	_	_	
+15-18	952-955	are	_	_	
+15-19	956-968	manufactured	_	_	
+15-20	969-971	by	_	_	
+15-21	972-979	eminent	_	_	
+15-22	980-984	West	_	_	
+15-23	985-987	of	_	_	
+15-24	988-995	England	https://en.wikipedia.org/wiki/England	LOC	
+15-25	995-996	,	_	_	
+15-26	997-1003	Scotch	_	_	
+15-27	1003-1004	,	_	_	
+15-28	1005-1008	and	_	_	
+15-29	1009-1015	French	_	_	
+15-30	1016-1029	manufacturers	_	_	
+15-31	1029-1030	,	_	_	
+15-32	1031-1035	from	_	_	
+15-33	1036-1039	the	_	_	
+15-34	1040-1046	finest	_	_	
+15-35	1047-1057	Australian	_	_	
+15-36	1058-1061	and	_	_	
+15-37	1062-1066	Cape	_	_	
+15-38	1067-1072	wools	_	_	
+15-39	1072-1073	,	_	_	
+15-40	1074-1077	and	_	_	
+15-41	1078-1085	include	_	_	
+15-42	1086-1089	the	_	_	
+15-43	1090-1096	Newest	_	_	
+15-44	1097-1100	and	_	_	
+15-45	1101-1105	most	_	_	
+15-46	1106-1113	Stylish	_	_	
+15-47	1114-1122	Patterns	_	_	
+15-48	1122-1123	;	_	_	
+15-49	1124-1128	they	_	_	
+15-50	1129-1132	are	_	_	
+15-51	1133-1137	wool	_	_	
+15-52	1138-1142	dyed	_	_	
+15-53	1142-1143	,	_	_	
+15-54	1144-1154	thoroughly	_	_	
+15-55	1155-1161	shrunk	_	_	
+15-56	1161-1162	,	_	_	
+15-57	1163-1174	fashionable	_	_	
+15-58	1174-1175	,	_	_	
+15-59	1176-1179	and	_	_	
+15-60	1180-1183	for	_	_	
+15-61	1184-1191	quality	_	_	
+15-62	1192-1198	cannot	_	_	
+15-63	1199-1201	be	_	_	
+15-64	1202-1211	surpassed	_	_	
+15-65	1212-1214	by	_	_	
+15-66	1215-1218	any	_	_	
+15-67	1219-1224	house	_	_	
+15-68	1225-1227	in	_	_	
+15-69	1228-1231	the	_	_	
+15-70	1232-1239	kingdom	_	_	
+15-71	1239-1240	.	_	_	
+
+#Text=Foreigners and other gentlemen visiting Manchester and Bradford, may secure from the Company the most substantial advantages in quality, style, and price.—25, Charles street, Bradford, Yorkshire, and 34, St.
+16-1	1241-1251	Foreigners	_	_	
+16-2	1252-1255	and	_	_	
+16-3	1256-1261	other	_	_	
+16-4	1262-1271	gentlemen	_	_	
+16-5	1272-1280	visiting	_	_	
+16-6	1281-1291	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+16-7	1292-1295	and	_	_	
+16-8	1296-1304	Bradford	https://en.wikipedia.org/wiki/Bradford	LOC	
+16-9	1304-1305	,	_	_	
+16-10	1306-1309	may	_	_	
+16-11	1310-1316	secure	_	_	
+16-12	1317-1321	from	_	_	
+16-13	1322-1325	the	_	_	
+16-14	1326-1333	Company	_	_	
+16-15	1334-1337	the	_	_	
+16-16	1338-1342	most	_	_	
+16-17	1343-1354	substantial	_	_	
+16-18	1355-1365	advantages	_	_	
+16-19	1366-1368	in	_	_	
+16-20	1369-1376	quality	_	_	
+16-21	1376-1377	,	_	_	
+16-22	1378-1383	style	_	_	
+16-23	1383-1384	,	_	_	
+16-24	1385-1388	and	_	_	
+16-25	1389-1394	price	_	_	
+16-26	1394-1395	.	_	_	
+16-27	1395-1396	—	_	_	
+16-28	1396-1398	25	_	_	
+16-29	1398-1399	,	_	_	
+16-30	1400-1407	Charles	*[1]	STREET[1]	
+16-31	1408-1414	street	*[1]	STREET[1]	
+16-32	1414-1415	,	_	_	
+16-33	1416-1424	Bradford	https://en.wikipedia.org/wiki/Bradford	LOC	
+16-34	1424-1425	,	_	_	
+16-35	1426-1435	Yorkshire	https://en.wikipedia.org/wiki/Yorkshire	LOC	
+16-36	1435-1436	,	_	_	
+16-37	1437-1440	and	_	_	
+16-38	1441-1443	34	_	_	
+16-39	1443-1444	,	_	_	
+16-40	1445-1447	St	*[2]	STREET[2]	
+16-41	1447-1448	.	*[2]	STREET[2]	
+
+#Text=Ann’s-street Cross street End), Manchester
+17-1	1449-1452	Ann	*[2]	STREET[2]	
+17-2	1452-1453	’	*[2]	STREET[2]	
+17-3	1453-1461	s-street	*[2]	STREET[2]	
+17-4	1462-1467	Cross	*[3]	STREET[3]	
+17-5	1468-1474	street	*[3]	STREET[3]	
+17-6	1475-1478	End	*[3]	STREET[3]	
+17-7	1478-1479	)	_	_	
+17-8	1479-1480	,	_	_	
+17-9	1481-1491	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	

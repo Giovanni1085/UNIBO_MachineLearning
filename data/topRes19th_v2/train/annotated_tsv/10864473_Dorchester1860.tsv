@@ -1,0 +1,613 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=SCHOLASTIC EDUCATION COMBINED WITH 
+#Text=SPORTING.
+1-1	0-10	SCHOLASTIC	_	_	
+1-2	11-20	EDUCATION	_	_	
+1-3	21-29	COMBINED	_	_	
+1-4	30-34	WITH	_	_	
+1-5	36-44	SPORTING	_	_	
+1-6	44-45	.	_	_	
+
+#Text=FREEHOLD FAMILY RESIDENCE, 
+#Text=SHERBORNE, DORSET.
+2-1	46-54	FREEHOLD	_	_	
+2-2	55-61	FAMILY	_	_	
+2-3	62-71	RESIDENCE	_	_	
+2-4	71-72	,	_	_	
+2-5	74-83	SHERBORNE	https://en.wikipedia.org/wiki/Sherborne	LOC	
+2-6	83-84	,	_	_	
+2-7	85-91	DORSET	https://en.wikipedia.org/wiki/Dorset	LOC	
+2-8	91-92	.	_	_	
+
+#Text=TO BE SOLD OR LET,—A Large and Commodioua DWELLING-HOUSE and OFFICES, replete with eTery convenience, situate within its own Grounds, and perfectly secluded, though in the centre of the Town.
+3-1	93-95	TO	_	_	
+3-2	96-98	BE	_	_	
+3-3	99-103	SOLD	_	_	
+3-4	104-106	OR	_	_	
+3-5	107-110	LET	_	_	
+3-6	110-111	,	_	_	
+3-7	111-112	—	_	_	
+3-8	112-113	A	_	_	
+3-9	114-119	Large	_	_	
+3-10	120-123	and	_	_	
+3-11	124-134	Commodioua	_	_	
+3-12	135-149	DWELLING-HOUSE	_	_	
+3-13	150-153	and	_	_	
+3-14	154-161	OFFICES	_	_	
+3-15	161-162	,	_	_	
+3-16	163-170	replete	_	_	
+3-17	171-175	with	_	_	
+3-18	176-181	eTery	_	_	
+3-19	182-193	convenience	_	_	
+3-20	193-194	,	_	_	
+3-21	195-202	situate	_	_	
+3-22	203-209	within	_	_	
+3-23	210-213	its	_	_	
+3-24	214-217	own	_	_	
+3-25	218-225	Grounds	_	_	
+3-26	225-226	,	_	_	
+3-27	227-230	and	_	_	
+3-28	231-240	perfectly	_	_	
+3-29	241-249	secluded	_	_	
+3-30	249-250	,	_	_	
+3-31	251-257	though	_	_	
+3-32	258-260	in	_	_	
+3-33	261-264	the	_	_	
+3-34	265-271	centre	_	_	
+3-35	272-274	of	_	_	
+3-36	275-278	the	_	_	
+3-37	279-283	Town	_	_	
+3-38	283-284	.	_	_	
+
+#Text=The House is a Modern Villa, pleasantly situated on a handsome lawn, with verandah, pleasure grounds, and shrubberies, productive walled garden, summerhouse, excellent vinery, and forcing house Ac.
+4-1	286-289	The	_	_	
+4-2	290-295	House	_	_	
+4-3	296-298	is	_	_	
+4-4	299-300	a	_	_	
+4-5	301-307	Modern	_	_	
+4-6	308-313	Villa	_	_	
+4-7	313-314	,	_	_	
+4-8	315-325	pleasantly	_	_	
+4-9	326-334	situated	_	_	
+4-10	335-337	on	_	_	
+4-11	338-339	a	_	_	
+4-12	340-348	handsome	_	_	
+4-13	349-353	lawn	_	_	
+4-14	353-354	,	_	_	
+4-15	355-359	with	_	_	
+4-16	360-368	verandah	_	_	
+4-17	368-369	,	_	_	
+4-18	370-378	pleasure	_	_	
+4-19	379-386	grounds	_	_	
+4-20	386-387	,	_	_	
+4-21	388-391	and	_	_	
+4-22	392-403	shrubberies	_	_	
+4-23	403-404	,	_	_	
+4-24	405-415	productive	_	_	
+4-25	416-422	walled	_	_	
+4-26	423-429	garden	_	_	
+4-27	429-430	,	_	_	
+4-28	431-442	summerhouse	_	_	
+4-29	442-443	,	_	_	
+4-30	444-453	excellent	_	_	
+4-31	454-460	vinery	_	_	
+4-32	460-461	,	_	_	
+4-33	462-465	and	_	_	
+4-34	466-473	forcing	_	_	
+4-35	474-479	house	_	_	
+4-36	480-482	Ac	_	_	
+4-37	482-483	.	_	_	
+
+#Text=It contains 15 rooms—vis., 4 sitting, 9 bed, and 2 dressing-rooms, with closets, strongroom, pantries, kitchens, larder, and spacious cellars.
+5-1	484-486	It	_	_	
+5-2	487-495	contains	_	_	
+5-3	496-498	15	_	_	
+5-4	499-508	rooms—vis	_	_	
+5-5	508-509	.	_	_	
+5-6	509-510	,	_	_	
+5-7	511-512	4	_	_	
+5-8	513-520	sitting	_	_	
+5-9	520-521	,	_	_	
+5-10	522-523	9	_	_	
+5-11	524-527	bed	_	_	
+5-12	527-528	,	_	_	
+5-13	529-532	and	_	_	
+5-14	533-534	2	_	_	
+5-15	535-549	dressing-rooms	_	_	
+5-16	549-550	,	_	_	
+5-17	551-555	with	_	_	
+5-18	556-563	closets	_	_	
+5-19	563-564	,	_	_	
+5-20	565-575	strongroom	_	_	
+5-21	575-576	,	_	_	
+5-22	577-585	pantries	_	_	
+5-23	585-586	,	_	_	
+5-24	587-595	kitchens	_	_	
+5-25	595-596	,	_	_	
+5-26	597-603	larder	_	_	
+5-27	603-604	,	_	_	
+5-28	605-608	and	_	_	
+5-29	609-617	spacious	_	_	
+5-30	618-625	cellars	_	_	
+5-31	625-626	.	_	_	
+
+#Text=Adjoining is the yard with double coachhouse, stabling for 4 horses, loft, and man servant’s-room over.
+6-1	627-636	Adjoining	_	_	
+6-2	637-639	is	_	_	
+6-3	640-643	the	_	_	
+6-4	644-648	yard	_	_	
+6-5	649-653	with	_	_	
+6-6	654-660	double	_	_	
+6-7	661-671	coachhouse	_	_	
+6-8	671-672	,	_	_	
+6-9	673-681	stabling	_	_	
+6-10	682-685	for	_	_	
+6-11	686-687	4	_	_	
+6-12	688-694	horses	_	_	
+6-13	694-695	,	_	_	
+6-14	696-700	loft	_	_	
+6-15	700-701	,	_	_	
+6-16	702-705	and	_	_	
+6-17	706-709	man	_	_	
+6-18	710-717	servant	_	_	
+6-19	717-718	’	_	_	
+6-20	718-724	s-room	_	_	
+6-21	725-729	over	_	_	
+6-22	729-730	.	_	_	
+
+#Text=There are also 11 Freehold Cottages and Yards, &c., adjoining, and a Leasehold Walled Garden, to be sold with or without the above.
+7-1	731-736	There	_	_	
+7-2	737-740	are	_	_	
+7-3	741-745	also	_	_	
+7-4	746-748	11	_	_	
+7-5	749-757	Freehold	_	_	
+7-6	758-766	Cottages	_	_	
+7-7	767-770	and	_	_	
+7-8	771-776	Yards	_	_	
+7-9	776-777	,	_	_	
+7-10	778-779	&	_	_	
+7-11	779-780	c	_	_	
+7-12	780-781	.	_	_	
+7-13	781-782	,	_	_	
+7-14	783-792	adjoining	_	_	
+7-15	792-793	,	_	_	
+7-16	794-797	and	_	_	
+7-17	798-799	a	_	_	
+7-18	800-809	Leasehold	_	_	
+7-19	810-816	Walled	_	_	
+7-20	817-823	Garden	_	_	
+7-21	823-824	,	_	_	
+7-22	825-827	to	_	_	
+7-23	828-830	be	_	_	
+7-24	831-835	sold	_	_	
+7-25	836-840	with	_	_	
+7-26	841-843	or	_	_	
+7-27	844-851	without	_	_	
+7-28	852-855	the	_	_	
+7-29	856-861	above	_	_	
+7-30	861-862	.	_	_	
+
+#Text=Sherborne is a First Class Station on the direct London and Exeter Bailway, and in communication by rail with Weymouth, Bath, and all parts of tne West of England.
+8-1	864-873	Sherborne	https://en.wikipedia.org/wiki/Sherborne	LOC	
+8-2	874-876	is	_	_	
+8-3	877-878	a	_	_	
+8-4	879-884	First	_	_	
+8-5	885-890	Class	_	_	
+8-6	891-898	Station	_	_	
+8-7	899-901	on	_	_	
+8-8	902-905	the	_	_	
+8-9	906-912	direct	_	_	
+8-10	913-919	London	https://en.wikipedia.org/wiki/London	LOC	
+8-11	920-923	and	_	_	
+8-12	924-930	Exeter	https://en.wikipedia.org/wiki/Exeter	LOC	
+8-13	931-938	Bailway	_	_	
+8-14	938-939	,	_	_	
+8-15	940-943	and	_	_	
+8-16	944-946	in	_	_	
+8-17	947-960	communication	_	_	
+8-18	961-963	by	_	_	
+8-19	964-968	rail	_	_	
+8-20	969-973	with	_	_	
+8-21	974-982	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+8-22	982-983	,	_	_	
+8-23	984-988	Bath	https://en.wikipedia.org/wiki/Bath,\_Somerset	LOC	
+8-24	988-989	,	_	_	
+8-25	990-993	and	_	_	
+8-26	994-997	all	_	_	
+8-27	998-1003	parts	_	_	
+8-28	1004-1006	of	_	_	
+8-29	1007-1010	tne	_	_	
+8-30	1011-1015	West	_	_	
+8-31	1016-1018	of	_	_	
+8-32	1019-1026	England	https://en.wikipedia.org/wiki/England	LOC	
+8-33	1026-1027	.	_	_	
+
+#Text=It is renowned for its Abbey Church, Park, and Hoyal Foundation School, at which residents sons receive a firstrate education for the small annual payment of six guineas.
+9-1	1028-1030	It	_	_	
+9-2	1031-1033	is	_	_	
+9-3	1034-1042	renowned	_	_	
+9-4	1043-1046	for	_	_	
+9-5	1047-1050	its	_	_	
+9-6	1051-1056	Abbey	https://en.wikipedia.org/wiki/Sherborne\_Abbey[1]	BUILDING[1]	
+9-7	1057-1063	Church	https://en.wikipedia.org/wiki/Sherborne\_Abbey[1]	BUILDING[1]	
+9-8	1063-1064	,	_	_	
+9-9	1065-1069	Park	_	_	
+9-10	1069-1070	,	_	_	
+9-11	1071-1074	and	_	_	
+9-12	1075-1080	Hoyal	*[2]	BUILDING[2]	
+9-13	1081-1091	Foundation	*[2]	BUILDING[2]	
+9-14	1092-1098	School	*[2]	BUILDING[2]	
+9-15	1098-1099	,	_	_	
+9-16	1100-1102	at	_	_	
+9-17	1103-1108	which	_	_	
+9-18	1109-1118	residents	_	_	
+9-19	1119-1123	sons	_	_	
+9-20	1124-1131	receive	_	_	
+9-21	1132-1133	a	_	_	
+9-22	1134-1143	firstrate	_	_	
+9-23	1144-1153	education	_	_	
+9-24	1154-1157	for	_	_	
+9-25	1158-1161	the	_	_	
+9-26	1162-1167	small	_	_	
+9-27	1168-1174	annual	_	_	
+9-28	1175-1182	payment	_	_	
+9-29	1183-1185	of	_	_	
+9-30	1186-1189	six	_	_	
+9-31	1190-1197	guineas	_	_	
+9-32	1197-1198	.	_	_	
+
+#Text=Sherborne is also the head quarters of the famed Blackmoor Vale Hunt, and within reach of Mr.
+10-1	1199-1208	Sherborne	https://en.wikipedia.org/wiki/Sherborne	LOC	
+10-2	1209-1211	is	_	_	
+10-3	1212-1216	also	_	_	
+10-4	1217-1220	the	_	_	
+10-5	1221-1225	head	_	_	
+10-6	1226-1234	quarters	_	_	
+10-7	1235-1237	of	_	_	
+10-8	1238-1241	the	_	_	
+10-9	1242-1247	famed	_	_	
+10-10	1248-1257	Blackmoor	https://en.wikipedia.org/wiki/Blackmore\_Vale[3]	LOC[3]	
+10-11	1258-1262	Vale	https://en.wikipedia.org/wiki/Blackmore\_Vale[3]	LOC[3]	
+10-12	1263-1267	Hunt	_	_	
+10-13	1267-1268	,	_	_	
+10-14	1269-1272	and	_	_	
+10-15	1273-1279	within	_	_	
+10-16	1280-1285	reach	_	_	
+10-17	1286-1288	of	_	_	
+10-18	1289-1291	Mr	_	_	
+10-19	1291-1292	.	_	_	
+
+#Text=Radclyffe’s and Lord Poltimore’s Hounds.
+11-1	1293-1302	Radclyffe	_	_	
+11-2	1302-1303	’	_	_	
+11-3	1303-1304	s	_	_	
+11-4	1305-1308	and	_	_	
+11-5	1309-1313	Lord	_	_	
+11-6	1314-1323	Poltimore	_	_	
+11-7	1323-1324	’	_	_	
+11-8	1324-1325	s	_	_	
+11-9	1326-1332	Hounds	_	_	
+11-10	1332-1333	.	_	_	
+
+#Text=For particulars and terms, and to view the Premises, apply to Mr.
+12-1	1334-1337	For	_	_	
+12-2	1338-1349	particulars	_	_	
+12-3	1350-1353	and	_	_	
+12-4	1354-1359	terms	_	_	
+12-5	1359-1360	,	_	_	
+12-6	1361-1364	and	_	_	
+12-7	1365-1367	to	_	_	
+12-8	1368-1372	view	_	_	
+12-9	1373-1376	the	_	_	
+12-10	1377-1385	Premises	_	_	
+12-11	1385-1386	,	_	_	
+12-12	1387-1392	apply	_	_	
+12-13	1393-1395	to	_	_	
+12-14	1396-1398	Mr	_	_	
+12-15	1398-1399	.	_	_	
+
+#Text=J.
+13-1	1400-1401	J	_	_	
+13-2	1401-1402	.	_	_	
+
+#Text=Y.
+14-1	1403-1404	Y	_	_	
+14-2	1404-1405	.	_	_	
+
+#Text=Mslxoth, Solicitor,or to Mr.
+15-1	1406-1413	Mslxoth	_	_	
+15-2	1413-1414	,	_	_	
+15-3	1415-1424	Solicitor	_	_	
+15-4	1424-1425	,	_	_	
+15-5	1425-1427	or	_	_	
+15-6	1428-1430	to	_	_	
+15-7	1431-1433	Mr	_	_	
+15-8	1433-1434	.	_	_	
+
+#Text=C.
+16-1	1435-1436	C	_	_	
+16-2	1436-1437	.	_	_	
+
+#Text=S.
+17-1	1438-1439	S	_	_	
+17-2	1439-1440	.	_	_	
+
+#Text=Newxa9, Surveyor, Valuer, and Engineer, Sherborne, Dorset. 1212 
+#Text=EOR SALE, 3 HUNTERS, the Property of an Officer going on Foreign Service: I.
+18-1	1441-1447	Newxa9	_	_	
+18-2	1447-1448	,	_	_	
+18-3	1449-1457	Surveyor	_	_	
+18-4	1457-1458	,	_	_	
+18-5	1459-1465	Valuer	_	_	
+18-6	1465-1466	,	_	_	
+18-7	1467-1470	and	_	_	
+18-8	1471-1479	Engineer	_	_	
+18-9	1479-1480	,	_	_	
+18-10	1481-1490	Sherborne	https://en.wikipedia.org/wiki/Sherborne	LOC	
+18-11	1490-1491	,	_	_	
+18-12	1492-1498	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+18-13	1498-1499	.	_	_	
+18-14	1500-1504	1212	_	_	
+18-15	1506-1509	EOR	_	_	
+18-16	1510-1514	SALE	_	_	
+18-17	1514-1515	,	_	_	
+18-18	1516-1517	3	_	_	
+18-19	1518-1525	HUNTERS	_	_	
+18-20	1525-1526	,	_	_	
+18-21	1527-1530	the	_	_	
+18-22	1531-1539	Property	_	_	
+18-23	1540-1542	of	_	_	
+18-24	1543-1545	an	_	_	
+18-25	1546-1553	Officer	_	_	
+18-26	1554-1559	going	_	_	
+18-27	1560-1562	on	_	_	
+18-28	1563-1570	Foreign	_	_	
+18-29	1571-1578	Service	_	_	
+18-30	1578-1579	:	_	_	
+18-31	1580-1581	I	_	_	
+18-32	1581-1582	.	_	_	
+
+#Text=—A Black Horse, 16 hands, rising 6, a perfect fencer, and up to 15 stone.
+19-1	1582-1583	—	_	_	
+19-2	1583-1584	A	_	_	
+19-3	1585-1590	Black	_	_	
+19-4	1591-1596	Horse	_	_	
+19-5	1596-1597	,	_	_	
+19-6	1598-1600	16	_	_	
+19-7	1601-1606	hands	_	_	
+19-8	1606-1607	,	_	_	
+19-9	1608-1614	rising	_	_	
+19-10	1615-1616	6	_	_	
+19-11	1616-1617	,	_	_	
+19-12	1618-1619	a	_	_	
+19-13	1620-1627	perfect	_	_	
+19-14	1628-1634	fencer	_	_	
+19-15	1634-1635	,	_	_	
+19-16	1636-1639	and	_	_	
+19-17	1640-1642	up	_	_	
+19-18	1643-1645	to	_	_	
+19-19	1646-1648	15	_	_	
+19-20	1649-1654	stone	_	_	
+19-21	1654-1655	.	_	_	
+
+#Text=—Price 150 Pounds. 
+#Text=2.
+20-1	1655-1656	—	_	_	
+20-2	1656-1661	Price	_	_	
+20-3	1662-1665	150	_	_	
+20-4	1666-1672	Pounds	_	_	
+20-5	1672-1673	.	_	_	
+20-6	1675-1676	2	_	_	
+20-7	1676-1677	.	_	_	
+
+#Text=—A Chesnut Horae, 15.3, a very good Hunter, nearly thorough-bred, and up to 13t stone.
+21-1	1678-1679	—	_	_	
+21-2	1679-1680	A	_	_	
+21-3	1681-1688	Chesnut	_	_	
+21-4	1689-1694	Horae	_	_	
+21-5	1694-1695	,	_	_	
+21-6	1696-1700	15.3	_	_	
+21-7	1700-1701	,	_	_	
+21-8	1702-1703	a	_	_	
+21-9	1704-1708	very	_	_	
+21-10	1709-1713	good	_	_	
+21-11	1714-1720	Hunter	_	_	
+21-12	1720-1721	,	_	_	
+21-13	1722-1728	nearly	_	_	
+21-14	1729-1742	thorough-bred	_	_	
+21-15	1742-1743	,	_	_	
+21-16	1744-1747	and	_	_	
+21-17	1748-1750	up	_	_	
+21-18	1751-1753	to	_	_	
+21-19	1754-1757	13t	_	_	
+21-20	1758-1763	stone	_	_	
+21-21	1763-1764	.	_	_	
+
+#Text=—Price 60 Pounds. 3.
+22-1	1764-1765	—	_	_	
+22-2	1765-1770	Price	_	_	
+22-3	1771-1773	60	_	_	
+22-4	1774-1780	Pounds	_	_	
+22-5	1780-1781	.	_	_	
+22-6	1782-1783	3	_	_	
+22-7	1783-1784	.	_	_	
+
+#Text=—A Bay Horse, 15.2, a perfect fencer, and up to l3i stone.
+23-1	1785-1786	—	_	_	
+23-2	1786-1787	A	_	_	
+23-3	1788-1791	Bay	_	_	
+23-4	1792-1797	Horse	_	_	
+23-5	1797-1798	,	_	_	
+23-6	1799-1803	15.2	_	_	
+23-7	1803-1804	,	_	_	
+23-8	1805-1806	a	_	_	
+23-9	1807-1814	perfect	_	_	
+23-10	1815-1821	fencer	_	_	
+23-11	1821-1822	,	_	_	
+23-12	1823-1826	and	_	_	
+23-13	1827-1829	up	_	_	
+23-14	1830-1832	to	_	_	
+23-15	1833-1836	l3i	_	_	
+23-16	1837-1842	stone	_	_	
+23-17	1842-1843	.	_	_	
+
+#Text=—Price 40 Pounds.
+24-1	1844-1845	—	_	_	
+24-2	1845-1850	Price	_	_	
+24-3	1851-1853	40	_	_	
+24-4	1854-1860	Pounds	_	_	
+24-5	1860-1861	.	_	_	
+
+#Text=These Horses are well known with the Blackmoor Vale Hounds, and a fair trial can be bad by application at Wootton-House, Glastonbury. [230 
+#Text=CHURCHEa, CHAPELS, AND FAMILIES.
+25-1	1863-1868	These	_	_	
+25-2	1869-1875	Horses	_	_	
+25-3	1876-1879	are	_	_	
+25-4	1880-1884	well	_	_	
+25-5	1885-1890	known	_	_	
+25-6	1891-1895	with	_	_	
+25-7	1896-1899	the	_	_	
+25-8	1900-1909	Blackmoor	https://en.wikipedia.org/wiki/Blackmore\_Vale[4]	LOC[4]	
+25-9	1910-1914	Vale	https://en.wikipedia.org/wiki/Blackmore\_Vale[4]	LOC[4]	
+25-10	1915-1921	Hounds	_	_	
+25-11	1921-1922	,	_	_	
+25-12	1923-1926	and	_	_	
+25-13	1927-1928	a	_	_	
+25-14	1929-1933	fair	_	_	
+25-15	1934-1939	trial	_	_	
+25-16	1940-1943	can	_	_	
+25-17	1944-1946	be	_	_	
+25-18	1947-1950	bad	_	_	
+25-19	1951-1953	by	_	_	
+25-20	1954-1965	application	_	_	
+25-21	1966-1968	at	_	_	
+25-22	1969-1982	Wootton-House	*	BUILDING	
+25-23	1982-1983	,	_	_	
+25-24	1984-1995	Glastonbury	https://en.wikipedia.org/wiki/Glastonbury	LOC	
+25-25	1995-1996	.	_	_	
+25-26	1997-1998	[	_	_	
+25-27	1998-2001	230	_	_	
+25-28	2003-2011	CHURCHEa	_	_	
+25-29	2011-2012	,	_	_	
+25-30	2013-2020	CHAPELS	_	_	
+25-31	2020-2021	,	_	_	
+25-32	2022-2025	AND	_	_	
+25-33	2026-2034	FAMILIES	_	_	
+25-34	2034-2035	.	_	_	
+
+#Text=EOR SALE,—A well-toned BARREL ORGAN, with DRUM and TRIANGLE, having one Barrel set to Sacred Music, and Two to Waltzes, Airs, &c., for domestic recreation.
+26-1	2036-2039	EOR	_	_	
+26-2	2040-2044	SALE	_	_	
+26-3	2044-2045	,	_	_	
+26-4	2045-2046	—	_	_	
+26-5	2046-2047	A	_	_	
+26-6	2048-2058	well-toned	_	_	
+26-7	2059-2065	BARREL	_	_	
+26-8	2066-2071	ORGAN	_	_	
+26-9	2071-2072	,	_	_	
+26-10	2073-2077	with	_	_	
+26-11	2078-2082	DRUM	_	_	
+26-12	2083-2086	and	_	_	
+26-13	2087-2095	TRIANGLE	_	_	
+26-14	2095-2096	,	_	_	
+26-15	2097-2103	having	_	_	
+26-16	2104-2107	one	_	_	
+26-17	2108-2114	Barrel	_	_	
+26-18	2115-2118	set	_	_	
+26-19	2119-2121	to	_	_	
+26-20	2122-2128	Sacred	_	_	
+26-21	2129-2134	Music	_	_	
+26-22	2134-2135	,	_	_	
+26-23	2136-2139	and	_	_	
+26-24	2140-2143	Two	_	_	
+26-25	2144-2146	to	_	_	
+26-26	2147-2154	Waltzes	_	_	
+26-27	2154-2155	,	_	_	
+26-28	2156-2160	Airs	_	_	
+26-29	2160-2161	,	_	_	
+26-30	2162-2163	&	_	_	
+26-31	2163-2164	c	_	_	
+26-32	2164-2165	.	_	_	
+26-33	2165-2166	,	_	_	
+26-34	2167-2170	for	_	_	
+26-35	2171-2179	domestic	_	_	
+26-36	2180-2190	recreation	_	_	
+26-37	2190-2191	.	_	_	
+
+#Text=The above Organ is well adapted for a Small Church or Chapel.
+27-1	2192-2195	The	_	_	
+27-2	2196-2201	above	_	_	
+27-3	2202-2207	Organ	_	_	
+27-4	2208-2210	is	_	_	
+27-5	2211-2215	well	_	_	
+27-6	2216-2223	adapted	_	_	
+27-7	2224-2227	for	_	_	
+27-8	2228-2229	a	_	_	
+27-9	2230-2235	Small	_	_	
+27-10	2236-2242	Church	_	_	
+27-11	2243-2245	or	_	_	
+27-12	2246-2252	Chapel	_	_	
+27-13	2252-2253	.	_	_	
+
+#Text=The two last named Barrels could be reset to Sacred Music at a trifling cost.
+28-1	2254-2257	The	_	_	
+28-2	2258-2261	two	_	_	
+28-3	2262-2266	last	_	_	
+28-4	2267-2272	named	_	_	
+28-5	2273-2280	Barrels	_	_	
+28-6	2281-2286	could	_	_	
+28-7	2287-2289	be	_	_	
+28-8	2290-2295	reset	_	_	
+28-9	2296-2298	to	_	_	
+28-10	2299-2305	Sacred	_	_	
+28-11	2306-2311	Music	_	_	
+28-12	2312-2314	at	_	_	
+28-13	2315-2316	a	_	_	
+28-14	2317-2325	trifling	_	_	
+28-15	2326-2330	cost	_	_	
+28-16	2330-2331	.	_	_	
+
+#Text=The original cost of this Organ was £5O, and is now to be Sold at a considerable reduction.
+29-1	2332-2335	The	_	_	
+29-2	2336-2344	original	_	_	
+29-3	2345-2349	cost	_	_	
+29-4	2350-2352	of	_	_	
+29-5	2353-2357	this	_	_	
+29-6	2358-2363	Organ	_	_	
+29-7	2364-2367	was	_	_	
+29-8	2368-2371	£5O	_	_	
+29-9	2371-2372	,	_	_	
+29-10	2373-2376	and	_	_	
+29-11	2377-2379	is	_	_	
+29-12	2380-2383	now	_	_	
+29-13	2384-2386	to	_	_	
+29-14	2387-2389	be	_	_	
+29-15	2390-2394	Sold	_	_	
+29-16	2395-2397	at	_	_	
+29-17	2398-2399	a	_	_	
+29-18	2400-2412	considerable	_	_	
+29-19	2413-2422	reduction	_	_	
+29-20	2422-2423	.	_	_	
+
+#Text=Apply to i\\\\Q Dorset County Chronicle and Somersetshire Gazette Office, Dorchester. [240
+30-1	2424-2429	Apply	_	_	
+30-2	2430-2432	to	_	_	
+30-3	2433-2434	i	_	_	
+30-4	2434-2435	\	_	_	
+30-5	2435-2436	\	_	_	
+30-6	2436-2437	Q	_	_	
+30-7	2438-2444	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+30-8	2445-2451	County	_	_	
+30-9	2452-2461	Chronicle	_	_	
+30-10	2462-2465	and	_	_	
+30-11	2466-2479	Somersetshire	https://en.wikipedia.org/wiki/Somerset	LOC	
+30-12	2480-2487	Gazette	_	_	
+30-13	2488-2494	Office	_	_	
+30-14	2494-2495	,	_	_	
+30-15	2496-2506	Dorchester	_	_	
+30-16	2506-2507	.	_	_	
+30-17	2508-2509	[	_	_	
+30-18	2509-2512	240	_	_	

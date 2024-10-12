@@ -1,0 +1,246 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=LATEST MARKET REPORTS.
+1-1	0-6	LATEST	_	_	
+1-2	7-13	MARKET	_	_	
+1-3	14-21	REPORTS	_	_	
+1-4	21-22	.	_	_	
+
+#Text=Leeds, Feb. 24.
+2-1	24-29	Leeds	https://en.wikipedia.org/wiki/City\_of\_Leeds	LOC	
+2-2	29-30	,	_	_	
+2-3	31-34	Feb	_	_	
+2-4	34-35	.	_	_	
+2-5	36-38	24	_	_	
+2-6	38-39	.	_	_	
+
+#Text=—We have to report another exceedingly slow market.
+3-1	39-40	—	_	_	
+3-2	40-42	We	_	_	
+3-3	43-47	have	_	_	
+3-4	48-50	to	_	_	
+3-5	51-57	report	_	_	
+3-6	58-65	another	_	_	
+3-7	66-77	exceedingly	_	_	
+3-8	78-82	slow	_	_	
+3-9	83-89	market	_	_	
+3-10	89-90	.	_	_	
+
+#Text=Factors offer wheat at a reduction of ls. per qr., at which decline only a very limited business is transacted.
+4-1	91-98	Factors	_	_	
+4-2	99-104	offer	_	_	
+4-3	105-110	wheat	_	_	
+4-4	111-113	at	_	_	
+4-5	114-115	a	_	_	
+4-6	116-125	reduction	_	_	
+4-7	126-128	of	_	_	
+4-8	129-131	ls	_	_	
+4-9	131-132	.	_	_	
+4-10	133-136	per	_	_	
+4-11	137-139	qr	_	_	
+4-12	139-140	.	_	_	
+4-13	140-141	,	_	_	
+4-14	142-144	at	_	_	
+4-15	145-150	which	_	_	
+4-16	151-158	decline	_	_	
+4-17	159-163	only	_	_	
+4-18	164-165	a	_	_	
+4-19	166-170	very	_	_	
+4-20	171-178	limited	_	_	
+4-21	179-187	business	_	_	
+4-22	188-190	is	_	_	
+4-23	191-201	transacted	_	_	
+4-24	201-202	.	_	_	
+
+#Text=Barley firm.
+5-1	203-209	Barley	_	_	
+5-2	210-214	firm	_	_	
+5-3	214-215	.	_	_	
+
+#Text=Oats and beans a dull sale.
+6-1	216-220	Oats	_	_	
+6-2	221-224	and	_	_	
+6-3	225-230	beans	_	_	
+6-4	231-232	a	_	_	
+6-5	233-237	dull	_	_	
+6-6	238-242	sale	_	_	
+6-7	242-243	.	_	_	
+
+#Text=The average prices for the week ending February 23 were: — Wheat, 4i)s. per qr.; barley, 355. 6d.; oats, 225. 5d.; beans, 30s.
+7-1	244-247	The	_	_	
+7-2	248-255	average	_	_	
+7-3	256-262	prices	_	_	
+7-4	263-266	for	_	_	
+7-5	267-270	the	_	_	
+7-6	271-275	week	_	_	
+7-7	276-282	ending	_	_	
+7-8	283-291	February	_	_	
+7-9	292-294	23	_	_	
+7-10	295-299	were	_	_	
+7-11	299-300	:	_	_	
+7-12	301-302	—	_	_	
+7-13	303-308	Wheat	_	_	
+7-14	308-309	,	_	_	
+7-15	310-312	4i	_	_	
+7-16	312-313	)	_	_	
+7-17	313-314	s	_	_	
+7-18	314-315	.	_	_	
+7-19	316-319	per	_	_	
+7-20	320-322	qr	_	_	
+7-21	322-323	.	_	_	
+7-22	323-324	;	_	_	
+7-23	325-331	barley	_	_	
+7-24	331-332	,	_	_	
+7-25	333-336	355	_	_	
+7-26	336-337	.	_	_	
+7-27	338-340	6d	_	_	
+7-28	340-341	.	_	_	
+7-29	341-342	;	_	_	
+7-30	343-347	oats	_	_	
+7-31	347-348	,	_	_	
+7-32	349-352	225	_	_	
+7-33	352-353	.	_	_	
+7-34	354-356	5d	_	_	
+7-35	356-357	.	_	_	
+7-36	357-358	;	_	_	
+7-37	359-364	beans	_	_	
+7-38	364-365	,	_	_	
+7-39	366-369	30s	_	_	
+7-40	369-370	.	_	_	
+
+#Text=G^d.
+8-1	371-372	G	_	_	
+8-2	372-373	^	_	_	
+8-3	373-374	d	_	_	
+8-4	374-375	.	_	_	
+
+#Text=Liverpool, Feb. 24.
+9-1	376-385	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+9-2	385-386	,	_	_	
+9-3	387-390	Feb	_	_	
+9-4	390-391	.	_	_	
+9-5	392-394	24	_	_	
+9-6	394-395	.	_	_	
+
+#Text=—The weather has been open and seasonable.
+10-1	395-396	—	_	_	
+10-2	396-399	The	_	_	
+10-3	400-407	weather	_	_	
+10-4	408-411	has	_	_	
+10-5	412-416	been	_	_	
+10-6	417-421	open	_	_	
+10-7	422-425	and	_	_	
+10-8	426-436	seasonable	_	_	
+10-9	436-437	.	_	_	
+
+#Text=At this days market there was a fair attendance of the town and country trade; however, the business done was insignificant, and quite of a retail character.
+11-1	438-440	At	_	_	
+11-2	441-445	this	_	_	
+11-3	446-450	days	_	_	
+11-4	451-457	market	_	_	
+11-5	458-463	there	_	_	
+11-6	464-467	was	_	_	
+11-7	468-469	a	_	_	
+11-8	470-474	fair	_	_	
+11-9	475-485	attendance	_	_	
+11-10	486-488	of	_	_	
+11-11	489-492	the	_	_	
+11-12	493-497	town	_	_	
+11-13	498-501	and	_	_	
+11-14	502-509	country	_	_	
+11-15	510-515	trade	_	_	
+11-16	515-516	;	_	_	
+11-17	517-524	however	_	_	
+11-18	524-525	,	_	_	
+11-19	526-529	the	_	_	
+11-20	530-538	business	_	_	
+11-21	539-543	done	_	_	
+11-22	544-547	was	_	_	
+11-23	548-561	insignificant	_	_	
+11-24	561-562	,	_	_	
+11-25	563-566	and	_	_	
+11-26	567-572	quite	_	_	
+11-27	573-575	of	_	_	
+11-28	576-577	a	_	_	
+11-29	578-584	retail	_	_	
+11-30	585-594	character	_	_	
+11-31	594-595	.	_	_	
+
+#Text=Wheat may be quoted 2d. per 1001b. lower on the week, where sales were made.
+12-1	596-601	Wheat	_	_	
+12-2	602-605	may	_	_	
+12-3	606-608	be	_	_	
+12-4	609-615	quoted	_	_	
+12-5	616-618	2d	_	_	
+12-6	618-619	.	_	_	
+12-7	620-623	per	_	_	
+12-8	624-629	1001b	_	_	
+12-9	629-630	.	_	_	
+12-10	631-636	lower	_	_	
+12-11	637-639	on	_	_	
+12-12	640-643	the	_	_	
+12-13	644-648	week	_	_	
+12-14	648-649	,	_	_	
+12-15	650-655	where	_	_	
+12-16	656-661	sales	_	_	
+12-17	662-666	were	_	_	
+12-18	667-671	made	_	_	
+12-19	671-672	.	_	_	
+
+#Text=Flour was held at late rates, but was difficult to move.
+13-1	673-678	Flour	_	_	
+13-2	679-682	was	_	_	
+13-3	683-687	held	_	_	
+13-4	688-690	at	_	_	
+13-5	691-695	late	_	_	
+13-6	696-701	rates	_	_	
+13-7	701-702	,	_	_	
+13-8	703-706	but	_	_	
+13-9	707-710	was	_	_	
+13-10	711-720	difficult	_	_	
+13-11	721-723	to	_	_	
+13-12	724-728	move	_	_	
+13-13	728-729	.	_	_	
+
+#Text=Oats and oatmeal, with a slow sale, barely maintained their value.
+14-1	730-734	Oats	_	_	
+14-2	735-738	and	_	_	
+14-3	739-746	oatmeal	_	_	
+14-4	746-747	,	_	_	
+14-5	748-752	with	_	_	
+14-6	753-754	a	_	_	
+14-7	755-759	slow	_	_	
+14-8	760-764	sale	_	_	
+14-9	764-765	,	_	_	
+14-10	766-772	barely	_	_	
+14-11	773-783	maintained	_	_	
+14-12	784-789	their	_	_	
+14-13	790-795	value	_	_	
+14-14	795-796	.	_	_	
+
+#Text=Barley, beans, and peas were neglected, and tho turn lower.
+15-1	797-803	Barley	_	_	
+15-2	803-804	,	_	_	
+15-3	805-810	beans	_	_	
+15-4	810-811	,	_	_	
+15-5	812-815	and	_	_	
+15-6	816-820	peas	_	_	
+15-7	821-825	were	_	_	
+15-8	826-835	neglected	_	_	
+15-9	835-836	,	_	_	
+15-10	837-840	and	_	_	
+15-11	841-844	tho	_	_	
+15-12	845-849	turn	_	_	
+15-13	850-855	lower	_	_	
+15-14	855-856	.	_	_	
+
+#Text=Indian coru was not mush inquired for
+16-1	857-863	Indian	_	_	
+16-2	864-868	coru	_	_	
+16-3	869-872	was	_	_	
+16-4	873-876	not	_	_	
+16-5	877-881	mush	_	_	
+16-6	882-890	inquired	_	_	
+16-7	891-894	for	_	_	

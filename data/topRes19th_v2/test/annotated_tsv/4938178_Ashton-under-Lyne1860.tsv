@@ -1,0 +1,361 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE IRISH CHURCH DEBATE.
+1-1	0-3	THE	_	_	
+1-2	4-9	IRISH	_	_	
+1-3	10-16	CHURCH	_	_	
+1-4	17-23	DEBATE	_	_	
+1-5	23-24	.	_	_	
+
+#Text=The Daily News remarks that Mr, Disraeli creditably abstained from those coarse iacentivts to sectarian fanaticism to which twelve months ago he made happily a vain appeal.
+2-1	26-29	The	_	_	
+2-2	30-35	Daily	_	_	
+2-3	36-40	News	_	_	
+2-4	41-48	remarks	_	_	
+2-5	49-53	that	_	_	
+2-6	54-56	Mr	_	_	
+2-7	56-57	,	_	_	
+2-8	58-66	Disraeli	_	_	
+2-9	67-77	creditably	_	_	
+2-10	78-87	abstained	_	_	
+2-11	88-92	from	_	_	
+2-12	93-98	those	_	_	
+2-13	99-105	coarse	_	_	
+2-14	106-116	iacentivts	_	_	
+2-15	117-119	to	_	_	
+2-16	120-129	sectarian	_	_	
+2-17	130-140	fanaticism	_	_	
+2-18	141-143	to	_	_	
+2-19	144-149	which	_	_	
+2-20	150-156	twelve	_	_	
+2-21	157-163	months	_	_	
+2-22	164-167	ago	_	_	
+2-23	168-170	he	_	_	
+2-24	171-175	made	_	_	
+2-25	176-183	happily	_	_	
+2-26	184-185	a	_	_	
+2-27	186-190	vain	_	_	
+2-28	191-197	appeal	_	_	
+2-29	197-198	.	_	_	
+
+#Text=The Times says that Himsiness relieved with spangles is too apt a description of the speech.
+3-1	199-202	The	_	_	
+3-2	203-208	Times	_	_	
+3-3	209-213	says	_	_	
+3-4	214-218	that	_	_	
+3-5	219-228	Himsiness	_	_	
+3-6	229-237	relieved	_	_	
+3-7	238-242	with	_	_	
+3-8	243-251	spangles	_	_	
+3-9	252-254	is	_	_	
+3-10	255-258	too	_	_	
+3-11	259-262	apt	_	_	
+3-12	263-264	a	_	_	
+3-13	265-276	description	_	_	
+3-14	277-279	of	_	_	
+3-15	280-283	the	_	_	
+3-16	284-290	speech	_	_	
+3-17	290-291	.	_	_	
+
+#Text=English Tory members, and still more the excellent Protestants of Ireland, wanted good rousing denunciations of Papists and the ministry—opportunities for outbursts of Kentish fire—and what did they get ?
+4-1	292-299	English	_	_	
+4-2	300-304	Tory	_	_	
+4-3	305-312	members	_	_	
+4-4	312-313	,	_	_	
+4-5	314-317	and	_	_	
+4-6	318-323	still	_	_	
+4-7	324-328	more	_	_	
+4-8	329-332	the	_	_	
+4-9	333-342	excellent	_	_	
+4-10	343-354	Protestants	_	_	
+4-11	355-357	of	_	_	
+4-12	358-365	Ireland	https://en.wikipedia.org/wiki/Ireland	LOC	
+4-13	365-366	,	_	_	
+4-14	367-373	wanted	_	_	
+4-15	374-378	good	_	_	
+4-16	379-386	rousing	_	_	
+4-17	387-400	denunciations	_	_	
+4-18	401-403	of	_	_	
+4-19	404-411	Papists	_	_	
+4-20	412-415	and	_	_	
+4-21	416-419	the	_	_	
+4-22	420-442	ministry—opportunities	_	_	
+4-23	443-446	for	_	_	
+4-24	447-456	outbursts	_	_	
+4-25	457-459	of	_	_	
+4-26	460-467	Kentish	_	_	
+4-27	468-476	fire—and	_	_	
+4-28	477-481	what	_	_	
+4-29	482-485	did	_	_	
+4-30	486-490	they	_	_	
+4-31	491-494	get	_	_	
+4-32	495-496	?	_	_	
+
+#Text=Mr.
+5-1	497-499	Mr	_	_	
+5-2	499-500	.	_	_	
+
+#Text=Disraeli was laboriously civil to the Roman Catholics.
+6-1	501-509	Disraeli	_	_	
+6-2	510-513	was	_	_	
+6-3	514-525	laboriously	_	_	
+6-4	526-531	civil	_	_	
+6-5	532-534	to	_	_	
+6-6	535-538	the	_	_	
+6-7	539-544	Roman	_	_	
+6-8	545-554	Catholics	_	_	
+6-9	554-555	.	_	_	
+
+#Text=He absolutely seconded Bishop Moriarty’s suggestion that the compensation for the withdrawal of the M.iynooth grant should be paid out of the imperial exchequer, instead of out of the funds of the Irish Establishment.
+7-1	556-558	He	_	_	
+7-2	559-569	absolutely	_	_	
+7-3	570-578	seconded	_	_	
+7-4	579-585	Bishop	_	_	
+7-5	586-594	Moriarty	_	_	
+7-6	594-595	’	_	_	
+7-7	595-596	s	_	_	
+7-8	597-607	suggestion	_	_	
+7-9	608-612	that	_	_	
+7-10	613-616	the	_	_	
+7-11	617-629	compensation	_	_	
+7-12	630-633	for	_	_	
+7-13	634-637	the	_	_	
+7-14	638-648	withdrawal	_	_	
+7-15	649-651	of	_	_	
+7-16	652-655	the	_	_	
+7-17	656-665	M.iynooth	https://en.wikipedia.org/wiki/Maynooth\_University	BUILDING	
+7-18	666-671	grant	_	_	
+7-19	672-678	should	_	_	
+7-20	679-681	be	_	_	
+7-21	682-686	paid	_	_	
+7-22	687-690	out	_	_	
+7-23	691-693	of	_	_	
+7-24	694-697	the	_	_	
+7-25	698-706	imperial	_	_	
+7-26	707-716	exchequer	_	_	
+7-27	716-717	,	_	_	
+7-28	718-725	instead	_	_	
+7-29	726-728	of	_	_	
+7-30	729-732	out	_	_	
+7-31	733-735	of	_	_	
+7-32	736-739	the	_	_	
+7-33	740-745	funds	_	_	
+7-34	746-748	of	_	_	
+7-35	749-752	the	_	_	
+7-36	753-758	Irish	_	_	
+7-37	759-772	Establishment	_	_	
+7-38	772-773	.	_	_	
+
+#Text=To the men at his back, whose life and soul were in the matter in hand, his speech was wholly incomprehensible and disappointing.
+8-1	774-776	To	_	_	
+8-2	777-780	the	_	_	
+8-3	781-784	men	_	_	
+8-4	785-787	at	_	_	
+8-5	788-791	his	_	_	
+8-6	792-796	back	_	_	
+8-7	796-797	,	_	_	
+8-8	798-803	whose	_	_	
+8-9	804-808	life	_	_	
+8-10	809-812	and	_	_	
+8-11	813-817	soul	_	_	
+8-12	818-822	were	_	_	
+8-13	823-825	in	_	_	
+8-14	826-829	the	_	_	
+8-15	830-836	matter	_	_	
+8-16	837-839	in	_	_	
+8-17	840-844	hand	_	_	
+8-18	844-845	,	_	_	
+8-19	846-849	his	_	_	
+8-20	850-856	speech	_	_	
+8-21	857-860	was	_	_	
+8-22	861-867	wholly	_	_	
+8-23	868-884	incomprehensible	_	_	
+8-24	885-888	and	_	_	
+8-25	889-902	disappointing	_	_	
+8-26	902-903	.	_	_	
+
+#Text=The Daily Telegraph says it is understood that no more cabinet ministers than is absolutely necessary shall speak in the debate on the Irish Church as at present arranged.
+9-1	904-907	The	_	_	
+9-2	908-913	Daily	_	_	
+9-3	914-923	Telegraph	_	_	
+9-4	924-928	says	_	_	
+9-5	929-931	it	_	_	
+9-6	932-934	is	_	_	
+9-7	935-945	understood	_	_	
+9-8	946-950	that	_	_	
+9-9	951-953	no	_	_	
+9-10	954-958	more	_	_	
+9-11	959-966	cabinet	_	_	
+9-12	967-976	ministers	_	_	
+9-13	977-981	than	_	_	
+9-14	982-984	is	_	_	
+9-15	985-995	absolutely	_	_	
+9-16	996-1005	necessary	_	_	
+9-17	1006-1011	shall	_	_	
+9-18	1012-1017	speak	_	_	
+9-19	1018-1020	in	_	_	
+9-20	1021-1024	the	_	_	
+9-21	1025-1031	debate	_	_	
+9-22	1032-1034	on	_	_	
+9-23	1035-1038	the	_	_	
+9-24	1039-1044	Irish	_	_	
+9-25	1045-1051	Church	_	_	
+9-26	1052-1054	as	_	_	
+9-27	1055-1057	at	_	_	
+9-28	1058-1065	present	_	_	
+9-29	1066-1074	arranged	_	_	
+9-30	1074-1075	.	_	_	
+
+#Text=Mr.
+10-1	1076-1078	Mr	_	_	
+10-2	1078-1079	.	_	_	
+
+#Text=Bright addressed the House last night (Friday), and Mr.
+11-1	1080-1086	Bright	_	_	
+11-2	1087-1096	addressed	_	_	
+11-3	1097-1100	the	_	_	
+11-4	1101-1106	House	_	_	
+11-5	1107-1111	last	_	_	
+11-6	1112-1117	night	_	_	
+11-7	1118-1119	(	_	_	
+11-8	1119-1125	Friday	_	_	
+11-9	1125-1126	)	_	_	
+11-10	1126-1127	,	_	_	
+11-11	1128-1131	and	_	_	
+11-12	1132-1134	Mr	_	_	
+11-13	1134-1135	.	_	_	
+
+#Text=Lowe on Monday next.
+12-1	1136-1140	Lowe	_	_	
+12-2	1141-1143	on	_	_	
+12-3	1144-1150	Monday	_	_	
+12-4	1151-1155	next	_	_	
+12-5	1155-1156	.	_	_	
+
+#Text=There is little chance of the debate closing before a late hour on Wednesday morning.
+13-1	1157-1162	There	_	_	
+13-2	1163-1165	is	_	_	
+13-3	1166-1172	little	_	_	
+13-4	1173-1179	chance	_	_	
+13-5	1180-1182	of	_	_	
+13-6	1183-1186	the	_	_	
+13-7	1187-1193	debate	_	_	
+13-8	1194-1201	closing	_	_	
+13-9	1202-1208	before	_	_	
+13-10	1209-1210	a	_	_	
+13-11	1211-1215	late	_	_	
+13-12	1216-1220	hour	_	_	
+13-13	1221-1223	on	_	_	
+13-14	1224-1233	Wednesday	_	_	
+13-15	1234-1241	morning	_	_	
+13-16	1241-1242	.	_	_	
+
+#Text=The lowest majority for the second reading is reckoned at 110, but even a larger majority is expected.
+14-1	1243-1246	The	_	_	
+14-2	1247-1253	lowest	_	_	
+14-3	1254-1262	majority	_	_	
+14-4	1263-1266	for	_	_	
+14-5	1267-1270	the	_	_	
+14-6	1271-1277	second	_	_	
+14-7	1278-1285	reading	_	_	
+14-8	1286-1288	is	_	_	
+14-9	1289-1297	reckoned	_	_	
+14-10	1298-1300	at	_	_	
+14-11	1301-1304	110	_	_	
+14-12	1304-1305	,	_	_	
+14-13	1306-1309	but	_	_	
+14-14	1310-1314	even	_	_	
+14-15	1315-1316	a	_	_	
+14-16	1317-1323	larger	_	_	
+14-17	1324-1332	majority	_	_	
+14-18	1333-1335	is	_	_	
+14-19	1336-1344	expected	_	_	
+14-20	1344-1345	.	_	_	
+
+#Text=The same paper says that Mr.
+15-1	1346-1349	The	_	_	
+15-2	1350-1354	same	_	_	
+15-3	1355-1360	paper	_	_	
+15-4	1361-1365	says	_	_	
+15-5	1366-1370	that	_	_	
+15-6	1371-1373	Mr	_	_	
+15-7	1373-1374	.	_	_	
+
+#Text=Disraeli’s peroration was well pronounced,fcand Stly concluded a speech which in its delivery was fully sustained in all its rhetorical phases, and as a parlirmentary exercitation amply deserved the applause which followed its conclusion.
+16-1	1375-1383	Disraeli	_	_	
+16-2	1383-1384	’	_	_	
+16-3	1384-1385	s	_	_	
+16-4	1386-1396	peroration	_	_	
+16-5	1397-1400	was	_	_	
+16-6	1401-1405	well	_	_	
+16-7	1406-1416	pronounced	_	_	
+16-8	1416-1417	,	_	_	
+16-9	1417-1422	fcand	_	_	
+16-10	1423-1427	Stly	_	_	
+16-11	1428-1437	concluded	_	_	
+16-12	1438-1439	a	_	_	
+16-13	1440-1446	speech	_	_	
+16-14	1447-1452	which	_	_	
+16-15	1453-1455	in	_	_	
+16-16	1456-1459	its	_	_	
+16-17	1460-1468	delivery	_	_	
+16-18	1469-1472	was	_	_	
+16-19	1473-1478	fully	_	_	
+16-20	1479-1488	sustained	_	_	
+16-21	1489-1491	in	_	_	
+16-22	1492-1495	all	_	_	
+16-23	1496-1499	its	_	_	
+16-24	1500-1510	rhetorical	_	_	
+16-25	1511-1517	phases	_	_	
+16-26	1517-1518	,	_	_	
+16-27	1519-1522	and	_	_	
+16-28	1523-1525	as	_	_	
+16-29	1526-1527	a	_	_	
+16-30	1528-1541	parlirmentary	_	_	
+16-31	1542-1554	exercitation	_	_	
+16-32	1555-1560	amply	_	_	
+16-33	1561-1569	deserved	_	_	
+16-34	1570-1573	the	_	_	
+16-35	1574-1582	applause	_	_	
+16-36	1583-1588	which	_	_	
+16-37	1589-1597	followed	_	_	
+16-38	1598-1601	its	_	_	
+16-39	1602-1612	conclusion	_	_	
+16-40	1612-1613	.	_	_	
+
+#Text=The Standard praises its studied moderation.
+17-1	1615-1618	The	_	_	
+17-2	1619-1627	Standard	_	_	
+17-3	1628-1635	praises	_	_	
+17-4	1636-1639	its	_	_	
+17-5	1640-1647	studied	_	_	
+17-6	1648-1658	moderation	_	_	
+17-7	1658-1659	.	_	_	
+
+#Text=The Heraldry* it was one of the finest speeches ever delivered in parliament, and sustained a great argument for English liberties.
+18-1	1660-1663	The	_	_	
+18-2	1664-1672	Heraldry	_	_	
+18-3	1672-1673	*	_	_	
+18-4	1674-1676	it	_	_	
+18-5	1677-1680	was	_	_	
+18-6	1681-1684	one	_	_	
+18-7	1685-1687	of	_	_	
+18-8	1688-1691	the	_	_	
+18-9	1692-1698	finest	_	_	
+18-10	1699-1707	speeches	_	_	
+18-11	1708-1712	ever	_	_	
+18-12	1713-1722	delivered	_	_	
+18-13	1723-1725	in	_	_	
+18-14	1726-1736	parliament	_	_	
+18-15	1736-1737	,	_	_	
+18-16	1738-1741	and	_	_	
+18-17	1742-1751	sustained	_	_	
+18-18	1752-1753	a	_	_	
+18-19	1754-1759	great	_	_	
+18-20	1760-1768	argument	_	_	
+18-21	1769-1772	for	_	_	
+18-22	1773-1780	English	_	_	
+18-23	1781-1790	liberties	_	_	
+18-24	1790-1791	.	_	_	

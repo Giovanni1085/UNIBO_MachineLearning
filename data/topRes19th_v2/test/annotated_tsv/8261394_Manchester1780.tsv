@@ -1,0 +1,232 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Wednesday’s & Thursdays Posts.
+1-1	0-9	Wednesday	_	_	
+1-2	9-10	’	_	_	
+1-3	10-11	s	_	_	
+1-4	12-13	&	_	_	
+1-5	14-23	Thursdays	_	_	
+1-6	24-29	Posts	_	_	
+1-7	29-30	.	_	_	
+
+#Text=From the LONDON GAZETTE, July 39.
+2-1	32-36	From	_	_	
+2-2	37-40	the	_	_	
+2-3	41-47	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-4	48-55	GAZETTE	_	_	
+2-5	55-56	,	_	_	
+2-6	57-61	July	_	_	
+2-7	62-64	39	_	_	
+2-8	64-65	.	_	_	
+
+#Text=Vienna, July 16.
+3-1	66-72	Vienna	https://en.wikipedia.org/wiki/Vienna	LOC	
+3-2	72-73	,	_	_	
+3-3	74-78	July	_	_	
+3-4	79-81	16	_	_	
+3-5	81-82	.	_	_	
+
+#Text=THE Armies on the Frontier remain entirely on the defenfivc during the prefent exceflive Heats, which lurpals any that have been experienced in this Climate tor many Y*ai» part.
+4-1	83-86	THE	_	_	
+4-2	87-93	Armies	_	_	
+4-3	94-96	on	_	_	
+4-4	97-100	the	_	_	
+4-5	101-109	Frontier	_	_	
+4-6	110-116	remain	_	_	
+4-7	117-125	entirely	_	_	
+4-8	126-128	on	_	_	
+4-9	129-132	the	_	_	
+4-10	133-142	defenfivc	_	_	
+4-11	143-149	during	_	_	
+4-12	150-153	the	_	_	
+4-13	154-161	prefent	_	_	
+4-14	162-171	exceflive	_	_	
+4-15	172-177	Heats	_	_	
+4-16	177-178	,	_	_	
+4-17	179-184	which	_	_	
+4-18	185-192	lurpals	_	_	
+4-19	193-196	any	_	_	
+4-20	197-201	that	_	_	
+4-21	202-206	have	_	_	
+4-22	207-211	been	_	_	
+4-23	212-223	experienced	_	_	
+4-24	224-226	in	_	_	
+4-25	227-231	this	_	_	
+4-26	232-239	Climate	_	_	
+4-27	240-243	tor	_	_	
+4-28	244-248	many	_	_	
+4-29	249-250	Y	_	_	
+4-30	250-251	*	_	_	
+4-31	251-253	ai	_	_	
+4-32	253-254	»	_	_	
+4-33	255-259	part	_	_	
+4-34	259-260	.	_	_	
+
+#Text=From the F.vining .Fusts and Daiit Papeas.
+5-1	261-265	From	_	_	
+5-2	266-269	the	_	_	
+5-3	270-278	F.vining	_	_	
+5-4	279-280	.	_	_	
+5-5	280-285	Fusts	_	_	
+5-6	286-289	and	_	_	
+5-7	290-295	Daiit	_	_	
+5-8	296-302	Papeas	_	_	
+5-9	302-303	.	_	_	
+
+#Text=July 29.
+6-1	304-308	July	_	_	
+6-2	309-311	29	_	_	
+6-3	311-312	.	_	_	
+
+#Text=Pelcrjturgh, June 24.
+7-1	313-324	Pelcrjturgh	https://en.wikipedia.org/wiki/Saint\_Petersburg	LOC	
+7-2	324-325	,	_	_	
+7-3	326-330	June	_	_	
+7-4	331-333	24	_	_	
+7-5	333-334	.	_	_	
+
+#Text=This Day Admiral Cttig has received his tailing Oidcrs.
+8-1	335-339	This	_	_	
+8-2	340-343	Day	_	_	
+8-3	344-351	Admiral	_	_	
+8-4	352-357	Cttig	_	_	
+8-5	358-361	has	_	_	
+8-6	362-370	received	_	_	
+8-7	371-374	his	_	_	
+8-8	375-382	tailing	_	_	
+8-9	383-389	Oidcrs	_	_	
+8-10	389-390	.	_	_	
+
+#Text=It now appears that he is o cruize off Crunlladt.
+9-1	391-393	It	_	_	
+9-2	394-397	now	_	_	
+9-3	398-405	appears	_	_	
+9-4	406-410	that	_	_	
+9-5	411-413	he	_	_	
+9-6	414-416	is	_	_	
+9-7	417-418	o	_	_	
+9-8	419-425	cruize	_	_	
+9-9	426-429	off	_	_	
+9-10	430-439	Crunlladt	https://en.wikipedia.org/wiki/Kronstadt	LOC	
+9-11	439-440	.	_	_	
+
+#Text=Of the efficient powers of his Fleet, troni the uncommon fecrecy with which it is equipped, we can fay little, This we know, however, that it conlpls of ft Ships of the l.ine, 6 Fugates, and eight other armed VclItls, containing between 7000 and &COO Troops.
+10-1	441-443	Of	_	_	
+10-2	444-447	the	_	_	
+10-3	448-457	efficient	_	_	
+10-4	458-464	powers	_	_	
+10-5	465-467	of	_	_	
+10-6	468-471	his	_	_	
+10-7	472-477	Fleet	_	_	
+10-8	477-478	,	_	_	
+10-9	479-484	troni	_	_	
+10-10	485-488	the	_	_	
+10-11	489-497	uncommon	_	_	
+10-12	498-505	fecrecy	_	_	
+10-13	506-510	with	_	_	
+10-14	511-516	which	_	_	
+10-15	517-519	it	_	_	
+10-16	520-522	is	_	_	
+10-17	523-531	equipped	_	_	
+10-18	531-532	,	_	_	
+10-19	533-535	we	_	_	
+10-20	536-539	can	_	_	
+10-21	540-543	fay	_	_	
+10-22	544-550	little	_	_	
+10-23	550-551	,	_	_	
+10-24	552-556	This	_	_	
+10-25	557-559	we	_	_	
+10-26	560-564	know	_	_	
+10-27	564-565	,	_	_	
+10-28	566-573	however	_	_	
+10-29	573-574	,	_	_	
+10-30	575-579	that	_	_	
+10-31	580-582	it	_	_	
+10-32	583-590	conlpls	_	_	
+10-33	591-593	of	_	_	
+10-34	594-596	ft	_	_	
+10-35	597-602	Ships	_	_	
+10-36	603-605	of	_	_	
+10-37	606-609	the	_	_	
+10-38	610-615	l.ine	_	_	
+10-39	615-616	,	_	_	
+10-40	617-618	6	_	_	
+10-41	619-626	Fugates	_	_	
+10-42	626-627	,	_	_	
+10-43	628-631	and	_	_	
+10-44	632-637	eight	_	_	
+10-45	638-643	other	_	_	
+10-46	644-649	armed	_	_	
+10-47	650-657	VclItls	_	_	
+10-48	657-658	,	_	_	
+10-49	659-669	containing	_	_	
+10-50	670-677	between	_	_	
+10-51	678-682	7000	_	_	
+10-52	683-686	and	_	_	
+10-53	687-688	&	_	_	
+10-54	688-691	COO	_	_	
+10-55	692-698	Troops	_	_	
+10-56	698-699	.	_	_	
+
+#Text=Ibcie, (leering afterwards for the Mediterranean, he is to land wherever it may he found moll expedient.
+11-1	700-705	Ibcie	_	_	
+11-2	705-706	,	_	_	
+11-3	707-708	(	_	_	
+11-4	708-715	leering	_	_	
+11-5	716-726	afterwards	_	_	
+11-6	727-730	for	_	_	
+11-7	731-734	the	_	_	
+11-8	735-748	Mediterranean	https://en.wikipedia.org/wiki/Mediterranean	LOC	
+11-9	748-749	,	_	_	
+11-10	750-752	he	_	_	
+11-11	753-755	is	_	_	
+11-12	756-758	to	_	_	
+11-13	759-763	land	_	_	
+11-14	764-772	wherever	_	_	
+11-15	773-775	it	_	_	
+11-16	776-779	may	_	_	
+11-17	780-782	he	_	_	
+11-18	783-788	found	_	_	
+11-19	789-793	moll	_	_	
+11-20	794-803	expedient	_	_	
+11-21	803-804	.	_	_	
+
+#Text=In addtion to this Armament fen Ships of the Line are fitting out at Cronfl.dr, which, with five others new fit for Sea at Archangel, are dedinert to crude in the Baltic.
+12-1	805-807	In	_	_	
+12-2	808-815	addtion	_	_	
+12-3	816-818	to	_	_	
+12-4	819-823	this	_	_	
+12-5	824-832	Armament	_	_	
+12-6	833-836	fen	_	_	
+12-7	837-842	Ships	_	_	
+12-8	843-845	of	_	_	
+12-9	846-849	the	_	_	
+12-10	850-854	Line	_	_	
+12-11	855-858	are	_	_	
+12-12	859-866	fitting	_	_	
+12-13	867-870	out	_	_	
+12-14	871-873	at	_	_	
+12-15	874-883	Cronfl.dr	https://en.wikipedia.org/wiki/Kronstadt	LOC	
+12-16	883-884	,	_	_	
+12-17	885-890	which	_	_	
+12-18	890-891	,	_	_	
+12-19	892-896	with	_	_	
+12-20	897-901	five	_	_	
+12-21	902-908	others	_	_	
+12-22	909-912	new	_	_	
+12-23	913-916	fit	_	_	
+12-24	917-920	for	_	_	
+12-25	921-924	Sea	_	_	
+12-26	925-927	at	_	_	
+12-27	928-937	Archangel	https://en.wikipedia.org/wiki/Arkhangelsk	LOC	
+12-28	937-938	,	_	_	
+12-29	939-942	are	_	_	
+12-30	943-951	dedinert	_	_	
+12-31	952-954	to	_	_	
+12-32	955-960	crude	_	_	
+12-33	961-963	in	_	_	
+12-34	964-967	the	_	_	
+12-35	968-974	Baltic	https://en.wikipedia.org/wiki/Baltic\_Sea	LOC	
+12-36	974-975	.	_	_	

@@ -1,0 +1,196 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=FUNERAL OF THE PRINCE ROYAL OF BELGIUM.
+1-1	0-7	FUNERAL	_	_	
+1-2	8-10	OF	_	_	
+1-3	11-14	THE	_	_	
+1-4	15-21	PRINCE	_	_	
+1-5	22-27	ROYAL	_	_	
+1-6	28-30	OF	_	_	
+1-7	31-38	BELGIUM	https://en.wikipedia.org/wiki/Belgium	LOC	
+1-8	38-39	.	_	_	
+
+#Text=The funeral of the Prince Boyal took place on Monday, The ceremony commenced at noon and terminated at half-past one oclock.
+2-1	41-44	The	_	_	
+2-2	45-52	funeral	_	_	
+2-3	53-55	of	_	_	
+2-4	56-59	the	_	_	
+2-5	60-66	Prince	_	_	
+2-6	67-72	Boyal	_	_	
+2-7	73-77	took	_	_	
+2-8	78-83	place	_	_	
+2-9	84-86	on	_	_	
+2-10	87-93	Monday	_	_	
+2-11	93-94	,	_	_	
+2-12	95-98	The	_	_	
+2-13	99-107	ceremony	_	_	
+2-14	108-117	commenced	_	_	
+2-15	118-120	at	_	_	
+2-16	121-125	noon	_	_	
+2-17	126-129	and	_	_	
+2-18	130-140	terminated	_	_	
+2-19	141-143	at	_	_	
+2-20	144-153	half-past	_	_	
+2-21	154-157	one	_	_	
+2-22	158-164	oclock	_	_	
+2-23	164-165	.	_	_	
+
+#Text=The King and the Count of Flanders were present at the solemn ceremony.
+3-1	166-169	The	_	_	
+3-2	170-174	King	_	_	
+3-3	175-178	and	_	_	
+3-4	179-182	the	_	_	
+3-5	183-188	Count	_	_	
+3-6	189-191	of	_	_	
+3-7	192-200	Flanders	https://en.wikipedia.org/wiki/Flanders	LOC	
+3-8	201-205	were	_	_	
+3-9	206-213	present	_	_	
+3-10	214-216	at	_	_	
+3-11	217-220	the	_	_	
+3-12	221-227	solemn	_	_	
+3-13	228-236	ceremony	_	_	
+3-14	236-237	.	_	_	
+
+#Text=There was an immense concourse of spectators, Who evinced the deepest sympathy and sorrow.
+4-1	238-243	There	_	_	
+4-2	244-247	was	_	_	
+4-3	248-250	an	_	_	
+4-4	251-258	immense	_	_	
+4-5	259-268	concourse	_	_	
+4-6	269-271	of	_	_	
+4-7	272-282	spectators	_	_	
+4-8	282-283	,	_	_	
+4-9	284-287	Who	_	_	
+4-10	288-295	evinced	_	_	
+4-11	296-299	the	_	_	
+4-12	300-307	deepest	_	_	
+4-13	308-316	sympathy	_	_	
+4-14	317-320	and	_	_	
+4-15	321-327	sorrow	_	_	
+4-16	327-328	.	_	_	
+
+#Text=The funeral service was performed by the Archbishop of Malines.
+5-1	329-332	The	_	_	
+5-2	333-340	funeral	_	_	
+5-3	341-348	service	_	_	
+5-4	349-352	was	_	_	
+5-5	353-362	performed	_	_	
+5-6	363-365	by	_	_	
+5-7	366-369	the	_	_	
+5-8	370-380	Archbishop	_	_	
+5-9	381-383	of	_	_	
+5-10	384-391	Malines	https://en.wikipedia.org/wiki/Mechelen	LOC	
+5-11	391-392	.	_	_	
+
+#Text=A large number of the inhabitants of Brussels, and even several foreigners residing iv that capital, have spontaneously gone into mourning for the Prince Boyal, as have also all the functionaries and members of the public administrations.
+6-1	393-394	A	_	_	
+6-2	395-400	large	_	_	
+6-3	401-407	number	_	_	
+6-4	408-410	of	_	_	
+6-5	411-414	the	_	_	
+6-6	415-426	inhabitants	_	_	
+6-7	427-429	of	_	_	
+6-8	430-438	Brussels	https://en.wikipedia.org/wiki/Brussels	LOC	
+6-9	438-439	,	_	_	
+6-10	440-443	and	_	_	
+6-11	444-448	even	_	_	
+6-12	449-456	several	_	_	
+6-13	457-467	foreigners	_	_	
+6-14	468-476	residing	_	_	
+6-15	477-479	iv	_	_	
+6-16	480-484	that	_	_	
+6-17	485-492	capital	_	_	
+6-18	492-493	,	_	_	
+6-19	494-498	have	_	_	
+6-20	499-512	spontaneously	_	_	
+6-21	513-517	gone	_	_	
+6-22	518-522	into	_	_	
+6-23	523-531	mourning	_	_	
+6-24	532-535	for	_	_	
+6-25	536-539	the	_	_	
+6-26	540-546	Prince	_	_	
+6-27	547-552	Boyal	_	_	
+6-28	552-553	,	_	_	
+6-29	554-556	as	_	_	
+6-30	557-561	have	_	_	
+6-31	562-566	also	_	_	
+6-32	567-570	all	_	_	
+6-33	571-574	the	_	_	
+6-34	575-588	functionaries	_	_	
+6-35	589-592	and	_	_	
+6-36	593-600	members	_	_	
+6-37	601-603	of	_	_	
+6-38	604-607	the	_	_	
+6-39	608-614	public	_	_	
+6-40	615-630	administrations	_	_	
+6-41	630-631	.	_	_	
+
+#Text=Most of the shops at Laeken are closed, and black drapery, or the national colours with emblems of mourning in crape, are hanging from the windows of the private houses.
+7-1	632-636	Most	_	_	
+7-2	637-639	of	_	_	
+7-3	640-643	the	_	_	
+7-4	644-649	shops	_	_	
+7-5	650-652	at	_	_	
+7-6	653-659	Laeken	https://en.wikipedia.org/wiki/Laeken	LOC	
+7-7	660-663	are	_	_	
+7-8	664-670	closed	_	_	
+7-9	670-671	,	_	_	
+7-10	672-675	and	_	_	
+7-11	676-681	black	_	_	
+7-12	682-689	drapery	_	_	
+7-13	689-690	,	_	_	
+7-14	691-693	or	_	_	
+7-15	694-697	the	_	_	
+7-16	698-706	national	_	_	
+7-17	707-714	colours	_	_	
+7-18	715-719	with	_	_	
+7-19	720-727	emblems	_	_	
+7-20	728-730	of	_	_	
+7-21	731-739	mourning	_	_	
+7-22	740-742	in	_	_	
+7-23	743-748	crape	_	_	
+7-24	748-749	,	_	_	
+7-25	750-753	are	_	_	
+7-26	754-761	hanging	_	_	
+7-27	762-766	from	_	_	
+7-28	767-770	the	_	_	
+7-29	771-778	windows	_	_	
+7-30	779-781	of	_	_	
+7-31	782-785	the	_	_	
+7-32	786-793	private	_	_	
+7-33	794-800	houses	_	_	
+7-34	800-801	.	_	_	
+
+#Text=Large black flags, with silver stripes, are also floating above the churches and public schools Thousands of addresses of condolence have been sent to the royal family.
+8-1	802-807	Large	_	_	
+8-2	808-813	black	_	_	
+8-3	814-819	flags	_	_	
+8-4	819-820	,	_	_	
+8-5	821-825	with	_	_	
+8-6	826-832	silver	_	_	
+8-7	833-840	stripes	_	_	
+8-8	840-841	,	_	_	
+8-9	842-845	are	_	_	
+8-10	846-850	also	_	_	
+8-11	851-859	floating	_	_	
+8-12	860-865	above	_	_	
+8-13	866-869	the	_	_	
+8-14	870-878	churches	_	_	
+8-15	879-882	and	_	_	
+8-16	883-889	public	_	_	
+8-17	890-897	schools	_	_	
+8-18	898-907	Thousands	_	_	
+8-19	908-910	of	_	_	
+8-20	911-920	addresses	_	_	
+8-21	921-923	of	_	_	
+8-22	924-934	condolence	_	_	
+8-23	935-939	have	_	_	
+8-24	940-944	been	_	_	
+8-25	945-949	sent	_	_	
+8-26	950-952	to	_	_	
+8-27	953-956	the	_	_	
+8-28	957-962	royal	_	_	
+8-29	963-969	family	_	_	
+8-30	969-970	.	_	_	

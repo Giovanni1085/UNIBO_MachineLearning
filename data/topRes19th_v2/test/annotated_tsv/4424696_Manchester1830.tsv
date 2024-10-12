@@ -1,0 +1,213 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Postscript.
+1-1	0-10	Postscript	_	_	
+1-2	10-11	.	_	_	
+
+#Text=LONDON, WEDNESDAY.
+2-1	13-19	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-2	19-20	,	_	_	
+2-3	21-30	WEDNESDAY	_	_	
+2-4	30-31	.	_	_	
+
+#Text=DECEMBER 22.
+3-1	32-40	DECEMBER	_	_	
+3-2	41-43	22	_	_	
+3-3	43-44	.	_	_	
+
+#Text=City, Twelve oClock.
+4-1	45-49	City	https://en.wikipedia.org/wiki/City\_of\_London	LOC	
+4-2	49-50	,	_	_	
+4-3	51-57	Twelve	_	_	
+4-4	58-64	oClock	_	_	
+4-5	64-65	.	_	_	
+
+#Text=—Consols opened at 81j{, and afterwards rose to 82, at which price some business was done.
+5-1	65-66	—	_	_	
+5-2	66-73	Consols	_	_	
+5-3	74-80	opened	_	_	
+5-4	81-83	at	_	_	
+5-5	84-87	81j	_	_	
+5-6	87-88	{	_	_	
+5-7	88-89	,	_	_	
+5-8	90-93	and	_	_	
+5-9	94-104	afterwards	_	_	
+5-10	105-109	rose	_	_	
+5-11	110-112	to	_	_	
+5-12	113-115	82	_	_	
+5-13	115-116	,	_	_	
+5-14	117-119	at	_	_	
+5-15	120-125	which	_	_	
+5-16	126-131	price	_	_	
+5-17	132-136	some	_	_	
+5-18	137-145	business	_	_	
+5-19	146-149	was	_	_	
+5-20	150-154	done	_	_	
+5-21	154-155	.	_	_	
+
+#Text=One oClock—The funds are rather heavy, being Biy.
+6-1	156-159	One	_	_	
+6-2	160-170	oClock—The	_	_	
+6-3	171-176	funds	_	_	
+6-4	177-180	are	_	_	
+6-5	181-187	rather	_	_	
+6-6	188-193	heavy	_	_	
+6-7	193-194	,	_	_	
+6-8	195-200	being	_	_	
+6-9	201-204	Biy	_	_	
+6-10	204-205	.	_	_	
+
+#Text=Quarter-past Ttvo—Consols are 81 We have received Brussels papers to the 19th inst.
+7-1	206-218	Quarter-past	_	_	
+7-2	219-231	Ttvo—Consols	_	_	
+7-3	232-235	are	_	_	
+7-4	236-238	81	_	_	
+7-5	239-241	We	_	_	
+7-6	242-246	have	_	_	
+7-7	247-255	received	_	_	
+7-8	256-264	Brussels	https://en.wikipedia.org/wiki/City\_of\_Brussels	LOC	
+7-9	265-271	papers	_	_	
+7-10	272-274	to	_	_	
+7-11	275-278	the	_	_	
+7-12	279-283	19th	_	_	
+7-13	284-288	inst	_	_	
+7-14	288-289	.	_	_	
+
+#Text=On the 18th the debate on the senate was resumed in the National Congress, and the whole of the regulations, which had been previously agreed upon, are stated, by the Journal de la Belyifjue, to have been finally rejected by 112 votes to 66.
+8-1	290-292	On	_	_	
+8-2	293-296	the	_	_	
+8-3	297-301	18th	_	_	
+8-4	302-305	the	_	_	
+8-5	306-312	debate	_	_	
+8-6	313-315	on	_	_	
+8-7	316-319	the	_	_	
+8-8	320-326	senate	_	_	
+8-9	327-330	was	_	_	
+8-10	331-338	resumed	_	_	
+8-11	339-341	in	_	_	
+8-12	342-345	the	_	_	
+8-13	346-354	National	_	_	
+8-14	355-363	Congress	_	_	
+8-15	363-364	,	_	_	
+8-16	365-368	and	_	_	
+8-17	369-372	the	_	_	
+8-18	373-378	whole	_	_	
+8-19	379-381	of	_	_	
+8-20	382-385	the	_	_	
+8-21	386-397	regulations	_	_	
+8-22	397-398	,	_	_	
+8-23	399-404	which	_	_	
+8-24	405-408	had	_	_	
+8-25	409-413	been	_	_	
+8-26	414-424	previously	_	_	
+8-27	425-431	agreed	_	_	
+8-28	432-436	upon	_	_	
+8-29	436-437	,	_	_	
+8-30	438-441	are	_	_	
+8-31	442-448	stated	_	_	
+8-32	448-449	,	_	_	
+8-33	450-452	by	_	_	
+8-34	453-456	the	_	_	
+8-35	457-464	Journal	_	_	
+8-36	465-467	de	_	_	
+8-37	468-470	la	_	_	
+8-38	471-480	Belyifjue	_	_	
+8-39	480-481	,	_	_	
+8-40	482-484	to	_	_	
+8-41	485-489	have	_	_	
+8-42	490-494	been	_	_	
+8-43	495-502	finally	_	_	
+8-44	503-511	rejected	_	_	
+8-45	512-514	by	_	_	
+8-46	515-518	112	_	_	
+8-47	519-524	votes	_	_	
+8-48	525-527	to	_	_	
+8-49	528-530	66	_	_	
+8-50	530-531	.	_	_	
+
+#Text=It is stated that the King of Holland has accepted the armistice, and that the commissioners are to be immediately appointed to fix the line behind which the troops are to retire.
+9-1	532-534	It	_	_	
+9-2	535-537	is	_	_	
+9-3	538-544	stated	_	_	
+9-4	545-549	that	_	_	
+9-5	550-553	the	_	_	
+9-6	554-558	King	_	_	
+9-7	559-561	of	_	_	
+9-8	562-569	Holland	https://en.wikipedia.org/wiki/Holland	LOC	
+9-9	570-573	has	_	_	
+9-10	574-582	accepted	_	_	
+9-11	583-586	the	_	_	
+9-12	587-596	armistice	_	_	
+9-13	596-597	,	_	_	
+9-14	598-601	and	_	_	
+9-15	602-606	that	_	_	
+9-16	607-610	the	_	_	
+9-17	611-624	commissioners	_	_	
+9-18	625-628	are	_	_	
+9-19	629-631	to	_	_	
+9-20	632-634	be	_	_	
+9-21	635-646	immediately	_	_	
+9-22	647-656	appointed	_	_	
+9-23	657-659	to	_	_	
+9-24	660-663	fix	_	_	
+9-25	664-667	the	_	_	
+9-26	668-672	line	_	_	
+9-27	673-679	behind	_	_	
+9-28	680-685	which	_	_	
+9-29	686-689	the	_	_	
+9-30	690-696	troops	_	_	
+9-31	697-700	are	_	_	
+9-32	701-703	to	_	_	
+9-33	704-710	retire	_	_	
+9-34	710-711	.	_	_	
+
+#Text=Fresh disturbances are apprehended at Leige, owing to the increasing number of unemployed workmen.
+10-1	712-717	Fresh	_	_	
+10-2	718-730	disturbances	_	_	
+10-3	731-734	are	_	_	
+10-4	735-746	apprehended	_	_	
+10-5	747-749	at	_	_	
+10-6	750-755	Leige	https://en.wikipedia.org/wiki/Li%C3%A8ge	LOC	
+10-7	755-756	,	_	_	
+10-8	757-762	owing	_	_	
+10-9	763-765	to	_	_	
+10-10	766-769	the	_	_	
+10-11	770-780	increasing	_	_	
+10-12	781-787	number	_	_	
+10-13	788-790	of	_	_	
+10-14	791-801	unemployed	_	_	
+10-15	802-809	workmen	_	_	
+10-16	809-810	.	_	_	
+
+#Text=In congress, on the 17th instant, a declaration in favour of a union with Belgium was presented from 14,000 inhabitants of the Grand Duchy of Luxemburg.
+11-1	811-813	In	_	_	
+11-2	814-822	congress	_	_	
+11-3	822-823	,	_	_	
+11-4	824-826	on	_	_	
+11-5	827-830	the	_	_	
+11-6	831-835	17th	_	_	
+11-7	836-843	instant	_	_	
+11-8	843-844	,	_	_	
+11-9	845-846	a	_	_	
+11-10	847-858	declaration	_	_	
+11-11	859-861	in	_	_	
+11-12	862-868	favour	_	_	
+11-13	869-871	of	_	_	
+11-14	872-873	a	_	_	
+11-15	874-879	union	_	_	
+11-16	880-884	with	_	_	
+11-17	885-892	Belgium	https://en.wikipedia.org/wiki/Belgium	LOC	
+11-18	893-896	was	_	_	
+11-19	897-906	presented	_	_	
+11-20	907-911	from	_	_	
+11-21	912-918	14,000	_	_	
+11-22	919-930	inhabitants	_	_	
+11-23	931-933	of	_	_	
+11-24	934-937	the	_	_	
+11-25	938-943	Grand	_	_	
+11-26	944-949	Duchy	_	_	
+11-27	950-952	of	_	_	
+11-28	953-962	Luxemburg	https://en.wikipedia.org/wiki/Luxembourg	LOC	
+11-29	962-963	.	_	_	

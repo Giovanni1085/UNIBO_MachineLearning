@@ -1,0 +1,574 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=HAMPSHIRE.
+1-1	0-9	HAMPSHIRE	https://en.wikipedia.org/wiki/Hampshire	LOC	
+1-2	9-10	.	_	_	
+
+#Text=WINCHESTER.
+2-1	12-22	WINCHESTER	https://en.wikipedia.org/wiki/Winchester	LOC	
+2-2	22-23	.	_	_	
+
+#Text=Hants Easter Sessions.
+3-1	24-29	Hants	https://en.wikipedia.org/wiki/Hampshire	LOC	
+3-2	30-36	Easter	_	_	
+3-3	37-45	Sessions	_	_	
+3-4	45-46	.	_	_	
+
+#Text=—These sessions were held last week, Viscount Eversley (chairman).
+4-1	46-47	—	_	_	
+4-2	47-52	These	_	_	
+4-3	53-61	sessions	_	_	
+4-4	62-66	were	_	_	
+4-5	67-71	held	_	_	
+4-6	72-76	last	_	_	
+4-7	77-81	week	_	_	
+4-8	81-82	,	_	_	
+4-9	83-91	Viscount	_	_	
+4-10	92-100	Eversley	_	_	
+4-11	101-102	(	_	_	
+4-12	102-110	chairman	_	_	
+4-13	110-111	)	_	_	
+4-14	111-112	.	_	_	
+
+#Text=A halfpenny rate for the general purposes of the county, and a halfpenny rate for constabulary purposes, were granted CHRISTCHURCH.
+5-1	113-114	A	_	_	
+5-2	115-124	halfpenny	_	_	
+5-3	125-129	rate	_	_	
+5-4	130-133	for	_	_	
+5-5	134-137	the	_	_	
+5-6	138-145	general	_	_	
+5-7	146-154	purposes	_	_	
+5-8	155-157	of	_	_	
+5-9	158-161	the	_	_	
+5-10	162-168	county	_	_	
+5-11	168-169	,	_	_	
+5-12	170-173	and	_	_	
+5-13	174-175	a	_	_	
+5-14	176-185	halfpenny	_	_	
+5-15	186-190	rate	_	_	
+5-16	191-194	for	_	_	
+5-17	195-207	constabulary	_	_	
+5-18	208-216	purposes	_	_	
+5-19	216-217	,	_	_	
+5-20	218-222	were	_	_	
+5-21	223-230	granted	_	_	
+5-22	231-243	CHRISTCHURCH	https://en.wikipedia.org/wiki/Christchurch,\_Dorset	LOC	
+5-23	243-244	.	_	_	
+
+#Text=Amatetjr Concert.
+6-1	245-253	Amatetjr	_	_	
+6-2	254-261	Concert	_	_	
+6-3	261-262	.	_	_	
+
+#Text=—On Monday morning, the 11th of April, there was again an amateur concert at tbe Town Hall in Christchurch, at which Miss Carleton, Mrs. and Miss Scarborough, Miss Jewell, and other accomplished vocalists kindly assisted.
+7-1	262-263	—	_	_	
+7-2	263-265	On	_	_	
+7-3	266-272	Monday	_	_	
+7-4	273-280	morning	_	_	
+7-5	280-281	,	_	_	
+7-6	282-285	the	_	_	
+7-7	286-290	11th	_	_	
+7-8	291-293	of	_	_	
+7-9	294-299	April	_	_	
+7-10	299-300	,	_	_	
+7-11	301-306	there	_	_	
+7-12	307-310	was	_	_	
+7-13	311-316	again	_	_	
+7-14	317-319	an	_	_	
+7-15	320-327	amateur	_	_	
+7-16	328-335	concert	_	_	
+7-17	336-338	at	_	_	
+7-18	339-342	tbe	_	_	
+7-19	343-347	Town	https://en.wikipedia.org/wiki/The\_Town\_Hall,\_Christchurch[1]	BUILDING[1]	
+7-20	348-352	Hall	https://en.wikipedia.org/wiki/The\_Town\_Hall,\_Christchurch[1]	BUILDING[1]	
+7-21	353-355	in	_	_	
+7-22	356-368	Christchurch	https://en.wikipedia.org/wiki/Christchurch,\_Dorset	LOC	
+7-23	368-369	,	_	_	
+7-24	370-372	at	_	_	
+7-25	373-378	which	_	_	
+7-26	379-383	Miss	_	_	
+7-27	384-392	Carleton	_	_	
+7-28	392-393	,	_	_	
+7-29	394-397	Mrs	_	_	
+7-30	397-398	.	_	_	
+7-31	399-402	and	_	_	
+7-32	403-407	Miss	_	_	
+7-33	408-419	Scarborough	_	_	
+7-34	419-420	,	_	_	
+7-35	421-425	Miss	_	_	
+7-36	426-432	Jewell	_	_	
+7-37	432-433	,	_	_	
+7-38	434-437	and	_	_	
+7-39	438-443	other	_	_	
+7-40	444-456	accomplished	_	_	
+7-41	457-466	vocalists	_	_	
+7-42	467-473	kindly	_	_	
+7-43	474-482	assisted	_	_	
+7-44	482-483	.	_	_	
+
+#Text=The instrumental and vocal music was of the first class description, and the sweet voice of Miss Scarborough, and her ladylike and graceful appearance, won the approbation of everybody.
+8-1	484-487	The	_	_	
+8-2	488-500	instrumental	_	_	
+8-3	501-504	and	_	_	
+8-4	505-510	vocal	_	_	
+8-5	511-516	music	_	_	
+8-6	517-520	was	_	_	
+8-7	521-523	of	_	_	
+8-8	524-527	the	_	_	
+8-9	528-533	first	_	_	
+8-10	534-539	class	_	_	
+8-11	540-551	description	_	_	
+8-12	551-552	,	_	_	
+8-13	553-556	and	_	_	
+8-14	557-560	the	_	_	
+8-15	561-566	sweet	_	_	
+8-16	567-572	voice	_	_	
+8-17	573-575	of	_	_	
+8-18	576-580	Miss	_	_	
+8-19	581-592	Scarborough	_	_	
+8-20	592-593	,	_	_	
+8-21	594-597	and	_	_	
+8-22	598-601	her	_	_	
+8-23	602-610	ladylike	_	_	
+8-24	611-614	and	_	_	
+8-25	615-623	graceful	_	_	
+8-26	624-634	appearance	_	_	
+8-27	634-635	,	_	_	
+8-28	636-639	won	_	_	
+8-29	640-643	the	_	_	
+8-30	644-655	approbation	_	_	
+8-31	656-658	of	_	_	
+8-32	659-668	everybody	_	_	
+8-33	668-669	.	_	_	
+
+#Text=Her refined execution in the sweet song of " The Spirit of Air" was charming, and it produced an unanimous encore, the only repetition demanded at the meeting.
+9-1	670-673	Her	_	_	
+9-2	674-681	refined	_	_	
+9-3	682-691	execution	_	_	
+9-4	692-694	in	_	_	
+9-5	695-698	the	_	_	
+9-6	699-704	sweet	_	_	
+9-7	705-709	song	_	_	
+9-8	710-712	of	_	_	
+9-9	713-714	"	_	_	
+9-10	715-718	The	_	_	
+9-11	719-725	Spirit	_	_	
+9-12	726-728	of	_	_	
+9-13	729-732	Air	_	_	
+9-14	732-733	"	_	_	
+9-15	734-737	was	_	_	
+9-16	738-746	charming	_	_	
+9-17	746-747	,	_	_	
+9-18	748-751	and	_	_	
+9-19	752-754	it	_	_	
+9-20	755-763	produced	_	_	
+9-21	764-766	an	_	_	
+9-22	767-776	unanimous	_	_	
+9-23	777-783	encore	_	_	
+9-24	783-784	,	_	_	
+9-25	785-788	the	_	_	
+9-26	789-793	only	_	_	
+9-27	794-804	repetition	_	_	
+9-28	805-813	demanded	_	_	
+9-29	814-816	at	_	_	
+9-30	817-820	the	_	_	
+9-31	821-828	meeting	_	_	
+9-32	828-829	.	_	_	
+
+#Text=Among the company we noticed the Hon.
+10-1	830-835	Among	_	_	
+10-2	836-839	the	_	_	
+10-3	840-847	company	_	_	
+10-4	848-850	we	_	_	
+10-5	851-858	noticed	_	_	
+10-6	859-862	the	_	_	
+10-7	863-866	Hon	_	_	
+10-8	866-867	.	_	_	
+
+#Text=Grantley Berkeley, General Cleveland, Col. and Miss Coventry, Sir George and Lady Pococke, Lady Gervis and family, Mrs.
+11-1	868-876	Grantley	_	_	
+11-2	877-885	Berkeley	_	_	
+11-3	885-886	,	_	_	
+11-4	887-894	General	_	_	
+11-5	895-904	Cleveland	_	_	
+11-6	904-905	,	_	_	
+11-7	906-909	Col	_	_	
+11-8	909-910	.	_	_	
+11-9	911-914	and	_	_	
+11-10	915-919	Miss	_	_	
+11-11	920-928	Coventry	_	_	
+11-12	928-929	,	_	_	
+11-13	930-933	Sir	_	_	
+11-14	934-940	George	_	_	
+11-15	941-944	and	_	_	
+11-16	945-949	Lady	_	_	
+11-17	950-957	Pococke	_	_	
+11-18	957-958	,	_	_	
+11-19	959-963	Lady	_	_	
+11-20	964-970	Gervis	_	_	
+11-21	971-974	and	_	_	
+11-22	975-981	family	_	_	
+11-23	981-982	,	_	_	
+11-24	983-986	Mrs	_	_	
+11-25	986-987	.	_	_	
+
+#Text=Entwisle, Miss Eutwisle.
+12-1	988-996	Entwisle	_	_	
+12-2	996-997	,	_	_	
+12-3	998-1002	Miss	_	_	
+12-4	1003-1011	Eutwisle	_	_	
+12-5	1011-1012	.	_	_	
+
+#Text=Mr. and Mrs.
+13-1	1013-1015	Mr	_	_	
+13-2	1015-1016	.	_	_	
+13-3	1017-1020	and	_	_	
+13-4	1021-1024	Mrs	_	_	
+13-5	1024-1025	.	_	_	
+
+#Text=Mitchell, Miss E.
+14-1	1026-1034	Mitchell	_	_	
+14-2	1034-1035	,	_	_	
+14-3	1036-1040	Miss	_	_	
+14-4	1041-1042	E	_	_	
+14-5	1042-1043	.	_	_	
+
+#Text=Wilmot, Capt. and Mrs.
+15-1	1044-1050	Wilmot	_	_	
+15-2	1050-1051	,	_	_	
+15-3	1052-1056	Capt	_	_	
+15-4	1056-1057	.	_	_	
+15-5	1058-1061	and	_	_	
+15-6	1062-1065	Mrs	_	_	
+15-7	1065-1066	.	_	_	
+
+#Text=Pococke, Miss Wyndham, Miss Hamilton, and Mrs. nnd the Miss Hamiltons, and other visitors from Bournemouth.
+16-1	1067-1074	Pococke	_	_	
+16-2	1074-1075	,	_	_	
+16-3	1076-1080	Miss	_	_	
+16-4	1081-1088	Wyndham	_	_	
+16-5	1088-1089	,	_	_	
+16-6	1090-1094	Miss	_	_	
+16-7	1095-1103	Hamilton	_	_	
+16-8	1103-1104	,	_	_	
+16-9	1105-1108	and	_	_	
+16-10	1109-1112	Mrs	_	_	
+16-11	1112-1113	.	_	_	
+16-12	1114-1117	nnd	_	_	
+16-13	1118-1121	the	_	_	
+16-14	1122-1126	Miss	_	_	
+16-15	1127-1136	Hamiltons	_	_	
+16-16	1136-1137	,	_	_	
+16-17	1138-1141	and	_	_	
+16-18	1142-1147	other	_	_	
+16-19	1148-1156	visitors	_	_	
+16-20	1157-1161	from	_	_	
+16-21	1162-1173	Bournemouth	https://en.wikipedia.org/wiki/Bournemouth	LOC	
+16-22	1173-1174	.	_	_	
+
+#Text=The room was filled, and a good sum collected for the funds for the organ in the church.
+17-1	1175-1178	The	_	_	
+17-2	1179-1183	room	_	_	
+17-3	1184-1187	was	_	_	
+17-4	1188-1194	filled	_	_	
+17-5	1194-1195	,	_	_	
+17-6	1196-1199	and	_	_	
+17-7	1200-1201	a	_	_	
+17-8	1202-1206	good	_	_	
+17-9	1207-1210	sum	_	_	
+17-10	1211-1220	collected	_	_	
+17-11	1221-1224	for	_	_	
+17-12	1225-1228	the	_	_	
+17-13	1229-1234	funds	_	_	
+17-14	1235-1238	for	_	_	
+17-15	1239-1242	the	_	_	
+17-16	1243-1248	organ	_	_	
+17-17	1249-1251	in	_	_	
+17-18	1252-1255	the	_	_	
+17-19	1256-1262	church	_	_	
+17-20	1262-1263	.	_	_	
+
+#Text=GOSPORT.
+18-1	1264-1271	GOSPORT	https://en.wikipedia.org/wiki/Gosport	LOC	
+18-2	1271-1272	.	_	_	
+
+#Text=Fatal Accident.
+19-1	1273-1278	Fatal	_	_	
+19-2	1279-1287	Accident	_	_	
+19-3	1287-1288	.	_	_	
+
+#Text=—An inquest was held on Wednesday at Gosport on the body of Major Richard Wollaston Clerke, of the 26th (Cameronians) Regiment, commanding a detachment of the regiment stationed temporarily in Fort Gomer.
+20-1	1288-1289	—	_	_	
+20-2	1289-1291	An	_	_	
+20-3	1292-1299	inquest	_	_	
+20-4	1300-1303	was	_	_	
+20-5	1304-1308	held	_	_	
+20-6	1309-1311	on	_	_	
+20-7	1312-1321	Wednesday	_	_	
+20-8	1322-1324	at	_	_	
+20-9	1325-1332	Gosport	https://en.wikipedia.org/wiki/Gosport	LOC	
+20-10	1333-1335	on	_	_	
+20-11	1336-1339	the	_	_	
+20-12	1340-1344	body	_	_	
+20-13	1345-1347	of	_	_	
+20-14	1348-1353	Major	_	_	
+20-15	1354-1361	Richard	_	_	
+20-16	1362-1371	Wollaston	_	_	
+20-17	1372-1378	Clerke	_	_	
+20-18	1378-1379	,	_	_	
+20-19	1380-1382	of	_	_	
+20-20	1383-1386	the	_	_	
+20-21	1387-1391	26th	_	_	
+20-22	1392-1393	(	_	_	
+20-23	1393-1404	Cameronians	_	_	
+20-24	1404-1405	)	_	_	
+20-25	1406-1414	Regiment	_	_	
+20-26	1414-1415	,	_	_	
+20-27	1416-1426	commanding	_	_	
+20-28	1427-1428	a	_	_	
+20-29	1429-1439	detachment	_	_	
+20-30	1440-1442	of	_	_	
+20-31	1443-1446	the	_	_	
+20-32	1447-1455	regiment	_	_	
+20-33	1456-1465	stationed	_	_	
+20-34	1466-1477	temporarily	_	_	
+20-35	1478-1480	in	_	_	
+20-36	1481-1485	Fort	https://en.wikipedia.org/wiki/Fort\_Gomer[2]	LOC[2]	
+20-37	1486-1491	Gomer	https://en.wikipedia.org/wiki/Fort\_Gomer[2]	LOC[2]	
+20-38	1491-1492	.	_	_	
+
+#Text=It appeared that after mess on Sunday evening he lit a cigar and went out alone for a stroll upon the ramparts.
+21-1	1493-1495	It	_	_	
+21-2	1496-1504	appeared	_	_	
+21-3	1505-1509	that	_	_	
+21-4	1510-1515	after	_	_	
+21-5	1516-1520	mess	_	_	
+21-6	1521-1523	on	_	_	
+21-7	1524-1530	Sunday	_	_	
+21-8	1531-1538	evening	_	_	
+21-9	1539-1541	he	_	_	
+21-10	1542-1545	lit	_	_	
+21-11	1546-1547	a	_	_	
+21-12	1548-1553	cigar	_	_	
+21-13	1554-1557	and	_	_	
+21-14	1558-1562	went	_	_	
+21-15	1563-1566	out	_	_	
+21-16	1567-1572	alone	_	_	
+21-17	1573-1576	for	_	_	
+21-18	1577-1578	a	_	_	
+21-19	1579-1585	stroll	_	_	
+21-20	1586-1590	upon	_	_	
+21-21	1591-1594	the	_	_	
+21-22	1595-1603	ramparts	_	_	
+21-23	1603-1604	.	_	_	
+
+#Text=He did not return.
+22-1	1605-1607	He	_	_	
+22-2	1608-1611	did	_	_	
+22-3	1612-1615	not	_	_	
+22-4	1616-1622	return	_	_	
+22-5	1622-1623	.	_	_	
+
+#Text=Ou the following morning his body was fouud in the moat which surrounds the work, and in which water has a depth of three feet.
+23-1	1624-1626	Ou	_	_	
+23-2	1627-1630	the	_	_	
+23-3	1631-1640	following	_	_	
+23-4	1641-1648	morning	_	_	
+23-5	1649-1652	his	_	_	
+23-6	1653-1657	body	_	_	
+23-7	1658-1661	was	_	_	
+23-8	1662-1667	fouud	_	_	
+23-9	1668-1670	in	_	_	
+23-10	1671-1674	the	_	_	
+23-11	1675-1679	moat	_	_	
+23-12	1680-1685	which	_	_	
+23-13	1686-1695	surrounds	_	_	
+23-14	1696-1699	the	_	_	
+23-15	1700-1704	work	_	_	
+23-16	1704-1705	,	_	_	
+23-17	1706-1709	and	_	_	
+23-18	1710-1712	in	_	_	
+23-19	1713-1718	which	_	_	
+23-20	1719-1724	water	_	_	
+23-21	1725-1728	has	_	_	
+23-22	1729-1730	a	_	_	
+23-23	1731-1736	depth	_	_	
+23-24	1737-1739	of	_	_	
+23-25	1740-1745	three	_	_	
+23-26	1746-1750	feet	_	_	
+23-27	1750-1751	.	_	_	
+
+#Text=From appearances which could be plainly traced on the ramparts ol the work and iv the moat it would seem that he stumbled over a part of the stonework on the ramparts, and fell over into the moat.
+24-1	1752-1756	From	_	_	
+24-2	1757-1768	appearances	_	_	
+24-3	1769-1774	which	_	_	
+24-4	1775-1780	could	_	_	
+24-5	1781-1783	be	_	_	
+24-6	1784-1791	plainly	_	_	
+24-7	1792-1798	traced	_	_	
+24-8	1799-1801	on	_	_	
+24-9	1802-1805	the	_	_	
+24-10	1806-1814	ramparts	_	_	
+24-11	1815-1817	ol	_	_	
+24-12	1818-1821	the	_	_	
+24-13	1822-1826	work	_	_	
+24-14	1827-1830	and	_	_	
+24-15	1831-1833	iv	_	_	
+24-16	1834-1837	the	_	_	
+24-17	1838-1842	moat	_	_	
+24-18	1843-1845	it	_	_	
+24-19	1846-1851	would	_	_	
+24-20	1852-1856	seem	_	_	
+24-21	1857-1861	that	_	_	
+24-22	1862-1864	he	_	_	
+24-23	1865-1873	stumbled	_	_	
+24-24	1874-1878	over	_	_	
+24-25	1879-1880	a	_	_	
+24-26	1881-1885	part	_	_	
+24-27	1886-1888	of	_	_	
+24-28	1889-1892	the	_	_	
+24-29	1893-1902	stonework	_	_	
+24-30	1903-1905	on	_	_	
+24-31	1906-1909	the	_	_	
+24-32	1910-1918	ramparts	_	_	
+24-33	1918-1919	,	_	_	
+24-34	1920-1923	and	_	_	
+24-35	1924-1928	fell	_	_	
+24-36	1929-1933	over	_	_	
+24-37	1934-1938	into	_	_	
+24-38	1939-1942	the	_	_	
+24-39	1943-1947	moat	_	_	
+24-40	1947-1948	.	_	_	
+
+#Text=His footprints could be traced round the work, in his endeavours to extricate himself, to the spot where the body was found.
+25-1	1949-1952	His	_	_	
+25-2	1953-1963	footprints	_	_	
+25-3	1964-1969	could	_	_	
+25-4	1970-1972	be	_	_	
+25-5	1973-1979	traced	_	_	
+25-6	1980-1985	round	_	_	
+25-7	1986-1989	the	_	_	
+25-8	1990-1994	work	_	_	
+25-9	1994-1995	,	_	_	
+25-10	1996-1998	in	_	_	
+25-11	1999-2002	his	_	_	
+25-12	2003-2013	endeavours	_	_	
+25-13	2014-2016	to	_	_	
+25-14	2017-2026	extricate	_	_	
+25-15	2027-2034	himself	_	_	
+25-16	2034-2035	,	_	_	
+25-17	2036-2038	to	_	_	
+25-18	2039-2042	the	_	_	
+25-19	2043-2047	spot	_	_	
+25-20	2048-2053	where	_	_	
+25-21	2054-2057	the	_	_	
+25-22	2058-2062	body	_	_	
+25-23	2063-2066	was	_	_	
+25-24	2067-2072	found	_	_	
+25-25	2072-2073	.	_	_	
+
+#Text=One hand was bound up with a handkerchief, it having evidently been cut in falling over the parapet.
+26-1	2074-2077	One	_	_	
+26-2	2078-2082	hand	_	_	
+26-3	2083-2086	was	_	_	
+26-4	2087-2092	bound	_	_	
+26-5	2093-2095	up	_	_	
+26-6	2096-2100	with	_	_	
+26-7	2101-2102	a	_	_	
+26-8	2103-2115	handkerchief	_	_	
+26-9	2115-2116	,	_	_	
+26-10	2117-2119	it	_	_	
+26-11	2120-2126	having	_	_	
+26-12	2127-2136	evidently	_	_	
+26-13	2137-2141	been	_	_	
+26-14	2142-2145	cut	_	_	
+26-15	2146-2148	in	_	_	
+26-16	2149-2156	falling	_	_	
+26-17	2157-2161	over	_	_	
+26-18	2162-2165	the	_	_	
+26-19	2166-2173	parapet	_	_	
+26-20	2173-2174	.	_	_	
+
+#Text=The features were quite calm, and this fact, coupled with the delicate health of the deceased and the shallow depth of water, leads to the belief that he must have been drowned while fainting from exhaustion.
+27-1	2175-2178	The	_	_	
+27-2	2179-2187	features	_	_	
+27-3	2188-2192	were	_	_	
+27-4	2193-2198	quite	_	_	
+27-5	2199-2203	calm	_	_	
+27-6	2203-2204	,	_	_	
+27-7	2205-2208	and	_	_	
+27-8	2209-2213	this	_	_	
+27-9	2214-2218	fact	_	_	
+27-10	2218-2219	,	_	_	
+27-11	2220-2227	coupled	_	_	
+27-12	2228-2232	with	_	_	
+27-13	2233-2236	the	_	_	
+27-14	2237-2245	delicate	_	_	
+27-15	2246-2252	health	_	_	
+27-16	2253-2255	of	_	_	
+27-17	2256-2259	the	_	_	
+27-18	2260-2268	deceased	_	_	
+27-19	2269-2272	and	_	_	
+27-20	2273-2276	the	_	_	
+27-21	2277-2284	shallow	_	_	
+27-22	2285-2290	depth	_	_	
+27-23	2291-2293	of	_	_	
+27-24	2294-2299	water	_	_	
+27-25	2299-2300	,	_	_	
+27-26	2301-2306	leads	_	_	
+27-27	2307-2309	to	_	_	
+27-28	2310-2313	the	_	_	
+27-29	2314-2320	belief	_	_	
+27-30	2321-2325	that	_	_	
+27-31	2326-2328	he	_	_	
+27-32	2329-2333	must	_	_	
+27-33	2334-2338	have	_	_	
+27-34	2339-2343	been	_	_	
+27-35	2344-2351	drowned	_	_	
+27-36	2352-2357	while	_	_	
+27-37	2358-2366	fainting	_	_	
+27-38	2367-2371	from	_	_	
+27-39	2372-2382	exhaustion	_	_	
+27-40	2382-2383	.	_	_	
+
+#Text=An inquest was formally held, and a verdict was returned in accordance with the facts of the case.
+28-1	2384-2386	An	_	_	
+28-2	2387-2394	inquest	_	_	
+28-3	2395-2398	was	_	_	
+28-4	2399-2407	formally	_	_	
+28-5	2408-2412	held	_	_	
+28-6	2412-2413	,	_	_	
+28-7	2414-2417	and	_	_	
+28-8	2418-2419	a	_	_	
+28-9	2420-2427	verdict	_	_	
+28-10	2428-2431	was	_	_	
+28-11	2432-2440	returned	_	_	
+28-12	2441-2443	in	_	_	
+28-13	2444-2454	accordance	_	_	
+28-14	2455-2459	with	_	_	
+28-15	2460-2463	the	_	_	
+28-16	2464-2469	facts	_	_	
+28-17	2470-2472	of	_	_	
+28-18	2473-2476	the	_	_	
+28-19	2477-2481	case	_	_	
+28-20	2481-2482	.	_	_	
+
+#Text=The funeral, attended w h military honours, took place on Friday L it.
+29-1	2483-2486	The	_	_	
+29-2	2487-2494	funeral	_	_	
+29-3	2494-2495	,	_	_	
+29-4	2496-2504	attended	_	_	
+29-5	2505-2506	w	_	_	
+29-6	2507-2508	h	_	_	
+29-7	2509-2517	military	_	_	
+29-8	2518-2525	honours	_	_	
+29-9	2525-2526	,	_	_	
+29-10	2527-2531	took	_	_	
+29-11	2532-2537	place	_	_	
+29-12	2538-2540	on	_	_	
+29-13	2541-2547	Friday	_	_	
+29-14	2548-2549	L	_	_	
+29-15	2550-2552	it	_	_	
+29-16	2552-2553	.	_	_	

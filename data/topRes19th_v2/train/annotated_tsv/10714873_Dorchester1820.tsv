@@ -1,0 +1,630 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WEYMOUTH:—Y/ EDNESDAY, July 8.
+1-1	0-8	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-2	8-9	:	_	_	
+1-3	9-10	—	_	_	
+1-4	10-11	Y	_	_	
+1-5	11-12	/	_	_	
+1-6	13-21	EDNESDAY	_	_	
+1-7	21-22	,	_	_	
+1-8	23-27	July	_	_	
+1-9	28-29	8	_	_	
+1-10	29-30	.	_	_	
+
+#Text=Among the arrivals of the week are Gen. and Mrs.
+2-1	32-37	Among	_	_	
+2-2	38-41	the	_	_	
+2-3	42-50	arrivals	_	_	
+2-4	51-53	of	_	_	
+2-5	54-57	the	_	_	
+2-6	58-62	week	_	_	
+2-7	63-66	are	_	_	
+2-8	67-70	Gen	_	_	
+2-9	70-71	.	_	_	
+2-10	72-75	and	_	_	
+2-11	76-79	Mrs	_	_	
+2-12	79-80	.	_	_	
+
+#Text=Wilson, air O. and Lady Hewitt, and the Misses Hewitt, Sir Charles Waller, Bart., the Hon. and Baroness Dimsdale, Lady Jones Bridget, Rev.
+3-1	81-87	Wilson	_	_	
+3-2	87-88	,	_	_	
+3-3	89-92	air	_	_	
+3-4	93-94	O	_	_	
+3-5	94-95	.	_	_	
+3-6	96-99	and	_	_	
+3-7	100-104	Lady	_	_	
+3-8	105-111	Hewitt	_	_	
+3-9	111-112	,	_	_	
+3-10	113-116	and	_	_	
+3-11	117-120	the	_	_	
+3-12	121-127	Misses	_	_	
+3-13	128-134	Hewitt	_	_	
+3-14	134-135	,	_	_	
+3-15	136-139	Sir	_	_	
+3-16	140-147	Charles	_	_	
+3-17	148-154	Waller	_	_	
+3-18	154-155	,	_	_	
+3-19	156-160	Bart	_	_	
+3-20	160-161	.	_	_	
+3-21	161-162	,	_	_	
+3-22	163-166	the	_	_	
+3-23	167-170	Hon	_	_	
+3-24	170-171	.	_	_	
+3-25	172-175	and	_	_	
+3-26	176-184	Baroness	_	_	
+3-27	185-193	Dimsdale	_	_	
+3-28	193-194	,	_	_	
+3-29	195-199	Lady	_	_	
+3-30	200-205	Jones	_	_	
+3-31	206-213	Bridget	_	_	
+3-32	213-214	,	_	_	
+3-33	215-218	Rev	_	_	
+3-34	218-219	.	_	_	
+
+#Text=Mr. and Mrs.
+4-1	220-222	Mr	_	_	
+4-2	222-223	.	_	_	
+4-3	224-227	and	_	_	
+4-4	228-231	Mrs	_	_	
+4-5	231-232	.	_	_	
+
+#Text=Kadcliffe, Dr.
+5-1	233-242	Kadcliffe	_	_	
+5-2	242-243	,	_	_	
+5-3	244-246	Dr	_	_	
+5-4	246-247	.	_	_	
+
+#Text=Henry H. and Mrs.
+6-1	248-253	Henry	_	_	
+6-2	254-255	H	_	_	
+6-3	255-256	.	_	_	
+6-4	257-260	and	_	_	
+6-5	261-264	Mrs	_	_	
+6-6	264-265	.	_	_	
+
+#Text=Fox, Dr.
+7-1	266-269	Fox	_	_	
+7-2	269-270	,	_	_	
+7-3	271-273	Dr	_	_	
+7-4	273-274	.	_	_	
+
+#Text=Forbes, Rev.
+8-1	275-281	Forbes	_	_	
+8-2	281-282	,	_	_	
+8-3	283-286	Rev	_	_	
+8-4	286-287	.	_	_	
+
+#Text=Mr.
+9-1	288-290	Mr	_	_	
+9-2	290-291	.	_	_	
+
+#Text=Hatcher, Major and Mrs.
+10-1	292-299	Hatcher	_	_	
+10-2	299-300	,	_	_	
+10-3	301-306	Major	_	_	
+10-4	307-310	and	_	_	
+10-5	311-314	Mrs	_	_	
+10-6	314-315	.	_	_	
+
+#Text=Crowe, Captain Webb, Mr. and Mrs.
+11-1	316-321	Crowe	_	_	
+11-2	321-322	,	_	_	
+11-3	323-330	Captain	_	_	
+11-4	331-335	Webb	_	_	
+11-5	335-336	,	_	_	
+11-6	337-339	Mr	_	_	
+11-7	339-340	.	_	_	
+11-8	341-344	and	_	_	
+11-9	345-348	Mrs	_	_	
+11-10	348-349	.	_	_	
+
+#Text=Duncotnbe, Mr. and Hon.
+12-1	350-359	Duncotnbe	_	_	
+12-2	359-360	,	_	_	
+12-3	361-363	Mr	_	_	
+12-4	363-364	.	_	_	
+12-5	365-368	and	_	_	
+12-6	369-372	Hon	_	_	
+12-7	372-373	.	_	_	
+
+#Text=Mrs.
+13-1	374-377	Mrs	_	_	
+13-2	377-378	.	_	_	
+
+#Text=Stawell, Mrs. and Mist Buckley, Mrs. and the Misses Honey, Mr. and Mrs.
+14-1	379-386	Stawell	_	_	
+14-2	386-387	,	_	_	
+14-3	388-391	Mrs	_	_	
+14-4	391-392	.	_	_	
+14-5	393-396	and	_	_	
+14-6	397-401	Mist	_	_	
+14-7	402-409	Buckley	_	_	
+14-8	409-410	,	_	_	
+14-9	411-414	Mrs	_	_	
+14-10	414-415	.	_	_	
+14-11	416-419	and	_	_	
+14-12	420-423	the	_	_	
+14-13	424-430	Misses	_	_	
+14-14	431-436	Honey	_	_	
+14-15	436-437	,	_	_	
+14-16	438-440	Mr	_	_	
+14-17	440-441	.	_	_	
+14-18	442-445	and	_	_	
+14-19	446-449	Mrs	_	_	
+14-20	449-450	.	_	_	
+
+#Text=Hallett, Miss Smith, Mrs.
+15-1	451-458	Hallett	_	_	
+15-2	458-459	,	_	_	
+15-3	460-464	Miss	_	_	
+15-4	465-470	Smith	_	_	
+15-5	470-471	,	_	_	
+15-6	472-475	Mrs	_	_	
+15-7	475-476	.	_	_	
+
+#Text=Jolliff, Mrs.
+16-1	477-484	Jolliff	_	_	
+16-2	484-485	,	_	_	
+16-3	486-489	Mrs	_	_	
+16-4	489-490	.	_	_	
+
+#Text=Rawlins, Miss Bishop, Mr. and Mrs.
+17-1	491-498	Rawlins	_	_	
+17-2	498-499	,	_	_	
+17-3	500-504	Miss	_	_	
+17-4	505-511	Bishop	_	_	
+17-5	511-512	,	_	_	
+17-6	513-515	Mr	_	_	
+17-7	515-516	.	_	_	
+17-8	517-520	and	_	_	
+17-9	521-524	Mrs	_	_	
+17-10	524-525	.	_	_	
+
+#Text=Walmesley, Mrs.
+18-1	526-535	Walmesley	_	_	
+18-2	535-536	,	_	_	
+18-3	537-540	Mrs	_	_	
+18-4	540-541	.	_	_	
+
+#Text=Farquharson, Mr. and Mrs.
+19-1	542-553	Farquharson	_	_	
+19-2	553-554	,	_	_	
+19-3	555-557	Mr	_	_	
+19-4	557-558	.	_	_	
+19-5	559-562	and	_	_	
+19-6	563-566	Mrs	_	_	
+19-7	566-567	.	_	_	
+
+#Text=Baskett, Mis.
+20-1	568-575	Baskett	_	_	
+20-2	575-576	,	_	_	
+20-3	577-580	Mis	_	_	
+20-4	580-581	.	_	_	
+
+#Text=Brown, Miss Neat, Mrs.
+21-1	582-587	Brown	_	_	
+21-2	587-588	,	_	_	
+21-3	589-593	Miss	_	_	
+21-4	594-598	Neat	_	_	
+21-5	598-599	,	_	_	
+21-6	600-603	Mrs	_	_	
+21-7	603-604	.	_	_	
+
+#Text=Amos, Mrs.
+22-1	605-609	Amos	_	_	
+22-2	609-610	,	_	_	
+22-3	611-614	Mrs	_	_	
+22-4	614-615	.	_	_	
+
+#Text=Standish.
+23-1	616-624	Standish	_	_	
+23-2	624-625	.	_	_	
+
+#Text=Mr.Symonds, Mr.
+24-1	626-636	Mr.Symonds	_	_	
+24-2	636-637	,	_	_	
+24-3	638-640	Mr	_	_	
+24-4	640-641	.	_	_	
+
+#Text=Clark, Mr. and Mrs.
+25-1	642-647	Clark	_	_	
+25-2	647-648	,	_	_	
+25-3	649-651	Mr	_	_	
+25-4	651-652	.	_	_	
+25-5	653-656	and	_	_	
+25-6	657-660	Mrs	_	_	
+25-7	660-661	.	_	_	
+
+#Text=Southcot, Miss Abbott, Miss Gould, Mr.
+26-1	662-670	Southcot	_	_	
+26-2	670-671	,	_	_	
+26-3	672-676	Miss	_	_	
+26-4	677-683	Abbott	_	_	
+26-5	683-684	,	_	_	
+26-6	685-689	Miss	_	_	
+26-7	690-695	Gould	_	_	
+26-8	695-696	,	_	_	
+26-9	697-699	Mr	_	_	
+26-10	699-700	.	_	_	
+
+#Text=Collins, Mr.
+27-1	701-708	Collins	_	_	
+27-2	708-709	,	_	_	
+27-3	710-712	Mr	_	_	
+27-4	712-713	.	_	_	
+
+#Text=M‘Tier, Mr. and Mrs.
+28-1	714-715	M	_	_	
+28-2	715-716	‘	_	_	
+28-3	716-720	Tier	_	_	
+28-4	720-721	,	_	_	
+28-5	722-724	Mr	_	_	
+28-6	724-725	.	_	_	
+28-7	726-729	and	_	_	
+28-8	730-733	Mrs	_	_	
+28-9	733-734	.	_	_	
+
+#Text=Scudamore, Mrs.
+29-1	735-744	Scudamore	_	_	
+29-2	744-745	,	_	_	
+29-3	746-749	Mrs	_	_	
+29-4	749-750	.	_	_	
+
+#Text=Spry, Mrs.
+30-1	751-755	Spry	_	_	
+30-2	755-756	,	_	_	
+30-3	757-760	Mrs	_	_	
+30-4	760-761	.	_	_	
+
+#Text=Row, Mrs.
+31-1	762-765	Row	_	_	
+31-2	765-766	,	_	_	
+31-3	767-770	Mrs	_	_	
+31-4	770-771	.	_	_	
+
+#Text=Strangways, &c.
+32-1	772-782	Strangways	_	_	
+32-2	782-783	,	_	_	
+32-3	784-785	&	_	_	
+32-4	785-786	c	_	_	
+32-5	786-787	.	_	_	
+
+#Text=The royal visit of Charles X., King of r ranee, to Cherbourg, is fixed for Monday, 24th August.
+33-1	788-791	The	_	_	
+33-2	792-797	royal	_	_	
+33-3	798-803	visit	_	_	
+33-4	804-806	of	_	_	
+33-5	807-814	Charles	_	_	
+33-6	815-816	X	_	_	
+33-7	816-817	.	_	_	
+33-8	817-818	,	_	_	
+33-9	819-823	King	_	_	
+33-10	824-826	of	_	_	
+33-11	827-828	r	https://en.wikipedia.org/wiki/France[1]	LOC[1]	
+33-12	829-834	ranee	https://en.wikipedia.org/wiki/France[1]	LOC[1]	
+33-13	834-835	,	_	_	
+33-14	836-838	to	_	_	
+33-15	839-848	Cherbourg	https://en.wikipedia.org/wiki/Cherbourg-en-Cotentin	LOC	
+33-16	848-849	,	_	_	
+33-17	850-852	is	_	_	
+33-18	853-858	fixed	_	_	
+33-19	859-862	for	_	_	
+33-20	863-869	Monday	_	_	
+33-21	869-870	,	_	_	
+33-22	871-875	24th	_	_	
+33-23	876-882	August	_	_	
+33-24	882-883	.	_	_	
+
+#Text=Lord Yarborough, in his superb Yacht, the Falcon, has been at anchor in our roads for some days past.
+34-1	884-888	Lord	_	_	
+34-2	889-899	Yarborough	_	_	
+34-3	899-900	,	_	_	
+34-4	901-903	in	_	_	
+34-5	904-907	his	_	_	
+34-6	908-914	superb	_	_	
+34-7	915-920	Yacht	_	_	
+34-8	920-921	,	_	_	
+34-9	922-925	the	_	_	
+34-10	926-932	Falcon	_	_	
+34-11	932-933	,	_	_	
+34-12	934-937	has	_	_	
+34-13	938-942	been	_	_	
+34-14	943-945	at	_	_	
+34-15	946-952	anchor	_	_	
+34-16	953-955	in	_	_	
+34-17	956-959	our	_	_	
+34-18	960-965	roads	_	_	
+34-19	966-969	for	_	_	
+34-20	970-974	some	_	_	
+34-21	975-979	days	_	_	
+34-22	980-984	past	_	_	
+34-23	984-985	.	_	_	
+
+#Text=This rooming she got under weigh, and has been sailing to and fto for several hours, affording a pleasing tight to the promenaders on the Esplanade.
+35-1	986-990	This	_	_	
+35-2	991-998	rooming	_	_	
+35-3	999-1002	she	_	_	
+35-4	1003-1006	got	_	_	
+35-5	1007-1012	under	_	_	
+35-6	1013-1018	weigh	_	_	
+35-7	1018-1019	,	_	_	
+35-8	1020-1023	and	_	_	
+35-9	1024-1027	has	_	_	
+35-10	1028-1032	been	_	_	
+35-11	1033-1040	sailing	_	_	
+35-12	1041-1043	to	_	_	
+35-13	1044-1047	and	_	_	
+35-14	1048-1051	fto	_	_	
+35-15	1052-1055	for	_	_	
+35-16	1056-1063	several	_	_	
+35-17	1064-1069	hours	_	_	
+35-18	1069-1070	,	_	_	
+35-19	1071-1080	affording	_	_	
+35-20	1081-1082	a	_	_	
+35-21	1083-1091	pleasing	_	_	
+35-22	1092-1097	tight	_	_	
+35-23	1098-1100	to	_	_	
+35-24	1101-1104	the	_	_	
+35-25	1105-1116	promenaders	_	_	
+35-26	1117-1119	on	_	_	
+35-27	1120-1123	the	_	_	
+35-28	1124-1133	Esplanade	*	STREET	
+35-29	1133-1134	.	_	_	
+
+#Text=His Lordship, accompanied by his daughter, the Honorable Bliss Pelham, came ashore in his barge, and paid a morning visit to Sir George and Lady Thomas, and invited Sir George, Lady and the Misses Thomas to an elegant entertain, ment on board.
+36-1	1135-1138	His	_	_	
+36-2	1139-1147	Lordship	_	_	
+36-3	1147-1148	,	_	_	
+36-4	1149-1160	accompanied	_	_	
+36-5	1161-1163	by	_	_	
+36-6	1164-1167	his	_	_	
+36-7	1168-1176	daughter	_	_	
+36-8	1176-1177	,	_	_	
+36-9	1178-1181	the	_	_	
+36-10	1182-1191	Honorable	_	_	
+36-11	1192-1197	Bliss	_	_	
+36-12	1198-1204	Pelham	_	_	
+36-13	1204-1205	,	_	_	
+36-14	1206-1210	came	_	_	
+36-15	1211-1217	ashore	_	_	
+36-16	1218-1220	in	_	_	
+36-17	1221-1224	his	_	_	
+36-18	1225-1230	barge	_	_	
+36-19	1230-1231	,	_	_	
+36-20	1232-1235	and	_	_	
+36-21	1236-1240	paid	_	_	
+36-22	1241-1242	a	_	_	
+36-23	1243-1250	morning	_	_	
+36-24	1251-1256	visit	_	_	
+36-25	1257-1259	to	_	_	
+36-26	1260-1263	Sir	_	_	
+36-27	1264-1270	George	_	_	
+36-28	1271-1274	and	_	_	
+36-29	1275-1279	Lady	_	_	
+36-30	1280-1286	Thomas	_	_	
+36-31	1286-1287	,	_	_	
+36-32	1288-1291	and	_	_	
+36-33	1292-1299	invited	_	_	
+36-34	1300-1303	Sir	_	_	
+36-35	1304-1310	George	_	_	
+36-36	1310-1311	,	_	_	
+36-37	1312-1316	Lady	_	_	
+36-38	1317-1320	and	_	_	
+36-39	1321-1324	the	_	_	
+36-40	1325-1331	Misses	_	_	
+36-41	1332-1338	Thomas	_	_	
+36-42	1339-1341	to	_	_	
+36-43	1342-1344	an	_	_	
+36-44	1345-1352	elegant	_	_	
+36-45	1353-1362	entertain	_	_	
+36-46	1362-1363	,	_	_	
+36-47	1364-1368	ment	_	_	
+36-48	1369-1371	on	_	_	
+36-49	1372-1377	board	_	_	
+36-50	1377-1378	.	_	_	
+
+#Text=They were received with every mark of attention, hit Lordship’s admirable band striking up “ God save the King,” and “ Rule Britannia.”
+37-1	1379-1383	They	_	_	
+37-2	1384-1388	were	_	_	
+37-3	1389-1397	received	_	_	
+37-4	1398-1402	with	_	_	
+37-5	1403-1408	every	_	_	
+37-6	1409-1413	mark	_	_	
+37-7	1414-1416	of	_	_	
+37-8	1417-1426	attention	_	_	
+37-9	1426-1427	,	_	_	
+37-10	1428-1431	hit	_	_	
+37-11	1432-1440	Lordship	_	_	
+37-12	1440-1441	’	_	_	
+37-13	1441-1442	s	_	_	
+37-14	1443-1452	admirable	_	_	
+37-15	1453-1457	band	_	_	
+37-16	1458-1466	striking	_	_	
+37-17	1467-1469	up	_	_	
+37-18	1470-1471	“	_	_	
+37-19	1472-1475	God	_	_	
+37-20	1476-1480	save	_	_	
+37-21	1481-1484	the	_	_	
+37-22	1485-1489	King	_	_	
+37-23	1489-1490	,	_	_	
+37-24	1490-1491	”	_	_	
+37-25	1492-1495	and	_	_	
+37-26	1496-1497	“	_	_	
+37-27	1498-1502	Rule	_	_	
+37-28	1503-1512	Britannia	_	_	
+37-29	1512-1513	.	_	_	
+37-30	1513-1514	”	_	_	
+
+#Text=On the landing of his Lordship, the pleasure yachts in the harbour hoisted the British flag, in honour of the noble characters.
+38-1	1515-1517	On	_	_	
+38-2	1518-1521	the	_	_	
+38-3	1522-1529	landing	_	_	
+38-4	1530-1532	of	_	_	
+38-5	1533-1536	his	_	_	
+38-6	1537-1545	Lordship	_	_	
+38-7	1545-1546	,	_	_	
+38-8	1547-1550	the	_	_	
+38-9	1551-1559	pleasure	_	_	
+38-10	1560-1566	yachts	_	_	
+38-11	1567-1569	in	_	_	
+38-12	1570-1573	the	_	_	
+38-13	1574-1581	harbour	_	_	
+38-14	1582-1589	hoisted	_	_	
+38-15	1590-1593	the	_	_	
+38-16	1594-1601	British	_	_	
+38-17	1602-1606	flag	_	_	
+38-18	1606-1607	,	_	_	
+38-19	1608-1610	in	_	_	
+38-20	1611-1617	honour	_	_	
+38-21	1618-1620	of	_	_	
+38-22	1621-1624	the	_	_	
+38-23	1625-1630	noble	_	_	
+38-24	1631-1641	characters	_	_	
+38-25	1641-1642	.	_	_	
+
+#Text=The bay now exhibits a most gay nautical scene, all the pleasure yachts being in requisition.
+39-1	1643-1646	The	_	_	
+39-2	1647-1650	bay	_	_	
+39-3	1651-1654	now	_	_	
+39-4	1655-1663	exhibits	_	_	
+39-5	1664-1665	a	_	_	
+39-6	1666-1670	most	_	_	
+39-7	1671-1674	gay	_	_	
+39-8	1675-1683	nautical	_	_	
+39-9	1684-1689	scene	_	_	
+39-10	1689-1690	,	_	_	
+39-11	1691-1694	all	_	_	
+39-12	1695-1698	the	_	_	
+39-13	1699-1707	pleasure	_	_	
+39-14	1708-1714	yachts	_	_	
+39-15	1715-1720	being	_	_	
+39-16	1721-1723	in	_	_	
+39-17	1724-1735	requisition	_	_	
+39-18	1735-1736	.	_	_	
+
+#Text=Sir Edward and Lady Poole, Mr. and Mrs.
+40-1	1737-1740	Sir	_	_	
+40-2	1741-1747	Edward	_	_	
+40-3	1748-1751	and	_	_	
+40-4	1752-1756	Lady	_	_	
+40-5	1757-1762	Poole	_	_	
+40-6	1762-1763	,	_	_	
+40-7	1764-1766	Mr	_	_	
+40-8	1766-1767	.	_	_	
+40-9	1768-1771	and	_	_	
+40-10	1772-1775	Mrs	_	_	
+40-11	1775-1776	.	_	_	
+
+#Text=Urquhart, and Mrs.
+41-1	1777-1785	Urquhart	_	_	
+41-2	1785-1786	,	_	_	
+41-3	1787-1790	and	_	_	
+41-4	1791-1794	Mrs	_	_	
+41-5	1794-1795	.	_	_	
+
+#Text=Hamilton, and many other fashionables, in their respective boats, now form a little fleet round the Falcon, _ _ On Sunday last, after Divine Service, an immense concourse of people, of all ranks, were assembled on the Esplanade, to bear the band of the 6th Dragoon Guards perform several pieces of sacred and other music.
+42-1	1796-1804	Hamilton	_	_	
+42-2	1804-1805	,	_	_	
+42-3	1806-1809	and	_	_	
+42-4	1810-1814	many	_	_	
+42-5	1815-1820	other	_	_	
+42-6	1821-1833	fashionables	_	_	
+42-7	1833-1834	,	_	_	
+42-8	1835-1837	in	_	_	
+42-9	1838-1843	their	_	_	
+42-10	1844-1854	respective	_	_	
+42-11	1855-1860	boats	_	_	
+42-12	1860-1861	,	_	_	
+42-13	1862-1865	now	_	_	
+42-14	1866-1870	form	_	_	
+42-15	1871-1872	a	_	_	
+42-16	1873-1879	little	_	_	
+42-17	1880-1885	fleet	_	_	
+42-18	1886-1891	round	_	_	
+42-19	1892-1895	the	_	_	
+42-20	1896-1902	Falcon	_	_	
+42-21	1902-1903	,	_	_	
+42-22	1904-1905	_	_	_	
+42-23	1906-1907	_	_	_	
+42-24	1908-1910	On	_	_	
+42-25	1911-1917	Sunday	_	_	
+42-26	1918-1922	last	_	_	
+42-27	1922-1923	,	_	_	
+42-28	1924-1929	after	_	_	
+42-29	1930-1936	Divine	_	_	
+42-30	1937-1944	Service	_	_	
+42-31	1944-1945	,	_	_	
+42-32	1946-1948	an	_	_	
+42-33	1949-1956	immense	_	_	
+42-34	1957-1966	concourse	_	_	
+42-35	1967-1969	of	_	_	
+42-36	1970-1976	people	_	_	
+42-37	1976-1977	,	_	_	
+42-38	1978-1980	of	_	_	
+42-39	1981-1984	all	_	_	
+42-40	1985-1990	ranks	_	_	
+42-41	1990-1991	,	_	_	
+42-42	1992-1996	were	_	_	
+42-43	1997-2006	assembled	_	_	
+42-44	2007-2009	on	_	_	
+42-45	2010-2013	the	_	_	
+42-46	2014-2023	Esplanade	*	STREET	
+42-47	2023-2024	,	_	_	
+42-48	2025-2027	to	_	_	
+42-49	2028-2032	bear	_	_	
+42-50	2033-2036	the	_	_	
+42-51	2037-2041	band	_	_	
+42-52	2042-2044	of	_	_	
+42-53	2045-2048	the	_	_	
+42-54	2049-2052	6th	_	_	
+42-55	2053-2060	Dragoon	_	_	
+42-56	2061-2067	Guards	_	_	
+42-57	2068-2075	perform	_	_	
+42-58	2076-2083	several	_	_	
+42-59	2084-2090	pieces	_	_	
+42-60	2091-2093	of	_	_	
+42-61	2094-2100	sacred	_	_	
+42-62	2101-2104	and	_	_	
+42-63	2105-2110	other	_	_	
+42-64	2111-2116	music	_	_	
+42-65	2116-2117	.	_	_	
+
+#Text=We can with confidence state, that they were executed in a stile eqaai, if not superior, to any we have beard since the days of George the Third, ofblessed memory.
+43-1	2118-2120	We	_	_	
+43-2	2121-2124	can	_	_	
+43-3	2125-2129	with	_	_	
+43-4	2130-2140	confidence	_	_	
+43-5	2141-2146	state	_	_	
+43-6	2146-2147	,	_	_	
+43-7	2148-2152	that	_	_	
+43-8	2153-2157	they	_	_	
+43-9	2158-2162	were	_	_	
+43-10	2163-2171	executed	_	_	
+43-11	2172-2174	in	_	_	
+43-12	2175-2176	a	_	_	
+43-13	2177-2182	stile	_	_	
+43-14	2183-2188	eqaai	_	_	
+43-15	2188-2189	,	_	_	
+43-16	2190-2192	if	_	_	
+43-17	2193-2196	not	_	_	
+43-18	2197-2205	superior	_	_	
+43-19	2205-2206	,	_	_	
+43-20	2207-2209	to	_	_	
+43-21	2210-2213	any	_	_	
+43-22	2214-2216	we	_	_	
+43-23	2217-2221	have	_	_	
+43-24	2222-2227	beard	_	_	
+43-25	2228-2233	since	_	_	
+43-26	2234-2237	the	_	_	
+43-27	2238-2242	days	_	_	
+43-28	2243-2245	of	_	_	
+43-29	2246-2252	George	_	_	
+43-30	2253-2256	the	_	_	
+43-31	2257-2262	Third	_	_	
+43-32	2262-2263	,	_	_	
+43-33	2264-2273	ofblessed	_	_	
+43-34	2274-2280	memory	_	_	
+43-35	2280-2281	.	_	_	

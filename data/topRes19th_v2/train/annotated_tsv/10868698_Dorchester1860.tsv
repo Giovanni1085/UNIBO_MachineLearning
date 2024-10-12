@@ -1,0 +1,276 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CORFE CASTLE.
+1-1	0-5	CORFE	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[1]	LOC[1]	
+1-2	6-12	CASTLE	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[1]	LOC[1]	
+1-3	12-13	.	_	_	
+
+#Text=Shipping Disastbb.
+2-1	15-23	Shipping	_	_	
+2-2	24-32	Disastbb	_	_	
+2-3	32-33	.	_	_	
+
+#Text=—A little smack called the Zouave, of Ryde, Isle of Wight, 43 tons burden, foundered in the St.
+3-1	33-34	—	_	_	
+3-2	34-35	A	_	_	
+3-3	36-42	little	_	_	
+3-4	43-48	smack	_	_	
+3-5	49-55	called	_	_	
+3-6	56-59	the	_	_	
+3-7	60-66	Zouave	_	_	
+3-8	66-67	,	_	_	
+3-9	68-70	of	_	_	
+3-10	71-75	Ryde	https://en.wikipedia.org/wiki/Ryde	LOC	
+3-11	75-76	,	_	_	
+3-12	77-81	Isle	https://en.wikipedia.org/wiki/Isle\_of\_Wight[2]	LOC[2]	
+3-13	82-84	of	https://en.wikipedia.org/wiki/Isle\_of\_Wight[2]	LOC[2]	
+3-14	85-90	Wight	https://en.wikipedia.org/wiki/Isle\_of\_Wight[2]	LOC[2]	
+3-15	90-91	,	_	_	
+3-16	92-94	43	_	_	
+3-17	95-99	tons	_	_	
+3-18	100-106	burden	_	_	
+3-19	106-107	,	_	_	
+3-20	108-117	foundered	_	_	
+3-21	118-120	in	_	_	
+3-22	121-124	the	_	_	
+3-23	125-127	St	_	_	
+3-24	127-128	.	_	_	
+
+#Text=Albans Race, some six miles from the Head, at about half-past five on Tuesday morning, the 6th inst.
+4-1	129-135	Albans	_	_	
+4-2	136-140	Race	_	_	
+4-3	140-141	,	_	_	
+4-4	142-146	some	_	_	
+4-5	147-150	six	_	_	
+4-6	151-156	miles	_	_	
+4-7	157-161	from	_	_	
+4-8	162-165	the	_	_	
+4-9	166-170	Head	_	_	
+4-10	170-171	,	_	_	
+4-11	172-174	at	_	_	
+4-12	175-180	about	_	_	
+4-13	181-190	half-past	_	_	
+4-14	191-195	five	_	_	
+4-15	196-198	on	_	_	
+4-16	199-206	Tuesday	_	_	
+4-17	207-214	morning	_	_	
+4-18	214-215	,	_	_	
+4-19	216-219	the	_	_	
+4-20	220-223	6th	_	_	
+4-21	224-228	inst	_	_	
+4-22	228-229	.	_	_	
+
+#Text=She was bound from Portland to Ryde, laden with Portland block ; and, when off the place indicated, she encountered a heavy sea, in which she sank.
+5-1	230-233	She	_	_	
+5-2	234-237	was	_	_	
+5-3	238-243	bound	_	_	
+5-4	244-248	from	_	_	
+5-5	249-257	Portland	https://en.wikipedia.org/wiki/Portland\_Harbour	LOC	
+5-6	258-260	to	_	_	
+5-7	261-265	Ryde	https://en.wikipedia.org/wiki/Ryde	LOC	
+5-8	265-266	,	_	_	
+5-9	267-272	laden	_	_	
+5-10	273-277	with	_	_	
+5-11	278-286	Portland	https://en.wikipedia.org/wiki/Isle\_of\_Portland	LOC	
+5-12	287-292	block	_	_	
+5-13	293-294	;	_	_	
+5-14	295-298	and	_	_	
+5-15	298-299	,	_	_	
+5-16	300-304	when	_	_	
+5-17	305-308	off	_	_	
+5-18	309-312	the	_	_	
+5-19	313-318	place	_	_	
+5-20	319-328	indicated	_	_	
+5-21	328-329	,	_	_	
+5-22	330-333	she	_	_	
+5-23	334-345	encountered	_	_	
+5-24	346-347	a	_	_	
+5-25	348-353	heavy	_	_	
+5-26	354-357	sea	_	_	
+5-27	357-358	,	_	_	
+5-28	359-361	in	_	_	
+5-29	362-367	which	_	_	
+5-30	368-371	she	_	_	
+5-31	372-376	sank	_	_	
+5-32	376-377	.	_	_	
+
+#Text=The crew, consisting of the captain, Mr.
+6-1	378-381	The	_	_	
+6-2	382-386	crew	_	_	
+6-3	386-387	,	_	_	
+6-4	388-398	consisting	_	_	
+6-5	399-401	of	_	_	
+6-6	402-405	the	_	_	
+6-7	406-413	captain	_	_	
+6-8	413-414	,	_	_	
+6-9	415-417	Mr	_	_	
+6-10	417-418	.	_	_	
+
+#Text=Thomas Dallimore, who is the sole owner, and another seaman, made their escape in the boat, which was almost swamped on nearing the shore; but, by the assistance of the coastguard, the poor fellows were landed in safety in Chapmans Pool, near the wreck of the Georgina.
+7-1	419-425	Thomas	_	_	
+7-2	426-435	Dallimore	_	_	
+7-3	435-436	,	_	_	
+7-4	437-440	who	_	_	
+7-5	441-443	is	_	_	
+7-6	444-447	the	_	_	
+7-7	448-452	sole	_	_	
+7-8	453-458	owner	_	_	
+7-9	458-459	,	_	_	
+7-10	460-463	and	_	_	
+7-11	464-471	another	_	_	
+7-12	472-478	seaman	_	_	
+7-13	478-479	,	_	_	
+7-14	480-484	made	_	_	
+7-15	485-490	their	_	_	
+7-16	491-497	escape	_	_	
+7-17	498-500	in	_	_	
+7-18	501-504	the	_	_	
+7-19	505-509	boat	_	_	
+7-20	509-510	,	_	_	
+7-21	511-516	which	_	_	
+7-22	517-520	was	_	_	
+7-23	521-527	almost	_	_	
+7-24	528-535	swamped	_	_	
+7-25	536-538	on	_	_	
+7-26	539-546	nearing	_	_	
+7-27	547-550	the	_	_	
+7-28	551-556	shore	_	_	
+7-29	556-557	;	_	_	
+7-30	558-561	but	_	_	
+7-31	561-562	,	_	_	
+7-32	563-565	by	_	_	
+7-33	566-569	the	_	_	
+7-34	570-580	assistance	_	_	
+7-35	581-583	of	_	_	
+7-36	584-587	the	_	_	
+7-37	588-598	coastguard	_	_	
+7-38	598-599	,	_	_	
+7-39	600-603	the	_	_	
+7-40	604-608	poor	_	_	
+7-41	609-616	fellows	_	_	
+7-42	617-621	were	_	_	
+7-43	622-628	landed	_	_	
+7-44	629-631	in	_	_	
+7-45	632-638	safety	_	_	
+7-46	639-641	in	_	_	
+7-47	642-650	Chapmans	https://en.wikipedia.org/wiki/Chapmans\_Pool[3]	LOC[3]	
+7-48	651-655	Pool	https://en.wikipedia.org/wiki/Chapmans\_Pool[3]	LOC[3]	
+7-49	655-656	,	_	_	
+7-50	657-661	near	_	_	
+7-51	662-665	the	_	_	
+7-52	666-671	wreck	_	_	
+7-53	672-674	of	_	_	
+7-54	675-678	the	_	_	
+7-55	679-687	Georgina	_	_	
+7-56	687-688	.	_	_	
+
+#Text=They were taken to a house belonging to one of the coastguard, where their wants were carefully attended to.
+8-1	689-693	They	_	_	
+8-2	694-698	were	_	_	
+8-3	699-704	taken	_	_	
+8-4	705-707	to	_	_	
+8-5	708-709	a	_	_	
+8-6	710-715	house	_	_	
+8-7	716-725	belonging	_	_	
+8-8	726-728	to	_	_	
+8-9	729-732	one	_	_	
+8-10	733-735	of	_	_	
+8-11	736-739	the	_	_	
+8-12	740-750	coastguard	_	_	
+8-13	750-751	,	_	_	
+8-14	752-757	where	_	_	
+8-15	758-763	their	_	_	
+8-16	764-769	wants	_	_	
+8-17	770-774	were	_	_	
+8-18	775-784	carefully	_	_	
+8-19	785-793	attended	_	_	
+8-20	794-796	to	_	_	
+8-21	796-797	.	_	_	
+
+#Text=The captain has been running his little craft to and from Portland for ten years past; but she is not insured.
+9-1	798-801	The	_	_	
+9-2	802-809	captain	_	_	
+9-3	810-813	has	_	_	
+9-4	814-818	been	_	_	
+9-5	819-826	running	_	_	
+9-6	827-830	his	_	_	
+9-7	831-837	little	_	_	
+9-8	838-843	craft	_	_	
+9-9	844-846	to	_	_	
+9-10	847-850	and	_	_	
+9-11	851-855	from	_	_	
+9-12	856-864	Portland	https://en.wikipedia.org/wiki/Portland\_Harbour	LOC	
+9-13	865-868	for	_	_	
+9-14	869-872	ten	_	_	
+9-15	873-878	years	_	_	
+9-16	879-883	past	_	_	
+9-17	883-884	;	_	_	
+9-18	885-888	but	_	_	
+9-19	889-892	she	_	_	
+9-20	893-895	is	_	_	
+9-21	896-899	not	_	_	
+9-22	900-907	insured	_	_	
+9-23	907-908	.	_	_	
+
+#Text=Up to the present moment the Georgina remains in pretty much the same condition as when she was cast upon the rocks.
+10-1	909-911	Up	_	_	
+10-2	912-914	to	_	_	
+10-3	915-918	the	_	_	
+10-4	919-926	present	_	_	
+10-5	927-933	moment	_	_	
+10-6	934-937	the	_	_	
+10-7	938-946	Georgina	_	_	
+10-8	947-954	remains	_	_	
+10-9	955-957	in	_	_	
+10-10	958-964	pretty	_	_	
+10-11	965-969	much	_	_	
+10-12	970-973	the	_	_	
+10-13	974-978	same	_	_	
+10-14	979-988	condition	_	_	
+10-15	989-991	as	_	_	
+10-16	992-996	when	_	_	
+10-17	997-1000	she	_	_	
+10-18	1001-1004	was	_	_	
+10-19	1005-1009	cast	_	_	
+10-20	1010-1014	upon	_	_	
+10-21	1015-1018	the	_	_	
+10-22	1019-1024	rocks	_	_	
+10-23	1024-1025	.	_	_	
+
+#Text=Had the wind and sea, which sunk the Zouave, continued, her destruction would most likely have been completed.
+11-1	1026-1029	Had	_	_	
+11-2	1030-1033	the	_	_	
+11-3	1034-1038	wind	_	_	
+11-4	1039-1042	and	_	_	
+11-5	1043-1046	sea	_	_	
+11-6	1046-1047	,	_	_	
+11-7	1048-1053	which	_	_	
+11-8	1054-1058	sunk	_	_	
+11-9	1059-1062	the	_	_	
+11-10	1063-1069	Zouave	_	_	
+11-11	1069-1070	,	_	_	
+11-12	1071-1080	continued	_	_	
+11-13	1080-1081	,	_	_	
+11-14	1082-1085	her	_	_	
+11-15	1086-1097	destruction	_	_	
+11-16	1098-1103	would	_	_	
+11-17	1104-1108	most	_	_	
+11-18	1109-1115	likely	_	_	
+11-19	1116-1120	have	_	_	
+11-20	1121-1125	been	_	_	
+11-21	1126-1135	completed	_	_	
+11-22	1135-1136	.	_	_	
+
+#Text=All the cargo of any value has been removed.
+12-1	1137-1140	All	_	_	
+12-2	1141-1144	the	_	_	
+12-3	1145-1150	cargo	_	_	
+12-4	1151-1153	of	_	_	
+12-5	1154-1157	any	_	_	
+12-6	1158-1163	value	_	_	
+12-7	1164-1167	has	_	_	
+12-8	1168-1172	been	_	_	
+12-9	1173-1180	removed	_	_	
+12-10	1180-1181	.	_	_	

@@ -1,0 +1,285 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=HAMPSHIRE.
+1-1	0-9	HAMPSHIRE	https://en.wikipedia.org/wiki/Hampshire	LOC	
+1-2	9-10	.	_	_	
+
+#Text=CxitiTCHUßCit, June 10—Yesterday being the day appointed for the election of taro gentlemen to tepcoeot this borough in the new imperial Parliament, the Corporation, accampaniej by several non-resident Burgesses, assembled at the boose of Mr.
+2-1	12-25	CxitiTCHUßCit	https://en.wikipedia.org/wiki/Christchurch,\_Dorset	LOC	
+2-2	25-26	,	_	_	
+2-3	27-31	June	_	_	
+2-4	32-34	10	_	_	
+2-5	34-35	—	_	_	
+2-6	35-44	Yesterday	_	_	
+2-7	45-50	being	_	_	
+2-8	51-54	the	_	_	
+2-9	55-58	day	_	_	
+2-10	59-68	appointed	_	_	
+2-11	69-72	for	_	_	
+2-12	73-76	the	_	_	
+2-13	77-85	election	_	_	
+2-14	86-88	of	_	_	
+2-15	89-93	taro	_	_	
+2-16	94-103	gentlemen	_	_	
+2-17	104-106	to	_	_	
+2-18	107-115	tepcoeot	_	_	
+2-19	116-120	this	_	_	
+2-20	121-128	borough	_	_	
+2-21	129-131	in	_	_	
+2-22	132-135	the	_	_	
+2-23	136-139	new	_	_	
+2-24	140-148	imperial	_	_	
+2-25	149-159	Parliament	_	_	
+2-26	159-160	,	_	_	
+2-27	161-164	the	_	_	
+2-28	165-176	Corporation	_	_	
+2-29	176-177	,	_	_	
+2-30	178-189	accampaniej	_	_	
+2-31	190-192	by	_	_	
+2-32	193-200	several	_	_	
+2-33	201-213	non-resident	_	_	
+2-34	214-223	Burgesses	_	_	
+2-35	223-224	,	_	_	
+2-36	225-234	assembled	_	_	
+2-37	235-237	at	_	_	
+2-38	238-241	the	_	_	
+2-39	242-247	boose	_	_	
+2-40	248-250	of	_	_	
+2-41	251-253	Mr	_	_	
+2-42	253-254	.	_	_	
+
+#Text=Hannaford, the deputy Mayor, and after partaking of an excellent collation proceeded to the Tovnhall, where the Bight Hon.
+3-1	255-264	Hannaford	_	_	
+3-2	264-265	,	_	_	
+3-3	266-269	the	_	_	
+3-4	270-276	deputy	_	_	
+3-5	277-282	Mayor	_	_	
+3-6	282-283	,	_	_	
+3-7	284-287	and	_	_	
+3-8	288-293	after	_	_	
+3-9	294-303	partaking	_	_	
+3-10	304-306	of	_	_	
+3-11	307-309	an	_	_	
+3-12	310-319	excellent	_	_	
+3-13	320-329	collation	_	_	
+3-14	330-339	proceeded	_	_	
+3-15	340-342	to	_	_	
+3-16	343-346	the	_	_	
+3-17	347-355	Tovnhall	*	BUILDING	
+3-18	355-356	,	_	_	
+3-19	357-362	where	_	_	
+3-20	363-366	the	_	_	
+3-21	367-372	Bight	_	_	
+3-22	373-376	Hon	_	_	
+3-23	376-377	.	_	_	
+
+#Text=Sir George Henry Rose, and George Pitt Rose, fist)., wera put in nomination, ana unanimously elected.
+4-1	378-381	Sir	_	_	
+4-2	382-388	George	_	_	
+4-3	389-394	Henry	_	_	
+4-4	395-399	Rose	_	_	
+4-5	399-400	,	_	_	
+4-6	401-404	and	_	_	
+4-7	405-411	George	_	_	
+4-8	412-416	Pitt	_	_	
+4-9	417-421	Rose	_	_	
+4-10	421-422	,	_	_	
+4-11	423-427	fist	_	_	
+4-12	427-428	)	_	_	
+4-13	428-429	.	_	_	
+4-14	429-430	,	_	_	
+4-15	431-435	wera	_	_	
+4-16	436-439	put	_	_	
+4-17	440-442	in	_	_	
+4-18	443-453	nomination	_	_	
+4-19	453-454	,	_	_	
+4-20	455-458	ana	_	_	
+4-21	459-470	unanimously	_	_	
+4-22	471-478	elected	_	_	
+4-23	478-479	.	_	_	
+
+#Text=The members then severally addressed the electors, in neat and appropriate speeches, avowing their determination to follow the example of their worthy ancestor, who had represented the borough for a series of successive.
+5-1	480-483	The	_	_	
+5-2	484-491	members	_	_	
+5-3	492-496	then	_	_	
+5-4	497-506	severally	_	_	
+5-5	507-516	addressed	_	_	
+5-6	517-520	the	_	_	
+5-7	521-529	electors	_	_	
+5-8	529-530	,	_	_	
+5-9	531-533	in	_	_	
+5-10	534-538	neat	_	_	
+5-11	539-542	and	_	_	
+5-12	543-554	appropriate	_	_	
+5-13	555-563	speeches	_	_	
+5-14	563-564	,	_	_	
+5-15	565-572	avowing	_	_	
+5-16	573-578	their	_	_	
+5-17	579-592	determination	_	_	
+5-18	593-595	to	_	_	
+5-19	596-602	follow	_	_	
+5-20	603-606	the	_	_	
+5-21	607-614	example	_	_	
+5-22	615-617	of	_	_	
+5-23	618-623	their	_	_	
+5-24	624-630	worthy	_	_	
+5-25	631-639	ancestor	_	_	
+5-26	639-640	,	_	_	
+5-27	641-644	who	_	_	
+5-28	645-648	had	_	_	
+5-29	649-660	represented	_	_	
+5-30	661-664	the	_	_	
+5-31	665-672	borough	_	_	
+5-32	673-676	for	_	_	
+5-33	677-678	a	_	_	
+5-34	679-685	series	_	_	
+5-35	686-688	of	_	_	
+5-36	689-699	successive	_	_	
+5-37	699-700	.	_	_	
+
+#Text=Parliaments, with credit to himself, snd with the unqualified approbation of his constituents The poor in the town were regaled in the evening with strong beer.
+6-1	701-712	Parliaments	_	_	
+6-2	712-713	,	_	_	
+6-3	714-718	with	_	_	
+6-4	719-725	credit	_	_	
+6-5	726-728	to	_	_	
+6-6	729-736	himself	_	_	
+6-7	736-737	,	_	_	
+6-8	738-741	snd	_	_	
+6-9	742-746	with	_	_	
+6-10	747-750	the	_	_	
+6-11	751-762	unqualified	_	_	
+6-12	763-774	approbation	_	_	
+6-13	775-777	of	_	_	
+6-14	778-781	his	_	_	
+6-15	782-794	constituents	_	_	
+6-16	795-798	The	_	_	
+6-17	799-803	poor	_	_	
+6-18	804-806	in	_	_	
+6-19	807-810	the	_	_	
+6-20	811-815	town	_	_	
+6-21	816-820	were	_	_	
+6-22	821-828	regaled	_	_	
+6-23	829-831	in	_	_	
+6-24	832-835	the	_	_	
+6-25	836-843	evening	_	_	
+6-26	844-848	with	_	_	
+6-27	849-855	strong	_	_	
+6-28	856-860	beer	_	_	
+6-29	860-861	.	_	_	
+
+#Text=Married.
+7-1	862-869	Married	_	_	
+7-2	869-870	.	_	_	
+
+#Text=—At Steventon, Edward Knight, Esq., of Chawton House, Hants, eldest son of Edward Knight, Esq., of Oodmershara Park, Kent, to Alary Dorothea, eldest daughter of Sir Edward Knatchbull, Bart,, AI.P. for the county of Kent.
+8-1	870-871	—	_	_	
+8-2	871-873	At	_	_	
+8-3	874-883	Steventon	_	_	
+8-4	883-884	,	_	_	
+8-5	885-891	Edward	_	_	
+8-6	892-898	Knight	_	_	
+8-7	898-899	,	_	_	
+8-8	900-903	Esq	_	_	
+8-9	903-904	.	_	_	
+8-10	904-905	,	_	_	
+8-11	906-908	of	_	_	
+8-12	909-916	Chawton	_	_	
+8-13	917-922	House	_	_	
+8-14	922-923	,	_	_	
+8-15	924-929	Hants	https://en.wikipedia.org/wiki/Hampshire	LOC	
+8-16	929-930	,	_	_	
+8-17	931-937	eldest	_	_	
+8-18	938-941	son	_	_	
+8-19	942-944	of	_	_	
+8-20	945-951	Edward	_	_	
+8-21	952-958	Knight	_	_	
+8-22	958-959	,	_	_	
+8-23	960-963	Esq	_	_	
+8-24	963-964	.	_	_	
+8-25	964-965	,	_	_	
+8-26	966-968	of	_	_	
+8-27	969-980	Oodmershara	https://en.wikipedia.org/wiki/Godmersham\_Park[1]	LOC[1]	
+8-28	981-985	Park	https://en.wikipedia.org/wiki/Godmersham\_Park[1]	LOC[1]	
+8-29	985-986	,	_	_	
+8-30	987-991	Kent	https://en.wikipedia.org/wiki/Kent	LOC	
+8-31	991-992	,	_	_	
+8-32	993-995	to	_	_	
+8-33	996-1001	Alary	_	_	
+8-34	1002-1010	Dorothea	_	_	
+8-35	1010-1011	,	_	_	
+8-36	1012-1018	eldest	_	_	
+8-37	1019-1027	daughter	_	_	
+8-38	1028-1030	of	_	_	
+8-39	1031-1034	Sir	_	_	
+8-40	1035-1041	Edward	_	_	
+8-41	1042-1052	Knatchbull	_	_	
+8-42	1052-1053	,	_	_	
+8-43	1054-1058	Bart	_	_	
+8-44	1058-1059	,	_	_	
+8-45	1059-1060	,	_	_	
+8-46	1061-1065	AI.P	_	_	
+8-47	1065-1066	.	_	_	
+8-48	1067-1070	for	_	_	
+8-49	1071-1074	the	_	_	
+8-50	1075-1081	county	_	_	
+8-51	1082-1084	of	_	_	
+8-52	1085-1089	Kent	https://en.wikipedia.org/wiki/Kent	LOC	
+8-53	1089-1090	.	_	_	
+
+#Text=Died.
+9-1	1091-1095	Died	_	_	
+9-2	1095-1096	.	_	_	
+
+#Text=—ln Great George Street, Westminster, Lady" Pretyman Tomline, the lady of the Lord Bishop of Winchester— At Winchester, Mrs.
+10-1	1096-1097	—	_	_	
+10-2	1097-1099	ln	_	_	
+10-3	1100-1105	Great	*[2]	STREET[2]	
+10-4	1106-1112	George	*[2]	STREET[2]	
+10-5	1113-1119	Street	*[2]	STREET[2]	
+10-6	1119-1120	,	_	_	
+10-7	1121-1132	Westminster	https://en.wikipedia.org/wiki/Westminster	LOC	
+10-8	1132-1133	,	_	_	
+10-9	1134-1138	Lady	_	_	
+10-10	1138-1139	"	_	_	
+10-11	1140-1148	Pretyman	_	_	
+10-12	1149-1156	Tomline	_	_	
+10-13	1156-1157	,	_	_	
+10-14	1158-1161	the	_	_	
+10-15	1162-1166	lady	_	_	
+10-16	1167-1169	of	_	_	
+10-17	1170-1173	the	_	_	
+10-18	1174-1178	Lord	_	_	
+10-19	1179-1185	Bishop	_	_	
+10-20	1186-1188	of	_	_	
+10-21	1189-1199	Winchester	https://en.wikipedia.org/wiki/Winchester	LOC	
+10-22	1199-1200	—	_	_	
+10-23	1201-1203	At	_	_	
+10-24	1204-1214	Winchester	https://en.wikipedia.org/wiki/Winchester	LOC	
+10-25	1214-1215	,	_	_	
+10-26	1216-1219	Mrs	_	_	
+10-27	1219-1220	.	_	_	
+
+#Text=Lampard, aged 83, mother of Ur.
+11-1	1221-1228	Lampard	_	_	
+11-2	1228-1229	,	_	_	
+11-3	1230-1234	aged	_	_	
+11-4	1235-1237	83	_	_	
+11-5	1237-1238	,	_	_	
+11-6	1239-1245	mother	_	_	
+11-7	1246-1248	of	_	_	
+11-8	1249-1251	Ur	_	_	
+11-9	1251-1252	.	_	_	
+
+#Text=Lampstd, solicitor. _____
+12-1	1253-1260	Lampstd	_	_	
+12-2	1260-1261	,	_	_	
+12-3	1262-1271	solicitor	_	_	
+12-4	1271-1272	.	_	_	
+12-5	1273-1274	_	_	_	
+12-6	1274-1275	_	_	_	
+12-7	1275-1276	_	_	_	
+12-8	1276-1277	_	_	_	
+12-9	1277-1278	_	_	_	

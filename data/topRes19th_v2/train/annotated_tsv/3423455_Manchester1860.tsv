@@ -1,0 +1,338 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=A Umelogu is arravged and will shortly take jplace, between the Hon.
+1-1	0-1	A	
+1-2	2-9	Umelogu	
+1-3	10-12	is	
+1-4	13-21	arravged	
+1-5	22-25	and	
+1-6	26-30	will	
+1-7	31-38	shortly	
+1-8	39-43	take	
+1-9	44-50	jplace	
+1-10	50-51	,	
+1-11	52-59	between	
+1-12	60-63	the	
+1-13	64-67	Hon	
+1-14	67-68	.	
+
+#Text=J4J*»tnor Warron, Uiiid daughter of Lord ami Ladydu Tanky, aud Mr.
+2-1	69-72	J4J	
+2-2	72-73	*	
+2-3	73-74	»	
+2-4	74-78	tnor	
+2-5	79-85	Warron	
+2-6	85-86	,	
+2-7	87-92	Uiiid	
+2-8	93-101	daughter	
+2-9	102-104	of	
+2-10	105-109	Lord	
+2-11	110-113	ami	
+2-12	114-120	Ladydu	
+2-13	121-126	Tanky	
+2-14	126-127	,	
+2-15	128-131	aud	
+2-16	132-134	Mr	
+2-17	134-135	.	
+
+#Text=Leigh ton, < eldest son of Sir Baldwin Leigliton. .Old.
+3-1	136-141	Leigh	
+3-2	142-145	ton	
+3-3	145-146	,	
+3-4	147-148	<	
+3-5	149-155	eldest	
+3-6	156-159	son	
+3-7	160-162	of	
+3-8	163-166	Sir	
+3-9	167-174	Baldwin	
+3-10	175-184	Leigliton	
+3-11	184-185	.	
+3-12	186-187	.	
+3-13	187-190	Old	
+3-14	190-191	.	
+
+#Text=Wrathrr ProphkoieS.
+4-1	192-199	Wrathrr	
+4-2	200-210	ProphkoieS	
+4-3	210-211	.	
+
+#Text=—A Freneli almanack for 1774 oontains the following forecasts:—"The coldest winters are those which begin about the Epiphany," the 6th of January.
+5-1	211-212	—	
+5-2	212-213	A	
+5-3	214-221	Freneli	
+5-4	222-230	almanack	
+5-5	231-234	for	
+5-6	235-239	1774	
+5-7	240-248	oontains	
+5-8	249-252	the	
+5-9	253-262	following	
+5-10	263-272	forecasts	
+5-11	272-273	:	
+5-12	273-274	—	
+5-13	274-275	"	
+5-14	275-278	The	
+5-15	279-286	coldest	
+5-16	287-294	winters	
+5-17	295-298	are	
+5-18	299-304	those	
+5-19	305-310	which	
+5-20	311-316	begin	
+5-21	317-322	about	
+5-22	323-326	the	
+5-23	327-335	Epiphany	
+5-24	335-336	,	
+5-25	336-337	"	
+5-26	338-341	the	
+5-27	342-345	6th	
+5-28	346-348	of	
+5-29	349-356	January	
+5-30	356-357	.	
+
+#Text=The Feast of St.
+6-1	358-361	The	
+6-2	362-367	Feast	
+6-3	368-370	of	
+6-4	371-373	St	
+6-5	373-374	.	
+
+#Text=Peters Chair is on the 18th ; and the old almanack says: -"On tho chair of the good St.
+7-1	375-381	Peters	
+7-2	382-387	Chair	
+7-3	388-390	is	
+7-4	391-393	on	
+7-5	394-397	the	
+7-6	398-402	18th	
+7-7	403-404	;	
+7-8	405-408	and	
+7-9	409-412	the	
+7-10	413-416	old	
+7-11	417-425	almanack	
+7-12	426-430	says	
+7-13	430-431	:	
+7-14	432-433	-	
+7-15	433-434	"	
+7-16	434-436	On	
+7-17	437-440	tho	
+7-18	441-446	chair	
+7-19	447-449	of	
+7-20	450-453	the	
+7-21	454-458	good	
+7-22	459-461	St	
+7-23	461-462	.	
+
+#Text=Peter the winter quits us or grows colder." .
+8-1	463-468	Peter	
+8-2	469-472	the	
+8-3	473-479	winter	
+8-4	480-485	quits	
+8-5	486-488	us	
+8-6	489-491	or	
+8-7	492-497	grows	
+8-8	498-504	colder	
+8-9	504-505	.	
+8-10	505-506	"	
+8-11	507-508	.	
+
+#Text=The 17th of January is the FeaSt of St.
+9-1	509-512	The	
+9-2	513-517	17th	
+9-3	518-520	of	
+9-4	521-528	January	
+9-5	529-531	is	
+9-6	532-535	the	
+9-7	536-541	FeaSt	
+9-8	542-544	of	
+9-9	545-547	St	
+9-10	547-548	.	
+
+#Text=Antony—" The days when St.
+10-1	549-555	Antony	
+10-2	555-556	—	
+10-3	556-557	"	
+10-4	558-561	The	
+10-5	562-566	days	
+10-6	567-571	when	
+10-7	572-574	St	
+10-8	574-575	.	
+
+#Text=Antony.comes are longer by a monks dinner"—that is, the time spent by the monk in eating it.
+11-1	576-588	Antony.comes	
+11-2	589-592	are	
+11-3	593-599	longer	
+11-4	600-602	by	
+11-5	603-604	a	
+11-6	605-610	monks	
+11-7	611-617	dinner	
+11-8	617-618	"	
+11-9	618-619	—	
+11-10	619-623	that	
+11-11	624-626	is	
+11-12	626-627	,	
+11-13	628-631	the	
+11-14	632-636	time	
+11-15	637-642	spent	
+11-16	643-645	by	
+11-17	646-649	the	
+11-18	650-654	monk	
+11-19	655-657	in	
+11-20	658-664	eating	
+11-21	665-667	it	
+11-22	667-668	.	
+
+#Text=St Vincent is commemorated on the 22nd, and the almanack says, "Take cara.of St.
+12-1	669-671	St	
+12-2	672-679	Vincent	
+12-3	680-682	is	
+12-4	683-695	commemorated	
+12-5	696-698	on	
+12-6	699-702	the	
+12-7	703-707	22nd	
+12-8	707-708	,	
+12-9	709-712	and	
+12-10	713-716	the	
+12-11	717-725	almanack	
+12-12	726-730	says	
+12-13	730-731	,	
+12-14	732-733	"	
+12-15	733-737	Take	
+12-16	738-745	cara.of	
+12-17	746-748	St	
+12-18	748-749	.	
+
+#Text=Via cent,, fox if on his day you see tbe sun clear and fine we shall have urn re wine than water."
+13-1	750-753	Via	
+13-2	754-758	cent	
+13-3	758-759	,	
+13-4	759-760	,	
+13-5	761-764	fox	
+13-6	765-767	if	
+13-7	768-770	on	
+13-8	771-774	his	
+13-9	775-778	day	
+13-10	779-782	you	
+13-11	783-786	see	
+13-12	787-790	tbe	
+13-13	791-794	sun	
+13-14	795-800	clear	
+13-15	801-804	and	
+13-16	805-809	fine	
+13-17	810-812	we	
+13-18	813-818	shall	
+13-19	819-823	have	
+13-20	824-827	urn	
+13-21	828-830	re	
+13-22	831-835	wine	
+13-23	836-840	than	
+13-24	841-846	water	
+13-25	846-847	.	
+13-26	847-848	"	
+
+#Text=This, I suspect, is the reason why wine growers-have taken St.
+14-1	849-853	This	
+14-2	853-854	,	
+14-3	855-856	I	
+14-4	857-864	suspect	
+14-5	864-865	,	
+14-6	866-868	is	
+14-7	869-872	the	
+14-8	873-879	reason	
+14-9	880-883	why	
+14-10	884-888	wine	
+14-11	889-901	growers-have	
+14-12	902-907	taken	
+14-13	908-910	St	
+14-14	910-911	.	
+
+#Text=Vincent for their patron saint.
+15-1	912-919	Vincent	
+15-2	920-923	for	
+15-3	924-929	their	
+15-4	930-936	patron	
+15-5	937-942	saint	
+15-6	942-943	.	
+
+#Text=The conversion of St.
+16-1	944-947	The	
+16-2	948-958	conversion	
+16-3	959-961	of	
+16-4	962-964	St	
+16-5	964-965	.	
+
+#Text=Paul is celebrated on the 2f>th, and we are told in rude doggreL " When St.
+17-1	966-970	Paul	
+17-2	971-973	is	
+17-3	974-984	celebrated	
+17-4	985-987	on	
+17-5	988-991	the	
+17-6	992-994	2f	
+17-7	994-995	>	
+17-8	995-997	th	
+17-9	997-998	,	
+17-10	999-1002	and	
+17-11	1003-1005	we	
+17-12	1006-1009	are	
+17-13	1010-1014	told	
+17-14	1015-1017	in	
+17-15	1018-1022	rude	
+17-16	1023-1030	doggreL	
+17-17	1031-1032	"	
+17-18	1033-1037	When	
+17-19	1038-1040	St	
+17-20	1040-1041	.	
+
+#Text=Pauls day is five we may look out fr r a good year.
+18-1	1042-1047	Pauls	
+18-2	1048-1051	day	
+18-3	1052-1054	is	
+18-4	1055-1059	five	
+18-5	1060-1062	we	
+18-6	1063-1066	may	
+18-7	1067-1071	look	
+18-8	1072-1075	out	
+18-9	1076-1078	fr	
+18-10	1079-1080	r	
+18-11	1081-1082	a	
+18-12	1083-1087	good	
+18-13	1088-1092	year	
+18-14	1092-1093	.	
+
+#Text=If it be windy we shall have war.
+19-1	1094-1096	If	
+19-2	1097-1099	it	
+19-3	1100-1102	be	
+19-4	1103-1108	windy	
+19-5	1109-1111	we	
+19-6	1112-1117	shall	
+19-7	1118-1122	have	
+19-8	1123-1126	war	
+19-9	1126-1127	.	
+
+#Text=If it Bn- w or rain we shall have dearness everywhere; aud if tie atmosphere be thick and foggy it denotes gieat mortality."
+20-1	1128-1130	If	
+20-2	1131-1133	it	
+20-3	1134-1136	Bn	
+20-4	1136-1137	-	
+20-5	1138-1139	w	
+20-6	1140-1142	or	
+20-7	1143-1147	rain	
+20-8	1148-1150	we	
+20-9	1151-1156	shall	
+20-10	1157-1161	have	
+20-11	1162-1170	dearness	
+20-12	1171-1181	everywhere	
+20-13	1181-1182	;	
+20-14	1183-1186	aud	
+20-15	1187-1189	if	
+20-16	1190-1193	tie	
+20-17	1194-1204	atmosphere	
+20-18	1205-1207	be	
+20-19	1208-1213	thick	
+20-20	1214-1217	and	
+20-21	1218-1223	foggy	
+20-22	1224-1226	it	
+20-23	1227-1234	denotes	
+20-24	1235-1240	gieat	
+20-25	1241-1250	mortality	
+20-26	1250-1251	.	
+20-27	1251-1252	"	

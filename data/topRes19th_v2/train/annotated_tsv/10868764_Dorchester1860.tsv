@@ -1,0 +1,350 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=LYME REGIS.
+1-1	0-4	LYME	https://en.wikipedia.org/wiki/Lyme\_Regis[1]	LOC[1]	
+1-2	5-10	REGIS	https://en.wikipedia.org/wiki/Lyme\_Regis[1]	LOC[1]	
+1-3	10-11	.	_	_	
+
+#Text=The Lyme Railway Bill.
+2-1	13-16	The	_	_	
+2-2	17-21	Lyme	https://en.wikipedia.org/wiki/Lyme\_Regis	LOC	
+2-3	22-29	Railway	_	_	
+2-4	30-34	Bill	_	_	
+2-5	34-35	.	_	_	
+
+#Text=—Tbe Bridport, Lyme, and South Coast Railway Bill was read a third time aud pa-sed in tbe House of Commons on Thursday evening.
+3-1	35-36	—	_	_	
+3-2	36-39	Tbe	_	_	
+3-3	40-48	Bridport	https://en.wikipedia.org/wiki/Bridport	LOC	
+3-4	48-49	,	_	_	
+3-5	50-54	Lyme	https://en.wikipedia.org/wiki/Lyme\_Regis	LOC	
+3-6	54-55	,	_	_	
+3-7	56-59	and	_	_	
+3-8	60-65	South	*[2]	LOC[2]	
+3-9	66-71	Coast	*[2]	LOC[2]	
+3-10	72-79	Railway	_	_	
+3-11	80-84	Bill	_	_	
+3-12	85-88	was	_	_	
+3-13	89-93	read	_	_	
+3-14	94-95	a	_	_	
+3-15	96-101	third	_	_	
+3-16	102-106	time	_	_	
+3-17	107-110	aud	_	_	
+3-18	111-117	pa-sed	_	_	
+3-19	118-120	in	_	_	
+3-20	121-124	tbe	_	_	
+3-21	125-130	House	_	_	
+3-22	131-133	of	_	_	
+3-23	134-141	Commons	_	_	
+3-24	142-144	on	_	_	
+3-25	145-153	Thursday	_	_	
+3-26	154-161	evening	_	_	
+3-27	161-162	.	_	_	
+
+#Text=First Dorset Volunteer Artillery.
+4-1	163-168	First	_	_	
+4-2	169-175	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+4-3	176-185	Volunteer	_	_	
+4-4	186-195	Artillery	_	_	
+4-5	195-196	.	_	_	
+
+#Text=—About 50 members of this corps, under the command of Major Hiuton and Lieut.
+5-1	196-197	—	_	_	
+5-2	197-202	About	_	_	
+5-3	203-205	50	_	_	
+5-4	206-213	members	_	_	
+5-5	214-216	of	_	_	
+5-6	217-221	this	_	_	
+5-7	222-227	corps	_	_	
+5-8	227-228	,	_	_	
+5-9	229-234	under	_	_	
+5-10	235-238	the	_	_	
+5-11	239-246	command	_	_	
+5-12	247-249	of	_	_	
+5-13	250-255	Major	_	_	
+5-14	256-262	Hiuton	_	_	
+5-15	263-266	and	_	_	
+5-16	267-272	Lieut	_	_	
+5-17	272-273	.	_	_	
+
+#Text=Tucker, started about seven oclock on Monday morning to attend a review at Exeter.
+6-1	274-280	Tucker	_	_	
+6-2	280-281	,	_	_	
+6-3	282-289	started	_	_	
+6-4	290-295	about	_	_	
+6-5	296-301	seven	_	_	
+6-6	302-308	oclock	_	_	
+6-7	309-311	on	_	_	
+6-8	312-318	Monday	_	_	
+6-9	319-326	morning	_	_	
+6-10	327-329	to	_	_	
+6-11	330-336	attend	_	_	
+6-12	337-338	a	_	_	
+6-13	339-345	review	_	_	
+6-14	346-348	at	_	_	
+6-15	349-355	Exeter	https://en.wikipedia.org/wiki/Exeter	LOC	
+6-16	355-356	.	_	_	
+
+#Text=They returned between ten and eleven the same night, having enjoyed a thoroughly pleasant trip.
+7-1	357-361	They	_	_	
+7-2	362-370	returned	_	_	
+7-3	371-378	between	_	_	
+7-4	379-382	ten	_	_	
+7-5	383-386	and	_	_	
+7-6	387-393	eleven	_	_	
+7-7	394-397	the	_	_	
+7-8	398-402	same	_	_	
+7-9	403-408	night	_	_	
+7-10	408-409	,	_	_	
+7-11	410-416	having	_	_	
+7-12	417-424	enjoyed	_	_	
+7-13	425-426	a	_	_	
+7-14	427-437	thoroughly	_	_	
+7-15	438-446	pleasant	_	_	
+7-16	447-451	trip	_	_	
+7-17	451-452	.	_	_	
+
+#Text=Burglaries.
+8-1	453-463	Burglaries	_	_	
+8-2	463-464	.	_	_	
+
+#Text=—Ou Thursday night or Friday morning la-it Capt.
+9-1	464-465	—	_	_	
+9-2	465-467	Ou	_	_	
+9-3	468-476	Thursday	_	_	
+9-4	477-482	night	_	_	
+9-5	483-485	or	_	_	
+9-6	486-492	Friday	_	_	
+9-7	493-500	morning	_	_	
+9-8	501-506	la-it	_	_	
+9-9	507-511	Capt	_	_	
+9-10	511-512	.	_	_	
+
+#Text=Benncts coach-house was broken into, and, although there were articles of considerable value there, only tome cider, a cloth, and a small brush, were stolen.
+10-1	513-520	Benncts	_	_	
+10-2	521-532	coach-house	_	_	
+10-3	533-536	was	_	_	
+10-4	537-543	broken	_	_	
+10-5	544-548	into	_	_	
+10-6	548-549	,	_	_	
+10-7	550-553	and	_	_	
+10-8	553-554	,	_	_	
+10-9	555-563	although	_	_	
+10-10	564-569	there	_	_	
+10-11	570-574	were	_	_	
+10-12	575-583	articles	_	_	
+10-13	584-586	of	_	_	
+10-14	587-599	considerable	_	_	
+10-15	600-605	value	_	_	
+10-16	606-611	there	_	_	
+10-17	611-612	,	_	_	
+10-18	613-617	only	_	_	
+10-19	618-622	tome	_	_	
+10-20	623-628	cider	_	_	
+10-21	628-629	,	_	_	
+10-22	630-631	a	_	_	
+10-23	632-637	cloth	_	_	
+10-24	637-638	,	_	_	
+10-25	639-642	and	_	_	
+10-26	643-644	a	_	_	
+10-27	645-650	small	_	_	
+10-28	651-656	brush	_	_	
+10-29	656-657	,	_	_	
+10-30	658-662	were	_	_	
+10-31	663-669	stolen	_	_	
+10-32	669-670	.	_	_	
+
+#Text=During the same night an entrance was effected into the larder of Mrs.
+11-1	671-677	During	_	_	
+11-2	678-681	the	_	_	
+11-3	682-686	same	_	_	
+11-4	687-692	night	_	_	
+11-5	693-695	an	_	_	
+11-6	696-704	entrance	_	_	
+11-7	705-708	was	_	_	
+11-8	709-717	effected	_	_	
+11-9	718-722	into	_	_	
+11-10	723-726	the	_	_	
+11-11	727-733	larder	_	_	
+11-12	734-736	of	_	_	
+11-13	737-740	Mrs	_	_	
+11-14	740-741	.	_	_	
+
+#Text=Lemons house, which is near Capt.
+12-1	742-748	Lemons	_	_	
+12-2	749-754	house	_	_	
+12-3	754-755	,	_	_	
+12-4	756-761	which	_	_	
+12-5	762-764	is	_	_	
+12-6	765-769	near	_	_	
+12-7	770-774	Capt	_	_	
+12-8	774-775	.	_	_	
+
+#Text=Rennets, and here bread and meat were taken.
+13-1	776-783	Rennets	_	_	
+13-2	783-784	,	_	_	
+13-3	785-788	and	_	_	
+13-4	789-793	here	_	_	
+13-5	794-799	bread	_	_	
+13-6	800-803	and	_	_	
+13-7	804-808	meat	_	_	
+13-8	809-813	were	_	_	
+13-9	814-819	taken	_	_	
+13-10	819-820	.	_	_	
+
+#Text=Capt.
+14-1	821-825	Capt	_	_	
+14-2	825-826	.	_	_	
+
+#Text=Beunets coach-house has been feloniously entered four or five times before, and in each case it has evidently been the work of some oue whose object was not plunder, and who was well acquainted with the scene of his depredations.
+15-1	827-834	Beunets	_	_	
+15-2	835-846	coach-house	_	_	
+15-3	847-850	has	_	_	
+15-4	851-855	been	_	_	
+15-5	856-867	feloniously	_	_	
+15-6	868-875	entered	_	_	
+15-7	876-880	four	_	_	
+15-8	881-883	or	_	_	
+15-9	884-888	five	_	_	
+15-10	889-894	times	_	_	
+15-11	895-901	before	_	_	
+15-12	901-902	,	_	_	
+15-13	903-906	and	_	_	
+15-14	907-909	in	_	_	
+15-15	910-914	each	_	_	
+15-16	915-919	case	_	_	
+15-17	920-922	it	_	_	
+15-18	923-926	has	_	_	
+15-19	927-936	evidently	_	_	
+15-20	937-941	been	_	_	
+15-21	942-945	the	_	_	
+15-22	946-950	work	_	_	
+15-23	951-953	of	_	_	
+15-24	954-958	some	_	_	
+15-25	959-962	oue	_	_	
+15-26	963-968	whose	_	_	
+15-27	969-975	object	_	_	
+15-28	976-979	was	_	_	
+15-29	980-983	not	_	_	
+15-30	984-991	plunder	_	_	
+15-31	991-992	,	_	_	
+15-32	993-996	and	_	_	
+15-33	997-1000	who	_	_	
+15-34	1001-1004	was	_	_	
+15-35	1005-1009	well	_	_	
+15-36	1010-1020	acquainted	_	_	
+15-37	1021-1025	with	_	_	
+15-38	1026-1029	the	_	_	
+15-39	1030-1035	scene	_	_	
+15-40	1036-1038	of	_	_	
+15-41	1039-1042	his	_	_	
+15-42	1043-1055	depredations	_	_	
+15-43	1055-1056	.	_	_	
+
+#Text=Ships Aebived.
+16-1	1057-1062	Ships	_	_	
+16-2	1063-1070	Aebived	_	_	
+16-3	1070-1071	.	_	_	
+
+#Text=—Reward, Saunders; Junior, Nutman, Bridport.
+17-1	1071-1072	—	_	_	
+17-2	1072-1078	Reward	_	_	
+17-3	1078-1079	,	_	_	
+17-4	1080-1088	Saunders	_	_	
+17-5	1088-1089	;	_	_	
+17-6	1090-1096	Junior	_	_	
+17-7	1096-1097	,	_	_	
+17-8	1098-1104	Nutman	_	_	
+17-9	1104-1105	,	_	_	
+17-10	1106-1114	Bridport	https://en.wikipedia.org/wiki/Bridport	LOC	
+17-11	1114-1115	.	_	_	
+
+#Text=Bee, Starling, Hull.
+18-1	1116-1119	Bee	_	_	
+18-2	1119-1120	,	_	_	
+18-3	1121-1129	Starling	_	_	
+18-4	1129-1130	,	_	_	
+18-5	1131-1135	Hull	https://en.wikipedia.org/wiki/Kingston\_upon\_Hull	LOC	
+18-6	1135-1136	.	_	_	
+
+#Text=Sultan, Brown ; One and All, Cowell; Union.
+19-1	1137-1143	Sultan	_	_	
+19-2	1143-1144	,	_	_	
+19-3	1145-1150	Brown	_	_	
+19-4	1151-1152	;	_	_	
+19-5	1153-1156	One	_	_	
+19-6	1157-1160	and	_	_	
+19-7	1161-1164	All	_	_	
+19-8	1164-1165	,	_	_	
+19-9	1166-1172	Cowell	_	_	
+19-10	1172-1173	;	_	_	
+19-11	1174-1179	Union	_	_	
+19-12	1179-1180	.	_	_	
+
+#Text=Toms, Southampton.
+20-1	1181-1185	Toms	_	_	
+20-2	1185-1186	,	_	_	
+20-3	1187-1198	Southampton	https://en.wikipedia.org/wiki/Southampton	LOC	
+20-4	1198-1199	.	_	_	
+
+#Text=Ann and Elizabeth, Young, Cowee Sailed.
+21-1	1200-1203	Ann	_	_	
+21-2	1204-1207	and	_	_	
+21-3	1208-1217	Elizabeth	_	_	
+21-4	1217-1218	,	_	_	
+21-5	1219-1224	Young	_	_	
+21-6	1224-1225	,	_	_	
+21-7	1226-1231	Cowee	_	_	
+21-8	1232-1238	Sailed	_	_	
+21-9	1238-1239	.	_	_	
+
+#Text=-Reward, Saunders; Sultan, Brown ; One and All, Cowell; Uuion, Toms; CoMmgwood, Clark ; William, Searle, Plymouth.
+22-1	1240-1241	-	_	_	
+22-2	1241-1247	Reward	_	_	
+22-3	1247-1248	,	_	_	
+22-4	1249-1257	Saunders	_	_	
+22-5	1257-1258	;	_	_	
+22-6	1259-1265	Sultan	_	_	
+22-7	1265-1266	,	_	_	
+22-8	1267-1272	Brown	_	_	
+22-9	1273-1274	;	_	_	
+22-10	1275-1278	One	_	_	
+22-11	1279-1282	and	_	_	
+22-12	1283-1286	All	_	_	
+22-13	1286-1287	,	_	_	
+22-14	1288-1294	Cowell	_	_	
+22-15	1294-1295	;	_	_	
+22-16	1296-1301	Uuion	_	_	
+22-17	1301-1302	,	_	_	
+22-18	1303-1307	Toms	_	_	
+22-19	1307-1308	;	_	_	
+22-20	1309-1318	CoMmgwood	_	_	
+22-21	1318-1319	,	_	_	
+22-22	1320-1325	Clark	_	_	
+22-23	1326-1327	;	_	_	
+22-24	1328-1335	William	_	_	
+22-25	1335-1336	,	_	_	
+22-26	1337-1343	Searle	_	_	
+22-27	1343-1344	,	_	_	
+22-28	1345-1353	Plymouth	https://en.wikipedia.org/wiki/Plymouth	LOC	
+22-29	1353-1354	.	_	_	
+
+#Text=Ann and Elizabeth, Young, Cowes.
+23-1	1355-1358	Ann	_	_	
+23-2	1359-1362	and	_	_	
+23-3	1363-1372	Elizabeth	_	_	
+23-4	1372-1373	,	_	_	
+23-5	1374-1379	Young	_	_	
+23-6	1379-1380	,	_	_	
+23-7	1381-1386	Cowes	https://en.wikipedia.org/wiki/Cowes	LOC	
+23-8	1386-1387	.	_	_	
+
+#Text=Freedom, Callaway, Guernsey.
+24-1	1388-1395	Freedom	_	_	
+24-2	1395-1396	,	_	_	
+24-3	1397-1405	Callaway	_	_	
+24-4	1405-1406	,	_	_	
+24-5	1407-1415	Guernsey	https://en.wikipedia.org/wiki/Guernsey	LOC	
+24-6	1415-1416	.	_	_	

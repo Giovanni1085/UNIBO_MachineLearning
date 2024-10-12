@@ -1,0 +1,871 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=HYDE.
+1-1	0-4	HYDE	https://en.wikipedia.org/wiki/Hyde,\_Greater\_Manchester	LOC	
+1-2	4-5	.	_	_	
+
+#Text=Rateable Value.
+2-1	7-15	Rateable	_	_	
+2-2	16-21	Value	_	_	
+2-3	21-22	.	_	_	
+
+#Text=—The rateable value of the townships of Hyde, Werneth, and Bredbury is now £76,452.
+3-1	22-23	—	_	_	
+3-2	23-26	The	_	_	
+3-3	27-35	rateable	_	_	
+3-4	36-41	value	_	_	
+3-5	42-44	of	_	_	
+3-6	45-48	the	_	_	
+3-7	49-58	townships	_	_	
+3-8	59-61	of	_	_	
+3-9	62-66	Hyde	https://en.wikipedia.org/wiki/Hyde,\_Greater\_Manchester	LOC	
+3-10	66-67	,	_	_	
+3-11	68-75	Werneth	https://en.wikipedia.org/wiki/Werneth,\_Greater\_Manchester	LOC	
+3-12	75-76	,	_	_	
+3-13	77-80	and	_	_	
+3-14	81-89	Bredbury	https://en.wikipedia.org/wiki/Bredbury	LOC	
+3-15	90-92	is	_	_	
+3-16	93-96	now	_	_	
+3-17	97-104	£76,452	_	_	
+3-18	104-105	.	_	_	
+
+#Text=Birthday Party.
+4-1	107-115	Birthday	_	_	
+4-2	116-121	Party	_	_	
+4-3	121-122	.	_	_	
+
+#Text=—On Saturday last, Mr.
+5-1	122-123	—	_	_	
+5-2	123-125	On	_	_	
+5-3	126-134	Saturday	_	_	
+5-4	135-139	last	_	_	
+5-5	139-140	,	_	_	
+5-6	141-143	Mr	_	_	
+5-7	143-144	.	_	_	
+
+#Text=W.
+6-1	145-146	W	_	_	
+6-2	146-147	.	_	_	
+
+#Text=Booth, of Hattcrsley, completed his 60th year, and to celebrate the event he called together a party of his friends and neighbours.
+7-1	148-153	Booth	_	_	
+7-2	153-154	,	_	_	
+7-3	155-157	of	_	_	
+7-4	158-168	Hattcrsley	https://en.wikipedia.org/wiki/Hattersley	LOC	
+7-5	168-169	,	_	_	
+7-6	170-179	completed	_	_	
+7-7	180-183	his	_	_	
+7-8	184-188	60th	_	_	
+7-9	189-193	year	_	_	
+7-10	193-194	,	_	_	
+7-11	195-198	and	_	_	
+7-12	199-201	to	_	_	
+7-13	202-211	celebrate	_	_	
+7-14	212-215	the	_	_	
+7-15	216-221	event	_	_	
+7-16	222-224	he	_	_	
+7-17	225-231	called	_	_	
+7-18	232-240	together	_	_	
+7-19	241-242	a	_	_	
+7-20	243-248	party	_	_	
+7-21	249-251	of	_	_	
+7-22	252-255	his	_	_	
+7-23	256-263	friends	_	_	
+7-24	264-267	and	_	_	
+7-25	268-278	neighbours	_	_	
+7-26	278-279	.	_	_	
+
+#Text=About forty persons partook of an excellent supper, provided for the occasion.
+8-1	280-285	About	_	_	
+8-2	286-291	forty	_	_	
+8-3	292-299	persons	_	_	
+8-4	300-307	partook	_	_	
+8-5	308-310	of	_	_	
+8-6	311-313	an	_	_	
+8-7	314-323	excellent	_	_	
+8-8	324-330	supper	_	_	
+8-9	330-331	,	_	_	
+8-10	332-340	provided	_	_	
+8-11	341-344	for	_	_	
+8-12	345-348	the	_	_	
+8-13	349-357	occasion	_	_	
+8-14	357-358	.	_	_	
+
+#Text=Afterwards the time was spent with music, dance, and song.
+9-1	359-369	Afterwards	_	_	
+9-2	370-373	the	_	_	
+9-3	374-378	time	_	_	
+9-4	379-382	was	_	_	
+9-5	383-388	spent	_	_	
+9-6	389-393	with	_	_	
+9-7	394-399	music	_	_	
+9-8	399-400	,	_	_	
+9-9	401-406	dance	_	_	
+9-10	406-407	,	_	_	
+9-11	408-411	and	_	_	
+9-12	412-416	song	_	_	
+9-13	416-417	.	_	_	
+
+#Text=The Mottram hand-bell ringers were present, and played some of their most favourite pieces.
+10-1	418-421	The	_	_	
+10-2	422-429	Mottram	https://en.wikipedia.org/wiki/Mottram\_in\_Longdendale	LOC	
+10-3	430-439	hand-bell	_	_	
+10-4	440-447	ringers	_	_	
+10-5	448-452	were	_	_	
+10-6	453-460	present	_	_	
+10-7	460-461	,	_	_	
+10-8	462-465	and	_	_	
+10-9	466-472	played	_	_	
+10-10	473-477	some	_	_	
+10-11	478-480	of	_	_	
+10-12	481-486	their	_	_	
+10-13	487-491	most	_	_	
+10-14	492-501	favourite	_	_	
+10-15	502-508	pieces	_	_	
+10-16	508-509	.	_	_	
+
+#Text=There was some excellent singing by Messrs.
+11-1	510-515	There	_	_	
+11-2	516-519	was	_	_	
+11-3	520-524	some	_	_	
+11-4	525-534	excellent	_	_	
+11-5	535-542	singing	_	_	
+11-6	543-545	by	_	_	
+11-7	546-552	Messrs	_	_	
+11-8	552-553	.	_	_	
+
+#Text=James Platt, William Taylor, and Andrew Salmon, who were accompanied on the violin by Mr.
+12-1	554-559	James	_	_	
+12-2	560-565	Platt	_	_	
+12-3	565-566	,	_	_	
+12-4	567-574	William	_	_	
+12-5	575-581	Taylor	_	_	
+12-6	581-582	,	_	_	
+12-7	583-586	and	_	_	
+12-8	587-593	Andrew	_	_	
+12-9	594-600	Salmon	_	_	
+12-10	600-601	,	_	_	
+12-11	602-605	who	_	_	
+12-12	606-610	were	_	_	
+12-13	611-622	accompanied	_	_	
+12-14	623-625	on	_	_	
+12-15	626-629	the	_	_	
+12-16	630-636	violin	_	_	
+12-17	637-639	by	_	_	
+12-18	640-642	Mr	_	_	
+12-19	642-643	.	_	_	
+
+#Text=Joshua Cooper.
+13-1	644-650	Joshua	_	_	
+13-2	651-657	Cooper	_	_	
+13-3	657-658	.	_	_	
+
+#Text=A comfortable evening was spent, and at the conclusion votes of thanks were returned to the entertainers.
+14-1	659-660	A	_	_	
+14-2	661-672	comfortable	_	_	
+14-3	673-680	evening	_	_	
+14-4	681-684	was	_	_	
+14-5	685-690	spent	_	_	
+14-6	690-691	,	_	_	
+14-7	692-695	and	_	_	
+14-8	696-698	at	_	_	
+14-9	699-702	the	_	_	
+14-10	703-713	conclusion	_	_	
+14-11	714-719	votes	_	_	
+14-12	720-722	of	_	_	
+14-13	723-729	thanks	_	_	
+14-14	730-734	were	_	_	
+14-15	735-743	returned	_	_	
+14-16	744-746	to	_	_	
+14-17	747-750	the	_	_	
+14-18	751-763	entertainers	_	_	
+14-19	763-764	.	_	_	
+
+#Text=Funeral of the late Rev.
+15-1	766-773	Funeral	_	_	
+15-2	774-776	of	_	_	
+15-3	777-780	the	_	_	
+15-4	781-785	late	_	_	
+15-5	786-789	Rev	_	_	
+15-6	789-790	.	_	_	
+
+#Text=J.
+16-1	791-792	J	_	_	
+16-2	792-793	.	_	_	
+
+#Text=Hill.
+17-1	794-798	Hill	_	_	
+17-2	798-799	.	_	_	
+
+#Text=—On Wednesday, the remains of the late Rev.
+18-1	799-800	—	_	_	
+18-2	800-802	On	_	_	
+18-3	803-812	Wednesday	_	_	
+18-4	812-813	,	_	_	
+18-5	814-817	the	_	_	
+18-6	818-825	remains	_	_	
+18-7	826-828	of	_	_	
+18-8	829-832	the	_	_	
+18-9	833-837	late	_	_	
+18-10	838-841	Rev	_	_	
+18-11	841-842	.	_	_	
+
+#Text=John Hall, the highly-respected priest of St.
+19-1	843-847	John	_	_	
+19-2	848-852	Hall	_	_	
+19-3	852-853	,	_	_	
+19-4	854-857	the	_	_	
+19-5	858-874	highly-respected	_	_	
+19-6	875-881	priest	_	_	
+19-7	882-884	of	_	_	
+19-8	885-887	St	*[1]	BUILDING[1]	
+19-9	887-888	.	*[1]	BUILDING[1]	
+
+#Text=Paul’s Roman Catholic Church, Newton, were borne to their last resting place, in the ground set apart for Roman Catholics at the Dukinfield Cemetery.
+20-1	889-893	Paul	*[1]	BUILDING[1]	
+20-2	893-894	’	*[1]	BUILDING[1]	
+20-3	894-895	s	*[1]	BUILDING[1]	
+20-4	896-901	Roman	*[1]	BUILDING[1]	
+20-5	902-910	Catholic	*[1]	BUILDING[1]	
+20-6	911-917	Church	*[1]	BUILDING[1]	
+20-7	917-918	,	_	_	
+20-8	919-925	Newton	https://en.wikipedia.org/wiki/Newton,\_Greater\_Manchester	LOC	
+20-9	925-926	,	_	_	
+20-10	927-931	were	_	_	
+20-11	932-937	borne	_	_	
+20-12	938-940	to	_	_	
+20-13	941-946	their	_	_	
+20-14	947-951	last	_	_	
+20-15	952-959	resting	_	_	
+20-16	960-965	place	_	_	
+20-17	965-966	,	_	_	
+20-18	967-969	in	_	_	
+20-19	970-973	the	_	_	
+20-20	974-980	ground	_	_	
+20-21	981-984	set	_	_	
+20-22	985-990	apart	_	_	
+20-23	991-994	for	_	_	
+20-24	995-1000	Roman	_	_	
+20-25	1001-1010	Catholics	_	_	
+20-26	1011-1013	at	_	_	
+20-27	1014-1017	the	_	_	
+20-28	1018-1028	Dukinfield	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+20-29	1029-1037	Cemetery	_	_	
+20-30	1037-1038	.	_	_	
+
+#Text=The body lay in state in the church several days, and many hundred persons went to look at it.
+21-1	1039-1042	The	_	_	
+21-2	1043-1047	body	_	_	
+21-3	1048-1051	lay	_	_	
+21-4	1052-1054	in	_	_	
+21-5	1055-1060	state	_	_	
+21-6	1061-1063	in	_	_	
+21-7	1064-1067	the	_	_	
+21-8	1068-1074	church	_	_	
+21-9	1075-1082	several	_	_	
+21-10	1083-1087	days	_	_	
+21-11	1087-1088	,	_	_	
+21-12	1089-1092	and	_	_	
+21-13	1093-1097	many	_	_	
+21-14	1098-1105	hundred	_	_	
+21-15	1106-1113	persons	_	_	
+21-16	1114-1118	went	_	_	
+21-17	1119-1121	to	_	_	
+21-18	1122-1126	look	_	_	
+21-19	1127-1129	at	_	_	
+21-20	1130-1132	it	_	_	
+21-21	1132-1133	.	_	_	
+
+#Text=Various rumours were out as to where the deceased was to be interred.
+22-1	1134-1141	Various	_	_	
+22-2	1142-1149	rumours	_	_	
+22-3	1150-1154	were	_	_	
+22-4	1155-1158	out	_	_	
+22-5	1159-1161	as	_	_	
+22-6	1162-1164	to	_	_	
+22-7	1165-1170	where	_	_	
+22-8	1171-1174	the	_	_	
+22-9	1175-1183	deceased	_	_	
+22-10	1184-1187	was	_	_	
+22-11	1188-1190	to	_	_	
+22-12	1191-1193	be	_	_	
+22-13	1194-1202	interred	_	_	
+22-14	1202-1203	.	_	_	
+
+#Text=Choice was made of Dukinfield by the congregation, and their wishes prevailed, but it was only at the last moment that it was made known.
+23-1	1204-1210	Choice	_	_	
+23-2	1211-1214	was	_	_	
+23-3	1215-1219	made	_	_	
+23-4	1220-1222	of	_	_	
+23-5	1223-1233	Dukinfield	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+23-6	1234-1236	by	_	_	
+23-7	1237-1240	the	_	_	
+23-8	1241-1253	congregation	_	_	
+23-9	1253-1254	,	_	_	
+23-10	1255-1258	and	_	_	
+23-11	1259-1264	their	_	_	
+23-12	1265-1271	wishes	_	_	
+23-13	1272-1281	prevailed	_	_	
+23-14	1281-1282	,	_	_	
+23-15	1283-1286	but	_	_	
+23-16	1287-1289	it	_	_	
+23-17	1290-1293	was	_	_	
+23-18	1294-1298	only	_	_	
+23-19	1299-1301	at	_	_	
+23-20	1302-1305	the	_	_	
+23-21	1306-1310	last	_	_	
+23-22	1311-1317	moment	_	_	
+23-23	1318-1322	that	_	_	
+23-24	1323-1325	it	_	_	
+23-25	1326-1329	was	_	_	
+23-26	1330-1334	made	_	_	
+23-27	1335-1340	known	_	_	
+23-28	1340-1341	.	_	_	
+
+#Text=The funeral was the most imposing spectacle of the kind ever witnessed in this neighbourhood.
+24-1	1342-1345	The	_	_	
+24-2	1346-1353	funeral	_	_	
+24-3	1354-1357	was	_	_	
+24-4	1358-1361	the	_	_	
+24-5	1362-1366	most	_	_	
+24-6	1367-1375	imposing	_	_	
+24-7	1376-1385	spectacle	_	_	
+24-8	1386-1388	of	_	_	
+24-9	1389-1392	the	_	_	
+24-10	1393-1397	kind	_	_	
+24-11	1398-1402	ever	_	_	
+24-12	1403-1412	witnessed	_	_	
+24-13	1413-1415	in	_	_	
+24-14	1416-1420	this	_	_	
+24-15	1421-1434	neighbourhood	_	_	
+24-16	1434-1435	.	_	_	
+
+#Text=The scholars and the congregation lately under the charge of the rev. gentlemen assembled at the schools and church at ten o’clock in the morning.
+25-1	1436-1439	The	_	_	
+25-2	1440-1448	scholars	_	_	
+25-3	1449-1452	and	_	_	
+25-4	1453-1456	the	_	_	
+25-5	1457-1469	congregation	_	_	
+25-6	1470-1476	lately	_	_	
+25-7	1477-1482	under	_	_	
+25-8	1483-1486	the	_	_	
+25-9	1487-1493	charge	_	_	
+25-10	1494-1496	of	_	_	
+25-11	1497-1500	the	_	_	
+25-12	1501-1504	rev	_	_	
+25-13	1504-1505	.	_	_	
+25-14	1506-1515	gentlemen	_	_	
+25-15	1516-1525	assembled	_	_	
+25-16	1526-1528	at	_	_	
+25-17	1529-1532	the	_	_	
+25-18	1533-1540	schools	_	_	
+25-19	1541-1544	and	_	_	
+25-20	1545-1551	church	_	_	
+25-21	1552-1554	at	_	_	
+25-22	1555-1558	ten	_	_	
+25-23	1559-1560	o	_	_	
+25-24	1560-1561	’	_	_	
+25-25	1561-1566	clock	_	_	
+25-26	1567-1569	in	_	_	
+25-27	1570-1573	the	_	_	
+25-28	1574-1581	morning	_	_	
+25-29	1581-1582	.	_	_	
+
+#Text=At eleven o’clock, high mass was said by the Bishop of Shrewsbury.
+26-1	1583-1585	At	_	_	
+26-2	1586-1592	eleven	_	_	
+26-3	1593-1594	o	_	_	
+26-4	1594-1595	’	_	_	
+26-5	1595-1600	clock	_	_	
+26-6	1600-1601	,	_	_	
+26-7	1602-1606	high	_	_	
+26-8	1607-1611	mass	_	_	
+26-9	1612-1615	was	_	_	
+26-10	1616-1620	said	_	_	
+26-11	1621-1623	by	_	_	
+26-12	1624-1627	the	_	_	
+26-13	1628-1634	Bishop	_	_	
+26-14	1635-1637	of	_	_	
+26-15	1638-1648	Shrewsbury	https://en.wikipedia.org/wiki/Shrewsbury	LOC	
+26-16	1648-1649	.	_	_	
+
+#Text=At the conclusion of the religious ceremonies in the church, a procession was formed, which proceeded through Hyde and Flowery Field in the following order:— 
+#Text=Acolyte, crossbearer, acolyte, acolytes, wearing their surplices and carrying various emblems and instruments.
+27-1	1650-1652	At	_	_	
+27-2	1653-1656	the	_	_	
+27-3	1657-1667	conclusion	_	_	
+27-4	1668-1670	of	_	_	
+27-5	1671-1674	the	_	_	
+27-6	1675-1684	religious	_	_	
+27-7	1685-1695	ceremonies	_	_	
+27-8	1696-1698	in	_	_	
+27-9	1699-1702	the	_	_	
+27-10	1703-1709	church	_	_	
+27-11	1709-1710	,	_	_	
+27-12	1711-1712	a	_	_	
+27-13	1713-1723	procession	_	_	
+27-14	1724-1727	was	_	_	
+27-15	1728-1734	formed	_	_	
+27-16	1734-1735	,	_	_	
+27-17	1736-1741	which	_	_	
+27-18	1742-1751	proceeded	_	_	
+27-19	1752-1759	through	_	_	
+27-20	1760-1764	Hyde	_	_	
+27-21	1765-1768	and	_	_	
+27-22	1769-1776	Flowery	_	_	
+27-23	1777-1782	Field	_	_	
+27-24	1783-1785	in	_	_	
+27-25	1786-1789	the	_	_	
+27-26	1790-1799	following	_	_	
+27-27	1800-1805	order	_	_	
+27-28	1805-1806	:	_	_	
+27-29	1806-1807	—	_	_	
+27-30	1809-1816	Acolyte	_	_	
+27-31	1816-1817	,	_	_	
+27-32	1818-1829	crossbearer	_	_	
+27-33	1829-1830	,	_	_	
+27-34	1831-1838	acolyte	_	_	
+27-35	1838-1839	,	_	_	
+27-36	1840-1848	acolytes	_	_	
+27-37	1848-1849	,	_	_	
+27-38	1850-1857	wearing	_	_	
+27-39	1858-1863	their	_	_	
+27-40	1864-1873	surplices	_	_	
+27-41	1874-1877	and	_	_	
+27-42	1878-1886	carrying	_	_	
+27-43	1887-1894	various	_	_	
+27-44	1895-1902	emblems	_	_	
+27-45	1903-1906	and	_	_	
+27-46	1907-1918	instruments	_	_	
+27-47	1918-1919	.	_	_	
+
+#Text=Fourteen little girls in white, with white falls and wreaths of white flowers arouud their heads, accompanied by three young women teachers, dressed in a similar manner.
+28-1	1921-1929	Fourteen	_	_	
+28-2	1930-1936	little	_	_	
+28-3	1937-1942	girls	_	_	
+28-4	1943-1945	in	_	_	
+28-5	1946-1951	white	_	_	
+28-6	1951-1952	,	_	_	
+28-7	1953-1957	with	_	_	
+28-8	1958-1963	white	_	_	
+28-9	1964-1969	falls	_	_	
+28-10	1970-1973	and	_	_	
+28-11	1974-1981	wreaths	_	_	
+28-12	1982-1984	of	_	_	
+28-13	1985-1990	white	_	_	
+28-14	1991-1998	flowers	_	_	
+28-15	1999-2005	arouud	_	_	
+28-16	2006-2011	their	_	_	
+28-17	2012-2017	heads	_	_	
+28-18	2017-2018	,	_	_	
+28-19	2019-2030	accompanied	_	_	
+28-20	2031-2033	by	_	_	
+28-21	2034-2039	three	_	_	
+28-22	2040-2045	young	_	_	
+28-23	2046-2051	women	_	_	
+28-24	2052-2060	teachers	_	_	
+28-25	2060-2061	,	_	_	
+28-26	2062-2069	dressed	_	_	
+28-27	2070-2072	in	_	_	
+28-28	2073-2074	a	_	_	
+28-29	2075-2082	similar	_	_	
+28-30	2083-2089	manner	_	_	
+28-31	2089-2090	.	_	_	
+
+#Text=Monrningcoach—Canon Frith, Revs.
+29-1	2092-2111	Monrningcoach—Canon	_	_	
+29-2	2112-2117	Frith	_	_	
+29-3	2117-2118	,	_	_	
+29-4	2119-2123	Revs	_	_	
+29-5	2123-2124	.	_	_	
+
+#Text=E. 1.
+30-1	2125-2126	E	_	_	
+30-2	2126-2127	.	_	_	
+30-3	2128-2129	1	_	_	
+30-4	2129-2130	.	_	_	
+
+#Text=Monaham, W.
+31-1	2131-2138	Monaham	_	_	
+31-2	2138-2139	,	_	_	
+31-3	2140-2141	W	_	_	
+31-4	2141-2142	.	_	_	
+
+#Text=Stanton, and E.
+32-1	2143-2150	Stanton	_	_	
+32-2	2150-2151	,	_	_	
+32-3	2152-2155	and	_	_	
+32-4	2156-2157	E	_	_	
+32-5	2157-2158	.	_	_	
+
+#Text=Slaughton.
+33-1	2159-2168	Slaughton	_	_	
+33-2	2168-2169	.	_	_	
+
+#Text=Hearse, containing body.
+34-1	2170-2176	Hearse	_	_	
+34-2	2176-2177	,	_	_	
+34-3	2178-2188	containing	_	_	
+34-4	2189-2193	body	_	_	
+34-5	2193-2194	.	_	_	
+
+#Text=Inscription on the coffin : Revdus.
+35-1	2195-2206	Inscription	_	_	
+35-2	2207-2209	on	_	_	
+35-3	2210-2213	the	_	_	
+35-4	2214-2220	coffin	_	_	
+35-5	2221-2222	:	_	_	
+35-6	2223-2229	Revdus	_	_	
+35-7	2229-2230	.	_	_	
+
+#Text=Johanes Hill, sacerdos, ob dii 6ta mensss Augusti, A.D 1869. iET. 50.
+36-1	2231-2238	Johanes	_	_	
+36-2	2239-2243	Hill	_	_	
+36-3	2243-2244	,	_	_	
+36-4	2245-2253	sacerdos	_	_	
+36-5	2253-2254	,	_	_	
+36-6	2255-2257	ob	_	_	
+36-7	2258-2261	dii	_	_	
+36-8	2262-2265	6ta	_	_	
+36-9	2266-2272	mensss	_	_	
+36-10	2273-2280	Augusti	_	_	
+36-11	2280-2281	,	_	_	
+36-12	2282-2285	A.D	_	_	
+36-13	2286-2290	1869	_	_	
+36-14	2290-2291	.	_	_	
+36-15	2292-2295	iET	_	_	
+36-16	2295-2296	.	_	_	
+36-17	2297-2299	50	_	_	
+36-18	2299-2300	.	_	_	
+
+#Text=RIP.
+37-1	2301-2304	RIP	_	_	
+37-2	2304-2305	.	_	_	
+
+#Text=Coach—chief mourners, Rev.
+38-1	2307-2318	Coach—chief	_	_	
+38-2	2319-2327	mourners	_	_	
+38-3	2327-2328	,	_	_	
+38-4	2329-2332	Rev	_	_	
+38-5	2332-2333	.	_	_	
+
+#Text=Mr.
+39-1	2334-2336	Mr	_	_	
+39-2	2336-2337	.	_	_	
+
+#Text=Powderley and Rev.
+40-1	2338-2347	Powderley	_	_	
+40-2	2348-2351	and	_	_	
+40-3	2352-2355	Rev	_	_	
+40-4	2355-2356	.	_	_	
+
+#Text=J.
+41-1	2357-2358	J	_	_	
+41-2	2358-2359	.	_	_	
+
+#Text=Carroll.
+42-1	2360-2367	Carroll	_	_	
+42-2	2367-2368	.	_	_	
+
+#Text=Mourning coach—Mrs.
+43-1	2370-2378	Mourning	_	_	
+43-2	2379-2388	coach—Mrs	_	_	
+43-3	2388-2389	.	_	_	
+
+#Text=Johnson, Miss Mc.Coy, Mr.
+44-1	2390-2397	Johnson	_	_	
+44-2	2397-2398	,	_	_	
+44-3	2399-2403	Miss	_	_	
+44-4	2404-2410	Mc.Coy	_	_	
+44-5	2410-2411	,	_	_	
+44-6	2412-2414	Mr	_	_	
+44-7	2414-2415	.	_	_	
+
+#Text=Me.Coy. and Mr.
+45-1	2416-2422	Me.Coy	_	_	
+45-2	2422-2423	.	_	_	
+45-3	2424-2427	and	_	_	
+45-4	2428-2430	Mr	_	_	
+45-5	2430-2431	.	_	_	
+
+#Text=Brannan.
+46-1	2432-2439	Brannan	_	_	
+46-2	2439-2440	.	_	_	
+
+#Text=Mourning coach—Rev.
+47-1	2441-2449	Mourning	_	_	
+47-2	2450-2459	coach—Rev	_	_	
+47-3	2459-2460	.	_	_	
+
+#Text=Dr.
+48-1	2461-2463	Dr	_	_	
+48-2	2463-2464	.	_	_	
+
+#Text=Hall, Canon Toole, Rev.
+49-1	2465-2469	Hall	_	_	
+49-2	2469-2470	,	_	_	
+49-3	2471-2476	Canon	_	_	
+49-4	2477-2482	Toole	_	_	
+49-5	2482-2483	,	_	_	
+49-6	2484-2487	Rev	_	_	
+49-7	2487-2488	.	_	_	
+
+#Text=Canon Taskar, and Father Francis.
+50-1	2489-2494	Canon	_	_	
+50-2	2495-2501	Taskar	_	_	
+50-3	2501-2502	,	_	_	
+50-4	2503-2506	and	_	_	
+50-5	2507-2513	Father	_	_	
+50-6	2514-2521	Francis	_	_	
+50-7	2521-2522	.	_	_	
+
+#Text=Mourning coach—Rev.
+51-1	2524-2532	Mourning	_	_	
+51-2	2533-2542	coach—Rev	_	_	
+51-3	2542-2543	.	_	_	
+
+#Text=C.
+52-1	2544-2545	C	_	_	
+52-2	2545-2546	.	_	_	
+
+#Text=Grymonprez, Rev.
+53-1	2547-2557	Grymonprez	_	_	
+53-2	2557-2558	,	_	_	
+53-3	2559-2562	Rev	_	_	
+53-4	2562-2563	.	_	_	
+
+#Text=R.
+54-1	2564-2565	R	_	_	
+54-2	2565-2566	.	_	_	
+
+#Text=Hil ton, Rev.
+55-1	2567-2570	Hil	_	_	
+55-2	2571-2574	ton	_	_	
+55-3	2574-2575	,	_	_	
+55-4	2576-2579	Rev	_	_	
+55-5	2579-2580	.	_	_	
+
+#Text=J.
+56-1	2581-2582	J	_	_	
+56-2	2582-2583	.	_	_	
+
+#Text=Robinson, and Rev.
+57-1	2584-2592	Robinson	_	_	
+57-2	2592-2593	,	_	_	
+57-3	2594-2597	and	_	_	
+57-4	2598-2601	Rev	_	_	
+57-5	2601-2602	.	_	_	
+
+#Text=Mr.
+58-1	2603-2605	Mr	_	_	
+58-2	2605-2606	.	_	_	
+
+#Text=Moore.
+59-1	2607-2612	Moore	_	_	
+59-2	2612-2613	.	_	_	
+
+#Text=Mourning coach—Rev.
+60-1	2615-2623	Mourning	_	_	
+60-2	2624-2633	coach—Rev	_	_	
+60-3	2633-2634	.	_	_	
+
+#Text=Mr.
+61-1	2635-2637	Mr	_	_	
+61-2	2637-2638	.	_	_	
+
+#Text=Walton, Rev.
+62-1	2639-2645	Walton	_	_	
+62-2	2645-2646	,	_	_	
+62-3	2647-2650	Rev	_	_	
+62-4	2650-2651	.	_	_	
+
+#Text=Mulvany, Rev.
+63-1	2652-2659	Mulvany	_	_	
+63-2	2659-2660	,	_	_	
+63-3	2661-2664	Rev	_	_	
+63-4	2664-2665	.	_	_	
+
+#Text=M.
+64-1	2666-2667	M	_	_	
+64-2	2667-2668	.	_	_	
+
+#Text=Dillon, Rev.
+65-1	2669-2675	Dillon	_	_	
+65-2	2675-2676	,	_	_	
+65-3	2677-2680	Rev	_	_	
+65-4	2680-2681	.	_	_	
+
+#Text=Mr.
+66-1	2682-2684	Mr	_	_	
+66-2	2684-2685	.	_	_	
+
+#Text=Woods, and Mr.
+67-1	2686-2691	Woods	_	_	
+67-2	2691-2692	,	_	_	
+67-3	2693-2696	and	_	_	
+67-4	2697-2699	Mr	_	_	
+67-5	2699-2700	.	_	_	
+
+#Text=Coulan.
+68-1	2701-2707	Coulan	_	_	
+68-2	2707-2708	.	_	_	
+
+#Text=Mourning coach—Dr.
+69-1	2709-2717	Mourning	_	_	
+69-2	2718-2726	coach—Dr	_	_	
+69-3	2726-2727	.	_	_	
+
+#Text=T.
+70-1	2728-2729	T	_	_	
+70-2	2729-2730	.	_	_	
+
+#Text=C.
+71-1	2731-2732	C	_	_	
+71-2	2732-2733	.	_	_	
+
+#Text=Leah and Mr.
+72-1	2734-2738	Leah	_	_	
+72-2	2739-2742	and	_	_	
+72-3	2743-2745	Mr	_	_	
+72-4	2745-2746	.	_	_	
+
+#Text=J.
+73-1	2747-2748	J	_	_	
+73-2	2748-2749	.	_	_	
+
+#Text=Mycock.
+74-1	2750-2756	Mycock	_	_	
+74-2	2756-2757	.	_	_	
+
+#Text=Private carriage—Mr.
+75-1	2758-2765	Private	_	_	
+75-2	2766-2777	carriage—Mr	_	_	
+75-3	2777-2778	.	_	_	
+
+#Text=O.
+76-1	2779-2780	O	_	_	
+76-2	2780-2781	.	_	_	
+
+#Text=Grady, surgeon.
+77-1	2782-2787	Grady	_	_	
+77-2	2787-2788	,	_	_	
+77-3	2789-2796	surgeon	_	_	
+77-4	2796-2797	.	_	_	
+
+#Text=Empty cab to bring back the acolytes.
+78-1	2798-2803	Empty	_	_	
+78-2	2804-2807	cab	_	_	
+78-3	2808-2810	to	_	_	
+78-4	2811-2816	bring	_	_	
+78-5	2817-2821	back	_	_	
+78-6	2822-2825	the	_	_	
+78-7	2826-2834	acolytes	_	_	
+78-8	2834-2835	.	_	_	
+
+#Text=The male scholars and teachers followed next, the smallest leading, all wearing flowers and white rosettes, with a little black in the centre.
+79-1	2837-2840	The	_	_	
+79-2	2841-2845	male	_	_	
+79-3	2846-2854	scholars	_	_	
+79-4	2855-2858	and	_	_	
+79-5	2859-2867	teachers	_	_	
+79-6	2868-2876	followed	_	_	
+79-7	2877-2881	next	_	_	
+79-8	2881-2882	,	_	_	
+79-9	2883-2886	the	_	_	
+79-10	2887-2895	smallest	_	_	
+79-11	2896-2903	leading	_	_	
+79-12	2903-2904	,	_	_	
+79-13	2905-2908	all	_	_	
+79-14	2909-2916	wearing	_	_	
+79-15	2917-2924	flowers	_	_	
+79-16	2925-2928	and	_	_	
+79-17	2929-2934	white	_	_	
+79-18	2935-2943	rosettes	_	_	
+79-19	2943-2944	,	_	_	
+79-20	2945-2949	with	_	_	
+79-21	2950-2951	a	_	_	
+79-22	2952-2958	little	_	_	
+79-23	2959-2964	black	_	_	
+79-24	2965-2967	in	_	_	
+79-25	2968-2971	the	_	_	
+79-26	2972-2978	centre	_	_	
+79-27	2978-2979	.	_	_	
+
+#Text=Following them were a large number of female teachers in white bonnets, and an equal number in black ones; and, lastly, the male portion of the deceased gentleman’s flock and friends.
+80-1	2980-2989	Following	_	_	
+80-2	2990-2994	them	_	_	
+80-3	2995-2999	were	_	_	
+80-4	3000-3001	a	_	_	
+80-5	3002-3007	large	_	_	
+80-6	3008-3014	number	_	_	
+80-7	3015-3017	of	_	_	
+80-8	3018-3024	female	_	_	
+80-9	3025-3033	teachers	_	_	
+80-10	3034-3036	in	_	_	
+80-11	3037-3042	white	_	_	
+80-12	3043-3050	bonnets	_	_	
+80-13	3050-3051	,	_	_	
+80-14	3052-3055	and	_	_	
+80-15	3056-3058	an	_	_	
+80-16	3059-3064	equal	_	_	
+80-17	3065-3071	number	_	_	
+80-18	3072-3074	in	_	_	
+80-19	3075-3080	black	_	_	
+80-20	3081-3085	ones	_	_	
+80-21	3085-3086	;	_	_	
+80-22	3087-3090	and	_	_	
+80-23	3090-3091	,	_	_	
+80-24	3092-3098	lastly	_	_	
+80-25	3098-3099	,	_	_	
+80-26	3100-3103	the	_	_	
+80-27	3104-3108	male	_	_	
+80-28	3109-3116	portion	_	_	
+80-29	3117-3119	of	_	_	
+80-30	3120-3123	the	_	_	
+80-31	3124-3132	deceased	_	_	
+80-32	3133-3142	gentleman	_	_	
+80-33	3142-3143	’	_	_	
+80-34	3143-3144	s	_	_	
+80-35	3145-3150	flock	_	_	
+80-36	3151-3154	and	_	_	
+80-37	3155-3162	friends	_	_	
+80-38	3162-3163	.	_	_	
+
+#Text=The funeral ceremony at the grave was read by the Rev, Canon Frith.
+81-1	3164-3167	The	_	_	
+81-2	3168-3175	funeral	_	_	
+81-3	3176-3184	ceremony	_	_	
+81-4	3185-3187	at	_	_	
+81-5	3188-3191	the	_	_	
+81-6	3192-3197	grave	_	_	
+81-7	3198-3201	was	_	_	
+81-8	3202-3206	read	_	_	
+81-9	3207-3209	by	_	_	
+81-10	3210-3213	the	_	_	
+81-11	3214-3217	Rev	_	_	
+81-12	3217-3218	,	_	_	
+81-13	3219-3224	Canon	_	_	
+81-14	3225-3230	Frith	_	_	
+81-15	3230-3231	.	_	_	
+
+#Text=The procession returned in somewhat similar order, Mr.
+82-1	3232-3235	The	_	_	
+82-2	3236-3246	procession	_	_	
+82-3	3247-3255	returned	_	_	
+82-4	3256-3258	in	_	_	
+82-5	3259-3267	somewhat	_	_	
+82-6	3268-3275	similar	_	_	
+82-7	3276-3281	order	_	_	
+82-8	3281-3282	,	_	_	
+82-9	3283-3285	Mr	_	_	
+82-10	3285-3286	.	_	_	
+
+#Text=Joseph Mycock was the undertaker.
+83-1	3287-3293	Joseph	_	_	
+83-2	3294-3300	Mycock	_	_	
+83-3	3301-3304	was	_	_	
+83-4	3305-3308	the	_	_	
+83-5	3309-3319	undertaker	_	_	
+83-6	3319-3320	.	_	_	

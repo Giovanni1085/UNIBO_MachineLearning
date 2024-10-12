@@ -1,0 +1,224 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Prom the Evening Posts and Daily Papers, May 20.
+1-1	0-4	Prom	_	_	
+1-2	5-8	the	_	_	
+1-3	9-16	Evening	_	_	
+1-4	17-22	Posts	_	_	
+1-5	23-26	and	_	_	
+1-6	27-32	Daily	_	_	
+1-7	33-39	Papers	_	_	
+1-8	39-40	,	_	_	
+1-9	41-44	May	_	_	
+1-10	45-47	20	_	_	
+1-11	47-48	.	_	_	
+
+#Text=Cpujlanlinoplc, April 8.
+2-1	49-63	Cpujlanlinoplc	https://en.wikipedia.org/wiki/Constantinople	LOC	
+2-2	63-64	,	_	_	
+2-3	65-70	April	_	_	
+2-4	71-72	8	_	_	
+2-5	72-73	.	_	_	
+
+#Text=The Warlike preparations both hy Sea and Land go on here with all poffible Alacrity.
+3-1	74-77	The	_	_	
+3-2	78-85	Warlike	_	_	
+3-3	86-98	preparations	_	_	
+3-4	99-103	both	_	_	
+3-5	104-106	hy	_	_	
+3-6	107-110	Sea	_	_	
+3-7	111-114	and	_	_	
+3-8	115-119	Land	_	_	
+3-9	120-122	go	_	_	
+3-10	123-125	on	_	_	
+3-11	126-130	here	_	_	
+3-12	131-135	with	_	_	
+3-13	136-139	all	_	_	
+3-14	140-148	poffible	_	_	
+3-15	149-157	Alacrity	_	_	
+3-16	157-158	.	_	_	
+
+#Text=All the Caftles upon the Coafts of Natolia and Thrace are full [ Garrifoned, and well piovided with Ammunition and Provifion.
+4-1	159-162	All	_	_	
+4-2	163-166	the	_	_	
+4-3	167-174	Caftles	_	_	
+4-4	175-179	upon	_	_	
+4-5	180-183	the	_	_	
+4-6	184-190	Coafts	_	_	
+4-7	191-193	of	_	_	
+4-8	194-201	Natolia	https://en.wikipedia.org/wiki/Anatolia	LOC	
+4-9	202-205	and	_	_	
+4-10	206-212	Thrace	https://en.wikipedia.org/wiki/Thrace	LOC	
+4-11	213-216	are	_	_	
+4-12	217-221	full	_	_	
+4-13	222-223	[	_	_	
+4-14	224-234	Garrifoned	_	_	
+4-15	234-235	,	_	_	
+4-16	236-239	and	_	_	
+4-17	240-244	well	_	_	
+4-18	245-253	piovided	_	_	
+4-19	254-258	with	_	_	
+4-20	259-269	Ammunition	_	_	
+4-21	270-273	and	_	_	
+4-22	274-283	Provifion	_	_	
+4-23	283-284	.	_	_	
+
+#Text=Vaft Numbers of Soldiers are pafling from Alia to Europe.
+5-1	285-289	Vaft	_	_	
+5-2	290-297	Numbers	_	_	
+5-3	298-300	of	_	_	
+5-4	301-309	Soldiers	_	_	
+5-5	310-313	are	_	_	
+5-6	314-321	pafling	_	_	
+5-7	322-326	from	_	_	
+5-8	327-331	Alia	https://en.wikipedia.org/wiki/Asia	LOC	
+5-9	332-334	to	_	_	
+5-10	335-341	Europe	https://en.wikipedia.org/wiki/Europe	LOC	
+5-11	341-342	.	_	_	
+
+#Text=Their Number already amounts to upwards of 100.000 Men.
+6-1	343-348	Their	_	_	
+6-2	349-355	Number	_	_	
+6-3	356-363	already	_	_	
+6-4	364-371	amounts	_	_	
+6-5	372-374	to	_	_	
+6-6	375-382	upwards	_	_	
+6-7	383-385	of	_	_	
+6-8	386-393	100.000	_	_	
+6-9	394-397	Men	_	_	
+6-10	397-398	.	_	_	
+
+#Text=A Tartarian Courier is fent to Belgrade, with important Orders, and a vaft Quantity of Artillery; Camels, and all forts of Ammunition and Provifions, are fending towards that Place.
+7-1	399-400	A	_	_	
+7-2	401-410	Tartarian	_	_	
+7-3	411-418	Courier	_	_	
+7-4	419-421	is	_	_	
+7-5	422-426	fent	_	_	
+7-6	427-429	to	_	_	
+7-7	430-438	Belgrade	https://en.wikipedia.org/wiki/Belgrade	LOC	
+7-8	438-439	,	_	_	
+7-9	440-444	with	_	_	
+7-10	445-454	important	_	_	
+7-11	455-461	Orders	_	_	
+7-12	461-462	,	_	_	
+7-13	463-466	and	_	_	
+7-14	467-468	a	_	_	
+7-15	469-473	vaft	_	_	
+7-16	474-482	Quantity	_	_	
+7-17	483-485	of	_	_	
+7-18	486-495	Artillery	_	_	
+7-19	495-496	;	_	_	
+7-20	497-503	Camels	_	_	
+7-21	503-504	,	_	_	
+7-22	505-508	and	_	_	
+7-23	509-512	all	_	_	
+7-24	513-518	forts	_	_	
+7-25	519-521	of	_	_	
+7-26	522-532	Ammunition	_	_	
+7-27	533-536	and	_	_	
+7-28	537-547	Provifions	_	_	
+7-29	547-548	,	_	_	
+7-30	549-552	are	_	_	
+7-31	553-560	fending	_	_	
+7-32	561-568	towards	_	_	
+7-33	569-573	that	_	_	
+7-34	574-579	Place	_	_	
+7-35	579-580	.	_	_	
+
+#Text=Phe preparations by Sea are no lefs confiderable.
+8-1	581-584	Phe	_	_	
+8-2	585-597	preparations	_	_	
+8-3	598-600	by	_	_	
+8-4	601-604	Sea	_	_	
+8-5	605-608	are	_	_	
+8-6	609-611	no	_	_	
+8-7	612-616	lefs	_	_	
+8-8	617-629	confiderable	_	_	
+8-9	629-630	.	_	_	
+
+#Text=The latter End of laft Month 13 Sail of the Line entered the Channel, all well equipped ; four more, of 80 Guns each, arc already in the Archipelago; near the Lighthoufe forty Ships of War are fitting out, befides others at Gallipoli, and in the Black Sea; fb that about July there will be 70 Ships of War of different Sizes ready for Sea ; 2700 compleat Sailors are expected from the Archipelago lfiands.
+9-1	631-634	The	_	_	
+9-2	635-641	latter	_	_	
+9-3	642-645	End	_	_	
+9-4	646-648	of	_	_	
+9-5	649-653	laft	_	_	
+9-6	654-659	Month	_	_	
+9-7	660-662	13	_	_	
+9-8	663-667	Sail	_	_	
+9-9	668-670	of	_	_	
+9-10	671-674	the	_	_	
+9-11	675-679	Line	_	_	
+9-12	680-687	entered	_	_	
+9-13	688-691	the	https://en.wikipedia.org/wiki/Bosporus[1]	LOC[1]	
+9-14	692-699	Channel	https://en.wikipedia.org/wiki/Bosporus[1]	LOC[1]	
+9-15	699-700	,	_	_	
+9-16	701-704	all	_	_	
+9-17	705-709	well	_	_	
+9-18	710-718	equipped	_	_	
+9-19	719-720	;	_	_	
+9-20	721-725	four	_	_	
+9-21	726-730	more	_	_	
+9-22	730-731	,	_	_	
+9-23	732-734	of	_	_	
+9-24	735-737	80	_	_	
+9-25	738-742	Guns	_	_	
+9-26	743-747	each	_	_	
+9-27	747-748	,	_	_	
+9-28	749-752	arc	_	_	
+9-29	753-760	already	_	_	
+9-30	761-763	in	_	_	
+9-31	764-767	the	_	_	
+9-32	768-779	Archipelago	https://en.wikipedia.org/wiki/Aegean\_Islands	LOC	
+9-33	779-780	;	_	_	
+9-34	781-785	near	_	_	
+9-35	786-789	the	_	_	
+9-36	790-800	Lighthoufe	_	_	
+9-37	801-806	forty	_	_	
+9-38	807-812	Ships	_	_	
+9-39	813-815	of	_	_	
+9-40	816-819	War	_	_	
+9-41	820-823	are	_	_	
+9-42	824-831	fitting	_	_	
+9-43	832-835	out	_	_	
+9-44	835-836	,	_	_	
+9-45	837-844	befides	_	_	
+9-46	845-851	others	_	_	
+9-47	852-854	at	_	_	
+9-48	855-864	Gallipoli	https://en.wikipedia.org/wiki/Gallipoli	LOC	
+9-49	864-865	,	_	_	
+9-50	866-869	and	_	_	
+9-51	870-872	in	_	_	
+9-52	873-876	the	_	_	
+9-53	877-882	Black	https://en.wikipedia.org/wiki/Black\_Sea[2]	LOC[2]	
+9-54	883-886	Sea	https://en.wikipedia.org/wiki/Black\_Sea[2]	LOC[2]	
+9-55	886-887	;	_	_	
+9-56	888-890	fb	_	_	
+9-57	891-895	that	_	_	
+9-58	896-901	about	_	_	
+9-59	902-906	July	_	_	
+9-60	907-912	there	_	_	
+9-61	913-917	will	_	_	
+9-62	918-920	be	_	_	
+9-63	921-923	70	_	_	
+9-64	924-929	Ships	_	_	
+9-65	930-932	of	_	_	
+9-66	933-936	War	_	_	
+9-67	937-939	of	_	_	
+9-68	940-949	different	_	_	
+9-69	950-955	Sizes	_	_	
+9-70	956-961	ready	_	_	
+9-71	962-965	for	_	_	
+9-72	966-969	Sea	_	_	
+9-73	970-971	;	_	_	
+9-74	972-976	2700	_	_	
+9-75	977-985	compleat	_	_	
+9-76	986-993	Sailors	_	_	
+9-77	994-997	are	_	_	
+9-78	998-1006	expected	_	_	
+9-79	1007-1011	from	_	_	
+9-80	1012-1015	the	_	_	
+9-81	1016-1027	Archipelago	https://en.wikipedia.org/wiki/Aegean\_Islands[3]	LOC[3]	
+9-82	1028-1035	lfiands	https://en.wikipedia.org/wiki/Aegean\_Islands[3]	LOC[3]	
+9-83	1035-1036	.	_	_	

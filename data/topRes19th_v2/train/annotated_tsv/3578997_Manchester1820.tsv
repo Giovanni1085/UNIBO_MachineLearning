@@ -1,0 +1,265 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Foreign Intelligence.
+1-1	0-7	Foreign	_	_	
+1-2	8-20	Intelligence	_	_	
+1-3	20-21	.	_	_	
+
+#Text=Paris, Jan. 15—Charles X. visited the Museum of the Louvre on Friday.
+2-1	23-28	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+2-2	28-29	,	_	_	
+2-3	30-33	Jan	_	_	
+2-4	33-34	.	_	_	
+2-5	35-37	15	_	_	
+2-6	37-38	—	_	_	
+2-7	38-45	Charles	_	_	
+2-8	46-47	X	_	_	
+2-9	47-48	.	_	_	
+2-10	49-56	visited	_	_	
+2-11	57-60	the	_	_	
+2-12	61-67	Museum	https://en.wikipedia.org/wiki/Louvre[1]	BUILDING[1]	
+2-13	68-70	of	https://en.wikipedia.org/wiki/Louvre[1]	BUILDING[1]	
+2-14	71-74	the	https://en.wikipedia.org/wiki/Louvre[1]	BUILDING[1]	
+2-15	75-81	Louvre	https://en.wikipedia.org/wiki/Louvre[1]	BUILDING[1]	
+2-16	82-84	on	_	_	
+2-17	85-91	Friday	_	_	
+2-18	91-92	.	_	_	
+
+#Text=He was received with boundless enthusiasm.
+3-1	93-95	He	_	_	
+3-2	96-99	was	_	_	
+3-3	100-108	received	_	_	
+3-4	109-113	with	_	_	
+3-5	114-123	boundless	_	_	
+3-6	124-134	enthusiasm	_	_	
+3-7	134-135	.	_	_	
+
+#Text=An address was read to his Majesty, in which he was successively compared to Louis XIV.
+4-1	136-138	An	_	_	
+4-2	139-146	address	_	_	
+4-3	147-150	was	_	_	
+4-4	151-155	read	_	_	
+4-5	156-158	to	_	_	
+4-6	159-162	his	_	_	
+4-7	163-170	Majesty	_	_	
+4-8	170-171	,	_	_	
+4-9	172-174	in	_	_	
+4-10	175-180	which	_	_	
+4-11	181-183	he	_	_	
+4-12	184-187	was	_	_	
+4-13	188-200	successively	_	_	
+4-14	201-209	compared	_	_	
+4-15	210-212	to	_	_	
+4-16	213-218	Louis	_	_	
+4-17	219-222	XIV	_	_	
+4-18	222-223	.	_	_	
+
+#Text=Henry IV. and Francis I.
+5-1	224-229	Henry	_	_	
+5-2	230-232	IV	_	_	
+5-3	232-233	.	_	_	
+5-4	234-237	and	_	_	
+5-5	238-245	Francis	_	_	
+5-6	246-247	I	_	_	
+5-7	247-248	.	_	_	
+
+#Text=In his reply, the King said the protection of the arts would always be one of the objects most dear to him.
+6-1	249-251	In	_	_	
+6-2	252-255	his	_	_	
+6-3	256-261	reply	_	_	
+6-4	261-262	,	_	_	
+6-5	263-266	the	_	_	
+6-6	267-271	King	_	_	
+6-7	272-276	said	_	_	
+6-8	277-280	the	_	_	
+6-9	281-291	protection	_	_	
+6-10	292-294	of	_	_	
+6-11	295-298	the	_	_	
+6-12	299-303	arts	_	_	
+6-13	304-309	would	_	_	
+6-14	310-316	always	_	_	
+6-15	317-319	be	_	_	
+6-16	320-323	one	_	_	
+6-17	324-326	of	_	_	
+6-18	327-330	the	_	_	
+6-19	331-338	objects	_	_	
+6-20	339-343	most	_	_	
+6-21	344-348	dear	_	_	
+6-22	349-351	to	_	_	
+6-23	352-355	him	_	_	
+6-24	355-356	.	_	_	
+
+#Text=He then distributed a great many decorations of the Legion of Honour among the painters, sculptors and engravers who were present Our countryman Mr T.
+7-1	357-359	He	_	_	
+7-2	360-364	then	_	_	
+7-3	365-376	distributed	_	_	
+7-4	377-378	a	_	_	
+7-5	379-384	great	_	_	
+7-6	385-389	many	_	_	
+7-7	390-401	decorations	_	_	
+7-8	402-404	of	_	_	
+7-9	405-408	the	_	_	
+7-10	409-415	Legion	_	_	
+7-11	416-418	of	_	_	
+7-12	419-425	Honour	_	_	
+7-13	426-431	among	_	_	
+7-14	432-435	the	_	_	
+7-15	436-444	painters	_	_	
+7-16	444-445	,	_	_	
+7-17	446-455	sculptors	_	_	
+7-18	456-459	and	_	_	
+7-19	460-469	engravers	_	_	
+7-20	470-473	who	_	_	
+7-21	474-478	were	_	_	
+7-22	479-486	present	_	_	
+7-23	487-490	Our	_	_	
+7-24	491-501	countryman	_	_	
+7-25	502-504	Mr	_	_	
+7-26	505-506	T	_	_	
+7-27	506-507	.	_	_	
+
+#Text=Lawrence was nominated a Knight of the Legion of Honour.
+8-1	508-516	Lawrence	_	_	
+8-2	517-520	was	_	_	
+8-3	521-530	nominated	_	_	
+8-4	531-532	a	_	_	
+8-5	533-539	Knight	_	_	
+8-6	540-542	of	_	_	
+8-7	543-546	the	_	_	
+8-8	547-553	Legion	_	_	
+8-9	554-556	of	_	_	
+8-10	557-563	Honour	_	_	
+8-11	563-564	.	_	_	
+
+#Text=Vienna, Dec. 30—Mr.
+9-1	565-571	Vienna	https://en.wikipedia.org/wiki/Vienna	LOC	
+9-2	571-572	,	_	_	
+9-3	573-576	Dec	_	_	
+9-4	576-577	.	_	_	
+9-5	578-580	30	_	_	
+9-6	580-581	—	_	_	
+9-7	581-583	Mr	_	_	
+9-8	583-584	.	_	_	
+
+#Text=Stratford Canning, British Ambassador to the Court of Russia, has had a private audience of the Emperor.
+10-1	585-594	Stratford	_	_	
+10-2	595-602	Canning	_	_	
+10-3	602-603	,	_	_	
+10-4	604-611	British	_	_	
+10-5	612-622	Ambassador	_	_	
+10-6	623-625	to	_	_	
+10-7	626-629	the	_	_	
+10-8	630-635	Court	_	_	
+10-9	636-638	of	_	_	
+10-10	639-645	Russia	https://en.wikipedia.org/wiki/Russia	LOC	
+10-11	645-646	,	_	_	
+10-12	647-650	has	_	_	
+10-13	651-654	had	_	_	
+10-14	655-656	a	_	_	
+10-15	657-664	private	_	_	
+10-16	665-673	audience	_	_	
+10-17	674-676	of	_	_	
+10-18	677-680	the	_	_	
+10-19	681-688	Emperor	_	_	
+10-20	688-689	.	_	_	
+
+#Text=His ExceUency was above an hour with his Majesty.
+11-1	690-693	His	_	_	
+11-2	694-703	ExceUency	_	_	
+11-3	704-707	was	_	_	
+11-4	708-713	above	_	_	
+11-5	714-716	an	_	_	
+11-6	717-721	hour	_	_	
+11-7	722-726	with	_	_	
+11-8	727-730	his	_	_	
+11-9	731-738	Majesty	_	_	
+11-10	738-739	.	_	_	
+
+#Text=Mr.
+12-1	740-742	Mr	_	_	
+12-2	742-743	.	_	_	
+
+#Text=Canning will set out very soon for St, Petersuurgh.
+13-1	744-751	Canning	_	_	
+13-2	752-756	will	_	_	
+13-3	757-760	set	_	_	
+13-4	761-764	out	_	_	
+13-5	765-769	very	_	_	
+13-6	770-774	soon	_	_	
+13-7	775-778	for	_	_	
+13-8	779-781	St	https://en.wikipedia.org/wiki/Saint\_Petersburg[2]	LOC[2]	
+13-9	781-782	,	https://en.wikipedia.org/wiki/Saint\_Petersburg[2]	LOC[2]	
+13-10	783-794	Petersuurgh	https://en.wikipedia.org/wiki/Saint\_Petersburg[2]	LOC[2]	
+13-11	794-795	.	_	_	
+
+#Text=Count Woronzow Daschkow, Minister Plenipotentiary of Russia at the Court of Bavaria, left this city the day before yesterday, to return to Munich.
+14-1	796-801	Count	_	_	
+14-2	802-810	Woronzow	_	_	
+14-3	811-819	Daschkow	_	_	
+14-4	819-820	,	_	_	
+14-5	821-829	Minister	_	_	
+14-6	830-845	Plenipotentiary	_	_	
+14-7	846-848	of	_	_	
+14-8	849-855	Russia	https://en.wikipedia.org/wiki/Russia	LOC	
+14-9	856-858	at	_	_	
+14-10	859-862	the	_	_	
+14-11	863-868	Court	_	_	
+14-12	869-871	of	_	_	
+14-13	872-879	Bavaria	https://en.wikipedia.org/wiki/Bavaria	LOC	
+14-14	879-880	,	_	_	
+14-15	881-885	left	_	_	
+14-16	886-890	this	_	_	
+14-17	891-895	city	_	_	
+14-18	896-899	the	_	_	
+14-19	900-903	day	_	_	
+14-20	904-910	before	_	_	
+14-21	911-920	yesterday	_	_	
+14-22	920-921	,	_	_	
+14-23	922-924	to	_	_	
+14-24	925-931	return	_	_	
+14-25	932-934	to	_	_	
+14-26	935-941	Munich	https://en.wikipedia.org/wiki/Munich	LOC	
+14-27	941-942	.	_	_	
+
+#Text=It is affirmed, that the departure of their Imperial Majesties for Italy, is fixed for the month of March; that they will pass the spring at Milan, and part of the summer at Venice.
+15-1	943-945	It	_	_	
+15-2	946-948	is	_	_	
+15-3	949-957	affirmed	_	_	
+15-4	957-958	,	_	_	
+15-5	959-963	that	_	_	
+15-6	964-967	the	_	_	
+15-7	968-977	departure	_	_	
+15-8	978-980	of	_	_	
+15-9	981-986	their	_	_	
+15-10	987-995	Imperial	_	_	
+15-11	996-1005	Majesties	_	_	
+15-12	1006-1009	for	_	_	
+15-13	1010-1015	Italy	https://en.wikipedia.org/wiki/Italy	LOC	
+15-14	1015-1016	,	_	_	
+15-15	1017-1019	is	_	_	
+15-16	1020-1025	fixed	_	_	
+15-17	1026-1029	for	_	_	
+15-18	1030-1033	the	_	_	
+15-19	1034-1039	month	_	_	
+15-20	1040-1042	of	_	_	
+15-21	1043-1048	March	_	_	
+15-22	1048-1049	;	_	_	
+15-23	1050-1054	that	_	_	
+15-24	1055-1059	they	_	_	
+15-25	1060-1064	will	_	_	
+15-26	1065-1069	pass	_	_	
+15-27	1070-1073	the	_	_	
+15-28	1074-1080	spring	_	_	
+15-29	1081-1083	at	_	_	
+15-30	1084-1089	Milan	https://en.wikipedia.org/wiki/Milan	LOC	
+15-31	1089-1090	,	_	_	
+15-32	1091-1094	and	_	_	
+15-33	1095-1099	part	_	_	
+15-34	1100-1102	of	_	_	
+15-35	1103-1106	the	_	_	
+15-36	1107-1113	summer	_	_	
+15-37	1114-1116	at	_	_	
+15-38	1117-1123	Venice	https://en.wikipedia.org/wiki/Venice	LOC	
+15-39	1123-1124	.	_	_	

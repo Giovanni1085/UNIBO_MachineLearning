@@ -1,0 +1,675 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CIRCULATING IN ASHTON-UNDER-LYNE, STALYBRIDGE, DUKINFIELD, MOSSLEY, HYDE, MOTTRAM, GORTON, OPENSHAW, DROYLSDEN DENTON, HOOLEY HILL, AUDENSHAW, WATERLOO, BARDSLEY, NEWTON HEATH, LEES, HURST, &c., &c.
+1-1	2-13	CIRCULATING	_	_	
+1-2	14-16	IN	_	_	
+1-3	17-34	ASHTON-UNDER-LYNE	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+1-4	34-35	,	_	_	
+1-5	36-47	STALYBRIDGE	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+1-6	47-48	,	_	_	
+1-7	49-59	DUKINFIELD	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+1-8	59-60	,	_	_	
+1-9	61-68	MOSSLEY	https://en.wikipedia.org/wiki/Mossley	LOC	
+1-10	68-69	,	_	_	
+1-11	70-74	HYDE	https://en.wikipedia.org/wiki/Hyde,\_Greater\_Manchester	LOC	
+1-12	74-75	,	_	_	
+1-13	76-83	MOTTRAM	https://en.wikipedia.org/wiki/Mottram\_in\_Longdendale	LOC	
+1-14	83-84	,	_	_	
+1-15	85-91	GORTON	https://en.wikipedia.org/wiki/Gorton	LOC	
+1-16	91-92	,	_	_	
+1-17	93-101	OPENSHAW	Openshaw	LOC	
+1-18	101-102	,	_	_	
+1-19	103-112	DROYLSDEN	https://en.wikipedia.org/wiki/Droylsden	LOC	
+1-20	113-119	DENTON	https://en.wikipedia.org/wiki/Denton,\_Greater\_Manchester	LOC	
+1-21	119-120	,	_	_	
+1-22	121-127	HOOLEY	*[1]	LOC[1]	
+1-23	128-132	HILL	*[1]	LOC[1]	
+1-24	132-133	,	_	_	
+1-25	134-143	AUDENSHAW	https://en.wikipedia.org/wiki/Audenshaw	LOC	
+1-26	143-144	,	_	_	
+1-27	145-153	WATERLOO	https://en.wikipedia.org/wiki/Waterloo,\_Merseyside	LOC	
+1-28	153-154	,	_	_	
+1-29	155-163	BARDSLEY	https://en.wikipedia.org/wiki/Bardsley,\_Greater\_Manchester	LOC	
+1-30	163-164	,	_	_	
+1-31	165-171	NEWTON	https://en.wikipedia.org/wiki/Newton\_Heath[2]	LOC[2]	
+1-32	172-177	HEATH	https://en.wikipedia.org/wiki/Newton\_Heath[2]	LOC[2]	
+1-33	177-178	,	_	_	
+1-34	179-183	LEES	https://en.wikipedia.org/wiki/Lees,\_Greater\_Manchester	LOC	
+1-35	183-184	,	_	_	
+1-36	185-190	HURST	*	LOC	
+1-37	190-191	,	_	_	
+1-38	192-193	&	_	_	
+1-39	193-194	c	_	_	
+1-40	194-195	.	_	_	
+1-41	195-196	,	_	_	
+1-42	197-198	&	_	_	
+1-43	198-199	c	_	_	
+1-44	199-200	.	_	_	
+
+#Text=No. 634.
+2-1	202-204	No	_	_	
+2-2	204-205	.	_	_	
+2-3	206-209	634	_	_	
+2-4	209-210	.	_	_	
+
+#Text=—VOLUME XIIL 
+#Text=Public Notices.
+3-1	210-211	—	_	_	
+3-2	211-217	VOLUME	_	_	
+3-3	218-222	XIIL	_	_	
+3-4	224-230	Public	_	_	
+3-5	231-238	Notices	_	_	
+3-6	238-239	.	_	_	
+
+#Text=FOUND, a WAGGON SHEET.
+4-1	241-246	FOUND	_	_	
+4-2	246-247	,	_	_	
+4-3	248-249	a	_	_	
+4-4	250-256	WAGGON	_	_	
+4-5	257-262	SHEET	_	_	
+4-6	262-263	.	_	_	
+
+#Text=—The owner may have it by describing it and paying expenses.— Apply to Emanuel Kemp, Station Hotel.
+5-1	263-264	—	_	_	
+5-2	264-267	The	_	_	
+5-3	268-273	owner	_	_	
+5-4	274-277	may	_	_	
+5-5	278-282	have	_	_	
+5-6	283-285	it	_	_	
+5-7	286-288	by	_	_	
+5-8	289-299	describing	_	_	
+5-9	300-302	it	_	_	
+5-10	303-306	and	_	_	
+5-11	307-313	paying	_	_	
+5-12	314-322	expenses	_	_	
+5-13	322-323	.	_	_	
+5-14	323-324	—	_	_	
+5-15	325-330	Apply	_	_	
+5-16	331-333	to	_	_	
+5-17	334-341	Emanuel	_	_	
+5-18	342-346	Kemp	_	_	
+5-19	346-347	,	_	_	
+5-20	348-355	Station	*[3]	BUILDING[3]	
+5-21	356-361	Hotel	*[3]	BUILDING[3]	
+5-22	361-362	.	_	_	
+
+#Text=FOUND, a Cross-bred SHEEP CUR.
+6-1	364-369	FOUND	_	_	
+6-2	369-370	,	_	_	
+6-3	371-372	a	_	_	
+6-4	373-383	Cross-bred	_	_	
+6-5	384-389	SHEEP	_	_	
+6-6	390-393	CUR	_	_	
+6-7	393-394	.	_	_	
+
+#Text=—If not owned in seven days will be sold.
+7-1	394-395	—	_	_	
+7-2	395-397	If	_	_	
+7-3	398-401	not	_	_	
+7-4	402-407	owned	_	_	
+7-5	408-410	in	_	_	
+7-6	411-416	seven	_	_	
+7-7	417-421	days	_	_	
+7-8	422-426	will	_	_	
+7-9	427-429	be	_	_	
+7-10	430-434	sold	_	_	
+7-11	434-435	.	_	_	
+
+#Text=—Apply to Mrs.
+8-1	435-436	—	_	_	
+8-2	436-441	Apply	_	_	
+8-3	442-444	to	_	_	
+8-4	445-448	Mrs	_	_	
+8-5	448-449	.	_	_	
+
+#Text=Betty Turner, Beestow, near Mossley.
+9-1	450-455	Betty	_	_	
+9-2	456-462	Turner	_	_	
+9-3	462-463	,	_	_	
+9-4	464-471	Beestow	*	LOC	
+9-5	471-472	,	_	_	
+9-6	473-477	near	_	_	
+9-7	478-485	Mossley	https://en.wikipedia.org/wiki/Mossley	LOC	
+9-8	485-486	.	_	_	
+
+#Text=FOUND, on the 23rd ultimo, a Liver-coloured Tall DOG.
+10-1	488-493	FOUND	_	_	
+10-2	493-494	,	_	_	
+10-3	495-497	on	_	_	
+10-4	498-501	the	_	_	
+10-5	502-506	23rd	_	_	
+10-6	507-513	ultimo	_	_	
+10-7	513-514	,	_	_	
+10-8	515-516	a	_	_	
+10-9	517-531	Liver-coloured	_	_	
+10-10	532-536	Tall	_	_	
+10-11	537-540	DOG	_	_	
+10-12	540-541	.	_	_	
+
+#Text=—Apply to James Ashworth, Tumerlane.
+11-1	541-542	—	_	_	
+11-2	542-547	Apply	_	_	
+11-3	548-550	to	_	_	
+11-4	551-556	James	_	_	
+11-5	557-565	Ashworth	_	_	
+11-6	565-566	,	_	_	
+11-7	567-576	Tumerlane	*	LOC	
+11-8	576-577	.	_	_	
+
+#Text=—lf not owned in seven days will be sold.
+12-1	577-578	—	_	_	
+12-2	578-580	lf	_	_	
+12-3	581-584	not	_	_	
+12-4	585-590	owned	_	_	
+12-5	591-593	in	_	_	
+12-6	594-599	seven	_	_	
+12-7	600-604	days	_	_	
+12-8	605-609	will	_	_	
+12-9	610-612	be	_	_	
+12-10	613-617	sold	_	_	
+12-11	617-618	.	_	_	
+
+#Text=FOUND, on the 17th, a BLACK SETTER BITCH, with a white spot on breast.
+13-1	620-625	FOUND	_	_	
+13-2	625-626	,	_	_	
+13-3	627-629	on	_	_	
+13-4	630-633	the	_	_	
+13-5	634-638	17th	_	_	
+13-6	638-639	,	_	_	
+13-7	640-641	a	_	_	
+13-8	642-647	BLACK	_	_	
+13-9	648-654	SETTER	_	_	
+13-10	655-660	BITCH	_	_	
+13-11	660-661	,	_	_	
+13-12	662-666	with	_	_	
+13-13	667-668	a	_	_	
+13-14	669-674	white	_	_	
+13-15	675-679	spot	_	_	
+13-16	680-682	on	_	_	
+13-17	683-689	breast	_	_	
+13-18	689-690	.	_	_	
+
+#Text=If not owned in seven days from this date it will be sold to defray expenses.
+14-1	691-693	If	_	_	
+14-2	694-697	not	_	_	
+14-3	698-703	owned	_	_	
+14-4	704-706	in	_	_	
+14-5	707-712	seven	_	_	
+14-6	713-717	days	_	_	
+14-7	718-722	from	_	_	
+14-8	723-727	this	_	_	
+14-9	728-732	date	_	_	
+14-10	733-735	it	_	_	
+14-11	736-740	will	_	_	
+14-12	741-743	be	_	_	
+14-13	744-748	sold	_	_	
+14-14	749-751	to	_	_	
+14-15	752-758	defray	_	_	
+14-16	759-767	expenses	_	_	
+14-17	767-768	.	_	_	
+
+#Text=—Apply at 31, Bridge Eye-street, Dukinfleld.
+15-1	768-769	—	_	_	
+15-2	769-774	Apply	_	_	
+15-3	775-777	at	_	_	
+15-4	778-780	31	_	_	
+15-5	780-781	,	_	_	
+15-6	782-788	Bridge	*[4]	STREET[4]	
+15-7	789-799	Eye-street	*[4]	STREET[4]	
+15-8	799-800	,	_	_	
+15-9	801-811	Dukinfleld	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+15-10	811-812	.	_	_	
+
+#Text=SATURDAY, JUNE 1,1867.
+16-1	814-822	SATURDAY	_	_	
+16-2	822-823	,	_	_	
+16-3	824-828	JUNE	_	_	
+16-4	829-835	1,1867	_	_	
+16-5	835-836	.	_	_	
+
+#Text=Business Notices.
+17-1	838-846	Business	_	_	
+17-2	847-854	Notices	_	_	
+17-3	854-855	.	_	_	
+
+#Text=Andrew macbeth & sons’ fashionable tailoring establishment, on PICCADILLY, MANCHESTER, STANDS UNRIVALLED.
+18-1	857-863	Andrew	_	_	
+18-2	864-871	macbeth	_	_	
+18-3	872-873	&	_	_	
+18-4	874-878	sons	_	_	
+18-5	878-879	’	_	_	
+18-6	880-891	fashionable	_	_	
+18-7	892-901	tailoring	_	_	
+18-8	902-915	establishment	_	_	
+18-9	915-916	,	_	_	
+18-10	917-919	on	_	_	
+18-11	920-930	PICCADILLY	*	STREET	
+18-12	930-931	,	_	_	
+18-13	932-942	MANCHESTER	https://en.wikipedia.org/wiki/Manchester	LOC	
+18-14	942-943	,	_	_	
+18-15	944-950	STANDS	_	_	
+18-16	951-961	UNRIVALLED	_	_	
+18-17	961-962	.	_	_	
+
+#Text=Among the various successes of skill and enterprise that have been obtained in the respectable Clothing Trade none are more remarkable than that obtained by MACBETH & SONS in the production of their UNRIVALLED SOVEREIGN COATS, and better descriptions of Clothing generally.
+19-1	963-968	Among	_	_	
+19-2	969-972	the	_	_	
+19-3	973-980	various	_	_	
+19-4	981-990	successes	_	_	
+19-5	991-993	of	_	_	
+19-6	994-999	skill	_	_	
+19-7	1000-1003	and	_	_	
+19-8	1004-1014	enterprise	_	_	
+19-9	1015-1019	that	_	_	
+19-10	1020-1024	have	_	_	
+19-11	1025-1029	been	_	_	
+19-12	1030-1038	obtained	_	_	
+19-13	1039-1041	in	_	_	
+19-14	1042-1045	the	_	_	
+19-15	1046-1057	respectable	_	_	
+19-16	1058-1066	Clothing	_	_	
+19-17	1067-1072	Trade	_	_	
+19-18	1073-1077	none	_	_	
+19-19	1078-1081	are	_	_	
+19-20	1082-1086	more	_	_	
+19-21	1087-1097	remarkable	_	_	
+19-22	1098-1102	than	_	_	
+19-23	1103-1107	that	_	_	
+19-24	1108-1116	obtained	_	_	
+19-25	1117-1119	by	_	_	
+19-26	1120-1127	MACBETH	_	_	
+19-27	1128-1129	&	_	_	
+19-28	1130-1134	SONS	_	_	
+19-29	1135-1137	in	_	_	
+19-30	1138-1141	the	_	_	
+19-31	1142-1152	production	_	_	
+19-32	1153-1155	of	_	_	
+19-33	1156-1161	their	_	_	
+19-34	1162-1172	UNRIVALLED	_	_	
+19-35	1173-1182	SOVEREIGN	_	_	
+19-36	1183-1188	COATS	_	_	
+19-37	1188-1189	,	_	_	
+19-38	1190-1193	and	_	_	
+19-39	1194-1200	better	_	_	
+19-40	1201-1213	descriptions	_	_	
+19-41	1214-1216	of	_	_	
+19-42	1217-1225	Clothing	_	_	
+19-43	1226-1235	generally	_	_	
+19-44	1235-1236	.	_	_	
+
+#Text=They have been tried, appreciated, and approved of by all classes of this great community and the surrounding districts, and their regular and increasing sale proves that their success is not transcient.
+20-1	1237-1241	They	_	_	
+20-2	1242-1246	have	_	_	
+20-3	1247-1251	been	_	_	
+20-4	1252-1257	tried	_	_	
+20-5	1257-1258	,	_	_	
+20-6	1259-1270	appreciated	_	_	
+20-7	1270-1271	,	_	_	
+20-8	1272-1275	and	_	_	
+20-9	1276-1284	approved	_	_	
+20-10	1285-1287	of	_	_	
+20-11	1288-1290	by	_	_	
+20-12	1291-1294	all	_	_	
+20-13	1295-1302	classes	_	_	
+20-14	1303-1305	of	_	_	
+20-15	1306-1310	this	_	_	
+20-16	1311-1316	great	_	_	
+20-17	1317-1326	community	_	_	
+20-18	1327-1330	and	_	_	
+20-19	1331-1334	the	_	_	
+20-20	1335-1346	surrounding	_	_	
+20-21	1347-1356	districts	_	_	
+20-22	1356-1357	,	_	_	
+20-23	1358-1361	and	_	_	
+20-24	1362-1367	their	_	_	
+20-25	1368-1375	regular	_	_	
+20-26	1376-1379	and	_	_	
+20-27	1380-1390	increasing	_	_	
+20-28	1391-1395	sale	_	_	
+20-29	1396-1402	proves	_	_	
+20-30	1403-1407	that	_	_	
+20-31	1408-1413	their	_	_	
+20-32	1414-1421	success	_	_	
+20-33	1422-1424	is	_	_	
+20-34	1425-1428	not	_	_	
+20-35	1429-1439	transcient	_	_	
+20-36	1439-1440	.	_	_	
+
+#Text=To the middle classes particularly, the Proprietors will continue to devote their utmost attention in furnishing them with a decidedly better class of Clothing than is generally met with, and at infinitely less cost, as the following List of Prices will indicate;— GOOD BLACK COAT (unrivalled) ONE SOVEREIGN.
+21-1	1441-1443	To	_	_	
+21-2	1444-1447	the	_	_	
+21-3	1448-1454	middle	_	_	
+21-4	1455-1462	classes	_	_	
+21-5	1463-1475	particularly	_	_	
+21-6	1475-1476	,	_	_	
+21-7	1477-1480	the	_	_	
+21-8	1481-1492	Proprietors	_	_	
+21-9	1493-1497	will	_	_	
+21-10	1498-1506	continue	_	_	
+21-11	1507-1509	to	_	_	
+21-12	1510-1516	devote	_	_	
+21-13	1517-1522	their	_	_	
+21-14	1523-1529	utmost	_	_	
+21-15	1530-1539	attention	_	_	
+21-16	1540-1542	in	_	_	
+21-17	1543-1553	furnishing	_	_	
+21-18	1554-1558	them	_	_	
+21-19	1559-1563	with	_	_	
+21-20	1564-1565	a	_	_	
+21-21	1566-1575	decidedly	_	_	
+21-22	1576-1582	better	_	_	
+21-23	1583-1588	class	_	_	
+21-24	1589-1591	of	_	_	
+21-25	1592-1600	Clothing	_	_	
+21-26	1601-1605	than	_	_	
+21-27	1606-1608	is	_	_	
+21-28	1609-1618	generally	_	_	
+21-29	1619-1622	met	_	_	
+21-30	1623-1627	with	_	_	
+21-31	1627-1628	,	_	_	
+21-32	1629-1632	and	_	_	
+21-33	1633-1635	at	_	_	
+21-34	1636-1646	infinitely	_	_	
+21-35	1647-1651	less	_	_	
+21-36	1652-1656	cost	_	_	
+21-37	1656-1657	,	_	_	
+21-38	1658-1660	as	_	_	
+21-39	1661-1664	the	_	_	
+21-40	1665-1674	following	_	_	
+21-41	1675-1679	List	_	_	
+21-42	1680-1682	of	_	_	
+21-43	1683-1689	Prices	_	_	
+21-44	1690-1694	will	_	_	
+21-45	1695-1703	indicate	_	_	
+21-46	1703-1704	;	_	_	
+21-47	1704-1705	—	_	_	
+21-48	1706-1710	GOOD	_	_	
+21-49	1711-1716	BLACK	_	_	
+21-50	1717-1721	COAT	_	_	
+21-51	1722-1723	(	_	_	
+21-52	1723-1733	unrivalled	_	_	
+21-53	1733-1734	)	_	_	
+21-54	1735-1738	ONE	_	_	
+21-55	1739-1748	SOVEREIGN	_	_	
+21-56	1748-1749	.	_	_	
+
+#Text=Ditto ditto (superfine) 30s. to 355.
+22-1	1750-1755	Ditto	_	_	
+22-2	1756-1761	ditto	_	_	
+22-3	1762-1763	(	_	_	
+22-4	1763-1772	superfine	_	_	
+22-5	1772-1773	)	_	_	
+22-6	1774-1777	30s	_	_	
+22-7	1777-1778	.	_	_	
+22-8	1779-1781	to	_	_	
+22-9	1782-1785	355	_	_	
+22-10	1785-1786	.	_	_	
+
+#Text=Good Black Coat, Trousers, and Vest 60s. to 635.
+23-1	1787-1791	Good	_	_	
+23-2	1792-1797	Black	_	_	
+23-3	1798-1802	Coat	_	_	
+23-4	1802-1803	,	_	_	
+23-5	1804-1812	Trousers	_	_	
+23-6	1812-1813	,	_	_	
+23-7	1814-1817	and	_	_	
+23-8	1818-1822	Vest	_	_	
+23-9	1823-1826	60s	_	_	
+23-10	1826-1827	.	_	_	
+23-11	1828-1830	to	_	_	
+23-12	1831-1834	635	_	_	
+23-13	1834-1835	.	_	_	
+
+#Text=Ditto ditto ditto (superfine) 70s. to 80s.
+24-1	1836-1841	Ditto	_	_	
+24-2	1842-1847	ditto	_	_	
+24-3	1848-1853	ditto	_	_	
+24-4	1854-1855	(	_	_	
+24-5	1855-1864	superfine	_	_	
+24-6	1864-1865	)	_	_	
+24-7	1866-1869	70s	_	_	
+24-8	1869-1870	.	_	_	
+24-9	1871-1873	to	_	_	
+24-10	1874-1877	80s	_	_	
+24-11	1877-1878	.	_	_	
+
+#Text=Good Business Suits in strong Meltons or Tweeds 665. to 70s.
+25-1	1879-1883	Good	_	_	
+25-2	1884-1892	Business	_	_	
+25-3	1893-1898	Suits	_	_	
+25-4	1899-1901	in	_	_	
+25-5	1902-1908	strong	_	_	
+25-6	1909-1916	Meltons	_	_	
+25-7	1917-1919	or	_	_	
+25-8	1920-1926	Tweeds	_	_	
+25-9	1927-1930	665	_	_	
+25-10	1930-1931	.	_	_	
+25-11	1932-1934	to	_	_	
+25-12	1935-1938	70s	_	_	
+25-13	1938-1939	.	_	_	
+
+#Text=Summer Melton Overcoats in the Newest and most Fashionable Colours 255. to 425, In additi on to the above the Proprietors respectfully invite attention to their large and varied assortment of TROUSERINGS, suitable for the present season, in the Newest and Choicest Patterns, at prices varying from ONE POUND to TWENTY-FIVE SHILLINGS.
+26-1	1940-1946	Summer	_	_	
+26-2	1947-1953	Melton	_	_	
+26-3	1954-1963	Overcoats	_	_	
+26-4	1964-1966	in	_	_	
+26-5	1967-1970	the	_	_	
+26-6	1971-1977	Newest	_	_	
+26-7	1978-1981	and	_	_	
+26-8	1982-1986	most	_	_	
+26-9	1987-1998	Fashionable	_	_	
+26-10	1999-2006	Colours	_	_	
+26-11	2007-2010	255	_	_	
+26-12	2010-2011	.	_	_	
+26-13	2012-2014	to	_	_	
+26-14	2015-2018	425	_	_	
+26-15	2018-2019	,	_	_	
+26-16	2020-2022	In	_	_	
+26-17	2023-2029	additi	_	_	
+26-18	2030-2032	on	_	_	
+26-19	2033-2035	to	_	_	
+26-20	2036-2039	the	_	_	
+26-21	2040-2045	above	_	_	
+26-22	2046-2049	the	_	_	
+26-23	2050-2061	Proprietors	_	_	
+26-24	2062-2074	respectfully	_	_	
+26-25	2075-2081	invite	_	_	
+26-26	2082-2091	attention	_	_	
+26-27	2092-2094	to	_	_	
+26-28	2095-2100	their	_	_	
+26-29	2101-2106	large	_	_	
+26-30	2107-2110	and	_	_	
+26-31	2111-2117	varied	_	_	
+26-32	2118-2128	assortment	_	_	
+26-33	2129-2131	of	_	_	
+26-34	2132-2143	TROUSERINGS	_	_	
+26-35	2143-2144	,	_	_	
+26-36	2145-2153	suitable	_	_	
+26-37	2154-2157	for	_	_	
+26-38	2158-2161	the	_	_	
+26-39	2162-2169	present	_	_	
+26-40	2170-2176	season	_	_	
+26-41	2176-2177	,	_	_	
+26-42	2178-2180	in	_	_	
+26-43	2181-2184	the	_	_	
+26-44	2185-2191	Newest	_	_	
+26-45	2192-2195	and	_	_	
+26-46	2196-2204	Choicest	_	_	
+26-47	2205-2213	Patterns	_	_	
+26-48	2213-2214	,	_	_	
+26-49	2215-2217	at	_	_	
+26-50	2218-2224	prices	_	_	
+26-51	2225-2232	varying	_	_	
+26-52	2233-2237	from	_	_	
+26-53	2238-2241	ONE	_	_	
+26-54	2242-2247	POUND	_	_	
+26-55	2248-2250	to	_	_	
+26-56	2251-2262	TWENTY-FIVE	_	_	
+26-57	2263-2272	SHILLINGS	_	_	
+26-58	2272-2273	.	_	_	
+
+#Text=The Public are particularly requested to note the address, as they have no other Establishm* ANDREW MACBETH AND SONS, 27, PICCADILLY, MANCHESTER, OPPOSITE THE INFIRMARY CLOCK.
+27-1	2275-2278	The	_	_	
+27-2	2279-2285	Public	_	_	
+27-3	2286-2289	are	_	_	
+27-4	2290-2302	particularly	_	_	
+27-5	2303-2312	requested	_	_	
+27-6	2313-2315	to	_	_	
+27-7	2316-2320	note	_	_	
+27-8	2321-2324	the	_	_	
+27-9	2325-2332	address	_	_	
+27-10	2332-2333	,	_	_	
+27-11	2334-2336	as	_	_	
+27-12	2337-2341	they	_	_	
+27-13	2342-2346	have	_	_	
+27-14	2347-2349	no	_	_	
+27-15	2350-2355	other	_	_	
+27-16	2356-2366	Establishm	_	_	
+27-17	2366-2367	*	_	_	
+27-18	2368-2374	ANDREW	_	_	
+27-19	2375-2382	MACBETH	_	_	
+27-20	2383-2386	AND	_	_	
+27-21	2387-2391	SONS	_	_	
+27-22	2391-2392	,	_	_	
+27-23	2393-2395	27	_	_	
+27-24	2395-2396	,	_	_	
+27-25	2397-2407	PICCADILLY	*	STREET	
+27-26	2407-2408	,	_	_	
+27-27	2409-2419	MANCHESTER	https://en.wikipedia.org/wiki/Manchester	LOC	
+27-28	2419-2420	,	_	_	
+27-29	2421-2429	OPPOSITE	_	_	
+27-30	2430-2433	THE	_	_	
+27-31	2434-2443	INFIRMARY	*[5]	BUILDING[5]	
+27-32	2444-2449	CLOCK	*[5]	BUILDING[5]	
+27-33	2449-2450	.	_	_	
+
+#Text=it in Manchester. 
+#Text=]-PRICE THREE HALF-PENCE.
+28-1	2452-2454	it	_	_	
+28-2	2455-2457	in	_	_	
+28-3	2458-2468	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+28-4	2468-2469	.	_	_	
+28-5	2471-2472	]	_	_	
+28-6	2472-2473	-	_	_	
+28-7	2473-2478	PRICE	_	_	
+28-8	2479-2484	THREE	_	_	
+28-9	2485-2495	HALF-PENCE	_	_	
+28-10	2495-2496	.	_	_	
+
+#Text=Stalybridge Business Notices.
+29-1	2498-2509	Stalybridge	_	_	
+29-2	2510-2518	Business	_	_	
+29-3	2519-2526	Notices	_	_	
+29-4	2526-2527	.	_	_	
+
+#Text=GOOD ALE and PORTER may always be had at Mr.
+30-1	2529-2533	GOOD	_	_	
+30-2	2534-2537	ALE	_	_	
+30-3	2538-2541	and	_	_	
+30-4	2542-2548	PORTER	_	_	
+30-5	2549-2552	may	_	_	
+30-6	2553-2559	always	_	_	
+30-7	2560-2562	be	_	_	
+30-8	2563-2566	had	_	_	
+30-9	2567-2569	at	_	_	
+30-10	2570-2572	Mr	_	_	
+30-11	2572-2573	.	_	_	
+
+#Text=JAMES HADFIELD’S, Self-actor Minders’ Arms.
+31-1	2574-2579	JAMES	_	_	
+31-2	2580-2588	HADFIELD	_	_	
+31-3	2588-2589	’	_	_	
+31-4	2589-2590	S	_	_	
+31-5	2590-2591	,	_	_	
+31-6	2592-2602	Self-actor	_	_	
+31-7	2603-2610	Minders	*[6]	BUILDING[6]	
+31-8	2610-2611	’	*[6]	BUILDING[6]	
+31-9	2612-2616	Arms	*[6]	BUILDING[6]	
+31-10	2616-2617	.	_	_	
+
+#Text=Spring-street.
+32-1	2618-2631	Spring-street	*	STREET	
+32-2	2631-2632	.	_	_	
+
+#Text=Stalybrirlge.
+33-1	2633-2645	Stalybrirlge	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+33-2	2645-2646	.	_	_	
+
+#Text=ISAAC BARDSLEY, Estate and General Agent, Collector of Rents, <fcc., 34, Walmsley-street, Stalybridge.
+34-1	2648-2653	ISAAC	_	_	
+34-2	2654-2662	BARDSLEY	_	_	
+34-3	2662-2663	,	_	_	
+34-4	2664-2670	Estate	_	_	
+34-5	2671-2674	and	_	_	
+34-6	2675-2682	General	_	_	
+34-7	2683-2688	Agent	_	_	
+34-8	2688-2689	,	_	_	
+34-9	2690-2699	Collector	_	_	
+34-10	2700-2702	of	_	_	
+34-11	2703-2708	Rents	_	_	
+34-12	2708-2709	,	_	_	
+34-13	2710-2711	<	_	_	
+34-14	2711-2714	fcc	_	_	
+34-15	2714-2715	.	_	_	
+34-16	2715-2716	,	_	_	
+34-17	2717-2719	34	_	_	
+34-18	2719-2720	,	_	_	
+34-19	2721-2736	Walmsley-street	*	STREET	
+34-20	2736-2737	,	_	_	
+34-21	2738-2749	Stalybridge	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+34-22	2749-2750	.	_	_	
+
+#Text=JAMES THORPE, Dealer in all kinds of Saws, Back Saw Plates, Saw Handles, Files, &c.
+35-1	2752-2757	JAMES	_	_	
+35-2	2758-2764	THORPE	_	_	
+35-3	2764-2765	,	_	_	
+35-4	2766-2772	Dealer	_	_	
+35-5	2773-2775	in	_	_	
+35-6	2776-2779	all	_	_	
+35-7	2780-2785	kinds	_	_	
+35-8	2786-2788	of	_	_	
+35-9	2789-2793	Saws	_	_	
+35-10	2793-2794	,	_	_	
+35-11	2795-2799	Back	_	_	
+35-12	2800-2803	Saw	_	_	
+35-13	2804-2810	Plates	_	_	
+35-14	2810-2811	,	_	_	
+35-15	2812-2815	Saw	_	_	
+35-16	2816-2823	Handles	_	_	
+35-17	2823-2824	,	_	_	
+35-18	2825-2830	Files	_	_	
+35-19	2830-2831	,	_	_	
+35-20	2832-2833	&	_	_	
+35-21	2833-2834	c	_	_	
+35-22	2834-2835	.	_	_	
+
+#Text=Circular and other Saws Re-toothed, Hammered, Ac., 245, Highstreet, opposite St.
+36-1	2836-2844	Circular	_	_	
+36-2	2845-2848	and	_	_	
+36-3	2849-2854	other	_	_	
+36-4	2855-2859	Saws	_	_	
+36-5	2860-2870	Re-toothed	_	_	
+36-6	2870-2871	,	_	_	
+36-7	2872-2880	Hammered	_	_	
+36-8	2880-2881	,	_	_	
+36-9	2882-2884	Ac	_	_	
+36-10	2884-2885	.	_	_	
+36-11	2885-2886	,	_	_	
+36-12	2887-2890	245	_	_	
+36-13	2890-2891	,	_	_	
+36-14	2892-2902	Highstreet	*	STREET	
+36-15	2902-2903	,	_	_	
+36-16	2904-2912	opposite	_	_	
+36-17	2913-2915	St	*[7]	BUILDING[7]	
+36-18	2915-2916	.	*[7]	BUILDING[7]	
+
+#Text=John’s Church, Stalybridge.
+37-1	2917-2921	John	*[7]	BUILDING[7]	
+37-2	2921-2922	’	*[7]	BUILDING[7]	
+37-3	2922-2923	s	*[7]	BUILDING[7]	
+37-4	2924-2930	Church	*[7]	BUILDING[7]	
+37-5	2930-2931	,	_	_	
+37-6	2932-2943	Stalybridge	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+37-7	2943-2944	.	_	_	

@@ -1,0 +1,405 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE CHURCH.
+1-1	0-3	THE	_	_	
+1-2	4-10	CHURCH	_	_	
+1-3	10-11	.	_	_	
+
+#Text=Oxford, March s.
+2-1	13-19	Oxford	https://en.wikipedia.org/wiki/Oxford	LOC	
+2-2	19-20	,	_	_	
+2-3	21-26	March	_	_	
+2-4	27-28	s	_	_	
+2-5	28-29	.	_	_	
+
+#Text=—On Friday last Mr.
+3-1	29-30	—	_	_	
+3-2	30-32	On	_	_	
+3-3	33-39	Friday	_	_	
+3-4	40-44	last	_	_	
+3-5	45-47	Mr	_	_	
+3-6	47-48	.	_	_	
+
+#Text=Francis Dyson was elected to the Frost Scholarship, and Mr.
+4-1	49-56	Francis	_	_	
+4-2	57-62	Dyson	_	_	
+4-3	63-66	was	_	_	
+4-4	67-74	elected	_	_	
+4-5	75-77	to	_	_	
+4-6	78-81	the	_	_	
+4-7	82-87	Frost	_	_	
+4-8	88-99	Scholarship	_	_	
+4-9	99-100	,	_	_	
+4-10	101-104	and	_	_	
+4-11	105-107	Mr	_	_	
+4-12	107-108	.	_	_	
+
+#Text=Thomas Meyrick to the Wiltshire Scholarship at Corpus Christi College.
+5-1	109-115	Thomas	_	_	
+5-2	116-123	Meyrick	_	_	
+5-3	124-126	to	_	_	
+5-4	127-130	the	_	_	
+5-5	131-140	Wiltshire	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+5-6	141-152	Scholarship	_	_	
+5-7	153-155	at	_	_	
+5-8	156-162	Corpus	*[1]	BUILDING[1]	
+5-9	163-170	Christi	*[1]	BUILDING[1]	
+5-10	171-178	College	*[1]	BUILDING[1]	
+5-11	178-179	.	_	_	
+
+#Text=This day the following degrees were conferred Doctors in Civil Law—Edwin Maddy, Esq., Brasennose College, Judge of the Consistory Court in the diocese of Gloucester, Grand Compounder; Rev.
+6-1	180-184	This	_	_	
+6-2	185-188	day	_	_	
+6-3	189-192	the	_	_	
+6-4	193-202	following	_	_	
+6-5	203-210	degrees	_	_	
+6-6	211-215	were	_	_	
+6-7	216-225	conferred	_	_	
+6-8	226-233	Doctors	_	_	
+6-9	234-236	in	_	_	
+6-10	237-242	Civil	_	_	
+6-11	243-252	Law—Edwin	_	_	
+6-12	253-258	Maddy	_	_	
+6-13	258-259	,	_	_	
+6-14	260-263	Esq	_	_	
+6-15	263-264	.	_	_	
+6-16	264-265	,	_	_	
+6-17	266-276	Brasennose	_	_	
+6-18	277-284	College	_	_	
+6-19	284-285	,	_	_	
+6-20	286-291	Judge	_	_	
+6-21	292-294	of	_	_	
+6-22	295-298	the	_	_	
+6-23	299-309	Consistory	_	_	
+6-24	310-315	Court	_	_	
+6-25	316-318	in	_	_	
+6-26	319-322	the	_	_	
+6-27	323-330	diocese	_	_	
+6-28	331-333	of	_	_	
+6-29	334-344	Gloucester	https://en.wikipedia.org/wiki/Gloucester	LOC	
+6-30	344-345	,	_	_	
+6-31	346-351	Grand	_	_	
+6-32	352-362	Compounder	_	_	
+6-33	362-363	;	_	_	
+6-34	364-367	Rev	_	_	
+6-35	367-368	.	_	_	
+
+#Text=James Duke Coleridge, Ballioi College, Prebendary of Exeter. _ Cambridge, March 3.
+7-1	369-374	James	_	_	
+7-2	375-379	Duke	_	_	
+7-3	380-389	Coleridge	_	_	
+7-4	389-390	,	_	_	
+7-5	391-398	Ballioi	_	_	
+7-6	399-406	College	_	_	
+7-7	406-407	,	_	_	
+7-8	408-418	Prebendary	_	_	
+7-9	419-421	of	_	_	
+7-10	422-428	Exeter	https://en.wikipedia.org/wiki/Exeter	LOC	
+7-11	428-429	.	_	_	
+7-12	430-431	_	_	_	
+7-13	432-441	Cambridge	https://en.wikipedia.org/wiki/Cambridge	LOC	
+7-14	441-442	,	_	_	
+7-15	443-448	March	_	_	
+7-16	449-450	3	_	_	
+7-17	450-451	.	_	_	
+
+#Text=—William Alexander Osborne, scholar of Trinity College, has been elected University Scholar on the Craven foundation.
+8-1	451-452	—	_	_	
+8-2	452-459	William	_	_	
+8-3	460-469	Alexander	_	_	
+8-4	470-477	Osborne	_	_	
+8-5	477-478	,	_	_	
+8-6	479-486	scholar	_	_	
+8-7	487-489	of	_	_	
+8-8	490-497	Trinity	*[2]	BUILDING[2]	
+8-9	498-505	College	*[2]	BUILDING[2]	
+8-10	505-506	,	_	_	
+8-11	507-510	has	_	_	
+8-12	511-515	been	_	_	
+8-13	516-523	elected	_	_	
+8-14	524-534	University	_	_	
+8-15	535-542	Scholar	_	_	
+8-16	543-545	on	_	_	
+8-17	546-549	the	_	_	
+8-18	550-556	Craven	_	_	
+8-19	557-567	foundation	_	_	
+8-20	567-568	.	_	_	
+
+#Text=—The Pitt scholarship has not yet been filled up. ihe examination for two Scholars on Dr.
+9-1	568-569	—	_	_	
+9-2	569-572	The	_	_	
+9-3	573-577	Pitt	_	_	
+9-4	578-589	scholarship	_	_	
+9-5	590-593	has	_	_	
+9-6	594-597	not	_	_	
+9-7	598-601	yet	_	_	
+9-8	602-606	been	_	_	
+9-9	607-613	filled	_	_	
+9-10	614-616	up	_	_	
+9-11	616-617	.	_	_	
+9-12	618-621	ihe	_	_	
+9-13	622-633	examination	_	_	
+9-14	634-637	for	_	_	
+9-15	638-641	two	_	_	
+9-16	642-650	Scholars	_	_	
+9-17	651-653	on	_	_	
+9-18	654-656	Dr	_	_	
+9-19	656-657	.	_	_	
+
+#Text=Bells foundation (the Candidates for wkich must be in their first year of admission) and the sons of orphans of Clergymen began this morning, and will continue throughout the week.
+10-1	658-663	Bells	_	_	
+10-2	664-674	foundation	_	_	
+10-3	675-676	(	_	_	
+10-4	676-679	the	_	_	
+10-5	680-690	Candidates	_	_	
+10-6	691-694	for	_	_	
+10-7	695-700	wkich	_	_	
+10-8	701-705	must	_	_	
+10-9	706-708	be	_	_	
+10-10	709-711	in	_	_	
+10-11	712-717	their	_	_	
+10-12	718-723	first	_	_	
+10-13	724-728	year	_	_	
+10-14	729-731	of	_	_	
+10-15	732-741	admission	_	_	
+10-16	741-742	)	_	_	
+10-17	743-746	and	_	_	
+10-18	747-750	the	_	_	
+10-19	751-755	sons	_	_	
+10-20	756-758	of	_	_	
+10-21	759-766	orphans	_	_	
+10-22	767-769	of	_	_	
+10-23	770-779	Clergymen	_	_	
+10-24	780-785	began	_	_	
+10-25	786-790	this	_	_	
+10-26	791-798	morning	_	_	
+10-27	798-799	,	_	_	
+10-28	800-803	and	_	_	
+10-29	804-808	will	_	_	
+10-30	809-817	continue	_	_	
+10-31	818-828	throughout	_	_	
+10-32	829-832	the	_	_	
+10-33	833-837	week	_	_	
+10-34	837-838	.	_	_	
+
+#Text=The admirers of learning and true genius, and every friend of tbe Church, will be gratified to hear that the Chancellor has conferred the living of St.
+11-1	839-842	The	_	_	
+11-2	843-851	admirers	_	_	
+11-3	852-854	of	_	_	
+11-4	855-863	learning	_	_	
+11-5	864-867	and	_	_	
+11-6	868-872	true	_	_	
+11-7	873-879	genius	_	_	
+11-8	879-880	,	_	_	
+11-9	881-884	and	_	_	
+11-10	885-890	every	_	_	
+11-11	891-897	friend	_	_	
+11-12	898-900	of	_	_	
+11-13	901-904	tbe	_	_	
+11-14	905-911	Church	_	_	
+11-15	911-912	,	_	_	
+11-16	913-917	will	_	_	
+11-17	918-920	be	_	_	
+11-18	921-930	gratified	_	_	
+11-19	931-933	to	_	_	
+11-20	934-938	hear	_	_	
+11-21	939-943	that	_	_	
+11-22	944-947	the	_	_	
+11-23	948-958	Chancellor	_	_	
+11-24	959-962	has	_	_	
+11-25	963-972	conferred	_	_	
+11-26	973-976	the	_	_	
+11-27	977-983	living	_	_	
+11-28	984-986	of	_	_	
+11-29	987-989	St	_	_	
+11-30	989-990	.	_	_	
+
+#Text=Stephens.
+12-1	991-999	Stephens	_	_	
+12-2	999-1000	.	_	_	
+
+#Text=Walbrook, upon the Rev.
+13-1	1001-1009	Walbrook	_	_	
+13-2	1009-1010	,	_	_	
+13-3	1011-1015	upon	_	_	
+13-4	1016-1019	the	_	_	
+13-5	1020-1023	Rev	_	_	
+13-6	1023-1024	.	_	_	
+
+#Text=George Croly, L.L.D., tbe Author of the work upon the Apocalypse and upon the Cycles of Revelation, as well as one of the most distinguished poets of our generation.
+14-1	1025-1031	George	_	_	
+14-2	1032-1037	Croly	_	_	
+14-3	1037-1038	,	_	_	
+14-4	1039-1044	L.L.D	_	_	
+14-5	1044-1045	.	_	_	
+14-6	1045-1046	,	_	_	
+14-7	1047-1050	tbe	_	_	
+14-8	1051-1057	Author	_	_	
+14-9	1058-1060	of	_	_	
+14-10	1061-1064	the	_	_	
+14-11	1065-1069	work	_	_	
+14-12	1070-1074	upon	_	_	
+14-13	1075-1078	the	_	_	
+14-14	1079-1089	Apocalypse	_	_	
+14-15	1090-1093	and	_	_	
+14-16	1094-1098	upon	_	_	
+14-17	1099-1102	the	_	_	
+14-18	1103-1109	Cycles	_	_	
+14-19	1110-1112	of	_	_	
+14-20	1113-1123	Revelation	_	_	
+14-21	1123-1124	,	_	_	
+14-22	1125-1127	as	_	_	
+14-23	1128-1132	well	_	_	
+14-24	1133-1135	as	_	_	
+14-25	1136-1139	one	_	_	
+14-26	1140-1142	of	_	_	
+14-27	1143-1146	the	_	_	
+14-28	1147-1151	most	_	_	
+14-29	1152-1165	distinguished	_	_	
+14-30	1166-1171	poets	_	_	
+14-31	1172-1174	of	_	_	
+14-32	1175-1178	our	_	_	
+14-33	1179-1189	generation	_	_	
+14-34	1189-1190	.	_	_	
+
+#Text=This is another step in practical Church Reform.
+15-1	1191-1195	This	_	_	
+15-2	1196-1198	is	_	_	
+15-3	1199-1206	another	_	_	
+15-4	1207-1211	step	_	_	
+15-5	1212-1214	in	_	_	
+15-6	1215-1224	practical	_	_	
+15-7	1225-1231	Church	_	_	
+15-8	1232-1238	Reform	_	_	
+15-9	1238-1239	.	_	_	
+
+#Text=Irish Church.
+16-1	1241-1246	Irish	_	_	
+16-2	1247-1253	Church	_	_	
+16-3	1253-1254	.	_	_	
+
+#Text=—The Second Report of the Commissioners of Inquiry into Ecclesiastical Revenues and Patronage in Ireland, addressed by the Commissioners to his Majesty, hat recently been printed.
+17-1	1254-1255	—	_	_	
+17-2	1255-1258	The	_	_	
+17-3	1259-1265	Second	_	_	
+17-4	1266-1272	Report	_	_	
+17-5	1273-1275	of	_	_	
+17-6	1276-1279	the	_	_	
+17-7	1280-1293	Commissioners	_	_	
+17-8	1294-1296	of	_	_	
+17-9	1297-1304	Inquiry	_	_	
+17-10	1305-1309	into	_	_	
+17-11	1310-1324	Ecclesiastical	_	_	
+17-12	1325-1333	Revenues	_	_	
+17-13	1334-1337	and	_	_	
+17-14	1338-1347	Patronage	_	_	
+17-15	1348-1350	in	_	_	
+17-16	1351-1358	Ireland	_	_	
+17-17	1358-1359	,	_	_	
+17-18	1360-1369	addressed	_	_	
+17-19	1370-1372	by	_	_	
+17-20	1373-1376	the	_	_	
+17-21	1377-1390	Commissioners	_	_	
+17-22	1391-1393	to	_	_	
+17-23	1394-1397	his	_	_	
+17-24	1398-1405	Majesty	_	_	
+17-25	1405-1406	,	_	_	
+17-26	1407-1410	hat	_	_	
+17-27	1411-1419	recently	_	_	
+17-28	1420-1424	been	_	_	
+17-29	1425-1432	printed	_	_	
+17-30	1432-1433	.	_	_	
+
+#Text=This report is coufined to Revenue and Patronage under three heais:—l.
+18-1	1434-1438	This	_	_	
+18-2	1439-1445	report	_	_	
+18-3	1446-1448	is	_	_	
+18-4	1449-1457	coufined	_	_	
+18-5	1458-1460	to	_	_	
+18-6	1461-1468	Revenue	_	_	
+18-7	1469-1472	and	_	_	
+18-8	1473-1482	Patronage	_	_	
+18-9	1483-1488	under	_	_	
+18-10	1489-1494	three	_	_	
+18-11	1495-1500	heais	_	_	
+18-12	1500-1501	:	_	_	
+18-13	1501-1502	—	_	_	
+18-14	1502-1503	l	_	_	
+18-15	1503-1504	.	_	_	
+
+#Text=Of all Collegiate and Cathedral Churches, and of all other ecclesiastical corporations connected therewith, such as minor canoories. vicars choralslups, &c. t.
+19-1	1505-1507	Of	_	_	
+19-2	1508-1511	all	_	_	
+19-3	1512-1522	Collegiate	_	_	
+19-4	1523-1526	and	_	_	
+19-5	1527-1536	Cathedral	_	_	
+19-6	1537-1545	Churches	_	_	
+19-7	1545-1546	,	_	_	
+19-8	1547-1550	and	_	_	
+19-9	1551-1553	of	_	_	
+19-10	1554-1557	all	_	_	
+19-11	1558-1563	other	_	_	
+19-12	1564-1578	ecclesiastical	_	_	
+19-13	1579-1591	corporations	_	_	
+19-14	1592-1601	connected	_	_	
+19-15	1602-1611	therewith	_	_	
+19-16	1611-1612	,	_	_	
+19-17	1613-1617	such	_	_	
+19-18	1618-1620	as	_	_	
+19-19	1621-1626	minor	_	_	
+19-20	1627-1636	canoories	_	_	
+19-21	1636-1637	.	_	_	
+19-22	1638-1644	vicars	_	_	
+19-23	1645-1656	choralslups	_	_	
+19-24	1656-1657	,	_	_	
+19-25	1658-1659	&	_	_	
+19-26	1659-1660	c	_	_	
+19-27	1660-1661	.	_	_	
+19-28	1662-1663	t	_	_	
+19-29	1663-1664	.	_	_	
+
+#Text=Of all dignitaries, such as Deans, Precentors, Chancellors, Treasurers, Archdeacons, Provosts, &c.
+20-1	1665-1667	Of	_	_	
+20-2	1668-1671	all	_	_	
+20-3	1672-1683	dignitaries	_	_	
+20-4	1683-1684	,	_	_	
+20-5	1685-1689	such	_	_	
+20-6	1690-1692	as	_	_	
+20-7	1693-1698	Deans	_	_	
+20-8	1698-1699	,	_	_	
+20-9	1700-1710	Precentors	_	_	
+20-10	1710-1711	,	_	_	
+20-11	1712-1723	Chancellors	_	_	
+20-12	1723-1724	,	_	_	
+20-13	1725-1735	Treasurers	_	_	
+20-14	1735-1736	,	_	_	
+20-15	1737-1748	Archdeacons	_	_	
+20-16	1748-1749	,	_	_	
+20-17	1750-1758	Provosts	_	_	
+20-18	1758-1759	,	_	_	
+20-19	1760-1761	&	_	_	
+20-20	1761-1762	c	_	_	
+20-21	1762-1763	.	_	_	
+
+#Text=S.
+21-1	1764-1765	S	_	_	
+21-2	1765-1766	.	_	_	
+
+#Text=Of all Prebendaries and Caucus of or belonging to Cathedral Churches in li eland.
+22-1	1767-1769	Of	_	_	
+22-2	1770-1773	all	_	_	
+22-3	1774-1786	Prebendaries	_	_	
+22-4	1787-1790	and	_	_	
+22-5	1791-1797	Caucus	_	_	
+22-6	1798-1800	of	_	_	
+22-7	1801-1803	or	_	_	
+22-8	1804-1813	belonging	_	_	
+22-9	1814-1816	to	_	_	
+22-10	1817-1826	Cathedral	_	_	
+22-11	1827-1835	Churches	_	_	
+22-12	1836-1838	in	_	_	
+22-13	1839-1841	li	_	_	
+22-14	1842-1847	eland	_	_	
+22-15	1847-1848	.	_	_	

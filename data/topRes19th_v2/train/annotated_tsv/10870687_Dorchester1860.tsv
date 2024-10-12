@@ -1,0 +1,374 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=JAMAICA.
+1-1	0-7	JAMAICA	https://en.wikipedia.org/wiki/Jamaica	LOC	
+1-2	7-8	.	_	_	
+
+#Text=Kingston, March 10.
+2-1	10-18	Kingston	https://en.wikipedia.org/wiki/Kingston,\_Jamaica	LOC	
+2-2	18-19	,	_	_	
+2-3	20-25	March	_	_	
+2-4	26-28	10	_	_	
+2-5	28-29	.	_	_	
+
+#Text=—The Commissioners have been sitting every day during the last fortnight, and have taken evidence upon the Gordon case, the state of the island at the time of the outbreak, and the conduct of the naval and military men employed in suppressing it.
+3-1	29-30	—	_	_	
+3-2	30-33	The	_	_	
+3-3	34-47	Commissioners	_	_	
+3-4	48-52	have	_	_	
+3-5	53-57	been	_	_	
+3-6	58-65	sitting	_	_	
+3-7	66-71	every	_	_	
+3-8	72-75	day	_	_	
+3-9	76-82	during	_	_	
+3-10	83-86	the	_	_	
+3-11	87-91	last	_	_	
+3-12	92-101	fortnight	_	_	
+3-13	101-102	,	_	_	
+3-14	103-106	and	_	_	
+3-15	107-111	have	_	_	
+3-16	112-117	taken	_	_	
+3-17	118-126	evidence	_	_	
+3-18	127-131	upon	_	_	
+3-19	132-135	the	_	_	
+3-20	136-142	Gordon	_	_	
+3-21	143-147	case	_	_	
+3-22	147-148	,	_	_	
+3-23	149-152	the	_	_	
+3-24	153-158	state	_	_	
+3-25	159-161	of	_	_	
+3-26	162-165	the	_	_	
+3-27	166-172	island	_	_	
+3-28	173-175	at	_	_	
+3-29	176-179	the	_	_	
+3-30	180-184	time	_	_	
+3-31	185-187	of	_	_	
+3-32	188-191	the	_	_	
+3-33	192-200	outbreak	_	_	
+3-34	200-201	,	_	_	
+3-35	202-205	and	_	_	
+3-36	206-209	the	_	_	
+3-37	210-217	conduct	_	_	
+3-38	218-220	of	_	_	
+3-39	221-224	the	_	_	
+3-40	225-230	naval	_	_	
+3-41	231-234	and	_	_	
+3-42	235-243	military	_	_	
+3-43	244-247	men	_	_	
+3-44	248-256	employed	_	_	
+3-45	257-259	in	_	_	
+3-46	260-271	suppressing	_	_	
+3-47	272-274	it	_	_	
+3-48	274-275	.	_	_	
+
+#Text=Mr.
+4-1	276-278	Mr	_	_	
+4-2	278-279	.	_	_	
+
+#Text=Russell Gurney, Q.C., has sat for four days by himself at Bath.
+5-1	280-287	Russell	_	_	
+5-2	288-294	Gurney	_	_	
+5-3	294-295	,	_	_	
+5-4	296-299	Q.C	_	_	
+5-5	299-300	.	_	_	
+5-6	300-301	,	_	_	
+5-7	302-305	has	_	_	
+5-8	306-309	sat	_	_	
+5-9	310-313	for	_	_	
+5-10	314-318	four	_	_	
+5-11	319-323	days	_	_	
+5-12	324-326	by	_	_	
+5-13	327-334	himself	_	_	
+5-14	335-337	at	_	_	
+5-15	338-342	Bath	https://en.wikipedia.org/wiki/Bath,\_Somerset	LOC	
+5-16	342-343	.	_	_	
+
+#Text=He examined a hundred and fifty witnesses, who spoke to acts of excess committed by the Maroons during martial law.
+6-1	344-346	He	_	_	
+6-2	347-355	examined	_	_	
+6-3	356-357	a	_	_	
+6-4	358-365	hundred	_	_	
+6-5	366-369	and	_	_	
+6-6	370-375	fifty	_	_	
+6-7	376-385	witnesses	_	_	
+6-8	385-386	,	_	_	
+6-9	387-390	who	_	_	
+6-10	391-396	spoke	_	_	
+6-11	397-399	to	_	_	
+6-12	400-404	acts	_	_	
+6-13	405-407	of	_	_	
+6-14	408-414	excess	_	_	
+6-15	415-424	committed	_	_	
+6-16	425-427	by	_	_	
+6-17	428-431	the	_	_	
+6-18	432-439	Maroons	_	_	
+6-19	440-446	during	_	_	
+6-20	447-454	martial	_	_	
+6-21	455-458	law	_	_	
+6-22	458-459	.	_	_	
+
+#Text=The naval and military officers have all been examined.
+7-1	460-463	The	_	_	
+7-2	464-469	naval	_	_	
+7-3	470-473	and	_	_	
+7-4	474-482	military	_	_	
+7-5	483-491	officers	_	_	
+7-6	492-496	have	_	_	
+7-7	497-500	all	_	_	
+7-8	501-505	been	_	_	
+7-9	506-514	examined	_	_	
+7-10	514-515	.	_	_	
+
+#Text=Their evidence was extremely satisfactory, and went to contradict a great part of the evidence given by the negro witnesses.
+8-1	516-521	Their	_	_	
+8-2	522-530	evidence	_	_	
+8-3	531-534	was	_	_	
+8-4	535-544	extremely	_	_	
+8-5	545-557	satisfactory	_	_	
+8-6	557-558	,	_	_	
+8-7	559-562	and	_	_	
+8-8	563-567	went	_	_	
+8-9	568-570	to	_	_	
+8-10	571-581	contradict	_	_	
+8-11	582-583	a	_	_	
+8-12	584-589	great	_	_	
+8-13	590-594	part	_	_	
+8-14	595-597	of	_	_	
+8-15	598-601	the	_	_	
+8-16	602-610	evidence	_	_	
+8-17	611-616	given	_	_	
+8-18	617-619	by	_	_	
+8-19	620-623	the	_	_	
+8-20	624-629	negro	_	_	
+8-21	630-639	witnesses	_	_	
+8-22	639-640	.	_	_	
+
+#Text=The evidence as to the state of the island occupied three days.
+9-1	641-644	The	_	_	
+9-2	645-653	evidence	_	_	
+9-3	654-656	as	_	_	
+9-4	657-659	to	_	_	
+9-5	660-663	the	_	_	
+9-6	664-669	state	_	_	
+9-7	670-672	of	_	_	
+9-8	673-676	the	_	_	
+9-9	677-683	island	_	_	
+9-10	684-692	occupied	_	_	
+9-11	693-698	three	_	_	
+9-12	699-703	days	_	_	
+9-13	703-704	.	_	_	
+
+#Text=No proof was given, or was attempted to be given, of the existence of an organised combination to overthrow the established authority ; but it has been made abundantly clear that at the time of the outbreak there was a widespread spirit of disaffection, and a general disposition and preparedness to join the insurgents.
+10-1	705-707	No	_	_	
+10-2	708-713	proof	_	_	
+10-3	714-717	was	_	_	
+10-4	718-723	given	_	_	
+10-5	723-724	,	_	_	
+10-6	725-727	or	_	_	
+10-7	728-731	was	_	_	
+10-8	732-741	attempted	_	_	
+10-9	742-744	to	_	_	
+10-10	745-747	be	_	_	
+10-11	748-753	given	_	_	
+10-12	753-754	,	_	_	
+10-13	755-757	of	_	_	
+10-14	758-761	the	_	_	
+10-15	762-771	existence	_	_	
+10-16	772-774	of	_	_	
+10-17	775-777	an	_	_	
+10-18	778-787	organised	_	_	
+10-19	788-799	combination	_	_	
+10-20	800-802	to	_	_	
+10-21	803-812	overthrow	_	_	
+10-22	813-816	the	_	_	
+10-23	817-828	established	_	_	
+10-24	829-838	authority	_	_	
+10-25	839-840	;	_	_	
+10-26	841-844	but	_	_	
+10-27	845-847	it	_	_	
+10-28	848-851	has	_	_	
+10-29	852-856	been	_	_	
+10-30	857-861	made	_	_	
+10-31	862-872	abundantly	_	_	
+10-32	873-878	clear	_	_	
+10-33	879-883	that	_	_	
+10-34	884-886	at	_	_	
+10-35	887-890	the	_	_	
+10-36	891-895	time	_	_	
+10-37	896-898	of	_	_	
+10-38	899-902	the	_	_	
+10-39	903-911	outbreak	_	_	
+10-40	912-917	there	_	_	
+10-41	918-921	was	_	_	
+10-42	922-923	a	_	_	
+10-43	924-934	widespread	_	_	
+10-44	935-941	spirit	_	_	
+10-45	942-944	of	_	_	
+10-46	945-957	disaffection	_	_	
+10-47	957-958	,	_	_	
+10-48	959-962	and	_	_	
+10-49	963-964	a	_	_	
+10-50	965-972	general	_	_	
+10-51	973-984	disposition	_	_	
+10-52	985-988	and	_	_	
+10-53	989-1001	preparedness	_	_	
+10-54	1002-1004	to	_	_	
+10-55	1005-1009	join	_	_	
+10-56	1010-1013	the	_	_	
+10-57	1014-1024	insurgents	_	_	
+10-58	1024-1025	.	_	_	
+
+#Text=It is expected that the inquiry will come to a conclusion in ten or twelve days.
+11-1	1026-1028	It	_	_	
+11-2	1029-1031	is	_	_	
+11-3	1032-1040	expected	_	_	
+11-4	1041-1045	that	_	_	
+11-5	1046-1049	the	_	_	
+11-6	1050-1057	inquiry	_	_	
+11-7	1058-1062	will	_	_	
+11-8	1063-1067	come	_	_	
+11-9	1068-1070	to	_	_	
+11-10	1071-1072	a	_	_	
+11-11	1073-1083	conclusion	_	_	
+11-12	1084-1086	in	_	_	
+11-13	1087-1090	ten	_	_	
+11-14	1091-1093	or	_	_	
+11-15	1094-1100	twelve	_	_	
+11-16	1101-1105	days	_	_	
+11-17	1105-1106	.	_	_	
+
+#Text=Gordon Ramsay, the provost marshal, has been brought before the magistrates on the charge of the murder of Marshall.
+12-1	1107-1113	Gordon	_	_	
+12-2	1114-1120	Ramsay	_	_	
+12-3	1120-1121	,	_	_	
+12-4	1122-1125	the	_	_	
+12-5	1126-1133	provost	_	_	
+12-6	1134-1141	marshal	_	_	
+12-7	1141-1142	,	_	_	
+12-8	1143-1146	has	_	_	
+12-9	1147-1151	been	_	_	
+12-10	1152-1159	brought	_	_	
+12-11	1160-1166	before	_	_	
+12-12	1167-1170	the	_	_	
+12-13	1171-1182	magistrates	_	_	
+12-14	1183-1185	on	_	_	
+12-15	1186-1189	the	_	_	
+12-16	1190-1196	charge	_	_	
+12-17	1197-1199	of	_	_	
+12-18	1200-1203	the	_	_	
+12-19	1204-1210	murder	_	_	
+12-20	1211-1213	of	_	_	
+12-21	1214-1222	Marshall	_	_	
+12-22	1222-1223	.	_	_	
+
+#Text=He was defended by Mr.
+13-1	1224-1226	He	_	_	
+13-2	1227-1230	was	_	_	
+13-3	1231-1239	defended	_	_	
+13-4	1240-1242	by	_	_	
+13-5	1243-1245	Mr	_	_	
+13-6	1245-1246	.	_	_	
+
+#Text=Williams, tbe advocate general, and, after deliberation and hearing the evidence and the arguments of counsel, the summons was dismissed.
+14-1	1247-1255	Williams	_	_	
+14-2	1255-1256	,	_	_	
+14-3	1257-1260	tbe	_	_	
+14-4	1261-1269	advocate	_	_	
+14-5	1270-1277	general	_	_	
+14-6	1277-1278	,	_	_	
+14-7	1279-1282	and	_	_	
+14-8	1282-1283	,	_	_	
+14-9	1284-1289	after	_	_	
+14-10	1290-1302	deliberation	_	_	
+14-11	1303-1306	and	_	_	
+14-12	1307-1314	hearing	_	_	
+14-13	1315-1318	the	_	_	
+14-14	1319-1327	evidence	_	_	
+14-15	1328-1331	and	_	_	
+14-16	1332-1335	the	_	_	
+14-17	1336-1345	arguments	_	_	
+14-18	1346-1348	of	_	_	
+14-19	1349-1356	counsel	_	_	
+14-20	1356-1357	,	_	_	
+14-21	1358-1361	the	_	_	
+14-22	1362-1369	summons	_	_	
+14-23	1370-1373	was	_	_	
+14-24	1374-1383	dismissed	_	_	
+14-25	1383-1384	.	_	_	
+
+#Text=The magistrates sat with closed doors, and assigned no ground for their decision.
+15-1	1385-1388	The	_	_	
+15-2	1389-1400	magistrates	_	_	
+15-3	1401-1404	sat	_	_	
+15-4	1405-1409	with	_	_	
+15-5	1410-1416	closed	_	_	
+15-6	1417-1422	doors	_	_	
+15-7	1422-1423	,	_	_	
+15-8	1424-1427	and	_	_	
+15-9	1428-1436	assigned	_	_	
+15-10	1437-1439	no	_	_	
+15-11	1440-1446	ground	_	_	
+15-12	1447-1450	for	_	_	
+15-13	1451-1456	their	_	_	
+15-14	1457-1465	decision	_	_	
+15-15	1465-1466	.	_	_	
+
+#Text=The day afterwards Ramsay was again arrested, upon a warrant issued by the Attorney General, for the same offence.
+16-1	1467-1470	The	_	_	
+16-2	1471-1474	day	_	_	
+16-3	1475-1485	afterwards	_	_	
+16-4	1486-1492	Ramsay	_	_	
+16-5	1493-1496	was	_	_	
+16-6	1497-1502	again	_	_	
+16-7	1503-1511	arrested	_	_	
+16-8	1511-1512	,	_	_	
+16-9	1513-1517	upon	_	_	
+16-10	1518-1519	a	_	_	
+16-11	1520-1527	warrant	_	_	
+16-12	1528-1534	issued	_	_	
+16-13	1535-1537	by	_	_	
+16-14	1538-1541	the	_	_	
+16-15	1542-1550	Attorney	_	_	
+16-16	1551-1558	General	_	_	
+16-17	1558-1559	,	_	_	
+16-18	1560-1563	for	_	_	
+16-19	1564-1567	the	_	_	
+16-20	1568-1572	same	_	_	
+16-21	1573-1580	offence	_	_	
+16-22	1580-1581	.	_	_	
+
+#Text=He has been bailed in £1,000 by Dr.
+17-1	1582-1584	He	_	_	
+17-2	1585-1588	has	_	_	
+17-3	1589-1593	been	_	_	
+17-4	1594-1600	bailed	_	_	
+17-5	1601-1603	in	_	_	
+17-6	1604-1610	£1,000	_	_	
+17-7	1611-1613	by	_	_	
+17-8	1614-1616	Dr	_	_	
+17-9	1616-1617	.	_	_	
+
+#Text=Hamilton, a member of the Executive Committee.
+18-1	1618-1626	Hamilton	_	_	
+18-2	1626-1627	,	_	_	
+18-3	1628-1629	a	_	_	
+18-4	1630-1636	member	_	_	
+18-5	1637-1639	of	_	_	
+18-6	1640-1643	the	_	_	
+18-7	1644-1653	Executive	_	_	
+18-8	1654-1663	Committee	_	_	
+18-9	1663-1664	.	_	_	
+
+#Text=His trial will not come on for three months.
+19-1	1665-1668	His	_	_	
+19-2	1669-1674	trial	_	_	
+19-3	1675-1679	will	_	_	
+19-4	1680-1683	not	_	_	
+19-5	1684-1688	come	_	_	
+19-6	1689-1691	on	_	_	
+19-7	1692-1695	for	_	_	
+19-8	1696-1701	three	_	_	
+19-9	1702-1708	months	_	_	
+19-10	1708-1709	.	_	_	

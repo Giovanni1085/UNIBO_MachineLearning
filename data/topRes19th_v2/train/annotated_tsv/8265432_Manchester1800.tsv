@@ -1,0 +1,405 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=AGRICULTURE.
+1-1	0-11	AGRICULTURE	_	_	
+1-2	11-12	.	_	_	
+
+#Text=MONTHLY REPORT FOR JULY.
+2-1	14-21	MONTHLY	_	_	
+2-2	22-28	REPORT	_	_	
+2-3	29-32	FOR	_	_	
+2-4	33-37	JULY	_	_	
+2-5	37-38	.	_	_	
+
+#Text=The harvest is commenced in many parts of the Eastern district, where all the Rye, and many pieces of Oats are a lready cut, and some wheat has been reaped on warm soils.
+3-1	39-42	The	_	_	
+3-2	43-50	harvest	_	_	
+3-3	51-53	is	_	_	
+3-4	54-63	commenced	_	_	
+3-5	64-66	in	_	_	
+3-6	67-71	many	_	_	
+3-7	72-77	parts	_	_	
+3-8	78-80	of	_	_	
+3-9	81-84	the	_	_	
+3-10	85-92	Eastern	_	_	
+3-11	93-101	district	_	_	
+3-12	101-102	,	_	_	
+3-13	103-108	where	_	_	
+3-14	109-112	all	_	_	
+3-15	113-116	the	_	_	
+3-16	117-120	Rye	_	_	
+3-17	120-121	,	_	_	
+3-18	122-125	and	_	_	
+3-19	126-130	many	_	_	
+3-20	131-137	pieces	_	_	
+3-21	138-140	of	_	_	
+3-22	141-145	Oats	_	_	
+3-23	146-149	are	_	_	
+3-24	150-151	a	_	_	
+3-25	152-158	lready	_	_	
+3-26	159-162	cut	_	_	
+3-27	162-163	,	_	_	
+3-28	164-167	and	_	_	
+3-29	168-172	some	_	_	
+3-30	173-178	wheat	_	_	
+3-31	179-182	has	_	_	
+3-32	183-187	been	_	_	
+3-33	188-194	reaped	_	_	
+3-34	195-197	on	_	_	
+3-35	198-202	warm	_	_	
+3-36	203-208	soils	_	_	
+3-37	208-209	.	_	_	
+
+#Text=In Cambridge and Huntingdonshire their crop of bread corn was never more promising.
+4-1	210-212	In	_	_	
+4-2	213-222	Cambridge	https://en.wikipedia.org/wiki/Cambridge	LOC	
+4-3	223-226	and	_	_	
+4-4	227-242	Huntingdonshire	https://en.wikipedia.org/wiki/Huntingdonshire	LOC	
+4-5	243-248	their	_	_	
+4-6	249-253	crop	_	_	
+4-7	254-256	of	_	_	
+4-8	257-262	bread	_	_	
+4-9	263-267	corn	_	_	
+4-10	268-271	was	_	_	
+4-11	272-277	never	_	_	
+4-12	278-282	more	_	_	
+4-13	283-292	promising	_	_	
+4-14	292-293	.	_	_	
+
+#Text=The corn in the Western counties, and most part of North Wales, is more free from infection than those of any other district that we have seen.
+5-1	294-297	The	_	_	
+5-2	298-302	corn	_	_	
+5-3	303-305	in	_	_	
+5-4	306-309	the	_	_	
+5-5	310-317	Western	_	_	
+5-6	318-326	counties	_	_	
+5-7	326-327	,	_	_	
+5-8	328-331	and	_	_	
+5-9	332-336	most	_	_	
+5-10	337-341	part	_	_	
+5-11	342-344	of	_	_	
+5-12	345-350	North	https://en.wikipedia.org/wiki/North\_Wales[1]	LOC[1]	
+5-13	351-356	Wales	https://en.wikipedia.org/wiki/North\_Wales[1]	LOC[1]	
+5-14	356-357	,	_	_	
+5-15	358-360	is	_	_	
+5-16	361-365	more	_	_	
+5-17	366-370	free	_	_	
+5-18	371-375	from	_	_	
+5-19	376-385	infection	_	_	
+5-20	386-390	than	_	_	
+5-21	391-396	those	_	_	
+5-22	397-399	of	_	_	
+5-23	400-403	any	_	_	
+5-24	404-409	other	_	_	
+5-25	410-418	district	_	_	
+5-26	419-423	that	_	_	
+5-27	424-426	we	_	_	
+5-28	427-431	have	_	_	
+5-29	432-436	seen	_	_	
+5-30	436-437	.	_	_	
+
+#Text=Oats and barley are likely to rise to a full average crop; and both beans and peas are well podded for abundant produce.
+6-1	438-442	Oats	_	_	
+6-2	443-446	and	_	_	
+6-3	447-453	barley	_	_	
+6-4	454-457	are	_	_	
+6-5	458-464	likely	_	_	
+6-6	465-467	to	_	_	
+6-7	468-472	rise	_	_	
+6-8	473-475	to	_	_	
+6-9	476-477	a	_	_	
+6-10	478-482	full	_	_	
+6-11	483-490	average	_	_	
+6-12	491-495	crop	_	_	
+6-13	495-496	;	_	_	
+6-14	497-500	and	_	_	
+6-15	501-505	both	_	_	
+6-16	506-511	beans	_	_	
+6-17	512-515	and	_	_	
+6-18	516-520	peas	_	_	
+6-19	521-524	are	_	_	
+6-20	525-529	well	_	_	
+6-21	530-536	podded	_	_	
+6-22	537-540	for	_	_	
+6-23	541-549	abundant	_	_	
+6-24	550-557	produce	_	_	
+6-25	557-558	.	_	_	
+
+#Text=Potatoes are likely to prove a large crop, and good in quality.
+7-1	559-567	Potatoes	_	_	
+7-2	568-571	are	_	_	
+7-3	572-578	likely	_	_	
+7-4	579-581	to	_	_	
+7-5	582-587	prove	_	_	
+7-6	588-589	a	_	_	
+7-7	590-595	large	_	_	
+7-8	596-600	crop	_	_	
+7-9	600-601	,	_	_	
+7-10	602-605	and	_	_	
+7-11	606-610	good	_	_	
+7-12	611-613	in	_	_	
+7-13	614-621	quality	_	_	
+7-14	621-622	.	_	_	
+
+#Text=Turnips have planted favourably every where.
+8-1	623-630	Turnips	_	_	
+8-2	631-635	have	_	_	
+8-3	636-643	planted	_	_	
+8-4	644-654	favourably	_	_	
+8-5	655-660	every	_	_	
+8-6	661-666	where	_	_	
+8-7	666-667	.	_	_	
+
+#Text=Hops are now securely set for a large and unusual crop ; the duty is laid at t!
+9-1	668-672	Hops	_	_	
+9-2	673-676	are	_	_	
+9-3	677-680	now	_	_	
+9-4	681-689	securely	_	_	
+9-5	690-693	set	_	_	
+9-6	694-697	for	_	_	
+9-7	698-699	a	_	_	
+9-8	700-705	large	_	_	
+9-9	706-709	and	_	_	
+9-10	710-717	unusual	_	_	
+9-11	718-722	crop	_	_	
+9-12	723-724	;	_	_	
+9-13	725-728	the	_	_	
+9-14	729-733	duty	_	_	
+9-15	734-736	is	_	_	
+9-16	737-741	laid	_	_	
+9-17	742-744	at	_	_	
+9-18	745-746	t	_	_	
+9-19	746-747	!	_	_	
+
+#Text=(V),tXK)I.
+10-1	747-748	(	_	_	
+10-2	748-749	V	_	_	
+10-3	749-750	)	_	_	
+10-4	750-751	,	_	_	
+10-5	751-754	tXK	_	_	
+10-6	754-755	)	_	_	
+10-7	755-756	I	_	_	
+10-8	756-757	.	_	_	
+
+#Text=The cyder counties of Devon and Herefordshire have lately lost their apples; in Worcestershire they reckon on a third of a crop.
+11-1	758-761	The	_	_	
+11-2	762-767	cyder	_	_	
+11-3	768-776	counties	_	_	
+11-4	777-779	of	_	_	
+11-5	780-785	Devon	https://en.wikipedia.org/wiki/Devon	LOC	
+11-6	786-789	and	_	_	
+11-7	790-803	Herefordshire	https://en.wikipedia.org/wiki/Herefordshire	LOC	
+11-8	804-808	have	_	_	
+11-9	809-815	lately	_	_	
+11-10	816-820	lost	_	_	
+11-11	821-826	their	_	_	
+11-12	827-833	apples	_	_	
+11-13	833-834	;	_	_	
+11-14	835-837	in	_	_	
+11-15	838-852	Worcestershire	https://en.wikipedia.org/wiki/Worcestershire	LOC	
+11-16	853-857	they	_	_	
+11-17	858-864	reckon	_	_	
+11-18	865-867	on	_	_	
+11-19	868-869	a	_	_	
+11-20	870-875	third	_	_	
+11-21	876-878	of	_	_	
+11-22	879-880	a	_	_	
+11-23	881-885	crop	_	_	
+11-24	885-886	.	_	_	
+
+#Text=The hay harvest in the North has sulfered considerably from the heavy rains, and is not yet closed.
+12-1	887-890	The	_	_	
+12-2	891-894	hay	_	_	
+12-3	895-902	harvest	_	_	
+12-4	903-905	in	_	_	
+12-5	906-909	the	_	_	
+12-6	910-915	North	_	_	
+12-7	916-919	has	_	_	
+12-8	920-928	sulfered	_	_	
+12-9	929-941	considerably	_	_	
+12-10	942-946	from	_	_	
+12-11	947-950	the	_	_	
+12-12	951-956	heavy	_	_	
+12-13	957-962	rains	_	_	
+12-14	962-963	,	_	_	
+12-15	964-967	and	_	_	
+12-16	968-970	is	_	_	
+12-17	971-974	not	_	_	
+12-18	975-978	yet	_	_	
+12-19	979-985	closed	_	_	
+12-20	985-986	.	_	_	
+
+#Text=Smithfield has been rather thinly supplied through the month with good beef, mutton, and iamb, and high prices are still sustained in consequence.
+13-1	987-997	Smithfield	_	_	
+13-2	998-1001	has	_	_	
+13-3	1002-1006	been	_	_	
+13-4	1007-1013	rather	_	_	
+13-5	1014-1020	thinly	_	_	
+13-6	1021-1029	supplied	_	_	
+13-7	1030-1037	through	_	_	
+13-8	1038-1041	the	_	_	
+13-9	1042-1047	month	_	_	
+13-10	1048-1052	with	_	_	
+13-11	1053-1057	good	_	_	
+13-12	1058-1062	beef	_	_	
+13-13	1062-1063	,	_	_	
+13-14	1064-1070	mutton	_	_	
+13-15	1070-1071	,	_	_	
+13-16	1072-1075	and	_	_	
+13-17	1076-1080	iamb	_	_	
+13-18	1080-1081	,	_	_	
+13-19	1082-1085	and	_	_	
+13-20	1086-1090	high	_	_	
+13-21	1091-1097	prices	_	_	
+13-22	1098-1101	are	_	_	
+13-23	1102-1107	still	_	_	
+13-24	1108-1117	sustained	_	_	
+13-25	1118-1120	in	_	_	
+13-26	1121-1132	consequence	_	_	
+13-27	1132-1133	.	_	_	
+
+#Text=The Eastern and Northern fairs have had large shews of lean cattle, and a reduction of price has taken place, particularly in Scotch runts, and Irish steers.
+14-1	1134-1137	The	_	_	
+14-2	1138-1145	Eastern	_	_	
+14-3	1146-1149	and	_	_	
+14-4	1150-1158	Northern	_	_	
+14-5	1159-1164	fairs	_	_	
+14-6	1165-1169	have	_	_	
+14-7	1170-1173	had	_	_	
+14-8	1174-1179	large	_	_	
+14-9	1180-1185	shews	_	_	
+14-10	1186-1188	of	_	_	
+14-11	1189-1193	lean	_	_	
+14-12	1194-1200	cattle	_	_	
+14-13	1200-1201	,	_	_	
+14-14	1202-1205	and	_	_	
+14-15	1206-1207	a	_	_	
+14-16	1208-1217	reduction	_	_	
+14-17	1218-1220	of	_	_	
+14-18	1221-1226	price	_	_	
+14-19	1227-1230	has	_	_	
+14-20	1231-1236	taken	_	_	
+14-21	1237-1242	place	_	_	
+14-22	1242-1243	,	_	_	
+14-23	1244-1256	particularly	_	_	
+14-24	1257-1259	in	_	_	
+14-25	1260-1266	Scotch	_	_	
+14-26	1267-1272	runts	_	_	
+14-27	1272-1273	,	_	_	
+14-28	1274-1277	and	_	_	
+14-29	1278-1283	Irish	_	_	
+14-30	1284-1290	steers	_	_	
+14-31	1290-1291	.	_	_	
+
+#Text=Store sheep and lambs are in demand, and fetch more money.
+15-1	1292-1297	Store	_	_	
+15-2	1298-1303	sheep	_	_	
+15-3	1304-1307	and	_	_	
+15-4	1308-1313	lambs	_	_	
+15-5	1314-1317	are	_	_	
+15-6	1318-1320	in	_	_	
+15-7	1321-1327	demand	_	_	
+15-8	1327-1328	,	_	_	
+15-9	1329-1332	and	_	_	
+15-10	1333-1338	fetch	_	_	
+15-11	1339-1343	more	_	_	
+15-12	1344-1349	money	_	_	
+15-13	1349-1350	.	_	_	
+
+#Text=The wool markets are very brisk.
+16-1	1351-1354	The	_	_	
+16-2	1355-1359	wool	_	_	
+16-3	1360-1367	markets	_	_	
+16-4	1368-1371	are	_	_	
+16-5	1372-1376	very	_	_	
+16-6	1377-1382	brisk	_	_	
+16-7	1382-1383	.	_	_	
+
+#Text=The Down wool has reached 22d. per 11). and the prime long fleece 18d.
+17-1	1384-1387	The	_	_	
+17-2	1388-1392	Down	_	_	
+17-3	1393-1397	wool	_	_	
+17-4	1398-1401	has	_	_	
+17-5	1402-1409	reached	_	_	
+17-6	1410-1413	22d	_	_	
+17-7	1413-1414	.	_	_	
+17-8	1415-1418	per	_	_	
+17-9	1419-1421	11	_	_	
+17-10	1421-1422	)	_	_	
+17-11	1422-1423	.	_	_	
+17-12	1424-1427	and	_	_	
+17-13	1428-1431	the	_	_	
+17-14	1432-1437	prime	_	_	
+17-15	1438-1442	long	_	_	
+17-16	1443-1449	fleece	_	_	
+17-17	1450-1453	18d	_	_	
+17-18	1453-1454	.	_	_	
+
+#Text=The rye crops in the county of Cambridge are uncommonly fine ; several farmers have begun to carry them.
+18-1	1455-1458	The	_	_	
+18-2	1459-1462	rye	_	_	
+18-3	1463-1468	crops	_	_	
+18-4	1469-1471	in	_	_	
+18-5	1472-1475	the	_	_	
+18-6	1476-1482	county	_	_	
+18-7	1483-1485	of	_	_	
+18-8	1486-1495	Cambridge	https://en.wikipedia.org/wiki/Cambridgeshire	LOC	
+18-9	1496-1499	are	_	_	
+18-10	1500-1510	uncommonly	_	_	
+18-11	1511-1515	fine	_	_	
+18-12	1516-1517	;	_	_	
+18-13	1518-1525	several	_	_	
+18-14	1526-1533	farmers	_	_	
+18-15	1534-1538	have	_	_	
+18-16	1539-1544	begun	_	_	
+18-17	1545-1547	to	_	_	
+18-18	1548-1553	carry	_	_	
+18-19	1554-1558	them	_	_	
+18-20	1558-1559	.	_	_	
+
+#Text=In all parts of Norfolk the turnip crop is uncommonly good, and the hoeing lias already commenced.
+19-1	1560-1562	In	_	_	
+19-2	1563-1566	all	_	_	
+19-3	1567-1572	parts	_	_	
+19-4	1573-1575	of	_	_	
+19-5	1576-1583	Norfolk	https://en.wikipedia.org/wiki/Norfolk	LOC	
+19-6	1584-1587	the	_	_	
+19-7	1588-1594	turnip	_	_	
+19-8	1595-1599	crop	_	_	
+19-9	1600-1602	is	_	_	
+19-10	1603-1613	uncommonly	_	_	
+19-11	1614-1618	good	_	_	
+19-12	1618-1619	,	_	_	
+19-13	1620-1623	and	_	_	
+19-14	1624-1627	the	_	_	
+19-15	1628-1634	hoeing	_	_	
+19-16	1635-1639	lias	_	_	
+19-17	1640-1647	already	_	_	
+19-18	1648-1657	commenced	_	_	
+19-19	1657-1658	.	_	_	
+
+#Text=—New hay from the meadow sells at from 70 to 755. jier Waggon load, of about two tons.
+20-1	1658-1659	—	_	_	
+20-2	1659-1662	New	_	_	
+20-3	1663-1666	hay	_	_	
+20-4	1667-1671	from	_	_	
+20-5	1672-1675	the	_	_	
+20-6	1676-1682	meadow	_	_	
+20-7	1683-1688	sells	_	_	
+20-8	1689-1691	at	_	_	
+20-9	1692-1696	from	_	_	
+20-10	1697-1699	70	_	_	
+20-11	1700-1702	to	_	_	
+20-12	1703-1706	755	_	_	
+20-13	1706-1707	.	_	_	
+20-14	1708-1712	jier	_	_	
+20-15	1713-1719	Waggon	_	_	
+20-16	1720-1724	load	_	_	
+20-17	1724-1725	,	_	_	
+20-18	1726-1728	of	_	_	
+20-19	1729-1734	about	_	_	
+20-20	1735-1738	two	_	_	
+20-21	1739-1743	tons	_	_	
+20-22	1743-1744	.	_	_	

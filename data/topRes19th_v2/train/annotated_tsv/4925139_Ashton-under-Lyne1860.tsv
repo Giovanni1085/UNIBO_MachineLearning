@@ -1,0 +1,249 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ARTIFICIAL TEETH.
+1-1	0-10	ARTIFICIAL	_	_	
+1-2	11-16	TEETH	_	_	
+1-3	16-17	.	_	_	
+
+#Text=MR.
+2-1	19-21	MR	_	_	
+2-2	21-22	.	_	_	
+
+#Text=ARMITAGE, DEM’TIST, may be consulted dally, from 9 a.m., till 8 p.m., at his residence, 95, STAMFORP-9TKEET, Ashton-cnder-Ltne.
+3-1	23-31	ARMITAGE	_	_	
+3-2	31-32	,	_	_	
+3-3	33-36	DEM	_	_	
+3-4	36-37	’	_	_	
+3-5	37-41	TIST	_	_	
+3-6	41-42	,	_	_	
+3-7	43-46	may	_	_	
+3-8	47-49	be	_	_	
+3-9	50-59	consulted	_	_	
+3-10	60-65	dally	_	_	
+3-11	65-66	,	_	_	
+3-12	67-71	from	_	_	
+3-13	72-73	9	_	_	
+3-14	74-77	a.m	_	_	
+3-15	77-78	.	_	_	
+3-16	78-79	,	_	_	
+3-17	80-84	till	_	_	
+3-18	85-86	8	_	_	
+3-19	87-90	p.m	_	_	
+3-20	90-91	.	_	_	
+3-21	91-92	,	_	_	
+3-22	93-95	at	_	_	
+3-23	96-99	his	_	_	
+3-24	100-109	residence	_	_	
+3-25	109-110	,	_	_	
+3-26	111-113	95	_	_	
+3-27	113-114	,	_	_	
+3-28	115-123	STAMFORP	*[1]	STREET[1]	
+3-29	123-124	-	*[1]	STREET[1]	
+3-30	124-130	9TKEET	*[1]	STREET[1]	
+3-31	130-131	,	_	_	
+3-32	132-149	Ashton-cnder-Ltne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+3-33	149-150	.	_	_	
+
+#Text=Mr ARMITAGE introduces all the RECENT IMPROTEMENTS in the ITofessien from LONDON and AMERICA The beautiful Gum-coloured VULCANITE PALATES, and the fine MINERAL TEETH cannot be surpassed for their natural appearance and excellent fit, which are both guaranteed.
+4-1	151-153	Mr	_	_	
+4-2	154-162	ARMITAGE	_	_	
+4-3	163-173	introduces	_	_	
+4-4	174-177	all	_	_	
+4-5	178-181	the	_	_	
+4-6	182-188	RECENT	_	_	
+4-7	189-201	IMPROTEMENTS	_	_	
+4-8	202-204	in	_	_	
+4-9	205-208	the	_	_	
+4-10	209-219	ITofessien	_	_	
+4-11	220-224	from	_	_	
+4-12	225-231	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+4-13	232-235	and	_	_	
+4-14	236-243	AMERICA	https://en.wikipedia.org/wiki/United\_States	LOC	
+4-15	244-247	The	_	_	
+4-16	248-257	beautiful	_	_	
+4-17	258-270	Gum-coloured	_	_	
+4-18	271-280	VULCANITE	_	_	
+4-19	281-288	PALATES	_	_	
+4-20	288-289	,	_	_	
+4-21	290-293	and	_	_	
+4-22	294-297	the	_	_	
+4-23	298-302	fine	_	_	
+4-24	303-310	MINERAL	_	_	
+4-25	311-316	TEETH	_	_	
+4-26	317-323	cannot	_	_	
+4-27	324-326	be	_	_	
+4-28	327-336	surpassed	_	_	
+4-29	337-340	for	_	_	
+4-30	341-346	their	_	_	
+4-31	347-354	natural	_	_	
+4-32	355-365	appearance	_	_	
+4-33	366-369	and	_	_	
+4-34	370-379	excellent	_	_	
+4-35	380-383	fit	_	_	
+4-36	383-384	,	_	_	
+4-37	385-390	which	_	_	
+4-38	391-394	are	_	_	
+4-39	395-399	both	_	_	
+4-40	400-410	guaranteed	_	_	
+4-41	410-411	.	_	_	
+
+#Text=They materially assist digestion, and greatly improve the countenance.
+5-1	412-416	They	_	_	
+5-2	417-427	materially	_	_	
+5-3	428-434	assist	_	_	
+5-4	435-444	digestion	_	_	
+5-5	444-445	,	_	_	
+5-6	446-449	and	_	_	
+5-7	450-457	greatly	_	_	
+5-8	458-465	improve	_	_	
+5-9	466-469	the	_	_	
+5-10	470-481	countenance	_	_	
+5-11	481-482	.	_	_	
+
+#Text=Teeth also Mounted on Gold, Platini, Dental Alloy, &c., the purest metals only used.
+6-1	483-488	Teeth	_	_	
+6-2	489-493	also	_	_	
+6-3	494-501	Mounted	_	_	
+6-4	502-504	on	_	_	
+6-5	505-509	Gold	_	_	
+6-6	509-510	,	_	_	
+6-7	511-518	Platini	_	_	
+6-8	518-519	,	_	_	
+6-9	520-526	Dental	_	_	
+6-10	527-532	Alloy	_	_	
+6-11	532-533	,	_	_	
+6-12	534-535	&	_	_	
+6-13	535-536	c	_	_	
+6-14	536-537	.	_	_	
+6-15	537-538	,	_	_	
+6-16	539-542	the	_	_	
+6-17	543-549	purest	_	_	
+6-18	550-556	metals	_	_	
+6-19	557-561	only	_	_	
+6-20	562-566	used	_	_	
+6-21	566-567	.	_	_	
+
+#Text=A SINGLE TOOTH FROM 58., A COMPLETE SET 
+#Text=Testimonials presented to Mr.
+7-1	568-569	A	_	_	
+7-2	570-576	SINGLE	_	_	
+7-3	577-582	TOOTH	_	_	
+7-4	583-587	FROM	_	_	
+7-5	588-590	58	_	_	
+7-6	590-591	.	_	_	
+7-7	591-592	,	_	_	
+7-8	593-594	A	_	_	
+7-9	595-603	COMPLETE	_	_	
+7-10	604-607	SET	_	_	
+7-11	609-621	Testimonials	_	_	
+7-12	622-631	presented	_	_	
+7-13	632-634	to	_	_	
+7-14	635-637	Mr	_	_	
+7-15	637-638	.	_	_	
+
+#Text=COOPER.
+8-1	639-645	COOPER	_	_	
+8-2	645-646	.	_	_	
+
+#Text=BALDNESS PREVENTED AND HAIR RESTORED.
+9-1	647-655	BALDNESS	_	_	
+9-2	656-665	PREVENTED	_	_	
+9-3	666-669	AND	_	_	
+9-4	670-674	HAIR	_	_	
+9-5	675-683	RESTORED	_	_	
+9-6	683-684	.	_	_	
+
+#Text=“I, Joseph Rogers, aged 64, residing at Silvertown, North Woolwich, do hereby testify to the extreme value of Mr.
+10-1	685-686	“	_	_	
+10-2	686-687	I	_	_	
+10-3	687-688	,	_	_	
+10-4	689-695	Joseph	_	_	
+10-5	696-702	Rogers	_	_	
+10-6	702-703	,	_	_	
+10-7	704-708	aged	_	_	
+10-8	709-711	64	_	_	
+10-9	711-712	,	_	_	
+10-10	713-721	residing	_	_	
+10-11	722-724	at	_	_	
+10-12	725-735	Silvertown	https://en.wikipedia.org/wiki/Silvertown	LOC	
+10-13	735-736	,	_	_	
+10-14	737-742	North	https://en.wikipedia.org/wiki/North\_Woolwich[2]	LOC[2]	
+10-15	743-751	Woolwich	https://en.wikipedia.org/wiki/North\_Woolwich[2]	LOC[2]	
+10-16	751-752	,	_	_	
+10-17	753-755	do	_	_	
+10-18	756-762	hereby	_	_	
+10-19	763-770	testify	_	_	
+10-20	771-773	to	_	_	
+10-21	774-777	the	_	_	
+10-22	778-785	extreme	_	_	
+10-23	786-791	value	_	_	
+10-24	792-794	of	_	_	
+10-25	795-797	Mr	_	_	
+10-26	797-798	.	_	_	
+
+#Text=Cooper’s preparation for preventing baldness and retoring the hair.
+11-1	799-805	Cooper	_	_	
+11-2	805-806	’	_	_	
+11-3	806-807	s	_	_	
+11-4	808-819	preparation	_	_	
+11-5	820-823	for	_	_	
+11-6	824-834	preventing	_	_	
+11-7	835-843	baldness	_	_	
+11-8	844-847	and	_	_	
+11-9	848-856	retoring	_	_	
+11-10	857-860	the	_	_	
+11-11	861-865	hair	_	_	
+11-12	865-866	.	_	_	
+
+#Text=I have ©special pleasure in recommending it, for, having been bald during twelve years, my hair has by its means been restored to me of a luxuriant growth and of a colour far preferable to its former hue.
+12-1	867-868	I	_	_	
+12-2	869-873	have	_	_	
+12-3	874-875	©	_	_	
+12-4	875-882	special	_	_	
+12-5	883-891	pleasure	_	_	
+12-6	892-894	in	_	_	
+12-7	895-907	recommending	_	_	
+12-8	908-910	it	_	_	
+12-9	910-911	,	_	_	
+12-10	912-915	for	_	_	
+12-11	915-916	,	_	_	
+12-12	917-923	having	_	_	
+12-13	924-928	been	_	_	
+12-14	929-933	bald	_	_	
+12-15	934-940	during	_	_	
+12-16	941-947	twelve	_	_	
+12-17	948-953	years	_	_	
+12-18	953-954	,	_	_	
+12-19	955-957	my	_	_	
+12-20	958-962	hair	_	_	
+12-21	963-966	has	_	_	
+12-22	967-969	by	_	_	
+12-23	970-973	its	_	_	
+12-24	974-979	means	_	_	
+12-25	980-984	been	_	_	
+12-26	985-993	restored	_	_	
+12-27	994-996	to	_	_	
+12-28	997-999	me	_	_	
+12-29	1000-1002	of	_	_	
+12-30	1003-1004	a	_	_	
+12-31	1005-1014	luxuriant	_	_	
+12-32	1015-1021	growth	_	_	
+12-33	1022-1025	and	_	_	
+12-34	1026-1028	of	_	_	
+12-35	1029-1030	a	_	_	
+12-36	1031-1037	colour	_	_	
+12-37	1038-1041	far	_	_	
+12-38	1042-1052	preferable	_	_	
+12-39	1053-1055	to	_	_	
+12-40	1056-1059	its	_	_	
+12-41	1060-1066	former	_	_	
+12-42	1067-1070	hue	_	_	
+12-43	1070-1071	.	_	_	
+
+#Text=Joseph Rogers.”
+13-1	1072-1078	Joseph	_	_	
+13-2	1079-1085	Rogers	_	_	
+13-3	1085-1086	.	_	_	
+13-4	1086-1087	”	_	_	

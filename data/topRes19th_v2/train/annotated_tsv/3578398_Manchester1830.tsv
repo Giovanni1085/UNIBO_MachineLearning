@@ -1,0 +1,595 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=|3oetrg.
+1-1	0-1	|	_	_	
+1-2	1-7	3oetrg	_	_	
+1-3	7-8	.	_	_	
+
+#Text=ISRAEL AT THE RED SEA.
+2-1	9-15	ISRAEL	https://en.wikipedia.org/wiki/Israel	LOC	
+2-2	16-18	AT	_	_	
+2-3	19-22	THE	_	_	
+2-4	23-26	RED	https://en.wikipedia.org/wiki/Red\_Sea[1]	LOC[1]	
+2-5	27-30	SEA	https://en.wikipedia.org/wiki/Red\_Sea[1]	LOC[1]	
+2-6	30-31	.	_	_	
+
+#Text=From chains and thraldom thro the desert past, Arabias sea a gulfy barrier cast; There lost, confounded, prisond, on the shore, The avenger rode behind, destruction yawnd before!
+3-1	32-36	From	_	_	
+3-2	37-43	chains	_	_	
+3-3	44-47	and	_	_	
+3-4	48-56	thraldom	_	_	
+3-5	57-61	thro	_	_	
+3-6	62-65	the	_	_	
+3-7	66-72	desert	_	_	
+3-8	73-77	past	_	_	
+3-9	77-78	,	_	_	
+3-10	79-86	Arabias	https://en.wikipedia.org/wiki/Arabian\_Sea[2]	LOC[2]	
+3-11	87-90	sea	https://en.wikipedia.org/wiki/Arabian\_Sea[2]	LOC[2]	
+3-12	91-92	a	_	_	
+3-13	93-98	gulfy	_	_	
+3-14	99-106	barrier	_	_	
+3-15	107-111	cast	_	_	
+3-16	111-112	;	_	_	
+3-17	113-118	There	_	_	
+3-18	119-123	lost	_	_	
+3-19	123-124	,	_	_	
+3-20	125-135	confounded	_	_	
+3-21	135-136	,	_	_	
+3-22	137-144	prisond	_	_	
+3-23	144-145	,	_	_	
+3-24	146-148	on	_	_	
+3-25	149-152	the	_	_	
+3-26	153-158	shore	_	_	
+3-27	158-159	,	_	_	
+3-28	160-163	The	_	_	
+3-29	164-171	avenger	_	_	
+3-30	172-176	rode	_	_	
+3-31	177-183	behind	_	_	
+3-32	183-184	,	_	_	
+3-33	185-196	destruction	_	_	
+3-34	197-202	yawnd	_	_	
+3-35	203-209	before	_	_	
+3-36	209-210	!	_	_	
+
+#Text=" Give back, Deliverer!
+4-1	211-212	"	_	_	
+4-2	213-217	Give	_	_	
+4-3	218-222	back	_	_	
+4-4	222-223	,	_	_	
+4-5	224-233	Deliverer	_	_	
+4-6	233-234	!	_	_	
+
+#Text=give the bonds," they cry, " What!
+5-1	235-239	give	_	_	
+5-2	240-243	the	_	_	
+5-3	244-249	bonds	_	_	
+5-4	249-250	,	_	_	
+5-5	250-251	"	_	_	
+5-6	252-256	they	_	_	
+5-7	257-260	cry	_	_	
+5-8	260-261	,	_	_	
+5-9	262-263	"	_	_	
+5-10	264-268	What	_	_	
+5-11	268-269	!	_	_	
+
+#Text=Egypt lackd a grave!
+6-1	270-275	Egypt	https://en.wikipedia.org/wiki/Egypt	LOC	
+6-2	276-281	lackd	_	_	
+6-3	282-283	a	_	_	
+6-4	284-289	grave	_	_	
+6-5	289-290	!	_	_	
+
+#Text=that here we die!"
+7-1	291-295	that	_	_	
+7-2	296-300	here	_	_	
+7-3	301-303	we	_	_	
+7-4	304-307	die	_	_	
+7-5	307-308	!	_	_	
+7-6	308-309	"	_	_	
+
+#Text=»*»»»» Lo !
+8-1	310-311	»	_	_	
+8-2	311-312	*	_	_	
+8-3	312-313	»	_	_	
+8-4	313-314	»	_	_	
+8-5	314-315	»	_	_	
+8-6	315-316	»	_	_	
+8-7	317-319	Lo	_	_	
+8-8	320-321	!	_	_	
+
+#Text=from the pillard fire and wreathing smoke, In echoing thunder, thus Jehovah spoke: "God, hath He promisd?
+9-1	322-326	from	_	_	
+9-2	327-330	the	_	_	
+9-3	331-338	pillard	_	_	
+9-4	339-343	fire	_	_	
+9-5	344-347	and	_	_	
+9-6	348-357	wreathing	_	_	
+9-7	358-363	smoke	_	_	
+9-8	363-364	,	_	_	
+9-9	365-367	In	_	_	
+9-10	368-375	echoing	_	_	
+9-11	376-383	thunder	_	_	
+9-12	383-384	,	_	_	
+9-13	385-389	thus	_	_	
+9-14	390-397	Jehovah	_	_	
+9-15	398-403	spoke	_	_	
+9-16	403-404	:	_	_	
+9-17	405-406	"	_	_	
+9-18	406-409	God	_	_	
+9-19	409-410	,	_	_	
+9-20	411-415	hath	_	_	
+9-21	416-418	He	_	_	
+9-22	419-426	promisd	_	_	
+9-23	426-427	?	_	_	
+
+#Text=—will He not fulfil ?
+10-1	427-428	—	_	_	
+10-2	428-432	will	_	_	
+10-3	433-435	He	_	_	
+10-4	436-439	not	_	_	
+10-5	440-446	fulfil	_	_	
+10-6	447-448	?	_	_	
+
+#Text=— •* Stretch oer the sea thy rod, and bid their tribes be still."
+11-1	448-449	—	_	_	
+11-2	450-451	•	_	_	
+11-3	451-452	*	_	_	
+11-4	453-460	Stretch	_	_	
+11-5	461-464	oer	_	_	
+11-6	465-468	the	_	_	
+11-7	469-472	sea	_	_	
+11-8	473-476	thy	_	_	
+11-9	477-480	rod	_	_	
+11-10	480-481	,	_	_	
+11-11	482-485	and	_	_	
+11-12	486-489	bid	_	_	
+11-13	490-495	their	_	_	
+11-14	496-502	tribes	_	_	
+11-15	503-505	be	_	_	
+11-16	506-511	still	_	_	
+11-17	511-512	.	_	_	
+11-18	512-513	"	_	_	
+
+#Text=Then, forth advaned the prophet, lifts his rod, Nor knowing why, but twas the word of God !
+12-1	514-518	Then	_	_	
+12-2	518-519	,	_	_	
+12-3	520-525	forth	_	_	
+12-4	526-533	advaned	_	_	
+12-5	534-537	the	_	_	
+12-6	538-545	prophet	_	_	
+12-7	545-546	,	_	_	
+12-8	547-552	lifts	_	_	
+12-9	553-556	his	_	_	
+12-10	557-560	rod	_	_	
+12-11	560-561	,	_	_	
+12-12	562-565	Nor	_	_	
+12-13	566-573	knowing	_	_	
+12-14	574-577	why	_	_	
+12-15	577-578	,	_	_	
+12-16	579-582	but	_	_	
+12-17	583-587	twas	_	_	
+12-18	588-591	the	_	_	
+12-19	592-596	word	_	_	
+12-20	597-599	of	_	_	
+12-21	600-603	God	_	_	
+12-22	604-605	!	_	_	
+
+#Text=— A sudden silence oer the yielding flood ; A sudden calm, the conscious waters stood ; And, wliile he prayd, behold !
+13-1	605-606	—	_	_	
+13-2	607-608	A	_	_	
+13-3	609-615	sudden	_	_	
+13-4	616-623	silence	_	_	
+13-5	624-627	oer	_	_	
+13-6	628-631	the	_	_	
+13-7	632-640	yielding	_	_	
+13-8	641-646	flood	_	_	
+13-9	647-648	;	_	_	
+13-10	649-650	A	_	_	
+13-11	651-657	sudden	_	_	
+13-12	658-662	calm	_	_	
+13-13	662-663	,	_	_	
+13-14	664-667	the	_	_	
+13-15	668-677	conscious	_	_	
+13-16	678-684	waters	_	_	
+13-17	685-690	stood	_	_	
+13-18	691-692	;	_	_	
+13-19	693-696	And	_	_	
+13-20	696-697	,	_	_	
+13-21	698-704	wliile	_	_	
+13-22	705-707	he	_	_	
+13-23	708-713	prayd	_	_	
+13-24	713-714	,	_	_	
+13-25	715-721	behold	_	_	
+13-26	722-723	!	_	_	
+
+#Text=the sundering title, Tremendous miracle, the seas divide!
+14-1	724-727	the	_	_	
+14-2	728-737	sundering	_	_	
+14-3	738-743	title	_	_	
+14-4	743-744	,	_	_	
+14-5	745-755	Tremendous	_	_	
+14-6	756-763	miracle	_	_	
+14-7	763-764	,	_	_	
+14-8	765-768	the	_	_	
+14-9	769-773	seas	_	_	
+14-10	774-780	divide	_	_	
+14-11	780-781	!	_	_	
+
+#Text=And roaring, bursting, hurld on either hand, Piled up immense, the surging mountains stand !
+15-1	782-785	And	_	_	
+15-2	786-793	roaring	_	_	
+15-3	793-794	,	_	_	
+15-4	795-803	bursting	_	_	
+15-5	803-804	,	_	_	
+15-6	805-810	hurld	_	_	
+15-7	811-813	on	_	_	
+15-8	814-820	either	_	_	
+15-9	821-825	hand	_	_	
+15-10	825-826	,	_	_	
+15-11	827-832	Piled	_	_	
+15-12	833-835	up	_	_	
+15-13	836-843	immense	_	_	
+15-14	843-844	,	_	_	
+15-15	845-848	the	_	_	
+15-16	849-856	surging	_	_	
+15-17	857-866	mountains	_	_	
+15-18	867-872	stand	_	_	
+15-19	873-874	!	_	_	
+
+#Text=And Israel saw a path where rode the waves, The abyss of Ocean, and his empty caves I Then awful fear each contrite bosom moved ; Their hardend hearts, and unbelief reproved; They wept, they supplicated, and adord, And sough tbe face and favour of their Lord !
+16-1	875-878	And	_	_	
+16-2	879-885	Israel	https://en.wikipedia.org/wiki/Israel	LOC	
+16-3	886-889	saw	_	_	
+16-4	890-891	a	_	_	
+16-5	892-896	path	_	_	
+16-6	897-902	where	_	_	
+16-7	903-907	rode	_	_	
+16-8	908-911	the	_	_	
+16-9	912-917	waves	_	_	
+16-10	917-918	,	_	_	
+16-11	919-922	The	_	_	
+16-12	923-928	abyss	_	_	
+16-13	929-931	of	_	_	
+16-14	932-937	Ocean	_	_	
+16-15	937-938	,	_	_	
+16-16	939-942	and	_	_	
+16-17	943-946	his	_	_	
+16-18	947-952	empty	_	_	
+16-19	953-958	caves	_	_	
+16-20	959-960	I	_	_	
+16-21	961-965	Then	_	_	
+16-22	966-971	awful	_	_	
+16-23	972-976	fear	_	_	
+16-24	977-981	each	_	_	
+16-25	982-990	contrite	_	_	
+16-26	991-996	bosom	_	_	
+16-27	997-1002	moved	_	_	
+16-28	1003-1004	;	_	_	
+16-29	1005-1010	Their	_	_	
+16-30	1011-1018	hardend	_	_	
+16-31	1019-1025	hearts	_	_	
+16-32	1025-1026	,	_	_	
+16-33	1027-1030	and	_	_	
+16-34	1031-1039	unbelief	_	_	
+16-35	1040-1048	reproved	_	_	
+16-36	1048-1049	;	_	_	
+16-37	1050-1054	They	_	_	
+16-38	1055-1059	wept	_	_	
+16-39	1059-1060	,	_	_	
+16-40	1061-1065	they	_	_	
+16-41	1066-1077	supplicated	_	_	
+16-42	1077-1078	,	_	_	
+16-43	1079-1082	and	_	_	
+16-44	1083-1088	adord	_	_	
+16-45	1088-1089	,	_	_	
+16-46	1090-1093	And	_	_	
+16-47	1094-1099	sough	_	_	
+16-48	1100-1103	tbe	_	_	
+16-49	1104-1108	face	_	_	
+16-50	1109-1112	and	_	_	
+16-51	1113-1119	favour	_	_	
+16-52	1120-1122	of	_	_	
+16-53	1123-1128	their	_	_	
+16-54	1129-1133	Lord	_	_	
+16-55	1134-1135	!	_	_	
+
+#Text=He, gracious, heard;—and now descending night, High in the van, His symbols guiding light; While glorying, hymning, praising, after pour, Their countless hosts, and shake the ocean floor !
+17-1	1136-1138	He	_	_	
+17-2	1138-1139	,	_	_	
+17-3	1140-1148	gracious	_	_	
+17-4	1148-1149	,	_	_	
+17-5	1150-1155	heard	_	_	
+17-6	1155-1156	;	_	_	
+17-7	1156-1157	—	_	_	
+17-8	1157-1160	and	_	_	
+17-9	1161-1164	now	_	_	
+17-10	1165-1175	descending	_	_	
+17-11	1176-1181	night	_	_	
+17-12	1181-1182	,	_	_	
+17-13	1183-1187	High	_	_	
+17-14	1188-1190	in	_	_	
+17-15	1191-1194	the	_	_	
+17-16	1195-1198	van	_	_	
+17-17	1198-1199	,	_	_	
+17-18	1200-1203	His	_	_	
+17-19	1204-1211	symbols	_	_	
+17-20	1212-1219	guiding	_	_	
+17-21	1220-1225	light	_	_	
+17-22	1225-1226	;	_	_	
+17-23	1227-1232	While	_	_	
+17-24	1233-1241	glorying	_	_	
+17-25	1241-1242	,	_	_	
+17-26	1243-1250	hymning	_	_	
+17-27	1250-1251	,	_	_	
+17-28	1252-1260	praising	_	_	
+17-29	1260-1261	,	_	_	
+17-30	1262-1267	after	_	_	
+17-31	1268-1272	pour	_	_	
+17-32	1272-1273	,	_	_	
+17-33	1274-1279	Their	_	_	
+17-34	1280-1289	countless	_	_	
+17-35	1290-1295	hosts	_	_	
+17-36	1295-1296	,	_	_	
+17-37	1297-1300	and	_	_	
+17-38	1301-1306	shake	_	_	
+17-39	1307-1310	the	_	_	
+17-40	1311-1316	ocean	_	_	
+17-41	1317-1322	floor	_	_	
+17-42	1323-1324	!	_	_	
+
+#Text=• •«••* Hark !
+18-1	1325-1326	•	_	_	
+18-2	1327-1328	•	_	_	
+18-3	1328-1329	«	_	_	
+18-4	1329-1330	•	_	_	
+18-5	1330-1331	•	_	_	
+18-6	1331-1332	*	_	_	
+18-7	1333-1337	Hark	_	_	
+18-8	1338-1339	!	_	_	
+
+#Text=swept the whirlwinds!
+19-1	1340-1345	swept	_	_	
+19-2	1346-1349	the	_	_	
+19-3	1350-1360	whirlwinds	_	_	
+19-4	1360-1361	!	_	_	
+
+#Text=—raging in the rear, With lifted torches, PharOs bands appeaT: The ruddy light glares thro tbe opaque afar , Glancd on the arms and armour of the war.
+20-1	1361-1362	—	_	_	
+20-2	1362-1368	raging	_	_	
+20-3	1369-1371	in	_	_	
+20-4	1372-1375	the	_	_	
+20-5	1376-1380	rear	_	_	
+20-6	1380-1381	,	_	_	
+20-7	1382-1386	With	_	_	
+20-8	1387-1393	lifted	_	_	
+20-9	1394-1401	torches	_	_	
+20-10	1401-1402	,	_	_	
+20-11	1403-1409	PharOs	https://en.wikipedia.org/wiki/Lighthouse\_of\_Alexandria	LOC	
+20-12	1410-1415	bands	_	_	
+20-13	1416-1422	appeaT	_	_	
+20-14	1422-1423	:	_	_	
+20-15	1424-1427	The	_	_	
+20-16	1428-1433	ruddy	_	_	
+20-17	1434-1439	light	_	_	
+20-18	1440-1446	glares	_	_	
+20-19	1447-1451	thro	_	_	
+20-20	1452-1455	tbe	_	_	
+20-21	1456-1462	opaque	_	_	
+20-22	1463-1467	afar	_	_	
+20-23	1468-1469	,	_	_	
+20-24	1470-1476	Glancd	_	_	
+20-25	1477-1479	on	_	_	
+20-26	1480-1483	the	_	_	
+20-27	1484-1488	arms	_	_	
+20-28	1489-1492	and	_	_	
+20-29	1493-1499	armour	_	_	
+20-30	1500-1502	of	_	_	
+20-31	1503-1506	the	_	_	
+20-32	1507-1510	war	_	_	
+20-33	1510-1511	.	_	_	
+
+#Text=Now answering shouts ascend the startled sky; Now martial danger mingles with the cry !
+21-1	1512-1515	Now	_	_	
+21-2	1516-1525	answering	_	_	
+21-3	1526-1532	shouts	_	_	
+21-4	1533-1539	ascend	_	_	
+21-5	1540-1543	the	_	_	
+21-6	1544-1552	startled	_	_	
+21-7	1553-1556	sky	_	_	
+21-8	1556-1557	;	_	_	
+21-9	1558-1561	Now	_	_	
+21-10	1562-1569	martial	_	_	
+21-11	1570-1576	danger	_	_	
+21-12	1577-1584	mingles	_	_	
+21-13	1585-1589	with	_	_	
+21-14	1590-1593	the	_	_	
+21-15	1594-1597	cry	_	_	
+21-16	1598-1599	!	_	_	
+
+#Text=— Doth Israel doubt ?
+22-1	1599-1600	—	_	_	
+22-2	1601-1605	Doth	_	_	
+22-3	1606-1612	Israel	https://en.wikipedia.org/wiki/Israel	LOC	
+22-4	1613-1618	doubt	_	_	
+22-5	1619-1620	?	_	_	
+
+#Text=—behold, the roving fire ?
+23-1	1620-1621	—	_	_	
+23-2	1621-1627	behold	_	_	
+23-3	1627-1628	,	_	_	
+23-4	1629-1632	the	_	_	
+23-5	1633-1639	roving	_	_	
+23-6	1640-1644	fire	_	_	
+23-7	1645-1646	?	_	_	
+
+#Text=To rearward flaming heavens avenging ire ; The sparkling sands burn in his fervid way, The salty rocks, and weed-hung caverns grey.
+24-1	1647-1649	To	_	_	
+24-2	1650-1658	rearward	_	_	
+24-3	1659-1666	flaming	_	_	
+24-4	1667-1674	heavens	_	_	
+24-5	1675-1683	avenging	_	_	
+24-6	1684-1687	ire	_	_	
+24-7	1688-1689	;	_	_	
+24-8	1690-1693	The	_	_	
+24-9	1694-1703	sparkling	_	_	
+24-10	1704-1709	sands	_	_	
+24-11	1710-1714	burn	_	_	
+24-12	1715-1717	in	_	_	
+24-13	1718-1721	his	_	_	
+24-14	1722-1728	fervid	_	_	
+24-15	1729-1732	way	_	_	
+24-16	1732-1733	,	_	_	
+24-17	1734-1737	The	_	_	
+24-18	1738-1743	salty	_	_	
+24-19	1744-1749	rocks	_	_	
+24-20	1749-1750	,	_	_	
+24-21	1751-1754	and	_	_	
+24-22	1755-1764	weed-hung	_	_	
+24-23	1765-1772	caverns	_	_	
+24-24	1773-1777	grey	_	_	
+24-25	1777-1778	.	_	_	
+
+#Text=Now, who pursues, with intervening care ?
+25-1	1779-1782	Now	_	_	
+25-2	1782-1783	,	_	_	
+25-3	1784-1787	who	_	_	
+25-4	1788-1795	pursues	_	_	
+25-5	1795-1796	,	_	_	
+25-6	1797-1801	with	_	_	
+25-7	1802-1813	intervening	_	_	
+25-8	1814-1818	care	_	_	
+25-9	1819-1820	?	_	_	
+
+#Text=Omnipotent Jehovah watches there; Red, scorpion lightnings, rend his awful form; He rolls tempestuous clouds, and wings the storm. • **-*• What dismal voices haunt their horrid gloom, While mocking spectres dig an ocean tomb; Dismay is in their hearts, and dost thou fly,— Pale King, thine hour is come, and Egypts destiny !
+26-1	1821-1831	Omnipotent	_	_	
+26-2	1832-1839	Jehovah	_	_	
+26-3	1840-1847	watches	_	_	
+26-4	1848-1853	there	_	_	
+26-5	1853-1854	;	_	_	
+26-6	1855-1858	Red	_	_	
+26-7	1858-1859	,	_	_	
+26-8	1860-1868	scorpion	_	_	
+26-9	1869-1879	lightnings	_	_	
+26-10	1879-1880	,	_	_	
+26-11	1881-1885	rend	_	_	
+26-12	1886-1889	his	_	_	
+26-13	1890-1895	awful	_	_	
+26-14	1896-1900	form	_	_	
+26-15	1900-1901	;	_	_	
+26-16	1902-1904	He	_	_	
+26-17	1905-1910	rolls	_	_	
+26-18	1911-1922	tempestuous	_	_	
+26-19	1923-1929	clouds	_	_	
+26-20	1929-1930	,	_	_	
+26-21	1931-1934	and	_	_	
+26-22	1935-1940	wings	_	_	
+26-23	1941-1944	the	_	_	
+26-24	1945-1950	storm	_	_	
+26-25	1950-1951	.	_	_	
+26-26	1952-1953	•	_	_	
+26-27	1954-1955	*	_	_	
+26-28	1955-1956	*	_	_	
+26-29	1956-1957	-	_	_	
+26-30	1957-1958	*	_	_	
+26-31	1958-1959	•	_	_	
+26-32	1960-1964	What	_	_	
+26-33	1965-1971	dismal	_	_	
+26-34	1972-1978	voices	_	_	
+26-35	1979-1984	haunt	_	_	
+26-36	1985-1990	their	_	_	
+26-37	1991-1997	horrid	_	_	
+26-38	1998-2003	gloom	_	_	
+26-39	2003-2004	,	_	_	
+26-40	2005-2010	While	_	_	
+26-41	2011-2018	mocking	_	_	
+26-42	2019-2027	spectres	_	_	
+26-43	2028-2031	dig	_	_	
+26-44	2032-2034	an	_	_	
+26-45	2035-2040	ocean	_	_	
+26-46	2041-2045	tomb	_	_	
+26-47	2045-2046	;	_	_	
+26-48	2047-2053	Dismay	_	_	
+26-49	2054-2056	is	_	_	
+26-50	2057-2059	in	_	_	
+26-51	2060-2065	their	_	_	
+26-52	2066-2072	hearts	_	_	
+26-53	2072-2073	,	_	_	
+26-54	2074-2077	and	_	_	
+26-55	2078-2082	dost	_	_	
+26-56	2083-2087	thou	_	_	
+26-57	2088-2091	fly	_	_	
+26-58	2091-2092	,	_	_	
+26-59	2092-2093	—	_	_	
+26-60	2094-2098	Pale	_	_	
+26-61	2099-2103	King	_	_	
+26-62	2103-2104	,	_	_	
+26-63	2105-2110	thine	_	_	
+26-64	2111-2115	hour	_	_	
+26-65	2116-2118	is	_	_	
+26-66	2119-2123	come	_	_	
+26-67	2123-2124	,	_	_	
+26-68	2125-2128	and	_	_	
+26-69	2129-2135	Egypts	https://en.wikipedia.org/wiki/Egypt	LOC	
+26-70	2136-2143	destiny	_	_	
+26-71	2144-2145	!	_	_	
+
+#Text=• 2 * * • * The morning dawnd, and from the tented shore, Lo, Israel lookd !
+27-1	2146-2147	•	_	_	
+27-2	2148-2149	2	_	_	
+27-3	2150-2151	*	_	_	
+27-4	2152-2153	*	_	_	
+27-5	2154-2155	•	_	_	
+27-6	2156-2157	*	_	_	
+27-7	2158-2161	The	_	_	
+27-8	2162-2169	morning	_	_	
+27-9	2170-2175	dawnd	_	_	
+27-10	2175-2176	,	_	_	
+27-11	2177-2180	and	_	_	
+27-12	2181-2185	from	_	_	
+27-13	2186-2189	the	_	_	
+27-14	2190-2196	tented	_	_	
+27-15	2197-2202	shore	_	_	
+27-16	2202-2203	,	_	_	
+27-17	2204-2206	Lo	_	_	
+27-18	2206-2207	,	_	_	
+27-19	2208-2214	Israel	https://en.wikipedia.org/wiki/Israel	LOC	
+27-20	2215-2220	lookd	_	_	
+27-21	2221-2222	!	_	_	
+
+#Text=—the mighty were no more.— The dread sea rolled in all his wonted pride, And Egypt slept beneath the laughing tide.
+28-1	2222-2223	—	_	_	
+28-2	2223-2226	the	_	_	
+28-3	2227-2233	mighty	_	_	
+28-4	2234-2238	were	_	_	
+28-5	2239-2241	no	_	_	
+28-6	2242-2246	more	_	_	
+28-7	2246-2247	.	_	_	
+28-8	2247-2248	—	_	_	
+28-9	2249-2252	The	_	_	
+28-10	2253-2258	dread	_	_	
+28-11	2259-2262	sea	_	_	
+28-12	2263-2269	rolled	_	_	
+28-13	2270-2272	in	_	_	
+28-14	2273-2276	all	_	_	
+28-15	2277-2280	his	_	_	
+28-16	2281-2287	wonted	_	_	
+28-17	2288-2293	pride	_	_	
+28-18	2293-2294	,	_	_	
+28-19	2295-2298	And	_	_	
+28-20	2299-2304	Egypt	https://en.wikipedia.org/wiki/Egypt	LOC	
+28-21	2305-2310	slept	_	_	
+28-22	2311-2318	beneath	_	_	
+28-23	2319-2322	the	_	_	
+28-24	2323-2331	laughing	_	_	
+28-25	2332-2336	tide	_	_	
+28-26	2336-2337	.	_	_	
+
+#Text=WM.
+29-1	2338-2340	WM	_	_	
+29-2	2340-2341	.	_	_	
+
+#Text=HARPER.
+30-1	2342-2348	HARPER	_	_	
+30-2	2348-2349	.	_	_	

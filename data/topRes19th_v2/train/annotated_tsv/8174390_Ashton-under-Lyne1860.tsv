@@ -1,0 +1,368 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=T IVER COMPLAINTS, BILE, WIND, AND INDIGESTION CURED WITHOUT MERCURY.
+1-1	0-1	T	_	_	
+1-2	2-6	IVER	_	_	
+1-3	7-17	COMPLAINTS	_	_	
+1-4	17-18	,	_	_	
+1-5	19-23	BILE	_	_	
+1-6	23-24	,	_	_	
+1-7	25-29	WIND	_	_	
+1-8	29-30	,	_	_	
+1-9	31-34	AND	_	_	
+1-10	35-46	INDIGESTION	_	_	
+1-11	47-52	CURED	_	_	
+1-12	53-60	WITHOUT	_	_	
+1-13	61-68	MERCURY	_	_	
+1-14	68-69	.	_	_	
+
+#Text=—There are only two medicines which act upon the liver; one is Mercury, the other Dandelion.
+2-1	69-70	—	_	_	
+2-2	70-75	There	_	_	
+2-3	76-79	are	_	_	
+2-4	80-84	only	_	_	
+2-5	85-88	two	_	_	
+2-6	89-98	medicines	_	_	
+2-7	99-104	which	_	_	
+2-8	105-108	act	_	_	
+2-9	109-113	upon	_	_	
+2-10	114-117	the	_	_	
+2-11	118-123	liver	_	_	
+2-12	123-124	;	_	_	
+2-13	125-128	one	_	_	
+2-14	129-131	is	_	_	
+2-15	132-139	Mercury	_	_	
+2-16	139-140	,	_	_	
+2-17	141-144	the	_	_	
+2-18	145-150	other	_	_	
+2-19	151-160	Dandelion	_	_	
+2-20	160-161	.	_	_	
+
+#Text=But if the public knew how Mercury destroys the delicate coats of the stomach, weakens digestion, affects the nerves, and positively shortens life, they would take no other Aperient than Dr.
+3-1	162-165	But	_	_	
+3-2	166-168	if	_	_	
+3-3	169-172	the	_	_	
+3-4	173-179	public	_	_	
+3-5	180-184	knew	_	_	
+3-6	185-188	how	_	_	
+3-7	189-196	Mercury	_	_	
+3-8	197-205	destroys	_	_	
+3-9	206-209	the	_	_	
+3-10	210-218	delicate	_	_	
+3-11	219-224	coats	_	_	
+3-12	225-227	of	_	_	
+3-13	228-231	the	_	_	
+3-14	232-239	stomach	_	_	
+3-15	239-240	,	_	_	
+3-16	241-248	weakens	_	_	
+3-17	249-258	digestion	_	_	
+3-18	258-259	,	_	_	
+3-19	260-267	affects	_	_	
+3-20	268-271	the	_	_	
+3-21	272-278	nerves	_	_	
+3-22	278-279	,	_	_	
+3-23	280-283	and	_	_	
+3-24	284-294	positively	_	_	
+3-25	295-303	shortens	_	_	
+3-26	304-308	life	_	_	
+3-27	308-309	,	_	_	
+3-28	310-314	they	_	_	
+3-29	315-320	would	_	_	
+3-30	321-325	take	_	_	
+3-31	326-328	no	_	_	
+3-32	329-334	other	_	_	
+3-33	335-343	Aperient	_	_	
+3-34	344-348	than	_	_	
+3-35	349-351	Dr	_	_	
+3-36	351-352	.	_	_	
+
+#Text=KING’S DANDELION and QUININE LIVER PILLS, which liberate bile, disperse wind, strengthens the whole frame ; and are the best, pill for torpid liver, headache, furred tongue, diaslness, fluttering of the heart, billiousness, indigestion, acidity and general debility, and unlike every other aperient pill, may be taken without fear of cold.
+4-1	353-357	KING	_	_	
+4-2	357-358	’	_	_	
+4-3	358-359	S	_	_	
+4-4	360-369	DANDELION	_	_	
+4-5	370-373	and	_	_	
+4-6	374-381	QUININE	_	_	
+4-7	382-387	LIVER	_	_	
+4-8	388-393	PILLS	_	_	
+4-9	393-394	,	_	_	
+4-10	395-400	which	_	_	
+4-11	401-409	liberate	_	_	
+4-12	410-414	bile	_	_	
+4-13	414-415	,	_	_	
+4-14	416-424	disperse	_	_	
+4-15	425-429	wind	_	_	
+4-16	429-430	,	_	_	
+4-17	431-442	strengthens	_	_	
+4-18	443-446	the	_	_	
+4-19	447-452	whole	_	_	
+4-20	453-458	frame	_	_	
+4-21	459-460	;	_	_	
+4-22	461-464	and	_	_	
+4-23	465-468	are	_	_	
+4-24	469-472	the	_	_	
+4-25	473-477	best	_	_	
+4-26	477-478	,	_	_	
+4-27	479-483	pill	_	_	
+4-28	484-487	for	_	_	
+4-29	488-494	torpid	_	_	
+4-30	495-500	liver	_	_	
+4-31	500-501	,	_	_	
+4-32	502-510	headache	_	_	
+4-33	510-511	,	_	_	
+4-34	512-518	furred	_	_	
+4-35	519-525	tongue	_	_	
+4-36	525-526	,	_	_	
+4-37	527-536	diaslness	_	_	
+4-38	536-537	,	_	_	
+4-39	538-548	fluttering	_	_	
+4-40	549-551	of	_	_	
+4-41	552-555	the	_	_	
+4-42	556-561	heart	_	_	
+4-43	561-562	,	_	_	
+4-44	563-575	billiousness	_	_	
+4-45	575-576	,	_	_	
+4-46	577-588	indigestion	_	_	
+4-47	588-589	,	_	_	
+4-48	590-597	acidity	_	_	
+4-49	598-601	and	_	_	
+4-50	602-609	general	_	_	
+4-51	610-618	debility	_	_	
+4-52	618-619	,	_	_	
+4-53	620-623	and	_	_	
+4-54	624-630	unlike	_	_	
+4-55	631-636	every	_	_	
+4-56	637-642	other	_	_	
+4-57	643-651	aperient	_	_	
+4-58	652-656	pill	_	_	
+4-59	656-657	,	_	_	
+4-60	658-661	may	_	_	
+4-61	662-664	be	_	_	
+4-62	665-670	taken	_	_	
+4-63	671-678	without	_	_	
+4-64	679-683	fear	_	_	
+4-65	684-686	of	_	_	
+4-66	687-691	cold	_	_	
+4-67	691-692	.	_	_	
+
+#Text=They cleanse the blood and fluids from all imparity.
+5-1	693-697	They	_	_	
+5-2	698-705	cleanse	_	_	
+5-3	706-709	the	_	_	
+5-4	710-715	blood	_	_	
+5-5	716-719	and	_	_	
+5-6	720-726	fluids	_	_	
+5-7	727-731	from	_	_	
+5-8	732-735	all	_	_	
+5-9	736-744	imparity	_	_	
+5-10	744-745	.	_	_	
+
+#Text=In boxes Is.
+6-1	746-748	In	_	_	
+6-2	749-754	boxes	_	_	
+6-3	755-757	Is	_	_	
+6-4	757-758	.	_	_	
+
+#Text=Ijid., 3s. 9d., and 4s. fid, each.
+7-1	759-763	Ijid	_	_	
+7-2	763-764	.	_	_	
+7-3	764-765	,	_	_	
+7-4	766-768	3s	_	_	
+7-5	768-769	.	_	_	
+7-6	770-772	9d	_	_	
+7-7	772-773	.	_	_	
+7-8	773-774	,	_	_	
+7-9	775-778	and	_	_	
+7-10	779-781	4s	_	_	
+7-11	781-782	.	_	_	
+7-12	783-786	fid	_	_	
+7-13	786-787	,	_	_	
+7-14	788-792	each	_	_	
+7-15	792-793	.	_	_	
+
+#Text=Prepared by JAMES RORKE, 47, Mortimer-street, Cavendish-square, London, W.
+8-1	794-802	Prepared	_	_	
+8-2	803-805	by	_	_	
+8-3	806-811	JAMES	_	_	
+8-4	812-817	RORKE	_	_	
+8-5	817-818	,	_	_	
+8-6	819-821	47	_	_	
+8-7	821-822	,	_	_	
+8-8	823-838	Mortimer-street	https://en.wikipedia.org/wiki/Mortimer\_Street	STREET	
+8-9	838-839	,	_	_	
+8-10	840-856	Cavendish-square	https://en.wikipedia.org/wiki/Cavendish\_Square	STREET	
+8-11	856-857	,	_	_	
+8-12	858-864	London	https://en.wikipedia.org/wiki/London	LOC	
+8-13	864-865	,	_	_	
+8-14	866-867	W	_	_	
+8-15	867-868	.	_	_	
+
+#Text=Free by post for stamps and following Agents :—Waterhouse, Ashton; H.
+9-1	869-873	Free	_	_	
+9-2	874-876	by	_	_	
+9-3	877-881	post	_	_	
+9-4	882-885	for	_	_	
+9-5	886-892	stamps	_	_	
+9-6	893-896	and	_	_	
+9-7	897-906	following	_	_	
+9-8	907-913	Agents	_	_	
+9-9	914-915	:	_	_	
+9-10	915-916	—	_	_	
+9-11	916-926	Waterhouse	_	_	
+9-12	926-927	,	_	_	
+9-13	928-934	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+9-14	934-935	;	_	_	
+9-15	936-937	H	_	_	
+9-16	937-938	.	_	_	
+
+#Text=L.
+10-1	939-940	L	_	_	
+10-2	940-941	.	_	_	
+
+#Text=Hargreaves, W.
+11-1	942-952	Hargreaves	_	_	
+11-2	952-953	,	_	_	
+11-3	954-955	W	_	_	
+11-4	955-956	.	_	_	
+
+#Text=Qeddes, Oldham D.
+12-1	957-963	Qeddes	_	_	
+12-2	963-964	,	_	_	
+12-3	965-971	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+12-4	972-973	D	_	_	
+12-5	973-974	.	_	_	
+
+#Text=Woolley, J.
+13-1	975-982	Woolley	_	_	
+13-2	982-983	,	_	_	
+13-3	984-985	J	_	_	
+13-4	985-986	.	_	_	
+
+#Text=Royse, J.
+14-1	987-992	Royse	_	_	
+14-2	992-993	,	_	_	
+14-3	994-995	J	_	_	
+14-4	995-996	.	_	_	
+
+#Text=Walker, Stockport; Westmacott, Market-street, Manchester ; and all respectable Chemists and Medicine Vendors.
+15-1	997-1003	Walker	_	_	
+15-2	1003-1004	,	_	_	
+15-3	1005-1014	Stockport	https://en.wikipedia.org/wiki/Stockport	LOC	
+15-4	1014-1015	;	_	_	
+15-5	1016-1026	Westmacott	_	_	
+15-6	1026-1027	,	_	_	
+15-7	1028-1041	Market-street	*	STREET	
+15-8	1041-1042	,	_	_	
+15-9	1043-1053	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+15-10	1054-1055	;	_	_	
+15-11	1056-1059	and	_	_	
+15-12	1060-1063	all	_	_	
+15-13	1064-1075	respectable	_	_	
+15-14	1076-1084	Chemists	_	_	
+15-15	1085-1088	and	_	_	
+15-16	1089-1097	Medicine	_	_	
+15-17	1098-1105	Vendors	_	_	
+15-18	1105-1106	.	_	_	
+
+#Text=Hair really restored.— MOORE’S CASHMERE QUINIXE BALM is positively the most certain, elegant, and agreeable compound for giving healthy vigor to the very roots of the Hair, and restoring it even after years of Baldness, It also combines the remarkable property of making the hands soft and white.
+16-1	1108-1112	Hair	_	_	
+16-2	1113-1119	really	_	_	
+16-3	1120-1128	restored	_	_	
+16-4	1128-1129	.	_	_	
+16-5	1129-1130	—	_	_	
+16-6	1131-1136	MOORE	_	_	
+16-7	1136-1137	’	_	_	
+16-8	1137-1138	S	_	_	
+16-9	1139-1147	CASHMERE	_	_	
+16-10	1148-1155	QUINIXE	_	_	
+16-11	1156-1160	BALM	_	_	
+16-12	1161-1163	is	_	_	
+16-13	1164-1174	positively	_	_	
+16-14	1175-1178	the	_	_	
+16-15	1179-1183	most	_	_	
+16-16	1184-1191	certain	_	_	
+16-17	1191-1192	,	_	_	
+16-18	1193-1200	elegant	_	_	
+16-19	1200-1201	,	_	_	
+16-20	1202-1205	and	_	_	
+16-21	1206-1215	agreeable	_	_	
+16-22	1216-1224	compound	_	_	
+16-23	1225-1228	for	_	_	
+16-24	1229-1235	giving	_	_	
+16-25	1236-1243	healthy	_	_	
+16-26	1244-1249	vigor	_	_	
+16-27	1250-1252	to	_	_	
+16-28	1253-1256	the	_	_	
+16-29	1257-1261	very	_	_	
+16-30	1262-1267	roots	_	_	
+16-31	1268-1270	of	_	_	
+16-32	1271-1274	the	_	_	
+16-33	1275-1279	Hair	_	_	
+16-34	1279-1280	,	_	_	
+16-35	1281-1284	and	_	_	
+16-36	1285-1294	restoring	_	_	
+16-37	1295-1297	it	_	_	
+16-38	1298-1302	even	_	_	
+16-39	1303-1308	after	_	_	
+16-40	1309-1314	years	_	_	
+16-41	1315-1317	of	_	_	
+16-42	1318-1326	Baldness	_	_	
+16-43	1326-1327	,	_	_	
+16-44	1328-1330	It	_	_	
+16-45	1331-1335	also	_	_	
+16-46	1336-1344	combines	_	_	
+16-47	1345-1348	the	_	_	
+16-48	1349-1359	remarkable	_	_	
+16-49	1360-1368	property	_	_	
+16-50	1369-1371	of	_	_	
+16-51	1372-1378	making	_	_	
+16-52	1379-1382	the	_	_	
+16-53	1383-1388	hands	_	_	
+16-54	1389-1393	soft	_	_	
+16-55	1394-1397	and	_	_	
+16-56	1398-1403	white	_	_	
+16-57	1403-1404	.	_	_	
+
+#Text=Price 2s. 6d., 4s. 6d., 7s. 6d., and Us. per bottle.
+17-1	1405-1410	Price	_	_	
+17-2	1411-1413	2s	_	_	
+17-3	1413-1414	.	_	_	
+17-4	1415-1417	6d	_	_	
+17-5	1417-1418	.	_	_	
+17-6	1418-1419	,	_	_	
+17-7	1420-1422	4s	_	_	
+17-8	1422-1423	.	_	_	
+17-9	1424-1426	6d	_	_	
+17-10	1426-1427	.	_	_	
+17-11	1427-1428	,	_	_	
+17-12	1429-1431	7s	_	_	
+17-13	1431-1432	.	_	_	
+17-14	1433-1435	6d	_	_	
+17-15	1435-1436	.	_	_	
+17-16	1436-1437	,	_	_	
+17-17	1438-1441	and	_	_	
+17-18	1442-1444	Us	_	_	
+17-19	1444-1445	.	_	_	
+17-20	1446-1449	per	_	_	
+17-21	1450-1456	bottle	_	_	
+17-22	1456-1457	.	_	_	
+
+#Text=Prepared only by JAMES RORKE, and sold by same agents as in above advertisement.
+18-1	1458-1466	Prepared	_	_	
+18-2	1467-1471	only	_	_	
+18-3	1472-1474	by	_	_	
+18-4	1475-1480	JAMES	_	_	
+18-5	1481-1486	RORKE	_	_	
+18-6	1486-1487	,	_	_	
+18-7	1488-1491	and	_	_	
+18-8	1492-1496	sold	_	_	
+18-9	1497-1499	by	_	_	
+18-10	1500-1504	same	_	_	
+18-11	1505-1511	agents	_	_	
+18-12	1512-1514	as	_	_	
+18-13	1515-1517	in	_	_	
+18-14	1518-1523	above	_	_	
+18-15	1524-1537	advertisement	_	_	
+18-16	1537-1538	.	_	_	

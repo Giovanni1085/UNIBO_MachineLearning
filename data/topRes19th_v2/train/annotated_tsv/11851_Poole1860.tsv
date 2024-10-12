@@ -1,0 +1,477 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WHOLESALE CLOTHING WAREHOUSE.
+1-1	0-9	WHOLESALE	_	_	
+1-2	10-18	CLOTHING	_	_	
+1-3	19-28	WAREHOUSE	_	_	
+1-4	28-29	.	_	_	
+
+#Text=JOHN S.
+2-1	31-35	JOHN	_	_	
+2-2	36-37	S	_	_	
+2-3	37-38	.	_	_	
+
+#Text=DREW, SOUTH STREET, WAREHAM.
+3-1	39-43	DREW	_	_	
+3-2	43-44	,	_	_	
+3-3	45-50	SOUTH	*[1]	STREET[1]	
+3-4	51-57	STREET	*[1]	STREET[1]	
+3-5	57-58	,	_	_	
+3-6	59-66	WAREHAM	https://en.wikipedia.org/wiki/Wareham,\_Dorset	LOC	
+3-7	66-67	.	_	_	
+
+#Text=COATS: DRESS, 30s. to Ws.
+4-1	68-73	COATS	_	_	
+4-2	73-74	:	_	_	
+4-3	75-80	DRESS	_	_	
+4-4	80-81	,	_	_	
+4-5	82-85	30s	_	_	
+4-6	85-86	.	_	_	
+4-7	87-89	to	_	_	
+4-8	90-92	Ws	_	_	
+4-9	92-93	.	_	_	
+
+#Text=FROCK, 30s. to 60a.
+5-1	94-99	FROCK	_	_	
+5-2	99-100	,	_	_	
+5-3	101-104	30s	_	_	
+5-4	104-105	.	_	_	
+5-5	106-108	to	_	_	
+5-6	109-112	60a	_	_	
+5-7	112-113	.	_	_	
+
+#Text=MORNING, 16s. to 355.
+6-1	114-121	MORNING	_	_	
+6-2	121-122	,	_	_	
+6-3	123-126	16s	_	_	
+6-4	126-127	.	_	_	
+6-5	128-130	to	_	_	
+6-6	131-134	355	_	_	
+6-7	134-135	.	_	_	
+
+#Text=VESTS la every Variety, 61. to 14s.
+7-1	136-141	VESTS	_	_	
+7-2	142-144	la	_	_	
+7-3	145-150	every	_	_	
+7-4	151-158	Variety	_	_	
+7-5	158-159	,	_	_	
+7-6	160-162	61	_	_	
+7-7	162-163	.	_	_	
+7-8	164-166	to	_	_	
+7-9	167-170	14s	_	_	
+7-10	170-171	.	_	_	
+
+#Text=TROUSERS, a good Fit Warsaated, 12,. to 235.
+8-1	172-180	TROUSERS	_	_	
+8-2	180-181	,	_	_	
+8-3	182-183	a	_	_	
+8-4	184-188	good	_	_	
+8-5	189-192	Fit	_	_	
+8-6	193-202	Warsaated	_	_	
+8-7	202-203	,	_	_	
+8-8	204-206	12	_	_	
+8-9	206-207	,	_	_	
+8-10	207-208	.	_	_	
+8-11	209-211	to	_	_	
+8-12	212-215	235	_	_	
+8-13	215-216	.	_	_	
+
+#Text=LIVERIES.
+9-1	217-225	LIVERIES	_	_	
+9-2	225-226	.	_	_	
+
+#Text=SERVANTS LIVERIES MADE TO ORDER ON THE SHORTEST NOTICE.
+10-1	227-235	SERVANTS	_	_	
+10-2	236-244	LIVERIES	_	_	
+10-3	245-249	MADE	_	_	
+10-4	250-252	TO	_	_	
+10-5	253-258	ORDER	_	_	
+10-6	259-261	ON	_	_	
+10-7	262-265	THE	_	_	
+10-8	266-274	SHORTEST	_	_	
+10-9	275-281	NOTICE	_	_	
+10-10	281-282	.	_	_	
+
+#Text=BOOTS.
+11-1	283-288	BOOTS	_	_	
+11-2	288-289	.	_	_	
+
+#Text=SHOES.
+12-1	290-295	SHOES	_	_	
+12-2	295-296	.	_	_	
+
+#Text=LA.DIES and GENTLEMENS FRENCH and ENGLISH BOOTS and SHOES of Every Description, Ready Made and to Measure. 
+#Text=120.
+13-1	297-304	LA.DIES	_	_	
+13-2	305-308	and	_	_	
+13-3	309-319	GENTLEMENS	_	_	
+13-4	320-326	FRENCH	_	_	
+13-5	327-330	and	_	_	
+13-6	331-338	ENGLISH	_	_	
+13-7	339-344	BOOTS	_	_	
+13-8	345-348	and	_	_	
+13-9	349-354	SHOES	_	_	
+13-10	355-357	of	_	_	
+13-11	358-363	Every	_	_	
+13-12	364-375	Description	_	_	
+13-13	375-376	,	_	_	
+13-14	377-382	Ready	_	_	
+13-15	383-387	Made	_	_	
+13-16	388-391	and	_	_	
+13-17	392-394	to	_	_	
+13-18	395-402	Measure	_	_	
+13-19	402-403	.	_	_	
+13-20	405-408	120	_	_	
+13-21	408-409	.	_	_	
+
+#Text=--HICI-1-1 STREET.
+14-1	409-410	-	*[2]	STREET[2]	
+14-2	410-411	-	*[2]	STREET[2]	
+14-3	411-415	HICI	*[2]	STREET[2]	
+14-4	415-416	-	*[2]	STREET[2]	
+14-5	416-417	1	*[2]	STREET[2]	
+14-6	417-418	-	*[2]	STREET[2]	
+14-7	418-419	1	*[2]	STREET[2]	
+14-8	420-426	STREET	*[2]	STREET[2]	
+14-9	426-427	.	_	_	
+
+#Text=POOLE 120• ALFRED DAWES 
+#Text=RESPECTFLILLY informs the Ladies of Poole, Bournemouth, and surrounding neighbourhood that he has completed his Spring Purchases, which have been selected with care from the principal London Markets, and which comprise every novelty for the season in DRESSES, MANTLES, SHAWLS, BONNETS, FLOWERS, FEATHERS, PARASOLS, SUN OMBRELLES, &e., &c., to which he invites au early inspection.
+15-1	428-433	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+15-2	434-437	120	_	_	
+15-3	437-438	•	_	_	
+15-4	439-445	ALFRED	_	_	
+15-5	446-451	DAWES	_	_	
+15-6	453-466	RESPECTFLILLY	_	_	
+15-7	467-474	informs	_	_	
+15-8	475-478	the	_	_	
+15-9	479-485	Ladies	_	_	
+15-10	486-488	of	_	_	
+15-11	489-494	Poole	https://en.wikipedia.org/wiki/Poole	LOC	
+15-12	494-495	,	_	_	
+15-13	496-507	Bournemouth	https://en.wikipedia.org/wiki/Bournemouth	LOC	
+15-14	507-508	,	_	_	
+15-15	509-512	and	_	_	
+15-16	513-524	surrounding	_	_	
+15-17	525-538	neighbourhood	_	_	
+15-18	539-543	that	_	_	
+15-19	544-546	he	_	_	
+15-20	547-550	has	_	_	
+15-21	551-560	completed	_	_	
+15-22	561-564	his	_	_	
+15-23	565-571	Spring	_	_	
+15-24	572-581	Purchases	_	_	
+15-25	581-582	,	_	_	
+15-26	583-588	which	_	_	
+15-27	589-593	have	_	_	
+15-28	594-598	been	_	_	
+15-29	599-607	selected	_	_	
+15-30	608-612	with	_	_	
+15-31	613-617	care	_	_	
+15-32	618-622	from	_	_	
+15-33	623-626	the	_	_	
+15-34	627-636	principal	_	_	
+15-35	637-643	London	https://en.wikipedia.org/wiki/London	LOC	
+15-36	644-651	Markets	_	_	
+15-37	651-652	,	_	_	
+15-38	653-656	and	_	_	
+15-39	657-662	which	_	_	
+15-40	663-671	comprise	_	_	
+15-41	672-677	every	_	_	
+15-42	678-685	novelty	_	_	
+15-43	686-689	for	_	_	
+15-44	690-693	the	_	_	
+15-45	694-700	season	_	_	
+15-46	701-703	in	_	_	
+15-47	704-711	DRESSES	_	_	
+15-48	711-712	,	_	_	
+15-49	713-720	MANTLES	_	_	
+15-50	720-721	,	_	_	
+15-51	722-728	SHAWLS	_	_	
+15-52	728-729	,	_	_	
+15-53	730-737	BONNETS	_	_	
+15-54	737-738	,	_	_	
+15-55	739-746	FLOWERS	_	_	
+15-56	746-747	,	_	_	
+15-57	748-756	FEATHERS	_	_	
+15-58	756-757	,	_	_	
+15-59	758-766	PARASOLS	_	_	
+15-60	766-767	,	_	_	
+15-61	768-771	SUN	_	_	
+15-62	772-781	OMBRELLES	_	_	
+15-63	781-782	,	_	_	
+15-64	783-784	&	_	_	
+15-65	784-785	e	_	_	
+15-66	785-786	.	_	_	
+15-67	786-787	,	_	_	
+15-68	788-789	&	_	_	
+15-69	789-790	c	_	_	
+15-70	790-791	.	_	_	
+15-71	791-792	,	_	_	
+15-72	793-795	to	_	_	
+15-73	796-801	which	_	_	
+15-74	802-804	he	_	_	
+15-75	805-812	invites	_	_	
+15-76	813-815	au	_	_	
+15-77	816-821	early	_	_	
+15-78	822-832	inspection	_	_	
+15-79	832-833	.	_	_	
+
+#Text=A.
+16-1	834-835	A	_	_	
+16-2	835-836	.	_	_	
+
+#Text=D. has also a large stuck of CALICOES, LONG CLOTHS, LINENS, SHEETINGS, and GENERAL DRAPERY, which he can offer at moderate prices.
+17-1	837-838	D	_	_	
+17-2	838-839	.	_	_	
+17-3	840-843	has	_	_	
+17-4	844-848	also	_	_	
+17-5	849-850	a	_	_	
+17-6	851-856	large	_	_	
+17-7	857-862	stuck	_	_	
+17-8	863-865	of	_	_	
+17-9	866-874	CALICOES	_	_	
+17-10	874-875	,	_	_	
+17-11	876-880	LONG	_	_	
+17-12	881-887	CLOTHS	_	_	
+17-13	887-888	,	_	_	
+17-14	889-895	LINENS	_	_	
+17-15	895-896	,	_	_	
+17-16	897-906	SHEETINGS	_	_	
+17-17	906-907	,	_	_	
+17-18	908-911	and	_	_	
+17-19	912-919	GENERAL	_	_	
+17-20	920-927	DRAPERY	_	_	
+17-21	927-928	,	_	_	
+17-22	929-934	which	_	_	
+17-23	935-937	he	_	_	
+17-24	938-941	can	_	_	
+17-25	942-947	offer	_	_	
+17-26	948-950	at	_	_	
+17-27	951-959	moderate	_	_	
+17-28	960-966	prices	_	_	
+17-29	966-967	.	_	_	
+
+#Text=FUNERALS FURNISHED AND FAMILY MOURNING SUPPLIED.
+18-1	968-976	FUNERALS	_	_	
+18-2	977-986	FURNISHED	_	_	
+18-3	987-990	AND	_	_	
+18-4	991-997	FAMILY	_	_	
+18-5	998-1006	MOURNING	_	_	
+18-6	1007-1015	SUPPLIED	_	_	
+18-7	1015-1016	.	_	_	
+
+#Text=HERALD OFFICE, HIGH STREET, POOLE.
+19-1	1018-1024	HERALD	_	_	
+19-2	1025-1031	OFFICE	_	_	
+19-3	1031-1032	,	_	_	
+19-4	1033-1037	HIGH	*[3]	STREET[3]	
+19-5	1038-1044	STREET	*[3]	STREET[3]	
+19-6	1044-1045	,	_	_	
+19-7	1046-1051	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+19-8	1051-1052	.	_	_	
+
+#Text=TRIBBETT AND MATE, LETTER PRESS PRINTERS AND BOOKBINDERS, AVAIL themselves of the present opportunity of returning their sincere thanks to the Inhabitants of Poole, Pinkstone, B,,orouutouth, Wareham.
+20-1	1054-1062	TRIBBETT	_	_	
+20-2	1063-1066	AND	_	_	
+20-3	1067-1071	MATE	_	_	
+20-4	1071-1072	,	_	_	
+20-5	1073-1079	LETTER	_	_	
+20-6	1080-1085	PRESS	_	_	
+20-7	1086-1094	PRINTERS	_	_	
+20-8	1095-1098	AND	_	_	
+20-9	1099-1110	BOOKBINDERS	_	_	
+20-10	1110-1111	,	_	_	
+20-11	1112-1117	AVAIL	_	_	
+20-12	1118-1128	themselves	_	_	
+20-13	1129-1131	of	_	_	
+20-14	1132-1135	the	_	_	
+20-15	1136-1143	present	_	_	
+20-16	1144-1155	opportunity	_	_	
+20-17	1156-1158	of	_	_	
+20-18	1159-1168	returning	_	_	
+20-19	1169-1174	their	_	_	
+20-20	1175-1182	sincere	_	_	
+20-21	1183-1189	thanks	_	_	
+20-22	1190-1192	to	_	_	
+20-23	1193-1196	the	_	_	
+20-24	1197-1208	Inhabitants	_	_	
+20-25	1209-1211	of	_	_	
+20-26	1212-1217	Poole	https://en.wikipedia.org/wiki/Poole	LOC	
+20-27	1217-1218	,	_	_	
+20-28	1219-1228	Pinkstone	https://en.wikipedia.org/wiki/Parkstone	LOC	
+20-29	1228-1229	,	_	_	
+20-30	1230-1231	B	https://en.wikipedia.org/wiki/Bournemouth[4]	LOC[4]	
+20-31	1231-1232	,	https://en.wikipedia.org/wiki/Bournemouth[4]	LOC[4]	
+20-32	1232-1233	,	https://en.wikipedia.org/wiki/Bournemouth[4]	LOC[4]	
+20-33	1233-1243	orouutouth	https://en.wikipedia.org/wiki/Bournemouth[4]	LOC[4]	
+20-34	1243-1244	,	_	_	
+20-35	1245-1252	Wareham	https://en.wikipedia.org/wiki/Wareham,\_Dorset	LOC	
+20-36	1252-1253	.	_	_	
+
+#Text=Corte Castle, Swanage, and adjacent neighbourhoods for the liberal patronage they have received in the above trade during the past seven years, and beg respectfully to inform their numerous friends that they have just added to the above business the STATIONERY AND BOOKSELLING DEPARTMENT, And trust by strict attention to their trade generally to obtain a share of public support.
+21-1	1254-1259	Corte	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[5]	LOC[5]	
+21-2	1260-1266	Castle	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[5]	LOC[5]	
+21-3	1266-1267	,	_	_	
+21-4	1268-1275	Swanage	https://en.wikipedia.org/wiki/Swanage	LOC	
+21-5	1275-1276	,	_	_	
+21-6	1277-1280	and	_	_	
+21-7	1281-1289	adjacent	_	_	
+21-8	1290-1304	neighbourhoods	_	_	
+21-9	1305-1308	for	_	_	
+21-10	1309-1312	the	_	_	
+21-11	1313-1320	liberal	_	_	
+21-12	1321-1330	patronage	_	_	
+21-13	1331-1335	they	_	_	
+21-14	1336-1340	have	_	_	
+21-15	1341-1349	received	_	_	
+21-16	1350-1352	in	_	_	
+21-17	1353-1356	the	_	_	
+21-18	1357-1362	above	_	_	
+21-19	1363-1368	trade	_	_	
+21-20	1369-1375	during	_	_	
+21-21	1376-1379	the	_	_	
+21-22	1380-1384	past	_	_	
+21-23	1385-1390	seven	_	_	
+21-24	1391-1396	years	_	_	
+21-25	1396-1397	,	_	_	
+21-26	1398-1401	and	_	_	
+21-27	1402-1405	beg	_	_	
+21-28	1406-1418	respectfully	_	_	
+21-29	1419-1421	to	_	_	
+21-30	1422-1428	inform	_	_	
+21-31	1429-1434	their	_	_	
+21-32	1435-1443	numerous	_	_	
+21-33	1444-1451	friends	_	_	
+21-34	1452-1456	that	_	_	
+21-35	1457-1461	they	_	_	
+21-36	1462-1466	have	_	_	
+21-37	1467-1471	just	_	_	
+21-38	1472-1477	added	_	_	
+21-39	1478-1480	to	_	_	
+21-40	1481-1484	the	_	_	
+21-41	1485-1490	above	_	_	
+21-42	1491-1499	business	_	_	
+21-43	1500-1503	the	_	_	
+21-44	1504-1514	STATIONERY	_	_	
+21-45	1515-1518	AND	_	_	
+21-46	1519-1530	BOOKSELLING	_	_	
+21-47	1531-1541	DEPARTMENT	_	_	
+21-48	1541-1542	,	_	_	
+21-49	1543-1546	And	_	_	
+21-50	1547-1552	trust	_	_	
+21-51	1553-1555	by	_	_	
+21-52	1556-1562	strict	_	_	
+21-53	1563-1572	attention	_	_	
+21-54	1573-1575	to	_	_	
+21-55	1576-1581	their	_	_	
+21-56	1582-1587	trade	_	_	
+21-57	1588-1597	generally	_	_	
+21-58	1598-1600	to	_	_	
+21-59	1601-1607	obtain	_	_	
+21-60	1608-1609	a	_	_	
+21-61	1610-1615	share	_	_	
+21-62	1616-1618	of	_	_	
+21-63	1619-1625	public	_	_	
+21-64	1626-1633	support	_	_	
+21-65	1633-1634	.	_	_	
+
+#Text=T. and M. respectfully solicit an early inspection of their STOCK OF MOURNING, PLAIN, AND FANCY STATIONERY, &c.
+22-1	1635-1636	T	_	_	
+22-2	1636-1637	.	_	_	
+22-3	1638-1641	and	_	_	
+22-4	1642-1643	M	_	_	
+22-5	1643-1644	.	_	_	
+22-6	1645-1657	respectfully	_	_	
+22-7	1658-1665	solicit	_	_	
+22-8	1666-1668	an	_	_	
+22-9	1669-1674	early	_	_	
+22-10	1675-1685	inspection	_	_	
+22-11	1686-1688	of	_	_	
+22-12	1689-1694	their	_	_	
+22-13	1695-1700	STOCK	_	_	
+22-14	1701-1703	OF	_	_	
+22-15	1704-1712	MOURNING	_	_	
+22-16	1712-1713	,	_	_	
+22-17	1714-1719	PLAIN	_	_	
+22-18	1719-1720	,	_	_	
+22-19	1721-1724	AND	_	_	
+22-20	1725-1730	FANCY	_	_	
+22-21	1731-1741	STATIONERY	_	_	
+22-22	1741-1742	,	_	_	
+22-23	1743-1744	&	_	_	
+22-24	1744-1745	c	_	_	
+22-25	1745-1746	.	_	_	
+
+#Text=A SELECTION OF BIBLES, CHURCH SERVICES, AND PRAYERS In Plain and Ornamental Bindings, from one of the largest Bible Warehouses in the Metropolis.
+23-1	1747-1748	A	_	_	
+23-2	1749-1758	SELECTION	_	_	
+23-3	1759-1761	OF	_	_	
+23-4	1762-1768	BIBLES	_	_	
+23-5	1768-1769	,	_	_	
+23-6	1770-1776	CHURCH	_	_	
+23-7	1777-1785	SERVICES	_	_	
+23-8	1785-1786	,	_	_	
+23-9	1787-1790	AND	_	_	
+23-10	1791-1798	PRAYERS	_	_	
+23-11	1799-1801	In	_	_	
+23-12	1802-1807	Plain	_	_	
+23-13	1808-1811	and	_	_	
+23-14	1812-1822	Ornamental	_	_	
+23-15	1823-1831	Bindings	_	_	
+23-16	1831-1832	,	_	_	
+23-17	1833-1837	from	_	_	
+23-18	1838-1841	one	_	_	
+23-19	1842-1844	of	_	_	
+23-20	1845-1848	the	_	_	
+23-21	1849-1856	largest	_	_	
+23-22	1857-1862	Bible	_	_	
+23-23	1863-1873	Warehouses	_	_	
+23-24	1874-1876	in	_	_	
+23-25	1877-1880	the	_	_	
+23-26	1881-1891	Metropolis	_	_	
+23-27	1891-1892	.	_	_	
+
+#Text=ACCOUNT AND SCHOOL BOOKS OF ALL KINDS.
+24-1	1894-1901	ACCOUNT	_	_	
+24-2	1902-1905	AND	_	_	
+24-3	1906-1912	SCHOOL	_	_	
+24-4	1913-1918	BOOKS	_	_	
+24-5	1919-1921	OF	_	_	
+24-6	1922-1925	ALL	_	_	
+24-7	1926-1931	KINDS	_	_	
+24-8	1931-1932	.	_	_	
+
+#Text=T. and M. hae made arrangements with a first class London Publish, r and News Agent for the l prompt 
+#Text=execution of ever) urder earuetedtu
+25-1	1934-1935	T	_	_	
+25-2	1935-1936	.	_	_	
+25-3	1937-1940	and	_	_	
+25-4	1941-1942	M	_	_	
+25-5	1942-1943	.	_	_	
+25-6	1944-1947	hae	_	_	
+25-7	1948-1952	made	_	_	
+25-8	1953-1965	arrangements	_	_	
+25-9	1966-1970	with	_	_	
+25-10	1971-1972	a	_	_	
+25-11	1973-1978	first	_	_	
+25-12	1979-1984	class	_	_	
+25-13	1985-1991	London	https://en.wikipedia.org/wiki/London	LOC	
+25-14	1992-1999	Publish	_	_	
+25-15	1999-2000	,	_	_	
+25-16	2001-2002	r	_	_	
+25-17	2003-2006	and	_	_	
+25-18	2007-2011	News	_	_	
+25-19	2012-2017	Agent	_	_	
+25-20	2018-2021	for	_	_	
+25-21	2022-2025	the	_	_	
+25-22	2026-2027	l	_	_	
+25-23	2028-2034	prompt	_	_	
+25-24	2036-2045	execution	_	_	
+25-25	2046-2048	of	_	_	
+25-26	2049-2053	ever	_	_	
+25-27	2053-2054	)	_	_	
+25-28	2055-2060	urder	_	_	
+25-29	2061-2071	earuetedtu	_	_	

@@ -1,0 +1,225 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Important to Landlords, Farmers, and the Clergy, HEMPSTEAD APPEAL-CASE, Between Dowager Lady Suifield and certain Farmers, tenants of R.
+1-1	0-9	Important	_	_	
+1-2	10-12	to	_	_	
+1-3	13-22	Landlords	_	_	
+1-4	22-23	,	_	_	
+1-5	24-31	Farmers	_	_	
+1-6	31-32	,	_	_	
+1-7	33-36	and	_	_	
+1-8	37-40	the	_	_	
+1-9	41-47	Clergy	_	_	
+1-10	47-48	,	_	_	
+1-11	49-58	HEMPSTEAD	https://en.wikipedia.org/wiki/Hempstead,\_near\_Holt,\_Norfolk	LOC	
+1-12	59-70	APPEAL-CASE	_	_	
+1-13	70-71	,	_	_	
+1-14	72-79	Between	_	_	
+1-15	80-87	Dowager	_	_	
+1-16	88-92	Lady	_	_	
+1-17	93-101	Suifield	_	_	
+1-18	102-105	and	_	_	
+1-19	106-113	certain	_	_	
+1-20	114-121	Farmers	_	_	
+1-21	121-122	,	_	_	
+1-22	123-130	tenants	_	_	
+1-23	131-133	of	_	_	
+1-24	134-135	R	_	_	
+1-25	135-136	.	_	_	
+
+#Text=H.
+2-1	137-138	H	_	_	
+2-2	138-139	.	_	_	
+
+#Text=Gurney, Esq., M.
+3-1	140-146	Gurney	_	_	
+3-2	146-147	,	_	_	
+3-3	148-151	Esq	_	_	
+3-4	151-152	.	_	_	
+3-5	152-153	,	_	_	
+3-6	154-155	M	_	_	
+3-7	155-156	.	_	_	
+
+#Text=P., respecting TITHES AND POOR-RATES.
+4-1	157-158	P	_	_	
+4-2	158-159	.	_	_	
+4-3	159-160	,	_	_	
+4-4	161-171	respecting	_	_	
+4-5	172-178	TITHES	_	_	
+4-6	179-182	AND	_	_	
+4-7	183-193	POOR-RATES	_	_	
+4-8	193-194	.	_	_	
+
+#Text=This day is published, price 4s.
+5-1	196-200	This	_	_	
+5-2	201-204	day	_	_	
+5-3	205-207	is	_	_	
+5-4	208-217	published	_	_	
+5-5	217-218	,	_	_	
+5-6	219-224	price	_	_	
+5-7	225-227	4s	_	_	
+5-8	227-228	.	_	_	
+
+#Text=A REPORT of the above TRIAL, indmling the calculations of four eminent land-valuers, residing in the county of Norfolk, for ascertaining the assessable value of lands and tithes : prefaced by a defence, supported by legal authority, of the case proved on the part of the fanners, and of the mode of calculation adopted by their witnesses.
+6-1	230-231	A	_	_	
+6-2	232-238	REPORT	_	_	
+6-3	239-241	of	_	_	
+6-4	242-245	the	_	_	
+6-5	246-251	above	_	_	
+6-6	252-257	TRIAL	_	_	
+6-7	257-258	,	_	_	
+6-8	259-267	indmling	_	_	
+6-9	268-271	the	_	_	
+6-10	272-284	calculations	_	_	
+6-11	285-287	of	_	_	
+6-12	288-292	four	_	_	
+6-13	293-300	eminent	_	_	
+6-14	301-313	land-valuers	_	_	
+6-15	313-314	,	_	_	
+6-16	315-323	residing	_	_	
+6-17	324-326	in	_	_	
+6-18	327-330	the	_	_	
+6-19	331-337	county	_	_	
+6-20	338-340	of	_	_	
+6-21	341-348	Norfolk	https://en.wikipedia.org/wiki/Norfolk	LOC	
+6-22	348-349	,	_	_	
+6-23	350-353	for	_	_	
+6-24	354-366	ascertaining	_	_	
+6-25	367-370	the	_	_	
+6-26	371-381	assessable	_	_	
+6-27	382-387	value	_	_	
+6-28	388-390	of	_	_	
+6-29	391-396	lands	_	_	
+6-30	397-400	and	_	_	
+6-31	401-407	tithes	_	_	
+6-32	408-409	:	_	_	
+6-33	410-418	prefaced	_	_	
+6-34	419-421	by	_	_	
+6-35	422-423	a	_	_	
+6-36	424-431	defence	_	_	
+6-37	431-432	,	_	_	
+6-38	433-442	supported	_	_	
+6-39	443-445	by	_	_	
+6-40	446-451	legal	_	_	
+6-41	452-461	authority	_	_	
+6-42	461-462	,	_	_	
+6-43	463-465	of	_	_	
+6-44	466-469	the	_	_	
+6-45	470-474	case	_	_	
+6-46	475-481	proved	_	_	
+6-47	482-484	on	_	_	
+6-48	485-488	the	_	_	
+6-49	489-493	part	_	_	
+6-50	494-496	of	_	_	
+6-51	497-500	the	_	_	
+6-52	501-508	fanners	_	_	
+6-53	508-509	,	_	_	
+6-54	510-513	and	_	_	
+6-55	514-516	of	_	_	
+6-56	517-520	the	_	_	
+6-57	521-525	mode	_	_	
+6-58	526-528	of	_	_	
+6-59	529-540	calculation	_	_	
+6-60	541-548	adopted	_	_	
+6-61	549-551	by	_	_	
+6-62	552-557	their	_	_	
+6-63	558-567	witnesses	_	_	
+6-64	567-568	.	_	_	
+
+#Text=By W.
+7-1	569-571	By	_	_	
+7-2	572-573	W	_	_	
+7-3	573-574	.	_	_	
+
+#Text=WmiF.n*, Juu.
+8-1	575-581	WmiF.n	_	_	
+8-2	581-582	*	_	_	
+8-3	582-583	,	_	_	
+8-4	584-587	Juu	_	_	
+8-5	587-588	.	_	_	
+
+#Text=The Court of Quarter Sessions decided on this occasion, that although the landholders could not and did not pay rent, and one of them actually lost by his occupation notwithstanding, the appellant was aro -rated for her tithes, though uol charged at more than one fourth of the assessment on the land.
+9-1	590-593	The	_	_	
+9-2	594-599	Court	_	_	
+9-3	600-602	of	_	_	
+9-4	603-610	Quarter	_	_	
+9-5	611-619	Sessions	_	_	
+9-6	620-627	decided	_	_	
+9-7	628-630	on	_	_	
+9-8	631-635	this	_	_	
+9-9	636-644	occasion	_	_	
+9-10	644-645	,	_	_	
+9-11	646-650	that	_	_	
+9-12	651-659	although	_	_	
+9-13	660-663	the	_	_	
+9-14	664-675	landholders	_	_	
+9-15	676-681	could	_	_	
+9-16	682-685	not	_	_	
+9-17	686-689	and	_	_	
+9-18	690-693	did	_	_	
+9-19	694-697	not	_	_	
+9-20	698-701	pay	_	_	
+9-21	702-706	rent	_	_	
+9-22	706-707	,	_	_	
+9-23	708-711	and	_	_	
+9-24	712-715	one	_	_	
+9-25	716-718	of	_	_	
+9-26	719-723	them	_	_	
+9-27	724-732	actually	_	_	
+9-28	733-737	lost	_	_	
+9-29	738-740	by	_	_	
+9-30	741-744	his	_	_	
+9-31	745-755	occupation	_	_	
+9-32	756-771	notwithstanding	_	_	
+9-33	771-772	,	_	_	
+9-34	773-776	the	_	_	
+9-35	777-786	appellant	_	_	
+9-36	787-790	was	_	_	
+9-37	791-794	aro	_	_	
+9-38	795-796	-	_	_	
+9-39	796-801	rated	_	_	
+9-40	802-805	for	_	_	
+9-41	806-809	her	_	_	
+9-42	810-816	tithes	_	_	
+9-43	816-817	,	_	_	
+9-44	818-824	though	_	_	
+9-45	825-828	uol	_	_	
+9-46	829-836	charged	_	_	
+9-47	837-839	at	_	_	
+9-48	840-844	more	_	_	
+9-49	845-849	than	_	_	
+9-50	850-853	one	_	_	
+9-51	854-860	fourth	_	_	
+9-52	861-863	of	_	_	
+9-53	864-867	the	_	_	
+9-54	868-878	assessment	_	_	
+9-55	879-881	on	_	_	
+9-56	882-885	the	_	_	
+9-57	886-890	land	_	_	
+9-58	890-891	.	_	_	
+
+#Text=Sold by -Messrs.
+10-1	893-897	Sold	_	_	
+10-2	898-900	by	_	_	
+10-3	901-902	-	_	_	
+10-4	902-908	Messrs	_	_	
+10-5	908-909	.	_	_	
+
+#Text=Longman, Hurst, and Co., I’aternoster How, London.
+11-1	910-917	Longman	_	_	
+11-2	917-918	,	_	_	
+11-3	919-924	Hurst	_	_	
+11-4	924-925	,	_	_	
+11-5	926-929	and	_	_	
+11-6	930-932	Co	_	_	
+11-7	932-933	.	_	_	
+11-8	933-934	,	_	_	
+11-9	935-936	I	https://en.wikipedia.org/wiki/Paternoster\_Row[1]	STREET[1]	
+11-10	936-937	’	https://en.wikipedia.org/wiki/Paternoster\_Row[1]	STREET[1]	
+11-11	937-947	aternoster	https://en.wikipedia.org/wiki/Paternoster\_Row[1]	STREET[1]	
+11-12	948-951	How	https://en.wikipedia.org/wiki/Paternoster\_Row[1]	STREET[1]	
+11-13	951-952	,	_	_	
+11-14	953-959	London	https://en.wikipedia.org/wiki/London	LOC	
+11-15	959-960	.	_	_	

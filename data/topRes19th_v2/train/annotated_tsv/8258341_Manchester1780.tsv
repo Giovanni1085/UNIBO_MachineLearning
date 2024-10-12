@@ -1,0 +1,234 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Thursday’s and Friday’s Posts 
+#Text=From the LONDON GAZETTE., April 8.
+1-1	0-8	Thursday	_	_	
+1-2	8-9	’	_	_	
+1-3	9-10	s	_	_	
+1-4	11-14	and	_	_	
+1-5	15-21	Friday	_	_	
+1-6	21-22	’	_	_	
+1-7	22-23	s	_	_	
+1-8	24-29	Posts	_	_	
+1-9	31-35	From	_	_	
+1-10	36-39	the	_	_	
+1-11	40-46	LONDON	_	_	
+1-12	47-54	GAZETTE	_	_	
+1-13	54-55	.	_	_	
+1-14	55-56	,	_	_	
+1-15	57-62	April	_	_	
+1-16	63-64	8	_	_	
+1-17	64-65	.	_	_	
+
+#Text=St.
+2-1	67-69	St	https://en.wikipedia.org/wiki/St\_James%27s[1]	LOC[1]	
+2-2	69-70	.	https://en.wikipedia.org/wiki/St\_James%27s[1]	LOC[1]	
+
+#Text=Jamess, April 7.
+3-1	71-77	Jamess	https://en.wikipedia.org/wiki/St\_James%27s[1]	LOC[1]	
+3-2	77-78	,	_	_	
+3-3	79-84	April	_	_	
+3-4	85-86	7	_	_	
+3-5	86-87	.	_	_	
+
+#Text=THIS Day the Right Honourable William Eden was, by His Majeftys Command, (worn of his Majeths Moft Honourable Piivy Council, and took his Blade at the Board accordingly.
+4-1	88-92	THIS	_	_	
+4-2	93-96	Day	_	_	
+4-3	97-100	the	_	_	
+4-4	101-106	Right	_	_	
+4-5	107-117	Honourable	_	_	
+4-6	118-125	William	_	_	
+4-7	126-130	Eden	_	_	
+4-8	131-134	was	_	_	
+4-9	134-135	,	_	_	
+4-10	136-138	by	_	_	
+4-11	139-142	His	_	_	
+4-12	143-151	Majeftys	_	_	
+4-13	152-159	Command	_	_	
+4-14	159-160	,	_	_	
+4-15	161-162	(	_	_	
+4-16	162-166	worn	_	_	
+4-17	167-169	of	_	_	
+4-18	170-173	his	_	_	
+4-19	174-181	Majeths	_	_	
+4-20	182-186	Moft	_	_	
+4-21	187-197	Honourable	_	_	
+4-22	198-203	Piivy	_	_	
+4-23	204-211	Council	_	_	
+4-24	211-212	,	_	_	
+4-25	213-216	and	_	_	
+4-26	217-221	took	_	_	
+4-27	222-225	his	_	_	
+4-28	226-231	Blade	_	_	
+4-29	232-234	at	_	_	
+4-30	235-238	the	_	_	
+4-31	239-244	Board	_	_	
+4-32	245-256	accordingly	_	_	
+4-33	256-257	.	_	_	
+
+#Text=Whitehall, April 8.
+5-1	258-267	Whitehall	https://en.wikipedia.org/wiki/Whitehall	LOC	
+5-2	267-268	,	_	_	
+5-3	269-274	April	_	_	
+5-4	275-276	8	_	_	
+5-5	276-277	.	_	_	
+
+#Text=The King has been pleafed to conftitute and appoint Admiral Lord Vifcount Keppcl, Admiral Hugh Pigot, the Right Honouiable William Ponfonby, commonly called Lord Vifeount Duocannon, the Honourable I<dw Townfliend, Sir John Lindfay, Knight of the Bath, VViHiam Joiliffe and Whitfhed Keene, fifquires, to be Commitfioners ■for executing the Oflice of High Admiral of the Kingdoms of Great Britain and Ireland, and the Dominions, Iflands and Territories ther.unto refpeflLiyely belonging.
+6-1	278-281	The	_	_	
+6-2	282-286	King	_	_	
+6-3	287-290	has	_	_	
+6-4	291-295	been	_	_	
+6-5	296-303	pleafed	_	_	
+6-6	304-306	to	_	_	
+6-7	307-317	conftitute	_	_	
+6-8	318-321	and	_	_	
+6-9	322-329	appoint	_	_	
+6-10	330-337	Admiral	_	_	
+6-11	338-342	Lord	_	_	
+6-12	343-351	Vifcount	_	_	
+6-13	352-358	Keppcl	_	_	
+6-14	358-359	,	_	_	
+6-15	360-367	Admiral	_	_	
+6-16	368-372	Hugh	_	_	
+6-17	373-378	Pigot	_	_	
+6-18	378-379	,	_	_	
+6-19	380-383	the	_	_	
+6-20	384-389	Right	_	_	
+6-21	390-400	Honouiable	_	_	
+6-22	401-408	William	_	_	
+6-23	409-417	Ponfonby	_	_	
+6-24	417-418	,	_	_	
+6-25	419-427	commonly	_	_	
+6-26	428-434	called	_	_	
+6-27	435-439	Lord	_	_	
+6-28	440-448	Vifeount	_	_	
+6-29	449-458	Duocannon	_	_	
+6-30	458-459	,	_	_	
+6-31	460-463	the	_	_	
+6-32	464-474	Honourable	_	_	
+6-33	475-476	I	_	_	
+6-34	476-477	<	_	_	
+6-35	477-479	dw	_	_	
+6-36	480-490	Townfliend	_	_	
+6-37	490-491	,	_	_	
+6-38	492-495	Sir	_	_	
+6-39	496-500	John	_	_	
+6-40	501-508	Lindfay	_	_	
+6-41	508-509	,	_	_	
+6-42	510-516	Knight	_	_	
+6-43	517-519	of	_	_	
+6-44	520-523	the	_	_	
+6-45	524-528	Bath	_	_	
+6-46	528-529	,	_	_	
+6-47	530-537	VViHiam	_	_	
+6-48	538-546	Joiliffe	_	_	
+6-49	547-550	and	_	_	
+6-50	551-559	Whitfhed	_	_	
+6-51	560-565	Keene	_	_	
+6-52	565-566	,	_	_	
+6-53	567-576	fifquires	_	_	
+6-54	576-577	,	_	_	
+6-55	578-580	to	_	_	
+6-56	581-583	be	_	_	
+6-57	584-597	Commitfioners	_	_	
+6-58	598-599	■	_	_	
+6-59	599-602	for	_	_	
+6-60	603-612	executing	_	_	
+6-61	613-616	the	_	_	
+6-62	617-623	Oflice	_	_	
+6-63	624-626	of	_	_	
+6-64	627-631	High	_	_	
+6-65	632-639	Admiral	_	_	
+6-66	640-642	of	_	_	
+6-67	643-646	the	_	_	
+6-68	647-655	Kingdoms	_	_	
+6-69	656-658	of	_	_	
+6-70	659-664	Great	_	_	
+6-71	665-672	Britain	_	_	
+6-72	673-676	and	_	_	
+6-73	677-684	Ireland	_	_	
+6-74	684-685	,	_	_	
+6-75	686-689	and	_	_	
+6-76	690-693	the	_	_	
+6-77	694-703	Dominions	_	_	
+6-78	703-704	,	_	_	
+6-79	705-712	Iflands	_	_	
+6-80	713-716	and	_	_	
+6-81	717-728	Territories	_	_	
+6-82	729-738	ther.unto	_	_	
+6-83	739-752	refpeflLiyely	_	_	
+6-84	753-762	belonging	_	_	
+6-85	762-763	.	_	_	
+
+#Text=The KaBf ht« been pleafed to grant to the Right Honourable Edmund Burke, the Office of Receiver and PayinalUr General of his Majeftys Guards, Garrifons, and Laid Forces.
+7-1	764-767	The	_	_	
+7-2	768-772	KaBf	_	_	
+7-3	773-775	ht	_	_	
+7-4	775-776	«	_	_	
+7-5	777-781	been	_	_	
+7-6	782-789	pleafed	_	_	
+7-7	790-792	to	_	_	
+7-8	793-798	grant	_	_	
+7-9	799-801	to	_	_	
+7-10	802-805	the	_	_	
+7-11	806-811	Right	_	_	
+7-12	812-822	Honourable	_	_	
+7-13	823-829	Edmund	_	_	
+7-14	830-835	Burke	_	_	
+7-15	835-836	,	_	_	
+7-16	837-840	the	_	_	
+7-17	841-847	Office	_	_	
+7-18	848-850	of	_	_	
+7-19	851-859	Receiver	_	_	
+7-20	860-863	and	_	_	
+7-21	864-873	PayinalUr	_	_	
+7-22	874-881	General	_	_	
+7-23	882-884	of	_	_	
+7-24	885-888	his	_	_	
+7-25	889-897	Majeftys	_	_	
+7-26	898-904	Guards	_	_	
+7-27	904-905	,	_	_	
+7-28	906-915	Garrifons	_	_	
+7-29	915-916	,	_	_	
+7-30	917-920	and	_	_	
+7-31	921-925	Laid	_	_	
+7-32	926-932	Forces	_	_	
+7-33	932-933	.	_	_	
+
+#Text=St, Jamess, April 7.
+8-1	934-936	St	https://en.wikipedia.org/wiki/St\_James%27s[2]	LOC[2]	
+8-2	936-937	,	https://en.wikipedia.org/wiki/St\_James%27s[2]	LOC[2]	
+8-3	938-944	Jamess	https://en.wikipedia.org/wiki/St\_James%27s[2]	LOC[2]	
+8-4	944-945	,	_	_	
+8-5	946-951	April	_	_	
+8-6	952-953	7	_	_	
+8-7	953-954	.	_	_	
+
+#Text=The King was this Day pleafed to Confer the Honour pf Knighthood on Jofeph Senhou.e, Efq; Mayor of the City of Carlifle.
+9-1	955-958	The	_	_	
+9-2	959-963	King	_	_	
+9-3	964-967	was	_	_	
+9-4	968-972	this	_	_	
+9-5	973-976	Day	_	_	
+9-6	977-984	pleafed	_	_	
+9-7	985-987	to	_	_	
+9-8	988-994	Confer	_	_	
+9-9	995-998	the	_	_	
+9-10	999-1005	Honour	_	_	
+9-11	1006-1008	pf	_	_	
+9-12	1009-1019	Knighthood	_	_	
+9-13	1020-1022	on	_	_	
+9-14	1023-1029	Jofeph	_	_	
+9-15	1030-1038	Senhou.e	_	_	
+9-16	1038-1039	,	_	_	
+9-17	1040-1043	Efq	_	_	
+9-18	1043-1044	;	_	_	
+9-19	1045-1050	Mayor	_	_	
+9-20	1051-1053	of	_	_	
+9-21	1054-1057	the	_	_	
+9-22	1058-1062	City	_	_	
+9-23	1063-1065	of	_	_	
+9-24	1066-1074	Carlifle	https://en.wikipedia.org/wiki/Carlisle	LOC	
+9-25	1074-1075	.	_	_	

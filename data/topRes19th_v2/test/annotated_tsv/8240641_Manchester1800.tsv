@@ -1,0 +1,461 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=JIdJV CHESTER, TUESDAY, JAN. 14, 180j.
+1-1	0-5	JIdJV	_	_	
+1-2	6-13	CHESTER	https://en.wikipedia.org/wiki/Chester	LOC	
+1-3	13-14	,	_	_	
+1-4	15-22	TUESDAY	_	_	
+1-5	22-23	,	_	_	
+1-6	24-27	JAN	_	_	
+1-7	27-28	.	_	_	
+1-8	29-31	14	_	_	
+1-9	31-32	,	_	_	
+1-10	33-37	180j	_	_	
+1-11	37-38	.	_	_	
+
+#Text=MARRIED.
+2-1	39-46	MARRIED	_	_	
+2-2	46-47	.	_	_	
+
+#Text=On Wednesday scnnight at De?
+3-1	48-50	On	_	_	
+3-2	51-60	Wednesday	_	_	
+3-3	61-69	scnnight	_	_	
+3-4	70-72	at	_	_	
+3-5	73-75	De	_	_	
+3-6	75-76	?	_	_	
+
+#Text=n Cluirch, Mr Joseph dickering, of Halliwell, muslin manufacturer, to Miss Elizabeth Rawslhom, of the same place.
+4-1	76-77	n	_	_	
+4-2	78-85	Cluirch	_	_	
+4-3	85-86	,	_	_	
+4-4	87-89	Mr	_	_	
+4-5	90-96	Joseph	_	_	
+4-6	97-106	dickering	_	_	
+4-7	106-107	,	_	_	
+4-8	108-110	of	_	_	
+4-9	111-120	Halliwell	https://en.wikipedia.org/wiki/Halliwell,\_Greater\_Manchester	LOC	
+4-10	120-121	,	_	_	
+4-11	122-128	muslin	_	_	
+4-12	129-141	manufacturer	_	_	
+4-13	141-142	,	_	_	
+4-14	143-145	to	_	_	
+4-15	146-150	Miss	_	_	
+4-16	151-160	Elizabeth	_	_	
+4-17	161-169	Rawslhom	_	_	
+4-18	169-170	,	_	_	
+4-19	171-173	of	_	_	
+4-20	174-177	the	_	_	
+4-21	178-182	same	_	_	
+4-22	183-188	place	_	_	
+4-23	188-189	.	_	_	
+
+#Text=—On Thursday at the Collegiate Church, Mr Wm.
+5-1	189-190	—	_	_	
+5-2	190-192	On	_	_	
+5-3	193-201	Thursday	_	_	
+5-4	202-204	at	_	_	
+5-5	205-208	the	_	_	
+5-6	209-219	Collegiate	*[1]	BUILDING[1]	
+5-7	220-226	Church	*[1]	BUILDING[1]	
+5-8	226-227	,	_	_	
+5-9	228-230	Mr	_	_	
+5-10	231-233	Wm	_	_	
+5-11	233-234	.	_	_	
+
+#Text=Peace, to Miss Chappell, of Old Mdlgate.
+6-1	235-240	Peace	_	_	
+6-2	240-241	,	_	_	
+6-3	242-244	to	_	_	
+6-4	245-249	Miss	_	_	
+6-5	250-258	Chappell	_	_	
+6-6	258-259	,	_	_	
+6-7	260-262	of	_	_	
+6-8	263-266	Old	*[2]	LOC[2]	
+6-9	267-274	Mdlgate	*[2]	LOC[2]	
+6-10	274-275	.	_	_	
+
+#Text=—On I’nday, Mr Jo-eph Robinson, cotton manufacturer, to Miss Maria Whittenbury, daughter of the late John Whittenbury, Esq—On the 27th ult.
+7-1	276-277	—	_	_	
+7-2	277-279	On	_	_	
+7-3	280-281	I	_	_	
+7-4	281-282	’	_	_	
+7-5	282-286	nday	_	_	
+7-6	286-287	,	_	_	
+7-7	288-290	Mr	_	_	
+7-8	291-297	Jo-eph	_	_	
+7-9	298-306	Robinson	_	_	
+7-10	306-307	,	_	_	
+7-11	308-314	cotton	_	_	
+7-12	315-327	manufacturer	_	_	
+7-13	327-328	,	_	_	
+7-14	329-331	to	_	_	
+7-15	332-336	Miss	_	_	
+7-16	337-342	Maria	_	_	
+7-17	343-354	Whittenbury	_	_	
+7-18	354-355	,	_	_	
+7-19	356-364	daughter	_	_	
+7-20	365-367	of	_	_	
+7-21	368-371	the	_	_	
+7-22	372-376	late	_	_	
+7-23	377-381	John	_	_	
+7-24	382-393	Whittenbury	_	_	
+7-25	393-394	,	_	_	
+7-26	395-401	Esq—On	_	_	
+7-27	402-405	the	_	_	
+7-28	406-410	27th	_	_	
+7-29	411-414	ult	_	_	
+7-30	414-415	.	_	_	
+
+#Text=Sir Henry Fitzherbert, Bart, of Titfington, in Derbyshire, to Miss Agnes Beresford, daughter of the late Rev.
+8-1	416-419	Sir	_	_	
+8-2	420-425	Henry	_	_	
+8-3	426-437	Fitzherbert	_	_	
+8-4	437-438	,	_	_	
+8-5	439-443	Bart	_	_	
+8-6	443-444	,	_	_	
+8-7	445-447	of	_	_	
+8-8	448-458	Titfington	https://en.wikipedia.org/wiki/Tissington	LOC	
+8-9	458-459	,	_	_	
+8-10	460-462	in	_	_	
+8-11	463-473	Derbyshire	https://en.wikipedia.org/wiki/Derbyshire	LOC	
+8-12	473-474	,	_	_	
+8-13	475-477	to	_	_	
+8-14	478-482	Miss	_	_	
+8-15	483-488	Agnes	_	_	
+8-16	489-498	Beresford	_	_	
+8-17	498-499	,	_	_	
+8-18	500-508	daughter	_	_	
+8-19	509-511	of	_	_	
+8-20	512-515	the	_	_	
+8-21	516-520	late	_	_	
+8-22	521-524	Rev	_	_	
+8-23	524-525	.	_	_	
+
+#Text=Wm.
+9-1	526-528	Wm	_	_	
+9-2	528-529	.	_	_	
+
+#Text=Beresford, of Sunning, Berkshire.— l.ately, In l.ondon, highly esteemed, Wm.
+10-1	530-539	Beresford	_	_	
+10-2	539-540	,	_	_	
+10-3	541-543	of	_	_	
+10-4	544-551	Sunning	https://en.wikipedia.org/wiki/Sonning	LOC	
+10-5	551-552	,	_	_	
+10-6	553-562	Berkshire	https://en.wikipedia.org/wiki/Berkshire	LOC	
+10-7	562-563	.	_	_	
+10-8	563-564	—	_	_	
+10-9	565-572	l.ately	_	_	
+10-10	572-573	,	_	_	
+10-11	574-576	In	_	_	
+10-12	577-584	l.ondon	https://en.wikipedia.org/wiki/London	LOC	
+10-13	584-585	,	_	_	
+10-14	586-592	highly	_	_	
+10-15	593-601	esteemed	_	_	
+10-16	601-602	,	_	_	
+10-17	603-605	Wm	_	_	
+10-18	605-606	.	_	_	
+
+#Text=Massey, Esq. formerly of this town.
+11-1	607-613	Massey	_	_	
+11-2	613-614	,	_	_	
+11-3	615-618	Esq	_	_	
+11-4	618-619	.	_	_	
+11-5	620-628	formerly	_	_	
+11-6	629-631	of	_	_	
+11-7	632-636	this	_	_	
+11-8	637-641	town	_	_	
+11-9	641-642	.	_	_	
+
+#Text=—Yesterday (Monday) at the Collegiate Church, by the Rev.
+12-1	642-643	—	_	_	
+12-2	643-652	Yesterday	_	_	
+12-3	653-654	(	_	_	
+12-4	654-660	Monday	_	_	
+12-5	660-661	)	_	_	
+12-6	662-664	at	_	_	
+12-7	665-668	the	_	_	
+12-8	669-679	Collegiate	*[3]	BUILDING[3]	
+12-9	680-686	Church	*[3]	BUILDING[3]	
+12-10	686-687	,	_	_	
+12-11	688-690	by	_	_	
+12-12	691-694	the	_	_	
+12-13	695-698	Rev	_	_	
+12-14	698-699	.	_	_	
+
+#Text=Dr Blackburns, Warden of Manchester, John Gor-t,of Leigh, Esq. to Miss Margaret Keaisley, daughter of John Kcarsiey, E<q. of King-street.
+13-1	700-702	Dr	_	_	
+13-2	703-713	Blackburns	_	_	
+13-3	713-714	,	_	_	
+13-4	715-721	Warden	_	_	
+13-5	722-724	of	_	_	
+13-6	725-735	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+13-7	735-736	,	_	_	
+13-8	737-741	John	_	_	
+13-9	742-747	Gor-t	_	_	
+13-10	747-748	,	_	_	
+13-11	748-750	of	_	_	
+13-12	751-756	Leigh	https://en.wikipedia.org/wiki/Leigh,\_Greater\_Manchester	LOC	
+13-13	756-757	,	_	_	
+13-14	758-761	Esq	_	_	
+13-15	761-762	.	_	_	
+13-16	763-765	to	_	_	
+13-17	766-770	Miss	_	_	
+13-18	771-779	Margaret	_	_	
+13-19	780-788	Keaisley	_	_	
+13-20	788-789	,	_	_	
+13-21	790-798	daughter	_	_	
+13-22	799-801	of	_	_	
+13-23	802-806	John	_	_	
+13-24	807-815	Kcarsiey	_	_	
+13-25	815-816	,	_	_	
+13-26	817-818	E	_	_	
+13-27	818-819	<	_	_	
+13-28	819-820	q	_	_	
+13-29	820-821	.	_	_	
+13-30	822-824	of	_	_	
+13-31	825-836	King-street	https://en.wikipedia.org/wiki/King\_Street,\_Manchester	STREET	
+13-32	836-837	.	_	_	
+
+#Text=DIED.
+14-1	838-842	DIED	_	_	
+14-2	842-843	.	_	_	
+
+#Text=On the 2.71h of November last, at New York, aged 8.1, Israel Wilkes, Esq. brother of the late celebrated John Wilkes, Esq.
+15-1	844-846	On	_	_	
+15-2	847-850	the	_	_	
+15-3	851-856	2.71h	_	_	
+15-4	857-859	of	_	_	
+15-5	860-868	November	_	_	
+15-6	869-873	last	_	_	
+15-7	873-874	,	_	_	
+15-8	875-877	at	_	_	
+15-9	878-881	New	https://en.wikipedia.org/wiki/New\_York\_City[4]	LOC[4]	
+15-10	882-886	York	https://en.wikipedia.org/wiki/New\_York\_City[4]	LOC[4]	
+15-11	886-887	,	_	_	
+15-12	888-892	aged	_	_	
+15-13	893-896	8.1	_	_	
+15-14	896-897	,	_	_	
+15-15	898-904	Israel	_	_	
+15-16	905-911	Wilkes	_	_	
+15-17	911-912	,	_	_	
+15-18	913-916	Esq	_	_	
+15-19	916-917	.	_	_	
+15-20	918-925	brother	_	_	
+15-21	926-928	of	_	_	
+15-22	929-932	the	_	_	
+15-23	933-937	late	_	_	
+15-24	938-948	celebrated	_	_	
+15-25	949-953	John	_	_	
+15-26	954-960	Wilkes	_	_	
+15-27	960-961	,	_	_	
+15-28	962-965	Esq	_	_	
+15-29	965-966	.	_	_	
+
+#Text=Chamberlain of the city of l.ondon, and formerly Representative in Parliament for the county cf Middlesex.
+16-1	967-978	Chamberlain	_	_	
+16-2	979-981	of	_	_	
+16-3	982-985	the	_	_	
+16-4	986-990	city	_	_	
+16-5	991-993	of	_	_	
+16-6	994-1001	l.ondon	https://en.wikipedia.org/wiki/London	LOC	
+16-7	1001-1002	,	_	_	
+16-8	1003-1006	and	_	_	
+16-9	1007-1015	formerly	_	_	
+16-10	1016-1030	Representative	_	_	
+16-11	1031-1033	in	_	_	
+16-12	1034-1044	Parliament	_	_	
+16-13	1045-1048	for	_	_	
+16-14	1049-1052	the	_	_	
+16-15	1053-1059	county	_	_	
+16-16	1060-1062	cf	_	_	
+16-17	1063-1072	Middlesex	https://en.wikipedia.org/wiki/Middlesex	LOC	
+16-18	1072-1073	.	_	_	
+
+#Text=—Lately at Navar-house, General Sir Hector Monro, K.
+17-1	1073-1074	—	_	_	
+17-2	1074-1080	Lately	_	_	
+17-3	1081-1083	at	_	_	
+17-4	1084-1095	Navar-house	*	LOC	
+17-5	1095-1096	,	_	_	
+17-6	1097-1104	General	_	_	
+17-7	1105-1108	Sir	_	_	
+17-8	1109-1115	Hector	_	_	
+17-9	1116-1121	Monro	_	_	
+17-10	1121-1122	,	_	_	
+17-11	1123-1124	K	_	_	
+17-12	1124-1125	.	_	_	
+
+#Text=U.
+18-1	1126-1127	U	_	_	
+18-2	1127-1128	.	_	_	
+
+#Text=Colonel of the 12d, or Royal Highland Regiment,—Lately at Stockport, Mr Thomas Nicholson, attorney at law; a gentleman universally esteemed fir his amaitle disposition and integrity of heart.— On the 2ml, uit- aged 79, Mrs Rothwell, wife of Mr Roth well, of Longsight.
+19-1	1129-1136	Colonel	_	_	
+19-2	1137-1139	of	_	_	
+19-3	1140-1143	the	_	_	
+19-4	1144-1147	12d	_	_	
+19-5	1147-1148	,	_	_	
+19-6	1149-1151	or	_	_	
+19-7	1152-1157	Royal	_	_	
+19-8	1158-1166	Highland	_	_	
+19-9	1167-1175	Regiment	_	_	
+19-10	1175-1176	,	_	_	
+19-11	1176-1177	—	_	_	
+19-12	1177-1183	Lately	_	_	
+19-13	1184-1186	at	_	_	
+19-14	1187-1196	Stockport	https://en.wikipedia.org/wiki/Stockport	LOC	
+19-15	1196-1197	,	_	_	
+19-16	1198-1200	Mr	_	_	
+19-17	1201-1207	Thomas	_	_	
+19-18	1208-1217	Nicholson	_	_	
+19-19	1217-1218	,	_	_	
+19-20	1219-1227	attorney	_	_	
+19-21	1228-1230	at	_	_	
+19-22	1231-1234	law	_	_	
+19-23	1234-1235	;	_	_	
+19-24	1236-1237	a	_	_	
+19-25	1238-1247	gentleman	_	_	
+19-26	1248-1259	universally	_	_	
+19-27	1260-1268	esteemed	_	_	
+19-28	1269-1272	fir	_	_	
+19-29	1273-1276	his	_	_	
+19-30	1277-1284	amaitle	_	_	
+19-31	1285-1296	disposition	_	_	
+19-32	1297-1300	and	_	_	
+19-33	1301-1310	integrity	_	_	
+19-34	1311-1313	of	_	_	
+19-35	1314-1319	heart	_	_	
+19-36	1319-1320	.	_	_	
+19-37	1320-1321	—	_	_	
+19-38	1322-1324	On	_	_	
+19-39	1325-1328	the	_	_	
+19-40	1329-1332	2ml	_	_	
+19-41	1332-1333	,	_	_	
+19-42	1334-1337	uit	_	_	
+19-43	1337-1338	-	_	_	
+19-44	1339-1343	aged	_	_	
+19-45	1344-1346	79	_	_	
+19-46	1346-1347	,	_	_	
+19-47	1348-1351	Mrs	_	_	
+19-48	1352-1360	Rothwell	_	_	
+19-49	1360-1361	,	_	_	
+19-50	1362-1366	wife	_	_	
+19-51	1367-1369	of	_	_	
+19-52	1370-1372	Mr	_	_	
+19-53	1373-1377	Roth	_	_	
+19-54	1378-1382	well	_	_	
+19-55	1382-1383	,	_	_	
+19-56	1384-1386	of	_	_	
+19-57	1387-1396	Longsight	https://en.wikipedia.org/wiki/Longsight	LOC	
+19-58	1396-1397	.	_	_	
+
+#Text=—On Sunday se’nnight, Mrs Uuerdsell, wife of Mr Edward Buerdsell, of Fountain-,treet; an affectionate wife, and a lender parent.
+20-1	1397-1398	—	_	_	
+20-2	1398-1400	On	_	_	
+20-3	1401-1407	Sunday	_	_	
+20-4	1408-1410	se	_	_	
+20-5	1410-1411	’	_	_	
+20-6	1411-1417	nnight	_	_	
+20-7	1417-1418	,	_	_	
+20-8	1419-1422	Mrs	_	_	
+20-9	1423-1432	Uuerdsell	_	_	
+20-10	1432-1433	,	_	_	
+20-11	1434-1438	wife	_	_	
+20-12	1439-1441	of	_	_	
+20-13	1442-1444	Mr	_	_	
+20-14	1445-1451	Edward	_	_	
+20-15	1452-1461	Buerdsell	_	_	
+20-16	1461-1462	,	_	_	
+20-17	1463-1465	of	_	_	
+20-18	1466-1474	Fountain	*[5]	STREET[5]	
+20-19	1474-1475	-	*[5]	STREET[5]	
+20-20	1475-1476	,	*[5]	STREET[5]	
+20-21	1476-1481	treet	*[5]	STREET[5]	
+20-22	1481-1482	;	_	_	
+20-23	1483-1485	an	_	_	
+20-24	1486-1498	affectionate	_	_	
+20-25	1499-1503	wife	_	_	
+20-26	1503-1504	,	_	_	
+20-27	1505-1508	and	_	_	
+20-28	1509-1510	a	_	_	
+20-29	1511-1517	lender	_	_	
+20-30	1518-1524	parent	_	_	
+20-31	1524-1525	.	_	_	
+
+#Text=—Same day at Benham, near Newbury, in Berkshire, after three days illness, his Serene Highness the Margrave of Anspach.
+21-1	1525-1526	—	_	_	
+21-2	1526-1530	Same	_	_	
+21-3	1531-1534	day	_	_	
+21-4	1535-1537	at	_	_	
+21-5	1538-1544	Benham	https://en.wikipedia.org/wiki/Benham\_Park	BUILDING	
+21-6	1544-1545	,	_	_	
+21-7	1546-1550	near	_	_	
+21-8	1551-1558	Newbury	https://en.wikipedia.org/wiki/Newbury,\_Berkshire	LOC	
+21-9	1558-1559	,	_	_	
+21-10	1560-1562	in	_	_	
+21-11	1563-1572	Berkshire	https://en.wikipedia.org/wiki/Berkshire	LOC	
+21-12	1572-1573	,	_	_	
+21-13	1574-1579	after	_	_	
+21-14	1580-1585	three	_	_	
+21-15	1586-1590	days	_	_	
+21-16	1591-1598	illness	_	_	
+21-17	1598-1599	,	_	_	
+21-18	1600-1603	his	_	_	
+21-19	1604-1610	Serene	_	_	
+21-20	1611-1619	Highness	_	_	
+21-21	1620-1623	the	_	_	
+21-22	1624-1632	Margrave	_	_	
+21-23	1633-1635	of	_	_	
+21-24	1636-1643	Anspach	_	_	
+21-25	1643-1644	.	_	_	
+
+#Text=—On the 28th ult. at Warrington, at the advanced age cf 88, Mrs Fairhrother, of that town.
+22-1	1644-1645	—	_	_	
+22-2	1645-1647	On	_	_	
+22-3	1648-1651	the	_	_	
+22-4	1652-1656	28th	_	_	
+22-5	1657-1660	ult	_	_	
+22-6	1660-1661	.	_	_	
+22-7	1662-1664	at	_	_	
+22-8	1665-1675	Warrington	https://en.wikipedia.org/wiki/Warrington	LOC	
+22-9	1675-1676	,	_	_	
+22-10	1677-1679	at	_	_	
+22-11	1680-1683	the	_	_	
+22-12	1684-1692	advanced	_	_	
+22-13	1693-1696	age	_	_	
+22-14	1697-1699	cf	_	_	
+22-15	1700-1702	88	_	_	
+22-16	1702-1703	,	_	_	
+22-17	1704-1707	Mrs	_	_	
+22-18	1708-1719	Fairhrother	_	_	
+22-19	1719-1720	,	_	_	
+22-20	1721-1723	of	_	_	
+22-21	1724-1728	that	_	_	
+22-22	1729-1733	town	_	_	
+22-23	1733-1734	.	_	_	
+
+#Text=—On Thursday last, aged SC years, Mr George Heys, of Back-lane, near Ashton-under-l) ue.
+23-1	1734-1735	—	_	_	
+23-2	1735-1737	On	_	_	
+23-3	1738-1746	Thursday	_	_	
+23-4	1747-1751	last	_	_	
+23-5	1751-1752	,	_	_	
+23-6	1753-1757	aged	_	_	
+23-7	1758-1760	SC	_	_	
+23-8	1761-1766	years	_	_	
+23-9	1766-1767	,	_	_	
+23-10	1768-1770	Mr	_	_	
+23-11	1771-1777	George	_	_	
+23-12	1778-1782	Heys	_	_	
+23-13	1782-1783	,	_	_	
+23-14	1784-1786	of	_	_	
+23-15	1787-1796	Back-lane	*	LOC	
+23-16	1796-1797	,	_	_	
+23-17	1798-1802	near	_	_	
+23-18	1803-1817	Ashton-under-l	https://en.wikipedia.org/wiki/Ashton-under-Lyne[6]	LOC[6]	
+23-19	1817-1818	)	https://en.wikipedia.org/wiki/Ashton-under-Lyne[6]	LOC[6]	
+23-20	1819-1821	ue	https://en.wikipedia.org/wiki/Ashton-under-Lyne[6]	LOC[6]	
+23-21	1821-1822	.	_	_	

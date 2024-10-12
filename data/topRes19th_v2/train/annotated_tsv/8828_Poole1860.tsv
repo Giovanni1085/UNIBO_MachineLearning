@@ -1,0 +1,392 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=POOLE TURNPIKE TRUST.
+1-1	0-5	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+1-2	6-14	TURNPIKE	_	_	
+1-3	15-20	TRUST	_	_	
+1-4	20-21	.	_	_	
+
+#Text=Tenders for the Cartage of Road Material.
+2-1	23-30	Tenders	_	_	
+2-2	31-34	for	_	_	
+2-3	35-38	the	_	_	
+2-4	39-46	Cartage	_	_	
+2-5	47-49	of	_	_	
+2-6	50-54	Road	_	_	
+2-7	55-63	Material	_	_	
+2-8	63-64	.	_	_	
+
+#Text=TENDERS are required for CARTING ROAD MATERIALS for the Surface REPAIRS OP THE ROADS within the Trust FOR ONE YEAR, commencing sth of JULY next, under the following Specification, via : The Contractor will be required to cart the material upon being ordered in the writing of the Surveyor from out of the several public pits or from the several private pits made use of by the Turnpike Trust, within or neat to the • al dish icta of the trust, at per yard cube, and to deliver the said material either on the toad sUrtsce or by the road side u may be ordered from time to time.
+3-1	65-72	TENDERS	_	_	
+3-2	73-76	are	_	_	
+3-3	77-85	required	_	_	
+3-4	86-89	for	_	_	
+3-5	90-97	CARTING	_	_	
+3-6	98-102	ROAD	_	_	
+3-7	103-112	MATERIALS	_	_	
+3-8	113-116	for	_	_	
+3-9	117-120	the	_	_	
+3-10	121-128	Surface	_	_	
+3-11	129-136	REPAIRS	_	_	
+3-12	137-139	OP	_	_	
+3-13	140-143	THE	_	_	
+3-14	144-149	ROADS	_	_	
+3-15	150-156	within	_	_	
+3-16	157-160	the	_	_	
+3-17	161-166	Trust	_	_	
+3-18	167-170	FOR	_	_	
+3-19	171-174	ONE	_	_	
+3-20	175-179	YEAR	_	_	
+3-21	179-180	,	_	_	
+3-22	181-191	commencing	_	_	
+3-23	192-195	sth	_	_	
+3-24	196-198	of	_	_	
+3-25	199-203	JULY	_	_	
+3-26	204-208	next	_	_	
+3-27	208-209	,	_	_	
+3-28	210-215	under	_	_	
+3-29	216-219	the	_	_	
+3-30	220-229	following	_	_	
+3-31	230-243	Specification	_	_	
+3-32	243-244	,	_	_	
+3-33	245-248	via	_	_	
+3-34	249-250	:	_	_	
+3-35	251-254	The	_	_	
+3-36	255-265	Contractor	_	_	
+3-37	266-270	will	_	_	
+3-38	271-273	be	_	_	
+3-39	274-282	required	_	_	
+3-40	283-285	to	_	_	
+3-41	286-290	cart	_	_	
+3-42	291-294	the	_	_	
+3-43	295-303	material	_	_	
+3-44	304-308	upon	_	_	
+3-45	309-314	being	_	_	
+3-46	315-322	ordered	_	_	
+3-47	323-325	in	_	_	
+3-48	326-329	the	_	_	
+3-49	330-337	writing	_	_	
+3-50	338-340	of	_	_	
+3-51	341-344	the	_	_	
+3-52	345-353	Surveyor	_	_	
+3-53	354-358	from	_	_	
+3-54	359-362	out	_	_	
+3-55	363-365	of	_	_	
+3-56	366-369	the	_	_	
+3-57	370-377	several	_	_	
+3-58	378-384	public	_	_	
+3-59	385-389	pits	_	_	
+3-60	390-392	or	_	_	
+3-61	393-397	from	_	_	
+3-62	398-401	the	_	_	
+3-63	402-409	several	_	_	
+3-64	410-417	private	_	_	
+3-65	418-422	pits	_	_	
+3-66	423-427	made	_	_	
+3-67	428-431	use	_	_	
+3-68	432-434	of	_	_	
+3-69	435-437	by	_	_	
+3-70	438-441	the	_	_	
+3-71	442-450	Turnpike	_	_	
+3-72	451-456	Trust	_	_	
+3-73	456-457	,	_	_	
+3-74	458-464	within	_	_	
+3-75	465-467	or	_	_	
+3-76	468-472	neat	_	_	
+3-77	473-475	to	_	_	
+3-78	476-479	the	_	_	
+3-79	480-481	•	_	_	
+3-80	482-484	al	_	_	
+3-81	485-489	dish	_	_	
+3-82	490-494	icta	_	_	
+3-83	495-497	of	_	_	
+3-84	498-501	the	_	_	
+3-85	502-507	trust	_	_	
+3-86	507-508	,	_	_	
+3-87	509-511	at	_	_	
+3-88	512-515	per	_	_	
+3-89	516-520	yard	_	_	
+3-90	521-525	cube	_	_	
+3-91	525-526	,	_	_	
+3-92	527-530	and	_	_	
+3-93	531-533	to	_	_	
+3-94	534-541	deliver	_	_	
+3-95	542-545	the	_	_	
+3-96	546-550	said	_	_	
+3-97	551-559	material	_	_	
+3-98	560-566	either	_	_	
+3-99	567-569	on	_	_	
+3-100	570-573	the	_	_	
+3-101	574-578	toad	_	_	
+3-102	579-586	sUrtsce	_	_	
+3-103	587-589	or	_	_	
+3-104	590-592	by	_	_	
+3-105	593-596	the	_	_	
+3-106	597-601	road	_	_	
+3-107	602-606	side	_	_	
+3-108	607-608	u	_	_	
+3-109	609-612	may	_	_	
+3-110	613-615	be	_	_	
+3-111	616-623	ordered	_	_	
+3-112	624-628	from	_	_	
+3-113	629-633	time	_	_	
+3-114	634-636	to	_	_	
+3-115	637-641	time	_	_	
+3-116	641-642	.	_	_	
+
+#Text=Prom Gravel Hill I Pit Decoy Pit Great Dungates Pit East Eed Pit Corfe Bill Pit , Mr.
+4-1	643-647	Prom	_	_	
+4-2	648-654	Gravel	*[1]	LOC[1]	
+4-3	655-659	Hill	*[1]	LOC[1]	
+4-4	660-661	I	*[1]	LOC[1]	
+4-5	662-665	Pit	*[1]	LOC[1]	
+4-6	666-671	Decoy	*[2]	LOC[2]	
+4-7	672-675	Pit	*[2]	LOC[2]	
+4-8	676-681	Great	*[3]	LOC[3]	
+4-9	682-690	Dungates	*[3]	LOC[3]	
+4-10	691-694	Pit	*[3]	LOC[3]	
+4-11	695-699	East	*[4]	LOC[4]	
+4-12	700-703	Eed	*[4]	LOC[4]	
+4-13	704-707	Pit	*[4]	LOC[4]	
+4-14	708-713	Corfe	*[5]	LOC[5]	
+4-15	714-718	Bill	*[5]	LOC[5]	
+4-16	719-722	Pit	*[5]	LOC[5]	
+4-17	723-724	,	_	_	
+4-18	725-727	Mr	_	_	
+4-19	727-728	.	_	_	
+
+#Text=Welchs Pit Shoulder of Mutton Pit Drankoome Pit Bournemouth Mill Pit I Hearne Pit Bournemouth Valley Pit Sutton Pit Palls Pit Witchamptoa Moor Parketone Pit Hinton Moor And any Pit or Pits that may be made use of not exceeding half • mile from the nearest point of the turnpike road.
+5-1	729-735	Welchs	*[6]	LOC[6]	
+5-2	736-739	Pit	*[6]	LOC[6]	
+5-3	740-748	Shoulder	*[7]	LOC[7]	
+5-4	749-751	of	*[7]	LOC[7]	
+5-5	752-758	Mutton	*[7]	LOC[7]	
+5-6	759-762	Pit	*[7]	LOC[7]	
+5-7	763-772	Drankoome	*[8]	LOC[8]	
+5-8	773-776	Pit	*[8]	LOC[8]	
+5-9	777-788	Bournemouth	*[9]	LOC[9]	
+5-10	789-793	Mill	*[9]	LOC[9]	
+5-11	794-797	Pit	*[9]	LOC[9]	
+5-12	798-799	I	*[10]	LOC[10]	
+5-13	800-806	Hearne	*[10]	LOC[10]	
+5-14	807-810	Pit	*[10]	LOC[10]	
+5-15	811-822	Bournemouth	*[11]	LOC[11]	
+5-16	823-829	Valley	*[11]	LOC[11]	
+5-17	830-833	Pit	*[11]	LOC[11]	
+5-18	834-840	Sutton	*[12]	LOC[12]	
+5-19	841-844	Pit	*[12]	LOC[12]	
+5-20	845-850	Palls	*[13]	LOC[13]	
+5-21	851-854	Pit	*[13]	LOC[13]	
+5-22	855-866	Witchamptoa	*[14]	LOC[14]	
+5-23	867-871	Moor	*[14]	LOC[14]	
+5-24	872-881	Parketone	*[14]	LOC[14]	
+5-25	882-885	Pit	*[14]	LOC[14]	
+5-26	886-892	Hinton	*[15]	LOC[15]	
+5-27	893-897	Moor	*[15]	LOC[15]	
+5-28	898-901	And	_	_	
+5-29	902-905	any	_	_	
+5-30	906-909	Pit	_	_	
+5-31	910-912	or	_	_	
+5-32	913-917	Pits	_	_	
+5-33	918-922	that	_	_	
+5-34	923-926	may	_	_	
+5-35	927-929	be	_	_	
+5-36	930-934	made	_	_	
+5-37	935-938	use	_	_	
+5-38	939-941	of	_	_	
+5-39	942-945	not	_	_	
+5-40	946-955	exceeding	_	_	
+5-41	956-960	half	_	_	
+5-42	961-962	•	_	_	
+5-43	963-967	mile	_	_	
+5-44	968-972	from	_	_	
+5-45	973-976	the	_	_	
+5-46	977-984	nearest	_	_	
+5-47	985-990	point	_	_	
+5-48	991-993	of	_	_	
+5-49	994-997	the	_	_	
+5-50	998-1006	turnpike	_	_	
+5-51	1007-1011	road	_	_	
+5-52	1011-1012	.	_	_	
+
+#Text=Persons desirous of tendering may obtain further parMedlars on application to me, or to Mr.
+6-1	1013-1020	Persons	_	_	
+6-2	1021-1029	desirous	_	_	
+6-3	1030-1032	of	_	_	
+6-4	1033-1042	tendering	_	_	
+6-5	1043-1046	may	_	_	
+6-6	1047-1053	obtain	_	_	
+6-7	1054-1061	further	_	_	
+6-8	1062-1072	parMedlars	_	_	
+6-9	1073-1075	on	_	_	
+6-10	1076-1087	application	_	_	
+6-11	1088-1090	to	_	_	
+6-12	1091-1093	me	_	_	
+6-13	1093-1094	,	_	_	
+6-14	1095-1097	or	_	_	
+6-15	1098-1100	to	_	_	
+6-16	1101-1103	Mr	_	_	
+6-17	1103-1104	.	_	_	
+
+#Text=C.
+7-1	1105-1106	C	_	_	
+7-2	1106-1107	.	_	_	
+
+#Text=C.
+8-1	1108-1109	C	_	_	
+8-2	1109-1110	.	_	_	
+
+#Text=Camas, of Bournemouth, Surveyor to the trust.
+9-1	1111-1116	Camas	_	_	
+9-2	1116-1117	,	_	_	
+9-3	1118-1120	of	_	_	
+9-4	1121-1132	Bournemouth	https://en.wikipedia.org/wiki/Bournemouth	LOC	
+9-5	1132-1133	,	_	_	
+9-6	1134-1142	Surveyor	_	_	
+9-7	1143-1145	to	_	_	
+9-8	1146-1149	the	_	_	
+9-9	1150-1155	trust	_	_	
+9-10	1155-1156	.	_	_	
+
+#Text=Sealed Tenders to be delivered at my office in Wimborne on or before the 4th day of JULY next.
+10-1	1157-1163	Sealed	_	_	
+10-2	1164-1171	Tenders	_	_	
+10-3	1172-1174	to	_	_	
+10-4	1175-1177	be	_	_	
+10-5	1178-1187	delivered	_	_	
+10-6	1188-1190	at	_	_	
+10-7	1191-1193	my	_	_	
+10-8	1194-1200	office	_	_	
+10-9	1201-1203	in	_	_	
+10-10	1204-1212	Wimborne	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+10-11	1213-1215	on	_	_	
+10-12	1216-1218	or	_	_	
+10-13	1219-1225	before	_	_	
+10-14	1226-1229	the	_	_	
+10-15	1230-1233	4th	_	_	
+10-16	1234-1237	day	_	_	
+10-17	1238-1240	of	_	_	
+10-18	1241-1245	JULY	_	_	
+10-19	1246-1250	next	_	_	
+10-20	1250-1251	.	_	_	
+
+#Text=I. 0.
+11-1	1252-1253	I	_	_	
+11-2	1253-1254	.	_	_	
+11-3	1255-1256	0	_	_	
+11-4	1256-1257	.	_	_	
+
+#Text=CRISLETT, Clerk to the Trustees.
+12-1	1258-1266	CRISLETT	_	_	
+12-2	1266-1267	,	_	_	
+12-3	1268-1273	Clerk	_	_	
+12-4	1274-1276	to	_	_	
+12-5	1277-1280	the	_	_	
+12-6	1281-1289	Trustees	_	_	
+12-7	1289-1290	.	_	_	
+
+#Text=Wimborce June 12, 1860.
+13-1	1291-1299	Wimborce	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+13-2	1300-1304	June	_	_	
+13-3	1305-1307	12	_	_	
+13-4	1307-1308	,	_	_	
+13-5	1309-1313	1860	_	_	
+13-6	1313-1314	.	_	_	
+
+#Text=Mr, MISS HAWKE, daughter of Mr, Hawke, many years School-master at Wimborns receives a few Young Ladies u BOARDERS, to loetruct them in the usual routine of a good ENGLISH EDUCATION, together with the accomplishments of Music, French, and Drawing.
+14-1	1316-1318	Mr	_	_	
+14-2	1318-1319	,	_	_	
+14-3	1320-1324	MISS	_	_	
+14-4	1325-1330	HAWKE	_	_	
+14-5	1330-1331	,	_	_	
+14-6	1332-1340	daughter	_	_	
+14-7	1341-1343	of	_	_	
+14-8	1344-1346	Mr	_	_	
+14-9	1346-1347	,	_	_	
+14-10	1348-1353	Hawke	_	_	
+14-11	1353-1354	,	_	_	
+14-12	1355-1359	many	_	_	
+14-13	1360-1365	years	_	_	
+14-14	1366-1379	School-master	_	_	
+14-15	1380-1382	at	_	_	
+14-16	1383-1391	Wimborns	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+14-17	1392-1400	receives	_	_	
+14-18	1401-1402	a	_	_	
+14-19	1403-1406	few	_	_	
+14-20	1407-1412	Young	_	_	
+14-21	1413-1419	Ladies	_	_	
+14-22	1420-1421	u	_	_	
+14-23	1422-1430	BOARDERS	_	_	
+14-24	1430-1431	,	_	_	
+14-25	1432-1434	to	_	_	
+14-26	1435-1443	loetruct	_	_	
+14-27	1444-1448	them	_	_	
+14-28	1449-1451	in	_	_	
+14-29	1452-1455	the	_	_	
+14-30	1456-1461	usual	_	_	
+14-31	1462-1469	routine	_	_	
+14-32	1470-1472	of	_	_	
+14-33	1473-1474	a	_	_	
+14-34	1475-1479	good	_	_	
+14-35	1480-1487	ENGLISH	_	_	
+14-36	1488-1497	EDUCATION	_	_	
+14-37	1497-1498	,	_	_	
+14-38	1499-1507	together	_	_	
+14-39	1508-1512	with	_	_	
+14-40	1513-1516	the	_	_	
+14-41	1517-1532	accomplishments	_	_	
+14-42	1533-1535	of	_	_	
+14-43	1536-1541	Music	_	_	
+14-44	1541-1542	,	_	_	
+14-45	1543-1549	French	_	_	
+14-46	1549-1550	,	_	_	
+14-47	1551-1554	and	_	_	
+14-48	1555-1562	Drawing	_	_	
+14-49	1562-1563	.	_	_	
+
+#Text=The health and religious principles of the pupils will be carefully attended to.
+15-1	1564-1567	The	_	_	
+15-2	1568-1574	health	_	_	
+15-3	1575-1578	and	_	_	
+15-4	1579-1588	religious	_	_	
+15-5	1589-1599	principles	_	_	
+15-6	1600-1602	of	_	_	
+15-7	1603-1606	the	_	_	
+15-8	1607-1613	pupils	_	_	
+15-9	1614-1618	will	_	_	
+15-10	1619-1621	be	_	_	
+15-11	1622-1631	carefully	_	_	
+15-12	1632-1640	attended	_	_	
+15-13	1641-1643	to	_	_	
+15-14	1643-1644	.	_	_	
+
+#Text=Prospectuses forwarded on application.
+16-1	1645-1657	Prospectuses	_	_	
+16-2	1658-1667	forwarded	_	_	
+16-3	1668-1670	on	_	_	
+16-4	1671-1682	application	_	_	
+16-5	1682-1683	.	_	_	
+
+#Text=The DUTIES of the School will be RESUMED on MONDAY, JULY 23rd.
+17-1	1684-1687	The	_	_	
+17-2	1688-1694	DUTIES	_	_	
+17-3	1695-1697	of	_	_	
+17-4	1698-1701	the	_	_	
+17-5	1702-1708	School	_	_	
+17-6	1709-1713	will	_	_	
+17-7	1714-1716	be	_	_	
+17-8	1717-1724	RESUMED	_	_	
+17-9	1725-1727	on	_	_	
+17-10	1728-1734	MONDAY	_	_	
+17-11	1734-1735	,	_	_	
+17-12	1736-1740	JULY	_	_	
+17-13	1741-1745	23rd	_	_	
+17-14	1745-1746	.	_	_	
+
+#Text=Wimborne, Dorset.
+18-1	1747-1755	Wimborne	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+18-2	1755-1756	,	_	_	
+18-3	1757-1763	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+18-4	1763-1764	.	_	_	

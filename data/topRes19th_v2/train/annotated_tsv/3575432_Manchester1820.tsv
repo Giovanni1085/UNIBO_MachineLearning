@@ -1,0 +1,470 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Postscript.
+1-1	0-10	Postscript	_	_	
+1-2	10-11	.	_	_	
+
+#Text=LONDON, THURSDAY, JULY 10. pJTV, Twelve oClock The money market has been very much agitated this morning, and tbe sales have been heavy.
+2-1	13-19	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-2	19-20	,	_	_	
+2-3	21-29	THURSDAY	_	_	
+2-4	29-30	,	_	_	
+2-5	31-35	JULY	_	_	
+2-6	36-38	10	_	_	
+2-7	38-39	.	_	_	
+2-8	40-44	pJTV	_	_	
+2-9	44-45	,	_	_	
+2-10	46-52	Twelve	_	_	
+2-11	53-59	oClock	_	_	
+2-12	60-63	The	_	_	
+2-13	64-69	money	_	_	
+2-14	70-76	market	_	_	
+2-15	77-80	has	_	_	
+2-16	81-85	been	_	_	
+2-17	86-90	very	_	_	
+2-18	91-95	much	_	_	
+2-19	96-104	agitated	_	_	
+2-20	105-109	this	_	_	
+2-21	110-117	morning	_	_	
+2-22	117-118	,	_	_	
+2-23	119-122	and	_	_	
+2-24	123-126	tbe	_	_	
+2-25	127-132	sales	_	_	
+2-26	133-137	have	_	_	
+2-27	138-142	been	_	_	
+2-28	143-148	heavy	_	_	
+2-29	148-149	.	_	_	
+
+#Text=The appearance of the finance statement, to-morrow, seems much dreaded by the speculators, and many of the leading operators for an advance are evidently backing out.
+3-1	150-153	The	_	_	
+3-2	154-164	appearance	_	_	
+3-3	165-167	of	_	_	
+3-4	168-171	the	_	_	
+3-5	172-179	finance	_	_	
+3-6	180-189	statement	_	_	
+3-7	189-190	,	_	_	
+3-8	191-200	to-morrow	_	_	
+3-9	200-201	,	_	_	
+3-10	202-207	seems	_	_	
+3-11	208-212	much	_	_	
+3-12	213-220	dreaded	_	_	
+3-13	221-223	by	_	_	
+3-14	224-227	the	_	_	
+3-15	228-239	speculators	_	_	
+3-16	239-240	,	_	_	
+3-17	241-244	and	_	_	
+3-18	245-249	many	_	_	
+3-19	250-252	of	_	_	
+3-20	253-256	the	_	_	
+3-21	257-264	leading	_	_	
+3-22	265-274	operators	_	_	
+3-23	275-278	for	_	_	
+3-24	279-281	an	_	_	
+3-25	282-289	advance	_	_	
+3-26	290-293	are	_	_	
+3-27	294-303	evidently	_	_	
+3-28	304-311	backing	_	_	
+3-29	312-315	out	_	_	
+3-30	315-316	.	_	_	
+
+#Text=In addition to this, it is said to be a heavy bull account, ar.d that certain parties at the west end of the town have ordered their brokers to sell.
+4-1	317-319	In	_	_	
+4-2	320-328	addition	_	_	
+4-3	329-331	to	_	_	
+4-4	332-336	this	_	_	
+4-5	336-337	,	_	_	
+4-6	338-340	it	_	_	
+4-7	341-343	is	_	_	
+4-8	344-348	said	_	_	
+4-9	349-351	to	_	_	
+4-10	352-354	be	_	_	
+4-11	355-356	a	_	_	
+4-12	357-362	heavy	_	_	
+4-13	363-367	bull	_	_	
+4-14	368-375	account	_	_	
+4-15	375-376	,	_	_	
+4-16	377-381	ar.d	_	_	
+4-17	382-386	that	_	_	
+4-18	387-394	certain	_	_	
+4-19	395-402	parties	_	_	
+4-20	403-405	at	_	_	
+4-21	406-409	the	_	_	
+4-22	410-414	west	_	_	
+4-23	415-418	end	_	_	
+4-24	419-421	of	_	_	
+4-25	422-425	the	_	_	
+4-26	426-430	town	_	_	
+4-27	431-435	have	_	_	
+4-28	436-443	ordered	_	_	
+4-29	444-449	their	_	_	
+4-30	450-457	brokers	_	_	
+4-31	458-460	to	_	_	
+4-32	461-465	sell	_	_	
+4-33	465-466	.	_	_	
+
+#Text=This has caused consols for account to drop from 88£ to &7jj, and the present quotation is Two oClock The money market continues exceedingly heavy, and the panic has far from subsided.
+5-1	467-471	This	_	_	
+5-2	472-475	has	_	_	
+5-3	476-482	caused	_	_	
+5-4	483-490	consols	_	_	
+5-5	491-494	for	_	_	
+5-6	495-502	account	_	_	
+5-7	503-505	to	_	_	
+5-8	506-510	drop	_	_	
+5-9	511-515	from	_	_	
+5-10	516-518	88	_	_	
+5-11	518-519	£	_	_	
+5-12	520-522	to	_	_	
+5-13	523-524	&	_	_	
+5-14	524-527	7jj	_	_	
+5-15	527-528	,	_	_	
+5-16	529-532	and	_	_	
+5-17	533-536	the	_	_	
+5-18	537-544	present	_	_	
+5-19	545-554	quotation	_	_	
+5-20	555-557	is	_	_	
+5-21	558-561	Two	_	_	
+5-22	562-568	oClock	_	_	
+5-23	569-572	The	_	_	
+5-24	573-578	money	_	_	
+5-25	579-585	market	_	_	
+5-26	586-595	continues	_	_	
+5-27	596-607	exceedingly	_	_	
+5-28	608-613	heavy	_	_	
+5-29	613-614	,	_	_	
+5-30	615-618	and	_	_	
+5-31	619-622	the	_	_	
+5-32	623-628	panic	_	_	
+5-33	629-632	has	_	_	
+5-34	633-636	far	_	_	
+5-35	637-641	from	_	_	
+5-36	642-650	subsided	_	_	
+5-37	650-651	.	_	_	
+
+#Text=The present price tot the account is 87J, and for money Bft.
+6-1	652-655	The	_	_	
+6-2	656-663	present	_	_	
+6-3	664-669	price	_	_	
+6-4	670-673	tot	_	_	
+6-5	674-677	the	_	_	
+6-6	678-685	account	_	_	
+6-7	686-688	is	_	_	
+6-8	689-692	87J	_	_	
+6-9	692-693	,	_	_	
+6-10	694-697	and	_	_	
+6-11	698-701	for	_	_	
+6-12	702-707	money	_	_	
+6-13	708-711	Bft	_	_	
+6-14	711-712	.	_	_	
+
+#Text=Itr the lieavy stocks a similar 
+#Text=decline has taken place, and bank stork has fallen to 200.
+7-1	713-716	Itr	_	_	
+7-2	717-720	the	_	_	
+7-3	721-727	lieavy	_	_	
+7-4	728-734	stocks	_	_	
+7-5	735-736	a	_	_	
+7-6	737-744	similar	_	_	
+7-7	746-753	decline	_	_	
+7-8	754-757	has	_	_	
+7-9	758-763	taken	_	_	
+7-10	764-769	place	_	_	
+7-11	769-770	,	_	_	
+7-12	771-774	and	_	_	
+7-13	775-779	bank	_	_	
+7-14	780-785	stork	_	_	
+7-15	786-789	has	_	_	
+7-16	790-796	fallen	_	_	
+7-17	797-799	to	_	_	
+7-18	800-803	200	_	_	
+7-19	803-804	.	_	_	
+
+#Text=Exchequer bills remain firm at f!
+8-1	805-814	Exchequer	_	_	
+8-2	815-820	bills	_	_	
+8-3	821-827	remain	_	_	
+8-4	828-832	firm	_	_	
+8-5	833-835	at	_	_	
+8-6	836-837	f	_	_	
+8-7	837-838	!	_	_	
+
+#Text=B 70 premium.
+9-1	838-839	B	_	_	
+9-2	840-842	70	_	_	
+9-3	843-850	premium	_	_	
+9-4	850-851	.	_	_	
+
+#Text=Quarter before Three—Consols for account have rallied to arid the market is firmer.
+10-1	852-859	Quarter	_	_	
+10-2	860-866	before	_	_	
+10-3	867-880	Three—Consols	_	_	
+10-4	881-884	for	_	_	
+10-5	885-892	account	_	_	
+10-6	893-897	have	_	_	
+10-7	898-905	rallied	_	_	
+10-8	906-908	to	_	_	
+10-9	909-913	arid	_	_	
+10-10	914-917	the	_	_	
+10-11	918-924	market	_	_	
+10-12	925-927	is	_	_	
+10-13	928-934	firmer	_	_	
+10-14	934-935	.	_	_	
+
+#Text=In foreign stocks there is nothing doing.
+11-1	936-938	In	_	_	
+11-2	939-946	foreign	_	_	
+11-3	947-953	stocks	_	_	
+11-4	954-959	there	_	_	
+11-5	960-962	is	_	_	
+11-6	963-970	nothing	_	_	
+11-7	971-976	doing	_	_	
+11-8	976-977	.	_	_	
+
+#Text=We have heard, upon what we believe to be good authority, that Mr.
+12-1	978-980	We	_	_	
+12-2	981-985	have	_	_	
+12-3	986-991	heard	_	_	
+12-4	991-992	,	_	_	
+12-5	993-997	upon	_	_	
+12-6	998-1002	what	_	_	
+12-7	1003-1005	we	_	_	
+12-8	1006-1013	believe	_	_	
+12-9	1014-1016	to	_	_	
+12-10	1017-1019	be	_	_	
+12-11	1020-1024	good	_	_	
+12-12	1025-1034	authority	_	_	
+12-13	1034-1035	,	_	_	
+12-14	1036-1040	that	_	_	
+12-15	1041-1043	Mr	_	_	
+12-16	1043-1044	.	_	_	
+
+#Text=Brougham has signified his intention of supporting the present administration—Standard, Wednesday.
+13-1	1045-1053	Brougham	_	_	
+13-2	1054-1057	has	_	_	
+13-3	1058-1067	signified	_	_	
+13-4	1068-1071	his	_	_	
+13-5	1072-1081	intention	_	_	
+13-6	1082-1084	of	_	_	
+13-7	1085-1095	supporting	_	_	
+13-8	1096-1099	the	_	_	
+13-9	1100-1107	present	_	_	
+13-10	1108-1131	administration—Standard	_	_	
+13-11	1131-1132	,	_	_	
+13-12	1133-1142	Wednesday	_	_	
+13-13	1142-1143	.	_	_	
+
+#Text=It is confidently rumoured among the legal gentlemen that Sir John Leach resigns the rolls for the deputy speakership of the house of peers, and that Mr.
+14-1	1144-1146	It	_	_	
+14-2	1147-1149	is	_	_	
+14-3	1150-1161	confidently	_	_	
+14-4	1162-1170	rumoured	_	_	
+14-5	1171-1176	among	_	_	
+14-6	1177-1180	the	_	_	
+14-7	1181-1186	legal	_	_	
+14-8	1187-1196	gentlemen	_	_	
+14-9	1197-1201	that	_	_	
+14-10	1202-1205	Sir	_	_	
+14-11	1206-1210	John	_	_	
+14-12	1211-1216	Leach	_	_	
+14-13	1217-1224	resigns	_	_	
+14-14	1225-1228	the	_	_	
+14-15	1229-1234	rolls	_	_	
+14-16	1235-1238	for	_	_	
+14-17	1239-1242	the	_	_	
+14-18	1243-1249	deputy	_	_	
+14-19	1250-1261	speakership	_	_	
+14-20	1262-1264	of	_	_	
+14-21	1265-1268	the	_	_	
+14-22	1269-1274	house	_	_	
+14-23	1275-1277	of	_	_	
+14-24	1278-1283	peers	_	_	
+14-25	1283-1284	,	_	_	
+14-26	1285-1288	and	_	_	
+14-27	1289-1293	that	_	_	
+14-28	1294-1296	Mr	_	_	
+14-29	1296-1297	.	_	_	
+
+#Text=Brougham goes to the rolls with a peerage in prospect.
+15-1	1298-1306	Brougham	_	_	
+15-2	1307-1311	goes	_	_	
+15-3	1312-1314	to	_	_	
+15-4	1315-1318	the	_	_	
+15-5	1319-1324	rolls	_	_	
+15-6	1325-1329	with	_	_	
+15-7	1330-1331	a	_	_	
+15-8	1332-1339	peerage	_	_	
+15-9	1340-1342	in	_	_	
+15-10	1343-1351	prospect	_	_	
+15-11	1351-1352	.	_	_	
+
+#Text=Mr.
+16-1	1353-1355	Mr	_	_	
+16-2	1355-1356	.	_	_	
+
+#Text=B. has certainly been most unaccountably silent in the house for some time past.
+17-1	1357-1358	B	_	_	
+17-2	1358-1359	.	_	_	
+17-3	1360-1363	has	_	_	
+17-4	1364-1373	certainly	_	_	
+17-5	1374-1378	been	_	_	
+17-6	1379-1383	most	_	_	
+17-7	1384-1397	unaccountably	_	_	
+17-8	1398-1404	silent	_	_	
+17-9	1405-1407	in	_	_	
+17-10	1408-1411	the	_	_	
+17-11	1412-1417	house	_	_	
+17-12	1418-1421	for	_	_	
+17-13	1422-1426	some	_	_	
+17-14	1427-1431	time	_	_	
+17-15	1432-1436	past	_	_	
+17-16	1436-1437	.	_	_	
+
+#Text=It would almost appear that his six hours speech had exhausted him for the session, for he has hardly ever opened his mouth since New Times.
+18-1	1438-1440	It	_	_	
+18-2	1441-1446	would	_	_	
+18-3	1447-1453	almost	_	_	
+18-4	1454-1460	appear	_	_	
+18-5	1461-1465	that	_	_	
+18-6	1466-1469	his	_	_	
+18-7	1470-1473	six	_	_	
+18-8	1474-1479	hours	_	_	
+18-9	1480-1486	speech	_	_	
+18-10	1487-1490	had	_	_	
+18-11	1491-1500	exhausted	_	_	
+18-12	1501-1504	him	_	_	
+18-13	1505-1508	for	_	_	
+18-14	1509-1512	the	_	_	
+18-15	1513-1520	session	_	_	
+18-16	1520-1521	,	_	_	
+18-17	1522-1525	for	_	_	
+18-18	1526-1528	he	_	_	
+18-19	1529-1532	has	_	_	
+18-20	1533-1539	hardly	_	_	
+18-21	1540-1544	ever	_	_	
+18-22	1545-1551	opened	_	_	
+18-23	1552-1555	his	_	_	
+18-24	1556-1561	mouth	_	_	
+18-25	1562-1567	since	_	_	
+18-26	1568-1571	New	_	_	
+18-27	1572-1577	Times	_	_	
+18-28	1577-1578	.	_	_	
+
+#Text=The account from Newfoundland of the loss of his majestys ships Acorn Contest, and Sappho, is incorrect; but it is feared will prove too true with regard to the two former vessels, as they have been long missing.
+19-1	1579-1582	The	_	_	
+19-2	1583-1590	account	_	_	
+19-3	1591-1595	from	_	_	
+19-4	1596-1608	Newfoundland	https://en.wikipedia.org/wiki/Newfoundland\_(island)	LOC	
+19-5	1609-1611	of	_	_	
+19-6	1612-1615	the	_	_	
+19-7	1616-1620	loss	_	_	
+19-8	1621-1623	of	_	_	
+19-9	1624-1627	his	_	_	
+19-10	1628-1636	majestys	_	_	
+19-11	1637-1642	ships	_	_	
+19-12	1643-1648	Acorn	_	_	
+19-13	1649-1656	Contest	_	_	
+19-14	1656-1657	,	_	_	
+19-15	1658-1661	and	_	_	
+19-16	1662-1668	Sappho	_	_	
+19-17	1668-1669	,	_	_	
+19-18	1670-1672	is	_	_	
+19-19	1673-1682	incorrect	_	_	
+19-20	1682-1683	;	_	_	
+19-21	1684-1687	but	_	_	
+19-22	1688-1690	it	_	_	
+19-23	1691-1693	is	_	_	
+19-24	1694-1700	feared	_	_	
+19-25	1701-1705	will	_	_	
+19-26	1706-1711	prove	_	_	
+19-27	1712-1715	too	_	_	
+19-28	1716-1720	true	_	_	
+19-29	1721-1725	with	_	_	
+19-30	1726-1732	regard	_	_	
+19-31	1733-1735	to	_	_	
+19-32	1736-1739	the	_	_	
+19-33	1740-1743	two	_	_	
+19-34	1744-1750	former	_	_	
+19-35	1751-1758	vessels	_	_	
+19-36	1758-1759	,	_	_	
+19-37	1760-1762	as	_	_	
+19-38	1763-1767	they	_	_	
+19-39	1768-1772	have	_	_	
+19-40	1773-1777	been	_	_	
+19-41	1778-1782	long	_	_	
+19-42	1783-1790	missing	_	_	
+19-43	1790-1791	.	_	_	
+
+#Text=The Acorn sailed from Bermuda on the 10th of April, tor Halifax, and the Contest from Halifax, on the 13th of April, tor Bermuda, and neither has since been heard of.
+20-1	1792-1795	The	_	_	
+20-2	1796-1801	Acorn	_	_	
+20-3	1802-1808	sailed	_	_	
+20-4	1809-1813	from	_	_	
+20-5	1814-1821	Bermuda	https://en.wikipedia.org/wiki/Bermuda	LOC	
+20-6	1822-1824	on	_	_	
+20-7	1825-1828	the	_	_	
+20-8	1829-1833	10th	_	_	
+20-9	1834-1836	of	_	_	
+20-10	1837-1842	April	_	_	
+20-11	1842-1843	,	_	_	
+20-12	1844-1847	tor	_	_	
+20-13	1848-1855	Halifax	https://en.wikipedia.org/wiki/Halifax,\_Nova\_Scotia	LOC	
+20-14	1855-1856	,	_	_	
+20-15	1857-1860	and	_	_	
+20-16	1861-1864	the	_	_	
+20-17	1865-1872	Contest	_	_	
+20-18	1873-1877	from	_	_	
+20-19	1878-1885	Halifax	https://en.wikipedia.org/wiki/Halifax,\_Nova\_Scotia	LOC	
+20-20	1885-1886	,	_	_	
+20-21	1887-1889	on	_	_	
+20-22	1890-1893	the	_	_	
+20-23	1894-1898	13th	_	_	
+20-24	1899-1901	of	_	_	
+20-25	1902-1907	April	_	_	
+20-26	1907-1908	,	_	_	
+20-27	1909-1912	tor	_	_	
+20-28	1913-1920	Bermuda	https://en.wikipedia.org/wiki/Bermuda	LOC	
+20-29	1920-1921	,	_	_	
+20-30	1922-1925	and	_	_	
+20-31	1926-1933	neither	_	_	
+20-32	1934-1937	has	_	_	
+20-33	1938-1943	since	_	_	
+20-34	1944-1948	been	_	_	
+20-35	1949-1954	heard	_	_	
+20-36	1955-1957	of	_	_	
+20-37	1957-1958	.	_	_	
+
+#Text=A violent gale was experienced between Halifax and Bermuda on thelfith of April.
+21-1	1959-1960	A	_	_	
+21-2	1961-1968	violent	_	_	
+21-3	1969-1973	gale	_	_	
+21-4	1974-1977	was	_	_	
+21-5	1978-1989	experienced	_	_	
+21-6	1990-1997	between	_	_	
+21-7	1998-2005	Halifax	https://en.wikipedia.org/wiki/Halifax,\_Nova\_Scotia	LOC	
+21-8	2006-2009	and	_	_	
+21-9	2010-2017	Bermuda	https://en.wikipedia.org/wiki/Bermuda	LOC	
+21-10	2018-2020	on	_	_	
+21-11	2021-2029	thelfith	_	_	
+21-12	2030-2032	of	_	_	
+21-13	2033-2038	April	_	_	
+21-14	2038-2039	.	_	_	
+
+#Text=Ihe Sapplio, by the last advices, was at Halifax, out of commission.
+22-1	2040-2043	Ihe	_	_	
+22-2	2044-2051	Sapplio	_	_	
+22-3	2051-2052	,	_	_	
+22-4	2053-2055	by	_	_	
+22-5	2056-2059	the	_	_	
+22-6	2060-2064	last	_	_	
+22-7	2065-2072	advices	_	_	
+22-8	2072-2073	,	_	_	
+22-9	2074-2077	was	_	_	
+22-10	2078-2080	at	_	_	
+22-11	2081-2088	Halifax	https://en.wikipedia.org/wiki/Halifax,\_Nova\_Scotia	LOC	
+22-12	2088-2089	,	_	_	
+22-13	2090-2093	out	_	_	
+22-14	2094-2096	of	_	_	
+22-15	2097-2107	commission	_	_	
+22-16	2107-2108	.	_	_	

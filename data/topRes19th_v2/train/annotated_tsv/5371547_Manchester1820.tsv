@@ -1,0 +1,330 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE LONDON MARKETS.
+1-1	0-3	THE	_	_	
+1-2	4-10	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+1-3	11-18	MARKETS	_	_	
+1-4	18-19	.	_	_	
+
+#Text=Friday, December *Jt», 1828.
+2-1	21-27	Friday	_	_	
+2-2	27-28	,	_	_	
+2-3	29-37	December	_	_	
+2-4	38-39	*	_	_	
+2-5	39-41	Jt	_	_	
+2-6	41-42	»	_	_	
+2-7	42-43	,	_	_	
+2-8	44-48	1828	_	_	
+2-9	48-49	.	_	_	
+
+#Text=The market* for col mial nrivduce have been closed the whole of the week, tor the Christmas holiday*; therefore Sugar, Coffee, and all other article* remain without alteration.
+3-1	50-53	The	_	_	
+3-2	54-60	market	_	_	
+3-3	60-61	*	_	_	
+3-4	62-65	for	_	_	
+3-5	66-69	col	_	_	
+3-6	70-74	mial	_	_	
+3-7	75-83	nrivduce	_	_	
+3-8	84-88	have	_	_	
+3-9	89-93	been	_	_	
+3-10	94-100	closed	_	_	
+3-11	101-104	the	_	_	
+3-12	105-110	whole	_	_	
+3-13	111-113	of	_	_	
+3-14	114-117	the	_	_	
+3-15	118-122	week	_	_	
+3-16	122-123	,	_	_	
+3-17	124-127	tor	_	_	
+3-18	128-131	the	_	_	
+3-19	132-141	Christmas	_	_	
+3-20	142-149	holiday	_	_	
+3-21	149-150	*	_	_	
+3-22	150-151	;	_	_	
+3-23	152-161	therefore	_	_	
+3-24	162-167	Sugar	_	_	
+3-25	167-168	,	_	_	
+3-26	169-175	Coffee	_	_	
+3-27	175-176	,	_	_	
+3-28	177-180	and	_	_	
+3-29	181-184	all	_	_	
+3-30	185-190	other	_	_	
+3-31	191-198	article	_	_	
+3-32	198-199	*	_	_	
+3-33	200-206	remain	_	_	
+3-34	207-214	without	_	_	
+3-35	215-225	alteration	_	_	
+3-36	225-226	.	_	_	
+
+#Text=Next Tuesday the market* re-open: hut with the exception of two public sales of foreign Toffee and damaged Brazil Sugar, no public auctions advertised.— I .Mauritius.
+4-1	227-231	Next	_	_	
+4-2	232-239	Tuesday	_	_	
+4-3	240-243	the	_	_	
+4-4	244-250	market	_	_	
+4-5	250-251	*	_	_	
+4-6	252-259	re-open	_	_	
+4-7	259-260	:	_	_	
+4-8	261-264	hut	_	_	
+4-9	265-269	with	_	_	
+4-10	270-273	the	_	_	
+4-11	274-283	exception	_	_	
+4-12	284-286	of	_	_	
+4-13	287-290	two	_	_	
+4-14	291-297	public	_	_	
+4-15	298-303	sales	_	_	
+4-16	304-306	of	_	_	
+4-17	307-314	foreign	_	_	
+4-18	315-321	Toffee	_	_	
+4-19	322-325	and	_	_	
+4-20	326-333	damaged	_	_	
+4-21	334-340	Brazil	https://en.wikipedia.org/wiki/Brazil	LOC	
+4-22	341-346	Sugar	_	_	
+4-23	346-347	,	_	_	
+4-24	348-350	no	_	_	
+4-25	351-357	public	_	_	
+4-26	358-366	auctions	_	_	
+4-27	367-377	advertised	_	_	
+4-28	377-378	.	_	_	
+4-29	378-379	—	_	_	
+4-30	380-381	I	_	_	
+4-31	382-383	.	_	_	
+4-32	383-392	Mauritius	https://en.wikipedia.org/wiki/Mauritius	LOC	
+4-33	392-393	.	_	_	
+
+#Text=—No sales reported, but prices without alteration.
+5-1	393-394	—	_	_	
+5-2	394-396	No	_	_	
+5-3	397-402	sales	_	_	
+5-4	403-411	reported	_	_	
+5-5	411-412	,	_	_	
+5-6	413-416	but	_	_	
+5-7	417-423	prices	_	_	
+5-8	424-431	without	_	_	
+5-9	432-442	alteration	_	_	
+5-10	442-443	.	_	_	
+
+#Text=Tea.
+6-1	444-447	Tea	_	_	
+6-2	447-448	.	_	_	
+
+#Text=—No alteration has occurred, nor any sales of con-!
+7-1	448-449	—	_	_	
+7-2	449-451	No	_	_	
+7-3	452-462	alteration	_	_	
+7-4	463-466	has	_	_	
+7-5	467-475	occurred	_	_	
+7-6	475-476	,	_	_	
+7-7	477-480	nor	_	_	
+7-8	481-484	any	_	_	
+7-9	485-490	sales	_	_	
+7-10	491-493	of	_	_	
+7-11	494-497	con	_	_	
+7-12	497-498	-	_	_	
+7-13	498-499	!	_	_	
+
+#Text=sequence effected since the Hast India Companys sale; but the clearances from the warehouses are extensive.
+8-1	500-508	sequence	_	_	
+8-2	509-517	effected	_	_	
+8-3	518-523	since	_	_	
+8-4	524-527	the	_	_	
+8-5	528-532	Hast	_	_	
+8-6	533-538	India	_	_	
+8-7	539-547	Companys	_	_	
+8-8	548-552	sale	_	_	
+8-9	552-553	;	_	_	
+8-10	554-557	but	_	_	
+8-11	558-561	the	_	_	
+8-12	562-572	clearances	_	_	
+8-13	573-577	from	_	_	
+8-14	578-581	the	_	_	
+8-15	582-592	warehouses	_	_	
+8-16	593-596	are	_	_	
+8-17	597-606	extensive	_	_	
+8-18	606-607	.	_	_	
+
+#Text=Povisions—The prices of butter are row very moderate, and we again reduce our quotations since last Friday 2*. to 4s. per cwt.
+9-1	608-621	Povisions—The	_	_	
+9-2	622-628	prices	_	_	
+9-3	629-631	of	_	_	
+9-4	632-638	butter	_	_	
+9-5	639-642	are	_	_	
+9-6	643-646	row	_	_	
+9-7	647-651	very	_	_	
+9-8	652-660	moderate	_	_	
+9-9	660-661	,	_	_	
+9-10	662-665	and	_	_	
+9-11	666-668	we	_	_	
+9-12	669-674	again	_	_	
+9-13	675-681	reduce	_	_	
+9-14	682-685	our	_	_	
+9-15	686-696	quotations	_	_	
+9-16	697-702	since	_	_	
+9-17	703-707	last	_	_	
+9-18	708-714	Friday	_	_	
+9-19	715-716	2	_	_	
+9-20	716-717	*	_	_	
+9-21	717-718	.	_	_	
+9-22	719-721	to	_	_	
+9-23	722-724	4s	_	_	
+9-24	724-725	.	_	_	
+9-25	726-729	per	_	_	
+9-26	730-733	cwt	_	_	
+9-27	733-734	.	_	_	
+
+#Text=In Bacon no alteration, and Beef ami Pork remain as before quoted.
+10-1	735-737	In	_	_	
+10-2	738-743	Bacon	_	_	
+10-3	744-746	no	_	_	
+10-4	747-757	alteration	_	_	
+10-5	757-758	,	_	_	
+10-6	759-762	and	_	_	
+10-7	763-767	Beef	_	_	
+10-8	768-771	ami	_	_	
+10-9	772-776	Pork	_	_	
+10-10	777-783	remain	_	_	
+10-11	784-786	as	_	_	
+10-12	787-793	before	_	_	
+10-13	794-800	quoted	_	_	
+10-14	800-801	.	_	_	
+
+#Text=TaM.ow.
+11-1	802-808	TaM.ow	_	_	
+11-2	808-809	.	_	_	
+
+#Text=—The market remains linn, and St.
+12-1	809-810	—	_	_	
+12-2	810-813	The	_	_	
+12-3	814-820	market	_	_	
+12-4	821-828	remains	_	_	
+12-5	829-833	linn	_	_	
+12-6	833-834	,	_	_	
+12-7	835-838	and	_	_	
+12-8	839-841	St	https://en.wikipedia.org/wiki/Saint\_Petersburg[1]	LOC[1]	
+12-9	841-842	.	https://en.wikipedia.org/wiki/Saint\_Petersburg[1]	LOC[1]	
+
+#Text=Petersburg!)
+13-1	843-853	Petersburg	https://en.wikipedia.org/wiki/Saint\_Petersburg[1]	LOC[1]	
+13-2	853-854	!	_	_	
+13-3	854-855	)	_	_	
+
+#Text=yellow Candle Tallow Sidling from the scale at tiffs, fid. to tiffs.
+14-1	856-862	yellow	_	_	
+14-2	863-869	Candle	_	_	
+14-3	870-876	Tallow	_	_	
+14-4	877-884	Sidling	_	_	
+14-5	885-889	from	_	_	
+14-6	890-893	the	_	_	
+14-7	894-899	scale	_	_	
+14-8	900-902	at	_	_	
+14-9	903-908	tiffs	_	_	
+14-10	908-909	,	_	_	
+14-11	910-913	fid	_	_	
+14-12	913-914	.	_	_	
+14-13	915-917	to	_	_	
+14-14	918-923	tiffs	_	_	
+14-15	923-924	.	_	_	
+
+#Text=Hd. per cw:.
+15-1	925-927	Hd	_	_	
+15-2	927-928	.	_	_	
+15-3	929-932	per	_	_	
+15-4	933-935	cw	_	_	
+15-5	935-936	:	_	_	
+15-6	936-937	.	_	_	
+
+#Text=Hemp and Flax without alteration.
+16-1	938-942	Hemp	_	_	
+16-2	943-946	and	_	_	
+16-3	947-951	Flax	_	_	
+16-4	952-959	without	_	_	
+16-5	960-970	alteration	_	_	
+16-6	970-971	.	_	_	
+
+#Text=Indigo.
+17-1	972-978	Indigo	_	_	
+17-2	978-979	.	_	_	
+
+#Text=—No business has been done this week; buyers continue occupied at the show.
+18-1	979-980	—	_	_	
+18-2	980-982	No	_	_	
+18-3	983-991	business	_	_	
+18-4	992-995	has	_	_	
+18-5	996-1000	been	_	_	
+18-6	1001-1005	done	_	_	
+18-7	1006-1010	this	_	_	
+18-8	1011-1015	week	_	_	
+18-9	1015-1016	;	_	_	
+18-10	1017-1023	buyers	_	_	
+18-11	1024-1032	continue	_	_	
+18-12	1033-1041	occupied	_	_	
+18-13	1042-1044	at	_	_	
+18-14	1045-1048	the	_	_	
+18-15	1049-1053	show	_	_	
+18-16	1053-1054	.	_	_	
+
+#Text=The total quantity declared by the Fast India Company amounts to 4.f!
+19-1	1055-1058	The	_	_	
+19-2	1059-1064	total	_	_	
+19-3	1065-1073	quantity	_	_	
+19-4	1074-1082	declared	_	_	
+19-5	1083-1085	by	_	_	
+19-6	1086-1089	the	_	_	
+19-7	1090-1094	Fast	_	_	
+19-8	1095-1100	India	_	_	
+19-9	1101-1108	Company	_	_	
+19-10	1109-1116	amounts	_	_	
+19-11	1117-1119	to	_	_	
+19-12	1120-1121	4	_	_	
+19-13	1121-1122	.	_	_	
+19-14	1122-1123	f	_	_	
+19-15	1123-1124	!	_	_	
+
+#Text=K!
+20-1	1124-1125	K	_	_	
+20-2	1125-1126	!	_	_	
+
+#Text=chests.
+21-1	1127-1133	chests	_	_	
+21-2	1133-1134	.	_	_	
+
+#Text=The sale of indigo at Liverpool tor the *id January next, is withdrawn.
+22-1	1135-1138	The	_	_	
+22-2	1139-1143	sale	_	_	
+22-3	1144-1146	of	_	_	
+22-4	1147-1153	indigo	_	_	
+22-5	1154-1156	at	_	_	
+22-6	1157-1166	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+22-7	1167-1170	tor	_	_	
+22-8	1171-1174	the	_	_	
+22-9	1175-1176	*	_	_	
+22-10	1176-1178	id	_	_	
+22-11	1179-1186	January	_	_	
+22-12	1187-1191	next	_	_	
+22-13	1191-1192	,	_	_	
+22-14	1193-1195	is	_	_	
+22-15	1196-1205	withdrawn	_	_	
+22-16	1205-1206	.	_	_	
+
+#Text=Hops.
+23-1	1207-1211	Hops	_	_	
+23-2	1211-1212	.	_	_	
+
+#Text=—The market continues dull, as is always the case this time of the year.
+24-1	1212-1213	—	_	_	
+24-2	1213-1216	The	_	_	
+24-3	1217-1223	market	_	_	
+24-4	1224-1233	continues	_	_	
+24-5	1234-1238	dull	_	_	
+24-6	1238-1239	,	_	_	
+24-7	1240-1242	as	_	_	
+24-8	1243-1245	is	_	_	
+24-9	1246-1252	always	_	_	
+24-10	1253-1256	the	_	_	
+24-11	1257-1261	case	_	_	
+24-12	1262-1266	this	_	_	
+24-13	1267-1271	time	_	_	
+24-14	1272-1274	of	_	_	
+24-15	1275-1278	the	_	_	
+24-16	1279-1283	year	_	_	
+24-17	1283-1284	.	_	_	

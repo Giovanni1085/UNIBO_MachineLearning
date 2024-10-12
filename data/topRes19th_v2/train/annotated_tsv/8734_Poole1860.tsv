@@ -1,0 +1,375 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=GIISSAGE ST.
+1-1	0-8	GIISSAGE	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[1]	LOC[1]	
+1-2	9-11	ST	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[1]	LOC[1]	
+1-3	11-12	.	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[1]	LOC[1]	
+
+#Text=MICHAEL.
+2-1	13-20	MICHAEL	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[1]	LOC[1]	
+2-2	20-21	.	_	_	
+
+#Text=COURT ow ARCIICS.
+3-1	23-28	COURT	*[2]	BUILDING[2]	
+3-2	29-31	ow	*[2]	BUILDING[2]	
+3-3	32-39	ARCIICS	*[2]	BUILDING[2]	
+3-4	39-40	.	_	_	
+
+#Text=—At this court, last week, a cue came before Dr.
+4-1	40-41	—	_	_	
+4-2	41-43	At	_	_	
+4-3	44-48	this	_	_	
+4-4	49-54	court	_	_	
+4-5	54-55	,	_	_	
+4-6	56-60	last	_	_	
+4-7	61-65	week	_	_	
+4-8	65-66	,	_	_	
+4-9	67-68	a	_	_	
+4-10	69-72	cue	_	_	
+4-11	73-77	came	_	_	
+4-12	78-84	before	_	_	
+4-13	85-87	Dr	_	_	
+4-14	87-88	.	_	_	
+
+#Text=Robinson, Surrogate, on letters of request from the Bishop of Salisbury, on the complaint of the Rev.
+5-1	89-97	Robinson	_	_	
+5-2	97-98	,	_	_	
+5-3	99-108	Surrogate	_	_	
+5-4	108-109	,	_	_	
+5-5	110-112	on	_	_	
+5-6	113-120	letters	_	_	
+5-7	121-123	of	_	_	
+5-8	124-131	request	_	_	
+5-9	132-136	from	_	_	
+5-10	137-140	the	_	_	
+5-11	141-147	Bishop	_	_	
+5-12	148-150	of	_	_	
+5-13	151-160	Salisbury	_	_	
+5-14	160-161	,	_	_	
+5-15	162-164	on	_	_	
+5-16	165-168	the	_	_	
+5-17	169-178	complaint	_	_	
+5-18	179-181	of	_	_	
+5-19	182-185	the	_	_	
+5-20	186-189	Rev	_	_	
+5-21	189-190	.	_	_	
+
+#Text=George Dewduey, rector of the parish of Gussage St.
+6-1	191-197	George	_	_	
+6-2	198-205	Dewduey	_	_	
+6-3	205-206	,	_	_	
+6-4	207-213	rector	_	_	
+6-5	214-216	of	_	_	
+6-6	217-220	the	_	_	
+6-7	221-227	parish	_	_	
+6-8	228-230	of	_	_	
+6-9	231-238	Gussage	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[3]	LOC[3]	
+6-10	239-241	St	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[3]	LOC[3]	
+6-11	241-242	.	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[3]	LOC[3]	
+
+#Text=Michael,in the county of Dorset, against George Good and Henry Furd, churchwardens and inhabitants, to answer articles exhibited against them, charging that they had forcibly and outrageously broken open the church of Gussage St.
+7-1	243-250	Michael	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[3]	LOC[3]	
+7-2	250-251	,	_	_	
+7-3	251-253	in	_	_	
+7-4	254-257	the	_	_	
+7-5	258-264	county	_	_	
+7-6	265-267	of	_	_	
+7-7	268-274	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+7-8	274-275	,	_	_	
+7-9	276-283	against	_	_	
+7-10	284-290	George	_	_	
+7-11	291-295	Good	_	_	
+7-12	296-299	and	_	_	
+7-13	300-305	Henry	_	_	
+7-14	306-310	Furd	_	_	
+7-15	310-311	,	_	_	
+7-16	312-325	churchwardens	_	_	
+7-17	326-329	and	_	_	
+7-18	330-341	inhabitants	_	_	
+7-19	341-342	,	_	_	
+7-20	343-345	to	_	_	
+7-21	346-352	answer	_	_	
+7-22	353-361	articles	_	_	
+7-23	362-371	exhibited	_	_	
+7-24	372-379	against	_	_	
+7-25	380-384	them	_	_	
+7-26	384-385	,	_	_	
+7-27	386-394	charging	_	_	
+7-28	395-399	that	_	_	
+7-29	400-404	they	_	_	
+7-30	405-408	had	_	_	
+7-31	409-417	forcibly	_	_	
+7-32	418-421	and	_	_	
+7-33	422-434	outrageously	_	_	
+7-34	435-441	broken	_	_	
+7-35	442-446	open	_	_	
+7-36	447-450	the	_	_	
+7-37	451-457	church	_	_	
+7-38	458-460	of	_	_	
+7-39	461-468	Gussage	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[4]	LOC[4]	
+7-40	469-471	St	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[4]	LOC[4]	
+7-41	471-472	.	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[4]	LOC[4]	
+
+#Text=Michael, of which the Rev.
+8-1	473-480	Michael	https://en.wikipedia.org/wiki/Gussage\_St\_Michael[4]	LOC[4]	
+8-2	480-481	,	_	_	
+8-3	482-484	of	_	_	
+8-4	485-490	which	_	_	
+8-5	491-494	the	_	_	
+8-6	495-498	Rev	_	_	
+8-7	498-499	.	_	_	
+
+#Text=George Dewdney was rector, and, without any order or faculty, removed the pulpit from its position in the church, and also having pulled down and removed certain pews and committed sundry other excesses, and being guilty of offensive conduct toward the rector, such !
+9-1	500-506	George	_	_	
+9-2	507-514	Dewdney	_	_	
+9-3	515-518	was	_	_	
+9-4	519-525	rector	_	_	
+9-5	525-526	,	_	_	
+9-6	527-530	and	_	_	
+9-7	530-531	,	_	_	
+9-8	532-539	without	_	_	
+9-9	540-543	any	_	_	
+9-10	544-549	order	_	_	
+9-11	550-552	or	_	_	
+9-12	553-560	faculty	_	_	
+9-13	560-561	,	_	_	
+9-14	562-569	removed	_	_	
+9-15	570-573	the	_	_	
+9-16	574-580	pulpit	_	_	
+9-17	581-585	from	_	_	
+9-18	586-589	its	_	_	
+9-19	590-598	position	_	_	
+9-20	599-601	in	_	_	
+9-21	602-605	the	_	_	
+9-22	606-612	church	_	_	
+9-23	612-613	,	_	_	
+9-24	614-617	and	_	_	
+9-25	618-622	also	_	_	
+9-26	623-629	having	_	_	
+9-27	630-636	pulled	_	_	
+9-28	637-641	down	_	_	
+9-29	642-645	and	_	_	
+9-30	646-653	removed	_	_	
+9-31	654-661	certain	_	_	
+9-32	662-666	pews	_	_	
+9-33	667-670	and	_	_	
+9-34	671-680	committed	_	_	
+9-35	681-687	sundry	_	_	
+9-36	688-693	other	_	_	
+9-37	694-702	excesses	_	_	
+9-38	702-703	,	_	_	
+9-39	704-707	and	_	_	
+9-40	708-713	being	_	_	
+9-41	714-720	guilty	_	_	
+9-42	721-723	of	_	_	
+9-43	724-733	offensive	_	_	
+9-44	734-741	conduct	_	_	
+9-45	742-748	toward	_	_	
+9-46	749-752	the	_	_	
+9-47	753-759	rector	_	_	
+9-48	759-760	,	_	_	
+9-49	761-765	such	_	_	
+9-50	766-767	!	_	_	
+
+#Text=entails having taken place against the authority of the rector ; and it Ras prayed that they might answer the charges and be admonished touching and concerning their souls health, and the lawful correction and reformation of their manners and excesses.
+10-1	767-774	entails	_	_	
+10-2	775-781	having	_	_	
+10-3	782-787	taken	_	_	
+10-4	788-793	place	_	_	
+10-5	794-801	against	_	_	
+10-6	802-805	the	_	_	
+10-7	806-815	authority	_	_	
+10-8	816-818	of	_	_	
+10-9	819-822	the	_	_	
+10-10	823-829	rector	_	_	
+10-11	830-831	;	_	_	
+10-12	832-835	and	_	_	
+10-13	836-838	it	_	_	
+10-14	839-842	Ras	_	_	
+10-15	843-849	prayed	_	_	
+10-16	850-854	that	_	_	
+10-17	855-859	they	_	_	
+10-18	860-865	might	_	_	
+10-19	866-872	answer	_	_	
+10-20	873-876	the	_	_	
+10-21	877-884	charges	_	_	
+10-22	885-888	and	_	_	
+10-23	889-891	be	_	_	
+10-24	892-902	admonished	_	_	
+10-25	903-911	touching	_	_	
+10-26	912-915	and	_	_	
+10-27	916-926	concerning	_	_	
+10-28	927-932	their	_	_	
+10-29	933-938	souls	_	_	
+10-30	939-945	health	_	_	
+10-31	945-946	,	_	_	
+10-32	947-950	and	_	_	
+10-33	951-954	the	_	_	
+10-34	955-961	lawful	_	_	
+10-35	962-972	correction	_	_	
+10-36	973-976	and	_	_	
+10-37	977-988	reformation	_	_	
+10-38	989-991	of	_	_	
+10-39	992-997	their	_	_	
+10-40	998-1005	manners	_	_	
+10-41	1006-1009	and	_	_	
+10-42	1010-1018	excesses	_	_	
+10-43	1018-1019	.	_	_	
+
+#Text=—The circumstances of the dissensions between the rector and his pat ishioners have caused much scandal in the parish.
+11-1	1019-1020	—	_	_	
+11-2	1020-1023	The	_	_	
+11-3	1024-1037	circumstances	_	_	
+11-4	1038-1040	of	_	_	
+11-5	1041-1044	the	_	_	
+11-6	1045-1056	dissensions	_	_	
+11-7	1057-1064	between	_	_	
+11-8	1065-1068	the	_	_	
+11-9	1069-1075	rector	_	_	
+11-10	1076-1079	and	_	_	
+11-11	1080-1083	his	_	_	
+11-12	1084-1087	pat	_	_	
+11-13	1088-1097	ishioners	_	_	
+11-14	1098-1102	have	_	_	
+11-15	1103-1109	caused	_	_	
+11-16	1110-1114	much	_	_	
+11-17	1115-1122	scandal	_	_	
+11-18	1123-1125	in	_	_	
+11-19	1126-1129	the	_	_	
+11-20	1130-1136	parish	_	_	
+11-21	1136-1137	.	_	_	
+
+#Text=—Mr.
+12-1	1137-1138	—	_	_	
+12-2	1138-1140	Mr	_	_	
+12-3	1140-1141	.	_	_	
+
+#Text=Cherritt, proctor on behalf of the Rev.
+13-1	1142-1150	Cherritt	_	_	
+13-2	1150-1151	,	_	_	
+13-3	1152-1159	proctor	_	_	
+13-4	1160-1162	on	_	_	
+13-5	1163-1169	behalf	_	_	
+13-6	1170-1172	of	_	_	
+13-7	1173-1176	the	_	_	
+13-8	1177-1180	Rev	_	_	
+13-9	1180-1181	.	_	_	
+
+#Text=George Dewthiey, brought in the articles, and then moved that the Court pronounce condemnation against the respondents for not appearing to the citation.
+14-1	1182-1188	George	_	_	
+14-2	1189-1197	Dewthiey	_	_	
+14-3	1197-1198	,	_	_	
+14-4	1199-1206	brought	_	_	
+14-5	1207-1209	in	_	_	
+14-6	1210-1213	the	_	_	
+14-7	1214-1222	articles	_	_	
+14-8	1222-1223	,	_	_	
+14-9	1224-1227	and	_	_	
+14-10	1228-1232	then	_	_	
+14-11	1233-1238	moved	_	_	
+14-12	1239-1243	that	_	_	
+14-13	1244-1247	the	_	_	
+14-14	1248-1253	Court	_	_	
+14-15	1254-1263	pronounce	_	_	
+14-16	1264-1276	condemnation	_	_	
+14-17	1277-1284	against	_	_	
+14-18	1285-1288	the	_	_	
+14-19	1289-1300	respondents	_	_	
+14-20	1301-1304	for	_	_	
+14-21	1305-1308	not	_	_	
+14-22	1309-1318	appearing	_	_	
+14-23	1319-1321	to	_	_	
+14-24	1322-1325	the	_	_	
+14-25	1326-1334	citation	_	_	
+14-26	1334-1335	.	_	_	
+
+#Text=—Mr.
+15-1	1335-1336	—	_	_	
+15-2	1336-1338	Mr	_	_	
+15-3	1338-1339	.	_	_	
+
+#Text=Clerkson, proctor for Mr.
+16-1	1340-1348	Clerkson	_	_	
+16-2	1348-1349	,	_	_	
+16-3	1350-1357	proctor	_	_	
+16-4	1358-1361	for	_	_	
+16-5	1362-1364	Mr	_	_	
+16-6	1364-1365	.	_	_	
+
+#Text=Good and Mr.
+17-1	1366-1370	Good	_	_	
+17-2	1371-1374	and	_	_	
+17-3	1375-1377	Mr	_	_	
+17-4	1377-1378	.	_	_	
+
+#Text=Ford, now appeared, and explained that the non-appeararms arose from an error as to the court-day ; and he was desirous now to appear, which being assented to on tho other side, lie exhibited proxy and prayed to answer articles which had been Drought in.
+18-1	1379-1383	Ford	_	_	
+18-2	1383-1384	,	_	_	
+18-3	1385-1388	now	_	_	
+18-4	1389-1397	appeared	_	_	
+18-5	1397-1398	,	_	_	
+18-6	1399-1402	and	_	_	
+18-7	1403-1412	explained	_	_	
+18-8	1413-1417	that	_	_	
+18-9	1418-1421	the	_	_	
+18-10	1422-1436	non-appeararms	_	_	
+18-11	1437-1442	arose	_	_	
+18-12	1443-1447	from	_	_	
+18-13	1448-1450	an	_	_	
+18-14	1451-1456	error	_	_	
+18-15	1457-1459	as	_	_	
+18-16	1460-1462	to	_	_	
+18-17	1463-1466	the	_	_	
+18-18	1467-1476	court-day	_	_	
+18-19	1477-1478	;	_	_	
+18-20	1479-1482	and	_	_	
+18-21	1483-1485	he	_	_	
+18-22	1486-1489	was	_	_	
+18-23	1490-1498	desirous	_	_	
+18-24	1499-1502	now	_	_	
+18-25	1503-1505	to	_	_	
+18-26	1506-1512	appear	_	_	
+18-27	1512-1513	,	_	_	
+18-28	1514-1519	which	_	_	
+18-29	1520-1525	being	_	_	
+18-30	1526-1534	assented	_	_	
+18-31	1535-1537	to	_	_	
+18-32	1538-1540	on	_	_	
+18-33	1541-1544	tho	_	_	
+18-34	1545-1550	other	_	_	
+18-35	1551-1555	side	_	_	
+18-36	1555-1556	,	_	_	
+18-37	1557-1560	lie	_	_	
+18-38	1561-1570	exhibited	_	_	
+18-39	1571-1576	proxy	_	_	
+18-40	1577-1580	and	_	_	
+18-41	1581-1587	prayed	_	_	
+18-42	1588-1590	to	_	_	
+18-43	1591-1597	answer	_	_	
+18-44	1598-1606	articles	_	_	
+18-45	1607-1612	which	_	_	
+18-46	1613-1616	had	_	_	
+18-47	1617-1621	been	_	_	
+18-48	1622-1629	Drought	_	_	
+18-49	1630-1632	in	_	_	
+18-50	1632-1633	.	_	_	
+
+#Text=—The Surrogate assigned the next court day to hear counsel on admission of articles.
+19-1	1633-1634	—	_	_	
+19-2	1634-1637	The	_	_	
+19-3	1638-1647	Surrogate	_	_	
+19-4	1648-1656	assigned	_	_	
+19-5	1657-1660	the	_	_	
+19-6	1661-1665	next	_	_	
+19-7	1666-1671	court	_	_	
+19-8	1672-1675	day	_	_	
+19-9	1676-1678	to	_	_	
+19-10	1679-1683	hear	_	_	
+19-11	1684-1691	counsel	_	_	
+19-12	1692-1694	on	_	_	
+19-13	1695-1704	admission	_	_	
+19-14	1705-1707	of	_	_	
+19-15	1708-1716	articles	_	_	
+19-16	1716-1717	.	_	_	

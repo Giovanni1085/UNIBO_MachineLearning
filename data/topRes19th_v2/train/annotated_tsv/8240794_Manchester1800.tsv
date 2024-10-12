@@ -1,0 +1,455 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=MARRIED.
+1-1	0-7	MARRIED	_	_	
+1-2	7-8	.	_	_	
+
+#Text=A few day* ago, at Prestwich, Mr R atcliffo Schofield, cotton manufacturer, of Pilkington, to Miss Rachael Siiuttlewonh, of the same place.
+2-1	9-10	A	_	_	
+2-2	11-14	few	_	_	
+2-3	15-18	day	_	_	
+2-4	18-19	*	_	_	
+2-5	20-23	ago	_	_	
+2-6	23-24	,	_	_	
+2-7	25-27	at	_	_	
+2-8	28-37	Prestwich	https://en.wikipedia.org/wiki/Prestwich	LOC	
+2-9	37-38	,	_	_	
+2-10	39-41	Mr	_	_	
+2-11	42-43	R	_	_	
+2-12	44-52	atcliffo	_	_	
+2-13	53-62	Schofield	_	_	
+2-14	62-63	,	_	_	
+2-15	64-70	cotton	_	_	
+2-16	71-83	manufacturer	_	_	
+2-17	83-84	,	_	_	
+2-18	85-87	of	_	_	
+2-19	88-98	Pilkington	https://en.wikipedia.org/wiki/Pilkington\_(ancient\_township)	LOC	
+2-20	98-99	,	_	_	
+2-21	100-102	to	_	_	
+2-22	103-107	Miss	_	_	
+2-23	108-115	Rachael	_	_	
+2-24	116-128	Siiuttlewonh	_	_	
+2-25	128-129	,	_	_	
+2-26	130-132	of	_	_	
+2-27	133-136	the	_	_	
+2-28	137-141	same	_	_	
+2-29	142-147	place	_	_	
+2-30	147-148	.	_	_	
+
+#Text=—At Prescot, the Rev.
+3-1	148-149	—	_	_	
+3-2	149-151	At	_	_	
+3-3	152-159	Prescot	https://en.wikipedia.org/wiki/Prescot	LOC	
+3-4	159-160	,	_	_	
+3-5	161-164	the	_	_	
+3-6	165-168	Rev	_	_	
+3-7	168-169	.	_	_	
+
+#Text=W.
+4-1	170-171	W	_	_	
+4-2	171-172	.	_	_	
+
+#Text=Wood, of Fort Hill, near Blackburn, to Mrs Hewson, of Fccleston, near Present.
+5-1	173-177	Wood	_	_	
+5-2	177-178	,	_	_	
+5-3	179-181	of	_	_	
+5-4	182-186	Fort	*[1]	LOC[1]	
+5-5	187-191	Hill	*[1]	LOC[1]	
+5-6	191-192	,	_	_	
+5-7	193-197	near	_	_	
+5-8	198-207	Blackburn	https://en.wikipedia.org/wiki/Blackburn	LOC	
+5-9	207-208	,	_	_	
+5-10	209-211	to	_	_	
+5-11	212-215	Mrs	_	_	
+5-12	216-222	Hewson	_	_	
+5-13	222-223	,	_	_	
+5-14	224-226	of	_	_	
+5-15	227-236	Fccleston	https://en.wikipedia.org/wiki/Eccleston,\_St\_Helens	LOC	
+5-16	236-237	,	_	_	
+5-17	238-242	near	_	_	
+5-18	243-250	Present	https://en.wikipedia.org/wiki/Prescot	LOC	
+5-19	250-251	.	_	_	
+
+#Text=—On the sth in t.
+6-1	251-252	—	_	_	
+6-2	252-254	On	_	_	
+6-3	255-258	the	_	_	
+6-4	259-262	sth	_	_	
+6-5	263-265	in	_	_	
+6-6	266-267	t	_	_	
+6-7	267-268	.	_	_	
+
+#Text=Mr Joseph Suart, shoemaker, aged -A to Mist Mary Ellcrshaw, a blooming maid, aged <> 1, both of Bentham.
+7-1	269-271	Mr	_	_	
+7-2	272-278	Joseph	_	_	
+7-3	279-284	Suart	_	_	
+7-4	284-285	,	_	_	
+7-5	286-295	shoemaker	_	_	
+7-6	295-296	,	_	_	
+7-7	297-301	aged	_	_	
+7-8	302-303	-	_	_	
+7-9	303-304	A	_	_	
+7-10	305-307	to	_	_	
+7-11	308-312	Mist	_	_	
+7-12	313-317	Mary	_	_	
+7-13	318-327	Ellcrshaw	_	_	
+7-14	327-328	,	_	_	
+7-15	329-330	a	_	_	
+7-16	331-339	blooming	_	_	
+7-17	340-344	maid	_	_	
+7-18	344-345	,	_	_	
+7-19	346-350	aged	_	_	
+7-20	351-352	<	_	_	
+7-21	352-353	>	_	_	
+7-22	354-355	1	_	_	
+7-23	355-356	,	_	_	
+7-24	357-361	both	_	_	
+7-25	362-364	of	_	_	
+7-26	365-372	Bentham	https://en.wikipedia.org/wiki/Bentham,\_North\_Yorkshire	LOC	
+7-27	372-373	.	_	_	
+
+#Text=DIED.
+8-1	374-378	DIED	_	_	
+8-2	378-379	.	_	_	
+
+#Text=Cn Wednesday se’nnight, Mr Cornelius Paas, of Holborn, aged 65, engraver to his Majesty.— On Thursday sennight, Mr Peacock, draper of Pre-ton.
+9-1	380-382	Cn	_	_	
+9-2	383-392	Wednesday	_	_	
+9-3	393-395	se	_	_	
+9-4	395-396	’	_	_	
+9-5	396-402	nnight	_	_	
+9-6	402-403	,	_	_	
+9-7	404-406	Mr	_	_	
+9-8	407-416	Cornelius	_	_	
+9-9	417-421	Paas	_	_	
+9-10	421-422	,	_	_	
+9-11	423-425	of	_	_	
+9-12	426-433	Holborn	https://en.wikipedia.org/wiki/Holborn	STREET	
+9-13	433-434	,	_	_	
+9-14	435-439	aged	_	_	
+9-15	440-442	65	_	_	
+9-16	442-443	,	_	_	
+9-17	444-452	engraver	_	_	
+9-18	453-455	to	_	_	
+9-19	456-459	his	_	_	
+9-20	460-467	Majesty	_	_	
+9-21	467-468	.	_	_	
+9-22	468-469	—	_	_	
+9-23	470-472	On	_	_	
+9-24	473-481	Thursday	_	_	
+9-25	482-490	sennight	_	_	
+9-26	490-491	,	_	_	
+9-27	492-494	Mr	_	_	
+9-28	495-502	Peacock	_	_	
+9-29	502-503	,	_	_	
+9-30	504-510	draper	_	_	
+9-31	511-513	of	_	_	
+9-32	514-521	Pre-ton	https://en.wikipedia.org/wiki/Preston,\_Lancashire	LOC	
+9-33	521-522	.	_	_	
+
+#Text=—On the 15th nist. aged 78 years, Mr John Hyde, of Tree-house-bank, near Ashton-under-lyne—On Monday last, of a long illness, Mr Joseph Whitehead, of Preston, brass-founder, and button-maker.
+10-1	523-524	—	_	_	
+10-2	524-526	On	_	_	
+10-3	527-530	the	_	_	
+10-4	531-535	15th	_	_	
+10-5	536-540	nist	_	_	
+10-6	540-541	.	_	_	
+10-7	542-546	aged	_	_	
+10-8	547-549	78	_	_	
+10-9	550-555	years	_	_	
+10-10	555-556	,	_	_	
+10-11	557-559	Mr	_	_	
+10-12	560-564	John	_	_	
+10-13	565-569	Hyde	_	_	
+10-14	569-570	,	_	_	
+10-15	571-573	of	_	_	
+10-16	574-589	Tree-house-bank	*	BUILDING	
+10-17	589-590	,	_	_	
+10-18	591-595	near	_	_	
+10-19	596-616	Ashton-under-lyne—On	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+10-19.1	596-613	Ashton-under-lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+10-20	617-623	Monday	_	_	
+10-21	624-628	last	_	_	
+10-22	628-629	,	_	_	
+10-23	630-632	of	_	_	
+10-24	633-634	a	_	_	
+10-25	635-639	long	_	_	
+10-26	640-647	illness	_	_	
+10-27	647-648	,	_	_	
+10-28	649-651	Mr	_	_	
+10-29	652-658	Joseph	_	_	
+10-30	659-668	Whitehead	_	_	
+10-31	668-669	,	_	_	
+10-32	670-672	of	_	_	
+10-33	673-680	Preston	https://en.wikipedia.org/wiki/Preston,\_Lancashire	LOC	
+10-34	680-681	,	_	_	
+10-35	682-695	brass-founder	_	_	
+10-36	695-696	,	_	_	
+10-37	697-700	and	_	_	
+10-38	701-713	button-maker	_	_	
+10-39	713-714	.	_	_	
+
+#Text=—On Wednesday, at Stockport, much regretted, Mrs Knowles, wife of Mr Knowles, shopkeeper in the Market-place there.
+11-1	715-716	—	_	_	
+11-2	716-718	On	_	_	
+11-3	719-728	Wednesday	_	_	
+11-4	728-729	,	_	_	
+11-5	730-732	at	_	_	
+11-6	733-742	Stockport	https://en.wikipedia.org/wiki/Stockport	LOC	
+11-7	742-743	,	_	_	
+11-8	744-748	much	_	_	
+11-9	749-758	regretted	_	_	
+11-10	758-759	,	_	_	
+11-11	760-763	Mrs	_	_	
+11-12	764-771	Knowles	_	_	
+11-13	771-772	,	_	_	
+11-14	773-777	wife	_	_	
+11-15	778-780	of	_	_	
+11-16	781-783	Mr	_	_	
+11-17	784-791	Knowles	_	_	
+11-18	791-792	,	_	_	
+11-19	793-803	shopkeeper	_	_	
+11-20	804-806	in	_	_	
+11-21	807-810	the	_	_	
+11-22	811-823	Market-place	*	STREET	
+11-23	824-829	there	_	_	
+11-24	829-830	.	_	_	
+
+#Text=—Sunday se’nnight, aged 81 years.
+12-1	830-831	—	_	_	
+12-2	831-837	Sunday	_	_	
+12-3	838-840	se	_	_	
+12-4	840-841	’	_	_	
+12-5	841-847	nnight	_	_	
+12-6	847-848	,	_	_	
+12-7	849-853	aged	_	_	
+12-8	854-856	81	_	_	
+12-9	857-862	years	_	_	
+12-10	862-863	.	_	_	
+
+#Text=Mr John Pulleine, of Methley, father of Mr Pulleine, grocer, of Wakefield.
+13-1	864-866	Mr	_	_	
+13-2	867-871	John	_	_	
+13-3	872-880	Pulleine	_	_	
+13-4	880-881	,	_	_	
+13-5	882-884	of	_	_	
+13-6	885-892	Methley	https://en.wikipedia.org/wiki/Methley	LOC	
+13-7	892-893	,	_	_	
+13-8	894-900	father	_	_	
+13-9	901-903	of	_	_	
+13-10	904-906	Mr	_	_	
+13-11	907-915	Pulleine	_	_	
+13-12	915-916	,	_	_	
+13-13	917-923	grocer	_	_	
+13-14	923-924	,	_	_	
+13-15	925-927	of	_	_	
+13-16	928-937	Wakefield	https://en.wikipedia.org/wiki/Wakefield	LOC	
+13-17	937-938	.	_	_	
+
+#Text=—On Tuesday last, aged 77 years, Peter Perchard, Esq.
+14-1	938-939	—	_	_	
+14-2	939-941	On	_	_	
+14-3	942-949	Tuesday	_	_	
+14-4	950-954	last	_	_	
+14-5	954-955	,	_	_	
+14-6	956-960	aged	_	_	
+14-7	961-963	77	_	_	
+14-8	964-969	years	_	_	
+14-9	969-970	,	_	_	
+14-10	971-976	Peter	_	_	
+14-11	977-985	Perchard	_	_	
+14-12	985-986	,	_	_	
+14-13	987-990	Esq	_	_	
+14-14	990-991	.	_	_	
+
+#Text=Alderman and late Lord Mayor of London.
+15-1	992-1000	Alderman	_	_	
+15-2	1001-1004	and	_	_	
+15-3	1005-1009	late	_	_	
+15-4	1010-1014	Lord	_	_	
+15-5	1015-1020	Mayor	_	_	
+15-6	1021-1023	of	_	_	
+15-7	1024-1030	London	https://en.wikipedia.org/wiki/London	LOC	
+15-8	1030-1031	.	_	_	
+
+#Text=On the 151 st ult.
+16-1	1032-1034	On	_	_	
+16-2	1035-1038	the	_	_	
+16-3	1039-1042	151	_	_	
+16-4	1043-1045	st	_	_	
+16-5	1046-1049	ult	_	_	
+16-6	1049-1050	.	_	_	
+
+#Text=Mrs Heard, of High-street, New Radford, after lying apparently in a trance tor eight days and nine nights; at the expiration of which period she recovered the use of her faculties, but afterwards expired.
+17-1	1051-1054	Mrs	_	_	
+17-2	1055-1060	Heard	_	_	
+17-3	1060-1061	,	_	_	
+17-4	1062-1064	of	_	_	
+17-5	1065-1076	High-street	*	STREET	
+17-6	1076-1077	,	_	_	
+17-7	1078-1081	New	*[2]	LOC[2]	
+17-8	1082-1089	Radford	*[2]	LOC[2]	
+17-9	1089-1090	,	_	_	
+17-10	1091-1096	after	_	_	
+17-11	1097-1102	lying	_	_	
+17-12	1103-1113	apparently	_	_	
+17-13	1114-1116	in	_	_	
+17-14	1117-1118	a	_	_	
+17-15	1119-1125	trance	_	_	
+17-16	1126-1129	tor	_	_	
+17-17	1130-1135	eight	_	_	
+17-18	1136-1140	days	_	_	
+17-19	1141-1144	and	_	_	
+17-20	1145-1149	nine	_	_	
+17-21	1150-1156	nights	_	_	
+17-22	1156-1157	;	_	_	
+17-23	1158-1160	at	_	_	
+17-24	1161-1164	the	_	_	
+17-25	1165-1175	expiration	_	_	
+17-26	1176-1178	of	_	_	
+17-27	1179-1184	which	_	_	
+17-28	1185-1191	period	_	_	
+17-29	1192-1195	she	_	_	
+17-30	1196-1205	recovered	_	_	
+17-31	1206-1209	the	_	_	
+17-32	1210-1213	use	_	_	
+17-33	1214-1216	of	_	_	
+17-34	1217-1220	her	_	_	
+17-35	1221-1230	faculties	_	_	
+17-36	1230-1231	,	_	_	
+17-37	1232-1235	but	_	_	
+17-38	1236-1246	afterwards	_	_	
+17-39	1247-1254	expired	_	_	
+17-40	1254-1255	.	_	_	
+
+#Text=—On the 19th inst.
+18-1	1255-1256	—	_	_	
+18-2	1256-1258	On	_	_	
+18-3	1259-1262	the	_	_	
+18-4	1263-1267	19th	_	_	
+18-5	1268-1272	inst	_	_	
+18-6	1272-1273	.	_	_	
+
+#Text=Mrs Beckett, wife of Mr Beckett, cl Salford, after along and tedious illness, which she supported with Christian patience and resignation.
+19-1	1274-1277	Mrs	_	_	
+19-2	1278-1285	Beckett	_	_	
+19-3	1285-1286	,	_	_	
+19-4	1287-1291	wife	_	_	
+19-5	1292-1294	of	_	_	
+19-6	1295-1297	Mr	_	_	
+19-7	1298-1305	Beckett	_	_	
+19-8	1305-1306	,	_	_	
+19-9	1307-1309	cl	_	_	
+19-10	1310-1317	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+19-11	1317-1318	,	_	_	
+19-12	1319-1324	after	_	_	
+19-13	1325-1330	along	_	_	
+19-14	1331-1334	and	_	_	
+19-15	1335-1342	tedious	_	_	
+19-16	1343-1350	illness	_	_	
+19-17	1350-1351	,	_	_	
+19-18	1352-1357	which	_	_	
+19-19	1358-1361	she	_	_	
+19-20	1362-1371	supported	_	_	
+19-21	1372-1376	with	_	_	
+19-22	1377-1386	Christian	_	_	
+19-23	1387-1395	patience	_	_	
+19-24	1396-1399	and	_	_	
+19-25	1400-1411	resignation	_	_	
+19-26	1411-1412	.	_	_	
+
+#Text=—On the 4th inst. at Docker, near Kendal, at the advanced age of 9S, Mrs Margaret Clarntt, This venerable widow had in her possession a small desk, marked “ A.
+20-1	1412-1413	—	_	_	
+20-2	1413-1415	On	_	_	
+20-3	1416-1419	the	_	_	
+20-4	1420-1423	4th	_	_	
+20-5	1424-1428	inst	_	_	
+20-6	1428-1429	.	_	_	
+20-7	1430-1432	at	_	_	
+20-8	1433-1439	Docker	https://en.wikipedia.org/wiki/Docker,\_Cumbria	LOC	
+20-9	1439-1440	,	_	_	
+20-10	1441-1445	near	_	_	
+20-11	1446-1452	Kendal	https://en.wikipedia.org/wiki/Kendal	LOC	
+20-12	1452-1453	,	_	_	
+20-13	1454-1456	at	_	_	
+20-14	1457-1460	the	_	_	
+20-15	1461-1469	advanced	_	_	
+20-16	1470-1473	age	_	_	
+20-17	1474-1476	of	_	_	
+20-18	1477-1479	9S	_	_	
+20-19	1479-1480	,	_	_	
+20-20	1481-1484	Mrs	_	_	
+20-21	1485-1493	Margaret	_	_	
+20-22	1494-1501	Clarntt	_	_	
+20-23	1501-1502	,	_	_	
+20-24	1503-1507	This	_	_	
+20-25	1508-1517	venerable	_	_	
+20-26	1518-1523	widow	_	_	
+20-27	1524-1527	had	_	_	
+20-28	1528-1530	in	_	_	
+20-29	1531-1534	her	_	_	
+20-30	1535-1545	possession	_	_	
+20-31	1546-1547	a	_	_	
+20-32	1548-1553	small	_	_	
+20-33	1554-1558	desk	_	_	
+20-34	1558-1559	,	_	_	
+20-35	1560-1566	marked	_	_	
+20-36	1567-1568	“	_	_	
+20-37	1569-1570	A	_	_	
+20-38	1570-1571	.	_	_	
+
+#Text=D. 712 which had been made in the Saxon Heptarchy, and is coa-e-qucntly cure thousand and ninet\\-Jour years old.
+21-1	1572-1573	D	_	_	
+21-2	1573-1574	.	_	_	
+21-3	1575-1578	712	_	_	
+21-4	1579-1584	which	_	_	
+21-5	1585-1588	had	_	_	
+21-6	1589-1593	been	_	_	
+21-7	1594-1598	made	_	_	
+21-8	1599-1601	in	_	_	
+21-9	1602-1605	the	_	_	
+21-10	1606-1611	Saxon	_	_	
+21-11	1612-1621	Heptarchy	_	_	
+21-12	1621-1622	,	_	_	
+21-13	1623-1626	and	_	_	
+21-14	1627-1629	is	_	_	
+21-15	1630-1643	coa-e-qucntly	_	_	
+21-16	1644-1648	cure	_	_	
+21-17	1649-1657	thousand	_	_	
+21-18	1658-1661	and	_	_	
+21-19	1662-1667	ninet	_	_	
+21-20	1667-1668	\	_	_	
+21-21	1668-1669	-	_	_	
+21-22	1669-1673	Jour	_	_	
+21-23	1674-1679	years	_	_	
+21-24	1680-1683	old	_	_	
+21-25	1683-1684	.	_	_	
+
+#Text=—On Saturday at Pendleton, Joseph Booth, F.sq. a gentleman highly esteemed by au extensive circle of fi lends and acquaintance.
+22-1	1684-1685	—	_	_	
+22-2	1685-1687	On	_	_	
+22-3	1688-1696	Saturday	_	_	
+22-4	1697-1699	at	_	_	
+22-5	1700-1709	Pendleton	https://en.wikipedia.org/wiki/Pendleton,\_Greater\_Manchester	LOC	
+22-6	1709-1710	,	_	_	
+22-7	1711-1717	Joseph	_	_	
+22-8	1718-1723	Booth	_	_	
+22-9	1723-1724	,	_	_	
+22-10	1725-1729	F.sq	_	_	
+22-11	1729-1730	.	_	_	
+22-12	1731-1732	a	_	_	
+22-13	1733-1742	gentleman	_	_	
+22-14	1743-1749	highly	_	_	
+22-15	1750-1758	esteemed	_	_	
+22-16	1759-1761	by	_	_	
+22-17	1762-1764	au	_	_	
+22-18	1765-1774	extensive	_	_	
+22-19	1775-1781	circle	_	_	
+22-20	1782-1784	of	_	_	
+22-21	1785-1787	fi	_	_	
+22-22	1788-1793	lends	_	_	
+22-23	1794-1797	and	_	_	
+22-24	1798-1810	acquaintance	_	_	
+22-25	1810-1811	.	_	_	

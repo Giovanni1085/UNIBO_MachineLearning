@@ -1,0 +1,524 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Postscript.
+1-1	0-10	Postscript	_	_	
+1-2	10-11	.	_	_	
+
+#Text=LONDON, THURSDAY, MAY 17.
+2-1	13-19	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-2	19-20	,	_	_	
+2-3	21-29	THURSDAY	_	_	
+2-4	29-30	,	_	_	
+2-5	31-34	MAY	_	_	
+2-6	35-37	17	_	_	
+2-7	37-38	.	_	_	
+
+#Text=City, Two oClock—Nothing has transpired in the course of the morning in the Money Market requiring remark.
+3-1	39-43	City	_	_	
+3-2	43-44	,	_	_	
+3-3	45-48	Two	_	_	
+3-4	49-63	oClock—Nothing	_	_	
+3-5	64-67	has	_	_	
+3-6	68-78	transpired	_	_	
+3-7	79-81	in	_	_	
+3-8	82-85	the	_	_	
+3-9	86-92	course	_	_	
+3-10	93-95	of	_	_	
+3-11	96-99	the	_	_	
+3-12	100-107	morning	_	_	
+3-13	108-110	in	_	_	
+3-14	111-114	the	_	_	
+3-15	115-120	Money	_	_	
+3-16	121-127	Market	_	_	
+3-17	128-137	requiring	_	_	
+3-18	138-144	remark	_	_	
+3-19	144-145	.	_	_	
+
+#Text=A slight improvement has taken place in Consols; they are at present {for this Account, and 83.j for July.
+4-1	146-147	A	_	_	
+4-2	148-154	slight	_	_	
+4-3	155-166	improvement	_	_	
+4-4	167-170	has	_	_	
+4-5	171-176	taken	_	_	
+4-6	177-182	place	_	_	
+4-7	183-185	in	_	_	
+4-8	186-193	Consols	_	_	
+4-9	193-194	;	_	_	
+4-10	195-199	they	_	_	
+4-11	200-203	are	_	_	
+4-12	204-206	at	_	_	
+4-13	207-214	present	_	_	
+4-14	215-216	{	_	_	
+4-15	216-219	for	_	_	
+4-16	220-224	this	_	_	
+4-17	225-232	Account	_	_	
+4-18	232-233	,	_	_	
+4-19	234-237	and	_	_	
+4-20	238-240	83	_	_	
+4-21	240-241	.	_	_	
+4-22	241-242	j	_	_	
+4-23	243-246	for	_	_	
+4-24	247-251	July	_	_	
+4-25	251-252	.	_	_	
+
+#Text=Exchequer Bills 4!
+5-1	253-262	Exchequer	_	_	
+5-2	263-268	Bills	_	_	
+5-3	269-270	4	_	_	
+5-4	270-271	!	_	_	
+
+#Text=K to Ma. pm 1 The Foreign Market has been in a confused state, arising from many unfavourable reports respecting Mexico.
+6-1	271-272	K	_	_	
+6-2	273-275	to	_	_	
+6-3	276-278	Ma	_	_	
+6-4	278-279	.	_	_	
+6-5	280-282	pm	_	_	
+6-6	283-284	1	_	_	
+6-7	285-288	The	_	_	
+6-8	289-296	Foreign	_	_	
+6-9	297-303	Market	_	_	
+6-10	304-307	has	_	_	
+6-11	308-312	been	_	_	
+6-12	313-315	in	_	_	
+6-13	316-317	a	_	_	
+6-14	318-326	confused	_	_	
+6-15	327-332	state	_	_	
+6-16	332-333	,	_	_	
+6-17	334-341	arising	_	_	
+6-18	342-346	from	_	_	
+6-19	347-351	many	_	_	
+6-20	352-364	unfavourable	_	_	
+6-21	365-372	reports	_	_	
+6-22	373-383	respecting	_	_	
+6-23	384-390	Mexico	https://en.wikipedia.org/wiki/Mexico	LOC	
+6-24	390-391	.	_	_	
+
+#Text=Three Spanish Generals, and a Friar, had been arrested on suspicion of bein" concerned in revolutionary plans.
+7-1	392-397	Three	_	_	
+7-2	398-405	Spanish	_	_	
+7-3	406-414	Generals	_	_	
+7-4	414-415	,	_	_	
+7-5	416-419	and	_	_	
+7-6	420-421	a	_	_	
+7-7	422-427	Friar	_	_	
+7-8	427-428	,	_	_	
+7-9	429-432	had	_	_	
+7-10	433-437	been	_	_	
+7-11	438-446	arrested	_	_	
+7-12	447-449	on	_	_	
+7-13	450-459	suspicion	_	_	
+7-14	460-462	of	_	_	
+7-15	463-467	bein	_	_	
+7-16	467-468	"	_	_	
+7-17	469-478	concerned	_	_	
+7-18	479-481	in	_	_	
+7-19	482-495	revolutionary	_	_	
+7-20	496-501	plans	_	_	
+7-21	501-502	.	_	_	
+
+#Text=The letters from the City of Mexico are dated the 30th March, but do not contain any thing of importance.
+8-1	503-506	The	_	_	
+8-2	507-514	letters	_	_	
+8-3	515-519	from	_	_	
+8-4	520-523	the	_	_	
+8-5	524-528	City	https://en.wikipedia.org/wiki/Mexico\_City[1]	LOC[1]	
+8-6	529-531	of	https://en.wikipedia.org/wiki/Mexico\_City[1]	LOC[1]	
+8-7	532-538	Mexico	https://en.wikipedia.org/wiki/Mexico\_City[1]	LOC[1]	
+8-8	539-542	are	_	_	
+8-9	543-548	dated	_	_	
+8-10	549-552	the	_	_	
+8-11	553-557	30th	_	_	
+8-12	558-563	March	_	_	
+8-13	563-564	,	_	_	
+8-14	565-568	but	_	_	
+8-15	569-571	do	_	_	
+8-16	572-575	not	_	_	
+8-17	576-583	contain	_	_	
+8-18	584-587	any	_	_	
+8-19	588-593	thing	_	_	
+8-20	594-596	of	_	_	
+8-21	597-607	importance	_	_	
+8-22	607-608	.	_	_	
+
+#Text=The Stock opened at 68$, declined to C/i, anil is at present ■7j}.
+9-1	609-612	The	_	_	
+9-2	613-618	Stock	_	_	
+9-3	619-625	opened	_	_	
+9-4	626-628	at	_	_	
+9-5	629-631	68	_	_	
+9-6	631-632	$	_	_	
+9-7	632-633	,	_	_	
+9-8	634-642	declined	_	_	
+9-9	643-645	to	_	_	
+9-10	646-647	C	_	_	
+9-11	647-648	/	_	_	
+9-12	648-649	i	_	_	
+9-13	649-650	,	_	_	
+9-14	651-655	anil	_	_	
+9-15	656-658	is	_	_	
+9-16	659-661	at	_	_	
+9-17	662-669	present	_	_	
+9-18	670-671	■	_	_	
+9-19	671-673	7j	_	_	
+9-20	673-674	}	_	_	
+9-21	674-675	.	_	_	
+
+#Text=Colombian fell from 32 to 30, and at present remains at 31 The Continental Stocks remain nearly the same as last quoted.
+10-1	676-685	Colombian	_	_	
+10-2	686-690	fell	_	_	
+10-3	691-695	from	_	_	
+10-4	696-698	32	_	_	
+10-5	699-701	to	_	_	
+10-6	702-704	30	_	_	
+10-7	704-705	,	_	_	
+10-8	706-709	and	_	_	
+10-9	710-712	at	_	_	
+10-10	713-720	present	_	_	
+10-11	721-728	remains	_	_	
+10-12	729-731	at	_	_	
+10-13	732-734	31	_	_	
+10-14	735-738	The	_	_	
+10-15	739-750	Continental	_	_	
+10-16	751-757	Stocks	_	_	
+10-17	758-764	remain	_	_	
+10-18	765-771	nearly	_	_	
+10-19	772-775	the	_	_	
+10-20	776-780	same	_	_	
+10-21	781-783	as	_	_	
+10-22	784-788	last	_	_	
+10-23	789-795	quoted	_	_	
+10-24	795-796	.	_	_	
+
+#Text=Portuguese 78 ; Russian 903 01; Spanish 12.J4 ; Greek 10 to 16.}
+11-1	797-807	Portuguese	_	_	
+11-2	808-810	78	_	_	
+11-3	811-812	;	_	_	
+11-4	813-820	Russian	_	_	
+11-5	821-824	903	_	_	
+11-6	825-827	01	_	_	
+11-7	827-828	;	_	_	
+11-8	829-836	Spanish	_	_	
+11-9	837-839	12	_	_	
+11-10	839-840	.	_	_	
+11-11	840-842	J4	_	_	
+11-12	843-844	;	_	_	
+11-13	845-850	Greek	_	_	
+11-14	851-853	10	_	_	
+11-15	854-856	to	_	_	
+11-16	857-859	16	_	_	
+11-17	859-860	.	_	_	
+11-18	860-861	}	_	_	
+
+#Text=An express has arrived from Paris.
+12-1	862-864	An	_	_	
+12-2	865-872	express	_	_	
+12-3	873-876	has	_	_	
+12-4	877-884	arrived	_	_	
+12-5	885-889	from	_	_	
+12-6	890-895	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+12-7	895-896	.	_	_	
+
+#Text=The prices of the rentes on Tuesday were—Five per cents.
+13-1	897-900	The	_	_	
+13-2	901-907	prices	_	_	
+13-3	908-910	of	_	_	
+13-4	911-914	the	_	_	
+13-5	915-921	rentes	_	_	
+13-6	922-924	on	_	_	
+13-7	925-932	Tuesday	_	_	
+13-8	933-942	were—Five	_	_	
+13-9	943-946	per	_	_	
+13-10	947-952	cents	_	_	
+13-11	952-953	.	_	_	
+
+#Text=IOOf. 45c. ; Three per cents. 70f. 00c.
+14-1	954-958	IOOf	_	_	
+14-2	958-959	.	_	_	
+14-3	960-963	45c	_	_	
+14-4	963-964	.	_	_	
+14-5	965-966	;	_	_	
+14-6	967-972	Three	_	_	
+14-7	973-976	per	_	_	
+14-8	977-982	cents	_	_	
+14-9	982-983	.	_	_	
+14-10	984-987	70f	_	_	
+14-11	987-988	.	_	_	
+14-12	989-992	00c	_	_	
+14-13	992-993	.	_	_	
+
+#Text=In the House of Commons on Wednesday, Mr.
+15-1	994-996	In	_	_	
+15-2	997-1000	the	_	_	
+15-3	1001-1006	House	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[2]	BUILDING[2]	
+15-4	1007-1009	of	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[2]	BUILDING[2]	
+15-5	1010-1017	Commons	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[2]	BUILDING[2]	
+15-6	1018-1020	on	_	_	
+15-7	1021-1030	Wednesday	_	_	
+15-8	1030-1031	,	_	_	
+15-9	1032-1034	Mr	_	_	
+15-10	1034-1035	.	_	_	
+
+#Text=Beaumont said that in consequence of a very general belief that important changes were about to take place in the cabinet, he would postpone the motion of which he had given notice until Tuesday next.
+16-1	1036-1044	Beaumont	_	_	
+16-2	1045-1049	said	_	_	
+16-3	1050-1054	that	_	_	
+16-4	1055-1057	in	_	_	
+16-5	1058-1069	consequence	_	_	
+16-6	1070-1072	of	_	_	
+16-7	1073-1074	a	_	_	
+16-8	1075-1079	very	_	_	
+16-9	1080-1087	general	_	_	
+16-10	1088-1094	belief	_	_	
+16-11	1095-1099	that	_	_	
+16-12	1100-1109	important	_	_	
+16-13	1110-1117	changes	_	_	
+16-14	1118-1122	were	_	_	
+16-15	1123-1128	about	_	_	
+16-16	1129-1131	to	_	_	
+16-17	1132-1136	take	_	_	
+16-18	1137-1142	place	_	_	
+16-19	1143-1145	in	_	_	
+16-20	1146-1149	the	_	_	
+16-21	1150-1157	cabinet	_	_	
+16-22	1157-1158	,	_	_	
+16-23	1159-1161	he	_	_	
+16-24	1162-1167	would	_	_	
+16-25	1168-1176	postpone	_	_	
+16-26	1177-1180	the	_	_	
+16-27	1181-1187	motion	_	_	
+16-28	1188-1190	of	_	_	
+16-29	1191-1196	which	_	_	
+16-30	1197-1199	he	_	_	
+16-31	1200-1203	had	_	_	
+16-32	1204-1209	given	_	_	
+16-33	1210-1216	notice	_	_	
+16-34	1217-1222	until	_	_	
+16-35	1223-1230	Tuesday	_	_	
+16-36	1231-1235	next	_	_	
+16-37	1235-1236	.	_	_	
+
+#Text=There was no business of importance in either house of parliament last night.
+17-1	1237-1242	There	_	_	
+17-2	1243-1246	was	_	_	
+17-3	1247-1249	no	_	_	
+17-4	1250-1258	business	_	_	
+17-5	1259-1261	of	_	_	
+17-6	1262-1272	importance	_	_	
+17-7	1273-1275	in	_	_	
+17-8	1276-1282	either	_	_	
+17-9	1283-1288	house	_	_	
+17-10	1289-1291	of	_	_	
+17-11	1292-1302	parliament	_	_	
+17-12	1303-1307	last	_	_	
+17-13	1308-1313	night	_	_	
+17-14	1313-1314	.	_	_	
+
+#Text=An interesting letter has to-day been received from Lima, via Mexico, dated sth of February, giving a description of the revolution in Peru, which we noticed the other day.
+18-1	1315-1317	An	_	_	
+18-2	1318-1329	interesting	_	_	
+18-3	1330-1336	letter	_	_	
+18-4	1337-1340	has	_	_	
+18-5	1341-1347	to-day	_	_	
+18-6	1348-1352	been	_	_	
+18-7	1353-1361	received	_	_	
+18-8	1362-1366	from	_	_	
+18-9	1367-1371	Lima	https://en.wikipedia.org/wiki/Lima	LOC	
+18-10	1371-1372	,	_	_	
+18-11	1373-1376	via	_	_	
+18-12	1377-1383	Mexico	https://en.wikipedia.org/wiki/Mexico	LOC	
+18-13	1383-1384	,	_	_	
+18-14	1385-1390	dated	_	_	
+18-15	1391-1394	sth	_	_	
+18-16	1395-1397	of	_	_	
+18-17	1398-1406	February	_	_	
+18-18	1406-1407	,	_	_	
+18-19	1408-1414	giving	_	_	
+18-20	1415-1416	a	_	_	
+18-21	1417-1428	description	_	_	
+18-22	1429-1431	of	_	_	
+18-23	1432-1435	the	_	_	
+18-24	1436-1446	revolution	_	_	
+18-25	1447-1449	in	_	_	
+18-26	1450-1454	Peru	https://en.wikipedia.org/wiki/Peru	LOC	
+18-27	1454-1455	,	_	_	
+18-28	1456-1461	which	_	_	
+18-29	1462-1464	we	_	_	
+18-30	1465-1472	noticed	_	_	
+18-31	1473-1476	the	_	_	
+18-32	1477-1482	other	_	_	
+18-33	1483-1486	day	_	_	
+18-34	1486-1487	.	_	_	
+
+#Text=It describes the feelings of the Peruvians as inimical to the Bolivian constitution ; somuch so that they have finally deposed Bolivar from the presidency of Peru.
+19-1	1488-1490	It	_	_	
+19-2	1491-1500	describes	_	_	
+19-3	1501-1504	the	_	_	
+19-4	1505-1513	feelings	_	_	
+19-5	1514-1516	of	_	_	
+19-6	1517-1520	the	_	_	
+19-7	1521-1530	Peruvians	_	_	
+19-8	1531-1533	as	_	_	
+19-9	1534-1542	inimical	_	_	
+19-10	1543-1545	to	_	_	
+19-11	1546-1549	the	_	_	
+19-12	1550-1558	Bolivian	_	_	
+19-13	1559-1571	constitution	_	_	
+19-14	1572-1573	;	_	_	
+19-15	1574-1580	somuch	_	_	
+19-16	1581-1583	so	_	_	
+19-17	1584-1588	that	_	_	
+19-18	1589-1593	they	_	_	
+19-19	1594-1598	have	_	_	
+19-20	1599-1606	finally	_	_	
+19-21	1607-1614	deposed	_	_	
+19-22	1615-1622	Bolivar	_	_	
+19-23	1623-1627	from	_	_	
+19-24	1628-1631	the	_	_	
+19-25	1632-1642	presidency	_	_	
+19-26	1643-1645	of	_	_	
+19-27	1646-1650	Peru	https://en.wikipedia.org/wiki/Peru	LOC	
+19-28	1650-1651	.	_	_	
+
+#Text=General Santa Cruz has been elected president, until the Congress of Peru could be assembled.
+20-1	1652-1659	General	_	_	
+20-2	1660-1665	Santa	_	_	
+20-3	1666-1670	Cruz	_	_	
+20-4	1671-1674	has	_	_	
+20-5	1675-1679	been	_	_	
+20-6	1680-1687	elected	_	_	
+20-7	1688-1697	president	_	_	
+20-8	1697-1698	,	_	_	
+20-9	1699-1704	until	_	_	
+20-10	1705-1708	the	_	_	
+20-11	1709-1717	Congress	_	_	
+20-12	1718-1720	of	_	_	
+20-13	1721-1725	Peru	https://en.wikipedia.org/wiki/Peru	LOC	
+20-14	1726-1731	could	_	_	
+20-15	1732-1734	be	_	_	
+20-16	1735-1744	assembled	_	_	
+20-17	1744-1745	.	_	_	
+
+#Text=The meeting of congress is fixed for the lst of May.
+21-1	1746-1749	The	_	_	
+21-2	1750-1757	meeting	_	_	
+21-3	1758-1760	of	_	_	
+21-4	1761-1769	congress	_	_	
+21-5	1770-1772	is	_	_	
+21-6	1773-1778	fixed	_	_	
+21-7	1779-1782	for	_	_	
+21-8	1783-1786	the	_	_	
+21-9	1787-1790	lst	_	_	
+21-10	1791-1793	of	_	_	
+21-11	1794-1797	May	_	_	
+21-12	1797-1798	.	_	_	
+
+#Text=This letter states, that the power of Bolivar, in Peru, has been completely overthrown.
+22-1	1799-1803	This	_	_	
+22-2	1804-1810	letter	_	_	
+22-3	1811-1817	states	_	_	
+22-4	1817-1818	,	_	_	
+22-5	1819-1823	that	_	_	
+22-6	1824-1827	the	_	_	
+22-7	1828-1833	power	_	_	
+22-8	1834-1836	of	_	_	
+22-9	1837-1844	Bolivar	_	_	
+22-10	1844-1845	,	_	_	
+22-11	1846-1848	in	_	_	
+22-12	1849-1853	Peru	https://en.wikipedia.org/wiki/Peru	LOC	
+22-13	1853-1854	,	_	_	
+22-14	1855-1858	has	_	_	
+22-15	1859-1863	been	_	_	
+22-16	1864-1874	completely	_	_	
+22-17	1875-1885	overthrown	_	_	
+22-18	1885-1886	.	_	_	
+
+#Text=We have received Lisbon Gazettes, to the f!
+23-1	1887-1889	We	_	_	
+23-2	1890-1894	have	_	_	
+23-3	1895-1903	received	_	_	
+23-4	1904-1910	Lisbon	https://en.wikipedia.org/wiki/Lisbon	LOC	
+23-5	1911-1919	Gazettes	_	_	
+23-6	1919-1920	,	_	_	
+23-7	1921-1923	to	_	_	
+23-8	1924-1927	the	_	_	
+23-9	1928-1929	f	_	_	
+23-10	1929-1930	!	_	_	
+
+#Text=th inst.
+24-1	1930-1932	th	_	_	
+24-2	1933-1937	inst	_	_	
+24-3	1937-1938	.	_	_	
+
+#Text=It appears by the bulletins of the physicians, that the situation of the Princess Regent of Portugal was far from satisfactory in the opinion of her physicians.
+25-1	1939-1941	It	_	_	
+25-2	1942-1949	appears	_	_	
+25-3	1950-1952	by	_	_	
+25-4	1953-1956	the	_	_	
+25-5	1957-1966	bulletins	_	_	
+25-6	1967-1969	of	_	_	
+25-7	1970-1973	the	_	_	
+25-8	1974-1984	physicians	_	_	
+25-9	1984-1985	,	_	_	
+25-10	1986-1990	that	_	_	
+25-11	1991-1994	the	_	_	
+25-12	1995-2004	situation	_	_	
+25-13	2005-2007	of	_	_	
+25-14	2008-2011	the	_	_	
+25-15	2012-2020	Princess	_	_	
+25-16	2021-2027	Regent	_	_	
+25-17	2028-2030	of	_	_	
+25-18	2031-2039	Portugal	https://en.wikipedia.org/wiki/Portugal	LOC	
+25-19	2040-2043	was	_	_	
+25-20	2044-2047	far	_	_	
+25-21	2048-2052	from	_	_	
+25-22	2053-2065	satisfactory	_	_	
+25-23	2066-2068	in	_	_	
+25-24	2069-2072	the	_	_	
+25-25	2073-2080	opinion	_	_	
+25-26	2081-2083	of	_	_	
+25-27	2084-2087	her	_	_	
+25-28	2088-2098	physicians	_	_	
+25-29	2098-2099	.	_	_	
+
+#Text=Private letters, by the same conveyance, speak with very little confidence of the probability of her ultimate recovery.
+26-1	2100-2107	Private	_	_	
+26-2	2108-2115	letters	_	_	
+26-3	2115-2116	,	_	_	
+26-4	2117-2119	by	_	_	
+26-5	2120-2123	the	_	_	
+26-6	2124-2128	same	_	_	
+26-7	2129-2139	conveyance	_	_	
+26-8	2139-2140	,	_	_	
+26-9	2141-2146	speak	_	_	
+26-10	2147-2151	with	_	_	
+26-11	2152-2156	very	_	_	
+26-12	2157-2163	little	_	_	
+26-13	2164-2174	confidence	_	_	
+26-14	2175-2177	of	_	_	
+26-15	2178-2181	the	_	_	
+26-16	2182-2193	probability	_	_	
+26-17	2194-2196	of	_	_	
+26-18	2197-2200	her	_	_	
+26-19	2201-2209	ultimate	_	_	
+26-20	2210-2218	recovery	_	_	
+26-21	2218-2219	.	_	_	
+
+#Text=Her death, at this moment, would unquestionably be attended with many embarrassing consequences.
+27-1	2220-2223	Her	_	_	
+27-2	2224-2229	death	_	_	
+27-3	2229-2230	,	_	_	
+27-4	2231-2233	at	_	_	
+27-5	2234-2238	this	_	_	
+27-6	2239-2245	moment	_	_	
+27-7	2245-2246	,	_	_	
+27-8	2247-2252	would	_	_	
+27-9	2253-2267	unquestionably	_	_	
+27-10	2268-2270	be	_	_	
+27-11	2271-2279	attended	_	_	
+27-12	2280-2284	with	_	_	
+27-13	2285-2289	many	_	_	
+27-14	2290-2302	embarrassing	_	_	
+27-15	2303-2315	consequences	_	_	
+27-16	2315-2316	.	_	_	

@@ -1,0 +1,311 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=SOMERSETSHIRE.
+1-1	0-13	SOMERSETSHIRE	https://en.wikipedia.org/wiki/Somerset	LOC	
+1-2	13-14	.	_	_	
+
+#Text=YEOVIL.
+2-1	16-22	YEOVIL	https://en.wikipedia.org/wiki/Yeovil	LOC	
+2-2	22-23	.	_	_	
+
+#Text=Charge op Embezzlement.
+3-1	24-30	Charge	_	_	
+3-2	31-33	op	_	_	
+3-3	34-46	Embezzlement	_	_	
+3-4	46-47	.	_	_	
+
+#Text=—On Saturday last, before the Mayor, Richard Saunders was charged with embezzling £1 9s. 6d. from the Great Western Railway Company.
+4-1	47-48	—	_	_	
+4-2	48-50	On	_	_	
+4-3	51-59	Saturday	_	_	
+4-4	60-64	last	_	_	
+4-5	64-65	,	_	_	
+4-6	66-72	before	_	_	
+4-7	73-76	the	_	_	
+4-8	77-82	Mayor	_	_	
+4-9	82-83	,	_	_	
+4-10	84-91	Richard	_	_	
+4-11	92-100	Saunders	_	_	
+4-12	101-104	was	_	_	
+4-13	105-112	charged	_	_	
+4-14	113-117	with	_	_	
+4-15	118-128	embezzling	_	_	
+4-16	129-131	£1	_	_	
+4-17	132-134	9s	_	_	
+4-18	134-135	.	_	_	
+4-19	136-138	6d	_	_	
+4-20	138-139	.	_	_	
+4-21	140-144	from	_	_	
+4-22	145-148	the	_	_	
+4-23	149-154	Great	_	_	
+4-24	155-162	Western	_	_	
+4-25	163-170	Railway	_	_	
+4-26	171-178	Company	_	_	
+4-27	178-179	.	_	_	
+
+#Text=Prisoner was in the employ of the company, and witnesses were called to prove that be had received the money from Mr.
+5-1	180-188	Prisoner	_	_	
+5-2	189-192	was	_	_	
+5-3	193-195	in	_	_	
+5-4	196-199	the	_	_	
+5-5	200-206	employ	_	_	
+5-6	207-209	of	_	_	
+5-7	210-213	the	_	_	
+5-8	214-221	company	_	_	
+5-9	221-222	,	_	_	
+5-10	223-226	and	_	_	
+5-11	227-236	witnesses	_	_	
+5-12	237-241	were	_	_	
+5-13	242-248	called	_	_	
+5-14	249-251	to	_	_	
+5-15	252-257	prove	_	_	
+5-16	258-262	that	_	_	
+5-17	263-265	be	_	_	
+5-18	266-269	had	_	_	
+5-19	270-278	received	_	_	
+5-20	279-282	the	_	_	
+5-21	283-288	money	_	_	
+5-22	289-293	from	_	_	
+5-23	294-296	Mr	_	_	
+5-24	296-297	.	_	_	
+
+#Text=Rowe, iron founder, of Yeovil, and had not accounted for it.
+6-1	298-302	Rowe	_	_	
+6-2	302-303	,	_	_	
+6-3	304-308	iron	_	_	
+6-4	309-316	founder	_	_	
+6-5	316-317	,	_	_	
+6-6	318-320	of	_	_	
+6-7	321-327	Yeovil	https://en.wikipedia.org/wiki/Yeovil	LOC	
+6-8	327-328	,	_	_	
+6-9	329-332	and	_	_	
+6-10	333-336	had	_	_	
+6-11	337-340	not	_	_	
+6-12	341-350	accounted	_	_	
+6-13	351-354	for	_	_	
+6-14	355-357	it	_	_	
+6-15	357-358	.	_	_	
+
+#Text=He was remanded for further evidence as to other charges.
+7-1	359-361	He	_	_	
+7-2	362-365	was	_	_	
+7-3	366-374	remanded	_	_	
+7-4	375-378	for	_	_	
+7-5	379-386	further	_	_	
+7-6	387-395	evidence	_	_	
+7-7	396-398	as	_	_	
+7-8	399-401	to	_	_	
+7-9	402-407	other	_	_	
+7-10	408-415	charges	_	_	
+7-11	415-416	.	_	_	
+
+#Text=A Mad Freak.
+8-1	417-418	A	_	_	
+8-2	419-422	Mad	_	_	
+8-3	423-428	Freak	_	_	
+8-4	428-429	.	_	_	
+
+#Text=—A night or two since a gentleman who was either mad or elevated hired a fly at the Mermaid Hotel, and requested to be driven to a neighbouring town.
+9-1	429-430	—	_	_	
+9-2	430-431	A	_	_	
+9-3	432-437	night	_	_	
+9-4	438-440	or	_	_	
+9-5	441-444	two	_	_	
+9-6	445-450	since	_	_	
+9-7	451-452	a	_	_	
+9-8	453-462	gentleman	_	_	
+9-9	463-466	who	_	_	
+9-10	467-470	was	_	_	
+9-11	471-477	either	_	_	
+9-12	478-481	mad	_	_	
+9-13	482-484	or	_	_	
+9-14	485-493	elevated	_	_	
+9-15	494-499	hired	_	_	
+9-16	500-501	a	_	_	
+9-17	502-505	fly	_	_	
+9-18	506-508	at	_	_	
+9-19	509-512	the	_	_	
+9-20	513-520	Mermaid	*[1]	BUILDING[1]	
+9-21	521-526	Hotel	*[1]	BUILDING[1]	
+9-22	526-527	,	_	_	
+9-23	528-531	and	_	_	
+9-24	532-541	requested	_	_	
+9-25	542-544	to	_	_	
+9-26	545-547	be	_	_	
+9-27	548-554	driven	_	_	
+9-28	555-557	to	_	_	
+9-29	558-559	a	_	_	
+9-30	560-572	neighbouring	_	_	
+9-31	573-577	town	_	_	
+9-32	577-578	.	_	_	
+
+#Text=The driver, Lolock, noticed on the way that his face was playing some strange antics, and attributed it to indulging too freely in strong drink.
+10-1	579-582	The	_	_	
+10-2	583-589	driver	_	_	
+10-3	589-590	,	_	_	
+10-4	591-597	Lolock	_	_	
+10-5	597-598	,	_	_	
+10-6	599-606	noticed	_	_	
+10-7	607-609	on	_	_	
+10-8	610-613	the	_	_	
+10-9	614-617	way	_	_	
+10-10	618-622	that	_	_	
+10-11	623-626	his	_	_	
+10-12	627-631	face	_	_	
+10-13	632-635	was	_	_	
+10-14	636-643	playing	_	_	
+10-15	644-648	some	_	_	
+10-16	649-656	strange	_	_	
+10-17	657-663	antics	_	_	
+10-18	663-664	,	_	_	
+10-19	665-668	and	_	_	
+10-20	669-679	attributed	_	_	
+10-21	680-682	it	_	_	
+10-22	683-685	to	_	_	
+10-23	686-695	indulging	_	_	
+10-24	696-699	too	_	_	
+10-25	700-706	freely	_	_	
+10-26	707-709	in	_	_	
+10-27	710-716	strong	_	_	
+10-28	717-722	drink	_	_	
+10-29	722-723	.	_	_	
+
+#Text=Temp. midnight, and near to the destination of the stranger, he suddenly popped his head outside the window of the fly, declared he was a Fenian, and pointed a pistol at the head of the unoffending driver, declaring that he would shoot him if he did not instantly stop.
+11-1	724-728	Temp	_	_	
+11-2	728-729	.	_	_	
+11-3	730-738	midnight	_	_	
+11-4	738-739	,	_	_	
+11-5	740-743	and	_	_	
+11-6	744-748	near	_	_	
+11-7	749-751	to	_	_	
+11-8	752-755	the	_	_	
+11-9	756-767	destination	_	_	
+11-10	768-770	of	_	_	
+11-11	771-774	the	_	_	
+11-12	775-783	stranger	_	_	
+11-13	783-784	,	_	_	
+11-14	785-787	he	_	_	
+11-15	788-796	suddenly	_	_	
+11-16	797-803	popped	_	_	
+11-17	804-807	his	_	_	
+11-18	808-812	head	_	_	
+11-19	813-820	outside	_	_	
+11-20	821-824	the	_	_	
+11-21	825-831	window	_	_	
+11-22	832-834	of	_	_	
+11-23	835-838	the	_	_	
+11-24	839-842	fly	_	_	
+11-25	842-843	,	_	_	
+11-26	844-852	declared	_	_	
+11-27	853-855	he	_	_	
+11-28	856-859	was	_	_	
+11-29	860-861	a	_	_	
+11-30	862-868	Fenian	_	_	
+11-31	868-869	,	_	_	
+11-32	870-873	and	_	_	
+11-33	874-881	pointed	_	_	
+11-34	882-883	a	_	_	
+11-35	884-890	pistol	_	_	
+11-36	891-893	at	_	_	
+11-37	894-897	the	_	_	
+11-38	898-902	head	_	_	
+11-39	903-905	of	_	_	
+11-40	906-909	the	_	_	
+11-41	910-921	unoffending	_	_	
+11-42	922-928	driver	_	_	
+11-43	928-929	,	_	_	
+11-44	930-939	declaring	_	_	
+11-45	940-944	that	_	_	
+11-46	945-947	he	_	_	
+11-47	948-953	would	_	_	
+11-48	954-959	shoot	_	_	
+11-49	960-963	him	_	_	
+11-50	964-966	if	_	_	
+11-51	967-969	he	_	_	
+11-52	970-973	did	_	_	
+11-53	974-977	not	_	_	
+11-54	978-987	instantly	_	_	
+11-55	988-992	stop	_	_	
+11-56	992-993	.	_	_	
+
+#Text=Trembling in every Umb, Lolock alighted, and requested the selfdubbed Fenian to alight.
+12-1	994-1003	Trembling	_	_	
+12-2	1004-1006	in	_	_	
+12-3	1007-1012	every	_	_	
+12-4	1013-1016	Umb	_	_	
+12-5	1016-1017	,	_	_	
+12-6	1018-1024	Lolock	_	_	
+12-7	1025-1033	alighted	_	_	
+12-8	1033-1034	,	_	_	
+12-9	1035-1038	and	_	_	
+12-10	1039-1048	requested	_	_	
+12-11	1049-1052	the	_	_	
+12-12	1053-1063	selfdubbed	_	_	
+12-13	1064-1070	Fenian	_	_	
+12-14	1071-1073	to	_	_	
+12-15	1074-1080	alight	_	_	
+12-16	1080-1081	.	_	_	
+
+#Text=The man with the pistol did so, Lolock jumped on the box, and drove back to Yeovil at full speed, leaving his astonished fare a few miles from home in the middle of the road.
+13-1	1082-1085	The	_	_	
+13-2	1086-1089	man	_	_	
+13-3	1090-1094	with	_	_	
+13-4	1095-1098	the	_	_	
+13-5	1099-1105	pistol	_	_	
+13-6	1106-1109	did	_	_	
+13-7	1110-1112	so	_	_	
+13-8	1112-1113	,	_	_	
+13-9	1114-1120	Lolock	_	_	
+13-10	1121-1127	jumped	_	_	
+13-11	1128-1130	on	_	_	
+13-12	1131-1134	the	_	_	
+13-13	1135-1138	box	_	_	
+13-14	1138-1139	,	_	_	
+13-15	1140-1143	and	_	_	
+13-16	1144-1149	drove	_	_	
+13-17	1150-1154	back	_	_	
+13-18	1155-1157	to	_	_	
+13-19	1158-1164	Yeovil	https://en.wikipedia.org/wiki/Yeovil	LOC	
+13-20	1165-1167	at	_	_	
+13-21	1168-1172	full	_	_	
+13-22	1173-1178	speed	_	_	
+13-23	1178-1179	,	_	_	
+13-24	1180-1187	leaving	_	_	
+13-25	1188-1191	his	_	_	
+13-26	1192-1202	astonished	_	_	
+13-27	1203-1207	fare	_	_	
+13-28	1208-1209	a	_	_	
+13-29	1210-1213	few	_	_	
+13-30	1214-1219	miles	_	_	
+13-31	1220-1224	from	_	_	
+13-32	1225-1229	home	_	_	
+13-33	1230-1232	in	_	_	
+13-34	1233-1236	the	_	_	
+13-35	1237-1243	middle	_	_	
+13-36	1244-1246	of	_	_	
+13-37	1247-1250	the	_	_	
+13-38	1251-1255	road	_	_	
+13-39	1255-1256	.	_	_	
+
+#Text=He had previously paid for the journey ; but Lolock did not stop to receive the usual gratuity.
+14-1	1257-1259	He	_	_	
+14-2	1260-1263	had	_	_	
+14-3	1264-1274	previously	_	_	
+14-4	1275-1279	paid	_	_	
+14-5	1280-1283	for	_	_	
+14-6	1284-1287	the	_	_	
+14-7	1288-1295	journey	_	_	
+14-8	1296-1297	;	_	_	
+14-9	1298-1301	but	_	_	
+14-10	1302-1308	Lolock	_	_	
+14-11	1309-1312	did	_	_	
+14-12	1313-1316	not	_	_	
+14-13	1317-1321	stop	_	_	
+14-14	1322-1324	to	_	_	
+14-15	1325-1332	receive	_	_	
+14-16	1333-1336	the	_	_	
+14-17	1337-1342	usual	_	_	
+14-18	1343-1351	gratuity	_	_	
+14-19	1351-1352	.	_	_	

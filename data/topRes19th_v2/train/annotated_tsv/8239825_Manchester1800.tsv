@@ -1,0 +1,355 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=7HE QUERY.
+1-1	0-3	7HE	_	_	
+1-2	4-9	QUERY	_	_	
+1-3	9-10	.	_	_	
+
+#Text=Hark  ’tis the cannons dillant roar, Rclounds from Galiia’s hoftile fhoie.
+2-1	11-15	Hark	_	_	
+2-2	17-18	’	_	_	
+2-3	18-21	tis	_	_	
+2-4	22-25	the	_	_	
+2-5	26-33	cannons	_	_	
+2-6	34-41	dillant	_	_	
+2-7	42-46	roar	_	_	
+2-8	46-47	,	_	_	
+2-9	48-56	Rclounds	_	_	
+2-10	57-61	from	_	_	
+2-11	62-68	Galiia	https://en.wikipedia.org/wiki/France	LOC	
+2-12	68-69	’	_	_	
+2-13	69-70	s	_	_	
+2-14	71-78	hoftile	_	_	
+2-15	79-84	fhoie	_	_	
+2-16	84-85	.	_	_	
+
+#Text=The flgnal’n giv’n ; the ftrvile band* Await their haughty Chief’s commands.
+3-1	86-89	The	_	_	
+3-2	90-96	flgnal	_	_	
+3-3	96-97	’	_	_	
+3-4	97-98	n	_	_	
+3-5	99-102	giv	_	_	
+3-6	102-103	’	_	_	
+3-7	103-104	n	_	_	
+3-8	105-106	;	_	_	
+3-9	107-110	the	_	_	
+3-10	111-118	ftrvile	_	_	
+3-11	119-123	band	_	_	
+3-12	123-124	*	_	_	
+3-13	125-130	Await	_	_	
+3-14	131-136	their	_	_	
+3-15	137-144	haughty	_	_	
+3-16	145-150	Chief	_	_	
+3-17	150-151	’	_	_	
+3-18	151-152	s	_	_	
+3-19	153-161	commands	_	_	
+3-20	161-162	.	_	_	
+
+#Text=He conics, he comes, th’ infidious foe!
+4-1	163-165	He	_	_	
+4-2	166-172	conics	_	_	
+4-3	172-173	,	_	_	
+4-4	174-176	he	_	_	
+4-5	177-182	comes	_	_	
+4-6	182-183	,	_	_	
+4-7	184-186	th	_	_	
+4-8	186-187	’	_	_	
+4-9	188-197	infidious	_	_	
+4-10	198-201	foe	_	_	
+4-11	201-202	!	_	_	
+
+#Text=Say, Britons, fhall be conquer ?
+5-1	203-206	Say	_	_	
+5-2	206-207	,	_	_	
+5-3	208-215	Britons	_	_	
+5-4	215-216	,	_	_	
+5-5	217-222	fhall	_	_	
+5-6	223-225	be	_	_	
+5-7	226-233	conquer	_	_	
+5-8	234-235	?	_	_	
+
+#Text=No.
+6-1	236-238	No	_	_	
+6-2	238-239	.	_	_	
+
+#Text=On Agincuurt’s and CrefTy’s plain Have our brave fathers hied in vain; Can their degenerate offspring bear A foreign Dcfpot’s yoke to wear ; And life, defpoild of freedom, owe To Europe’s tyrant ?
+7-1	240-242	On	_	_	
+7-2	243-252	Agincuurt	https://en.wikipedia.org/wiki/Battle\_of\_Agincourt	OTHER	
+7-3	252-253	’	_	_	
+7-4	253-254	s	_	_	
+7-5	255-258	and	_	_	
+7-6	259-265	CrefTy	https://en.wikipedia.org/wiki/Battle\_of\_Cr%C3%A9cy	OTHER	
+7-7	265-266	’	_	_	
+7-8	266-267	s	_	_	
+7-9	268-273	plain	_	_	
+7-10	274-278	Have	_	_	
+7-11	279-282	our	_	_	
+7-12	283-288	brave	_	_	
+7-13	289-296	fathers	_	_	
+7-14	297-301	hied	_	_	
+7-15	302-304	in	_	_	
+7-16	305-309	vain	_	_	
+7-17	309-310	;	_	_	
+7-18	311-314	Can	_	_	
+7-19	315-320	their	_	_	
+7-20	321-331	degenerate	_	_	
+7-21	332-341	offspring	_	_	
+7-22	342-346	bear	_	_	
+7-23	347-348	A	_	_	
+7-24	349-356	foreign	_	_	
+7-25	357-363	Dcfpot	_	_	
+7-26	363-364	’	_	_	
+7-27	364-365	s	_	_	
+7-28	366-370	yoke	_	_	
+7-29	371-373	to	_	_	
+7-30	374-378	wear	_	_	
+7-31	379-380	;	_	_	
+7-32	381-384	And	_	_	
+7-33	385-389	life	_	_	
+7-34	389-390	,	_	_	
+7-35	391-399	defpoild	_	_	
+7-36	400-402	of	_	_	
+7-37	403-410	freedom	_	_	
+7-38	410-411	,	_	_	
+7-39	412-415	owe	_	_	
+7-40	416-418	To	_	_	
+7-41	419-425	Europe	https://en.wikipedia.org/wiki/Europe	LOC	
+7-42	425-426	’	_	_	
+7-43	426-427	s	_	_	
+7-44	428-434	tyrant	_	_	
+7-45	435-436	?	_	_	
+
+#Text=Britons, No.
+8-1	437-444	Britons	_	_	
+8-2	444-445	,	_	_	
+8-3	446-448	No	_	_	
+8-4	448-449	.	_	_	
+
+#Text=When fuperflittou* Philips boafl, The vail Armada, brav’d our coift, Our tires upheld Ei 1/a’s throne, And, wi:h her rights, preferv’d their own.
+9-1	450-454	When	_	_	
+9-2	455-467	fuperflittou	_	_	
+9-3	467-468	*	_	_	
+9-4	469-476	Philips	_	_	
+9-5	477-482	boafl	_	_	
+9-6	482-483	,	_	_	
+9-7	484-487	The	_	_	
+9-8	488-492	vail	_	_	
+9-9	493-499	Armada	_	_	
+9-10	499-500	,	_	_	
+9-11	501-505	brav	_	_	
+9-12	505-506	’	_	_	
+9-13	506-507	d	_	_	
+9-14	508-511	our	_	_	
+9-15	512-517	coift	_	_	
+9-16	517-518	,	_	_	
+9-17	519-522	Our	_	_	
+9-18	523-528	tires	_	_	
+9-19	529-535	upheld	_	_	
+9-20	536-538	Ei	_	_	
+9-21	539-540	1	_	_	
+9-22	540-541	/	_	_	
+9-23	541-542	a	_	_	
+9-24	542-543	’	_	_	
+9-25	543-544	s	_	_	
+9-26	545-551	throne	_	_	
+9-27	551-552	,	_	_	
+9-28	553-556	And	_	_	
+9-29	556-557	,	_	_	
+9-30	558-560	wi	_	_	
+9-31	560-561	:	_	_	
+9-32	561-562	h	_	_	
+9-33	563-566	her	_	_	
+9-34	567-573	rights	_	_	
+9-35	573-574	,	_	_	
+9-36	575-582	preferv	_	_	
+9-37	582-583	’	_	_	
+9-38	583-584	d	_	_	
+9-39	585-590	their	_	_	
+9-40	591-594	own	_	_	
+9-41	594-595	.	_	_	
+
+#Text=Shall we thole glorious rights forego I Each Britifh voice eaclaims—No.
+10-1	596-601	Shall	_	_	
+10-2	602-604	we	_	_	
+10-3	605-610	thole	_	_	
+10-4	611-619	glorious	_	_	
+10-5	620-626	rights	_	_	
+10-6	627-633	forego	_	_	
+10-7	634-635	I	_	_	
+10-8	636-640	Each	_	_	
+10-9	641-648	Britifh	_	_	
+10-10	649-654	voice	_	_	
+10-11	655-666	eaclaims—No	_	_	
+10-12	666-667	.	_	_	
+
+#Text=No.
+11-1	668-670	No	_	_	
+11-2	670-671	.	_	_	
+
+#Text=Not even a legil Prince could bind lu Icrvile chain the Bntiih mind.
+12-1	672-675	Not	_	_	
+12-2	676-680	even	_	_	
+12-3	681-682	a	_	_	
+12-4	683-688	legil	_	_	
+12-5	689-695	Prince	_	_	
+12-6	696-701	could	_	_	
+12-7	702-706	bind	_	_	
+12-8	707-709	lu	_	_	
+12-9	710-717	Icrvile	_	_	
+12-10	718-723	chain	_	_	
+12-11	724-727	the	_	_	
+12-12	728-734	Bntiih	_	_	
+12-13	735-739	mind	_	_	
+12-14	739-740	.	_	_	
+
+#Text=When Wit liam, our deliverer, came, How btightly glow’d the patriot flame !
+13-1	741-745	When	_	_	
+13-2	746-749	Wit	_	_	
+13-3	750-754	liam	_	_	
+13-4	754-755	,	_	_	
+13-5	756-759	our	_	_	
+13-6	760-769	deliverer	_	_	
+13-7	769-770	,	_	_	
+13-8	771-775	came	_	_	
+13-9	775-776	,	_	_	
+13-10	777-780	How	_	_	
+13-11	781-789	btightly	_	_	
+13-12	790-794	glow	_	_	
+13-13	794-795	’	_	_	
+13-14	795-796	d	_	_	
+13-15	797-800	the	_	_	
+13-16	801-808	patriot	_	_	
+13-17	809-814	flame	_	_	
+13-18	815-816	!	_	_	
+
+#Text=Still dots that flame as brightly glow— Shail Bonapai z fupprels i; ?
+14-1	817-822	Still	_	_	
+14-2	823-827	dots	_	_	
+14-3	828-832	that	_	_	
+14-4	833-838	flame	_	_	
+14-5	839-841	as	_	_	
+14-6	842-850	brightly	_	_	
+14-7	851-855	glow	_	_	
+14-8	855-856	—	_	_	
+14-9	857-862	Shail	_	_	
+14-10	863-870	Bonapai	_	_	
+14-11	871-872	z	_	_	
+14-12	873-881	fupprels	_	_	
+14-13	882-883	i	_	_	
+14-14	883-884	;	_	_	
+14-15	885-886	?	_	_	
+
+#Text=No.
+15-1	887-889	No	_	_	
+15-2	889-890	.	_	_	
+
+#Text=On dilluiit fhores by Maua’aiivcn led, Britons appear’d, and Frenchmen fled.
+16-1	891-893	On	_	_	
+16-2	894-902	dilluiit	_	_	
+16-3	903-909	fhores	_	_	
+16-4	910-912	by	_	_	
+16-5	913-917	Maua	_	_	
+16-6	917-918	’	_	_	
+16-7	918-924	aiivcn	_	_	
+16-8	925-928	led	_	_	
+16-9	928-929	,	_	_	
+16-10	930-937	Britons	_	_	
+16-11	938-944	appear	_	_	
+16-12	944-945	’	_	_	
+16-13	945-946	d	_	_	
+16-14	946-947	,	_	_	
+16-15	948-951	and	_	_	
+16-16	952-961	Frenchmen	_	_	
+16-17	962-966	fled	_	_	
+16-18	966-967	.	_	_	
+
+#Text=Can their dcfccndairts tfiofc withttaod Who fight to guirdtheir native land.
+17-1	968-971	Can	_	_	
+17-2	972-977	their	_	_	
+17-3	978-990	dcfccndairts	_	_	
+17-4	991-997	tfiofc	_	_	
+17-5	998-1007	withttaod	_	_	
+17-6	1008-1011	Who	_	_	
+17-7	1012-1017	fight	_	_	
+17-8	1018-1020	to	_	_	
+17-9	1021-1031	guirdtheir	_	_	
+17-10	1032-1038	native	_	_	
+17-11	1039-1043	land	_	_	
+17-12	1043-1044	.	_	_	
+
+#Text=Their hearths and alicrs ; from a foe Ciuci and facriicpious ?
+18-1	1045-1050	Their	_	_	
+18-2	1051-1058	hearths	_	_	
+18-3	1059-1062	and	_	_	
+18-4	1063-1069	alicrs	_	_	
+18-5	1070-1071	;	_	_	
+18-6	1072-1076	from	_	_	
+18-7	1077-1078	a	_	_	
+18-8	1079-1082	foe	_	_	
+18-9	1083-1088	Ciuci	_	_	
+18-10	1089-1092	and	_	_	
+18-11	1093-1105	facriicpious	_	_	
+18-12	1106-1107	?	_	_	
+
+#Text=—No.
+19-1	1107-1108	—	_	_	
+19-2	1108-1110	No	_	_	
+19-3	1110-1111	.	_	_	
+
+#Text=B ell Illr !
+20-1	1112-1113	B	_	_	
+20-2	1114-1117	ell	_	_	
+20-3	1118-1122	Illr	_	_	
+20-4	1123-1124	!	_	_	
+
+#Text=whofe fame, from age to age, Hath dignify’d rh‘ hilloric page.
+21-1	1125-1130	whofe	_	_	
+21-2	1131-1135	fame	_	_	
+21-3	1135-1136	,	_	_	
+21-4	1137-1141	from	_	_	
+21-5	1142-1145	age	_	_	
+21-6	1146-1148	to	_	_	
+21-7	1149-1152	age	_	_	
+21-8	1152-1153	,	_	_	
+21-9	1154-1158	Hath	_	_	
+21-10	1159-1166	dignify	_	_	
+21-11	1166-1167	’	_	_	
+21-12	1167-1168	d	_	_	
+21-13	1169-1171	rh	_	_	
+21-14	1171-1172	‘	_	_	
+21-15	1173-1181	hilloric	_	_	
+21-16	1182-1186	page	_	_	
+21-17	1186-1187	.	_	_	
+
+#Text=Mull thou to power tyrannic bend— Thy long, long courlc of glory end ?
+22-1	1188-1192	Mull	_	_	
+22-2	1193-1197	thou	_	_	
+22-3	1198-1200	to	_	_	
+22-4	1201-1206	power	_	_	
+22-5	1207-1215	tyrannic	_	_	
+22-6	1216-1220	bend	_	_	
+22-7	1220-1221	—	_	_	
+22-8	1222-1225	Thy	_	_	
+22-9	1226-1230	long	_	_	
+22-10	1230-1231	,	_	_	
+22-11	1232-1236	long	_	_	
+22-12	1237-1243	courlc	_	_	
+22-13	1244-1246	of	_	_	
+22-14	1247-1252	glory	_	_	
+22-15	1253-1256	end	_	_	
+22-16	1257-1258	?	_	_	
+
+#Text=Mull Britain yield to Freedoms foe i United millions aufwer—No.
+23-1	1259-1263	Mull	_	_	
+23-2	1264-1271	Britain	_	_	
+23-3	1272-1277	yield	_	_	
+23-4	1278-1280	to	_	_	
+23-5	1281-1289	Freedoms	_	_	
+23-6	1290-1293	foe	_	_	
+23-7	1294-1295	i	_	_	
+23-8	1296-1302	United	_	_	
+23-9	1303-1311	millions	_	_	
+23-10	1312-1321	aufwer—No	_	_	
+23-11	1321-1322	.	_	_	

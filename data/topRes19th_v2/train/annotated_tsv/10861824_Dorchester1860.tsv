@@ -1,0 +1,243 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CLOWANCE.
+1-1	0-8	CLOWANCE	*	LOC	
+1-2	8-9	.	_	_	
+
+#Text=Stoke Damebbl.
+2-1	11-16	Stoke	_	_	
+2-2	17-24	Damebbl	_	_	
+2-3	24-25	.	_	_	
+
+#Text=—Births, 120; deaths, 61.
+3-1	25-26	—	_	_	
+3-2	26-32	Births	_	_	
+3-3	32-33	,	_	_	
+3-4	34-37	120	_	_	
+3-5	37-38	;	_	_	
+3-6	39-45	deaths	_	_	
+3-7	45-46	,	_	_	
+3-8	47-49	61	_	_	
+3-9	49-50	.	_	_	
+
+#Text=The deaths exceed by nearly 10 per cent, the average number of the corresponding quarters of four previous years.
+4-1	51-54	The	_	_	
+4-2	55-61	deaths	_	_	
+4-3	62-68	exceed	_	_	
+4-4	69-71	by	_	_	
+4-5	72-78	nearly	_	_	
+4-6	79-81	10	_	_	
+4-7	82-85	per	_	_	
+4-8	86-90	cent	_	_	
+4-9	90-91	,	_	_	
+4-10	92-95	the	_	_	
+4-11	96-103	average	_	_	
+4-12	104-110	number	_	_	
+4-13	111-113	of	_	_	
+4-14	114-117	the	_	_	
+4-15	118-131	corresponding	_	_	
+4-16	132-140	quarters	_	_	
+4-17	141-143	of	_	_	
+4-18	144-148	four	_	_	
+4-19	149-157	previous	_	_	
+4-20	158-163	years	_	_	
+4-21	163-164	.	_	_	
+
+#Text=Eight deaths occurred from scarlatina.
+5-1	165-170	Eight	_	_	
+5-2	171-177	deaths	_	_	
+5-3	178-186	occurred	_	_	
+5-4	187-191	from	_	_	
+5-5	192-202	scarlatina	_	_	
+5-6	202-203	.	_	_	
+
+#Text=An increase in the births may be partly accounted for by there having been a hospital lately established for soldiers* wives in my subdistrict.
+6-1	204-206	An	_	_	
+6-2	207-215	increase	_	_	
+6-3	216-218	in	_	_	
+6-4	219-222	the	_	_	
+6-5	223-229	births	_	_	
+6-6	230-233	may	_	_	
+6-7	234-236	be	_	_	
+6-8	237-243	partly	_	_	
+6-9	244-253	accounted	_	_	
+6-10	254-257	for	_	_	
+6-11	258-260	by	_	_	
+6-12	261-266	there	_	_	
+6-13	267-273	having	_	_	
+6-14	274-278	been	_	_	
+6-15	279-280	a	_	_	
+6-16	281-289	hospital	_	_	
+6-17	290-296	lately	_	_	
+6-18	297-308	established	_	_	
+6-19	309-312	for	_	_	
+6-20	313-321	soldiers	_	_	
+6-21	321-322	*	_	_	
+6-22	323-328	wives	_	_	
+6-23	329-331	in	_	_	
+6-24	332-334	my	_	_	
+6-25	335-346	subdistrict	_	_	
+6-26	346-347	.	_	_	
+
+#Text=WILTSHIRE.
+7-1	349-358	WILTSHIRE	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+7-2	358-359	.	_	_	
+
+#Text=SALISBURY.
+8-1	361-370	SALISBURY	https://en.wikipedia.org/wiki/Salisbury	LOC	
+8-2	370-371	.	_	_	
+
+#Text=Diocesan Church Choral Association.
+9-1	373-381	Diocesan	_	_	
+9-2	382-388	Church	_	_	
+9-3	389-395	Choral	_	_	
+9-4	396-407	Association	_	_	
+9-5	407-408	.	_	_	
+
+#Text=—We understand that the Dean and Chapter of Salisbury Cathedral have granted permission to this admirable society for the holding of a grand choral festival of the united cbnrch choirs in the diocese, in the Cathedral, next year.
+10-1	408-409	—	_	_	
+10-2	409-411	We	_	_	
+10-3	412-422	understand	_	_	
+10-4	423-427	that	_	_	
+10-5	428-431	the	_	_	
+10-6	432-436	Dean	_	_	
+10-7	437-440	and	_	_	
+10-8	441-448	Chapter	_	_	
+10-9	449-451	of	_	_	
+10-10	452-461	Salisbury	https://en.wikipedia.org/wiki/Salisbury\_Cathedral[1]	BUILDING[1]	
+10-11	462-471	Cathedral	https://en.wikipedia.org/wiki/Salisbury\_Cathedral[1]	BUILDING[1]	
+10-12	472-476	have	_	_	
+10-13	477-484	granted	_	_	
+10-14	485-495	permission	_	_	
+10-15	496-498	to	_	_	
+10-16	499-503	this	_	_	
+10-17	504-513	admirable	_	_	
+10-18	514-521	society	_	_	
+10-19	522-525	for	_	_	
+10-20	526-529	the	_	_	
+10-21	530-537	holding	_	_	
+10-22	538-540	of	_	_	
+10-23	541-542	a	_	_	
+10-24	543-548	grand	_	_	
+10-25	549-555	choral	_	_	
+10-26	556-564	festival	_	_	
+10-27	565-567	of	_	_	
+10-28	568-571	the	_	_	
+10-29	572-578	united	_	_	
+10-30	579-585	cbnrch	_	_	
+10-31	586-592	choirs	_	_	
+10-32	593-595	in	_	_	
+10-33	596-599	the	_	_	
+10-34	600-607	diocese	_	_	
+10-35	607-608	,	_	_	
+10-36	609-611	in	_	_	
+10-37	612-615	the	_	_	
+10-38	616-625	Cathedral	_	_	
+10-39	625-626	,	_	_	
+10-40	627-631	next	_	_	
+10-41	632-636	year	_	_	
+10-42	636-637	.	_	_	
+
+#Text=The number of voices, it is expected, will exceed 1000.
+11-1	638-641	The	_	_	
+11-2	642-648	number	_	_	
+11-3	649-651	of	_	_	
+11-4	652-658	voices	_	_	
+11-5	658-659	,	_	_	
+11-6	660-662	it	_	_	
+11-7	663-665	is	_	_	
+11-8	666-674	expected	_	_	
+11-9	674-675	,	_	_	
+11-10	676-680	will	_	_	
+11-11	681-687	exceed	_	_	
+11-12	688-692	1000	_	_	
+11-13	692-693	.	_	_	
+
+#Text=St.
+12-1	695-697	St	*[2]	BUILDING[2]	
+12-2	697-698	.	*[2]	BUILDING[2]	
+
+#Text=Paul’s, Fisherton.
+13-1	699-703	Paul	*[2]	BUILDING[2]	
+13-2	703-704	’	*[2]	BUILDING[2]	
+13-3	704-705	s	*[2]	BUILDING[2]	
+13-4	705-706	,	_	_	
+13-5	707-716	Fisherton	*	STREET	
+13-6	716-717	.	_	_	
+
+#Text=—Mr.
+14-1	717-718	—	_	_	
+14-2	718-720	Mr	_	_	
+14-3	720-721	.	_	_	
+
+#Text=T.
+15-1	722-723	T	_	_	
+15-2	723-724	.	_	_	
+
+#Text=E.
+16-1	725-726	E	_	_	
+16-2	726-727	.	_	_	
+
+#Text=Spinney has been appointed organist and choir-master at this Church.
+17-1	728-735	Spinney	_	_	
+17-2	736-739	has	_	_	
+17-3	740-744	been	_	_	
+17-4	745-754	appointed	_	_	
+17-5	755-763	organist	_	_	
+17-6	764-767	and	_	_	
+17-7	768-780	choir-master	_	_	
+17-8	781-783	at	_	_	
+17-9	784-788	this	_	_	
+17-10	789-795	Church	_	_	
+17-11	795-796	.	_	_	
+
+#Text=There is an understanding, however, that the duties of the former office are to be discharged by Miss Mattie Spinney.
+18-1	797-802	There	_	_	
+18-2	803-805	is	_	_	
+18-3	806-808	an	_	_	
+18-4	809-822	understanding	_	_	
+18-5	822-823	,	_	_	
+18-6	824-831	however	_	_	
+18-7	831-832	,	_	_	
+18-8	833-837	that	_	_	
+18-9	838-841	the	_	_	
+18-10	842-848	duties	_	_	
+18-11	849-851	of	_	_	
+18-12	852-855	the	_	_	
+18-13	856-862	former	_	_	
+18-14	863-869	office	_	_	
+18-15	870-873	are	_	_	
+18-16	874-876	to	_	_	
+18-17	877-879	be	_	_	
+18-18	880-890	discharged	_	_	
+18-19	891-893	by	_	_	
+18-20	894-898	Miss	_	_	
+18-21	899-905	Mattie	_	_	
+18-22	906-913	Spinney	_	_	
+18-23	913-914	.	_	_	
+
+#Text=Mr. no intention of resigning the poet of organist, which be has so long held, at Sutton Waldron.
+19-1	915-917	Mr	_	_	
+19-2	917-918	.	_	_	
+19-3	919-921	no	_	_	
+19-4	922-931	intention	_	_	
+19-5	932-934	of	_	_	
+19-6	935-944	resigning	_	_	
+19-7	945-948	the	_	_	
+19-8	949-953	poet	_	_	
+19-9	954-956	of	_	_	
+19-10	957-965	organist	_	_	
+19-11	965-966	,	_	_	
+19-12	967-972	which	_	_	
+19-13	973-975	be	_	_	
+19-14	976-979	has	_	_	
+19-15	980-982	so	_	_	
+19-16	983-987	long	_	_	
+19-17	988-992	held	_	_	
+19-18	992-993	,	_	_	
+19-19	994-996	at	_	_	
+19-20	997-1003	Sutton	https://en.wikipedia.org/wiki/Sutton\_Waldron[3]	LOC[3]	
+19-21	1004-1011	Waldron	https://en.wikipedia.org/wiki/Sutton\_Waldron[3]	LOC[3]	
+19-22	1011-1012	.	_	_	

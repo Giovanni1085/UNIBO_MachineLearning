@@ -1,0 +1,442 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=SHEPTON MALLET.
+1-1	0-7	SHEPTON	https://en.wikipedia.org/wiki/Shepton\_Mallet[1]	LOC[1]	
+1-2	8-14	MALLET	https://en.wikipedia.org/wiki/Shepton\_Mallet[1]	LOC[1]	
+1-3	14-15	.	_	_	
+
+#Text=Funeral of Lord Palmerston.
+2-1	17-24	Funeral	_	_	
+2-2	25-27	of	_	_	
+2-3	28-32	Lord	_	_	
+2-4	33-43	Palmerston	_	_	
+2-5	43-44	.	_	_	
+
+#Text=—On Friday last the bells of our parish church rung out a muffled peal in memory to this great statesman.
+3-1	44-45	—	_	_	
+3-2	45-47	On	_	_	
+3-3	48-54	Friday	_	_	
+3-4	55-59	last	_	_	
+3-5	60-63	the	_	_	
+3-6	64-69	bells	_	_	
+3-7	70-72	of	_	_	
+3-8	73-76	our	_	_	
+3-9	77-83	parish	_	_	
+3-10	84-90	church	_	_	
+3-11	91-95	rung	_	_	
+3-12	96-99	out	_	_	
+3-13	100-101	a	_	_	
+3-14	102-109	muffled	_	_	
+3-15	110-114	peal	_	_	
+3-16	115-117	in	_	_	
+3-17	118-124	memory	_	_	
+3-18	125-127	to	_	_	
+3-19	128-132	this	_	_	
+3-20	133-138	great	_	_	
+3-21	139-148	statesman	_	_	
+3-22	148-149	.	_	_	
+
+#Text=High Constable.
+4-1	150-154	High	_	_	
+4-2	155-164	Constable	_	_	
+4-3	164-165	.	_	_	
+
+#Text=—At a meeting of the Court Leet, at the George Hotel, Mr.
+5-1	165-166	—	_	_	
+5-2	166-168	At	_	_	
+5-3	169-170	a	_	_	
+5-4	171-178	meeting	_	_	
+5-5	179-181	of	_	_	
+5-6	182-185	the	_	_	
+5-7	186-191	Court	_	_	
+5-8	192-196	Leet	_	_	
+5-9	196-197	,	_	_	
+5-10	198-200	at	_	_	
+5-11	201-204	the	_	_	
+5-12	205-211	George	*[2]	BUILDING[2]	
+5-13	212-217	Hotel	*[2]	BUILDING[2]	
+5-14	217-218	,	_	_	
+5-15	219-221	Mr	_	_	
+5-16	221-222	.	_	_	
+
+#Text=Kelly, grocer, of this town, was appointed high constable for tho ensuing ye«r. 15th Somerset Rifle Corps. — The unonthly competition for the challenge cup and other prizes took place at the butts on Wednesday last.
+6-1	223-228	Kelly	_	_	
+6-2	228-229	,	_	_	
+6-3	230-236	grocer	_	_	
+6-4	236-237	,	_	_	
+6-5	238-240	of	_	_	
+6-6	241-245	this	_	_	
+6-7	246-250	town	_	_	
+6-8	250-251	,	_	_	
+6-9	252-255	was	_	_	
+6-10	256-265	appointed	_	_	
+6-11	266-270	high	_	_	
+6-12	271-280	constable	_	_	
+6-13	281-284	for	_	_	
+6-14	285-288	tho	_	_	
+6-15	289-296	ensuing	_	_	
+6-16	297-299	ye	_	_	
+6-17	299-300	«	_	_	
+6-18	300-301	r	_	_	
+6-19	301-302	.	_	_	
+6-20	303-307	15th	_	_	
+6-21	308-316	Somerset	_	_	
+6-22	317-322	Rifle	_	_	
+6-23	323-328	Corps	_	_	
+6-24	328-329	.	_	_	
+6-25	330-331	—	_	_	
+6-26	332-335	The	_	_	
+6-27	336-344	unonthly	_	_	
+6-28	345-356	competition	_	_	
+6-29	357-360	for	_	_	
+6-30	361-364	the	_	_	
+6-31	365-374	challenge	_	_	
+6-32	375-378	cup	_	_	
+6-33	379-382	and	_	_	
+6-34	383-388	other	_	_	
+6-35	389-395	prizes	_	_	
+6-36	396-400	took	_	_	
+6-37	401-406	place	_	_	
+6-38	407-409	at	_	_	
+6-39	410-413	the	_	_	
+6-40	414-419	butts	_	_	
+6-41	420-422	on	_	_	
+6-42	423-432	Wednesday	_	_	
+6-43	433-437	last	_	_	
+6-44	437-438	.	_	_	
+
+#Text=Private Goodman, who made the highest score, did not enter for the cup, and had in consequence to take a minor prize.
+7-1	439-446	Private	_	_	
+7-2	447-454	Goodman	_	_	
+7-3	454-455	,	_	_	
+7-4	456-459	who	_	_	
+7-5	460-464	made	_	_	
+7-6	465-468	the	_	_	
+7-7	469-476	highest	_	_	
+7-8	477-482	score	_	_	
+7-9	482-483	,	_	_	
+7-10	484-487	did	_	_	
+7-11	488-491	not	_	_	
+7-12	492-497	enter	_	_	
+7-13	498-501	for	_	_	
+7-14	502-505	the	_	_	
+7-15	506-509	cup	_	_	
+7-16	509-510	,	_	_	
+7-17	511-514	and	_	_	
+7-18	515-518	had	_	_	
+7-19	519-521	in	_	_	
+7-20	522-533	consequence	_	_	
+7-21	534-536	to	_	_	
+7-22	537-541	take	_	_	
+7-23	542-543	a	_	_	
+7-24	544-549	minor	_	_	
+7-25	550-555	prize	_	_	
+7-26	555-556	.	_	_	
+
+#Text=The cup was therefore won by Sergt.
+8-1	557-560	The	_	_	
+8-2	561-564	cup	_	_	
+8-3	565-568	was	_	_	
+8-4	569-578	therefore	_	_	
+8-5	579-582	won	_	_	
+8-6	583-585	by	_	_	
+8-7	586-591	Sergt	_	_	
+8-8	591-592	.	_	_	
+
+#Text=Butler, .Private Goodman taking the salts and Sergt.
+9-1	593-599	Butler	_	_	
+9-2	599-600	,	_	_	
+9-3	601-602	.	_	_	
+9-4	602-609	Private	_	_	
+9-5	610-617	Goodman	_	_	
+9-6	618-624	taking	_	_	
+9-7	625-628	the	_	_	
+9-8	629-634	salts	_	_	
+9-9	635-638	and	_	_	
+9-10	639-644	Sergt	_	_	
+9-11	644-645	.	_	_	
+
+#Text=Cook a gold pencilcase.
+10-1	646-650	Cook	_	_	
+10-2	651-652	a	_	_	
+10-3	653-657	gold	_	_	
+10-4	658-668	pencilcase	_	_	
+10-5	668-669	.	_	_	
+
+#Text=Five Cottages Bubnt Down.
+11-1	670-674	Five	_	_	
+11-2	675-683	Cottages	_	_	
+11-3	684-689	Bubnt	_	_	
+11-4	690-694	Down	_	_	
+11-5	694-695	.	_	_	
+
+#Text=—Early on Thursday morning the inhabitants of Shepton Mallet were aroused from their slumbers by the cries of fire in Cowlstreet.
+12-1	695-696	—	_	_	
+12-2	696-701	Early	_	_	
+12-3	702-704	on	_	_	
+12-4	705-713	Thursday	_	_	
+12-5	714-721	morning	_	_	
+12-6	722-725	the	_	_	
+12-7	726-737	inhabitants	_	_	
+12-8	738-740	of	_	_	
+12-9	741-748	Shepton	https://en.wikipedia.org/wiki/Shepton\_Mallet[3]	LOC[3]	
+12-10	749-755	Mallet	https://en.wikipedia.org/wiki/Shepton\_Mallet[3]	LOC[3]	
+12-11	756-760	were	_	_	
+12-12	761-768	aroused	_	_	
+12-13	769-773	from	_	_	
+12-14	774-779	their	_	_	
+12-15	780-788	slumbers	_	_	
+12-16	789-791	by	_	_	
+12-17	792-795	the	_	_	
+12-18	796-801	cries	_	_	
+12-19	802-804	of	_	_	
+12-20	805-809	fire	_	_	
+12-21	810-812	in	_	_	
+12-22	813-823	Cowlstreet	*	STREET	
+12-23	823-824	.	_	_	
+
+#Text=On proceeding to the spot four cottages were found in flames, and despite the heavy rain ths.t was falling at the time, tbey were burnt to the ground before daybreak.
+13-1	825-827	On	_	_	
+13-2	828-838	proceeding	_	_	
+13-3	839-841	to	_	_	
+13-4	842-845	the	_	_	
+13-5	846-850	spot	_	_	
+13-6	851-855	four	_	_	
+13-7	856-864	cottages	_	_	
+13-8	865-869	were	_	_	
+13-9	870-875	found	_	_	
+13-10	876-878	in	_	_	
+13-11	879-885	flames	_	_	
+13-12	885-886	,	_	_	
+13-13	887-890	and	_	_	
+13-14	891-898	despite	_	_	
+13-15	899-902	the	_	_	
+13-16	903-908	heavy	_	_	
+13-17	909-913	rain	_	_	
+13-18	914-919	ths.t	_	_	
+13-19	920-923	was	_	_	
+13-20	924-931	falling	_	_	
+13-21	932-934	at	_	_	
+13-22	935-938	the	_	_	
+13-23	939-943	time	_	_	
+13-24	943-944	,	_	_	
+13-25	945-949	tbey	_	_	
+13-26	950-954	were	_	_	
+13-27	955-960	burnt	_	_	
+13-28	961-963	to	_	_	
+13-29	964-967	the	_	_	
+13-30	968-974	ground	_	_	
+13-31	975-981	before	_	_	
+13-32	982-990	daybreak	_	_	
+13-33	990-991	.	_	_	
+
+#Text=On Wednesday morning the chimney of one of the cottages caught fire, and it communicated to the roof; but it was put out, ns it was supposed, at the time.
+14-1	992-994	On	_	_	
+14-2	995-1004	Wednesday	_	_	
+14-3	1005-1012	morning	_	_	
+14-4	1013-1016	the	_	_	
+14-5	1017-1024	chimney	_	_	
+14-6	1025-1027	of	_	_	
+14-7	1028-1031	one	_	_	
+14-8	1032-1034	of	_	_	
+14-9	1035-1038	the	_	_	
+14-10	1039-1047	cottages	_	_	
+14-11	1048-1054	caught	_	_	
+14-12	1055-1059	fire	_	_	
+14-13	1059-1060	,	_	_	
+14-14	1061-1064	and	_	_	
+14-15	1065-1067	it	_	_	
+14-16	1068-1080	communicated	_	_	
+14-17	1081-1083	to	_	_	
+14-18	1084-1087	the	_	_	
+14-19	1088-1092	roof	_	_	
+14-20	1092-1093	;	_	_	
+14-21	1094-1097	but	_	_	
+14-22	1098-1100	it	_	_	
+14-23	1101-1104	was	_	_	
+14-24	1105-1108	put	_	_	
+14-25	1109-1112	out	_	_	
+14-26	1112-1113	,	_	_	
+14-27	1114-1116	ns	_	_	
+14-28	1117-1119	it	_	_	
+14-29	1120-1123	was	_	_	
+14-30	1124-1132	supposed	_	_	
+14-31	1132-1133	,	_	_	
+14-32	1134-1136	at	_	_	
+14-33	1137-1140	the	_	_	
+14-34	1141-1145	time	_	_	
+14-35	1145-1146	.	_	_	
+
+#Text=Early next morning the fire broke out afresh, and the three cottages adjoining, the roofs of which were of thatch, soon caught, and the whole was in a blazing mass.
+15-1	1147-1152	Early	_	_	
+15-2	1153-1157	next	_	_	
+15-3	1158-1165	morning	_	_	
+15-4	1166-1169	the	_	_	
+15-5	1170-1174	fire	_	_	
+15-6	1175-1180	broke	_	_	
+15-7	1181-1184	out	_	_	
+15-8	1185-1191	afresh	_	_	
+15-9	1191-1192	,	_	_	
+15-10	1193-1196	and	_	_	
+15-11	1197-1200	the	_	_	
+15-12	1201-1206	three	_	_	
+15-13	1207-1215	cottages	_	_	
+15-14	1216-1225	adjoining	_	_	
+15-15	1225-1226	,	_	_	
+15-16	1227-1230	the	_	_	
+15-17	1231-1236	roofs	_	_	
+15-18	1237-1239	of	_	_	
+15-19	1240-1245	which	_	_	
+15-20	1246-1250	were	_	_	
+15-21	1251-1253	of	_	_	
+15-22	1254-1260	thatch	_	_	
+15-23	1260-1261	,	_	_	
+15-24	1262-1266	soon	_	_	
+15-25	1267-1273	caught	_	_	
+15-26	1273-1274	,	_	_	
+15-27	1275-1278	and	_	_	
+15-28	1279-1282	the	_	_	
+15-29	1283-1288	whole	_	_	
+15-30	1289-1292	was	_	_	
+15-31	1293-1295	in	_	_	
+15-32	1296-1297	a	_	_	
+15-33	1298-1305	blazing	_	_	
+15-34	1306-1310	mass	_	_	
+15-35	1310-1311	.	_	_	
+
+#Text=It was with great difficulty that tho furniture of the poor cottagers could be got away.
+16-1	1312-1314	It	_	_	
+16-2	1315-1318	was	_	_	
+16-3	1319-1323	with	_	_	
+16-4	1324-1329	great	_	_	
+16-5	1330-1340	difficulty	_	_	
+16-6	1341-1345	that	_	_	
+16-7	1346-1349	tho	_	_	
+16-8	1350-1359	furniture	_	_	
+16-9	1360-1362	of	_	_	
+16-10	1363-1366	the	_	_	
+16-11	1367-1371	poor	_	_	
+16-12	1372-1381	cottagers	_	_	
+16-13	1382-1387	could	_	_	
+16-14	1388-1390	be	_	_	
+16-15	1391-1394	got	_	_	
+16-16	1395-1399	away	_	_	
+16-17	1399-1400	.	_	_	
+
+#Text=Not a drop of water could be had, although Shepton Mallet is so abundantly supplied.
+17-1	1401-1404	Not	_	_	
+17-2	1405-1406	a	_	_	
+17-3	1407-1411	drop	_	_	
+17-4	1412-1414	of	_	_	
+17-5	1415-1420	water	_	_	
+17-6	1421-1426	could	_	_	
+17-7	1427-1429	be	_	_	
+17-8	1430-1433	had	_	_	
+17-9	1433-1434	,	_	_	
+17-10	1435-1443	although	_	_	
+17-11	1444-1451	Shepton	https://en.wikipedia.org/wiki/Shepton\_Mallet[4]	LOC[4]	
+17-12	1452-1458	Mallet	https://en.wikipedia.org/wiki/Shepton\_Mallet[4]	LOC[4]	
+17-13	1459-1461	is	_	_	
+17-14	1462-1464	so	_	_	
+17-15	1465-1475	abundantly	_	_	
+17-16	1476-1484	supplied	_	_	
+17-17	1484-1485	.	_	_	
+
+#Text=The parish engines, too, are out of repair, and are carefully locked up.
+18-1	1486-1489	The	_	_	
+18-2	1490-1496	parish	_	_	
+18-3	1497-1504	engines	_	_	
+18-4	1504-1505	,	_	_	
+18-5	1506-1509	too	_	_	
+18-6	1509-1510	,	_	_	
+18-7	1511-1514	are	_	_	
+18-8	1515-1518	out	_	_	
+18-9	1519-1521	of	_	_	
+18-10	1522-1528	repair	_	_	
+18-11	1528-1529	,	_	_	
+18-12	1530-1533	and	_	_	
+18-13	1534-1537	are	_	_	
+18-14	1538-1547	carefully	_	_	
+18-15	1548-1554	locked	_	_	
+18-16	1555-1557	up	_	_	
+18-17	1557-1558	.	_	_	
+
+#Text=Another cottage was burnt to the ground on Thursday afternoon.
+19-1	1559-1566	Another	_	_	
+19-2	1567-1574	cottage	_	_	
+19-3	1575-1578	was	_	_	
+19-4	1579-1584	burnt	_	_	
+19-5	1585-1587	to	_	_	
+19-6	1588-1591	the	_	_	
+19-7	1592-1598	ground	_	_	
+19-8	1599-1601	on	_	_	
+19-9	1602-1610	Thursday	_	_	
+19-10	1611-1620	afternoon	_	_	
+19-11	1620-1621	.	_	_	
+
+#Text=It was adjoining those that were burnt on Thursday morning.
+20-1	1622-1624	It	_	_	
+20-2	1625-1628	was	_	_	
+20-3	1629-1638	adjoining	_	_	
+20-4	1639-1644	those	_	_	
+20-5	1645-1649	that	_	_	
+20-6	1650-1654	were	_	_	
+20-7	1655-1660	burnt	_	_	
+20-8	1661-1663	on	_	_	
+20-9	1664-1672	Thursday	_	_	
+20-10	1673-1680	morning	_	_	
+20-11	1680-1681	.	_	_	
+
+#Text=One poor boy, by the name of Emery, nearly lost bis life in endeavouring to extinguish the flames.
+21-1	1682-1685	One	_	_	
+21-2	1686-1690	poor	_	_	
+21-3	1691-1694	boy	_	_	
+21-4	1694-1695	,	_	_	
+21-5	1696-1698	by	_	_	
+21-6	1699-1702	the	_	_	
+21-7	1703-1707	name	_	_	
+21-8	1708-1710	of	_	_	
+21-9	1711-1716	Emery	_	_	
+21-10	1716-1717	,	_	_	
+21-11	1718-1724	nearly	_	_	
+21-12	1725-1729	lost	_	_	
+21-13	1730-1733	bis	_	_	
+21-14	1734-1738	life	_	_	
+21-15	1739-1741	in	_	_	
+21-16	1742-1754	endeavouring	_	_	
+21-17	1755-1757	to	_	_	
+21-18	1758-1768	extinguish	_	_	
+21-19	1769-1772	the	_	_	
+21-20	1773-1779	flames	_	_	
+21-21	1779-1780	.	_	_	
+
+#Text=It appears he was on one of the side walls, when suddenly it gave way, and ho was precipitated into the burning mass below.
+22-1	1781-1783	It	_	_	
+22-2	1784-1791	appears	_	_	
+22-3	1792-1794	he	_	_	
+22-4	1795-1798	was	_	_	
+22-5	1799-1801	on	_	_	
+22-6	1802-1805	one	_	_	
+22-7	1806-1808	of	_	_	
+22-8	1809-1812	the	_	_	
+22-9	1813-1817	side	_	_	
+22-10	1818-1823	walls	_	_	
+22-11	1823-1824	,	_	_	
+22-12	1825-1829	when	_	_	
+22-13	1830-1838	suddenly	_	_	
+22-14	1839-1841	it	_	_	
+22-15	1842-1846	gave	_	_	
+22-16	1847-1850	way	_	_	
+22-17	1850-1851	,	_	_	
+22-18	1852-1855	and	_	_	
+22-19	1856-1858	ho	_	_	
+22-20	1859-1862	was	_	_	
+22-21	1863-1875	precipitated	_	_	
+22-22	1876-1880	into	_	_	
+22-23	1881-1884	the	_	_	
+22-24	1885-1892	burning	_	_	
+22-25	1893-1897	mass	_	_	
+22-26	1898-1903	below	_	_	
+22-27	1903-1904	.	_	_	

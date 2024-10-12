@@ -1,0 +1,315 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE SOUTH-WESTERN POTTERY, 
+#Text=PARKSTONE, POOLE, Proprietor—GEOßGE JENNINGS.
+1-1	0-3	THE	_	_	
+1-2	4-17	SOUTH-WESTERN	_	_	
+1-3	18-25	POTTERY	_	_	
+1-4	25-26	,	_	_	
+1-5	28-37	PARKSTONE	https://en.wikipedia.org/wiki/Parkstone	LOC	
+1-6	37-38	,	_	_	
+1-7	39-44	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+1-8	44-45	,	_	_	
+1-9	46-63	Proprietor—GEOßGE	_	_	
+1-10	64-72	JENNINGS	_	_	
+1-11	72-73	.	_	_	
+
+#Text=Manager—JOHN S.
+2-1	74-86	Manager—JOHN	_	_	
+2-2	87-88	S	_	_	
+2-3	88-89	.	_	_	
+
+#Text=HUDSON.
+3-1	90-96	HUDSON	_	_	
+3-2	96-97	.	_	_	
+
+#Text=London Depot : JENNINGS WHARF, HOLLAND STREET, BLACKFRIARS.
+4-1	98-104	London	https://en.wikipedia.org/wiki/London	LOC	
+4-2	105-110	Depot	_	_	
+4-3	111-112	:	_	_	
+4-4	113-121	JENNINGS	*[1]	BUILDING[1]	
+4-5	122-127	WHARF	*[1]	BUILDING[1]	
+4-6	127-128	,	_	_	
+4-7	129-136	HOLLAND	*[2]	STREET[2]	
+4-8	137-143	STREET	*[2]	STREET[2]	
+4-9	143-144	,	_	_	
+4-10	145-156	BLACKFRIARS	https://en.wikipedia.org/wiki/Blackfriars,\_London	LOC	
+4-11	156-157	.	_	_	
+
+#Text=TENNINGS PATENT DRAIN PIPES, are now in general use in the best works in tlf the Kingdom, they offer advantages not possessed by any other Drain Pipes. " Certainly the best in rrangerncnt that can be used."
+5-1	158-166	TENNINGS	_	_	
+5-2	167-173	PATENT	_	_	
+5-3	174-179	DRAIN	_	_	
+5-4	180-185	PIPES	_	_	
+5-5	185-186	,	_	_	
+5-6	187-190	are	_	_	
+5-7	191-194	now	_	_	
+5-8	195-197	in	_	_	
+5-9	198-205	general	_	_	
+5-10	206-209	use	_	_	
+5-11	210-212	in	_	_	
+5-12	213-216	the	_	_	
+5-13	217-221	best	_	_	
+5-14	222-227	works	_	_	
+5-15	228-230	in	_	_	
+5-16	231-234	tlf	_	_	
+5-17	235-238	the	_	_	
+5-18	239-246	Kingdom	_	_	
+5-19	246-247	,	_	_	
+5-20	248-252	they	_	_	
+5-21	253-258	offer	_	_	
+5-22	259-269	advantages	_	_	
+5-23	270-273	not	_	_	
+5-24	274-283	possessed	_	_	
+5-25	284-286	by	_	_	
+5-26	287-290	any	_	_	
+5-27	291-296	other	_	_	
+5-28	297-302	Drain	_	_	
+5-29	303-308	Pipes	_	_	
+5-30	308-309	.	_	_	
+5-31	310-311	"	_	_	
+5-32	312-321	Certainly	_	_	
+5-33	322-325	the	_	_	
+5-34	326-330	best	_	_	
+5-35	331-333	in	_	_	
+5-36	334-345	rrangerncnt	_	_	
+5-37	346-350	that	_	_	
+5-38	351-354	can	_	_	
+5-39	355-357	be	_	_	
+5-40	358-362	used	_	_	
+5-41	362-363	.	_	_	
+5-42	363-364	"	_	_	
+
+#Text=—Builder.
+6-1	364-365	—	_	_	
+6-2	365-372	Builder	_	_	
+6-3	372-373	.	_	_	
+
+#Text=JENNINGS PATENT STONE WARE AND TERRA COTTA AIR BRICKS Are Cheaper, Stronger, and Better than Iron; do not require painting ; do not rust and stain the walls ; and WILL LAST 108 ETII.
+7-1	374-382	JENNINGS	_	_	
+7-2	383-389	PATENT	_	_	
+7-3	390-395	STONE	_	_	
+7-4	396-400	WARE	_	_	
+7-5	401-404	AND	_	_	
+7-6	405-410	TERRA	_	_	
+7-7	411-416	COTTA	_	_	
+7-8	417-420	AIR	_	_	
+7-9	421-427	BRICKS	_	_	
+7-10	428-431	Are	_	_	
+7-11	432-439	Cheaper	_	_	
+7-12	439-440	,	_	_	
+7-13	441-449	Stronger	_	_	
+7-14	449-450	,	_	_	
+7-15	451-454	and	_	_	
+7-16	455-461	Better	_	_	
+7-17	462-466	than	_	_	
+7-18	467-471	Iron	_	_	
+7-19	471-472	;	_	_	
+7-20	473-475	do	_	_	
+7-21	476-479	not	_	_	
+7-22	480-487	require	_	_	
+7-23	488-496	painting	_	_	
+7-24	497-498	;	_	_	
+7-25	499-501	do	_	_	
+7-26	502-505	not	_	_	
+7-27	506-510	rust	_	_	
+7-28	511-514	and	_	_	
+7-29	515-520	stain	_	_	
+7-30	521-524	the	_	_	
+7-31	525-530	walls	_	_	
+7-32	531-532	;	_	_	
+7-33	533-536	and	_	_	
+7-34	537-541	WILL	_	_	
+7-35	542-546	LAST	_	_	
+7-36	547-550	108	_	_	
+7-37	551-555	ETII	_	_	
+7-38	555-556	.	_	_	
+
+#Text=JENNINGS PATENT BONDING BRICKS FOR HOLLOW WALLS, a perfectly non-absorbent article, and the cheapest and best tie eves used, secures perfect dryness at a less cost than any other plan.
+8-1	557-565	JENNINGS	_	_	
+8-2	566-572	PATENT	_	_	
+8-3	573-580	BONDING	_	_	
+8-4	581-587	BRICKS	_	_	
+8-5	588-591	FOR	_	_	
+8-6	592-598	HOLLOW	_	_	
+8-7	599-604	WALLS	_	_	
+8-8	604-605	,	_	_	
+8-9	606-607	a	_	_	
+8-10	608-617	perfectly	_	_	
+8-11	618-631	non-absorbent	_	_	
+8-12	632-639	article	_	_	
+8-13	639-640	,	_	_	
+8-14	641-644	and	_	_	
+8-15	645-648	the	_	_	
+8-16	649-657	cheapest	_	_	
+8-17	658-661	and	_	_	
+8-18	662-666	best	_	_	
+8-19	667-670	tie	_	_	
+8-20	671-675	eves	_	_	
+8-21	676-680	used	_	_	
+8-22	680-681	,	_	_	
+8-23	682-689	secures	_	_	
+8-24	690-697	perfect	_	_	
+8-25	698-705	dryness	_	_	
+8-26	706-708	at	_	_	
+8-27	709-710	a	_	_	
+8-28	711-715	less	_	_	
+8-29	716-720	cost	_	_	
+8-30	721-725	than	_	_	
+8-31	726-729	any	_	_	
+8-32	730-735	other	_	_	
+8-33	736-740	plan	_	_	
+8-34	740-741	.	_	_	
+
+#Text=JENNLNGS PATENT COMBINED SMOKE AND AIR FLUES, for ensuring a thorough VENTILATION, and a supply of Fresh Warm Air to Apartments.
+9-1	742-750	JENNLNGS	_	_	
+9-2	751-757	PATENT	_	_	
+9-3	758-766	COMBINED	_	_	
+9-4	767-772	SMOKE	_	_	
+9-5	773-776	AND	_	_	
+9-6	777-780	AIR	_	_	
+9-7	781-786	FLUES	_	_	
+9-8	786-787	,	_	_	
+9-9	788-791	for	_	_	
+9-10	792-800	ensuring	_	_	
+9-11	801-802	a	_	_	
+9-12	803-811	thorough	_	_	
+9-13	812-823	VENTILATION	_	_	
+9-14	823-824	,	_	_	
+9-15	825-828	and	_	_	
+9-16	829-830	a	_	_	
+9-17	831-837	supply	_	_	
+9-18	838-840	of	_	_	
+9-19	841-846	Fresh	_	_	
+9-20	847-851	Warm	_	_	
+9-21	852-855	Air	_	_	
+9-22	856-858	to	_	_	
+9-23	859-869	Apartments	_	_	
+9-24	869-870	.	_	_	
+
+#Text=TAYLORS PATENT DAMP PROOF COURSES, for preventing the absorption of Damp from the earth in the foundations of buildings.
+10-1	871-878	TAYLORS	_	_	
+10-2	879-885	PATENT	_	_	
+10-3	886-890	DAMP	_	_	
+10-4	891-896	PROOF	_	_	
+10-5	897-904	COURSES	_	_	
+10-6	904-905	,	_	_	
+10-7	906-909	for	_	_	
+10-8	910-920	preventing	_	_	
+10-9	921-924	the	_	_	
+10-10	925-935	absorption	_	_	
+10-11	936-938	of	_	_	
+10-12	939-943	Damp	_	_	
+10-13	944-948	from	_	_	
+10-14	949-952	the	_	_	
+10-15	953-958	earth	_	_	
+10-16	959-961	in	_	_	
+10-17	962-965	the	_	_	
+10-18	966-977	foundations	_	_	
+10-19	978-980	of	_	_	
+10-20	981-990	buildings	_	_	
+10-21	990-991	.	_	_	
+
+#Text=LOVEGROVES PATENT SYPHON AND OTHER STENCH TRAPS, for Preventing the issue of Noxious Gases from Drains.
+11-1	992-1002	LOVEGROVES	_	_	
+11-2	1003-1009	PATENT	_	_	
+11-3	1010-1016	SYPHON	_	_	
+11-4	1017-1020	AND	_	_	
+11-5	1021-1026	OTHER	_	_	
+11-6	1027-1033	STENCH	_	_	
+11-7	1034-1039	TRAPS	_	_	
+11-8	1039-1040	,	_	_	
+11-9	1041-1044	for	_	_	
+11-10	1045-1055	Preventing	_	_	
+11-11	1056-1059	the	_	_	
+11-12	1060-1065	issue	_	_	
+11-13	1066-1068	of	_	_	
+11-14	1069-1076	Noxious	_	_	
+11-15	1077-1082	Gases	_	_	
+11-16	1083-1087	from	_	_	
+11-17	1088-1094	Drains	_	_	
+11-18	1094-1095	.	_	_	
+
+#Text=COMMON SOCKET PIPES, BENDS, JUNCTIONS, SYPHONS, WATER CLOSET BASONS, AND TRAPS, and every Article used fee Drainage purposes, CHIMNEY POTS„GARDEN EDGING VASES, and a Variety of other Goods in both Stone Ware and Terra Cotta.
+12-1	1096-1102	COMMON	_	_	
+12-2	1103-1109	SOCKET	_	_	
+12-3	1110-1115	PIPES	_	_	
+12-4	1115-1116	,	_	_	
+12-5	1117-1122	BENDS	_	_	
+12-6	1122-1123	,	_	_	
+12-7	1124-1133	JUNCTIONS	_	_	
+12-8	1133-1134	,	_	_	
+12-9	1135-1142	SYPHONS	_	_	
+12-10	1142-1143	,	_	_	
+12-11	1144-1149	WATER	_	_	
+12-12	1150-1156	CLOSET	_	_	
+12-13	1157-1163	BASONS	_	_	
+12-14	1163-1164	,	_	_	
+12-15	1165-1168	AND	_	_	
+12-16	1169-1174	TRAPS	_	_	
+12-17	1174-1175	,	_	_	
+12-18	1176-1179	and	_	_	
+12-19	1180-1185	every	_	_	
+12-20	1186-1193	Article	_	_	
+12-21	1194-1198	used	_	_	
+12-22	1199-1202	fee	_	_	
+12-23	1203-1211	Drainage	_	_	
+12-24	1212-1220	purposes	_	_	
+12-25	1220-1221	,	_	_	
+12-26	1222-1229	CHIMNEY	_	_	
+12-27	1230-1234	POTS	_	_	
+12-28	1234-1235	„	_	_	
+12-29	1235-1241	GARDEN	_	_	
+12-30	1242-1248	EDGING	_	_	
+12-31	1249-1254	VASES	_	_	
+12-32	1254-1255	,	_	_	
+12-33	1256-1259	and	_	_	
+12-34	1260-1261	a	_	_	
+12-35	1262-1269	Variety	_	_	
+12-36	1270-1272	of	_	_	
+12-37	1273-1278	other	_	_	
+12-38	1279-1284	Goods	_	_	
+12-39	1285-1287	in	_	_	
+12-40	1288-1292	both	_	_	
+12-41	1293-1298	Stone	_	_	
+12-42	1299-1303	Ware	_	_	
+12-43	1304-1307	and	_	_	
+12-44	1308-1313	Terra	_	_	
+12-45	1314-1319	Cotta	_	_	
+12-46	1319-1320	.	_	_	
+
+#Text=The Goods hitherto sent from these works will be a sufficient guarantee of quality, and the prices are as low as is consistent with the Manufacture of first-rate • rticles.
+13-1	1321-1324	The	_	_	
+13-2	1325-1330	Goods	_	_	
+13-3	1331-1339	hitherto	_	_	
+13-4	1340-1344	sent	_	_	
+13-5	1345-1349	from	_	_	
+13-6	1350-1355	these	_	_	
+13-7	1356-1361	works	_	_	
+13-8	1362-1366	will	_	_	
+13-9	1367-1369	be	_	_	
+13-10	1370-1371	a	_	_	
+13-11	1372-1382	sufficient	_	_	
+13-12	1383-1392	guarantee	_	_	
+13-13	1393-1395	of	_	_	
+13-14	1396-1403	quality	_	_	
+13-15	1403-1404	,	_	_	
+13-16	1405-1408	and	_	_	
+13-17	1409-1412	the	_	_	
+13-18	1413-1419	prices	_	_	
+13-19	1420-1423	are	_	_	
+13-20	1424-1426	as	_	_	
+13-21	1427-1430	low	_	_	
+13-22	1431-1433	as	_	_	
+13-23	1434-1436	is	_	_	
+13-24	1437-1447	consistent	_	_	
+13-25	1448-1452	with	_	_	
+13-26	1453-1456	the	_	_	
+13-27	1457-1468	Manufacture	_	_	
+13-28	1469-1471	of	_	_	
+13-29	1472-1482	first-rate	_	_	
+13-30	1483-1484	•	_	_	
+13-31	1485-1492	rticles	_	_	
+13-32	1492-1493	.	_	_	

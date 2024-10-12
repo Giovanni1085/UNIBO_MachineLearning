@@ -1,0 +1,672 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=i MARRIED.
+1-1	0-1	i	_	_	
+1-2	2-9	MARRIED	_	_	
+1-3	9-10	.	_	_	
+
+#Text=On Thursday last, Dr.
+2-1	11-13	On	_	_	
+2-2	14-22	Thursday	_	_	
+2-3	23-27	last	_	_	
+2-4	27-28	,	_	_	
+2-5	29-31	Dr	_	_	
+2-6	31-32	.	_	_	
+
+#Text=Larden, of Chester, to .
+3-1	33-39	Larden	_	_	
+3-2	39-40	,	_	_	
+3-3	41-43	of	_	_	
+3-4	44-51	Chester	https://en.wikipedia.org/wiki/Chester	LOC	
+3-5	51-52	,	_	_	
+3-6	53-55	to	_	_	
+3-7	56-57	.	_	_	
+
+#Text=Miss Orton, daughter of Thomas Orton, Esq of Tattenhail.
+4-1	58-62	Miss	_	_	
+4-2	63-68	Orton	_	_	
+4-3	68-69	,	_	_	
+4-4	70-78	daughter	_	_	
+4-5	79-81	of	_	_	
+4-6	82-88	Thomas	_	_	
+4-7	89-94	Orton	_	_	
+4-8	94-95	,	_	_	
+4-9	96-99	Esq	_	_	
+4-10	100-102	of	_	_	
+4-11	103-113	Tattenhail	https://en.wikipedia.org/wiki/Tattenhall	LOC	
+4-12	113-114	.	_	_	
+
+#Text=—On the 23d ult. at Acomb, near York, , T.
+5-1	114-115	—	_	_	
+5-2	115-117	On	_	_	
+5-3	118-121	the	_	_	
+5-4	122-125	23d	_	_	
+5-5	126-129	ult	_	_	
+5-6	129-130	.	_	_	
+5-7	131-133	at	_	_	
+5-8	134-139	Acomb	https://en.wikipedia.org/wiki/Acomb,\_North\_Yorkshire	LOC	
+5-9	139-140	,	_	_	
+5-10	141-145	near	_	_	
+5-11	146-150	York	https://en.wikipedia.org/wiki/York	LOC	
+5-12	150-151	,	_	_	
+5-13	152-153	,	_	_	
+5-14	154-155	T	_	_	
+5-15	155-156	.	_	_	
+
+#Text=G.
+6-1	157-158	G	_	_	
+6-2	158-159	.	_	_	
+
+#Text=Ragiand, E*q. to Miss Eiiza Bnch, daughter of the late Samuel Ogden Birch.
+7-1	160-167	Ragiand	_	_	
+7-2	167-168	,	_	_	
+7-3	169-170	E	_	_	
+7-4	170-171	*	_	_	
+7-5	171-172	q	_	_	
+7-6	172-173	.	_	_	
+7-7	174-176	to	_	_	
+7-8	177-181	Miss	_	_	
+7-9	182-187	Eiiza	_	_	
+7-10	188-192	Bnch	_	_	
+7-11	192-193	,	_	_	
+7-12	194-202	daughter	_	_	
+7-13	203-205	of	_	_	
+7-14	206-209	the	_	_	
+7-15	210-214	late	_	_	
+7-16	215-221	Samuel	_	_	
+7-17	222-227	Ogden	_	_	
+7-18	228-233	Birch	_	_	
+7-19	233-234	.	_	_	
+
+#Text=Esq of this town. ; —On Monday the 22d ult at" Leigh, Mr James I Le gh, son of Robert Leigh, Eq. of Kenyon, to ; Miss P,iit, daughter of Samutl Part, E-q. of AtherI ton Lodge.
+8-1	235-238	Esq	_	_	
+8-2	239-241	of	_	_	
+8-3	242-246	this	_	_	
+8-4	247-251	town	_	_	
+8-5	251-252	.	_	_	
+8-6	253-254	;	_	_	
+8-7	255-256	—	_	_	
+8-8	256-258	On	_	_	
+8-9	259-265	Monday	_	_	
+8-10	266-269	the	_	_	
+8-11	270-273	22d	_	_	
+8-12	274-277	ult	_	_	
+8-13	278-280	at	_	_	
+8-14	280-281	"	_	_	
+8-15	282-287	Leigh	https://en.wikipedia.org/wiki/Leigh,\_Greater\_Manchester	LOC	
+8-16	287-288	,	_	_	
+8-17	289-291	Mr	_	_	
+8-18	292-297	James	_	_	
+8-19	298-299	I	_	_	
+8-20	300-302	Le	_	_	
+8-21	303-305	gh	_	_	
+8-22	305-306	,	_	_	
+8-23	307-310	son	_	_	
+8-24	311-313	of	_	_	
+8-25	314-320	Robert	_	_	
+8-26	321-326	Leigh	_	_	
+8-27	326-327	,	_	_	
+8-28	328-330	Eq	_	_	
+8-29	330-331	.	_	_	
+8-30	332-334	of	_	_	
+8-31	335-341	Kenyon	https://en.wikipedia.org/wiki/Kenyon,\_Cheshire	LOC	
+8-32	341-342	,	_	_	
+8-33	343-345	to	_	_	
+8-34	346-347	;	_	_	
+8-35	348-352	Miss	_	_	
+8-36	353-354	P	_	_	
+8-37	354-355	,	_	_	
+8-38	355-358	iit	_	_	
+8-39	358-359	,	_	_	
+8-40	360-368	daughter	_	_	
+8-41	369-371	of	_	_	
+8-42	372-378	Samutl	_	_	
+8-43	379-383	Part	_	_	
+8-44	383-384	,	_	_	
+8-45	385-388	E-q	_	_	
+8-46	388-389	.	_	_	
+8-47	390-392	of	_	_	
+8-48	393-399	AtherI	*[1]	BUILDING[1]	
+8-49	400-403	ton	*[1]	BUILDING[1]	
+8-50	404-409	Lodge	*[1]	BUILDING[1]	
+8-51	409-410	.	_	_	
+
+#Text=—On Sunday week at Liverpool, Mr R. .
+9-1	410-411	—	_	_	
+9-2	411-413	On	_	_	
+9-3	414-420	Sunday	_	_	
+9-4	421-425	week	_	_	
+9-5	426-428	at	_	_	
+9-6	429-438	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+9-7	438-439	,	_	_	
+9-8	440-442	Mr	_	_	
+9-9	443-444	R	_	_	
+9-10	444-445	.	_	_	
+9-11	446-447	.	_	_	
+
+#Text=Carter, of Hambleton, near Poulton in ti e Fylde, aged 76, to Miss Sarah Gardner, innkeeper, of the former place, aged 30.
+10-1	448-454	Carter	_	_	
+10-2	454-455	,	_	_	
+10-3	456-458	of	_	_	
+10-4	459-468	Hambleton	https://en.wikipedia.org/wiki/Hambleton,\_Lancashire	LOC	
+10-5	468-469	,	_	_	
+10-6	470-474	near	_	_	
+10-7	475-482	Poulton	https://en.wikipedia.org/wiki/Poulton-le-Fylde[2]	LOC[2]	
+10-8	483-485	in	https://en.wikipedia.org/wiki/Poulton-le-Fylde[2]	LOC[2]	
+10-9	486-488	ti	https://en.wikipedia.org/wiki/Poulton-le-Fylde[2]	LOC[2]	
+10-10	489-490	e	https://en.wikipedia.org/wiki/Poulton-le-Fylde[2]	LOC[2]	
+10-11	491-496	Fylde	https://en.wikipedia.org/wiki/Poulton-le-Fylde[2]	LOC[2]	
+10-12	496-497	,	_	_	
+10-13	498-502	aged	_	_	
+10-14	503-505	76	_	_	
+10-15	505-506	,	_	_	
+10-16	507-509	to	_	_	
+10-17	510-514	Miss	_	_	
+10-18	515-520	Sarah	_	_	
+10-19	521-528	Gardner	_	_	
+10-20	528-529	,	_	_	
+10-21	530-539	innkeeper	_	_	
+10-22	539-540	,	_	_	
+10-23	541-543	of	_	_	
+10-24	544-547	the	_	_	
+10-25	548-554	former	_	_	
+10-26	555-560	place	_	_	
+10-27	560-561	,	_	_	
+10-28	562-566	aged	_	_	
+10-29	567-569	30	_	_	
+10-30	569-570	.	_	_	
+
+#Text=—On Monday la>t at Wigan, Mr John FiTier, of that place, to Mi.
+11-1	570-571	—	_	_	
+11-2	571-573	On	_	_	
+11-3	574-580	Monday	_	_	
+11-4	581-583	la	_	_	
+11-5	583-584	>	_	_	
+11-6	584-585	t	_	_	
+11-7	586-588	at	_	_	
+11-8	589-594	Wigan	_	_	
+11-9	594-595	,	_	_	
+11-10	596-598	Mr	_	_	
+11-11	599-603	John	_	_	
+11-12	604-610	FiTier	_	_	
+11-13	610-611	,	_	_	
+11-14	612-614	of	_	_	
+11-15	615-619	that	_	_	
+11-16	620-625	place	_	_	
+11-17	625-626	,	_	_	
+11-18	627-629	to	_	_	
+11-19	630-632	Mi	_	_	
+11-20	632-633	.	_	_	
+
+#Text=:s Mellody, of .
+12-1	633-634	:	_	_	
+12-2	634-635	s	_	_	
+12-3	636-643	Mellody	_	_	
+12-4	643-644	,	_	_	
+12-5	645-647	of	_	_	
+12-6	648-649	.	_	_	
+
+#Text=Maghull, near Liverpool.
+13-1	650-657	Maghull	https://en.wikipedia.org/wiki/Maghull	LOC	
+13-2	657-658	,	_	_	
+13-3	659-663	near	_	_	
+13-4	664-673	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+13-5	673-674	.	_	_	
+
+#Text=—On Tuesday last, at St Johns Church, Mr Wm.
+14-1	674-675	—	_	_	
+14-2	675-677	On	_	_	
+14-3	678-685	Tuesday	_	_	
+14-4	686-690	last	_	_	
+14-5	690-691	,	_	_	
+14-6	692-694	at	_	_	
+14-7	695-697	St	*[3]	BUILDING[3]	
+14-8	698-703	Johns	*[3]	BUILDING[3]	
+14-9	704-710	Church	*[3]	BUILDING[3]	
+14-10	710-711	,	_	_	
+14-11	712-714	Mr	_	_	
+14-12	715-717	Wm	_	_	
+14-13	717-718	.	_	_	
+
+#Text=Nightingale, of Hunts , Bank, to Miss Rose, of Straogeways.
+15-1	719-730	Nightingale	_	_	
+15-2	730-731	,	_	_	
+15-3	732-734	of	_	_	
+15-4	735-740	Hunts	*	LOC	
+15-5	741-742	,	_	_	
+15-6	743-747	Bank	*	LOC	
+15-7	747-748	,	_	_	
+15-8	749-751	to	_	_	
+15-9	752-756	Miss	_	_	
+15-10	757-761	Rose	_	_	
+15-11	761-762	,	_	_	
+15-12	763-765	of	_	_	
+15-13	766-777	Straogeways	https://en.wikipedia.org/wiki/Strangeways,\_Manchester	LOC	
+15-14	777-778	.	_	_	
+
+#Text=—On Thursday, at the Collegiate Church, Mr John Fenton, of this town, to Miss Ellen Pendleton, of Salford —On Ffiu.sday sennight, at the Collegiate Church, Mr Wm Greenhow, manufacturer and spinner, to Miss Robinson, of Ulverstone.
+16-1	778-779	—	_	_	
+16-2	779-781	On	_	_	
+16-3	782-790	Thursday	_	_	
+16-4	790-791	,	_	_	
+16-5	792-794	at	_	_	
+16-6	795-798	the	_	_	
+16-7	799-809	Collegiate	*[4]	BUILDING[4]	
+16-8	810-816	Church	*[4]	BUILDING[4]	
+16-9	816-817	,	_	_	
+16-10	818-820	Mr	_	_	
+16-11	821-825	John	_	_	
+16-12	826-832	Fenton	_	_	
+16-13	832-833	,	_	_	
+16-14	834-836	of	_	_	
+16-15	837-841	this	_	_	
+16-16	842-846	town	_	_	
+16-17	846-847	,	_	_	
+16-18	848-850	to	_	_	
+16-19	851-855	Miss	_	_	
+16-20	856-861	Ellen	_	_	
+16-21	862-871	Pendleton	_	_	
+16-22	871-872	,	_	_	
+16-23	873-875	of	_	_	
+16-24	876-883	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+16-25	884-885	—	_	_	
+16-26	885-887	On	_	_	
+16-27	888-897	Ffiu.sday	_	_	
+16-28	898-906	sennight	_	_	
+16-29	906-907	,	_	_	
+16-30	908-910	at	_	_	
+16-31	911-914	the	_	_	
+16-32	915-925	Collegiate	*[5]	BUILDING[5]	
+16-33	926-932	Church	*[5]	BUILDING[5]	
+16-34	932-933	,	_	_	
+16-35	934-936	Mr	_	_	
+16-36	937-939	Wm	_	_	
+16-37	940-948	Greenhow	_	_	
+16-38	948-949	,	_	_	
+16-39	950-962	manufacturer	_	_	
+16-40	963-966	and	_	_	
+16-41	967-974	spinner	_	_	
+16-42	974-975	,	_	_	
+16-43	976-978	to	_	_	
+16-44	979-983	Miss	_	_	
+16-45	984-992	Robinson	_	_	
+16-46	992-993	,	_	_	
+16-47	994-996	of	_	_	
+16-48	997-1007	Ulverstone	https://en.wikipedia.org/wiki/Ulverston	LOC	
+16-49	1007-1008	.	_	_	
+
+#Text=DIED.
+17-1	1009-1013	DIED	_	_	
+17-2	1013-1014	.	_	_	
+
+#Text=On Friday the 26th ult.
+18-1	1015-1017	On	_	_	
+18-2	1018-1024	Friday	_	_	
+18-3	1025-1028	the	_	_	
+18-4	1029-1033	26th	_	_	
+18-5	1034-1037	ult	_	_	
+18-6	1037-1038	.	_	_	
+
+#Text=Mr Wm.
+19-1	1039-1041	Mr	_	_	
+19-2	1042-1044	Wm	_	_	
+19-3	1044-1045	.	_	_	
+
+#Text=Euszard, or !
+20-1	1046-1053	Euszard	_	_	
+20-2	1053-1054	,	_	_	
+20-3	1055-1057	or	_	_	
+20-4	1058-1059	!	_	_	
+
+#Text=Hulme, in his 51st year.
+21-1	1060-1065	Hulme	https://en.wikipedia.org/wiki/Hulme	LOC	
+21-2	1065-1066	,	_	_	
+21-3	1067-1069	in	_	_	
+21-4	1070-1073	his	_	_	
+21-5	1074-1078	51st	_	_	
+21-6	1079-1083	year	_	_	
+21-7	1083-1084	.	_	_	
+
+#Text=—On Monday scnnight, at his son-in-laws house in St.
+22-1	1084-1085	—	_	_	
+22-2	1085-1087	On	_	_	
+22-3	1088-1094	Monday	_	_	
+22-4	1095-1103	scnnight	_	_	
+22-5	1103-1104	,	_	_	
+22-6	1105-1107	at	_	_	
+22-7	1108-1111	his	_	_	
+22-8	1112-1123	son-in-laws	_	_	
+22-9	1124-1129	house	_	_	
+22-10	1130-1132	in	_	_	
+22-11	1133-1135	St	*[6]	STREET[6]	
+22-12	1135-1136	.	*[6]	STREET[6]	
+
+#Text=Johns-street, Mr James Yeomans, aged 88 years.
+23-1	1137-1149	Johns-street	*[6]	STREET[6]	
+23-2	1149-1150	,	_	_	
+23-3	1151-1153	Mr	_	_	
+23-4	1154-1159	James	_	_	
+23-5	1160-1167	Yeomans	_	_	
+23-6	1167-1168	,	_	_	
+23-7	1169-1173	aged	_	_	
+23-8	1174-1176	88	_	_	
+23-9	1177-1182	years	_	_	
+23-10	1182-1183	.	_	_	
+
+#Text=—Wednesday sen. night, deeply lamented by her family, relatives and acquaintance, Mrs Jerrkinson, wife of Mr Joseph I Jenkinson, of Heaton Norris.
+24-1	1183-1184	—	_	_	
+24-2	1184-1193	Wednesday	_	_	
+24-3	1194-1197	sen	_	_	
+24-4	1197-1198	.	_	_	
+24-5	1199-1204	night	_	_	
+24-6	1204-1205	,	_	_	
+24-7	1206-1212	deeply	_	_	
+24-8	1213-1221	lamented	_	_	
+24-9	1222-1224	by	_	_	
+24-10	1225-1228	her	_	_	
+24-11	1229-1235	family	_	_	
+24-12	1235-1236	,	_	_	
+24-13	1237-1246	relatives	_	_	
+24-14	1247-1250	and	_	_	
+24-15	1251-1263	acquaintance	_	_	
+24-16	1263-1264	,	_	_	
+24-17	1265-1268	Mrs	_	_	
+24-18	1269-1279	Jerrkinson	_	_	
+24-19	1279-1280	,	_	_	
+24-20	1281-1285	wife	_	_	
+24-21	1286-1288	of	_	_	
+24-22	1289-1291	Mr	_	_	
+24-23	1292-1298	Joseph	_	_	
+24-24	1299-1300	I	_	_	
+24-25	1301-1310	Jenkinson	_	_	
+24-26	1310-1311	,	_	_	
+24-27	1312-1314	of	_	_	
+24-28	1315-1321	Heaton	https://en.wikipedia.org/wiki/Heaton\_Norris[7]	LOC[7]	
+24-29	1322-1328	Norris	https://en.wikipedia.org/wiki/Heaton\_Norris[7]	LOC[7]	
+24-30	1328-1329	.	_	_	
+
+#Text=—On Sunday week, at • his house in St.
+25-1	1329-1330	—	_	_	
+25-2	1330-1332	On	_	_	
+25-3	1333-1339	Sunday	_	_	
+25-4	1340-1344	week	_	_	
+25-5	1344-1345	,	_	_	
+25-6	1346-1348	at	_	_	
+25-7	1349-1350	•	_	_	
+25-8	1351-1354	his	_	_	
+25-9	1355-1360	house	_	_	
+25-10	1361-1363	in	_	_	
+25-11	1364-1366	St	*[8]	LOC[8]	
+25-12	1366-1367	.	*[8]	LOC[8]	
+
+#Text=Anns, Liverpool, aged 70 years, 1 !
+26-1	1368-1372	Anns	*[8]	LOC[8]	
+26-2	1372-1373	,	_	_	
+26-3	1374-1383	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+26-4	1383-1384	,	_	_	
+26-5	1385-1389	aged	_	_	
+26-6	1390-1392	70	_	_	
+26-7	1393-1398	years	_	_	
+26-8	1398-1399	,	_	_	
+26-9	1400-1401	1	_	_	
+26-10	1402-1403	!	_	_	
+
+#Text=Mr Newman Hyde, late of this town.
+27-1	1404-1406	Mr	_	_	
+27-2	1407-1413	Newman	_	_	
+27-3	1414-1418	Hyde	_	_	
+27-4	1418-1419	,	_	_	
+27-5	1420-1424	late	_	_	
+27-6	1425-1427	of	_	_	
+27-7	1428-1432	this	_	_	
+27-8	1433-1437	town	_	_	
+27-9	1437-1438	.	_	_	
+
+#Text=—On Wed !
+28-1	1438-1439	—	_	_	
+28-2	1439-1441	On	_	_	
+28-3	1442-1445	Wed	_	_	
+28-4	1446-1447	!	_	_	
+
+#Text=ne«day last, in this towrt, Garside B-ntiey, Esq.
+29-1	1448-1450	ne	_	_	
+29-2	1450-1451	«	_	_	
+29-3	1451-1454	day	_	_	
+29-4	1455-1459	last	_	_	
+29-5	1459-1460	,	_	_	
+29-6	1461-1463	in	_	_	
+29-7	1464-1468	this	_	_	
+29-8	1469-1474	towrt	_	_	
+29-9	1474-1475	,	_	_	
+29-10	1476-1483	Garside	_	_	
+29-11	1484-1491	B-ntiey	_	_	
+29-12	1491-1492	,	_	_	
+29-13	1493-1496	Esq	_	_	
+29-14	1496-1497	.	_	_	
+
+#Text=Barrister at Law; a young gentleman of the most promising talents.
+30-1	1498-1507	Barrister	_	_	
+30-2	1508-1510	at	_	_	
+30-3	1511-1514	Law	_	_	
+30-4	1514-1515	;	_	_	
+30-5	1516-1517	a	_	_	
+30-6	1518-1523	young	_	_	
+30-7	1524-1533	gentleman	_	_	
+30-8	1534-1536	of	_	_	
+30-9	1537-1540	the	_	_	
+30-10	1541-1545	most	_	_	
+30-11	1546-1555	promising	_	_	
+30-12	1556-1563	talents	_	_	
+30-13	1563-1564	.	_	_	
+
+#Text=—On the 16th nit. much respected by all who knew him, Mr Wm Morris, of Sale, Cheshire —On Wednesday last, Miss Siddall,daughter of the late Mr John Siddall, of Fahowfieid, mar this town—On Monday sen.night, Joseph Fowdm, E-q. ol Schools Ffill, near Cheadle.
+31-1	1564-1565	—	_	_	
+31-2	1565-1567	On	_	_	
+31-3	1568-1571	the	_	_	
+31-4	1572-1576	16th	_	_	
+31-5	1577-1580	nit	_	_	
+31-6	1580-1581	.	_	_	
+31-7	1582-1586	much	_	_	
+31-8	1587-1596	respected	_	_	
+31-9	1597-1599	by	_	_	
+31-10	1600-1603	all	_	_	
+31-11	1604-1607	who	_	_	
+31-12	1608-1612	knew	_	_	
+31-13	1613-1616	him	_	_	
+31-14	1616-1617	,	_	_	
+31-15	1618-1620	Mr	_	_	
+31-16	1621-1623	Wm	_	_	
+31-17	1624-1630	Morris	_	_	
+31-18	1630-1631	,	_	_	
+31-19	1632-1634	of	_	_	
+31-20	1635-1639	Sale	https://en.wikipedia.org/wiki/Sale,\_Greater\_Manchester	LOC	
+31-21	1639-1640	,	_	_	
+31-22	1641-1649	Cheshire	https://en.wikipedia.org/wiki/Cheshire	LOC	
+31-23	1650-1651	—	_	_	
+31-24	1651-1653	On	_	_	
+31-25	1654-1663	Wednesday	_	_	
+31-26	1664-1668	last	_	_	
+31-27	1668-1669	,	_	_	
+31-28	1670-1674	Miss	_	_	
+31-29	1675-1682	Siddall	_	_	
+31-30	1682-1683	,	_	_	
+31-31	1683-1691	daughter	_	_	
+31-32	1692-1694	of	_	_	
+31-33	1695-1698	the	_	_	
+31-34	1699-1703	late	_	_	
+31-35	1704-1706	Mr	_	_	
+31-36	1707-1711	John	_	_	
+31-37	1712-1719	Siddall	_	_	
+31-38	1719-1720	,	_	_	
+31-39	1721-1723	of	_	_	
+31-40	1724-1734	Fahowfieid	https://en.wikipedia.org/wiki/Fallowfield	LOC	
+31-41	1734-1735	,	_	_	
+31-42	1736-1739	mar	_	_	
+31-43	1740-1744	this	_	_	
+31-44	1745-1752	town—On	_	_	
+31-45	1753-1759	Monday	_	_	
+31-46	1760-1769	sen.night	_	_	
+31-47	1769-1770	,	_	_	
+31-48	1771-1777	Joseph	_	_	
+31-49	1778-1783	Fowdm	_	_	
+31-50	1783-1784	,	_	_	
+31-51	1785-1788	E-q	_	_	
+31-52	1788-1789	.	_	_	
+31-53	1790-1792	ol	_	_	
+31-54	1793-1800	Schools	_	_	
+31-55	1801-1806	Ffill	_	_	
+31-56	1806-1807	,	_	_	
+31-57	1808-1812	near	_	_	
+31-58	1813-1820	Cheadle	https://en.wikipedia.org/wiki/Cheadle,\_Greater\_Manchester	LOC	
+31-59	1820-1821	.	_	_	
+
+#Text=—On the 5th j inst. at Aid*ick, in her 64th year, Mrs Martha \\ Tleys, sincerely and deservedly respected.
+32-1	1821-1822	—	_	_	
+32-2	1822-1824	On	_	_	
+32-3	1825-1828	the	_	_	
+32-4	1829-1832	5th	_	_	
+32-5	1833-1834	j	_	_	
+32-6	1835-1839	inst	_	_	
+32-7	1839-1840	.	_	_	
+32-8	1841-1843	at	_	_	
+32-9	1844-1847	Aid	_	_	
+32-10	1847-1848	*	_	_	
+32-11	1848-1851	ick	_	_	
+32-12	1851-1852	,	_	_	
+32-13	1853-1855	in	_	_	
+32-14	1856-1859	her	_	_	
+32-15	1860-1864	64th	_	_	
+32-16	1865-1869	year	_	_	
+32-17	1869-1870	,	_	_	
+32-18	1871-1874	Mrs	_	_	
+32-19	1875-1881	Martha	_	_	
+32-20	1882-1883	\	_	_	
+32-21	1884-1889	Tleys	_	_	
+32-22	1889-1890	,	_	_	
+32-23	1891-1900	sincerely	_	_	
+32-24	1901-1904	and	_	_	
+32-25	1905-1915	deservedly	_	_	
+32-26	1916-1925	respected	_	_	
+32-27	1925-1926	.	_	_	
+
+#Text=Her loss will be deepy regretted by her friends.
+33-1	1927-1930	Her	_	_	
+33-2	1931-1935	loss	_	_	
+33-3	1936-1940	will	_	_	
+33-4	1941-1943	be	_	_	
+33-5	1944-1949	deepy	_	_	
+33-6	1950-1959	regretted	_	_	
+33-7	1960-1962	by	_	_	
+33-8	1963-1966	her	_	_	
+33-9	1967-1974	friends	_	_	
+33-10	1974-1975	.	_	_	
+
+#Text=—On Wednesday the 24th ult. at Middlewich, Miss Ann Wdkiii-oii, aged 22 years; af er a long and paiiiful illness, which she bbre with Christian fortitude and resignation.
+34-1	1975-1976	—	_	_	
+34-2	1976-1978	On	_	_	
+34-3	1979-1988	Wednesday	_	_	
+34-4	1989-1992	the	_	_	
+34-5	1993-1997	24th	_	_	
+34-6	1998-2001	ult	_	_	
+34-7	2001-2002	.	_	_	
+34-8	2003-2005	at	_	_	
+34-9	2006-2016	Middlewich	https://en.wikipedia.org/wiki/Middlewich	LOC	
+34-10	2016-2017	,	_	_	
+34-11	2018-2022	Miss	_	_	
+34-12	2023-2026	Ann	_	_	
+34-13	2027-2037	Wdkiii-oii	_	_	
+34-14	2037-2038	,	_	_	
+34-15	2039-2043	aged	_	_	
+34-16	2044-2046	22	_	_	
+34-17	2047-2052	years	_	_	
+34-18	2052-2053	;	_	_	
+34-19	2054-2056	af	_	_	
+34-20	2057-2059	er	_	_	
+34-21	2060-2061	a	_	_	
+34-22	2062-2066	long	_	_	
+34-23	2067-2070	and	_	_	
+34-24	2071-2079	paiiiful	_	_	
+34-25	2080-2087	illness	_	_	
+34-26	2087-2088	,	_	_	
+34-27	2089-2094	which	_	_	
+34-28	2095-2098	she	_	_	
+34-29	2099-2103	bbre	_	_	
+34-30	2104-2108	with	_	_	
+34-31	2109-2118	Christian	_	_	
+34-32	2119-2128	fortitude	_	_	
+34-33	2129-2132	and	_	_	
+34-34	2133-2144	resignation	_	_	
+34-35	2144-2145	.	_	_	
+
+#Text=—On the 2d of December last, aged 80 years, B.tty Rowlinson, who lived 63 years with her husband, and Was mother to 15 childieo Grand-mother to... 55 Great grand-mother to 66 Gteat great grand-mother to... 1 137 Married into the family 21 Total...158 »he husband is now living, and in good health.
+35-1	2145-2146	—	_	_	
+35-2	2146-2148	On	_	_	
+35-3	2149-2152	the	_	_	
+35-4	2153-2155	2d	_	_	
+35-5	2156-2158	of	_	_	
+35-6	2159-2167	December	_	_	
+35-7	2168-2172	last	_	_	
+35-8	2172-2173	,	_	_	
+35-9	2174-2178	aged	_	_	
+35-10	2179-2181	80	_	_	
+35-11	2182-2187	years	_	_	
+35-12	2187-2188	,	_	_	
+35-13	2189-2194	B.tty	_	_	
+35-14	2195-2204	Rowlinson	_	_	
+35-15	2204-2205	,	_	_	
+35-16	2206-2209	who	_	_	
+35-17	2210-2215	lived	_	_	
+35-18	2216-2218	63	_	_	
+35-19	2219-2224	years	_	_	
+35-20	2225-2229	with	_	_	
+35-21	2230-2233	her	_	_	
+35-22	2234-2241	husband	_	_	
+35-23	2241-2242	,	_	_	
+35-24	2243-2246	and	_	_	
+35-25	2247-2250	Was	_	_	
+35-26	2251-2257	mother	_	_	
+35-27	2258-2260	to	_	_	
+35-28	2261-2263	15	_	_	
+35-29	2264-2272	childieo	_	_	
+35-30	2273-2285	Grand-mother	_	_	
+35-31	2286-2288	to	_	_	
+35-32	2288-2289	.	_	_	
+35-33	2289-2290	.	_	_	
+35-34	2290-2291	.	_	_	
+35-35	2292-2294	55	_	_	
+35-36	2295-2300	Great	_	_	
+35-37	2301-2313	grand-mother	_	_	
+35-38	2314-2316	to	_	_	
+35-39	2317-2319	66	_	_	
+35-40	2320-2325	Gteat	_	_	
+35-41	2326-2331	great	_	_	
+35-42	2332-2344	grand-mother	_	_	
+35-43	2345-2347	to	_	_	
+35-44	2347-2348	.	_	_	
+35-45	2348-2349	.	_	_	
+35-46	2349-2350	.	_	_	
+35-47	2351-2352	1	_	_	
+35-48	2353-2356	137	_	_	
+35-49	2357-2364	Married	_	_	
+35-50	2365-2369	into	_	_	
+35-51	2370-2373	the	_	_	
+35-52	2374-2380	family	_	_	
+35-53	2381-2383	21	_	_	
+35-54	2384-2389	Total	_	_	
+35-55	2389-2390	.	_	_	
+35-56	2390-2391	.	_	_	
+35-57	2391-2395	.158	_	_	
+35-58	2396-2397	»	_	_	
+35-59	2397-2399	he	_	_	
+35-60	2400-2407	husband	_	_	
+35-61	2408-2410	is	_	_	
+35-62	2411-2414	now	_	_	
+35-63	2415-2421	living	_	_	
+35-64	2421-2422	,	_	_	
+35-65	2423-2426	and	_	_	
+35-66	2427-2429	in	_	_	
+35-67	2430-2434	good	_	_	
+35-68	2435-2441	health	_	_	
+35-69	2441-2442	.	_	_	

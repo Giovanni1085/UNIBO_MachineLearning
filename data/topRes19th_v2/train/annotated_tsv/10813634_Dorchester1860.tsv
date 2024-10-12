@@ -1,0 +1,404 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CRANBORNE.
+1-1	0-9	CRANBORNE	https://en.wikipedia.org/wiki/Cranborne	LOC	
+1-2	9-10	.	_	_	
+
+#Text=Our Obituary this day contains the name of George Andrews, late sergeant in the Dorset county police, who died on the 24th inst. after a long illness, brought on by his exertions in the service.
+2-1	12-15	Our	_	_	
+2-2	16-24	Obituary	_	_	
+2-3	25-29	this	_	_	
+2-4	30-33	day	_	_	
+2-5	34-42	contains	_	_	
+2-6	43-46	the	_	_	
+2-7	47-51	name	_	_	
+2-8	52-54	of	_	_	
+2-9	55-61	George	_	_	
+2-10	62-69	Andrews	_	_	
+2-11	69-70	,	_	_	
+2-12	71-75	late	_	_	
+2-13	76-84	sergeant	_	_	
+2-14	85-87	in	_	_	
+2-15	88-91	the	_	_	
+2-16	92-98	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+2-17	99-105	county	_	_	
+2-18	106-112	police	_	_	
+2-19	112-113	,	_	_	
+2-20	114-117	who	_	_	
+2-21	118-122	died	_	_	
+2-22	123-125	on	_	_	
+2-23	126-129	the	_	_	
+2-24	130-134	24th	_	_	
+2-25	135-139	inst	_	_	
+2-26	139-140	.	_	_	
+2-27	141-146	after	_	_	
+2-28	147-148	a	_	_	
+2-29	149-153	long	_	_	
+2-30	154-161	illness	_	_	
+2-31	161-162	,	_	_	
+2-32	163-170	brought	_	_	
+2-33	171-173	on	_	_	
+2-34	174-176	by	_	_	
+2-35	177-180	his	_	_	
+2-36	181-190	exertions	_	_	
+2-37	191-193	in	_	_	
+2-38	194-197	the	_	_	
+2-39	198-205	service	_	_	
+2-40	205-206	.	_	_	
+
+#Text=The deceased was highly respected by the magistrates and inhabitants of this district.
+3-1	207-210	The	_	_	
+3-2	211-219	deceased	_	_	
+3-3	220-223	was	_	_	
+3-4	224-230	highly	_	_	
+3-5	231-240	respected	_	_	
+3-6	241-243	by	_	_	
+3-7	244-247	the	_	_	
+3-8	248-259	magistrates	_	_	
+3-9	260-263	and	_	_	
+3-10	264-275	inhabitants	_	_	
+3-11	276-278	of	_	_	
+3-12	279-283	this	_	_	
+3-13	284-292	district	_	_	
+3-14	292-293	.	_	_	
+
+#Text=He had served upwards of eleven years in the Dorset force, previous to which he performed the same office for 16 years in the G division of the metropolitan police.
+4-1	294-296	He	_	_	
+4-2	297-300	had	_	_	
+4-3	301-307	served	_	_	
+4-4	308-315	upwards	_	_	
+4-5	316-318	of	_	_	
+4-6	319-325	eleven	_	_	
+4-7	326-331	years	_	_	
+4-8	332-334	in	_	_	
+4-9	335-338	the	_	_	
+4-10	339-345	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+4-11	346-351	force	_	_	
+4-12	351-352	,	_	_	
+4-13	353-361	previous	_	_	
+4-14	362-364	to	_	_	
+4-15	365-370	which	_	_	
+4-16	371-373	he	_	_	
+4-17	374-383	performed	_	_	
+4-18	384-387	the	_	_	
+4-19	388-392	same	_	_	
+4-20	393-399	office	_	_	
+4-21	400-403	for	_	_	
+4-22	404-406	16	_	_	
+4-23	407-412	years	_	_	
+4-24	413-415	in	_	_	
+4-25	416-419	the	_	_	
+4-26	420-421	G	_	_	
+4-27	422-430	division	_	_	
+4-28	431-433	of	_	_	
+4-29	434-437	the	_	_	
+4-30	438-450	metropolitan	_	_	
+4-31	451-457	police	_	_	
+4-32	457-458	.	_	_	
+
+#Text=His funeral, which took place on Tuesday, was attended by Supt.
+5-1	459-462	His	_	_	
+5-2	463-470	funeral	_	_	
+5-3	470-471	,	_	_	
+5-4	472-477	which	_	_	
+5-5	478-482	took	_	_	
+5-6	483-488	place	_	_	
+5-7	489-491	on	_	_	
+5-8	492-499	Tuesday	_	_	
+5-9	499-500	,	_	_	
+5-10	501-504	was	_	_	
+5-11	505-513	attended	_	_	
+5-12	514-516	by	_	_	
+5-13	517-521	Supt	_	_	
+5-14	521-522	.	_	_	
+
+#Text=Baynton, the sergeants, and all the men of the Wimborne division, who headed the corpse to the grave in full uniform.
+6-1	523-530	Baynton	_	_	
+6-2	530-531	,	_	_	
+6-3	532-535	the	_	_	
+6-4	536-545	sergeants	_	_	
+6-5	545-546	,	_	_	
+6-6	547-550	and	_	_	
+6-7	551-554	all	_	_	
+6-8	555-558	the	_	_	
+6-9	559-562	men	_	_	
+6-10	563-565	of	_	_	
+6-11	566-569	the	_	_	
+6-12	570-578	Wimborne	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+6-13	579-587	division	_	_	
+6-14	587-588	,	_	_	
+6-15	589-592	who	_	_	
+6-16	593-599	headed	_	_	
+6-17	600-603	the	_	_	
+6-18	604-610	corpse	_	_	
+6-19	611-613	to	_	_	
+6-20	614-617	the	_	_	
+6-21	618-623	grave	_	_	
+6-22	624-626	in	_	_	
+6-23	627-631	full	_	_	
+6-24	632-639	uniform	_	_	
+6-25	639-640	.	_	_	
+
+#Text=The service for the dead was read by the Rev.
+7-1	641-644	The	_	_	
+7-2	645-652	service	_	_	
+7-3	653-656	for	_	_	
+7-4	657-660	the	_	_	
+7-5	661-665	dead	_	_	
+7-6	666-669	was	_	_	
+7-7	670-674	read	_	_	
+7-8	675-677	by	_	_	
+7-9	678-681	the	_	_	
+7-10	682-685	Rev	_	_	
+7-11	685-686	.	_	_	
+
+#Text=J.
+8-1	687-688	J	_	_	
+8-2	688-689	.	_	_	
+
+#Text=H.
+9-1	690-691	H	_	_	
+9-2	691-692	.	_	_	
+
+#Text=Carnegie, the incumbent, in a very impressive manner.
+10-1	693-701	Carnegie	_	_	
+10-2	701-702	,	_	_	
+10-3	703-706	the	_	_	
+10-4	707-716	incumbent	_	_	
+10-5	716-717	,	_	_	
+10-6	718-720	in	_	_	
+10-7	721-722	a	_	_	
+10-8	723-727	very	_	_	
+10-9	728-738	impressive	_	_	
+10-10	739-745	manner	_	_	
+10-11	745-746	.	_	_	
+
+#Text=Petty Sessions.
+11-1	747-752	Petty	_	_	
+11-2	753-761	Sessions	_	_	
+11-3	761-762	.	_	_	
+
+#Text=—Thursday : Before the Hon.
+12-1	762-763	—	_	_	
+12-2	763-771	Thursday	_	_	
+12-3	772-773	:	_	_	
+12-4	774-780	Before	_	_	
+12-5	781-784	the	_	_	
+12-6	785-788	Hon	_	_	
+12-7	788-789	.	_	_	
+
+#Text=Evelyn Ashley and George Churchill, Esq.
+13-1	790-796	Evelyn	_	_	
+13-2	797-803	Ashley	_	_	
+13-3	804-807	and	_	_	
+13-4	808-814	George	_	_	
+13-5	815-824	Churchill	_	_	
+13-6	824-825	,	_	_	
+13-7	826-829	Esq	_	_	
+13-8	829-830	.	_	_	
+
+#Text=—John Burt and James Burt, of Gussage All Saints, were charged on the information of John Haskell, with shooting one pheasant each on the 2nd of September.
+14-1	830-831	—	_	_	
+14-2	831-835	John	_	_	
+14-3	836-840	Burt	_	_	
+14-4	841-844	and	_	_	
+14-5	845-850	James	_	_	
+14-6	851-855	Burt	_	_	
+14-7	855-856	,	_	_	
+14-8	857-859	of	_	_	
+14-9	860-867	Gussage	https://en.wikipedia.org/wiki/Gussage\_All\_Saints[1]	LOC[1]	
+14-10	868-871	All	https://en.wikipedia.org/wiki/Gussage\_All\_Saints[1]	LOC[1]	
+14-11	872-878	Saints	https://en.wikipedia.org/wiki/Gussage\_All\_Saints[1]	LOC[1]	
+14-12	878-879	,	_	_	
+14-13	880-884	were	_	_	
+14-14	885-892	charged	_	_	
+14-15	893-895	on	_	_	
+14-16	896-899	the	_	_	
+14-17	900-911	information	_	_	
+14-18	912-914	of	_	_	
+14-19	915-919	John	_	_	
+14-20	920-927	Haskell	_	_	
+14-21	927-928	,	_	_	
+14-22	929-933	with	_	_	
+14-23	934-942	shooting	_	_	
+14-24	943-946	one	_	_	
+14-25	947-955	pheasant	_	_	
+14-26	956-960	each	_	_	
+14-27	961-963	on	_	_	
+14-28	964-967	the	_	_	
+14-29	968-971	2nd	_	_	
+14-30	972-974	of	_	_	
+14-31	975-984	September	_	_	
+14-32	984-985	.	_	_	
+
+#Text=—Complainant deposed to seeing the defendants each kill a bird in the middle of the day, near Harley Down, Gussage.
+15-1	985-986	—	_	_	
+15-2	986-997	Complainant	_	_	
+15-3	998-1005	deposed	_	_	
+15-4	1006-1008	to	_	_	
+15-5	1009-1015	seeing	_	_	
+15-6	1016-1019	the	_	_	
+15-7	1020-1030	defendants	_	_	
+15-8	1031-1035	each	_	_	
+15-9	1036-1040	kill	_	_	
+15-10	1041-1042	a	_	_	
+15-11	1043-1047	bird	_	_	
+15-12	1048-1050	in	_	_	
+15-13	1051-1054	the	_	_	
+15-14	1055-1061	middle	_	_	
+15-15	1062-1064	of	_	_	
+15-16	1065-1068	the	_	_	
+15-17	1069-1072	day	_	_	
+15-18	1072-1073	,	_	_	
+15-19	1074-1078	near	_	_	
+15-20	1079-1085	Harley	*[2]	LOC[2]	
+15-21	1086-1090	Down	*[2]	LOC[2]	
+15-22	1090-1091	,	_	_	
+15-23	1092-1099	Gussage	https://en.wikipedia.org/wiki/Gussage\_All\_Saints	LOC	
+15-24	1099-1100	.	_	_	
+
+#Text=—The defendants did not appear, and were fined £1 each and costs.
+16-1	1100-1101	—	_	_	
+16-2	1101-1104	The	_	_	
+16-3	1105-1115	defendants	_	_	
+16-4	1116-1119	did	_	_	
+16-5	1120-1123	not	_	_	
+16-6	1124-1130	appear	_	_	
+16-7	1130-1131	,	_	_	
+16-8	1132-1135	and	_	_	
+16-9	1136-1140	were	_	_	
+16-10	1141-1146	fined	_	_	
+16-11	1147-1149	£1	_	_	
+16-12	1150-1154	each	_	_	
+16-13	1155-1158	and	_	_	
+16-14	1159-1164	costs	_	_	
+16-15	1164-1165	.	_	_	
+
+#Text=They, however, came into court at a subsequent period of the day, and wished the case to be re-opened.
+17-1	1166-1170	They	_	_	
+17-2	1170-1171	,	_	_	
+17-3	1172-1179	however	_	_	
+17-4	1179-1180	,	_	_	
+17-5	1181-1185	came	_	_	
+17-6	1186-1190	into	_	_	
+17-7	1191-1196	court	_	_	
+17-8	1197-1199	at	_	_	
+17-9	1200-1201	a	_	_	
+17-10	1202-1212	subsequent	_	_	
+17-11	1213-1219	period	_	_	
+17-12	1220-1222	of	_	_	
+17-13	1223-1226	the	_	_	
+17-14	1227-1230	day	_	_	
+17-15	1230-1231	,	_	_	
+17-16	1232-1235	and	_	_	
+17-17	1236-1242	wished	_	_	
+17-18	1243-1246	the	_	_	
+17-19	1247-1251	case	_	_	
+17-20	1252-1254	to	_	_	
+17-21	1255-1257	be	_	_	
+17-22	1258-1267	re-opened	_	_	
+17-23	1267-1268	.	_	_	
+
+#Text=This was refused, and notice of appeal threatened.
+18-1	1269-1273	This	_	_	
+18-2	1274-1277	was	_	_	
+18-3	1278-1285	refused	_	_	
+18-4	1285-1286	,	_	_	
+18-5	1287-1290	and	_	_	
+18-6	1291-1297	notice	_	_	
+18-7	1298-1300	of	_	_	
+18-8	1301-1307	appeal	_	_	
+18-9	1308-1318	threatened	_	_	
+18-10	1318-1319	.	_	_	
+
+#Text=They, however, paid their fines and costs.
+19-1	1320-1324	They	_	_	
+19-2	1324-1325	,	_	_	
+19-3	1326-1333	however	_	_	
+19-4	1333-1334	,	_	_	
+19-5	1335-1339	paid	_	_	
+19-6	1340-1345	their	_	_	
+19-7	1346-1351	fines	_	_	
+19-8	1352-1355	and	_	_	
+19-9	1356-1361	costs	_	_	
+19-10	1361-1362	.	_	_	
+
+#Text=Joseph Frichett, of Verwood, was charged by the police with being drunk and riotous at Woodlands, on the 6th inst.
+20-1	1363-1369	Joseph	_	_	
+20-2	1370-1378	Frichett	_	_	
+20-3	1378-1379	,	_	_	
+20-4	1380-1382	of	_	_	
+20-5	1383-1390	Verwood	https://en.wikipedia.org/wiki/Verwood	LOC	
+20-6	1390-1391	,	_	_	
+20-7	1392-1395	was	_	_	
+20-8	1396-1403	charged	_	_	
+20-9	1404-1406	by	_	_	
+20-10	1407-1410	the	_	_	
+20-11	1411-1417	police	_	_	
+20-12	1418-1422	with	_	_	
+20-13	1423-1428	being	_	_	
+20-14	1429-1434	drunk	_	_	
+20-15	1435-1438	and	_	_	
+20-16	1439-1446	riotous	_	_	
+20-17	1447-1449	at	_	_	
+20-18	1450-1459	Woodlands	https://en.wikipedia.org/wiki/Woodlands,\_Dorset	LOC	
+20-19	1459-1460	,	_	_	
+20-20	1461-1463	on	_	_	
+20-21	1464-1467	the	_	_	
+20-22	1468-1471	6th	_	_	
+20-23	1472-1476	inst	_	_	
+20-24	1476-1477	.	_	_	
+
+#Text=—Defendant admitted his drunkenness, and was proved to have been riotous.— The custom of drawing beer from the Nobbs Crook Inn, during divine service on Sunday, was referred to, and the police were directed to give a strict look-out to the same.
+21-1	1477-1478	—	_	_	
+21-2	1478-1487	Defendant	_	_	
+21-3	1488-1496	admitted	_	_	
+21-4	1497-1500	his	_	_	
+21-5	1501-1512	drunkenness	_	_	
+21-6	1512-1513	,	_	_	
+21-7	1514-1517	and	_	_	
+21-8	1518-1521	was	_	_	
+21-9	1522-1528	proved	_	_	
+21-10	1529-1531	to	_	_	
+21-11	1532-1536	have	_	_	
+21-12	1537-1541	been	_	_	
+21-13	1542-1549	riotous	_	_	
+21-14	1549-1550	.	_	_	
+21-15	1550-1551	—	_	_	
+21-16	1552-1555	The	_	_	
+21-17	1556-1562	custom	_	_	
+21-18	1563-1565	of	_	_	
+21-19	1566-1573	drawing	_	_	
+21-20	1574-1578	beer	_	_	
+21-21	1579-1583	from	_	_	
+21-22	1584-1587	the	_	_	
+21-23	1588-1593	Nobbs	*[3]	BUILDING[3]	
+21-24	1594-1599	Crook	*[3]	BUILDING[3]	
+21-25	1600-1603	Inn	*[3]	BUILDING[3]	
+21-26	1603-1604	,	_	_	
+21-27	1605-1611	during	_	_	
+21-28	1612-1618	divine	_	_	
+21-29	1619-1626	service	_	_	
+21-30	1627-1629	on	_	_	
+21-31	1630-1636	Sunday	_	_	
+21-32	1636-1637	,	_	_	
+21-33	1638-1641	was	_	_	
+21-34	1642-1650	referred	_	_	
+21-35	1651-1653	to	_	_	
+21-36	1653-1654	,	_	_	
+21-37	1655-1658	and	_	_	
+21-38	1659-1662	the	_	_	
+21-39	1663-1669	police	_	_	
+21-40	1670-1674	were	_	_	
+21-41	1675-1683	directed	_	_	
+21-42	1684-1686	to	_	_	
+21-43	1687-1691	give	_	_	
+21-44	1692-1693	a	_	_	
+21-45	1694-1700	strict	_	_	
+21-46	1701-1709	look-out	_	_	
+21-47	1710-1712	to	_	_	
+21-48	1713-1716	the	_	_	
+21-49	1717-1721	same	_	_	
+21-50	1721-1722	.	_	_	

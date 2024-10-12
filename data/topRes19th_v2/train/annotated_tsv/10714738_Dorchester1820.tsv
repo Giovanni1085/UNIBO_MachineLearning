@@ -1,0 +1,702 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WEYMOUTH;—WKDN IiSDAY, May 27.
+1-1	0-8	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-2	8-9	;	_	_	
+1-3	9-10	—	_	_	
+1-4	10-14	WKDN	_	_	
+1-5	15-21	IiSDAY	_	_	
+1-6	21-22	,	_	_	
+1-7	23-26	May	_	_	
+1-8	27-29	27	_	_	
+1-9	29-30	.	_	_	
+
+#Text=Among the arrivals of the week are Sir Edward and Lady Poore, Col.
+2-1	32-37	Among	_	_	
+2-2	38-41	the	_	_	
+2-3	42-50	arrivals	_	_	
+2-4	51-53	of	_	_	
+2-5	54-57	the	_	_	
+2-6	58-62	week	_	_	
+2-7	63-66	are	_	_	
+2-8	67-70	Sir	_	_	
+2-9	71-77	Edward	_	_	
+2-10	78-81	and	_	_	
+2-11	82-86	Lady	_	_	
+2-12	87-92	Poore	_	_	
+2-13	92-93	,	_	_	
+2-14	94-97	Col	_	_	
+2-15	97-98	.	_	_	
+
+#Text=PlcyJell, Mr. and Mrs.
+3-1	99-107	PlcyJell	_	_	
+3-2	107-108	,	_	_	
+3-3	109-111	Mr	_	_	
+3-4	111-112	.	_	_	
+3-5	113-116	and	_	_	
+3-6	117-120	Mrs	_	_	
+3-7	120-121	.	_	_	
+
+#Text=Richardson, Mr. and Mias Batten, Mr.
+4-1	122-132	Richardson	_	_	
+4-2	132-133	,	_	_	
+4-3	134-136	Mr	_	_	
+4-4	136-137	.	_	_	
+4-5	138-141	and	_	_	
+4-6	142-146	Mias	_	_	
+4-7	147-153	Batten	_	_	
+4-8	153-154	,	_	_	
+4-9	155-157	Mr	_	_	
+4-10	157-158	.	_	_	
+
+#Text=Ferrell, Mr.
+5-1	159-166	Ferrell	_	_	
+5-2	166-167	,	_	_	
+5-3	168-170	Mr	_	_	
+5-4	170-171	.	_	_	
+
+#Text=H.
+6-1	172-173	H	_	_	
+6-2	173-174	.	_	_	
+
+#Text=Gear.
+7-1	175-179	Gear	_	_	
+7-2	179-180	.	_	_	
+
+#Text=Mr.
+8-1	181-183	Mr	_	_	
+8-2	183-184	.	_	_	
+
+#Text=G.
+9-1	185-186	G	_	_	
+9-2	186-187	.	_	_	
+
+#Text=F.
+10-1	188-189	F	_	_	
+10-2	189-190	.	_	_	
+
+#Text=Cooper, Mr.
+11-1	191-197	Cooper	_	_	
+11-2	197-198	,	_	_	
+11-3	199-201	Mr	_	_	
+11-4	201-202	.	_	_	
+
+#Text=Suckburgh, Mr.
+12-1	203-212	Suckburgh	_	_	
+12-2	212-213	,	_	_	
+12-3	214-216	Mr	_	_	
+12-4	216-217	.	_	_	
+
+#Text=Philip, Mr.
+13-1	218-224	Philip	_	_	
+13-2	224-225	,	_	_	
+13-3	226-228	Mr	_	_	
+13-4	228-229	.	_	_	
+
+#Text=Sterling, Mr.
+14-1	230-238	Sterling	_	_	
+14-2	238-239	,	_	_	
+14-3	240-242	Mr	_	_	
+14-4	242-243	.	_	_	
+
+#Text=Cooper, Mr. and.Mrs.
+15-1	244-250	Cooper	_	_	
+15-2	250-251	,	_	_	
+15-3	252-254	Mr	_	_	
+15-4	254-255	.	_	_	
+15-5	256-263	and.Mrs	_	_	
+15-6	263-264	.	_	_	
+
+#Text=Philips,and Alisa Wyatt.
+16-1	265-272	Philips	_	_	
+16-2	272-273	,	_	_	
+16-3	273-276	and	_	_	
+16-4	277-282	Alisa	_	_	
+16-5	283-288	Wyatt	_	_	
+16-6	288-289	.	_	_	
+
+#Text=Mr. and Mrs.
+17-1	290-292	Mr	_	_	
+17-2	292-293	.	_	_	
+17-3	294-297	and	_	_	
+17-4	298-301	Mrs	_	_	
+17-5	301-302	.	_	_	
+
+#Text=Fullerton are just arrived at the Royal Hotel from a visit to their worthy relative General Oattli, and have taken No. 2. on the Royal Terrace.
+18-1	303-312	Fullerton	_	_	
+18-2	313-316	are	_	_	
+18-3	317-321	just	_	_	
+18-4	322-329	arrived	_	_	
+18-5	330-332	at	_	_	
+18-6	333-336	the	_	_	
+18-7	337-342	Royal	*[1]	BUILDING[1]	
+18-8	343-348	Hotel	*[1]	BUILDING[1]	
+18-9	349-353	from	_	_	
+18-10	354-355	a	_	_	
+18-11	356-361	visit	_	_	
+18-12	362-364	to	_	_	
+18-13	365-370	their	_	_	
+18-14	371-377	worthy	_	_	
+18-15	378-386	relative	_	_	
+18-16	387-394	General	_	_	
+18-17	395-401	Oattli	_	_	
+18-18	401-402	,	_	_	
+18-19	403-406	and	_	_	
+18-20	407-411	have	_	_	
+18-21	412-417	taken	_	_	
+18-22	418-420	No	*[2]	BUILDING[2]	
+18-23	420-421	.	*[2]	BUILDING[2]	
+18-24	422-423	2	*[2]	BUILDING[2]	
+18-25	423-424	.	*[2]	BUILDING[2]	
+18-26	425-427	on	*[2]	BUILDING[2]	
+18-27	428-431	the	*[2]	BUILDING[2]	
+18-28	432-437	Royal	*[2]	BUILDING[2]	
+18-29	438-445	Terrace	*[2]	BUILDING[2]	
+18-30	445-446	.	_	_	
+
+#Text=On Friday last Mrs.
+19-1	447-449	On	_	_	
+19-2	450-456	Friday	_	_	
+19-3	457-461	last	_	_	
+19-4	462-465	Mrs	_	_	
+19-5	465-466	.	_	_	
+
+#Text=Radclyffe gave a most elegant dejeottf a lafourchette to the Officers of the 6th Carabineers and a select party at the family residence.
+20-1	467-476	Radclyffe	_	_	
+20-2	477-481	gave	_	_	
+20-3	482-483	a	_	_	
+20-4	484-488	most	_	_	
+20-5	489-496	elegant	_	_	
+20-6	497-505	dejeottf	_	_	
+20-7	506-507	a	_	_	
+20-8	508-520	lafourchette	_	_	
+20-9	521-523	to	_	_	
+20-10	524-527	the	_	_	
+20-11	528-536	Officers	_	_	
+20-12	537-539	of	_	_	
+20-13	540-543	the	_	_	
+20-14	544-547	6th	_	_	
+20-15	548-559	Carabineers	_	_	
+20-16	560-563	and	_	_	
+20-17	564-565	a	_	_	
+20-18	566-572	select	_	_	
+20-19	573-578	party	_	_	
+20-20	579-581	at	_	_	
+20-21	582-585	the	_	_	
+20-22	586-592	family	_	_	
+20-23	593-602	residence	_	_	
+20-24	602-603	.	_	_	
+
+#Text=No. 8, in the Belridere.
+21-1	604-606	No	_	_	
+21-2	606-607	.	_	_	
+21-3	608-609	8	_	_	
+21-4	609-610	,	_	_	
+21-5	611-613	in	_	_	
+21-6	614-617	the	_	_	
+21-7	618-627	Belridere	*	STREET	
+21-8	627-628	.	_	_	
+
+#Text=The proprietors of the Libraries, Inns, and Lodging Houses, nave completed the necessary embellishments for the reception of the nobility and gentry, each endeavouring to outvie the other in their accommodation*.
+22-1	629-632	The	_	_	
+22-2	633-644	proprietors	_	_	
+22-3	645-647	of	_	_	
+22-4	648-651	the	_	_	
+22-5	652-661	Libraries	_	_	
+22-6	661-662	,	_	_	
+22-7	663-667	Inns	_	_	
+22-8	667-668	,	_	_	
+22-9	669-672	and	_	_	
+22-10	673-680	Lodging	_	_	
+22-11	681-687	Houses	_	_	
+22-12	687-688	,	_	_	
+22-13	689-693	nave	_	_	
+22-14	694-703	completed	_	_	
+22-15	704-707	the	_	_	
+22-16	708-717	necessary	_	_	
+22-17	718-732	embellishments	_	_	
+22-18	733-736	for	_	_	
+22-19	737-740	the	_	_	
+22-20	741-750	reception	_	_	
+22-21	751-753	of	_	_	
+22-22	754-757	the	_	_	
+22-23	758-766	nobility	_	_	
+22-24	767-770	and	_	_	
+22-25	771-777	gentry	_	_	
+22-26	777-778	,	_	_	
+22-27	779-783	each	_	_	
+22-28	784-796	endeavouring	_	_	
+22-29	797-799	to	_	_	
+22-30	800-806	outvie	_	_	
+22-31	807-810	the	_	_	
+22-32	811-816	other	_	_	
+22-33	817-819	in	_	_	
+22-34	820-825	their	_	_	
+22-35	826-839	accommodation	_	_	
+22-36	839-840	*	_	_	
+22-37	840-841	.	_	_	
+
+#Text=The new establishment at the Royal Hotel, also, have not been behind hand in finishing their new and improved arrangements.
+23-1	842-845	The	_	_	
+23-2	846-849	new	_	_	
+23-3	850-863	establishment	_	_	
+23-4	864-866	at	_	_	
+23-5	867-870	the	_	_	
+23-6	871-876	Royal	*[3]	BUILDING[3]	
+23-7	877-882	Hotel	*[3]	BUILDING[3]	
+23-8	882-883	,	_	_	
+23-9	884-888	also	_	_	
+23-10	888-889	,	_	_	
+23-11	890-894	have	_	_	
+23-12	895-898	not	_	_	
+23-13	899-903	been	_	_	
+23-14	904-910	behind	_	_	
+23-15	911-915	hand	_	_	
+23-16	916-918	in	_	_	
+23-17	919-928	finishing	_	_	
+23-18	929-934	their	_	_	
+23-19	935-938	new	_	_	
+23-20	939-942	and	_	_	
+23-21	943-951	improved	_	_	
+23-22	952-964	arrangements	_	_	
+23-23	964-965	.	_	_	
+
+#Text=In addition to the improvement of the neat Marine Villar, situated on Greenhill, near Brunswick-buildings, which were preferred and occupied last summer by Sir Edward Hartopp and other fashionable visiters, it is worthy of remark that several have also been built near the read leading to the old castle.
+24-1	966-968	In	_	_	
+24-2	969-977	addition	_	_	
+24-3	978-980	to	_	_	
+24-4	981-984	the	_	_	
+24-5	985-996	improvement	_	_	
+24-6	997-999	of	_	_	
+24-7	1000-1003	the	_	_	
+24-8	1004-1008	neat	_	_	
+24-9	1009-1015	Marine	*[4]	BUILDING[4]	
+24-10	1016-1022	Villar	*[4]	BUILDING[4]	
+24-11	1022-1023	,	_	_	
+24-12	1024-1032	situated	_	_	
+24-13	1033-1035	on	_	_	
+24-14	1036-1045	Greenhill	https://en.wikipedia.org/wiki/Greenhill,\_Dorset	STREET	
+24-15	1045-1046	,	_	_	
+24-16	1047-1051	near	_	_	
+24-17	1052-1071	Brunswick-buildings	*	BUILDING	
+24-18	1071-1072	,	_	_	
+24-19	1073-1078	which	_	_	
+24-20	1079-1083	were	_	_	
+24-21	1084-1093	preferred	_	_	
+24-22	1094-1097	and	_	_	
+24-23	1098-1106	occupied	_	_	
+24-24	1107-1111	last	_	_	
+24-25	1112-1118	summer	_	_	
+24-26	1119-1121	by	_	_	
+24-27	1122-1125	Sir	_	_	
+24-28	1126-1132	Edward	_	_	
+24-29	1133-1140	Hartopp	_	_	
+24-30	1141-1144	and	_	_	
+24-31	1145-1150	other	_	_	
+24-32	1151-1162	fashionable	_	_	
+24-33	1163-1171	visiters	_	_	
+24-34	1171-1172	,	_	_	
+24-35	1173-1175	it	_	_	
+24-36	1176-1178	is	_	_	
+24-37	1179-1185	worthy	_	_	
+24-38	1186-1188	of	_	_	
+24-39	1189-1195	remark	_	_	
+24-40	1196-1200	that	_	_	
+24-41	1201-1208	several	_	_	
+24-42	1209-1213	have	_	_	
+24-43	1214-1218	also	_	_	
+24-44	1219-1223	been	_	_	
+24-45	1224-1229	built	_	_	
+24-46	1230-1234	near	_	_	
+24-47	1235-1238	the	_	_	
+24-48	1239-1243	read	_	_	
+24-49	1244-1251	leading	_	_	
+24-50	1252-1254	to	_	_	
+24-51	1255-1258	the	_	_	
+24-52	1259-1262	old	_	_	
+24-53	1263-1269	castle	_	_	
+24-54	1269-1270	.	_	_	
+
+#Text=Aluch taste is displayed in selecting spots commanding the most beautiful and interesting prospects of tht hay, the island of Portland, and the English Channel.
+25-1	1271-1276	Aluch	_	_	
+25-2	1277-1282	taste	_	_	
+25-3	1283-1285	is	_	_	
+25-4	1286-1295	displayed	_	_	
+25-5	1296-1298	in	_	_	
+25-6	1299-1308	selecting	_	_	
+25-7	1309-1314	spots	_	_	
+25-8	1315-1325	commanding	_	_	
+25-9	1326-1329	the	_	_	
+25-10	1330-1334	most	_	_	
+25-11	1335-1344	beautiful	_	_	
+25-12	1345-1348	and	_	_	
+25-13	1349-1360	interesting	_	_	
+25-14	1361-1370	prospects	_	_	
+25-15	1371-1373	of	_	_	
+25-16	1374-1377	tht	_	_	
+25-17	1378-1381	hay	_	_	
+25-18	1381-1382	,	_	_	
+25-19	1383-1386	the	_	_	
+25-20	1387-1393	island	https://en.wikipedia.org/wiki/Isle\_of\_Portland[5]	LOC[5]	
+25-21	1394-1396	of	https://en.wikipedia.org/wiki/Isle\_of\_Portland[5]	LOC[5]	
+25-22	1397-1405	Portland	https://en.wikipedia.org/wiki/Isle\_of\_Portland[5]	LOC[5]	
+25-23	1405-1406	,	_	_	
+25-24	1407-1410	and	_	_	
+25-25	1411-1414	the	_	_	
+25-26	1415-1422	English	https://en.wikipedia.org/wiki/English\_Channel[6]	LOC[6]	
+25-27	1423-1430	Channel	https://en.wikipedia.org/wiki/English\_Channel[6]	LOC[6]	
+25-28	1430-1431	.	_	_	
+
+#Text=These lelightful chateaus possess peculiar elegance in their exterior, blenled with every internal domestic arrangement, and they offer the tdditional and rare opportunity for those who are desirous of enjoying at the same time, the gayer luxuries of the town and the amg retirement of the country.
+26-1	1432-1437	These	_	_	
+26-2	1438-1448	lelightful	_	_	
+26-3	1449-1457	chateaus	_	_	
+26-4	1458-1465	possess	_	_	
+26-5	1466-1474	peculiar	_	_	
+26-6	1475-1483	elegance	_	_	
+26-7	1484-1486	in	_	_	
+26-8	1487-1492	their	_	_	
+26-9	1493-1501	exterior	_	_	
+26-10	1501-1502	,	_	_	
+26-11	1503-1510	blenled	_	_	
+26-12	1511-1515	with	_	_	
+26-13	1516-1521	every	_	_	
+26-14	1522-1530	internal	_	_	
+26-15	1531-1539	domestic	_	_	
+26-16	1540-1551	arrangement	_	_	
+26-17	1551-1552	,	_	_	
+26-18	1553-1556	and	_	_	
+26-19	1557-1561	they	_	_	
+26-20	1562-1567	offer	_	_	
+26-21	1568-1571	the	_	_	
+26-22	1572-1582	tdditional	_	_	
+26-23	1583-1586	and	_	_	
+26-24	1587-1591	rare	_	_	
+26-25	1592-1603	opportunity	_	_	
+26-26	1604-1607	for	_	_	
+26-27	1608-1613	those	_	_	
+26-28	1614-1617	who	_	_	
+26-29	1618-1621	are	_	_	
+26-30	1622-1630	desirous	_	_	
+26-31	1631-1633	of	_	_	
+26-32	1634-1642	enjoying	_	_	
+26-33	1643-1645	at	_	_	
+26-34	1646-1649	the	_	_	
+26-35	1650-1654	same	_	_	
+26-36	1655-1659	time	_	_	
+26-37	1659-1660	,	_	_	
+26-38	1661-1664	the	_	_	
+26-39	1665-1670	gayer	_	_	
+26-40	1671-1679	luxuries	_	_	
+26-41	1680-1682	of	_	_	
+26-42	1683-1686	the	_	_	
+26-43	1687-1691	town	_	_	
+26-44	1692-1695	and	_	_	
+26-45	1696-1699	the	_	_	
+26-46	1700-1703	amg	_	_	
+26-47	1704-1714	retirement	_	_	
+26-48	1715-1717	of	_	_	
+26-49	1718-1721	the	_	_	
+26-50	1722-1729	country	_	_	
+26-51	1729-1730	.	_	_	
+
+#Text=—Rev.
+27-1	1730-1731	—	_	_	
+27-2	1731-1734	Rev	_	_	
+27-3	1734-1735	.	_	_	
+
+#Text=Mr. and Airs.
+28-1	1736-1738	Mr	_	_	
+28-2	1738-1739	.	_	_	
+28-3	1740-1743	and	_	_	
+28-4	1744-1748	Airs	_	_	
+28-5	1748-1749	.	_	_	
+
+#Text=Trenow, who laely took and furnished one of the Marine Villas, are just arrived and proceeded thither this afternoon.
+29-1	1750-1756	Trenow	_	_	
+29-2	1756-1757	,	_	_	
+29-3	1758-1761	who	_	_	
+29-4	1762-1767	laely	_	_	
+29-5	1768-1772	took	_	_	
+29-6	1773-1776	and	_	_	
+29-7	1777-1786	furnished	_	_	
+29-8	1787-1790	one	_	_	
+29-9	1791-1793	of	_	_	
+29-10	1794-1797	the	_	_	
+29-11	1798-1804	Marine	_	_	
+29-12	1805-1811	Villas	_	_	
+29-13	1811-1812	,	_	_	
+29-14	1813-1816	are	_	_	
+29-15	1817-1821	just	_	_	
+29-16	1822-1829	arrived	_	_	
+29-17	1830-1833	and	_	_	
+29-18	1834-1843	proceeded	_	_	
+29-19	1844-1851	thither	_	_	
+29-20	1852-1856	this	_	_	
+29-21	1857-1866	afternoon	_	_	
+29-22	1866-1867	.	_	_	
+
+#Text=Mr.
+30-1	1869-1871	Mr	_	_	
+30-2	1871-1872	.	_	_	
+
+#Text=Vertue’s musical soitees, which have for so many years past contributed so largel] to the smr.sement of his friends and to the improvement of tnuiic in Weymouth, have lately been particularly attractive.
+31-1	1873-1879	Vertue	_	_	
+31-2	1879-1880	’	_	_	
+31-3	1880-1881	s	_	_	
+31-4	1882-1889	musical	_	_	
+31-5	1890-1897	soitees	_	_	
+31-6	1897-1898	,	_	_	
+31-7	1899-1904	which	_	_	
+31-8	1905-1909	have	_	_	
+31-9	1910-1913	for	_	_	
+31-10	1914-1916	so	_	_	
+31-11	1917-1921	many	_	_	
+31-12	1922-1927	years	_	_	
+31-13	1928-1932	past	_	_	
+31-14	1933-1944	contributed	_	_	
+31-15	1945-1947	so	_	_	
+31-16	1948-1954	largel	_	_	
+31-17	1954-1955	]	_	_	
+31-18	1956-1958	to	_	_	
+31-19	1959-1962	the	_	_	
+31-20	1963-1973	smr.sement	_	_	
+31-21	1974-1976	of	_	_	
+31-22	1977-1980	his	_	_	
+31-23	1981-1988	friends	_	_	
+31-24	1989-1992	and	_	_	
+31-25	1993-1995	to	_	_	
+31-26	1996-1999	the	_	_	
+31-27	2000-2011	improvement	_	_	
+31-28	2012-2014	of	_	_	
+31-29	2015-2021	tnuiic	_	_	
+31-30	2022-2024	in	_	_	
+31-31	2025-2033	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+31-32	2033-2034	,	_	_	
+31-33	2035-2039	have	_	_	
+31-34	2040-2046	lately	_	_	
+31-35	2047-2051	been	_	_	
+31-36	2052-2064	particularly	_	_	
+31-37	2065-2075	attractive	_	_	
+31-38	2075-2076	.	_	_	
+
+#Text=It is hghly gratifying to witness the execution and taste of some of theyouthiul amateurs, whose splendid performances, particularly on th; harp and piano-forte, would do honour to prof essors of establishd reputation.
+32-1	2077-2079	It	_	_	
+32-2	2080-2082	is	_	_	
+32-3	2083-2088	hghly	_	_	
+32-4	2089-2099	gratifying	_	_	
+32-5	2100-2102	to	_	_	
+32-6	2103-2110	witness	_	_	
+32-7	2111-2114	the	_	_	
+32-8	2115-2124	execution	_	_	
+32-9	2125-2128	and	_	_	
+32-10	2129-2134	taste	_	_	
+32-11	2135-2137	of	_	_	
+32-12	2138-2142	some	_	_	
+32-13	2143-2145	of	_	_	
+32-14	2146-2157	theyouthiul	_	_	
+32-15	2158-2166	amateurs	_	_	
+32-16	2166-2167	,	_	_	
+32-17	2168-2173	whose	_	_	
+32-18	2174-2182	splendid	_	_	
+32-19	2183-2195	performances	_	_	
+32-20	2195-2196	,	_	_	
+32-21	2197-2209	particularly	_	_	
+32-22	2210-2212	on	_	_	
+32-23	2213-2215	th	_	_	
+32-24	2215-2216	;	_	_	
+32-25	2217-2221	harp	_	_	
+32-26	2222-2225	and	_	_	
+32-27	2226-2237	piano-forte	_	_	
+32-28	2237-2238	,	_	_	
+32-29	2239-2244	would	_	_	
+32-30	2245-2247	do	_	_	
+32-31	2248-2254	honour	_	_	
+32-32	2255-2257	to	_	_	
+32-33	2258-2262	prof	_	_	
+32-34	2263-2269	essors	_	_	
+32-35	2270-2272	of	_	_	
+32-36	2273-2283	establishd	_	_	
+32-37	2284-2294	reputation	_	_	
+32-38	2294-2295	.	_	_	
+
+#Text=On Monday and yesterday it blew a strong gale of wind at N.K.; two vessels belorglog to this Fort, the Providence, sloop, Capt.
+33-1	2296-2298	On	_	_	
+33-2	2299-2305	Monday	_	_	
+33-3	2306-2309	and	_	_	
+33-4	2310-2319	yesterday	_	_	
+33-5	2320-2322	it	_	_	
+33-6	2323-2327	blew	_	_	
+33-7	2328-2329	a	_	_	
+33-8	2330-2336	strong	_	_	
+33-9	2337-2341	gale	_	_	
+33-10	2342-2344	of	_	_	
+33-11	2345-2349	wind	_	_	
+33-12	2350-2352	at	_	_	
+33-13	2353-2356	N.K	_	_	
+33-14	2356-2357	.	_	_	
+33-15	2357-2358	;	_	_	
+33-16	2359-2362	two	_	_	
+33-17	2363-2370	vessels	_	_	
+33-18	2371-2380	belorglog	_	_	
+33-19	2381-2383	to	_	_	
+33-20	2384-2388	this	_	_	
+33-21	2389-2393	Fort	_	_	
+33-22	2393-2394	,	_	_	
+33-23	2395-2398	the	_	_	
+33-24	2399-2409	Providence	_	_	
+33-25	2409-2410	,	_	_	
+33-26	2411-2416	sloop	_	_	
+33-27	2416-2417	,	_	_	
+33-28	2418-2422	Capt	_	_	
+33-29	2422-2423	.	_	_	
+
+#Text=J.
+34-1	2424-2425	J	_	_	
+34-2	2425-2426	.	_	_	
+
+#Text=Bolt, and the Nttingham, brig, Capt.
+35-1	2427-2431	Bolt	_	_	
+35-2	2431-2432	,	_	_	
+35-3	2433-2436	and	_	_	
+35-4	2437-2440	the	_	_	
+35-5	2441-2450	Nttingham	_	_	
+35-6	2450-2451	,	_	_	
+35-7	2452-2456	brig	_	_	
+35-8	2456-2457	,	_	_	
+35-9	2458-2462	Capt	_	_	
+35-10	2462-2463	.	_	_	
+
+#Text=Way, in consequence, went ashore near Portbnd Castle, but it is expected they will be got off without much damigc—During the gale, the elegant Brunswick steamer, from Flymoilhto Portsmouth, with passengers, put in here, and after taking in a >upp)y of coals, started again this morning.
+36-1	2464-2467	Way	_	_	
+36-2	2467-2468	,	_	_	
+36-3	2469-2471	in	_	_	
+36-4	2472-2483	consequence	_	_	
+36-5	2483-2484	,	_	_	
+36-6	2485-2489	went	_	_	
+36-7	2490-2496	ashore	_	_	
+36-8	2497-2501	near	_	_	
+36-9	2502-2509	Portbnd	https://en.wikipedia.org/wiki/Portland\_Castle[7]	BUILDING[7]	
+36-10	2510-2516	Castle	https://en.wikipedia.org/wiki/Portland\_Castle[7]	BUILDING[7]	
+36-11	2516-2517	,	_	_	
+36-12	2518-2521	but	_	_	
+36-13	2522-2524	it	_	_	
+36-14	2525-2527	is	_	_	
+36-15	2528-2536	expected	_	_	
+36-16	2537-2541	they	_	_	
+36-17	2542-2546	will	_	_	
+36-18	2547-2549	be	_	_	
+36-19	2550-2553	got	_	_	
+36-20	2554-2557	off	_	_	
+36-21	2558-2565	without	_	_	
+36-22	2566-2570	much	_	_	
+36-23	2571-2584	damigc—During	_	_	
+36-24	2585-2588	the	_	_	
+36-25	2589-2593	gale	_	_	
+36-26	2593-2594	,	_	_	
+36-27	2595-2598	the	_	_	
+36-28	2599-2606	elegant	_	_	
+36-29	2607-2616	Brunswick	_	_	
+36-30	2617-2624	steamer	_	_	
+36-31	2624-2625	,	_	_	
+36-32	2626-2630	from	_	_	
+36-33	2631-2641	Flymoilhto	https://en.wikipedia.org/wiki/Plymouth	LOC	
+36-33.1	2631-2639	Flymoilh	https://en.wikipedia.org/wiki/Plymouth	LOC	
+36-34	2642-2652	Portsmouth	https://en.wikipedia.org/wiki/Portsmouth	LOC	
+36-35	2652-2653	,	_	_	
+36-36	2654-2658	with	_	_	
+36-37	2659-2669	passengers	_	_	
+36-38	2669-2670	,	_	_	
+36-39	2671-2674	put	_	_	
+36-40	2675-2677	in	_	_	
+36-41	2678-2682	here	_	_	
+36-42	2682-2683	,	_	_	
+36-43	2684-2687	and	_	_	
+36-44	2688-2693	after	_	_	
+36-45	2694-2700	taking	_	_	
+36-46	2701-2703	in	_	_	
+36-47	2704-2705	a	_	_	
+36-48	2706-2707	>	_	_	
+36-49	2707-2710	upp	_	_	
+36-50	2710-2711	)	_	_	
+36-51	2711-2712	y	_	_	
+36-52	2713-2715	of	_	_	
+36-53	2716-2721	coals	_	_	
+36-54	2721-2722	,	_	_	
+36-55	2723-2730	started	_	_	
+36-56	2731-2736	again	_	_	
+36-57	2737-2741	this	_	_	
+36-58	2742-2749	morning	_	_	
+36-59	2749-2750	.	_	_	
+
+#Text=A number of spectaton assembled on the Quay to witnesa her departure.
+37-1	2751-2752	A	_	_	
+37-2	2753-2759	number	_	_	
+37-3	2760-2762	of	_	_	
+37-4	2763-2772	spectaton	_	_	
+37-5	2773-2782	assembled	_	_	
+37-6	2783-2785	on	_	_	
+37-7	2786-2789	the	_	_	
+37-8	2790-2794	Quay	*	STREET	
+37-9	2795-2797	to	_	_	
+37-10	2798-2805	witnesa	_	_	
+37-11	2806-2809	her	_	_	
+37-12	2810-2819	departure	_	_	
+37-13	2819-2820	.	_	_	
+
+#Text=On Monday H.
+38-1	2821-2823	On	_	_	
+38-2	2824-2830	Monday	_	_	
+38-3	2831-2832	H	_	_	
+38-4	2832-2833	.	_	_	
+
+#Text=M. revenue cruizer Sylvia, commanded by Lieut.
+39-1	2834-2835	M	_	_	
+39-2	2835-2836	.	_	_	
+39-3	2837-2844	revenue	_	_	
+39-4	2845-2852	cruizer	_	_	
+39-5	2853-2859	Sylvia	_	_	
+39-6	2859-2860	,	_	_	
+39-7	2861-2870	commanded	_	_	
+39-8	2871-2873	by	_	_	
+39-9	2874-2879	Lieut	_	_	
+39-10	2879-2880	.	_	_	
+
+#Text=Williamson, R.N., brought into this port a French boat, with four French and two English sailors, and 17 casks of spirits, captured after a chase of four hours.
+40-1	2881-2891	Williamson	_	_	
+40-2	2891-2892	,	_	_	
+40-3	2893-2896	R.N	_	_	
+40-4	2896-2897	.	_	_	
+40-5	2897-2898	,	_	_	
+40-6	2899-2906	brought	_	_	
+40-7	2907-2911	into	_	_	
+40-8	2912-2916	this	_	_	
+40-9	2917-2921	port	_	_	
+40-10	2922-2923	a	_	_	
+40-11	2924-2930	French	_	_	
+40-12	2931-2935	boat	_	_	
+40-13	2935-2936	,	_	_	
+40-14	2937-2941	with	_	_	
+40-15	2942-2946	four	_	_	
+40-16	2947-2953	French	_	_	
+40-17	2954-2957	and	_	_	
+40-18	2958-2961	two	_	_	
+40-19	2962-2969	English	_	_	
+40-20	2970-2977	sailors	_	_	
+40-21	2977-2978	,	_	_	
+40-22	2979-2982	and	_	_	
+40-23	2983-2985	17	_	_	
+40-24	2986-2991	casks	_	_	
+40-25	2992-2994	of	_	_	
+40-26	2995-3002	spirits	_	_	
+40-27	3002-3003	,	_	_	
+40-28	3004-3012	captured	_	_	
+40-29	3013-3018	after	_	_	
+40-30	3019-3020	a	_	_	
+40-31	3021-3026	chase	_	_	
+40-32	3027-3029	of	_	_	
+40-33	3030-3034	four	_	_	
+40-34	3035-3040	hours	_	_	
+40-35	3040-3041	.	_	_	

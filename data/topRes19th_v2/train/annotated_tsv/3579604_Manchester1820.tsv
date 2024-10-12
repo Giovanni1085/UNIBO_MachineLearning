@@ -1,0 +1,724 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=©rirjip.al poetry.
+1-1	0-1	©	_	_	
+1-2	1-10	rirjip.al	_	_	
+1-3	11-17	poetry	_	_	
+1-4	17-18	.	_	_	
+
+#Text=TALES AND HISTORIC SCENES.
+2-1	19-24	TALES	_	_	
+2-2	25-28	AND	_	_	
+2-3	29-37	HISTORIC	_	_	
+2-4	38-44	SCENES	_	_	
+2-5	44-45	.	_	_	
+
+#Text=BY MPS.
+3-1	46-48	BY	_	_	
+3-2	49-52	MPS	_	_	
+3-3	52-53	.	_	_	
+
+#Text=HEMANS.
+4-1	54-60	HEMANS	_	_	
+4-2	60-61	.	_	_	
+
+#Text=We observe, with much pleasure, that a new edition of this work has recently been published.
+5-1	62-64	We	_	_	
+5-2	65-72	observe	_	_	
+5-3	72-73	,	_	_	
+5-4	74-78	with	_	_	
+5-5	79-83	much	_	_	
+5-6	84-92	pleasure	_	_	
+5-7	92-93	,	_	_	
+5-8	94-98	that	_	_	
+5-9	99-100	a	_	_	
+5-10	101-104	new	_	_	
+5-11	105-112	edition	_	_	
+5-12	113-115	of	_	_	
+5-13	116-120	this	_	_	
+5-14	121-125	work	_	_	
+5-15	126-129	has	_	_	
+5-16	130-138	recently	_	_	
+5-17	139-143	been	_	_	
+5-18	144-153	published	_	_	
+5-19	153-154	.	_	_	
+
+#Text=Although one of the accomplished authors earlier productions, it contains some of her finest poetry—poetry which combines deep and fervid feeling, with extreme beauty of language and illustration.
+6-1	155-163	Although	_	_	
+6-2	164-167	one	_	_	
+6-3	168-170	of	_	_	
+6-4	171-174	the	_	_	
+6-5	175-187	accomplished	_	_	
+6-6	188-195	authors	_	_	
+6-7	196-203	earlier	_	_	
+6-8	204-215	productions	_	_	
+6-9	215-216	,	_	_	
+6-10	217-219	it	_	_	
+6-11	220-228	contains	_	_	
+6-12	229-233	some	_	_	
+6-13	234-236	of	_	_	
+6-14	237-240	her	_	_	
+6-15	241-247	finest	_	_	
+6-16	248-261	poetry—poetry	_	_	
+6-17	262-267	which	_	_	
+6-18	268-276	combines	_	_	
+6-19	277-281	deep	_	_	
+6-20	282-285	and	_	_	
+6-21	286-292	fervid	_	_	
+6-22	293-300	feeling	_	_	
+6-23	300-301	,	_	_	
+6-24	302-306	with	_	_	
+6-25	307-314	extreme	_	_	
+6-26	315-321	beauty	_	_	
+6-27	322-324	of	_	_	
+6-28	325-333	language	_	_	
+6-29	334-337	and	_	_	
+6-30	338-350	illustration	_	_	
+6-31	350-351	.	_	_	
+
+#Text=We regret that the most beautiful pieces in the volume are so long that it is impossible to give any one entire.
+7-1	352-354	We	_	_	
+7-2	355-361	regret	_	_	
+7-3	362-366	that	_	_	
+7-4	367-370	the	_	_	
+7-5	371-375	most	_	_	
+7-6	376-385	beautiful	_	_	
+7-7	386-392	pieces	_	_	
+7-8	393-395	in	_	_	
+7-9	396-399	the	_	_	
+7-10	400-406	volume	_	_	
+7-11	407-410	are	_	_	
+7-12	411-413	so	_	_	
+7-13	414-418	long	_	_	
+7-14	419-423	that	_	_	
+7-15	424-426	it	_	_	
+7-16	427-429	is	_	_	
+7-17	430-440	impossible	_	_	
+7-18	441-443	to	_	_	
+7-19	444-448	give	_	_	
+7-20	449-452	any	_	_	
+7-21	453-456	one	_	_	
+7-22	457-463	entire	_	_	
+7-23	463-464	.	_	_	
+
+#Text=We extract, however, the close of The Widow of Crescentius, a poem which contains passages •qual to the finest in Lord Byrons Giaour.
+8-1	465-467	We	_	_	
+8-2	468-475	extract	_	_	
+8-3	475-476	,	_	_	
+8-4	477-484	however	_	_	
+8-5	484-485	,	_	_	
+8-6	486-489	the	_	_	
+8-7	490-495	close	_	_	
+8-8	496-498	of	_	_	
+8-9	499-502	The	_	_	
+8-10	503-508	Widow	_	_	
+8-11	509-511	of	_	_	
+8-12	512-523	Crescentius	_	_	
+8-13	523-524	,	_	_	
+8-14	525-526	a	_	_	
+8-15	527-531	poem	_	_	
+8-16	532-537	which	_	_	
+8-17	538-546	contains	_	_	
+8-18	547-555	passages	_	_	
+8-19	556-557	•	_	_	
+8-20	557-561	qual	_	_	
+8-21	562-564	to	_	_	
+8-22	565-568	the	_	_	
+8-23	569-575	finest	_	_	
+8-24	576-578	in	_	_	
+8-25	579-583	Lord	_	_	
+8-26	584-590	Byrons	_	_	
+8-27	591-597	Giaour	_	_	
+8-28	597-598	.	_	_	
+
+#Text=It must be premised that Crescentius having been treacherously put to death by the Emperor Otho, Stephania, his widow, found means to administer poison to the murderer.
+9-1	599-601	It	_	_	
+9-2	602-606	must	_	_	
+9-3	607-609	be	_	_	
+9-4	610-618	premised	_	_	
+9-5	619-623	that	_	_	
+9-6	624-635	Crescentius	_	_	
+9-7	636-642	having	_	_	
+9-8	643-647	been	_	_	
+9-9	648-661	treacherously	_	_	
+9-10	662-665	put	_	_	
+9-11	666-668	to	_	_	
+9-12	669-674	death	_	_	
+9-13	675-677	by	_	_	
+9-14	678-681	the	_	_	
+9-15	682-689	Emperor	_	_	
+9-16	690-694	Otho	_	_	
+9-17	694-695	,	_	_	
+9-18	696-705	Stephania	_	_	
+9-19	705-706	,	_	_	
+9-20	707-710	his	_	_	
+9-21	711-716	widow	_	_	
+9-22	716-717	,	_	_	
+9-23	718-723	found	_	_	
+9-24	724-729	means	_	_	
+9-25	730-732	to	_	_	
+9-26	733-743	administer	_	_	
+9-27	744-750	poison	_	_	
+9-28	751-753	to	_	_	
+9-29	754-757	the	_	_	
+9-30	758-766	murderer	_	_	
+9-31	766-767	.	_	_	
+
+#Text=The following is part of her address to Otho before she is led to execution:— The secret of thy doom to tell, My name alone suffices well I Stephania !
+10-1	768-771	The	_	_	
+10-2	772-781	following	_	_	
+10-3	782-784	is	_	_	
+10-4	785-789	part	_	_	
+10-5	790-792	of	_	_	
+10-6	793-796	her	_	_	
+10-7	797-804	address	_	_	
+10-8	805-807	to	_	_	
+10-9	808-812	Otho	_	_	
+10-10	813-819	before	_	_	
+10-11	820-823	she	_	_	
+10-12	824-826	is	_	_	
+10-13	827-830	led	_	_	
+10-14	831-833	to	_	_	
+10-15	834-843	execution	_	_	
+10-16	843-844	:	_	_	
+10-17	844-845	—	_	_	
+10-18	846-849	The	_	_	
+10-19	850-856	secret	_	_	
+10-20	857-859	of	_	_	
+10-21	860-863	thy	_	_	
+10-22	864-868	doom	_	_	
+10-23	869-871	to	_	_	
+10-24	872-876	tell	_	_	
+10-25	876-877	,	_	_	
+10-26	878-880	My	_	_	
+10-27	881-885	name	_	_	
+10-28	886-891	alone	_	_	
+10-29	892-900	suffices	_	_	
+10-30	901-905	well	_	_	
+10-31	906-907	I	_	_	
+10-32	908-917	Stephania	_	_	
+10-33	918-919	!	_	_	
+
+#Text=—once a heros bride!
+11-1	919-920	—	_	_	
+11-2	920-924	once	_	_	
+11-3	925-926	a	_	_	
+11-4	927-932	heros	_	_	
+11-5	933-938	bride	_	_	
+11-6	938-939	!	_	_	
+
+#Text=Otho!
+12-1	940-944	Otho	_	_	
+12-2	944-945	!	_	_	
+
+#Text=Thou knoWst the rest—he died.
+13-1	946-950	Thou	_	_	
+13-2	951-957	knoWst	_	_	
+13-3	958-961	the	_	_	
+13-4	962-969	rest—he	_	_	
+13-5	970-974	died	_	_	
+13-6	974-975	.	_	_	
+
+#Text=Yes, trusting to a monarchs word, The Roman fell, untried, unheard !
+14-1	976-979	Yes	_	_	
+14-2	979-980	,	_	_	
+14-3	981-989	trusting	_	_	
+14-4	990-992	to	_	_	
+14-5	993-994	a	_	_	
+14-6	995-1003	monarchs	_	_	
+14-7	1004-1008	word	_	_	
+14-8	1008-1009	,	_	_	
+14-9	1010-1013	The	_	_	
+14-10	1014-1019	Roman	_	_	
+14-11	1020-1024	fell	_	_	
+14-12	1024-1025	,	_	_	
+14-13	1026-1033	untried	_	_	
+14-14	1033-1034	,	_	_	
+14-15	1035-1042	unheard	_	_	
+14-16	1043-1044	!	_	_	
+
+#Text=And thou, whose every pledge was vain, How couldst thou trust in aught again ?
+15-1	1045-1048	And	_	_	
+15-2	1049-1053	thou	_	_	
+15-3	1053-1054	,	_	_	
+15-4	1055-1060	whose	_	_	
+15-5	1061-1066	every	_	_	
+15-6	1067-1073	pledge	_	_	
+15-7	1074-1077	was	_	_	
+15-8	1078-1082	vain	_	_	
+15-9	1082-1083	,	_	_	
+15-10	1084-1087	How	_	_	
+15-11	1088-1095	couldst	_	_	
+15-12	1096-1100	thou	_	_	
+15-13	1101-1106	trust	_	_	
+15-14	1107-1109	in	_	_	
+15-15	1110-1115	aught	_	_	
+15-16	1116-1121	again	_	_	
+15-17	1122-1123	?	_	_	
+
+#Text=He died, and I was changed—my soul, A lonely wanderer, spurned control.
+16-1	1124-1126	He	_	_	
+16-2	1127-1131	died	_	_	
+16-3	1131-1132	,	_	_	
+16-4	1133-1136	and	_	_	
+16-5	1137-1138	I	_	_	
+16-6	1139-1142	was	_	_	
+16-7	1143-1153	changed—my	_	_	
+16-8	1154-1158	soul	_	_	
+16-9	1158-1159	,	_	_	
+16-10	1160-1161	A	_	_	
+16-11	1162-1168	lonely	_	_	
+16-12	1169-1177	wanderer	_	_	
+16-13	1177-1178	,	_	_	
+16-14	1179-1186	spurned	_	_	
+16-15	1187-1194	control	_	_	
+16-16	1194-1195	.	_	_	
+
+#Text=From i>eace, and light, and glory hurled, The outcast of a purer world, I saw each brighter hope oerthrown, And lived for one dread task alone.
+17-1	1196-1200	From	_	_	
+17-2	1201-1202	i	_	_	
+17-3	1202-1203	>	_	_	
+17-4	1203-1207	eace	_	_	
+17-5	1207-1208	,	_	_	
+17-6	1209-1212	and	_	_	
+17-7	1213-1218	light	_	_	
+17-8	1218-1219	,	_	_	
+17-9	1220-1223	and	_	_	
+17-10	1224-1229	glory	_	_	
+17-11	1230-1236	hurled	_	_	
+17-12	1236-1237	,	_	_	
+17-13	1238-1241	The	_	_	
+17-14	1242-1249	outcast	_	_	
+17-15	1250-1252	of	_	_	
+17-16	1253-1254	a	_	_	
+17-17	1255-1260	purer	_	_	
+17-18	1261-1266	world	_	_	
+17-19	1266-1267	,	_	_	
+17-20	1268-1269	I	_	_	
+17-21	1270-1273	saw	_	_	
+17-22	1274-1278	each	_	_	
+17-23	1279-1287	brighter	_	_	
+17-24	1288-1292	hope	_	_	
+17-25	1293-1302	oerthrown	_	_	
+17-26	1302-1303	,	_	_	
+17-27	1304-1307	And	_	_	
+17-28	1308-1313	lived	_	_	
+17-29	1314-1317	for	_	_	
+17-30	1318-1321	one	_	_	
+17-31	1322-1327	dread	_	_	
+17-32	1328-1332	task	_	_	
+17-33	1333-1338	alone	_	_	
+17-34	1338-1339	.	_	_	
+
+#Text=The task Ls closed—fulfilled the vow, The hand of death is on thee now.
+18-1	1340-1343	The	_	_	
+18-2	1344-1348	task	_	_	
+18-3	1349-1351	Ls	_	_	
+18-4	1352-1368	closed—fulfilled	_	_	
+18-5	1369-1372	the	_	_	
+18-6	1373-1376	vow	_	_	
+18-7	1376-1377	,	_	_	
+18-8	1378-1381	The	_	_	
+18-9	1382-1386	hand	_	_	
+18-10	1387-1389	of	_	_	
+18-11	1390-1395	death	_	_	
+18-12	1396-1398	is	_	_	
+18-13	1399-1401	on	_	_	
+18-14	1402-1406	thee	_	_	
+18-15	1407-1410	now	_	_	
+18-16	1410-1411	.	_	_	
+
+#Text=Betrayer!
+19-1	1412-1420	Betrayer	_	_	
+19-2	1420-1421	!	_	_	
+
+#Text=in thy turn betrayed, The debt of blood shall soon be paid!
+20-1	1422-1424	in	_	_	
+20-2	1425-1428	thy	_	_	
+20-3	1429-1433	turn	_	_	
+20-4	1434-1442	betrayed	_	_	
+20-5	1442-1443	,	_	_	
+20-6	1444-1447	The	_	_	
+20-7	1448-1452	debt	_	_	
+20-8	1453-1455	of	_	_	
+20-9	1456-1461	blood	_	_	
+20-10	1462-1467	shall	_	_	
+20-11	1468-1472	soon	_	_	
+20-12	1473-1475	be	_	_	
+20-13	1476-1480	paid	_	_	
+20-14	1480-1481	!	_	_	
+
+#Text=Thine hour is come;—the time hath been My heart had shrunk from such a scene; That feeling long is p?
+21-1	1482-1487	Thine	_	_	
+21-2	1488-1492	hour	_	_	
+21-3	1493-1495	is	_	_	
+21-4	1496-1500	come	_	_	
+21-5	1500-1501	;	_	_	
+21-6	1501-1502	—	_	_	
+21-7	1502-1505	the	_	_	
+21-8	1506-1510	time	_	_	
+21-9	1511-1515	hath	_	_	
+21-10	1516-1520	been	_	_	
+21-11	1521-1523	My	_	_	
+21-12	1524-1529	heart	_	_	
+21-13	1530-1533	had	_	_	
+21-14	1534-1540	shrunk	_	_	
+21-15	1541-1545	from	_	_	
+21-16	1546-1550	such	_	_	
+21-17	1551-1552	a	_	_	
+21-18	1553-1558	scene	_	_	
+21-19	1558-1559	;	_	_	
+21-20	1560-1564	That	_	_	
+21-21	1565-1572	feeling	_	_	
+21-22	1573-1577	long	_	_	
+21-23	1578-1580	is	_	_	
+21-24	1581-1582	p	_	_	
+21-25	1582-1583	?	_	_	
+
+#Text=st—my fate Hath made me stern as desolate.
+22-1	1583-1588	st—my	_	_	
+22-2	1589-1593	fate	_	_	
+22-3	1594-1598	Hath	_	_	
+22-4	1599-1603	made	_	_	
+22-5	1604-1606	me	_	_	
+22-6	1607-1612	stern	_	_	
+22-7	1613-1615	as	_	_	
+22-8	1616-1624	desolate	_	_	
+22-9	1624-1625	.	_	_	
+
+#Text=Ye that around me shuddering stand, Ye chiefs and princes of the land I Mourn ye a guilty monarchs doom f Ye wept not oer a patriots tomb!
+23-1	1626-1628	Ye	_	_	
+23-2	1629-1633	that	_	_	
+23-3	1634-1640	around	_	_	
+23-4	1641-1643	me	_	_	
+23-5	1644-1654	shuddering	_	_	
+23-6	1655-1660	stand	_	_	
+23-7	1660-1661	,	_	_	
+23-8	1662-1664	Ye	_	_	
+23-9	1665-1671	chiefs	_	_	
+23-10	1672-1675	and	_	_	
+23-11	1676-1683	princes	_	_	
+23-12	1684-1686	of	_	_	
+23-13	1687-1690	the	_	_	
+23-14	1691-1695	land	_	_	
+23-15	1696-1697	I	_	_	
+23-16	1698-1703	Mourn	_	_	
+23-17	1704-1706	ye	_	_	
+23-18	1707-1708	a	_	_	
+23-19	1709-1715	guilty	_	_	
+23-20	1716-1724	monarchs	_	_	
+23-21	1725-1729	doom	_	_	
+23-22	1730-1731	f	_	_	
+23-23	1732-1734	Ye	_	_	
+23-24	1735-1739	wept	_	_	
+23-25	1740-1743	not	_	_	
+23-26	1744-1747	oer	_	_	
+23-27	1748-1749	a	_	_	
+23-28	1750-1758	patriots	_	_	
+23-29	1759-1763	tomb	_	_	
+23-30	1763-1764	!	_	_	
+
+#Text=He sleeps unhonoureu—yet be mine To share his low neglected shrine.
+24-1	1765-1767	He	_	_	
+24-2	1768-1774	sleeps	_	_	
+24-3	1775-1789	unhonoureu—yet	_	_	
+24-4	1790-1792	be	_	_	
+24-5	1793-1797	mine	_	_	
+24-6	1798-1800	To	_	_	
+24-7	1801-1806	share	_	_	
+24-8	1807-1810	his	_	_	
+24-9	1811-1814	low	_	_	
+24-10	1815-1824	neglected	_	_	
+24-11	1825-1831	shrine	_	_	
+24-12	1831-1832	.	_	_	
+
+#Text=His soul wh>\\ freedom finds a home.
+25-1	1833-1836	His	_	_	
+25-2	1837-1841	soul	_	_	
+25-3	1842-1844	wh	_	_	
+25-4	1844-1845	>	_	_	
+25-5	1845-1846	\	_	_	
+25-6	1847-1854	freedom	_	_	
+25-7	1855-1860	finds	_	_	
+25-8	1861-1862	a	_	_	
+25-9	1863-1867	home	_	_	
+25-10	1867-1868	.	_	_	
+
+#Text=His grave is that of glory—Rome!
+26-1	1869-1872	His	_	_	
+26-2	1873-1878	grave	_	_	
+26-3	1879-1881	is	_	_	
+26-4	1882-1886	that	_	_	
+26-5	1887-1889	of	_	_	
+26-6	1890-1900	glory—Rome	_	_	
+26-6.1	1896-1900	Rome	https://en.wikipedia.org/wiki/Rome	LOC	
+26-7	1900-1901	!	_	_	
+
+#Text=Are not the great of old with her, That city of the sepulchre ?
+27-1	1902-1905	Are	_	_	
+27-2	1906-1909	not	_	_	
+27-3	1910-1913	the	_	_	
+27-4	1914-1919	great	_	_	
+27-5	1920-1922	of	_	_	
+27-6	1923-1926	old	_	_	
+27-7	1927-1931	with	_	_	
+27-8	1932-1935	her	_	_	
+27-9	1935-1936	,	_	_	
+27-10	1937-1941	That	_	_	
+27-11	1942-1946	city	_	_	
+27-12	1947-1949	of	_	_	
+27-13	1950-1953	the	_	_	
+27-14	1954-1963	sepulchre	_	_	
+27-15	1964-1965	?	_	_	
+
+#Text=Lead me to death !
+28-1	1966-1970	Lead	_	_	
+28-2	1971-1973	me	_	_	
+28-3	1974-1976	to	_	_	
+28-4	1977-1982	death	_	_	
+28-5	1983-1984	!	_	_	
+
+#Text=and let me share The slumbers of the mighty there 1 The day departs—that fearful day Fades in calm loveliness away: From purple heavens its lingering heam Seems meltmg into Tibers stream, And softly tints each Roman hill With glowing light, as clear and still As If, unstained by crime or woe, Its hours had passed in silent flow.
+29-1	1985-1988	and	_	_	
+29-2	1989-1992	let	_	_	
+29-3	1993-1995	me	_	_	
+29-4	1996-2001	share	_	_	
+29-5	2002-2005	The	_	_	
+29-6	2006-2014	slumbers	_	_	
+29-7	2015-2017	of	_	_	
+29-8	2018-2021	the	_	_	
+29-9	2022-2028	mighty	_	_	
+29-10	2029-2034	there	_	_	
+29-11	2035-2036	1	_	_	
+29-12	2037-2040	The	_	_	
+29-13	2041-2044	day	_	_	
+29-14	2045-2057	departs—that	_	_	
+29-15	2058-2065	fearful	_	_	
+29-16	2066-2069	day	_	_	
+29-17	2070-2075	Fades	_	_	
+29-18	2076-2078	in	_	_	
+29-19	2079-2083	calm	_	_	
+29-20	2084-2094	loveliness	_	_	
+29-21	2095-2099	away	_	_	
+29-22	2099-2100	:	_	_	
+29-23	2101-2105	From	_	_	
+29-24	2106-2112	purple	_	_	
+29-25	2113-2120	heavens	_	_	
+29-26	2121-2124	its	_	_	
+29-27	2125-2134	lingering	_	_	
+29-28	2135-2139	heam	_	_	
+29-29	2140-2145	Seems	_	_	
+29-30	2146-2152	meltmg	_	_	
+29-31	2153-2157	into	_	_	
+29-32	2158-2164	Tibers	https://en.wikipedia.org/wiki/Tiber	LOC	
+29-33	2165-2171	stream	_	_	
+29-34	2171-2172	,	_	_	
+29-35	2173-2176	And	_	_	
+29-36	2177-2183	softly	_	_	
+29-37	2184-2189	tints	_	_	
+29-38	2190-2194	each	_	_	
+29-39	2195-2200	Roman	_	_	
+29-40	2201-2205	hill	_	_	
+29-41	2206-2210	With	_	_	
+29-42	2211-2218	glowing	_	_	
+29-43	2219-2224	light	_	_	
+29-44	2224-2225	,	_	_	
+29-45	2226-2228	as	_	_	
+29-46	2229-2234	clear	_	_	
+29-47	2235-2238	and	_	_	
+29-48	2239-2244	still	_	_	
+29-49	2245-2247	As	_	_	
+29-50	2248-2250	If	_	_	
+29-51	2250-2251	,	_	_	
+29-52	2252-2261	unstained	_	_	
+29-53	2262-2264	by	_	_	
+29-54	2265-2270	crime	_	_	
+29-55	2271-2273	or	_	_	
+29-56	2274-2277	woe	_	_	
+29-57	2277-2278	,	_	_	
+29-58	2279-2282	Its	_	_	
+29-59	2283-2288	hours	_	_	
+29-60	2289-2292	had	_	_	
+29-61	2293-2299	passed	_	_	
+29-62	2300-2302	in	_	_	
+29-63	2303-2309	silent	_	_	
+29-64	2310-2314	flow	_	_	
+29-65	2314-2315	.	_	_	
+
+#Text=The day sets calmly—it hath been Market!
+30-1	2316-2319	The	_	_	
+30-2	2320-2323	day	_	_	
+30-3	2324-2328	sets	_	_	
+30-4	2329-2338	calmly—it	_	_	
+30-5	2339-2343	hath	_	_	
+30-6	2344-2348	been	_	_	
+30-7	2349-2355	Market	_	_	
+30-8	2355-2356	!	_	_	
+
+#Text=with a strange and awful scene: One guilty bosom throbs no more, Anil Othos pangs and life are oer.
+31-1	2357-2361	with	_	_	
+31-2	2362-2363	a	_	_	
+31-3	2364-2371	strange	_	_	
+31-4	2372-2375	and	_	_	
+31-5	2376-2381	awful	_	_	
+31-6	2382-2387	scene	_	_	
+31-7	2387-2388	:	_	_	
+31-8	2389-2392	One	_	_	
+31-9	2393-2399	guilty	_	_	
+31-10	2400-2405	bosom	_	_	
+31-11	2406-2412	throbs	_	_	
+31-12	2413-2415	no	_	_	
+31-13	2416-2420	more	_	_	
+31-14	2420-2421	,	_	_	
+31-15	2422-2426	Anil	_	_	
+31-16	2427-2432	Othos	_	_	
+31-17	2433-2438	pangs	_	_	
+31-18	2439-2442	and	_	_	
+31-19	2443-2447	life	_	_	
+31-20	2448-2451	are	_	_	
+31-21	2452-2455	oer	_	_	
+31-22	2455-2456	.	_	_	
+
+#Text=And thou, ere yet another sun His burning race hath brightly run, Released from anguish by thy foes.
+32-1	2457-2460	And	_	_	
+32-2	2461-2465	thou	_	_	
+32-3	2465-2466	,	_	_	
+32-4	2467-2470	ere	_	_	
+32-5	2471-2474	yet	_	_	
+32-6	2475-2482	another	_	_	
+32-7	2483-2486	sun	_	_	
+32-8	2487-2490	His	_	_	
+32-9	2491-2498	burning	_	_	
+32-10	2499-2503	race	_	_	
+32-11	2504-2508	hath	_	_	
+32-12	2509-2517	brightly	_	_	
+32-13	2518-2521	run	_	_	
+32-14	2521-2522	,	_	_	
+32-15	2523-2531	Released	_	_	
+32-16	2532-2536	from	_	_	
+32-17	2537-2544	anguish	_	_	
+32-18	2545-2547	by	_	_	
+32-19	2548-2551	thy	_	_	
+32-20	2552-2556	foes	_	_	
+32-21	2556-2557	.	_	_	
+
+#Text=Daughter of Rome!
+33-1	2558-2566	Daughter	_	_	
+33-2	2567-2569	of	_	_	
+33-3	2570-2574	Rome	https://en.wikipedia.org/wiki/Rome	LOC	
+33-4	2574-2575	!	_	_	
+
+#Text=shalt find repose.
+34-1	2576-2581	shalt	_	_	
+34-2	2582-2586	find	_	_	
+34-3	2587-2593	repose	_	_	
+34-4	2593-2594	.	_	_	
+
+#Text=Yes, on thy countrys glowing sky Fix yet once more thy parting eye!
+35-1	2595-2598	Yes	_	_	
+35-2	2598-2599	,	_	_	
+35-3	2600-2602	on	_	_	
+35-4	2603-2606	thy	_	_	
+35-5	2607-2615	countrys	_	_	
+35-6	2616-2623	glowing	_	_	
+35-7	2624-2627	sky	_	_	
+35-8	2628-2631	Fix	_	_	
+35-9	2632-2635	yet	_	_	
+35-10	2636-2640	once	_	_	
+35-11	2641-2645	more	_	_	
+35-12	2646-2649	thy	_	_	
+35-13	2650-2657	parting	_	_	
+35-14	2658-2661	eye	_	_	
+35-15	2661-2662	!	_	_	
+
+#Text=A few shut hours—and all shall be Tbe silent and the past for thee.
+36-1	2663-2664	A	_	_	
+36-2	2665-2668	few	_	_	
+36-3	2669-2673	shut	_	_	
+36-4	2674-2683	hours—and	_	_	
+36-5	2684-2687	all	_	_	
+36-6	2688-2693	shall	_	_	
+36-7	2694-2696	be	_	_	
+36-8	2697-2700	Tbe	_	_	
+36-9	2701-2707	silent	_	_	
+36-10	2708-2711	and	_	_	
+36-11	2712-2715	the	_	_	
+36-12	2716-2720	past	_	_	
+36-13	2721-2724	for	_	_	
+36-14	2725-2729	thee	_	_	
+36-15	2729-2730	.	_	_	
+
+#Text=Oh !
+37-1	2731-2733	Oh	_	_	
+37-2	2734-2735	!	_	_	
+
+#Text=thus with tempests of a day We struggle, and we pass away, V Like the wild billows as they sweep, Leaving no vestige on the deep!
+38-1	2736-2740	thus	_	_	
+38-2	2741-2745	with	_	_	
+38-3	2746-2754	tempests	_	_	
+38-4	2755-2757	of	_	_	
+38-5	2758-2759	a	_	_	
+38-6	2760-2763	day	_	_	
+38-7	2764-2766	We	_	_	
+38-8	2767-2775	struggle	_	_	
+38-9	2775-2776	,	_	_	
+38-10	2777-2780	and	_	_	
+38-11	2781-2783	we	_	_	
+38-12	2784-2788	pass	_	_	
+38-13	2789-2793	away	_	_	
+38-14	2793-2794	,	_	_	
+38-15	2795-2796	V	_	_	
+38-16	2797-2801	Like	_	_	
+38-17	2802-2805	the	_	_	
+38-18	2806-2810	wild	_	_	
+38-19	2811-2818	billows	_	_	
+38-20	2819-2821	as	_	_	
+38-21	2822-2826	they	_	_	
+38-22	2827-2832	sweep	_	_	
+38-23	2832-2833	,	_	_	
+38-24	2834-2841	Leaving	_	_	
+38-25	2842-2844	no	_	_	
+38-26	2845-2852	vestige	_	_	
+38-27	2853-2855	on	_	_	
+38-28	2856-2859	the	_	_	
+38-29	2860-2864	deep	_	_	
+38-30	2864-2865	!	_	_	
+
+#Text=And oer thy dark and lowly bed The sons of future days shall tread, The pangs, the conflicts, of thy lot.
+39-1	2866-2869	And	_	_	
+39-2	2870-2873	oer	_	_	
+39-3	2874-2877	thy	_	_	
+39-4	2878-2882	dark	_	_	
+39-5	2883-2886	and	_	_	
+39-6	2887-2892	lowly	_	_	
+39-7	2893-2896	bed	_	_	
+39-8	2897-2900	The	_	_	
+39-9	2901-2905	sons	_	_	
+39-10	2906-2908	of	_	_	
+39-11	2909-2915	future	_	_	
+39-12	2916-2920	days	_	_	
+39-13	2921-2926	shall	_	_	
+39-14	2927-2932	tread	_	_	
+39-15	2932-2933	,	_	_	
+39-16	2934-2937	The	_	_	
+39-17	2938-2943	pangs	_	_	
+39-18	2943-2944	,	_	_	
+39-19	2945-2948	the	_	_	
+39-20	2949-2958	conflicts	_	_	
+39-21	2958-2959	,	_	_	
+39-22	2960-2962	of	_	_	
+39-23	2963-2966	thy	_	_	
+39-24	2967-2970	lot	_	_	
+39-25	2970-2971	.	_	_	
+
+#Text=By them unknown, by thee forgot.
+40-1	2972-2974	By	_	_	
+40-2	2975-2979	them	_	_	
+40-3	2980-2987	unknown	_	_	
+40-4	2987-2988	,	_	_	
+40-5	2989-2991	by	_	_	
+40-6	2992-2996	thee	_	_	
+40-7	2997-3003	forgot	_	_	
+40-8	3003-3004	.	_	_	

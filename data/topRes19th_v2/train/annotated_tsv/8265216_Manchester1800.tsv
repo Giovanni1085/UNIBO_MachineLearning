@@ -1,0 +1,838 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=iHancfjrcter, TUESDAY, MAY 29, 1804.
+1-1	0-12	iHancfjrcter	https://en.wikipedia.org/wiki/Manchester	LOC	
+1-2	12-13	,	_	_	
+1-3	14-21	TUESDAY	_	_	
+1-4	21-22	,	_	_	
+1-5	23-26	MAY	_	_	
+1-6	27-29	29	_	_	
+1-7	29-30	,	_	_	
+1-8	31-35	1804	_	_	
+1-9	35-36	.	_	_	
+
+#Text=Manchester Infirmary.
+2-1	37-47	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+2-2	48-57	Infirmary	_	_	
+2-3	57-58	.	_	_	
+
+#Text=At the Weekly Board Y’esterday, the following Patients were l)i«rhi»*ed and Admit red, 1 u.
+3-1	59-61	At	_	_	
+3-2	62-65	the	_	_	
+3-3	66-72	Weekly	_	_	
+3-4	73-78	Board	_	_	
+3-5	79-80	Y	_	_	
+3-6	80-81	’	_	_	
+3-7	81-89	esterday	_	_	
+3-8	89-90	,	_	_	
+3-9	91-94	the	_	_	
+3-10	95-104	following	_	_	
+3-11	105-113	Patients	_	_	
+3-12	114-118	were	_	_	
+3-13	119-120	l	_	_	
+3-14	120-121	)	_	_	
+3-15	121-122	i	_	_	
+3-16	122-123	«	_	_	
+3-17	123-126	rhi	_	_	
+3-18	126-127	»	_	_	
+3-19	127-128	*	_	_	
+3-20	128-130	ed	_	_	
+3-21	131-134	and	_	_	
+3-22	135-140	Admit	_	_	
+3-23	141-144	red	_	_	
+3-24	144-145	,	_	_	
+3-25	146-147	1	_	_	
+3-26	148-149	u	_	_	
+3-27	149-150	.	_	_	
+
+#Text=Chaplain attending this Week, the Rev.
+4-1	151-159	Chaplain	_	_	
+4-2	160-169	attending	_	_	
+4-3	170-174	this	_	_	
+4-4	175-179	Week	_	_	
+4-5	179-180	,	_	_	
+4-6	181-184	the	_	_	
+4-7	185-188	Rev	_	_	
+4-8	188-189	.	_	_	
+
+#Text=Geo.
+5-1	190-193	Geo	_	_	
+5-2	193-194	.	_	_	
+
+#Text=Hutchinson, .
+6-1	195-205	Hutchinson	_	_	
+6-2	205-206	,	_	_	
+6-3	207-208	.	_	_	
+
+#Text=Moose Visitors a»>d Inspectors to both Honritals, also for this week Messrs, Braddo k, Edge a»d C>.
+7-1	209-214	Moose	_	_	
+7-2	215-223	Visitors	_	_	
+7-3	224-225	a	_	_	
+7-4	225-226	»	_	_	
+7-5	226-227	>	_	_	
+7-6	227-228	d	_	_	
+7-7	229-239	Inspectors	_	_	
+7-8	240-242	to	_	_	
+7-9	243-247	both	_	_	
+7-10	248-257	Honritals	_	_	
+7-11	257-258	,	_	_	
+7-12	259-263	also	_	_	
+7-13	264-267	for	_	_	
+7-14	268-272	this	_	_	
+7-15	273-277	week	_	_	
+7-16	278-284	Messrs	_	_	
+7-17	284-285	,	_	_	
+7-18	286-292	Braddo	_	_	
+7-19	293-294	k	_	_	
+7-20	294-295	,	_	_	
+7-21	296-300	Edge	_	_	
+7-22	301-302	a	_	_	
+7-23	302-303	»	_	_	
+7-24	303-304	d	_	_	
+7-25	305-306	C	_	_	
+7-26	306-307	>	_	_	
+7-27	307-308	.	_	_	
+
+#Text=H. and 1.
+8-1	309-310	H	_	_	
+8-2	310-311	.	_	_	
+8-3	312-315	and	_	_	
+8-4	316-317	1	_	_	
+8-5	317-318	.	_	_	
+
+#Text=Barton, Horradailet and Co* B irtoii and Son>, Barton and fish wick, Jno Barker and Cu Mancljefler Overseers Weekly Report* Number in the House •<ja— Cash paid to t ujal regular Poor, and Militia C43L >B*- lU.
+9-1	319-325	Barton	_	_	
+9-2	325-326	,	_	_	
+9-3	327-338	Horradailet	_	_	
+9-4	339-342	and	_	_	
+9-5	343-345	Co	_	_	
+9-6	345-346	*	_	_	
+9-7	347-348	B	_	_	
+9-8	349-355	irtoii	_	_	
+9-9	356-359	and	_	_	
+9-10	360-363	Son	_	_	
+9-11	363-364	>	_	_	
+9-12	364-365	,	_	_	
+9-13	366-372	Barton	_	_	
+9-14	373-376	and	_	_	
+9-15	377-381	fish	_	_	
+9-16	382-386	wick	_	_	
+9-17	386-387	,	_	_	
+9-18	388-391	Jno	_	_	
+9-19	392-398	Barker	_	_	
+9-20	399-402	and	_	_	
+9-21	403-405	Cu	_	_	
+9-22	406-417	Mancljefler	https://en.wikipedia.org/wiki/Manchester	LOC	
+9-23	418-427	Overseers	_	_	
+9-24	428-434	Weekly	_	_	
+9-25	435-441	Report	_	_	
+9-26	441-442	*	_	_	
+9-27	443-449	Number	_	_	
+9-28	450-452	in	_	_	
+9-29	453-456	the	_	_	
+9-30	457-462	House	_	_	
+9-31	463-464	•	_	_	
+9-32	464-465	<	_	_	
+9-33	465-467	ja	_	_	
+9-34	467-468	—	_	_	
+9-35	469-473	Cash	_	_	
+9-36	474-478	paid	_	_	
+9-37	479-481	to	_	_	
+9-38	482-483	t	_	_	
+9-39	484-488	ujal	_	_	
+9-40	489-496	regular	_	_	
+9-41	497-501	Poor	_	_	
+9-42	501-502	,	_	_	
+9-43	503-506	and	_	_	
+9-44	507-514	Militia	_	_	
+9-45	515-519	C43L	_	_	
+9-46	520-521	>	_	_	
+9-47	521-522	B	_	_	
+9-48	522-523	*	_	_	
+9-49	523-524	-	_	_	
+9-50	525-527	lU	_	_	
+9-51	527-528	.	_	_	
+
+#Text=LYING-IN HOSPITAL.
+10-1	529-537	LYING-IN	_	_	
+10-2	538-546	HOSPITAL	_	_	
+10-3	546-547	.	_	_	
+
+#Text=Admired in-patient* a.
+11-1	548-555	Admired	_	_	
+11-2	556-566	in-patient	_	_	
+11-3	566-567	*	_	_	
+11-4	568-569	a	_	_	
+11-5	569-570	.	_	_	
+
+#Text=—Home patient* 7 Diicharged, In-patient* 3—Hunie-parieat* 1. j Inoculated for the Cow-Pox, 13.
+12-1	570-571	—	_	_	
+12-2	571-575	Home	_	_	
+12-3	576-583	patient	_	_	
+12-4	583-584	*	_	_	
+12-5	585-586	7	_	_	
+12-6	587-597	Diicharged	_	_	
+12-7	597-598	,	_	_	
+12-8	599-609	In-patient	_	_	
+12-9	609-610	*	_	_	
+12-10	611-612	3	_	_	
+12-11	612-613	—	_	_	
+12-12	613-626	Hunie-parieat	_	_	
+12-13	626-627	*	_	_	
+12-14	628-629	1	_	_	
+12-15	629-630	.	_	_	
+12-16	631-632	j	_	_	
+12-17	633-643	Inoculated	_	_	
+12-18	644-647	for	_	_	
+12-19	648-651	the	_	_	
+12-20	652-659	Cow-Pox	_	_	
+12-21	659-660	,	_	_	
+12-22	661-663	13	_	_	
+12-23	663-664	.	_	_	
+
+#Text=On the book* for adnvdinn 12.
+13-1	665-667	On	_	_	
+13-2	668-671	the	_	_	
+13-3	672-676	book	_	_	
+13-4	676-677	*	_	_	
+13-5	678-681	for	_	_	
+13-6	682-690	adnvdinn	_	_	
+13-7	691-693	12	_	_	
+13-8	693-694	.	_	_	
+
+#Text=Remain in the Houlie 3 Women and 3 Children.
+14-1	695-701	Remain	_	_	
+14-2	702-704	in	_	_	
+14-3	705-708	the	_	_	
+14-4	709-715	Houlie	_	_	
+14-5	716-717	3	_	_	
+14-6	718-723	Women	_	_	
+14-7	724-727	and	_	_	
+14-8	728-729	3	_	_	
+14-9	730-738	Children	_	_	
+14-10	738-739	.	_	_	
+
+#Text=Chaplain for the euiuing week.
+15-1	740-748	Chaplain	_	_	
+15-2	749-752	for	_	_	
+15-3	753-756	the	_	_	
+15-4	757-764	euiuing	_	_	
+15-5	765-769	week	_	_	
+15-6	769-770	.	_	_	
+
+#Text=Rev E Hooih, A B Houfe Vifitora, Mr Partington.
+16-1	771-774	Rev	_	_	
+16-2	775-776	E	_	_	
+16-3	777-782	Hooih	_	_	
+16-4	782-783	,	_	_	
+16-5	784-785	A	_	_	
+16-6	786-787	B	_	_	
+16-7	788-793	Houfe	_	_	
+16-8	794-802	Vifitora	_	_	
+16-9	802-803	,	_	_	
+16-10	804-806	Mr	_	_	
+16-11	807-817	Partington	_	_	
+16-12	817-818	.	_	_	
+
+#Text=Sir Robert Peel.
+17-1	819-822	Sir	_	_	
+17-2	823-829	Robert	_	_	
+17-3	830-834	Peel	_	_	
+17-4	834-835	.	_	_	
+
+#Text=B*rt.
+18-1	836-837	B	_	_	
+18-2	837-838	*	_	_	
+18-3	838-840	rt	_	_	
+18-4	840-841	.	_	_	
+
+#Text=M P Mr f Phillipa, Mr Paul.
+19-1	842-843	M	_	_	
+19-2	844-845	P	_	_	
+19-3	846-848	Mr	_	_	
+19-4	849-850	f	_	_	
+19-5	851-859	Phillipa	_	_	
+19-6	859-860	,	_	_	
+19-7	861-863	Mr	_	_	
+19-8	864-868	Paul	_	_	
+19-9	868-869	.	_	_	
+
+#Text=BIRTH.
+20-1	871-876	BIRTH	_	_	
+20-2	876-877	.	_	_	
+
+#Text=On Thurfday fe’nnight Mr* Marr Henfhatv, of Larierwnrth, wa« fairly delivered ol four children, I three male* and one female, all of whom arc living and likely to do well —h’trtLnmfito* M treaty.
+21-1	878-880	On	_	_	
+21-2	881-889	Thurfday	_	_	
+21-3	890-892	fe	_	_	
+21-4	892-893	’	_	_	
+21-5	893-899	nnight	_	_	
+21-6	900-902	Mr	_	_	
+21-7	902-903	*	_	_	
+21-8	904-908	Marr	_	_	
+21-9	909-917	Henfhatv	_	_	
+21-10	917-918	,	_	_	
+21-11	919-921	of	_	_	
+21-12	922-933	Larierwnrth	https://en.wikipedia.org/wiki/Lutterworth	LOC	
+21-13	933-934	,	_	_	
+21-14	935-937	wa	_	_	
+21-15	937-938	«	_	_	
+21-16	939-945	fairly	_	_	
+21-17	946-955	delivered	_	_	
+21-18	956-958	ol	_	_	
+21-19	959-963	four	_	_	
+21-20	964-972	children	_	_	
+21-21	972-973	,	_	_	
+21-22	974-975	I	_	_	
+21-23	976-981	three	_	_	
+21-24	982-986	male	_	_	
+21-25	986-987	*	_	_	
+21-26	988-991	and	_	_	
+21-27	992-995	one	_	_	
+21-28	996-1002	female	_	_	
+21-29	1002-1003	,	_	_	
+21-30	1004-1007	all	_	_	
+21-31	1008-1010	of	_	_	
+21-32	1011-1015	whom	_	_	
+21-33	1016-1019	arc	_	_	
+21-34	1020-1026	living	_	_	
+21-35	1027-1030	and	_	_	
+21-36	1031-1037	likely	_	_	
+21-37	1038-1040	to	_	_	
+21-38	1041-1043	do	_	_	
+21-39	1044-1048	well	_	_	
+21-40	1049-1050	—	_	_	
+21-41	1050-1051	h	_	_	
+21-42	1051-1052	’	_	_	
+21-43	1052-1062	trtLnmfito	_	_	
+21-44	1062-1063	*	_	_	
+21-45	1064-1065	M	_	_	
+21-46	1066-1072	treaty	_	_	
+21-47	1072-1073	.	_	_	
+
+#Text=MARRIED.
+22-1	1074-1081	MARRIED	_	_	
+22-2	1081-1082	.	_	_	
+
+#Text=On Thurfday fe’nnight, at Holton by the Sand*, Mr John Burnet, of Prrilon, linen draper, to Mif* Betty Bland, of Boton ah>refa;d.
+23-1	1083-1085	On	_	_	
+23-2	1086-1094	Thurfday	_	_	
+23-3	1095-1097	fe	_	_	
+23-4	1097-1098	’	_	_	
+23-5	1098-1104	nnight	_	_	
+23-6	1104-1105	,	_	_	
+23-7	1106-1108	at	_	_	
+23-8	1109-1115	Holton	https://en.wikipedia.org/wiki/Bolton-le-Sands[1]	LOC[1]	
+23-9	1116-1118	by	https://en.wikipedia.org/wiki/Bolton-le-Sands[1]	LOC[1]	
+23-10	1119-1122	the	https://en.wikipedia.org/wiki/Bolton-le-Sands[1]	LOC[1]	
+23-11	1123-1127	Sand	https://en.wikipedia.org/wiki/Bolton-le-Sands[1]	LOC[1]	
+23-12	1127-1128	*	_	_	
+23-13	1128-1129	,	_	_	
+23-14	1130-1132	Mr	_	_	
+23-15	1133-1137	John	_	_	
+23-16	1138-1144	Burnet	_	_	
+23-17	1144-1145	,	_	_	
+23-18	1146-1148	of	_	_	
+23-19	1149-1156	Prrilon	https://en.wikipedia.org/wiki/Preston,\_Lancashire	LOC	
+23-20	1156-1157	,	_	_	
+23-21	1158-1163	linen	_	_	
+23-22	1164-1170	draper	_	_	
+23-23	1170-1171	,	_	_	
+23-24	1172-1174	to	_	_	
+23-25	1175-1178	Mif	_	_	
+23-26	1178-1179	*	_	_	
+23-27	1180-1185	Betty	_	_	
+23-28	1186-1191	Bland	_	_	
+23-29	1191-1192	,	_	_	
+23-30	1193-1195	of	_	_	
+23-31	1196-1201	Boton	https://en.wikipedia.org/wiki/Bolton-le-Sands	LOC	
+23-32	1202-1204	ah	_	_	
+23-33	1204-1205	>	_	_	
+23-34	1205-1209	refa	_	_	
+23-35	1209-1210	;	_	_	
+23-36	1210-1211	d	_	_	
+23-37	1211-1212	.	_	_	
+
+#Text=—Tuefday (all, at Northwith, Mr Thomas Fairclough, merchant, of l.iver pool, to Mifs M.
+24-1	1212-1213	—	_	_	
+24-2	1213-1220	Tuefday	_	_	
+24-3	1221-1222	(	_	_	
+24-4	1222-1225	all	_	_	
+24-5	1225-1226	,	_	_	
+24-6	1227-1229	at	_	_	
+24-7	1230-1239	Northwith	https://en.wikipedia.org/wiki/Northwich	LOC	
+24-8	1239-1240	,	_	_	
+24-9	1241-1243	Mr	_	_	
+24-10	1244-1250	Thomas	_	_	
+24-11	1251-1261	Fairclough	_	_	
+24-12	1261-1262	,	_	_	
+24-13	1263-1271	merchant	_	_	
+24-14	1271-1272	,	_	_	
+24-15	1273-1275	of	_	_	
+24-16	1276-1282	l.iver	https://en.wikipedia.org/wiki/Liverpool[2]	LOC[2]	
+24-17	1283-1287	pool	https://en.wikipedia.org/wiki/Liverpool[2]	LOC[2]	
+24-18	1287-1288	,	_	_	
+24-19	1289-1291	to	_	_	
+24-20	1292-1296	Mifs	_	_	
+24-21	1297-1298	M	_	_	
+24-22	1298-1299	.	_	_	
+
+#Text=Butter, ol Penny’s lane, near Northwith —-On Tuefday laft, at the Collegiate Church.
+25-1	1300-1306	Butter	_	_	
+25-2	1306-1307	,	_	_	
+25-3	1308-1310	ol	_	_	
+25-4	1311-1316	Penny	*[3]	STREET[3]	
+25-5	1316-1317	’	*[3]	STREET[3]	
+25-6	1317-1318	s	*[3]	STREET[3]	
+25-7	1319-1323	lane	*[3]	STREET[3]	
+25-8	1323-1324	,	_	_	
+25-9	1325-1329	near	_	_	
+25-10	1330-1339	Northwith	https://en.wikipedia.org/wiki/Northwich	LOC	
+25-11	1340-1341	—	_	_	
+25-12	1341-1342	-	_	_	
+25-13	1342-1344	On	_	_	
+25-14	1345-1352	Tuefday	_	_	
+25-15	1353-1357	laft	_	_	
+25-16	1357-1358	,	_	_	
+25-17	1359-1361	at	_	_	
+25-18	1362-1365	the	_	_	
+25-19	1366-1376	Collegiate	https://en.wikipedia.org/wiki/Manchester\_Cathedral[4]	BUILDING[4]	
+25-20	1377-1383	Church	https://en.wikipedia.org/wiki/Manchester\_Cathedral[4]	BUILDING[4]	
+25-21	1383-1384	.	_	_	
+
+#Text=Mi Adam Hatfield, to Mr* Elizabeth Howard, widow, of Salford.
+26-1	1385-1387	Mi	_	_	
+26-2	1388-1392	Adam	_	_	
+26-3	1393-1401	Hatfield	_	_	
+26-4	1401-1402	,	_	_	
+26-5	1403-1405	to	_	_	
+26-6	1406-1408	Mr	_	_	
+26-7	1408-1409	*	_	_	
+26-8	1410-1419	Elizabeth	_	_	
+26-9	1420-1426	Howard	_	_	
+26-10	1426-1427	,	_	_	
+26-11	1428-1433	widow	_	_	
+26-12	1433-1434	,	_	_	
+26-13	1435-1437	of	_	_	
+26-14	1438-1445	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+26-15	1445-1446	.	_	_	
+
+#Text=—Yeftcrday (Monday,) Mr, William Clapham, ol l,ced«, merchant, to Mif* Blanchard, daughter of Mr.
+27-1	1446-1447	—	_	_	
+27-2	1447-1456	Yeftcrday	_	_	
+27-3	1457-1458	(	_	_	
+27-4	1458-1464	Monday	_	_	
+27-5	1464-1465	,	_	_	
+27-6	1465-1466	)	_	_	
+27-7	1467-1469	Mr	_	_	
+27-8	1469-1470	,	_	_	
+27-9	1471-1478	William	_	_	
+27-10	1479-1486	Clapham	_	_	
+27-11	1486-1487	,	_	_	
+27-12	1488-1490	ol	_	_	
+27-13	1491-1492	l	https://en.wikipedia.org/wiki/Leeds[5]	LOC[5]	
+27-14	1492-1493	,	https://en.wikipedia.org/wiki/Leeds[5]	LOC[5]	
+27-15	1493-1496	ced	https://en.wikipedia.org/wiki/Leeds[5]	LOC[5]	
+27-16	1496-1497	«	https://en.wikipedia.org/wiki/Leeds[5]	LOC[5]	
+27-17	1497-1498	,	_	_	
+27-18	1499-1507	merchant	_	_	
+27-19	1507-1508	,	_	_	
+27-20	1509-1511	to	_	_	
+27-21	1512-1515	Mif	_	_	
+27-22	1515-1516	*	_	_	
+27-23	1517-1526	Blanchard	_	_	
+27-24	1526-1527	,	_	_	
+27-25	1528-1536	daughter	_	_	
+27-26	1537-1539	of	_	_	
+27-27	1540-1542	Mr	_	_	
+27-28	1542-1543	.	_	_	
+
+#Text=Blanchard, of Ymk, printer.
+28-1	1544-1553	Blanchard	_	_	
+28-2	1553-1554	,	_	_	
+28-3	1555-1557	of	_	_	
+28-4	1558-1561	Ymk	https://en.wikipedia.org/wiki/York	LOC	
+28-5	1561-1562	,	_	_	
+28-6	1563-1570	printer	_	_	
+28-7	1570-1571	.	_	_	
+
+#Text=IX HD.
+29-1	1572-1574	IX	_	_	
+29-2	1575-1577	HD	_	_	
+29-3	1577-1578	.	_	_	
+
+#Text=Lately, in Liverpool, Mr* Chapmen, wife of Mr Chapmm, late of the Theatres Royal Covevt Garden and I ivcrpool.
+30-1	1579-1585	Lately	_	_	
+30-2	1585-1586	,	_	_	
+30-3	1587-1589	in	_	_	
+30-4	1590-1599	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+30-5	1599-1600	,	_	_	
+30-6	1601-1603	Mr	_	_	
+30-7	1603-1604	*	_	_	
+30-8	1605-1612	Chapmen	_	_	
+30-9	1612-1613	,	_	_	
+30-10	1614-1618	wife	_	_	
+30-11	1619-1621	of	_	_	
+30-12	1622-1624	Mr	_	_	
+30-13	1625-1631	Chapmm	_	_	
+30-14	1631-1632	,	_	_	
+30-15	1633-1637	late	_	_	
+30-16	1638-1640	of	_	_	
+30-17	1641-1644	the	_	_	
+30-18	1645-1653	Theatres	*[6]	BUILDING[6]	
+30-19	1654-1659	Royal	*[6]	BUILDING[6]	
+30-20	1660-1666	Covevt	*[6]	BUILDING[6]	
+30-21	1667-1673	Garden	*[6]	BUILDING[6]	
+30-22	1674-1677	and	_	_	
+30-23	1678-1679	I	https://en.wikipedia.org/wiki/Liverpool[7]	LOC[7]	
+30-24	1680-1688	ivcrpool	https://en.wikipedia.org/wiki/Liverpool[7]	LOC[7]	
+30-25	1688-1689	.	_	_	
+
+#Text=—On Thurlday fc’nnighr, in Bath, Ornrral (Maffty) Lord Clarira, aged 87 who in the year 174 c was wounded at the battie ot Culloden, and was at the head of the grenadiers who flormed and took the Havsnn.ih. where he was again wounded; alio at the taking of Martlnico.
+31-1	1689-1690	—	_	_	
+31-2	1690-1692	On	_	_	
+31-3	1693-1701	Thurlday	_	_	
+31-4	1702-1704	fc	_	_	
+31-5	1704-1705	’	_	_	
+31-6	1705-1711	nnighr	_	_	
+31-7	1711-1712	,	_	_	
+31-8	1713-1715	in	_	_	
+31-9	1716-1720	Bath	https://en.wikipedia.org/wiki/Bath,\_Somerset	LOC	
+31-10	1720-1721	,	_	_	
+31-11	1722-1729	Ornrral	_	_	
+31-12	1730-1731	(	_	_	
+31-13	1731-1737	Maffty	_	_	
+31-14	1737-1738	)	_	_	
+31-15	1739-1743	Lord	_	_	
+31-16	1744-1751	Clarira	_	_	
+31-17	1751-1752	,	_	_	
+31-18	1753-1757	aged	_	_	
+31-19	1758-1760	87	_	_	
+31-20	1761-1764	who	_	_	
+31-21	1765-1767	in	_	_	
+31-22	1768-1771	the	_	_	
+31-23	1772-1776	year	_	_	
+31-24	1777-1780	174	_	_	
+31-25	1781-1782	c	_	_	
+31-26	1783-1786	was	_	_	
+31-27	1787-1794	wounded	_	_	
+31-28	1795-1797	at	_	_	
+31-29	1798-1801	the	_	_	
+31-30	1802-1808	battie	_	_	
+31-31	1809-1811	ot	_	_	
+31-32	1812-1820	Culloden	https://en.wikipedia.org/wiki/Culloden,\_Highland	LOC	
+31-33	1820-1821	,	_	_	
+31-34	1822-1825	and	_	_	
+31-35	1826-1829	was	_	_	
+31-36	1830-1832	at	_	_	
+31-37	1833-1836	the	_	_	
+31-38	1837-1841	head	_	_	
+31-39	1842-1844	of	_	_	
+31-40	1845-1848	the	_	_	
+31-41	1849-1859	grenadiers	_	_	
+31-42	1860-1863	who	_	_	
+31-43	1864-1871	flormed	_	_	
+31-44	1872-1875	and	_	_	
+31-45	1876-1880	took	_	_	
+31-46	1881-1884	the	_	_	
+31-47	1885-1894	Havsnn.ih	https://en.wikipedia.org/wiki/Havana	LOC	
+31-48	1894-1895	.	_	_	
+31-49	1896-1901	where	_	_	
+31-50	1902-1904	he	_	_	
+31-51	1905-1908	was	_	_	
+31-52	1909-1914	again	_	_	
+31-53	1915-1922	wounded	_	_	
+31-54	1922-1923	;	_	_	
+31-55	1924-1928	alio	_	_	
+31-56	1929-1931	at	_	_	
+31-57	1932-1935	the	_	_	
+31-58	1936-1942	taking	_	_	
+31-59	1943-1945	of	_	_	
+31-60	1946-1955	Martlnico	https://en.wikipedia.org/wiki/Martinique	LOC	
+31-61	1955-1956	.	_	_	
+
+#Text=Lord Clarina was one of the lalt of General Wolle’s companions He i* (ucceeded in his tires by his fun Colonel MalTey, ol the Ennilkillen regiment.
+32-1	1957-1961	Lord	_	_	
+32-2	1962-1969	Clarina	_	_	
+32-3	1970-1973	was	_	_	
+32-4	1974-1977	one	_	_	
+32-5	1978-1980	of	_	_	
+32-6	1981-1984	the	_	_	
+32-7	1985-1989	lalt	_	_	
+32-8	1990-1992	of	_	_	
+32-9	1993-2000	General	_	_	
+32-10	2001-2006	Wolle	_	_	
+32-11	2006-2007	’	_	_	
+32-12	2007-2008	s	_	_	
+32-13	2009-2019	companions	_	_	
+32-14	2020-2022	He	_	_	
+32-15	2023-2024	i	_	_	
+32-16	2024-2025	*	_	_	
+32-17	2026-2027	(	_	_	
+32-18	2027-2035	ucceeded	_	_	
+32-19	2036-2038	in	_	_	
+32-20	2039-2042	his	_	_	
+32-21	2043-2048	tires	_	_	
+32-22	2049-2051	by	_	_	
+32-23	2052-2055	his	_	_	
+32-24	2056-2059	fun	_	_	
+32-25	2060-2067	Colonel	_	_	
+32-26	2068-2074	MalTey	_	_	
+32-27	2074-2075	,	_	_	
+32-28	2076-2078	ol	_	_	
+32-29	2079-2082	the	_	_	
+32-30	2083-2094	Ennilkillen	_	_	
+32-31	2095-2103	regiment	_	_	
+32-32	2103-2104	.	_	_	
+
+#Text=—Same day, aped 17, th« Rev.
+33-1	2104-2105	—	_	_	
+33-2	2105-2109	Same	_	_	
+33-3	2110-2113	day	_	_	
+33-4	2113-2114	,	_	_	
+33-5	2115-2119	aped	_	_	
+33-6	2120-2122	17	_	_	
+33-7	2122-2123	,	_	_	
+33-8	2124-2126	th	_	_	
+33-9	2126-2127	«	_	_	
+33-10	2128-2131	Rev	_	_	
+33-11	2131-2132	.	_	_	
+
+#Text=Jufeph Pickford.
+34-1	2133-2139	Jufeph	_	_	
+34-2	2140-2148	Pickford	_	_	
+34-3	2148-2149	.	_	_	
+
+#Text=M A, Chaplain to the Countrfot Hvndlord, feconj fon ol Joltph Hadcliffc, 1 iq. of !
+35-1	2150-2151	M	_	_	
+35-2	2152-2153	A	_	_	
+35-3	2153-2154	,	_	_	
+35-4	2155-2163	Chaplain	_	_	
+35-5	2164-2166	to	_	_	
+35-6	2167-2170	the	_	_	
+35-7	2171-2180	Countrfot	_	_	
+35-8	2181-2189	Hvndlord	_	_	
+35-9	2189-2190	,	_	_	
+35-10	2191-2197	feconj	_	_	
+35-11	2198-2201	fon	_	_	
+35-12	2202-2204	ol	_	_	
+35-13	2205-2211	Joltph	_	_	
+35-14	2212-2221	Hadcliffc	_	_	
+35-15	2221-2222	,	_	_	
+35-16	2223-2224	1	_	_	
+35-17	2225-2227	iq	_	_	
+35-18	2227-2228	.	_	_	
+35-19	2229-2231	of	_	_	
+35-20	2232-2233	!	_	_	
+
+#Text=Milnfhridge Houfe, near Huddersfield.
+36-1	2234-2245	Milnfhridge	*[8]	BUILDING[8]	
+36-2	2246-2251	Houfe	*[8]	BUILDING[8]	
+36-3	2251-2252	,	_	_	
+36-4	2253-2257	near	_	_	
+36-5	2258-2270	Huddersfield	https://en.wikipedia.org/wiki/Huddersfield	LOC	
+36-6	2270-2271	.	_	_	
+
+#Text=—On Friday fe’nmght, after a (liort illncls, Mr John Robinfon, of this town.
+37-1	2271-2272	—	_	_	
+37-2	2272-2274	On	_	_	
+37-3	2275-2281	Friday	_	_	
+37-4	2282-2284	fe	_	_	
+37-5	2284-2285	’	_	_	
+37-6	2285-2290	nmght	_	_	
+37-7	2290-2291	,	_	_	
+37-8	2292-2297	after	_	_	
+37-9	2298-2299	a	_	_	
+37-10	2300-2301	(	_	_	
+37-11	2301-2306	liort	_	_	
+37-12	2307-2314	illncls	_	_	
+37-13	2314-2315	,	_	_	
+37-14	2316-2318	Mr	_	_	
+37-15	2319-2323	John	_	_	
+37-16	2324-2332	Robinfon	_	_	
+37-17	2332-2333	,	_	_	
+37-18	2334-2336	of	_	_	
+37-19	2337-2341	this	_	_	
+37-20	2342-2346	town	_	_	
+37-21	2346-2347	.	_	_	
+
+#Text=—On the 15th inft. at Csftleron, in Dcrfcy (hire, Mr Mitah Hall, attorney at law.
+38-1	2347-2348	—	_	_	
+38-2	2348-2350	On	_	_	
+38-3	2351-2354	the	_	_	
+38-4	2355-2359	15th	_	_	
+38-5	2360-2364	inft	_	_	
+38-6	2364-2365	.	_	_	
+38-7	2366-2368	at	_	_	
+38-8	2369-2378	Csftleron	https://en.wikipedia.org/wiki/Castleton,\_Derbyshire	LOC	
+38-9	2378-2379	,	_	_	
+38-10	2380-2382	in	_	_	
+38-11	2383-2389	Dcrfcy	https://en.wikipedia.org/wiki/Derbyshire[9]	LOC[9]	
+38-12	2390-2391	(	https://en.wikipedia.org/wiki/Derbyshire[9]	LOC[9]	
+38-13	2391-2395	hire	https://en.wikipedia.org/wiki/Derbyshire[9]	LOC[9]	
+38-14	2395-2396	,	_	_	
+38-15	2397-2399	Mr	_	_	
+38-16	2400-2405	Mitah	_	_	
+38-17	2406-2410	Hall	_	_	
+38-18	2410-2411	,	_	_	
+38-19	2412-2420	attorney	_	_	
+38-20	2421-2423	at	_	_	
+38-21	2424-2427	law	_	_	
+38-22	2427-2428	.	_	_	
+
+#Text=—On Wcdnelday fe’nnipht, at the fame place, Mr Sanutd Irvine, a man highly elleemcd !
+39-1	2428-2429	—	_	_	
+39-2	2429-2431	On	_	_	
+39-3	2432-2441	Wcdnelday	_	_	
+39-4	2442-2444	fe	_	_	
+39-5	2444-2445	’	_	_	
+39-6	2445-2451	nnipht	_	_	
+39-7	2451-2452	,	_	_	
+39-8	2453-2455	at	_	_	
+39-9	2456-2459	the	_	_	
+39-10	2460-2464	fame	_	_	
+39-11	2465-2470	place	_	_	
+39-12	2470-2471	,	_	_	
+39-13	2472-2474	Mr	_	_	
+39-14	2475-2481	Sanutd	_	_	
+39-15	2482-2488	Irvine	_	_	
+39-16	2488-2489	,	_	_	
+39-17	2490-2491	a	_	_	
+39-18	2492-2495	man	_	_	
+39-19	2496-2502	highly	_	_	
+39-20	2503-2511	elleemcd	_	_	
+39-21	2512-2513	!	_	_	
+
+#Text=>v all who knew him day, Samuel Baglhaw.
+40-1	2513-2514	>	_	_	
+40-2	2514-2515	v	_	_	
+40-3	2516-2519	all	_	_	
+40-4	2520-2523	who	_	_	
+40-5	2524-2528	knew	_	_	
+40-6	2529-2532	him	_	_	
+40-7	2533-2536	day	_	_	
+40-8	2536-2537	,	_	_	
+40-9	2538-2544	Samuel	_	_	
+40-10	2545-2552	Baglhaw	_	_	
+40-11	2552-2553	.	_	_	
+
+#Text=Elij. of Ford Hall near Chapel en Ic Frith —On Friday le’nnight. at Laneafter.
+41-1	2554-2558	Elij	_	_	
+41-2	2558-2559	.	_	_	
+41-3	2560-2562	of	_	_	
+41-4	2563-2567	Ford	_	_	
+41-5	2568-2572	Hall	_	_	
+41-6	2573-2577	near	_	_	
+41-7	2578-2584	Chapel	_	_	
+41-8	2585-2587	en	_	_	
+41-9	2588-2590	Ic	_	_	
+41-10	2591-2596	Frith	_	_	
+41-11	2597-2598	—	_	_	
+41-12	2598-2600	On	_	_	
+41-13	2601-2607	Friday	_	_	
+41-14	2608-2610	le	_	_	
+41-15	2610-2611	’	_	_	
+41-16	2611-2617	nnight	_	_	
+41-17	2617-2618	.	_	_	
+41-18	2619-2621	at	_	_	
+41-19	2622-2631	Laneafter	https://en.wikipedia.org/wiki/Lancaster,\_Lancashire	LOC	
+41-20	2631-2632	.	_	_	
+
+#Text=Mr* Forbes, reliiS of Mr Futhes—Saturday L’nnight. at Lancalter, Mils Barrow, of Caton Green.
+42-1	2633-2635	Mr	_	_	
+42-2	2635-2636	*	_	_	
+42-3	2637-2643	Forbes	_	_	
+42-4	2643-2644	,	_	_	
+42-5	2645-2651	reliiS	_	_	
+42-6	2652-2654	of	_	_	
+42-7	2655-2657	Mr	_	_	
+42-8	2658-2673	Futhes—Saturday	_	_	
+42-9	2674-2675	L	_	_	
+42-10	2675-2676	’	_	_	
+42-11	2676-2682	nnight	_	_	
+42-12	2682-2683	.	_	_	
+42-13	2684-2686	at	_	_	
+42-14	2687-2696	Lancalter	https://en.wikipedia.org/wiki/Lancaster,\_Lancashire	LOC	
+42-15	2696-2697	,	_	_	
+42-16	2698-2702	Mils	_	_	
+42-17	2703-2709	Barrow	_	_	
+42-18	2709-2710	,	_	_	
+42-19	2711-2713	of	_	_	
+42-20	2714-2719	Caton	https://en.wikipedia.org/wiki/Caton-with-Littledale[10]	LOC[10]	
+42-21	2720-2725	Green	https://en.wikipedia.org/wiki/Caton-with-Littledale[10]	LOC[10]	
+42-22	2725-2726	.	_	_	
+
+#Text=—On Saturday the 19th iult. at Willow Hall, near Halifax, hy a fjl from hi* horle the preceding day.
+43-1	2726-2727	—	_	_	
+43-2	2727-2729	On	_	_	
+43-3	2730-2738	Saturday	_	_	
+43-4	2739-2742	the	_	_	
+43-5	2743-2747	19th	_	_	
+43-6	2748-2752	iult	_	_	
+43-7	2752-2753	.	_	_	
+43-8	2754-2756	at	_	_	
+43-9	2757-2763	Willow	*[11]	BUILDING[11]	
+43-10	2764-2768	Hall	*[11]	BUILDING[11]	
+43-11	2768-2769	,	_	_	
+43-12	2770-2774	near	_	_	
+43-13	2775-2782	Halifax	https://en.wikipedia.org/wiki/Halifax,\_West\_Yorkshire	LOC	
+43-14	2782-2783	,	_	_	
+43-15	2784-2786	hy	_	_	
+43-16	2787-2788	a	_	_	
+43-17	2789-2792	fjl	_	_	
+43-18	2793-2797	from	_	_	
+43-19	2798-2800	hi	_	_	
+43-20	2800-2801	*	_	_	
+43-21	2802-2807	horle	_	_	
+43-22	2808-2811	the	_	_	
+43-23	2812-2821	preceding	_	_	
+43-24	2822-2825	day	_	_	
+43-25	2825-2826	.	_	_	
+
+#Text=Mr William Robinfun, partner with Mr.
+44-1	2827-2829	Mr	_	_	
+44-2	2830-2837	William	_	_	
+44-3	2838-2846	Robinfun	_	_	
+44-4	2846-2847	,	_	_	
+44-5	2848-2855	partner	_	_	
+44-6	2856-2860	with	_	_	
+44-7	2861-2863	Mr	_	_	
+44-8	2863-2864	.	_	_	
+
+#Text=William Kirkby of this town.
+45-1	2865-2872	William	_	_	
+45-2	2873-2879	Kirkby	_	_	
+45-3	2880-2882	of	_	_	
+45-4	2883-2887	this	_	_	
+45-5	2888-2892	town	_	_	
+45-6	2892-2893	.	_	_	
+
+#Text=The kind and benewoent alliilance he received from Mr Henry Lodge, cf ihe above place, wnl be ever remembered by his fritndsand relatives.
+46-1	2894-2897	The	_	_	
+46-2	2898-2902	kind	_	_	
+46-3	2903-2906	and	_	_	
+46-4	2907-2916	benewoent	_	_	
+46-5	2917-2927	alliilance	_	_	
+46-6	2928-2930	he	_	_	
+46-7	2931-2939	received	_	_	
+46-8	2940-2944	from	_	_	
+46-9	2945-2947	Mr	_	_	
+46-10	2948-2953	Henry	_	_	
+46-11	2954-2959	Lodge	_	_	
+46-12	2959-2960	,	_	_	
+46-13	2961-2963	cf	_	_	
+46-14	2964-2967	ihe	_	_	
+46-15	2968-2973	above	_	_	
+46-16	2974-2979	place	_	_	
+46-17	2979-2980	,	_	_	
+46-18	2981-2984	wnl	_	_	
+46-19	2985-2987	be	_	_	
+46-20	2988-2992	ever	_	_	
+46-21	2993-3003	remembered	_	_	
+46-22	3004-3006	by	_	_	
+46-23	3007-3010	his	_	_	
+46-24	3011-3021	fritndsand	_	_	
+46-25	3022-3031	relatives	_	_	
+46-26	3031-3032	.	_	_	

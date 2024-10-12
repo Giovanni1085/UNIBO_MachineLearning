@@ -1,0 +1,403 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ECCLESIASTICAL INTELLIGENCE.
+1-1	0-14	ECCLESIASTICAL	_	_	
+1-2	15-27	INTELLIGENCE	_	_	
+1-3	27-28	.	_	_	
+
+#Text=Oxford, April 24.
+2-1	30-36	Oxford	https://en.wikipedia.org/wiki/Oxford	LOC	
+2-2	36-37	,	_	_	
+2-3	38-43	April	_	_	
+2-4	44-46	24	_	_	
+2-5	46-47	.	_	_	
+
+#Text=—A congregation was this day holden for granting degrees, &c, w hen the following were conferred:— Bachelor of Divinity—Rev.
+3-1	47-48	—	_	_	
+3-2	48-49	A	_	_	
+3-3	50-62	congregation	_	_	
+3-4	63-66	was	_	_	
+3-5	67-71	this	_	_	
+3-6	72-75	day	_	_	
+3-7	76-82	holden	_	_	
+3-8	83-86	for	_	_	
+3-9	87-95	granting	_	_	
+3-10	96-103	degrees	_	_	
+3-11	103-104	,	_	_	
+3-12	105-106	&	_	_	
+3-13	106-107	c	_	_	
+3-14	107-108	,	_	_	
+3-15	109-110	w	_	_	
+3-16	111-114	hen	_	_	
+3-17	115-118	the	_	_	
+3-18	119-128	following	_	_	
+3-19	129-133	were	_	_	
+3-20	134-143	conferred	_	_	
+3-21	143-144	:	_	_	
+3-22	144-145	—	_	_	
+3-23	146-154	Bachelor	_	_	
+3-24	155-157	of	_	_	
+3-25	158-170	Divinity—Rev	_	_	
+3-26	170-171	.	_	_	
+
+#Text=John Carter, Fellow of St.
+4-1	172-176	John	_	_	
+4-2	177-183	Carter	_	_	
+4-3	183-184	,	_	_	
+4-4	185-191	Fellow	_	_	
+4-5	192-194	of	_	_	
+4-6	195-197	St	_	_	
+4-7	197-198	.	_	_	
+
+#Text=Johns College.
+5-1	199-204	Johns	_	_	
+5-2	205-212	College	_	_	
+5-3	212-213	.	_	_	
+
+#Text=Master ef Arts—Stewart A.
+6-1	214-220	Master	_	_	
+6-2	221-223	ef	_	_	
+6-3	224-236	Arts—Stewart	_	_	
+6-4	237-238	A	_	_	
+6-5	238-239	.	_	_	
+
+#Text=Pears, of Corpus Christi College: John M.
+7-1	240-245	Pears	_	_	
+7-2	245-246	,	_	_	
+7-3	247-249	of	_	_	
+7-4	250-256	Corpus	_	_	
+7-5	257-264	Christi	_	_	
+7-6	265-272	College	_	_	
+7-7	272-273	:	_	_	
+7-8	274-278	John	_	_	
+7-9	279-280	M	_	_	
+7-10	280-281	.	_	_	
+
+#Text=Wilson, ditto; Rev.
+8-1	282-288	Wilson	_	_	
+8-2	288-289	,	_	_	
+8-3	290-295	ditto	_	_	
+8-4	295-296	;	_	_	
+8-5	297-300	Rev	_	_	
+8-6	300-301	.	_	_	
+
+#Text=John T.White, ditto; Rev.
+9-1	302-306	John	_	_	
+9-2	307-314	T.White	_	_	
+9-3	314-315	,	_	_	
+9-4	316-321	ditto	_	_	
+9-5	321-322	;	_	_	
+9-6	323-326	Rev	_	_	
+9-7	326-327	.	_	_	
+
+#Text=J.
+10-1	328-329	J	_	_	
+10-2	329-330	.	_	_	
+
+#Text=Ashworth, Brazen Nose College; Rev.
+11-1	331-339	Ashworth	_	_	
+11-2	339-340	,	_	_	
+11-3	341-347	Brazen	_	_	
+11-4	348-352	Nose	_	_	
+11-5	353-360	College	_	_	
+11-6	360-361	;	_	_	
+11-7	362-365	Rev	_	_	
+11-8	365-366	.	_	_	
+
+#Text=James Dodson, Christ Church; Rev.
+12-1	367-372	James	_	_	
+12-2	373-379	Dodson	_	_	
+12-3	379-380	,	_	_	
+12-4	381-387	Christ	_	_	
+12-5	388-394	Church	_	_	
+12-6	394-395	;	_	_	
+12-7	396-399	Rev	_	_	
+12-8	399-400	.	_	_	
+
+#Text=Charles Seager, Worcester College; Edward MLeod, ditto ; Rev.
+13-1	401-408	Charles	_	_	
+13-2	409-415	Seager	_	_	
+13-3	415-416	,	_	_	
+13-4	417-426	Worcester	_	_	
+13-5	427-434	College	_	_	
+13-6	434-435	;	_	_	
+13-7	436-442	Edward	_	_	
+13-8	443-448	MLeod	_	_	
+13-9	448-449	,	_	_	
+13-10	450-455	ditto	_	_	
+13-11	456-457	;	_	_	
+13-12	458-461	Rev	_	_	
+13-13	461-462	.	_	_	
+
+#Text=Hugh Matthie, Pembroke College ; Rev.
+14-1	463-467	Hugh	_	_	
+14-2	468-475	Matthie	_	_	
+14-3	475-476	,	_	_	
+14-4	477-485	Pembroke	_	_	
+14-5	486-493	College	_	_	
+14-6	494-495	;	_	_	
+14-7	496-499	Rev	_	_	
+14-8	499-500	.	_	_	
+
+#Text=James Browell, Exeter College; Rev.
+15-1	501-506	James	_	_	
+15-2	507-514	Browell	_	_	
+15-3	514-515	,	_	_	
+15-4	516-522	Exeter	_	_	
+15-5	523-530	College	_	_	
+15-6	530-531	;	_	_	
+15-7	532-535	Rev	_	_	
+15-8	535-536	.	_	_	
+
+#Text=John J.
+16-1	537-541	John	_	_	
+16-2	542-543	J	_	_	
+16-3	543-544	.	_	_	
+
+#Text=Plumer, Balliol College, Grand Compounder; W.
+17-1	545-551	Plumer	_	_	
+17-2	551-552	,	_	_	
+17-3	553-560	Balliol	_	_	
+17-4	561-568	College	_	_	
+17-5	568-569	,	_	_	
+17-6	570-575	Grand	_	_	
+17-7	576-586	Compounder	_	_	
+17-8	586-587	;	_	_	
+17-9	588-589	W	_	_	
+17-10	589-590	.	_	_	
+
+#Text=Thomson, Jesus College; Rev.
+18-1	591-598	Thomson	_	_	
+18-2	598-599	,	_	_	
+18-3	600-605	Jesus	_	_	
+18-4	606-613	College	_	_	
+18-5	613-614	;	_	_	
+18-6	615-618	Rev	_	_	
+18-7	618-619	.	_	_	
+
+#Text=Frederick Brown, Exeter College; Key.
+19-1	620-629	Frederick	_	_	
+19-2	630-635	Brown	_	_	
+19-3	635-636	,	_	_	
+19-4	637-643	Exeter	_	_	
+19-5	644-651	College	_	_	
+19-6	651-652	;	_	_	
+19-7	653-656	Key	_	_	
+19-8	656-657	.	_	_	
+
+#Text=James R.
+20-1	658-663	James	_	_	
+20-2	664-665	R	_	_	
+20-3	665-666	.	_	_	
+
+#Text=Peake, Magdalen Hall.
+21-1	667-672	Peake	_	_	
+21-2	672-673	,	_	_	
+21-3	674-682	Magdalen	_	_	
+21-4	683-687	Hall	_	_	
+21-5	687-688	.	_	_	
+
+#Text=Bachelors of Arts—W.
+22-1	689-698	Bachelors	_	_	
+22-2	699-701	of	_	_	
+22-3	702-708	Arts—W	_	_	
+22-4	708-709	.	_	_	
+
+#Text=Hughes Hughes, Christ Church ; G.
+23-1	710-716	Hughes	_	_	
+23-2	717-723	Hughes	_	_	
+23-3	723-724	,	_	_	
+23-4	725-731	Christ	_	_	
+23-5	732-738	Church	_	_	
+23-6	739-740	;	_	_	
+23-7	741-742	G	_	_	
+23-8	742-743	.	_	_	
+
+#Text=W.
+24-1	744-745	W	_	_	
+24-2	745-746	.	_	_	
+
+#Text=Brameld, Lincoln College ; J.
+25-1	747-754	Brameld	_	_	
+25-2	754-755	,	_	_	
+25-3	756-763	Lincoln	_	_	
+25-4	764-771	College	_	_	
+25-5	772-773	;	_	_	
+25-6	774-775	J	_	_	
+25-7	775-776	.	_	_	
+
+#Text=Dixon, Trinity College; Borlase Adams, Exeter College; John M.
+26-1	777-782	Dixon	_	_	
+26-2	782-783	,	_	_	
+26-3	784-791	Trinity	_	_	
+26-4	792-799	College	_	_	
+26-5	799-800	;	_	_	
+26-6	801-808	Borlase	_	_	
+26-7	809-814	Adams	_	_	
+26-8	814-815	,	_	_	
+26-9	816-822	Exeter	_	_	
+26-10	823-830	College	_	_	
+26-11	830-831	;	_	_	
+26-12	832-836	John	_	_	
+26-13	837-838	M	_	_	
+26-14	838-839	.	_	_	
+
+#Text=Basnett, ditto; Henry H.
+27-1	840-847	Basnett	_	_	
+27-2	847-848	,	_	_	
+27-3	849-854	ditto	_	_	
+27-4	854-855	;	_	_	
+27-5	856-861	Henry	_	_	
+27-6	862-863	H	_	_	
+27-7	863-864	.	_	_	
+
+#Text=Bathurst, Merton College; W.
+28-1	865-873	Bathurst	_	_	
+28-2	873-874	,	_	_	
+28-3	875-881	Merton	_	_	
+28-4	882-889	College	_	_	
+28-5	889-890	;	_	_	
+28-6	891-892	W	_	_	
+28-7	892-893	.	_	_	
+
+#Text=Matthias, Brazen Nose College; James R.
+29-1	894-902	Matthias	_	_	
+29-2	902-903	,	_	_	
+29-3	904-910	Brazen	_	_	
+29-4	911-915	Nose	_	_	
+29-5	916-923	College	_	_	
+29-6	923-924	;	_	_	
+29-7	925-930	James	_	_	
+29-8	931-932	R	_	_	
+29-9	932-933	.	_	_	
+
+#Text=Also, ditto ; G.
+30-1	934-938	Also	_	_	
+30-2	938-939	,	_	_	
+30-3	940-945	ditto	_	_	
+30-4	946-947	;	_	_	
+30-5	948-949	G	_	_	
+30-6	949-950	.	_	_	
+
+#Text=Butler, Queens College ;|il.
+31-1	951-957	Butler	_	_	
+31-2	957-958	,	_	_	
+31-3	959-965	Queens	_	_	
+31-4	966-973	College	_	_	
+31-5	974-975	;	_	_	
+31-6	975-976	|	_	_	
+31-7	976-978	il	_	_	
+31-8	978-979	.	_	_	
+
+#Text=Maistcr New Inn Hall; G.
+32-1	980-987	Maistcr	_	_	
+32-2	988-991	New	_	_	
+32-3	992-995	Inn	_	_	
+32-4	996-1000	Hall	_	_	
+32-5	1000-1001	;	_	_	
+32-6	1002-1003	G	_	_	
+32-7	1003-1004	.	_	_	
+
+#Text=W.
+33-1	1005-1006	W	_	_	
+33-2	1006-1007	.	_	_	
+
+#Text=Pedler, Magdalen Hall.
+34-1	1008-1014	Pedler	_	_	
+34-2	1014-1015	,	_	_	
+34-3	1016-1024	Magdalen	_	_	
+34-4	1025-1029	Hall	_	_	
+34-5	1029-1030	.	_	_	
+
+#Text=The Boden Professor of Sanscrip has given notice that he will continue his lectures on Tuesdays and Thursdays during this term, to commence May 2, at a (piarter before ten oclock.
+35-1	1031-1034	The	_	_	
+35-2	1035-1040	Boden	_	_	
+35-3	1041-1050	Professor	_	_	
+35-4	1051-1053	of	_	_	
+35-5	1054-1062	Sanscrip	_	_	
+35-6	1063-1066	has	_	_	
+35-7	1067-1072	given	_	_	
+35-8	1073-1079	notice	_	_	
+35-9	1080-1084	that	_	_	
+35-10	1085-1087	he	_	_	
+35-11	1088-1092	will	_	_	
+35-12	1093-1101	continue	_	_	
+35-13	1102-1105	his	_	_	
+35-14	1106-1114	lectures	_	_	
+35-15	1115-1117	on	_	_	
+35-16	1118-1126	Tuesdays	_	_	
+35-17	1127-1130	and	_	_	
+35-18	1131-1140	Thursdays	_	_	
+35-19	1141-1147	during	_	_	
+35-20	1148-1152	this	_	_	
+35-21	1153-1157	term	_	_	
+35-22	1157-1158	,	_	_	
+35-23	1159-1161	to	_	_	
+35-24	1162-1170	commence	_	_	
+35-25	1171-1174	May	_	_	
+35-26	1175-1176	2	_	_	
+35-27	1176-1177	,	_	_	
+35-28	1178-1180	at	_	_	
+35-29	1181-1182	a	_	_	
+35-30	1183-1184	(	_	_	
+35-31	1184-1191	piarter	_	_	
+35-32	1192-1198	before	_	_	
+35-33	1199-1202	ten	_	_	
+35-34	1203-1209	oclock	_	_	
+35-35	1209-1210	.	_	_	
+
+#Text=The Professpr of Moral Philosophy will continue his lectures on the Republic of Plato, on Tuesdays and Thursdays.
+36-1	1211-1214	The	_	_	
+36-2	1215-1224	Professpr	_	_	
+36-3	1225-1227	of	_	_	
+36-4	1228-1233	Moral	_	_	
+36-5	1234-1244	Philosophy	_	_	
+36-6	1245-1249	will	_	_	
+36-7	1250-1258	continue	_	_	
+36-8	1259-1262	his	_	_	
+36-9	1263-1271	lectures	_	_	
+36-10	1272-1274	on	_	_	
+36-11	1275-1278	the	_	_	
+36-12	1279-1287	Republic	_	_	
+36-13	1288-1290	of	_	_	
+36-14	1291-1296	Plato	_	_	
+36-15	1296-1297	,	_	_	
+36-16	1298-1300	on	_	_	
+36-17	1301-1309	Tuesdays	_	_	
+36-18	1310-1313	and	_	_	
+36-19	1314-1323	Thursdays	_	_	
+36-20	1323-1324	.	_	_	
+
+#Text=The Professor of Botany intends to begin a course of lectures on Monday, the 29th instant, at twooek-ck, and continue them on the alternate week days.
+37-1	1325-1328	The	_	_	
+37-2	1329-1338	Professor	_	_	
+37-3	1339-1341	of	_	_	
+37-4	1342-1348	Botany	_	_	
+37-5	1349-1356	intends	_	_	
+37-6	1357-1359	to	_	_	
+37-7	1360-1365	begin	_	_	
+37-8	1366-1367	a	_	_	
+37-9	1368-1374	course	_	_	
+37-10	1375-1377	of	_	_	
+37-11	1378-1386	lectures	_	_	
+37-12	1387-1389	on	_	_	
+37-13	1390-1396	Monday	_	_	
+37-14	1396-1397	,	_	_	
+37-15	1398-1401	the	_	_	
+37-16	1402-1406	29th	_	_	
+37-17	1407-1414	instant	_	_	
+37-18	1414-1415	,	_	_	
+37-19	1416-1418	at	_	_	
+37-20	1419-1428	twooek-ck	_	_	
+37-21	1428-1429	,	_	_	
+37-22	1430-1433	and	_	_	
+37-23	1434-1442	continue	_	_	
+37-24	1443-1447	them	_	_	
+37-25	1448-1450	on	_	_	
+37-26	1451-1454	the	_	_	
+37-27	1455-1464	alternate	_	_	
+37-28	1465-1469	week	_	_	
+37-29	1470-1474	days	_	_	
+37-30	1474-1475	.	_	_	

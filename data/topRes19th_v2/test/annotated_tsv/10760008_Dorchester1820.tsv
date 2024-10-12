@@ -1,0 +1,514 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE NAVY.
+1-1	0-3	THE	_	_	
+1-2	4-8	NAVY	_	_	
+1-3	8-9	.	_	_	
+
+#Text=Portsmouth, July B.
+2-1	11-21	Portsmouth	https://en.wikipedia.org/wiki/Portsmouth	LOC	
+2-2	21-22	,	_	_	
+2-3	23-27	July	_	_	
+2-4	28-29	B	_	_	
+2-5	29-30	.	_	_	
+
+#Text=—On Sunday, the Eden, 24, Captain John Lawrence, C.8., armed from the Warn India station, last from Malta, where she leaded Commissioner Rosa and family.
+3-1	30-31	—	_	_	
+3-2	31-33	On	_	_	
+3-3	34-40	Sunday	_	_	
+3-4	40-41	,	_	_	
+3-5	42-45	the	_	_	
+3-6	46-50	Eden	_	_	
+3-7	50-51	,	_	_	
+3-8	52-54	24	_	_	
+3-9	54-55	,	_	_	
+3-10	56-63	Captain	_	_	
+3-11	64-68	John	_	_	
+3-12	69-77	Lawrence	_	_	
+3-13	77-78	,	_	_	
+3-14	79-80	C	_	_	
+3-15	80-82	.8	_	_	
+3-16	82-83	.	_	_	
+3-17	83-84	,	_	_	
+3-18	85-90	armed	_	_	
+3-19	91-95	from	_	_	
+3-20	96-99	the	_	_	
+3-21	100-104	Warn	*[1]	BUILDING[1]	
+3-22	105-110	India	*[1]	BUILDING[1]	
+3-23	111-118	station	*[1]	BUILDING[1]	
+3-24	118-119	,	_	_	
+3-25	120-124	last	_	_	
+3-26	125-129	from	_	_	
+3-27	130-135	Malta	https://en.wikipedia.org/wiki/Malta	LOC	
+3-28	135-136	,	_	_	
+3-29	137-142	where	_	_	
+3-30	143-146	she	_	_	
+3-31	147-153	leaded	_	_	
+3-32	154-166	Commissioner	_	_	
+3-33	167-171	Rosa	_	_	
+3-34	172-175	and	_	_	
+3-35	176-182	family	_	_	
+3-36	182-183	.	_	_	
+
+#Text=—She left that Island on the 15(h of May, aM Gibraltar the 13th of Jane; the suiteym{-ship Captain Copeland, was the only ship ia the Bay.
+4-1	183-184	—	_	_	
+4-2	184-187	She	_	_	
+4-3	188-192	left	_	_	
+4-4	193-197	that	_	_	
+4-5	198-204	Island	_	_	
+4-6	205-207	on	_	_	
+4-7	208-211	the	_	_	
+4-8	212-214	15	_	_	
+4-9	214-215	(	_	_	
+4-10	215-216	h	_	_	
+4-11	217-219	of	_	_	
+4-12	220-223	May	_	_	
+4-13	223-224	,	_	_	
+4-14	225-227	aM	_	_	
+4-15	228-237	Gibraltar	https://en.wikipedia.org/wiki/Gibraltar	LOC	
+4-16	238-241	the	_	_	
+4-17	242-246	13th	_	_	
+4-18	247-249	of	_	_	
+4-19	250-254	Jane	_	_	
+4-20	254-255	;	_	_	
+4-21	256-259	the	_	_	
+4-22	260-267	suiteym	_	_	
+4-23	267-268	{	_	_	
+4-24	268-269	-	_	_	
+4-25	269-273	ship	_	_	
+4-26	274-281	Captain	_	_	
+4-27	282-290	Copeland	_	_	
+4-28	290-291	,	_	_	
+4-29	292-295	was	_	_	
+4-30	296-299	the	_	_	
+4-31	300-304	only	_	_	
+4-32	305-309	ship	_	_	
+4-33	310-312	ia	_	_	
+4-34	313-316	the	_	_	
+4-35	317-320	Bay	_	_	
+4-36	320-321	.	_	_	
+
+#Text=TTio intelligence by her from Malta is not to recast as that contained ia oar last paper.
+5-1	322-326	TTio	_	_	
+5-2	327-339	intelligence	_	_	
+5-3	340-342	by	_	_	
+5-4	343-346	her	_	_	
+5-5	347-351	from	_	_	
+5-6	352-357	Malta	https://en.wikipedia.org/wiki/Malta	LOC	
+5-7	358-360	is	_	_	
+5-8	361-364	not	_	_	
+5-9	365-367	to	_	_	
+5-10	368-374	recast	_	_	
+5-11	375-377	as	_	_	
+5-12	378-382	that	_	_	
+5-13	383-392	contained	_	_	
+5-14	393-395	ia	_	_	
+5-15	396-399	oar	_	_	
+5-16	400-404	last	_	_	
+5-17	405-410	paper	_	_	
+5-18	410-411	.	_	_	
+
+#Text=From Spain, there is no particular news.
+6-1	412-416	From	_	_	
+6-2	417-422	Spain	https://en.wikipedia.org/wiki/Spain	LOC	
+6-3	422-423	,	_	_	
+6-4	424-429	there	_	_	
+6-5	430-432	is	_	_	
+6-6	433-435	no	_	_	
+6-7	436-446	particular	_	_	
+6-8	447-451	news	_	_	
+6-9	451-452	.	_	_	
+
+#Text=The whole province of- Andalusia was quiet, the earn and tine crops asst abundant in that district, and generally throughout the country.
+7-1	453-456	The	_	_	
+7-2	457-462	whole	_	_	
+7-3	463-471	province	_	_	
+7-4	472-474	of	_	_	
+7-5	474-475	-	_	_	
+7-6	476-485	Andalusia	https://en.wikipedia.org/wiki/Andalusia	LOC	
+7-7	486-489	was	_	_	
+7-8	490-495	quiet	_	_	
+7-9	495-496	,	_	_	
+7-10	497-500	the	_	_	
+7-11	501-505	earn	_	_	
+7-12	506-509	and	_	_	
+7-13	510-514	tine	_	_	
+7-14	515-520	crops	_	_	
+7-15	521-525	asst	_	_	
+7-16	526-534	abundant	_	_	
+7-17	535-537	in	_	_	
+7-18	538-542	that	_	_	
+7-19	543-551	district	_	_	
+7-20	551-552	,	_	_	
+7-21	553-556	and	_	_	
+7-22	557-566	generally	_	_	
+7-23	567-577	throughout	_	_	
+7-24	578-581	the	_	_	
+7-25	582-589	country	_	_	
+7-26	589-590	.	_	_	
+
+#Text=The Algerines were particularly quiet; they do not now molest the skips of any nation whatever.
+8-1	591-594	The	_	_	
+8-2	595-604	Algerines	_	_	
+8-3	605-609	were	_	_	
+8-4	610-622	particularly	_	_	
+8-5	623-628	quiet	_	_	
+8-6	628-629	;	_	_	
+8-7	630-634	they	_	_	
+8-8	635-637	do	_	_	
+8-9	638-641	not	_	_	
+8-10	642-645	now	_	_	
+8-11	646-652	molest	_	_	
+8-12	653-656	the	_	_	
+8-13	657-662	skips	_	_	
+8-14	663-665	of	_	_	
+8-15	666-669	any	_	_	
+8-16	670-676	nation	_	_	
+8-17	677-685	whatever	_	_	
+8-18	685-686	.	_	_	
+
+#Text=The Amencu Squadron was in the Archipelago.
+9-1	687-690	The	_	_	
+9-2	691-697	Amencu	_	_	
+9-3	698-706	Squadron	_	_	
+9-4	707-710	was	_	_	
+9-5	711-713	in	_	_	
+9-6	714-717	the	_	_	
+9-7	718-729	Archipelago	https://en.wikipedia.org/wiki/Duchy\_of\_the\_Archipelago	LOC	
+9-8	729-730	.	_	_	
+
+#Text=The Edea has been four years ia Coauaission, and so effectual has bean ths system of Hygieaae rirnm mended, and screpulouly adopted, that only three mea have died on board her in that period.
+10-1	731-734	The	_	_	
+10-2	735-739	Edea	_	_	
+10-3	740-743	has	_	_	
+10-4	744-748	been	_	_	
+10-5	749-753	four	_	_	
+10-6	754-759	years	_	_	
+10-7	760-762	ia	_	_	
+10-8	763-774	Coauaission	*	LOC	
+10-9	774-775	,	_	_	
+10-10	776-779	and	_	_	
+10-11	780-782	so	_	_	
+10-12	783-792	effectual	_	_	
+10-13	793-796	has	_	_	
+10-14	797-801	bean	_	_	
+10-15	802-805	ths	_	_	
+10-16	806-812	system	_	_	
+10-17	813-815	of	_	_	
+10-18	816-824	Hygieaae	_	_	
+10-19	825-830	rirnm	_	_	
+10-20	831-837	mended	_	_	
+10-21	837-838	,	_	_	
+10-22	839-842	and	_	_	
+10-23	843-854	screpulouly	_	_	
+10-24	855-862	adopted	_	_	
+10-25	862-863	,	_	_	
+10-26	864-868	that	_	_	
+10-27	869-873	only	_	_	
+10-28	874-879	three	_	_	
+10-29	880-883	mea	_	_	
+10-30	884-888	have	_	_	
+10-31	889-893	died	_	_	
+10-32	894-896	on	_	_	
+10-33	897-902	board	_	_	
+10-34	903-906	her	_	_	
+10-35	907-909	in	_	_	
+10-36	910-914	that	_	_	
+10-37	915-921	period	_	_	
+10-38	921-922	.	_	_	
+
+#Text=She sailed on Thursday, fog Deptford, to be paid off.
+11-1	923-926	She	_	_	
+11-2	927-933	sailed	_	_	
+11-3	934-936	on	_	_	
+11-4	937-945	Thursday	_	_	
+11-5	945-946	,	_	_	
+11-6	947-950	fog	_	_	
+11-7	951-959	Deptford	https://en.wikipedia.org/wiki/Deptford	LOC	
+11-8	959-960	,	_	_	
+11-9	961-963	to	_	_	
+11-10	964-966	be	_	_	
+11-11	967-971	paid	_	_	
+11-12	972-975	off	_	_	
+11-13	975-976	.	_	_	
+
+#Text=Last night the Swinger, 10, Lieut. 6.
+12-1	977-981	Last	_	_	
+12-2	982-987	night	_	_	
+12-3	988-991	the	_	_	
+12-4	992-999	Swinger	_	_	
+12-5	999-1000	,	_	_	
+12-6	1001-1003	10	_	_	
+12-7	1003-1004	,	_	_	
+12-8	1005-1010	Lieut	_	_	
+12-9	1010-1011	.	_	_	
+12-10	1012-1013	6	_	_	
+12-11	1013-1014	.	_	_	
+
+#Text=W.
+13-1	1015-1016	W	_	_	
+13-2	1016-1017	.	_	_	
+
+#Text=Matson, arrived from the Coast of Africa, having bean nearly fonr yean <m that station, during which tbo font three Commanders by the fever of that climate.
+14-1	1018-1024	Matson	_	_	
+14-2	1024-1025	,	_	_	
+14-3	1026-1033	arrived	_	_	
+14-4	1034-1038	from	_	_	
+14-5	1039-1042	the	_	_	
+14-6	1043-1048	Coast	*[2]	LOC[2]	
+14-7	1049-1051	of	*[2]	LOC[2]	
+14-8	1052-1058	Africa	*[2]	LOC[2]	
+14-9	1058-1059	,	_	_	
+14-10	1060-1066	having	_	_	
+14-11	1067-1071	bean	_	_	
+14-12	1072-1078	nearly	_	_	
+14-13	1079-1083	fonr	_	_	
+14-14	1084-1088	yean	_	_	
+14-15	1089-1090	<	_	_	
+14-16	1090-1091	m	_	_	
+14-17	1092-1096	that	_	_	
+14-18	1097-1104	station	_	_	
+14-19	1104-1105	,	_	_	
+14-20	1106-1112	during	_	_	
+14-21	1113-1118	which	_	_	
+14-22	1119-1122	tbo	_	_	
+14-23	1123-1127	font	_	_	
+14-24	1128-1133	three	_	_	
+14-25	1134-1144	Commanders	_	_	
+14-26	1145-1147	by	_	_	
+14-27	1148-1151	the	_	_	
+14-28	1152-1157	fever	_	_	
+14-29	1158-1160	of	_	_	
+14-30	1161-1165	that	_	_	
+14-31	1166-1173	climate	_	_	
+14-32	1173-1174	.	_	_	
+
+#Text=She left Sierra Leone on the nth of May, bringing one of the Commiwiooen of Inspection sad Inquiry, who, went out some months sines.
+15-1	1175-1178	She	_	_	
+15-2	1179-1183	left	_	_	
+15-3	1184-1190	Sierra	https://en.wikipedia.org/wiki/Sierra\_Leone[3]	LOC[3]	
+15-4	1191-1196	Leone	https://en.wikipedia.org/wiki/Sierra\_Leone[3]	LOC[3]	
+15-5	1197-1199	on	_	_	
+15-6	1200-1203	the	_	_	
+15-7	1204-1207	nth	_	_	
+15-8	1208-1210	of	_	_	
+15-9	1211-1214	May	_	_	
+15-10	1214-1215	,	_	_	
+15-11	1216-1224	bringing	_	_	
+15-12	1225-1228	one	_	_	
+15-13	1229-1231	of	_	_	
+15-14	1232-1235	the	_	_	
+15-15	1236-1247	Commiwiooen	_	_	
+15-16	1248-1250	of	_	_	
+15-17	1251-1261	Inspection	_	_	
+15-18	1262-1265	sad	_	_	
+15-19	1266-1273	Inquiry	_	_	
+15-20	1273-1274	,	_	_	
+15-21	1275-1278	who	_	_	
+15-22	1278-1279	,	_	_	
+15-23	1280-1284	went	_	_	
+15-24	1285-1288	out	_	_	
+15-25	1289-1293	some	_	_	
+15-26	1294-1300	months	_	_	
+15-27	1301-1306	sines	_	_	
+15-28	1306-1307	.	_	_	
+
+#Text=The rainy season had jogt commenced, but the ships were remarkably healthy.
+16-1	1308-1311	The	_	_	
+16-2	1312-1317	rainy	_	_	
+16-3	1318-1324	season	_	_	
+16-4	1325-1328	had	_	_	
+16-5	1329-1333	jogt	_	_	
+16-6	1334-1343	commenced	_	_	
+16-7	1343-1344	,	_	_	
+16-8	1345-1348	but	_	_	
+16-9	1349-1352	the	_	_	
+16-10	1353-1358	ships	_	_	
+16-11	1359-1363	were	_	_	
+16-12	1364-1374	remarkably	_	_	
+16-13	1375-1382	healthy	_	_	
+16-14	1382-1383	.	_	_	
+
+#Text=On Tuesday hit Mfjestv’s brig Alacrity, Captain Geo.
+17-1	1384-1386	On	_	_	
+17-2	1387-1394	Tuesday	_	_	
+17-3	1395-1398	hit	_	_	
+17-4	1399-1406	Mfjestv	_	_	
+17-5	1406-1407	’	_	_	
+17-6	1407-1408	s	_	_	
+17-7	1409-1413	brig	_	_	
+17-8	1414-1422	Alacrity	_	_	
+17-9	1422-1423	,	_	_	
+17-10	1424-1431	Captain	_	_	
+17-11	1432-1435	Geo	_	_	
+17-12	1435-1436	.	_	_	
+
+#Text=J.
+18-1	1437-1438	J	_	_	
+18-2	1438-1439	.	_	_	
+
+#Text=Hope Johostoaa, arrived Rom Naples, whence she sailed m the Std May, bringing despatches from Admiral Sir Harry Neale, who was about to sail is the Revenge, for Athsns.
+19-1	1440-1444	Hope	_	_	
+19-2	1445-1454	Johostoaa	_	_	
+19-3	1454-1455	,	_	_	
+19-4	1456-1463	arrived	_	_	
+19-5	1464-1467	Rom	_	_	
+19-6	1468-1474	Naples	_	_	
+19-7	1474-1475	,	_	_	
+19-8	1476-1482	whence	_	_	
+19-9	1483-1486	she	_	_	
+19-10	1487-1493	sailed	_	_	
+19-11	1494-1495	m	_	_	
+19-12	1496-1499	the	_	_	
+19-13	1500-1503	Std	_	_	
+19-14	1504-1507	May	_	_	
+19-15	1507-1508	,	_	_	
+19-16	1509-1517	bringing	_	_	
+19-17	1518-1528	despatches	_	_	
+19-18	1529-1533	from	_	_	
+19-19	1534-1541	Admiral	_	_	
+19-20	1542-1545	Sir	_	_	
+19-21	1546-1551	Harry	_	_	
+19-22	1552-1557	Neale	_	_	
+19-23	1557-1558	,	_	_	
+19-24	1559-1562	who	_	_	
+19-25	1563-1566	was	_	_	
+19-26	1567-1572	about	_	_	
+19-27	1573-1575	to	_	_	
+19-28	1576-1580	sail	_	_	
+19-29	1581-1583	is	_	_	
+19-30	1584-1587	the	_	_	
+19-31	1588-1595	Revenge	_	_	
+19-32	1595-1596	,	_	_	
+19-33	1597-1600	for	_	_	
+19-34	1601-1607	Athsns	_	_	
+19-35	1607-1608	.	_	_	
+
+#Text=TbaSyNOe, 46, Sir Samuel Peckell, Bart., had proceedsd thither.
+20-1	1609-1617	TbaSyNOe	_	_	
+20-2	1617-1618	,	_	_	
+20-3	1619-1621	46	_	_	
+20-4	1621-1622	,	_	_	
+20-5	1623-1626	Sir	_	_	
+20-6	1627-1633	Samuel	_	_	
+20-7	1634-1641	Peckell	_	_	
+20-8	1641-1642	,	_	_	
+20-9	1643-1647	Bart	_	_	
+20-10	1647-1648	.	_	_	
+20-11	1648-1649	,	_	_	
+20-12	1650-1653	had	_	_	
+20-13	1654-1663	proceedsd	_	_	
+20-14	1664-1671	thither	_	_	
+20-15	1671-1672	.	_	_	
+
+#Text=On Friday and Saturday last a Court Martial was held at Plymouth, to try Mr.
+21-1	1673-1675	On	_	_	
+21-2	1676-1682	Friday	_	_	
+21-3	1683-1686	and	_	_	
+21-4	1687-1695	Saturday	_	_	
+21-5	1696-1700	last	_	_	
+21-6	1701-1702	a	_	_	
+21-7	1703-1708	Court	_	_	
+21-8	1709-1716	Martial	_	_	
+21-9	1717-1720	was	_	_	
+21-10	1721-1725	held	_	_	
+21-11	1726-1728	at	_	_	
+21-12	1729-1737	Plymouth	https://en.wikipedia.org/wiki/Plymouth	LOC	
+21-13	1737-1738	,	_	_	
+21-14	1739-1741	to	_	_	
+21-15	1742-1745	try	_	_	
+21-16	1746-1748	Mr	_	_	
+21-17	1748-1749	.	_	_	
+
+#Text=Georgs Hsanafotd, Master of bit Majestys ship North Star for his conduct whoa that ship was run ashore on the Breakwater; wbea the Court agraed, that hit Majestys ship North Star was run upon the Breakwater, oa the Sith of June, through the gross negligence of the said Mr.
+22-1	1750-1756	Georgs	_	_	
+22-2	1757-1766	Hsanafotd	_	_	
+22-3	1766-1767	,	_	_	
+22-4	1768-1774	Master	_	_	
+22-5	1775-1777	of	_	_	
+22-6	1778-1781	bit	_	_	
+22-7	1782-1790	Majestys	_	_	
+22-8	1791-1795	ship	_	_	
+22-9	1796-1801	North	_	_	
+22-10	1802-1806	Star	_	_	
+22-11	1807-1810	for	_	_	
+22-12	1811-1814	his	_	_	
+22-13	1815-1822	conduct	_	_	
+22-14	1823-1827	whoa	_	_	
+22-15	1828-1832	that	_	_	
+22-16	1833-1837	ship	_	_	
+22-17	1838-1841	was	_	_	
+22-18	1842-1845	run	_	_	
+22-19	1846-1852	ashore	_	_	
+22-20	1853-1855	on	_	_	
+22-21	1856-1859	the	_	_	
+22-22	1860-1870	Breakwater	_	_	
+22-23	1870-1871	;	_	_	
+22-24	1872-1876	wbea	_	_	
+22-25	1877-1880	the	_	_	
+22-26	1881-1886	Court	_	_	
+22-27	1887-1893	agraed	_	_	
+22-28	1893-1894	,	_	_	
+22-29	1895-1899	that	_	_	
+22-30	1900-1903	hit	_	_	
+22-31	1904-1912	Majestys	_	_	
+22-32	1913-1917	ship	_	_	
+22-33	1918-1923	North	_	_	
+22-34	1924-1928	Star	_	_	
+22-35	1929-1932	was	_	_	
+22-36	1933-1936	run	_	_	
+22-37	1937-1941	upon	_	_	
+22-38	1942-1945	the	_	_	
+22-39	1946-1956	Breakwater	_	_	
+22-40	1956-1957	,	_	_	
+22-41	1958-1960	oa	_	_	
+22-42	1961-1964	the	_	_	
+22-43	1965-1969	Sith	_	_	
+22-44	1970-1972	of	_	_	
+22-45	1973-1977	June	_	_	
+22-46	1977-1978	,	_	_	
+22-47	1979-1986	through	_	_	
+22-48	1987-1990	the	_	_	
+22-49	1991-1996	gross	_	_	
+22-50	1997-2007	negligence	_	_	
+22-51	2008-2010	of	_	_	
+22-52	2011-2014	the	_	_	
+22-53	2015-2019	said	_	_	
+22-54	2020-2022	Mr	_	_	
+22-55	2022-2023	.	_	_	
+
+#Text=G.
+23-1	2024-2025	G	_	_	
+23-2	2025-2026	.	_	_	
+
+#Text=Hasoaford, in conducting the said ship into Plymouth Sound; and Ihi Court, therefore, did adjudge Mr.Hanaaford lobeditr missed from hit Majestys Fipoa, PrMidrel
+24-1	2027-2036	Hasoaford	_	_	
+24-2	2036-2037	,	_	_	
+24-3	2038-2040	in	_	_	
+24-4	2041-2051	conducting	_	_	
+24-5	2052-2055	the	_	_	
+24-6	2056-2060	said	_	_	
+24-7	2061-2065	ship	_	_	
+24-8	2066-2070	into	_	_	
+24-9	2071-2079	Plymouth	https://en.wikipedia.org/wiki/Plymouth\_Sound[4]	LOC[4]	
+24-10	2080-2085	Sound	https://en.wikipedia.org/wiki/Plymouth\_Sound[4]	LOC[4]	
+24-11	2085-2086	;	_	_	
+24-12	2087-2090	and	_	_	
+24-13	2091-2094	Ihi	_	_	
+24-14	2095-2100	Court	_	_	
+24-15	2100-2101	,	_	_	
+24-16	2102-2111	therefore	_	_	
+24-17	2111-2112	,	_	_	
+24-18	2113-2116	did	_	_	
+24-19	2117-2124	adjudge	_	_	
+24-20	2125-2137	Mr.Hanaaford	_	_	
+24-21	2138-2146	lobeditr	_	_	
+24-22	2147-2153	missed	_	_	
+24-23	2154-2158	from	_	_	
+24-24	2159-2162	hit	_	_	
+24-25	2163-2171	Majestys	_	_	
+24-26	2172-2177	Fipoa	_	_	
+24-27	2177-2178	,	_	_	
+24-28	2179-2187	PrMidrel	_	_	

@@ -1,0 +1,540 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=SPORTING INTELLIGENCE 
+#Text=Rabbit Cocb»ing.
+1-1	0-8	SPORTING	_	_	
+1-2	9-21	INTELLIGENCE	_	_	
+1-3	23-29	Rabbit	_	_	
+1-4	30-34	Cocb	_	_	
+1-5	34-35	»	_	_	
+1-6	35-38	ing	_	_	
+1-7	38-39	.	_	_	
+
+#Text=—At the City Grounds, near the Ashton-road, there was a rabbit match decided yesterday between H.
+2-1	39-40	—	_	_	
+2-2	40-42	At	_	_	
+2-3	43-46	the	_	_	
+2-4	47-51	City	*[1]	LOC[1]	
+2-5	52-59	Grounds	*[1]	LOC[1]	
+2-6	59-60	,	_	_	
+2-7	61-65	near	_	_	
+2-8	66-69	the	_	_	
+2-9	70-81	Ashton-road	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+2-9.1	70-76	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+2-10	81-82	,	_	_	
+2-11	83-88	there	_	_	
+2-12	89-92	was	_	_	
+2-13	93-94	a	_	_	
+2-14	95-101	rabbit	_	_	
+2-15	102-107	match	_	_	
+2-16	108-115	decided	_	_	
+2-17	116-125	yesterday	_	_	
+2-18	126-133	between	_	_	
+2-19	134-135	H	_	_	
+2-20	135-136	.	_	_	
+
+#Text=Moores Sweep, confined to 261b., and R.
+3-1	137-143	Moores	_	_	
+3-2	144-149	Sweep	_	_	
+3-3	149-150	,	_	_	
+3-4	151-159	confined	_	_	
+3-5	160-162	to	_	_	
+3-6	163-167	261b	_	_	
+3-7	167-168	.	_	_	
+3-8	168-169	,	_	_	
+3-9	170-173	and	_	_	
+3-10	174-175	R	_	_	
+3-11	175-176	.	_	_	
+
+#Text=Smiths Tiny, running at oatch weight, both, of Liverpool, tor £20.
+4-1	177-183	Smiths	_	_	
+4-2	184-188	Tiny	_	_	
+4-3	188-189	,	_	_	
+4-4	190-197	running	_	_	
+4-5	198-200	at	_	_	
+4-6	201-206	oatch	_	_	
+4-7	207-213	weight	_	_	
+4-8	213-214	,	_	_	
+4-9	215-219	both	_	_	
+4-10	219-220	,	_	_	
+4-11	221-223	of	_	_	
+4-12	224-233	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+4-13	233-234	,	_	_	
+4-14	235-238	tor	_	_	
+4-15	239-242	£20	_	_	
+4-16	242-243	.	_	_	
+
+#Text=The conditions were the best of 21 oourses, 60 yards law.
+5-1	244-247	The	_	_	
+5-2	248-258	conditions	_	_	
+5-3	259-263	were	_	_	
+5-4	264-267	the	_	_	
+5-5	268-272	best	_	_	
+5-6	273-275	of	_	_	
+5-7	276-278	21	_	_	
+5-8	279-286	oourses	_	_	
+5-9	286-287	,	_	_	
+5-10	288-290	60	_	_	
+5-11	291-296	yards	_	_	
+5-12	297-300	law	_	_	
+5-13	300-301	.	_	_	
+
+#Text=The betting was 6t04 on Sweep, who proved an easy winner by catching 11 to Tinys 2.
+6-1	302-305	The	_	_	
+6-2	306-313	betting	_	_	
+6-3	314-317	was	_	_	
+6-4	318-322	6t04	_	_	
+6-5	323-325	on	_	_	
+6-6	326-331	Sweep	_	_	
+6-7	331-332	,	_	_	
+6-8	333-336	who	_	_	
+6-9	337-343	proved	_	_	
+6-10	344-346	an	_	_	
+6-11	347-351	easy	_	_	
+6-12	352-358	winner	_	_	
+6-13	359-361	by	_	_	
+6-14	362-370	catching	_	_	
+6-15	371-373	11	_	_	
+6-16	374-376	to	_	_	
+6-17	377-382	Tinys	_	_	
+6-18	383-384	2	_	_	
+6-19	384-385	.	_	_	
+
+#Text=—At the Royal Oak park Grounds, Newton Heath, yesterday, there were a couple of rabbit matches decided, the moat important being between J.
+7-1	385-386	—	_	_	
+7-2	386-388	At	_	_	
+7-3	389-392	the	_	_	
+7-4	393-398	Royal	*[2]	LOC[2]	
+7-5	399-402	Oak	*[2]	LOC[2]	
+7-6	403-407	park	*[2]	LOC[2]	
+7-7	408-415	Grounds	*[2]	LOC[2]	
+7-8	415-416	,	_	_	
+7-9	417-423	Newton	https://en.wikipedia.org/wiki/Newton\_Heath[3]	LOC[3]	
+7-10	424-429	Heath	https://en.wikipedia.org/wiki/Newton\_Heath[3]	LOC[3]	
+7-11	429-430	,	_	_	
+7-12	431-440	yesterday	_	_	
+7-13	440-441	,	_	_	
+7-14	442-447	there	_	_	
+7-15	448-452	were	_	_	
+7-16	453-454	a	_	_	
+7-17	455-461	couple	_	_	
+7-18	462-464	of	_	_	
+7-19	465-471	rabbit	_	_	
+7-20	472-479	matches	_	_	
+7-21	480-487	decided	_	_	
+7-22	487-488	,	_	_	
+7-23	489-492	the	_	_	
+7-24	493-497	moat	_	_	
+7-25	498-507	important	_	_	
+7-26	508-513	being	_	_	
+7-27	514-521	between	_	_	
+7-28	522-523	J	_	_	
+7-29	523-524	.	_	_	
+
+#Text=Long shows Rose and R.
+8-1	525-529	Long	_	_	
+8-2	530-535	shows	_	_	
+8-3	536-540	Rose	_	_	
+8-4	541-544	and	_	_	
+8-5	545-546	R	_	_	
+8-6	546-547	.	_	_	
+
+#Text=Joness Boss, 31 ooursee itLe former having one course given), for J£m), both dogs bailing from Crewe.
+9-1	548-554	Joness	_	_	
+9-2	555-559	Boss	_	_	
+9-3	559-560	,	_	_	
+9-4	561-563	31	_	_	
+9-5	564-571	ooursee	_	_	
+9-6	572-576	itLe	_	_	
+9-7	577-583	former	_	_	
+9-8	584-590	having	_	_	
+9-9	591-594	one	_	_	
+9-10	595-601	course	_	_	
+9-11	602-607	given	_	_	
+9-12	607-608	)	_	_	
+9-13	608-609	,	_	_	
+9-14	610-613	for	_	_	
+9-15	614-615	J	_	_	
+9-16	615-616	£	_	_	
+9-17	616-617	m	_	_	
+9-18	617-618	)	_	_	
+9-19	618-619	,	_	_	
+9-20	620-624	both	_	_	
+9-21	625-629	dogs	_	_	
+9-22	630-637	bailing	_	_	
+9-23	638-642	from	_	_	
+9-24	643-648	Crewe	https://en.wikipedia.org/wiki/Crewe	LOC	
+9-25	648-649	.	_	_	
+
+#Text=The betting was 6t04 on Boss, but fhe was defeated by 6 courses, Rose catching 15, with tLe course given, while Bess was only 10.
+10-1	650-653	The	_	_	
+10-2	654-661	betting	_	_	
+10-3	662-665	was	_	_	
+10-4	666-670	6t04	_	_	
+10-5	671-673	on	_	_	
+10-6	674-678	Boss	_	_	
+10-7	678-679	,	_	_	
+10-8	680-683	but	_	_	
+10-9	684-687	fhe	_	_	
+10-10	688-691	was	_	_	
+10-11	692-700	defeated	_	_	
+10-12	701-703	by	_	_	
+10-13	704-705	6	_	_	
+10-14	706-713	courses	_	_	
+10-15	713-714	,	_	_	
+10-16	715-719	Rose	_	_	
+10-17	720-728	catching	_	_	
+10-18	729-731	15	_	_	
+10-19	731-732	,	_	_	
+10-20	733-737	with	_	_	
+10-21	738-741	tLe	_	_	
+10-22	742-748	course	_	_	
+10-23	749-754	given	_	_	
+10-24	754-755	,	_	_	
+10-25	756-761	while	_	_	
+10-26	762-766	Bess	_	_	
+10-27	767-770	was	_	_	
+10-28	771-775	only	_	_	
+10-29	776-778	10	_	_	
+10-30	778-779	.	_	_	
+
+#Text=The 4th, 6th, and 2<th courses were undecided.
+11-1	780-783	The	_	_	
+11-2	784-787	4th	_	_	
+11-3	787-788	,	_	_	
+11-4	789-792	6th	_	_	
+11-5	792-793	,	_	_	
+11-6	794-797	and	_	_	
+11-7	798-799	2	_	_	
+11-8	799-800	<	_	_	
+11-9	800-802	th	_	_	
+11-10	803-810	courses	_	_	
+11-11	811-815	were	_	_	
+11-12	816-825	undecided	_	_	
+11-13	825-826	.	_	_	
+
+#Text=PXDBBTRIAV HANDICAP AT SHEFFIELD.
+12-1	827-837	PXDBBTRIAV	_	_	
+12-2	838-846	HANDICAP	_	_	
+12-3	847-849	AT	_	_	
+12-4	850-859	SHEFFIELD	https://en.wikipedia.org/wiki/Sheffield	LOC	
+12-5	859-860	.	_	_	
+
+#Text=—The concluding heats of a monster Christmas handicap, distance2o7 yards, which commenced on Saturday at the Hyde Park Grounds, Sb* ffield, were run off yesterday for prizes amounting to £100.
+13-1	860-861	—	_	_	
+13-2	861-864	The	_	_	
+13-3	865-875	concluding	_	_	
+13-4	876-881	heats	_	_	
+13-5	882-884	of	_	_	
+13-6	885-886	a	_	_	
+13-7	887-894	monster	_	_	
+13-8	895-904	Christmas	_	_	
+13-9	905-913	handicap	_	_	
+13-10	913-914	,	_	_	
+13-11	915-926	distance2o7	_	_	
+13-12	927-932	yards	_	_	
+13-13	932-933	,	_	_	
+13-14	934-939	which	_	_	
+13-15	940-949	commenced	_	_	
+13-16	950-952	on	_	_	
+13-17	953-961	Saturday	_	_	
+13-18	962-964	at	_	_	
+13-19	965-968	the	_	_	
+13-20	969-973	Hyde	*[4]	LOC[4]	
+13-21	974-978	Park	*[4]	LOC[4]	
+13-22	979-986	Grounds	*[4]	LOC[4]	
+13-23	986-987	,	_	_	
+13-24	988-990	Sb	https://en.wikipedia.org/wiki/Sheffield[5]	LOC[5]	
+13-25	990-991	*	https://en.wikipedia.org/wiki/Sheffield[5]	LOC[5]	
+13-26	992-998	ffield	https://en.wikipedia.org/wiki/Sheffield[5]	LOC[5]	
+13-27	998-999	,	_	_	
+13-28	1000-1004	were	_	_	
+13-29	1005-1008	run	_	_	
+13-30	1009-1012	off	_	_	
+13-31	1013-1022	yesterday	_	_	
+13-32	1023-1026	for	_	_	
+13-33	1027-1033	prizes	_	_	
+13-34	1034-1043	amounting	_	_	
+13-35	1044-1046	to	_	_	
+13-36	1047-1051	£100	_	_	
+13-37	1051-1052	.	_	_	
+
+#Text=The prize was £80, second £12 10a, third £5, and fourth £2 IBs.
+14-1	1053-1056	The	_	_	
+14-2	1057-1062	prize	_	_	
+14-3	1063-1066	was	_	_	
+14-4	1067-1070	£80	_	_	
+14-5	1070-1071	,	_	_	
+14-6	1072-1078	second	_	_	
+14-7	1079-1082	£12	_	_	
+14-8	1083-1086	10a	_	_	
+14-9	1086-1087	,	_	_	
+14-10	1088-1093	third	_	_	
+14-11	1094-1096	£5	_	_	
+14-12	1096-1097	,	_	_	
+14-13	1098-1101	and	_	_	
+14-14	1102-1108	fourth	_	_	
+14-15	1109-1111	£2	_	_	
+14-16	1112-1115	IBs	_	_	
+14-17	1115-1116	.	_	_	
+
+#Text=The following 15 winners on Saturday were drawn in four heats:—E.
+15-1	1117-1120	The	_	_	
+15-2	1121-1130	following	_	_	
+15-3	1131-1133	15	_	_	
+15-4	1134-1141	winners	_	_	
+15-5	1142-1144	on	_	_	
+15-6	1145-1153	Saturday	_	_	
+15-7	1154-1158	were	_	_	
+15-8	1159-1164	drawn	_	_	
+15-9	1165-1167	in	_	_	
+15-10	1168-1172	four	_	_	
+15-11	1173-1178	heats	_	_	
+15-12	1178-1179	:	_	_	
+15-13	1179-1180	—	_	_	
+15-14	1180-1181	E	_	_	
+15-15	1181-1182	.	_	_	
+
+#Text=Waghorn, Ashford, 67$ yards start; J.
+16-1	1183-1190	Waghorn	_	_	
+16-2	1190-1191	,	_	_	
+16-3	1192-1199	Ashford	https://en.wikipedia.org/wiki/Ashford,\_Kent	LOC	
+16-4	1199-1200	,	_	_	
+16-5	1201-1203	67	_	_	
+16-6	1203-1204	$	_	_	
+16-7	1205-1210	yards	_	_	
+16-8	1211-1216	start	_	_	
+16-9	1216-1217	;	_	_	
+16-10	1218-1219	J	_	_	
+16-11	1219-1220	.	_	_	
+
+#Text=Ward, Carlisle, 67; J.
+17-1	1221-1225	Ward	_	_	
+17-2	1225-1226	,	_	_	
+17-3	1227-1235	Carlisle	https://en.wikipedia.org/wiki/Carlisle	LOC	
+17-4	1235-1236	,	_	_	
+17-5	1237-1239	67	_	_	
+17-6	1239-1240	;	_	_	
+17-7	1241-1242	J	_	_	
+17-8	1242-1243	.	_	_	
+
+#Text=Dunster, Sheffield, 70£ ; F.
+18-1	1244-1251	Dunster	_	_	
+18-2	1251-1252	,	_	_	
+18-3	1253-1262	Sheffield	https://en.wikipedia.org/wiki/Sheffield	LOC	
+18-4	1262-1263	,	_	_	
+18-5	1264-1266	70	_	_	
+18-6	1266-1267	£	_	_	
+18-7	1268-1269	;	_	_	
+18-8	1270-1271	F	_	_	
+18-9	1271-1272	.	_	_	
+
+#Text=Green, Lincoln, 675; S.
+19-1	1273-1278	Green	_	_	
+19-2	1278-1279	,	_	_	
+19-3	1280-1287	Lincoln	https://en.wikipedia.org/wiki/Lincoln,\_England	LOC	
+19-4	1287-1288	,	_	_	
+19-5	1289-1292	675	_	_	
+19-6	1292-1293	;	_	_	
+19-7	1294-1295	S	_	_	
+19-8	1295-1296	.	_	_	
+
+#Text=Plant, Eckington, 69£; T. renton, Hull, 68$; R.
+20-1	1297-1302	Plant	_	_	
+20-2	1302-1303	,	_	_	
+20-3	1304-1313	Eckington	https://en.wikipedia.org/wiki/Eckington,\_Derbyshire	LOC	
+20-4	1313-1314	,	_	_	
+20-5	1315-1317	69	_	_	
+20-6	1317-1318	£	_	_	
+20-7	1318-1319	;	_	_	
+20-8	1320-1321	T	_	_	
+20-9	1321-1322	.	_	_	
+20-10	1323-1329	renton	_	_	
+20-11	1329-1330	,	_	_	
+20-12	1331-1335	Hull	https://en.wikipedia.org/wiki/Kingston\_upon\_Hull	LOC	
+20-13	1335-1336	,	_	_	
+20-14	1337-1339	68	_	_	
+20-15	1339-1340	$	_	_	
+20-16	1340-1341	;	_	_	
+20-17	1342-1343	R	_	_	
+20-18	1343-1344	.	_	_	
+
+#Text=King, Middlesbro, 70; T.
+21-1	1345-1349	King	_	_	
+21-2	1349-1350	,	_	_	
+21-3	1351-1361	Middlesbro	https://en.wikipedia.org/wiki/Middlesbrough	LOC	
+21-4	1361-1362	,	_	_	
+21-5	1363-1365	70	_	_	
+21-6	1365-1366	;	_	_	
+21-7	1367-1368	T	_	_	
+21-8	1368-1369	.	_	_	
+
+#Text=Wingfield, Sheffield, 72 ; T.
+22-1	1370-1379	Wingfield	_	_	
+22-2	1379-1380	,	_	_	
+22-3	1381-1390	Sheffield	https://en.wikipedia.org/wiki/Sheffield	LOC	
+22-4	1390-1391	,	_	_	
+22-5	1392-1394	72	_	_	
+22-6	1395-1396	;	_	_	
+22-7	1397-1398	T	_	_	
+22-8	1398-1399	.	_	_	
+
+#Text=Darley, Sheffield, 72; J.
+23-1	1400-1406	Darley	_	_	
+23-2	1406-1407	,	_	_	
+23-3	1408-1417	Sheffield	https://en.wikipedia.org/wiki/Sheffield	LOC	
+23-4	1417-1418	,	_	_	
+23-5	1419-1421	72	_	_	
+23-6	1421-1422	;	_	_	
+23-7	1423-1424	J	_	_	
+23-8	1424-1425	.	_	_	
+
+#Text=Usherwood, Blackburn, 67 ; F.
+24-1	1426-1435	Usherwood	_	_	
+24-2	1435-1436	,	_	_	
+24-3	1437-1446	Blackburn	https://en.wikipedia.org/wiki/Blackburn	LOC	
+24-4	1446-1447	,	_	_	
+24-5	1448-1450	67	_	_	
+24-6	1451-1452	;	_	_	
+24-7	1453-1454	F	_	_	
+24-8	1454-1455	.	_	_	
+
+#Text=Bolton, Walsall, 69$ ; G.
+25-1	1456-1462	Bolton	_	_	
+25-2	1462-1463	,	_	_	
+25-3	1464-1471	Walsall	https://en.wikipedia.org/wiki/Walsall	LOC	
+25-4	1471-1472	,	_	_	
+25-5	1473-1475	69	_	_	
+25-6	1475-1476	$	_	_	
+25-7	1477-1478	;	_	_	
+25-8	1479-1480	G	_	_	
+25-9	1480-1481	.	_	_	
+
+#Text=Batty, Leeds, 07 : J.
+26-1	1482-1487	Batty	_	_	
+26-2	1487-1488	,	_	_	
+26-3	1489-1494	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+26-4	1494-1495	,	_	_	
+26-5	1496-1498	07	_	_	
+26-6	1499-1500	:	_	_	
+26-7	1501-1502	J	_	_	
+26-8	1502-1503	.	_	_	
+
+#Text=Smith, Ashton. 68.\\; J.
+27-1	1504-1509	Smith	_	_	
+27-2	1509-1510	,	_	_	
+27-3	1511-1517	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+27-4	1517-1518	.	_	_	
+27-5	1519-1521	68	_	_	
+27-6	1521-1522	.	_	_	
+27-7	1522-1523	\	_	_	
+27-8	1523-1524	;	_	_	
+27-9	1525-1526	J	_	_	
+27-10	1526-1527	.	_	_	
+
+#Text=MDermont, Sheffield, 655; snd G.
+28-1	1528-1536	MDermont	_	_	
+28-2	1536-1537	,	_	_	
+28-3	1538-1547	Sheffield	https://en.wikipedia.org/wiki/Sheffield	LOC	
+28-4	1547-1548	,	_	_	
+28-5	1549-1552	655	_	_	
+28-6	1552-1553	;	_	_	
+28-7	1554-1557	snd	_	_	
+28-8	1558-1559	G	_	_	
+28-9	1559-1560	.	_	_	
+
+#Text=Crawshaw, Sheffield, 72.
+29-1	1561-1569	Crawshaw	_	_	
+29-2	1569-1570	,	_	_	
+29-3	1571-1580	Sheffield	https://en.wikipedia.org/wiki/Sheffield	LOC	
+29-4	1580-1581	,	_	_	
+29-5	1582-1584	72	_	_	
+29-6	1584-1585	.	_	_	
+
+#Text=The final heat resulted in favour of Dunster by two yards; Ward was second, a yard in advance of Crawshaw; and Wingfield fourth.
+30-1	1586-1589	The	_	_	
+30-2	1590-1595	final	_	_	
+30-3	1596-1600	heat	_	_	
+30-4	1601-1609	resulted	_	_	
+30-5	1610-1612	in	_	_	
+30-6	1613-1619	favour	_	_	
+30-7	1620-1622	of	_	_	
+30-8	1623-1630	Dunster	_	_	
+30-9	1631-1633	by	_	_	
+30-10	1634-1637	two	_	_	
+30-11	1638-1643	yards	_	_	
+30-12	1643-1644	;	_	_	
+30-13	1645-1649	Ward	_	_	
+30-14	1650-1653	was	_	_	
+30-15	1654-1660	second	_	_	
+30-16	1660-1661	,	_	_	
+30-17	1662-1663	a	_	_	
+30-18	1664-1668	yard	_	_	
+30-19	1669-1671	in	_	_	
+30-20	1672-1679	advance	_	_	
+30-21	1680-1682	of	_	_	
+30-22	1683-1691	Crawshaw	_	_	
+30-23	1691-1692	;	_	_	
+30-24	1693-1696	and	_	_	
+30-25	1697-1706	Wingfield	_	_	
+30-26	1707-1713	fourth	_	_	
+30-27	1713-1714	.	_	_	
+
+#Text=The betting at the start was even on Dunster, 6 to 4 agst Ward, 7 to 1 agst Crawshaw, and 14 to 1 agst WingSeid.
+31-1	1715-1718	The	_	_	
+31-2	1719-1726	betting	_	_	
+31-3	1727-1729	at	_	_	
+31-4	1730-1733	the	_	_	
+31-5	1734-1739	start	_	_	
+31-6	1740-1743	was	_	_	
+31-7	1744-1748	even	_	_	
+31-8	1749-1751	on	_	_	
+31-9	1752-1759	Dunster	_	_	
+31-10	1759-1760	,	_	_	
+31-11	1761-1762	6	_	_	
+31-12	1763-1765	to	_	_	
+31-13	1766-1767	4	_	_	
+31-14	1768-1772	agst	_	_	
+31-15	1773-1777	Ward	_	_	
+31-16	1777-1778	,	_	_	
+31-17	1779-1780	7	_	_	
+31-18	1781-1783	to	_	_	
+31-19	1784-1785	1	_	_	
+31-20	1786-1790	agst	_	_	
+31-21	1791-1799	Crawshaw	_	_	
+31-22	1799-1800	,	_	_	
+31-23	1801-1804	and	_	_	
+31-24	1805-1807	14	_	_	
+31-25	1808-1810	to	_	_	
+31-26	1811-1812	1	_	_	
+31-27	1813-1817	agst	_	_	
+31-28	1818-1826	WingSeid	_	_	
+31-29	1826-1827	.	_	_	
+
+#Text=There wss a heavy fall of snow during the tiase of running, but despite the weather upwards of 6,000 persons were present.
+32-1	1828-1833	There	_	_	
+32-2	1834-1837	wss	_	_	
+32-3	1838-1839	a	_	_	
+32-4	1840-1845	heavy	_	_	
+32-5	1846-1850	fall	_	_	
+32-6	1851-1853	of	_	_	
+32-7	1854-1858	snow	_	_	
+32-8	1859-1865	during	_	_	
+32-9	1866-1869	the	_	_	
+32-10	1870-1875	tiase	_	_	
+32-11	1876-1878	of	_	_	
+32-12	1879-1886	running	_	_	
+32-13	1886-1887	,	_	_	
+32-14	1888-1891	but	_	_	
+32-15	1892-1899	despite	_	_	
+32-16	1900-1903	the	_	_	
+32-17	1904-1911	weather	_	_	
+32-18	1912-1919	upwards	_	_	
+32-19	1920-1922	of	_	_	
+32-20	1923-1928	6,000	_	_	
+32-21	1929-1936	persons	_	_	
+32-22	1937-1941	were	_	_	
+32-23	1942-1949	present	_	_	
+32-24	1949-1950	.	_	_	

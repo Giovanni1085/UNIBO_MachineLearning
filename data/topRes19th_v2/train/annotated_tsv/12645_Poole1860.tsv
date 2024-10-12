@@ -1,0 +1,227 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ALFRED PEOLER 
+#Text=MOST respectfully announces to the Nobility, Clergy, Gentry, and Inhabitants of Southampton, and the adjacent counties. that be has purchased from the Assignees of Mr.
+1-1	0-6	ALFRED	_	_	
+1-2	7-13	PEOLER	_	_	
+1-3	15-19	MOST	_	_	
+1-4	20-32	respectfully	_	_	
+1-5	33-42	announces	_	_	
+1-6	43-45	to	_	_	
+1-7	46-49	the	_	_	
+1-8	50-58	Nobility	_	_	
+1-9	58-59	,	_	_	
+1-10	60-66	Clergy	_	_	
+1-11	66-67	,	_	_	
+1-12	68-74	Gentry	_	_	
+1-13	74-75	,	_	_	
+1-14	76-79	and	_	_	
+1-15	80-91	Inhabitants	_	_	
+1-16	92-94	of	_	_	
+1-17	95-106	Southampton	https://en.wikipedia.org/wiki/Southampton	LOC	
+1-18	106-107	,	_	_	
+1-19	108-111	and	_	_	
+1-20	112-115	the	_	_	
+1-21	116-124	adjacent	_	_	
+1-22	125-133	counties	_	_	
+1-23	133-134	.	_	_	
+1-24	135-139	that	_	_	
+1-25	140-142	be	_	_	
+1-26	143-146	has	_	_	
+1-27	147-156	purchased	_	_	
+1-28	157-161	from	_	_	
+1-29	162-165	the	_	_	
+1-30	166-175	Assignees	_	_	
+1-31	176-178	of	_	_	
+1-32	179-181	Mr	_	_	
+1-33	181-182	.	_	_	
+
+#Text=T.
+2-1	183-184	T	_	_	
+2-2	184-185	.	_	_	
+
+#Text=W.
+3-1	186-187	W	_	_	
+3-2	187-188	.	_	_	
+
+#Text=Barter, Goldsmith, Jeweller, Watchmaker, and Silversmith, of 15, High Street, (adjoining the Crown Hotel,) Southampton, the whole of hie 
+#Text=STOCK-IN-TRADE, 
+#Text=M ST.
+4-1	189-195	Barter	_	_	
+4-2	195-196	,	_	_	
+4-3	197-206	Goldsmith	_	_	
+4-4	206-207	,	_	_	
+4-5	208-216	Jeweller	_	_	
+4-6	216-217	,	_	_	
+4-7	218-228	Watchmaker	_	_	
+4-8	228-229	,	_	_	
+4-9	230-233	and	_	_	
+4-10	234-245	Silversmith	_	_	
+4-11	245-246	,	_	_	
+4-12	247-249	of	_	_	
+4-13	250-252	15	_	_	
+4-14	252-253	,	_	_	
+4-15	254-258	High	*[1]	STREET[1]	
+4-16	259-265	Street	*[1]	STREET[1]	
+4-17	265-266	,	_	_	
+4-18	267-268	(	_	_	
+4-19	268-277	adjoining	_	_	
+4-20	278-281	the	_	_	
+4-21	282-287	Crown	*[2]	BUILDING[2]	
+4-22	288-293	Hotel	*[2]	BUILDING[2]	
+4-23	293-294	,	_	_	
+4-24	294-295	)	_	_	
+4-25	296-307	Southampton	https://en.wikipedia.org/wiki/Southampton	LOC	
+4-26	307-308	,	_	_	
+4-27	309-312	the	_	_	
+4-28	313-318	whole	_	_	
+4-29	319-321	of	_	_	
+4-30	322-325	hie	_	_	
+4-31	327-341	STOCK-IN-TRADE	_	_	
+4-32	341-342	,	_	_	
+4-33	344-345	M	_	_	
+4-34	346-348	ST	_	_	
+4-35	348-349	.	_	_	
+
+#Text=MARY n,fr WEYMOUTH. tJe) 
+#Text=JOHN VINCENT 
+#Text=BEGS to announce the COMPLETION Afi of the extensive ALTERATIONS in his ESTAB.
+5-1	350-354	MARY	_	_	
+5-2	355-356	n	_	_	
+5-3	356-357	,	_	_	
+5-4	357-359	fr	_	_	
+5-5	360-368	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+5-6	368-369	.	_	_	
+5-7	370-373	tJe	_	_	
+5-8	373-374	)	_	_	
+5-9	376-380	JOHN	_	_	
+5-10	381-388	VINCENT	_	_	
+5-11	390-394	BEGS	_	_	
+5-12	395-397	to	_	_	
+5-13	398-406	announce	_	_	
+5-14	407-410	the	_	_	
+5-15	411-421	COMPLETION	_	_	
+5-16	422-425	Afi	_	_	
+5-17	426-428	of	_	_	
+5-18	429-432	the	_	_	
+5-19	433-442	extensive	_	_	
+5-20	443-454	ALTERATIONS	_	_	
+5-21	455-457	in	_	_	
+5-22	458-461	his	_	_	
+5-23	462-467	ESTAB	_	_	
+5-24	467-468	.	_	_	
+
+#Text=LISHMENT, and also to invite the attention of the Public to 1118 NEW AND VALUABLE STOCK, which, on Inspection, will be found fully equal in quality to any previou,ly offered,: whilst, for Variety and Taste, it far eaceeds anything before presented to the Public of Weymouth In SILVER PLATE Will be found every Article of elegance and use.
+6-1	469-477	LISHMENT	_	_	
+6-2	477-478	,	_	_	
+6-3	479-482	and	_	_	
+6-4	483-487	also	_	_	
+6-5	488-490	to	_	_	
+6-6	491-497	invite	_	_	
+6-7	498-501	the	_	_	
+6-8	502-511	attention	_	_	
+6-9	512-514	of	_	_	
+6-10	515-518	the	_	_	
+6-11	519-525	Public	_	_	
+6-12	526-528	to	_	_	
+6-13	529-533	1118	_	_	
+6-14	534-537	NEW	_	_	
+6-15	538-541	AND	_	_	
+6-16	542-550	VALUABLE	_	_	
+6-17	551-556	STOCK	_	_	
+6-18	556-557	,	_	_	
+6-19	558-563	which	_	_	
+6-20	563-564	,	_	_	
+6-21	565-567	on	_	_	
+6-22	568-578	Inspection	_	_	
+6-23	578-579	,	_	_	
+6-24	580-584	will	_	_	
+6-25	585-587	be	_	_	
+6-26	588-593	found	_	_	
+6-27	594-599	fully	_	_	
+6-28	600-605	equal	_	_	
+6-29	606-608	in	_	_	
+6-30	609-616	quality	_	_	
+6-31	617-619	to	_	_	
+6-32	620-623	any	_	_	
+6-33	624-631	previou	_	_	
+6-34	631-632	,	_	_	
+6-35	632-634	ly	_	_	
+6-36	635-642	offered	_	_	
+6-37	642-643	,	_	_	
+6-38	643-644	:	_	_	
+6-39	645-651	whilst	_	_	
+6-40	651-652	,	_	_	
+6-41	653-656	for	_	_	
+6-42	657-664	Variety	_	_	
+6-43	665-668	and	_	_	
+6-44	669-674	Taste	_	_	
+6-45	674-675	,	_	_	
+6-46	676-678	it	_	_	
+6-47	679-682	far	_	_	
+6-48	683-690	eaceeds	_	_	
+6-49	691-699	anything	_	_	
+6-50	700-706	before	_	_	
+6-51	707-716	presented	_	_	
+6-52	717-719	to	_	_	
+6-53	720-723	the	_	_	
+6-54	724-730	Public	_	_	
+6-55	731-733	of	_	_	
+6-56	734-742	Weymouth	_	_	
+6-57	743-745	In	_	_	
+6-58	746-752	SILVER	_	_	
+6-59	753-758	PLATE	_	_	
+6-60	759-763	Will	_	_	
+6-61	764-766	be	_	_	
+6-62	767-772	found	_	_	
+6-63	773-778	every	_	_	
+6-64	779-786	Article	_	_	
+6-65	787-789	of	_	_	
+6-66	790-798	elegance	_	_	
+6-67	799-802	and	_	_	
+6-68	803-806	use	_	_	
+6-69	806-807	.	_	_	
+
+#Text=In WATCHES, Great care has been taken in the Manufacture of English and the selection of Foreign make.
+7-1	808-810	In	_	_	
+7-2	811-818	WATCHES	_	_	
+7-3	818-819	,	_	_	
+7-4	820-825	Great	_	_	
+7-5	826-830	care	_	_	
+7-6	831-834	has	_	_	
+7-7	835-839	been	_	_	
+7-8	840-845	taken	_	_	
+7-9	846-848	in	_	_	
+7-10	849-852	the	_	_	
+7-11	853-864	Manufacture	_	_	
+7-12	865-867	of	_	_	
+7-13	868-875	English	_	_	
+7-14	876-879	and	_	_	
+7-15	880-883	the	_	_	
+7-16	884-893	selection	_	_	
+7-17	894-896	of	_	_	
+7-18	897-904	Foreign	_	_	
+7-19	905-909	make	_	_	
+7-20	909-910	.	_	_	
+
+#Text=In JEWELLERY, All the newest Designs have been procured, the quality of which is guaranteed.
+8-1	911-913	In	_	_	
+8-2	914-923	JEWELLERY	_	_	
+8-3	923-924	,	_	_	
+8-4	925-928	All	_	_	
+8-5	929-932	the	_	_	
+8-6	933-939	newest	_	_	
+8-7	940-947	Designs	_	_	
+8-8	948-952	have	_	_	
+8-9	953-957	been	_	_	
+8-10	958-966	procured	_	_	
+8-11	966-967	,	_	_	
+8-12	968-971	the	_	_	
+8-13	972-979	quality	_	_	
+8-14	980-982	of	_	_	
+8-15	983-988	which	_	_	
+8-16	989-991	is	_	_	
+8-17	992-1002	guaranteed	_	_	
+8-18	1002-1003	.	_	_	

@@ -1,0 +1,488 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE POOLE AND SOUTH-WESTERN HERALD, THURSDAY, OCTOBER 20, 1864.
+1-1	0-3	THE	_	_	
+1-2	4-9	POOLE	_	_	
+1-3	10-13	AND	_	_	
+1-4	14-27	SOUTH-WESTERN	_	_	
+1-5	28-34	HERALD	_	_	
+1-6	34-35	,	_	_	
+1-7	36-44	THURSDAY	_	_	
+1-8	44-45	,	_	_	
+1-9	46-53	OCTOBER	_	_	
+1-10	54-56	20	_	_	
+1-11	56-57	,	_	_	
+1-12	58-62	1864	_	_	
+1-13	62-63	.	_	_	
+
+#Text=POOLE TOWN COUNCIL.
+2-1	65-70	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+2-2	71-75	TOWN	_	_	
+2-3	76-83	COUNCIL	_	_	
+2-4	83-84	.	_	_	
+
+#Text=On Friday last, a meeting of the Town Cowmen was held at the Guildhall. the Mayor (G.
+3-1	86-88	On	_	_	
+3-2	89-95	Friday	_	_	
+3-3	96-100	last	_	_	
+3-4	100-101	,	_	_	
+3-5	102-103	a	_	_	
+3-6	104-111	meeting	_	_	
+3-7	112-114	of	_	_	
+3-8	115-118	the	_	_	
+3-9	119-123	Town	_	_	
+3-10	124-130	Cowmen	_	_	
+3-11	131-134	was	_	_	
+3-12	135-139	held	_	_	
+3-13	140-142	at	_	_	
+3-14	143-146	the	_	_	
+3-15	147-156	Guildhall	*	BUILDING	
+3-16	156-157	.	_	_	
+3-17	158-161	the	_	_	
+3-18	162-167	Mayor	_	_	
+3-19	168-169	(	_	_	
+3-20	169-170	G	_	_	
+3-21	170-171	.	_	_	
+
+#Text=Belben, jun.
+4-1	172-178	Belben	_	_	
+4-2	178-179	,	_	_	
+4-3	180-183	jun	_	_	
+4-4	183-184	.	_	_	
+
+#Text=Esq.,) in the chair.
+5-1	185-188	Esq	_	_	
+5-2	188-189	.	_	_	
+5-3	189-190	,	_	_	
+5-4	190-191	)	_	_	
+5-5	192-194	in	_	_	
+5-6	195-198	the	_	_	
+5-7	199-204	chair	_	_	
+5-8	204-205	.	_	_	
+
+#Text=There were also present: Ald J.
+6-1	206-211	There	_	_	
+6-2	212-216	were	_	_	
+6-3	217-221	also	_	_	
+6-4	222-229	present	_	_	
+6-5	229-230	:	_	_	
+6-6	231-234	Ald	_	_	
+6-7	235-236	J	_	_	
+6-8	236-237	.	_	_	
+
+#Text=Adey, J.
+7-1	238-242	Adey	_	_	
+7-2	242-243	,	_	_	
+7-3	244-245	J	_	_	
+7-4	245-246	.	_	_	
+
+#Text=Gomm, and W.
+8-1	247-251	Gomm	_	_	
+8-2	251-252	,	_	_	
+8-3	253-256	and	_	_	
+8-4	257-258	W	_	_	
+8-5	258-259	.	_	_	
+
+#Text=Pearce, and Councillel Frampton, J.
+9-1	260-266	Pearce	_	_	
+9-2	266-267	,	_	_	
+9-3	268-271	and	_	_	
+9-4	272-282	Councillel	_	_	
+9-5	283-291	Frampton	_	_	
+9-6	291-292	,	_	_	
+9-7	293-294	J	_	_	
+9-8	294-295	.	_	_	
+
+#Text=Harker, H.
+10-1	296-302	Harker	_	_	
+10-2	302-303	,	_	_	
+10-3	304-305	H	_	_	
+10-4	305-306	.	_	_	
+
+#Text=Harris, F.
+11-1	307-313	Harris	_	_	
+11-2	313-314	,	_	_	
+11-3	315-316	F	_	_	
+11-4	316-317	.	_	_	
+
+#Text=Btyring. and Wood.
+12-1	318-325	Btyring	_	_	
+12-2	325-326	.	_	_	
+12-3	327-330	and	_	_	
+12-4	331-335	Wood	_	_	
+12-5	335-336	.	_	_	
+
+#Text=The TOWN CLERK having read the minutes of the last meeting,, orders were made upon the borough treasurer to the amount of £SB Bs.
+13-1	337-340	The	_	_	
+13-2	341-345	TOWN	_	_	
+13-3	346-351	CLERK	_	_	
+13-4	352-358	having	_	_	
+13-5	359-363	read	_	_	
+13-6	364-367	the	_	_	
+13-7	368-375	minutes	_	_	
+13-8	376-378	of	_	_	
+13-9	379-382	the	_	_	
+13-10	383-387	last	_	_	
+13-11	388-395	meeting	_	_	
+13-12	395-396	,	_	_	
+13-13	396-397	,	_	_	
+13-14	398-404	orders	_	_	
+13-15	405-409	were	_	_	
+13-16	410-414	made	_	_	
+13-17	415-419	upon	_	_	
+13-18	420-423	the	_	_	
+13-19	424-431	borough	_	_	
+13-20	432-441	treasurer	_	_	
+13-21	442-444	to	_	_	
+13-22	445-448	the	_	_	
+13-23	449-455	amount	_	_	
+13-24	456-458	of	_	_	
+13-25	459-460	£	_	_	
+13-26	460-462	SB	_	_	
+13-27	463-465	Bs	_	_	
+13-28	465-466	.	_	_	
+
+#Text=Id.
+14-1	467-469	Id	_	_	
+14-2	469-470	.	_	_	
+
+#Text=Dimmers AND FAIRS.
+15-1	472-479	Dimmers	_	_	
+15-2	480-483	AND	_	_	
+15-3	484-489	FAIRS	_	_	
+15-4	489-490	.	_	_	
+
+#Text=The next leceincas was to receive the tenders for taking the markets and fairs from the 25th of December next, and to declare the accepted tender.
+16-1	491-494	The	_	_	
+16-2	495-499	next	_	_	
+16-3	500-509	leceincas	_	_	
+16-4	510-513	was	_	_	
+16-5	514-516	to	_	_	
+16-6	517-524	receive	_	_	
+16-7	525-528	the	_	_	
+16-8	529-536	tenders	_	_	
+16-9	537-540	for	_	_	
+16-10	541-547	taking	_	_	
+16-11	548-551	the	_	_	
+16-12	552-559	markets	_	_	
+16-13	560-563	and	_	_	
+16-14	564-569	fairs	_	_	
+16-15	570-574	from	_	_	
+16-16	575-578	the	_	_	
+16-17	579-583	25th	_	_	
+16-18	584-586	of	_	_	
+16-19	587-595	December	_	_	
+16-20	596-600	next	_	_	
+16-21	600-601	,	_	_	
+16-22	602-605	and	_	_	
+16-23	606-608	to	_	_	
+16-24	609-616	declare	_	_	
+16-25	617-620	the	_	_	
+16-26	621-629	accepted	_	_	
+16-27	630-636	tender	_	_	
+16-28	636-637	.	_	_	
+
+#Text=Mr.
+17-1	638-640	Mr	_	_	
+17-2	640-641	.	_	_	
+
+#Text=William Gould, the late knee, offered £7O for the next year ; Mr.
+18-1	642-649	William	_	_	
+18-2	650-655	Gould	_	_	
+18-3	655-656	,	_	_	
+18-4	657-660	the	_	_	
+18-5	661-665	late	_	_	
+18-6	666-670	knee	_	_	
+18-7	670-671	,	_	_	
+18-8	672-679	offered	_	_	
+18-9	680-683	£7O	_	_	
+18-10	684-687	for	_	_	
+18-11	688-691	the	_	_	
+18-12	692-696	next	_	_	
+18-13	697-701	year	_	_	
+18-14	702-703	;	_	_	
+18-15	704-706	Mr	_	_	
+18-16	706-707	.	_	_	
+
+#Text=Cary, of Ramsey, Hants, sent in a tender offering £lO more than Mr.
+19-1	708-712	Cary	_	_	
+19-2	712-713	,	_	_	
+19-3	714-716	of	_	_	
+19-4	717-723	Ramsey	https://en.wikipedia.org/wiki/Romsey	LOC	
+19-5	723-724	,	_	_	
+19-6	725-730	Hants	https://en.wikipedia.org/wiki/Hampshire	LOC	
+19-7	730-731	,	_	_	
+19-8	732-736	sent	_	_	
+19-9	737-739	in	_	_	
+19-10	740-741	a	_	_	
+19-11	742-748	tender	_	_	
+19-12	749-757	offering	_	_	
+19-13	758-759	£	_	_	
+19-14	759-761	lO	_	_	
+19-15	762-766	more	_	_	
+19-16	767-771	than	_	_	
+19-17	772-774	Mr	_	_	
+19-18	774-775	.	_	_	
+
+#Text=Gould, a proposal which elicited some laughter and Mr.
+20-1	776-781	Gould	_	_	
+20-2	781-782	,	_	_	
+20-3	783-784	a	_	_	
+20-4	785-793	proposal	_	_	
+20-5	794-799	which	_	_	
+20-6	800-808	elicited	_	_	
+20-7	809-813	some	_	_	
+20-8	814-822	laughter	_	_	
+20-9	823-826	and	_	_	
+20-10	827-829	Mr	_	_	
+20-11	829-830	.	_	_	
+
+#Text=Gooden, of Poole, offered £95.
+21-1	831-837	Gooden	_	_	
+21-2	837-838	,	_	_	
+21-3	839-841	of	_	_	
+21-4	842-847	Poole	https://en.wikipedia.org/wiki/Poole	LOC	
+21-5	847-848	,	_	_	
+21-6	849-856	offered	_	_	
+21-7	857-860	£95	_	_	
+21-8	860-861	.	_	_	
+
+#Text=After a little conversation Mr.
+22-1	862-867	After	_	_	
+22-2	868-869	a	_	_	
+22-3	870-876	little	_	_	
+22-4	877-889	conversation	_	_	
+22-5	890-892	Mr	_	_	
+22-6	892-893	.	_	_	
+
+#Text=Wood proposed. and Mr.
+23-1	894-898	Wood	_	_	
+23-2	899-907	proposed	_	_	
+23-3	907-908	.	_	_	
+23-4	909-912	and	_	_	
+23-5	913-915	Mr	_	_	
+23-6	915-916	.	_	_	
+
+#Text=Styring seconded the motion that Mr.
+24-1	917-924	Styring	_	_	
+24-2	925-933	seconded	_	_	
+24-3	934-937	the	_	_	
+24-4	938-944	motion	_	_	
+24-5	945-949	that	_	_	
+24-6	950-952	Mr	_	_	
+24-7	952-953	.	_	_	
+
+#Text=Goodeds tender be received for one year.
+25-1	954-961	Goodeds	_	_	
+25-2	962-968	tender	_	_	
+25-3	969-971	be	_	_	
+25-4	972-980	received	_	_	
+25-5	981-984	for	_	_	
+25-6	985-988	one	_	_	
+25-7	989-993	year	_	_	
+25-8	993-994	.	_	_	
+
+#Text=UNOCCUPIED LAND TO LET.
+26-1	995-1005	UNOCCUPIED	_	_	
+26-2	1006-1010	LAND	_	_	
+26-3	1011-1013	TO	_	_	
+26-4	1014-1017	LET	_	_	
+26-5	1017-1018	.	_	_	
+
+#Text=The TOWN CLERK read • letter from Mr.
+27-1	1019-1022	The	_	_	
+27-2	1023-1027	TOWN	_	_	
+27-3	1028-1033	CLERK	_	_	
+27-4	1034-1038	read	_	_	
+27-5	1039-1040	•	_	_	
+27-6	1041-1047	letter	_	_	
+27-7	1048-1052	from	_	_	
+27-8	1053-1055	Mr	_	_	
+27-9	1055-1056	.	_	_	
+
+#Text=James Davis, offering two guineas per annum for the right of sporting over certain land at Kinson.
+28-1	1057-1062	James	_	_	
+28-2	1063-1068	Davis	_	_	
+28-3	1068-1069	,	_	_	
+28-4	1070-1078	offering	_	_	
+28-5	1079-1082	two	_	_	
+28-6	1083-1090	guineas	_	_	
+28-7	1091-1094	per	_	_	
+28-8	1095-1100	annum	_	_	
+28-9	1101-1104	for	_	_	
+28-10	1105-1108	the	_	_	
+28-11	1109-1114	right	_	_	
+28-12	1115-1117	of	_	_	
+28-13	1118-1126	sporting	_	_	
+28-14	1127-1131	over	_	_	
+28-15	1132-1139	certain	_	_	
+28-16	1140-1144	land	_	_	
+28-17	1145-1147	at	_	_	
+28-18	1148-1154	Kinson	https://en.wikipedia.org/wiki/Kinson	LOC	
+28-19	1154-1155	.	_	_	
+
+#Text=Some conversation ensued relative to the land in question, Mr.
+29-1	1156-1160	Some	_	_	
+29-2	1161-1173	conversation	_	_	
+29-3	1174-1180	ensued	_	_	
+29-4	1181-1189	relative	_	_	
+29-5	1190-1192	to	_	_	
+29-6	1193-1196	the	_	_	
+29-7	1197-1201	land	_	_	
+29-8	1202-1204	in	_	_	
+29-9	1205-1213	question	_	_	
+29-10	1213-1214	,	_	_	
+29-11	1215-1217	Mr	_	_	
+29-12	1217-1218	.	_	_	
+
+#Text=STYRING remarking that if he were allowed a little time to consider the matter, he should probably make an offer to take the land for a term of years.
+30-1	1219-1226	STYRING	_	_	
+30-2	1227-1236	remarking	_	_	
+30-3	1237-1241	that	_	_	
+30-4	1242-1244	if	_	_	
+30-5	1245-1247	he	_	_	
+30-6	1248-1252	were	_	_	
+30-7	1253-1260	allowed	_	_	
+30-8	1261-1262	a	_	_	
+30-9	1263-1269	little	_	_	
+30-10	1270-1274	time	_	_	
+30-11	1275-1277	to	_	_	
+30-12	1278-1286	consider	_	_	
+30-13	1287-1290	the	_	_	
+30-14	1291-1297	matter	_	_	
+30-15	1297-1298	,	_	_	
+30-16	1299-1301	he	_	_	
+30-17	1302-1308	should	_	_	
+30-18	1309-1317	probably	_	_	
+30-19	1318-1322	make	_	_	
+30-20	1323-1325	an	_	_	
+30-21	1326-1331	offer	_	_	
+30-22	1332-1334	to	_	_	
+30-23	1335-1339	take	_	_	
+30-24	1340-1343	the	_	_	
+30-25	1344-1348	land	_	_	
+30-26	1349-1352	for	_	_	
+30-27	1353-1354	a	_	_	
+30-28	1355-1359	term	_	_	
+30-29	1360-1362	of	_	_	
+30-30	1363-1368	years	_	_	
+30-31	1368-1369	.	_	_	
+
+#Text=He was of opinion that the land might be brought into a state of cultivation.
+31-1	1370-1372	He	_	_	
+31-2	1373-1376	was	_	_	
+31-3	1377-1379	of	_	_	
+31-4	1380-1387	opinion	_	_	
+31-5	1388-1392	that	_	_	
+31-6	1393-1396	the	_	_	
+31-7	1397-1401	land	_	_	
+31-8	1402-1407	might	_	_	
+31-9	1408-1410	be	_	_	
+31-10	1411-1418	brought	_	_	
+31-11	1419-1423	into	_	_	
+31-12	1424-1425	a	_	_	
+31-13	1426-1431	state	_	_	
+31-14	1432-1434	of	_	_	
+31-15	1435-1446	cultivation	_	_	
+31-16	1446-1447	.	_	_	
+
+#Text=The TOWN CLERK thought it would be very unwise to let the laud for a long term, as its value might before long be greatly enhanced.
+32-1	1448-1451	The	_	_	
+32-2	1452-1456	TOWN	_	_	
+32-3	1457-1462	CLERK	_	_	
+32-4	1463-1470	thought	_	_	
+32-5	1471-1473	it	_	_	
+32-6	1474-1479	would	_	_	
+32-7	1480-1482	be	_	_	
+32-8	1483-1487	very	_	_	
+32-9	1488-1494	unwise	_	_	
+32-10	1495-1497	to	_	_	
+32-11	1498-1501	let	_	_	
+32-12	1502-1505	the	_	_	
+32-13	1506-1510	laud	_	_	
+32-14	1511-1514	for	_	_	
+32-15	1515-1516	a	_	_	
+32-16	1517-1521	long	_	_	
+32-17	1522-1526	term	_	_	
+32-18	1526-1527	,	_	_	
+32-19	1528-1530	as	_	_	
+32-20	1531-1534	its	_	_	
+32-21	1535-1540	value	_	_	
+32-22	1541-1546	might	_	_	
+32-23	1547-1553	before	_	_	
+32-24	1554-1558	long	_	_	
+32-25	1559-1561	be	_	_	
+32-26	1562-1569	greatly	_	_	
+32-27	1570-1578	enhanced	_	_	
+32-28	1578-1579	.	_	_	
+
+#Text=He alluded particularly to the promised prosperity of Weabonrne, in which be had great faith.
+33-1	1580-1582	He	_	_	
+33-2	1583-1590	alluded	_	_	
+33-3	1591-1603	particularly	_	_	
+33-4	1604-1606	to	_	_	
+33-5	1607-1610	the	_	_	
+33-6	1611-1619	promised	_	_	
+33-7	1620-1630	prosperity	_	_	
+33-8	1631-1633	of	_	_	
+33-9	1634-1643	Weabonrne	https://en.wikipedia.org/wiki/Westbourne,\_Dorset	LOC	
+33-10	1643-1644	,	_	_	
+33-11	1645-1647	in	_	_	
+33-12	1648-1653	which	_	_	
+33-13	1654-1656	be	_	_	
+33-14	1657-1660	had	_	_	
+33-15	1661-1666	great	_	_	
+33-16	1667-1672	faith	_	_	
+33-17	1672-1673	.	_	_	
+
+#Text=The MAYOR advised that the land should be advertised to be let This suggestion was adopted, and the Town Clerk was directed to advertise the land in question to be let by tender or otherwise.
+34-1	1674-1677	The	_	_	
+34-2	1678-1683	MAYOR	_	_	
+34-3	1684-1691	advised	_	_	
+34-4	1692-1696	that	_	_	
+34-5	1697-1700	the	_	_	
+34-6	1701-1705	land	_	_	
+34-7	1706-1712	should	_	_	
+34-8	1713-1715	be	_	_	
+34-9	1716-1726	advertised	_	_	
+34-10	1727-1729	to	_	_	
+34-11	1730-1732	be	_	_	
+34-12	1733-1736	let	_	_	
+34-13	1737-1741	This	_	_	
+34-14	1742-1752	suggestion	_	_	
+34-15	1753-1756	was	_	_	
+34-16	1757-1764	adopted	_	_	
+34-17	1764-1765	,	_	_	
+34-18	1766-1769	and	_	_	
+34-19	1770-1773	the	_	_	
+34-20	1774-1778	Town	_	_	
+34-21	1779-1784	Clerk	_	_	
+34-22	1785-1788	was	_	_	
+34-23	1789-1797	directed	_	_	
+34-24	1798-1800	to	_	_	
+34-25	1801-1810	advertise	_	_	
+34-26	1811-1814	the	_	_	
+34-27	1815-1819	land	_	_	
+34-28	1820-1822	in	_	_	
+34-29	1823-1831	question	_	_	
+34-30	1832-1834	to	_	_	
+34-31	1835-1837	be	_	_	
+34-32	1838-1841	let	_	_	
+34-33	1842-1844	by	_	_	
+34-34	1845-1851	tender	_	_	
+34-35	1852-1854	or	_	_	
+34-36	1855-1864	otherwise	_	_	
+34-37	1864-1865	.	_	_	
+
+#Text=There was no other business before the Council.
+35-1	1866-1871	There	_	_	
+35-2	1872-1875	was	_	_	
+35-3	1876-1878	no	_	_	
+35-4	1879-1884	other	_	_	
+35-5	1885-1893	business	_	_	
+35-6	1894-1900	before	_	_	
+35-7	1901-1904	the	_	_	
+35-8	1905-1912	Council	_	_	
+35-9	1912-1913	.	_	_	

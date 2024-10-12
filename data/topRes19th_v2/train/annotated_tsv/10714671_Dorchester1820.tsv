@@ -1,0 +1,469 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=eday laws.
+1-1	0-4	eday	_	_	
+1-2	5-9	laws	_	_	
+1-3	9-10	.	_	_	
+
+#Text=Mr.
+2-1	12-14	Mr	_	_	
+2-2	14-15	.	_	_	
+
+#Text=Hume presented s petition from some operatives at Manchester, complaining of the Corn leiws, as injurious to their interest, as rendering their wages inadequate to their support, and praying generally for relief.
+3-1	16-20	Hume	_	_	
+3-2	21-30	presented	_	_	
+3-3	31-32	s	_	_	
+3-4	33-41	petition	_	_	
+3-5	42-46	from	_	_	
+3-6	47-51	some	_	_	
+3-7	52-62	operatives	_	_	
+3-8	63-65	at	_	_	
+3-9	66-76	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+3-10	76-77	,	_	_	
+3-11	78-89	complaining	_	_	
+3-12	90-92	of	_	_	
+3-13	93-96	the	_	_	
+3-14	97-101	Corn	_	_	
+3-15	102-107	leiws	_	_	
+3-16	107-108	,	_	_	
+3-17	109-111	as	_	_	
+3-18	112-121	injurious	_	_	
+3-19	122-124	to	_	_	
+3-20	125-130	their	_	_	
+3-21	131-139	interest	_	_	
+3-22	139-140	,	_	_	
+3-23	141-143	as	_	_	
+3-24	144-153	rendering	_	_	
+3-25	154-159	their	_	_	
+3-26	160-165	wages	_	_	
+3-27	166-176	inadequate	_	_	
+3-28	177-179	to	_	_	
+3-29	180-185	their	_	_	
+3-30	186-193	support	_	_	
+3-31	193-194	,	_	_	
+3-32	195-198	and	_	_	
+3-33	199-206	praying	_	_	
+3-34	207-216	generally	_	_	
+3-35	217-220	for	_	_	
+3-36	221-227	relief	_	_	
+3-37	227-228	.	_	_	
+
+#Text=•Mr.
+4-1	229-230	•	_	_	
+4-2	230-232	Mr	_	_	
+4-3	232-233	.	_	_	
+
+#Text=Wells denied that the present distress arose from the operation of the Corn Laws.
+5-1	234-239	Wells	_	_	
+5-2	240-246	denied	_	_	
+5-3	247-251	that	_	_	
+5-4	252-255	the	_	_	
+5-5	256-263	present	_	_	
+5-6	264-272	distress	_	_	
+5-7	273-278	arose	_	_	
+5-8	279-283	from	_	_	
+5-9	284-287	the	_	_	
+5-10	288-297	operation	_	_	
+5-11	298-300	of	_	_	
+5-12	301-304	the	_	_	
+5-13	305-309	Corn	_	_	
+5-14	310-314	Laws	_	_	
+5-15	314-315	.	_	_	
+
+#Text=Mr.
+6-1	317-319	Mr	_	_	
+6-2	319-320	.	_	_	
+
+#Text=I).
+7-1	321-322	I	_	_	
+7-2	322-323	)	_	_	
+7-3	323-324	.	_	_	
+
+#Text=W. lIAttVF.y entered his protest against any suclt doctrine as that of the hon. member for Maidstone.
+8-1	325-326	W	_	_	
+8-2	326-327	.	_	_	
+8-3	328-337	lIAttVF.y	_	_	
+8-4	338-345	entered	_	_	
+8-5	346-349	his	_	_	
+8-6	350-357	protest	_	_	
+8-7	358-365	against	_	_	
+8-8	366-369	any	_	_	
+8-9	370-375	suclt	_	_	
+8-10	376-384	doctrine	_	_	
+8-11	385-387	as	_	_	
+8-12	388-392	that	_	_	
+8-13	393-395	of	_	_	
+8-14	396-399	the	_	_	
+8-15	400-403	hon	_	_	
+8-16	403-404	.	_	_	
+8-17	405-411	member	_	_	
+8-18	412-415	for	_	_	
+8-19	416-425	Maidstone	https://en.wikipedia.org/wiki/Borough\_of\_Maidstone	LOC	
+8-20	425-426	.	_	_	
+
+#Text=If the Corn Laws did not lend to raise the price of bread, ami keep up high prices to the landlords, why, he asked, were they continued ?
+9-1	427-429	If	_	_	
+9-2	430-433	the	_	_	
+9-3	434-438	Corn	_	_	
+9-4	439-443	Laws	_	_	
+9-5	444-447	did	_	_	
+9-6	448-451	not	_	_	
+9-7	452-456	lend	_	_	
+9-8	457-459	to	_	_	
+9-9	460-465	raise	_	_	
+9-10	466-469	the	_	_	
+9-11	470-475	price	_	_	
+9-12	476-478	of	_	_	
+9-13	479-484	bread	_	_	
+9-14	484-485	,	_	_	
+9-15	486-489	ami	_	_	
+9-16	490-494	keep	_	_	
+9-17	495-497	up	_	_	
+9-18	498-502	high	_	_	
+9-19	503-509	prices	_	_	
+9-20	510-512	to	_	_	
+9-21	513-516	the	_	_	
+9-22	517-526	landlords	_	_	
+9-23	526-527	,	_	_	
+9-24	528-531	why	_	_	
+9-25	531-532	,	_	_	
+9-26	533-535	he	_	_	
+9-27	536-541	asked	_	_	
+9-28	541-542	,	_	_	
+9-29	543-547	were	_	_	
+9-30	548-552	they	_	_	
+9-31	553-562	continued	_	_	
+9-32	563-564	?	_	_	
+
+#Text=The high price of bread greatly aggravated the public distress, and the repeal of the Corn Laws would materially tend to diminish it.
+10-1	565-568	The	_	_	
+10-2	569-573	high	_	_	
+10-3	574-579	price	_	_	
+10-4	580-582	of	_	_	
+10-5	583-588	bread	_	_	
+10-6	589-596	greatly	_	_	
+10-7	597-607	aggravated	_	_	
+10-8	608-611	the	_	_	
+10-9	612-618	public	_	_	
+10-10	619-627	distress	_	_	
+10-11	627-628	,	_	_	
+10-12	629-632	and	_	_	
+10-13	633-636	the	_	_	
+10-14	637-643	repeal	_	_	
+10-15	644-646	of	_	_	
+10-16	647-650	the	_	_	
+10-17	651-655	Corn	_	_	
+10-18	656-660	Laws	_	_	
+10-19	661-666	would	_	_	
+10-20	667-677	materially	_	_	
+10-21	678-682	tend	_	_	
+10-22	683-685	to	_	_	
+10-23	686-694	diminish	_	_	
+10-24	695-697	it	_	_	
+10-25	697-698	.	_	_	
+
+#Text=Mr.
+11-1	700-702	Mr	_	_	
+11-2	702-703	.	_	_	
+
+#Text=W.
+12-1	704-705	W	_	_	
+12-2	705-706	.	_	_	
+
+#Text=Whitmore said that he was no advocate for the Corn Laws, but he would not attribute the present high prices to the operation of the law as it now existed.
+13-1	707-715	Whitmore	_	_	
+13-2	716-720	said	_	_	
+13-3	721-725	that	_	_	
+13-4	726-728	he	_	_	
+13-5	729-732	was	_	_	
+13-6	733-735	no	_	_	
+13-7	736-744	advocate	_	_	
+13-8	745-748	for	_	_	
+13-9	749-752	the	_	_	
+13-10	753-757	Corn	_	_	
+13-11	758-762	Laws	_	_	
+13-12	762-763	,	_	_	
+13-13	764-767	but	_	_	
+13-14	768-770	he	_	_	
+13-15	771-776	would	_	_	
+13-16	777-780	not	_	_	
+13-17	781-790	attribute	_	_	
+13-18	791-794	the	_	_	
+13-19	795-802	present	_	_	
+13-20	803-807	high	_	_	
+13-21	808-814	prices	_	_	
+13-22	815-817	to	_	_	
+13-23	818-821	the	_	_	
+13-24	822-831	operation	_	_	
+13-25	832-834	of	_	_	
+13-26	835-838	the	_	_	
+13-27	839-842	law	_	_	
+13-28	843-845	as	_	_	
+13-29	846-848	it	_	_	
+13-30	849-852	now	_	_	
+13-31	853-860	existed	_	_	
+13-32	860-861	.	_	_	
+
+#Text=He rather thought the scarcity of the harvest had produced it.
+14-1	862-864	He	_	_	
+14-2	865-871	rather	_	_	
+14-3	872-879	thought	_	_	
+14-4	880-883	the	_	_	
+14-5	884-892	scarcity	_	_	
+14-6	893-895	of	_	_	
+14-7	896-899	the	_	_	
+14-8	900-907	harvest	_	_	
+14-9	908-911	had	_	_	
+14-10	912-920	produced	_	_	
+14-11	921-923	it	_	_	
+14-12	923-924	.	_	_	
+
+#Text=He did not believe that the present distress arose from the system of free trade ; for while the silk weavers were out of employment, so were the cotton weavers, and nothing new could be said as to the importation of cotton.
+15-1	925-927	He	_	_	
+15-2	928-931	did	_	_	
+15-3	932-935	not	_	_	
+15-4	936-943	believe	_	_	
+15-5	944-948	that	_	_	
+15-6	949-952	the	_	_	
+15-7	953-960	present	_	_	
+15-8	961-969	distress	_	_	
+15-9	970-975	arose	_	_	
+15-10	976-980	from	_	_	
+15-11	981-984	the	_	_	
+15-12	985-991	system	_	_	
+15-13	992-994	of	_	_	
+15-14	995-999	free	_	_	
+15-15	1000-1005	trade	_	_	
+15-16	1006-1007	;	_	_	
+15-17	1008-1011	for	_	_	
+15-18	1012-1017	while	_	_	
+15-19	1018-1021	the	_	_	
+15-20	1022-1026	silk	_	_	
+15-21	1027-1034	weavers	_	_	
+15-22	1035-1039	were	_	_	
+15-23	1040-1043	out	_	_	
+15-24	1044-1046	of	_	_	
+15-25	1047-1057	employment	_	_	
+15-26	1057-1058	,	_	_	
+15-27	1059-1061	so	_	_	
+15-28	1062-1066	were	_	_	
+15-29	1067-1070	the	_	_	
+15-30	1071-1077	cotton	_	_	
+15-31	1078-1085	weavers	_	_	
+15-32	1085-1086	,	_	_	
+15-33	1087-1090	and	_	_	
+15-34	1091-1098	nothing	_	_	
+15-35	1099-1102	new	_	_	
+15-36	1103-1108	could	_	_	
+15-37	1109-1111	be	_	_	
+15-38	1112-1116	said	_	_	
+15-39	1117-1119	as	_	_	
+15-40	1120-1122	to	_	_	
+15-41	1123-1126	the	_	_	
+15-42	1127-1138	importation	_	_	
+15-43	1139-1141	of	_	_	
+15-44	1142-1148	cotton	_	_	
+15-45	1148-1149	.	_	_	
+
+#Text=Mr.
+16-1	1151-1153	Mr	_	_	
+16-2	1153-1154	.	_	_	
+
+#Text=H.
+17-1	1155-1156	H	_	_	
+17-2	1156-1157	.	_	_	
+
+#Text=Thompson- said the present distress arose from the fact of shutting our ports against foreign corn for a series of years, and prohibiting the foreigner from growing a steady supply for this market.
+18-1	1158-1166	Thompson	_	_	
+18-2	1166-1167	-	_	_	
+18-3	1168-1172	said	_	_	
+18-4	1173-1176	the	_	_	
+18-5	1177-1184	present	_	_	
+18-6	1185-1193	distress	_	_	
+18-7	1194-1199	arose	_	_	
+18-8	1200-1204	from	_	_	
+18-9	1205-1208	the	_	_	
+18-10	1209-1213	fact	_	_	
+18-11	1214-1216	of	_	_	
+18-12	1217-1225	shutting	_	_	
+18-13	1226-1229	our	_	_	
+18-14	1230-1235	ports	_	_	
+18-15	1236-1243	against	_	_	
+18-16	1244-1251	foreign	_	_	
+18-17	1252-1256	corn	_	_	
+18-18	1257-1260	for	_	_	
+18-19	1261-1262	a	_	_	
+18-20	1263-1269	series	_	_	
+18-21	1270-1272	of	_	_	
+18-22	1273-1278	years	_	_	
+18-23	1278-1279	,	_	_	
+18-24	1280-1283	and	_	_	
+18-25	1284-1295	prohibiting	_	_	
+18-26	1296-1299	the	_	_	
+18-27	1300-1309	foreigner	_	_	
+18-28	1310-1314	from	_	_	
+18-29	1315-1322	growing	_	_	
+18-30	1323-1324	a	_	_	
+18-31	1325-1331	steady	_	_	
+18-32	1332-1338	supply	_	_	
+18-33	1339-1342	for	_	_	
+18-34	1343-1347	this	_	_	
+18-35	1348-1354	market	_	_	
+18-36	1354-1355	.	_	_	
+
+#Text=It was not the tax of last year which produced the distress now existing, but the operation of the prohibitory laws which had been for years fn existence.
+19-1	1356-1358	It	_	_	
+19-2	1359-1362	was	_	_	
+19-3	1363-1366	not	_	_	
+19-4	1367-1370	the	_	_	
+19-5	1371-1374	tax	_	_	
+19-6	1375-1377	of	_	_	
+19-7	1378-1382	last	_	_	
+19-8	1383-1387	year	_	_	
+19-9	1388-1393	which	_	_	
+19-10	1394-1402	produced	_	_	
+19-11	1403-1406	the	_	_	
+19-12	1407-1415	distress	_	_	
+19-13	1416-1419	now	_	_	
+19-14	1420-1428	existing	_	_	
+19-15	1428-1429	,	_	_	
+19-16	1430-1433	but	_	_	
+19-17	1434-1437	the	_	_	
+19-18	1438-1447	operation	_	_	
+19-19	1448-1450	of	_	_	
+19-20	1451-1454	the	_	_	
+19-21	1455-1466	prohibitory	_	_	
+19-22	1467-1471	laws	_	_	
+19-23	1472-1477	which	_	_	
+19-24	1478-1481	had	_	_	
+19-25	1482-1486	been	_	_	
+19-26	1487-1490	for	_	_	
+19-27	1491-1496	years	_	_	
+19-28	1497-1499	fn	_	_	
+19-29	1500-1509	existence	_	_	
+19-30	1509-1510	.	_	_	
+
+#Text=He hoped this house would be crowded with petiiinns for a repeal of those obnoxious laws.
+20-1	1511-1513	He	_	_	
+20-2	1514-1519	hoped	_	_	
+20-3	1520-1524	this	_	_	
+20-4	1525-1530	house	_	_	
+20-5	1531-1536	would	_	_	
+20-6	1537-1539	be	_	_	
+20-7	1540-1547	crowded	_	_	
+20-8	1548-1552	with	_	_	
+20-9	1553-1562	petiiinns	_	_	
+20-10	1563-1566	for	_	_	
+20-11	1567-1568	a	_	_	
+20-12	1569-1575	repeal	_	_	
+20-13	1576-1578	of	_	_	
+20-14	1579-1584	those	_	_	
+20-15	1585-1594	obnoxious	_	_	
+20-16	1595-1599	laws	_	_	
+20-17	1599-1600	.	_	_	
+
+#Text=Mr.
+21-1	1601-1603	Mr	_	_	
+21-2	1603-1604	.	_	_	
+
+#Text=M.
+22-1	1605-1606	M	_	_	
+22-2	1606-1607	.	_	_	
+
+#Text=Fitzgerald complained S( the system of striking the averages, and hoped some reiurdy would be applied to it, as the returns now made had a manifest tendency to deceive the people.
+23-1	1608-1618	Fitzgerald	_	_	
+23-2	1619-1629	complained	_	_	
+23-3	1630-1631	S	_	_	
+23-4	1631-1632	(	_	_	
+23-5	1633-1636	the	_	_	
+23-6	1637-1643	system	_	_	
+23-7	1644-1646	of	_	_	
+23-8	1647-1655	striking	_	_	
+23-9	1656-1659	the	_	_	
+23-10	1660-1668	averages	_	_	
+23-11	1668-1669	,	_	_	
+23-12	1670-1673	and	_	_	
+23-13	1674-1679	hoped	_	_	
+23-14	1680-1684	some	_	_	
+23-15	1685-1692	reiurdy	_	_	
+23-16	1693-1698	would	_	_	
+23-17	1699-1701	be	_	_	
+23-18	1702-1709	applied	_	_	
+23-19	1710-1712	to	_	_	
+23-20	1713-1715	it	_	_	
+23-21	1715-1716	,	_	_	
+23-22	1717-1719	as	_	_	
+23-23	1720-1723	the	_	_	
+23-24	1724-1731	returns	_	_	
+23-25	1732-1735	now	_	_	
+23-26	1736-1740	made	_	_	
+23-27	1741-1744	had	_	_	
+23-28	1745-1746	a	_	_	
+23-29	1747-1755	manifest	_	_	
+23-30	1756-1764	tendency	_	_	
+23-31	1765-1767	to	_	_	
+23-32	1768-1775	deceive	_	_	
+23-33	1776-1779	the	_	_	
+23-34	1780-1786	people	_	_	
+23-35	1786-1787	.	_	_	
+
+#Text=Air.
+24-1	1788-1791	Air	_	_	
+24-2	1791-1792	.	_	_	
+
+#Text=Secretarr Peel said, if a better system was rendered necessary it win) 111 he attended to by his Majesty** ministers.
+25-1	1793-1802	Secretarr	_	_	
+25-2	1803-1807	Peel	_	_	
+25-3	1808-1812	said	_	_	
+25-4	1812-1813	,	_	_	
+25-5	1814-1816	if	_	_	
+25-6	1817-1818	a	_	_	
+25-7	1819-1825	better	_	_	
+25-8	1826-1832	system	_	_	
+25-9	1833-1836	was	_	_	
+25-10	1837-1845	rendered	_	_	
+25-11	1846-1855	necessary	_	_	
+25-12	1856-1858	it	_	_	
+25-13	1859-1862	win	_	_	
+25-14	1862-1863	)	_	_	
+25-15	1864-1867	111	_	_	
+25-16	1868-1870	he	_	_	
+25-17	1871-1879	attended	_	_	
+25-18	1880-1882	to	_	_	
+25-19	1883-1885	by	_	_	
+25-20	1886-1889	his	_	_	
+25-21	1890-1897	Majesty	_	_	
+25-22	1897-1898	*	_	_	
+25-23	1898-1899	*	_	_	
+25-24	1900-1909	ministers	_	_	
+25-25	1909-1910	.	_	_	
+
+#Text=Air, Home said that the corn monoply was now starving the people, and should be abolished as soon as possible—Ordered to be printed.
+26-1	1911-1914	Air	_	_	
+26-2	1914-1915	,	_	_	
+26-3	1916-1920	Home	_	_	
+26-4	1921-1925	said	_	_	
+26-5	1926-1930	that	_	_	
+26-6	1931-1934	the	_	_	
+26-7	1935-1939	corn	_	_	
+26-8	1940-1947	monoply	_	_	
+26-9	1948-1951	was	_	_	
+26-10	1952-1955	now	_	_	
+26-11	1956-1964	starving	_	_	
+26-12	1965-1968	the	_	_	
+26-13	1969-1975	people	_	_	
+26-14	1975-1976	,	_	_	
+26-15	1977-1980	and	_	_	
+26-16	1981-1987	should	_	_	
+26-17	1988-1990	be	_	_	
+26-18	1991-2000	abolished	_	_	
+26-19	2001-2003	as	_	_	
+26-20	2004-2008	soon	_	_	
+26-21	2009-2011	as	_	_	
+26-22	2012-2028	possible—Ordered	_	_	
+26-23	2029-2031	to	_	_	
+26-24	2032-2034	be	_	_	
+26-25	2035-2042	printed	_	_	
+26-26	2042-2043	.	_	_	

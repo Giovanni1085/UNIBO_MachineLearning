@@ -1,0 +1,315 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ELECTION OF COMMISSIONERS OF POLICE FOR SALFORD.
+1-1	0-8	ELECTION	_	_	
+1-2	9-11	OF	_	_	
+1-3	12-25	COMMISSIONERS	_	_	
+1-4	26-28	OF	_	_	
+1-5	29-35	POLICE	_	_	
+1-6	36-39	FOR	_	_	
+1-7	40-47	SALFORD	https://en.wikipedia.org/wiki/Salford	LOC	
+1-8	47-48	.	_	_	
+
+#Text=The elections for districts Nos. 5, 6, 7, and 8, took [ place on Monday morning, when the following persons , were elected: No, 5; on, st.
+2-1	50-53	The	_	_	
+2-2	54-63	elections	_	_	
+2-3	64-67	for	_	_	
+2-4	68-77	districts	_	_	
+2-5	78-81	Nos	_	_	
+2-6	81-82	.	_	_	
+2-7	83-84	5	_	_	
+2-8	84-85	,	_	_	
+2-9	86-87	6	_	_	
+2-10	87-88	,	_	_	
+2-11	89-90	7	_	_	
+2-12	90-91	,	_	_	
+2-13	92-95	and	_	_	
+2-14	96-97	8	_	_	
+2-15	97-98	,	_	_	
+2-16	99-103	took	_	_	
+2-17	104-105	[	_	_	
+2-18	106-111	place	_	_	
+2-19	112-114	on	_	_	
+2-20	115-121	Monday	_	_	
+2-21	122-129	morning	_	_	
+2-22	129-130	,	_	_	
+2-23	131-135	when	_	_	
+2-24	136-139	the	_	_	
+2-25	140-149	following	_	_	
+2-26	150-157	persons	_	_	
+2-27	158-159	,	_	_	
+2-28	160-164	were	_	_	
+2-29	165-172	elected	_	_	
+2-30	172-173	:	_	_	
+2-31	174-176	No	_	_	
+2-32	176-177	,	_	_	
+2-33	178-179	5	_	_	
+2-34	179-180	;	_	_	
+2-35	181-183	on	_	_	
+2-36	183-184	,	_	_	
+2-37	185-187	st	*[1]	STREET[1]	
+2-38	187-188	.	*[1]	STREET[1]	
+
+#Text=Phillips district.
+3-1	189-197	Phillips	*[1]	STREET[1]	
+3-2	198-206	district	*[1]	STREET[1]	
+3-3	206-207	.	_	_	
+
+#Text=Thomas Lockyer, agent, St.
+4-1	208-214	Thomas	_	_	
+4-2	215-222	Lockyer	_	_	
+4-3	222-223	,	_	_	
+4-4	224-229	agent	_	_	
+4-5	229-230	,	_	_	
+4-6	231-233	St	*[2]	STREET[2]	
+4-7	233-234	.	*[2]	STREET[2]	
+
+#Text=Stephens-street.
+5-1	235-250	Stephens-street	*[2]	STREET[2]	
+5-2	250-251	.	_	_	
+
+#Text=Thomas Galley, corn-merchant, Bank-parade.
+6-1	252-258	Thomas	_	_	
+6-2	259-265	Galley	_	_	
+6-3	265-266	,	_	_	
+6-4	267-280	corn-merchant	_	_	
+6-5	280-281	,	_	_	
+6-6	282-293	Bank-parade	*	STREET	
+6-7	293-294	.	_	_	
+
+#Text=Robert Tinsley, miller, Adelphi.
+7-1	296-302	Robert	_	_	
+7-2	303-310	Tinsley	_	_	
+7-3	310-311	,	_	_	
+7-4	312-318	miller	_	_	
+7-5	318-319	,	_	_	
+7-6	320-327	Adelphi	*	STREET	
+7-7	327-328	.	_	_	
+
+#Text=John Wakefield, inspector of weights and measures, New Bailey-street. ; James Gibb, merchant, Islington-square.
+8-1	329-333	John	_	_	
+8-2	334-343	Wakefield	_	_	
+8-3	343-344	,	_	_	
+8-4	345-354	inspector	_	_	
+8-5	355-357	of	_	_	
+8-6	358-365	weights	_	_	
+8-7	366-369	and	_	_	
+8-8	370-378	measures	_	_	
+8-9	378-379	,	_	_	
+8-10	380-383	New	*[3]	STREET[3]	
+8-11	384-397	Bailey-street	*[3]	STREET[3]	
+8-12	397-398	.	_	_	
+8-13	399-400	;	_	_	
+8-14	401-406	James	_	_	
+8-15	407-411	Gibb	_	_	
+8-16	411-412	,	_	_	
+8-17	413-421	merchant	_	_	
+8-18	421-422	,	_	_	
+8-19	423-439	Islington-square	*	STREET	
+8-20	439-440	.	_	_	
+
+#Text=Francis Clay, pork butcher, Bank-parade.
+9-1	442-449	Francis	_	_	
+9-2	450-454	Clay	_	_	
+9-3	454-455	,	_	_	
+9-4	456-460	pork	_	_	
+9-5	461-468	butcher	_	_	
+9-6	468-469	,	_	_	
+9-7	470-481	Bank-parade	*	STREET	
+9-8	481-482	.	_	_	
+
+#Text=No. 6; OR, ST.
+10-1	483-485	No	_	_	
+10-2	485-486	.	_	_	
+10-3	487-488	6	_	_	
+10-4	488-489	;	_	_	
+10-5	490-492	OR	_	_	
+10-6	492-493	,	_	_	
+10-7	494-496	ST	*[4]	STREET[4]	
+10-8	496-497	.	*[4]	STREET[4]	
+
+#Text=STEPHENS DISTRICT.
+11-1	498-506	STEPHENS	*[4]	STREET[4]	
+11-2	507-515	DISTRICT	*[4]	STREET[4]	
+11-3	515-516	.	_	_	
+
+#Text=Thomas Johnson, dyer, Chapel-street.
+12-1	517-523	Thomas	_	_	
+12-2	524-531	Johnson	_	_	
+12-3	531-532	,	_	_	
+12-4	533-537	dyer	_	_	
+12-5	537-538	,	_	_	
+12-6	539-552	Chapel-street	*	STREET	
+12-7	552-553	.	_	_	
+
+#Text=Peter Thornton, fustian shearer, Wroc-street. f James Maden, provision dealer, St.
+13-1	554-559	Peter	_	_	
+13-2	560-568	Thornton	_	_	
+13-3	568-569	,	_	_	
+13-4	570-577	fustian	_	_	
+13-5	578-585	shearer	_	_	
+13-6	585-586	,	_	_	
+13-7	587-598	Wroc-street	*	STREET	
+13-8	598-599	.	_	_	
+13-9	600-601	f	_	_	
+13-10	602-607	James	_	_	
+13-11	608-613	Maden	_	_	
+13-12	613-614	,	_	_	
+13-13	615-624	provision	_	_	
+13-14	625-631	dealer	_	_	
+13-15	631-632	,	_	_	
+13-16	633-635	St	_	_	
+13-17	635-636	.	_	_	
+
+#Text=Stephens-street.
+14-1	637-652	Stephens-street	_	_	
+14-2	652-653	.	_	_	
+
+#Text=Samuel Cheetham, dyer, Springfield-lane.
+15-1	654-660	Samuel	_	_	
+15-2	661-669	Cheetham	_	_	
+15-3	669-670	,	_	_	
+15-4	671-675	dyer	_	_	
+15-5	675-676	,	_	_	
+15-6	677-693	Springfield-lane	*	STREET	
+15-7	693-694	.	_	_	
+
+#Text=No. 7; OR, TRINITY CHAPEL DISTRICT.
+16-1	695-697	No	_	_	
+16-2	697-698	.	_	_	
+16-3	699-700	7	_	_	
+16-4	700-701	;	_	_	
+16-5	702-704	OR	_	_	
+16-6	704-705	,	_	_	
+16-7	706-713	TRINITY	*[5]	STREET[5]	
+16-8	714-720	CHAPEL	*[5]	STREET[5]	
+16-9	721-729	DISTRICT	*[5]	STREET[5]	
+16-10	729-730	.	_	_	
+
+#Text=W.
+17-1	731-732	W	_	_	
+17-2	732-733	.	_	_	
+
+#Text=D.
+18-1	734-735	D	_	_	
+18-2	735-736	.	_	_	
+
+#Text=Coddington, manufacturer, St.
+19-1	737-747	Coddington	_	_	
+19-2	747-748	,	_	_	
+19-3	749-761	manufacturer	_	_	
+19-4	761-762	,	_	_	
+19-5	763-765	St	_	_	
+19-6	765-766	.	_	_	
+
+#Text=Stejpheng-street.
+20-1	767-783	Stejpheng-street	_	_	
+20-2	783-784	.	_	_	
+
+#Text=H.
+21-1	785-786	H	_	_	
+21-2	786-787	.	_	_	
+
+#Text=B.
+22-1	788-789	B	_	_	
+22-2	789-790	.	_	_	
+
+#Text=Peacock, draper, Richmond-hill.
+23-1	791-798	Peacock	_	_	
+23-2	798-799	,	_	_	
+23-3	800-806	draper	_	_	
+23-4	806-807	,	_	_	
+23-5	808-821	Richmond-hill	*	STREET	
+23-6	821-822	.	_	_	
+
+#Text=G.
+24-1	823-824	G	_	_	
+24-2	824-825	.	_	_	
+
+#Text=Wilson, screw-bolt maker, Garden-lane.
+25-1	826-832	Wilson	_	_	
+25-2	832-833	,	_	_	
+25-3	834-844	screw-bolt	_	_	
+25-4	845-850	maker	_	_	
+25-5	850-851	,	_	_	
+25-6	852-863	Garden-lane	*	STREET	
+25-7	863-864	.	_	_	
+
+#Text=J.
+26-1	865-866	J	_	_	
+26-2	866-867	.	_	_	
+
+#Text=Towle, provision dealer, Queen-street.
+27-1	868-873	Towle	_	_	
+27-2	873-874	,	_	_	
+27-3	875-884	provision	_	_	
+27-4	885-891	dealer	_	_	
+27-5	891-892	,	_	_	
+27-6	893-905	Queen-street	*	STREET	
+27-7	905-906	.	_	_	
+
+#Text=James Jones, iron founder, Bury-street.
+28-1	908-913	James	_	_	
+28-2	914-919	Jones	_	_	
+28-3	919-920	,	_	_	
+28-4	921-925	iron	_	_	
+28-5	926-933	founder	_	_	
+28-6	933-934	,	_	_	
+28-7	935-946	Bury-street	*	STREET	
+28-8	946-947	.	_	_	
+
+#Text=John Preston, brewer, Paradise-row.
+29-1	948-952	John	_	_	
+29-2	953-960	Preston	_	_	
+29-3	960-961	,	_	_	
+29-4	962-968	brewer	_	_	
+29-5	968-969	,	_	_	
+29-6	970-982	Paradise-row	*	STREET	
+29-7	982-983	.	_	_	
+
+#Text=No. 8; OR, GREEN GATE DISTRICT.
+30-1	984-986	No	_	_	
+30-2	986-987	.	_	_	
+30-3	988-989	8	_	_	
+30-4	989-990	;	_	_	
+30-5	991-993	OR	_	_	
+30-6	993-994	,	_	_	
+30-7	995-1000	GREEN	*[6]	STREET[6]	
+30-8	1001-1005	GATE	*[6]	STREET[6]	
+30-9	1006-1014	DISTRICT	*[6]	STREET[6]	
+30-10	1014-1015	.	_	_	
+
+#Text=I John Bancroft, provision dealer, Broughton-r William Collier, machinist, Cooks-court.
+31-1	1016-1017	I	_	_	
+31-2	1018-1022	John	_	_	
+31-3	1023-1031	Bancroft	_	_	
+31-4	1031-1032	,	_	_	
+31-5	1033-1042	provision	_	_	
+31-6	1043-1049	dealer	_	_	
+31-7	1049-1050	,	_	_	
+31-8	1051-1062	Broughton-r	_	_	
+31-9	1063-1070	William	_	_	
+31-10	1071-1078	Collier	_	_	
+31-11	1078-1079	,	_	_	
+31-12	1080-1089	machinist	_	_	
+31-13	1089-1090	,	_	_	
+31-14	1091-1102	Cooks-court	*	STREET	
+31-15	1102-1103	.	_	_	
+
+#Text=John Lancaster, dyer, Springfield-lane. y George Langwortny, manufacturer, Sandyweu
+32-1	1104-1108	John	_	_	
+32-2	1109-1118	Lancaster	_	_	
+32-3	1118-1119	,	_	_	
+32-4	1120-1124	dyer	_	_	
+32-5	1124-1125	,	_	_	
+32-6	1126-1142	Springfield-lane	*	STREET	
+32-7	1142-1143	.	_	_	
+32-8	1144-1145	y	_	_	
+32-9	1146-1152	George	_	_	
+32-10	1153-1163	Langwortny	_	_	
+32-11	1163-1164	,	_	_	
+32-12	1165-1177	manufacturer	_	_	
+32-13	1177-1178	,	_	_	
+32-14	1179-1187	Sandyweu	*	STREET	

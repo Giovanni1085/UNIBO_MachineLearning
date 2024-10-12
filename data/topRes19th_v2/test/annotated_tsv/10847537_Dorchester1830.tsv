@@ -1,0 +1,192 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=INDIA.
+1-1	0-5	INDIA	https://en.wikipedia.org/wiki/India	LOC	
+1-2	5-6	.	_	_	
+
+#Text=The Calcutta papers contain a government circular, addressed to the editors and proprietors of the various periodicals, giving them a very significant caution against indulging in comments on the half-batta question, as being calculated to excite a spirit of mutiny and discontent in the minds of the European soldiery.
+2-1	8-11	The	_	_	
+2-2	12-20	Calcutta	https://en.wikipedia.org/wiki/Kolkata	LOC	
+2-3	21-27	papers	_	_	
+2-4	28-35	contain	_	_	
+2-5	36-37	a	_	_	
+2-6	38-48	government	_	_	
+2-7	49-57	circular	_	_	
+2-8	57-58	,	_	_	
+2-9	59-68	addressed	_	_	
+2-10	69-71	to	_	_	
+2-11	72-75	the	_	_	
+2-12	76-83	editors	_	_	
+2-13	84-87	and	_	_	
+2-14	88-99	proprietors	_	_	
+2-15	100-102	of	_	_	
+2-16	103-106	the	_	_	
+2-17	107-114	various	_	_	
+2-18	115-126	periodicals	_	_	
+2-19	126-127	,	_	_	
+2-20	128-134	giving	_	_	
+2-21	135-139	them	_	_	
+2-22	140-141	a	_	_	
+2-23	142-146	very	_	_	
+2-24	147-158	significant	_	_	
+2-25	159-166	caution	_	_	
+2-26	167-174	against	_	_	
+2-27	175-184	indulging	_	_	
+2-28	185-187	in	_	_	
+2-29	188-196	comments	_	_	
+2-30	197-199	on	_	_	
+2-31	200-203	the	_	_	
+2-32	204-214	half-batta	_	_	
+2-33	215-223	question	_	_	
+2-34	223-224	,	_	_	
+2-35	225-227	as	_	_	
+2-36	228-233	being	_	_	
+2-37	234-244	calculated	_	_	
+2-38	245-247	to	_	_	
+2-39	248-254	excite	_	_	
+2-40	255-256	a	_	_	
+2-41	257-263	spirit	_	_	
+2-42	264-266	of	_	_	
+2-43	267-273	mutiny	_	_	
+2-44	274-277	and	_	_	
+2-45	278-288	discontent	_	_	
+2-46	289-291	in	_	_	
+2-47	292-295	the	_	_	
+2-48	296-301	minds	_	_	
+2-49	302-304	of	_	_	
+2-50	305-308	the	_	_	
+2-51	309-317	European	_	_	
+2-52	318-326	soldiery	_	_	
+2-53	326-327	.	_	_	
+
+#Text=These papers inform us of the loss of the Nelson, of Liverpool, and of the subsequent preservation of the crew.
+3-1	328-333	These	_	_	
+3-2	334-340	papers	_	_	
+3-3	341-347	inform	_	_	
+3-4	348-350	us	_	_	
+3-5	351-353	of	_	_	
+3-6	354-357	the	_	_	
+3-7	358-362	loss	_	_	
+3-8	363-365	of	_	_	
+3-9	366-369	the	_	_	
+3-10	370-376	Nelson	_	_	
+3-11	376-377	,	_	_	
+3-12	378-380	of	_	_	
+3-13	381-390	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+3-14	390-391	,	_	_	
+3-15	392-395	and	_	_	
+3-16	396-398	of	_	_	
+3-17	399-402	the	_	_	
+3-18	403-413	subsequent	_	_	
+3-19	414-426	preservation	_	_	
+3-20	427-429	of	_	_	
+3-21	430-433	the	_	_	
+3-22	434-438	crew	_	_	
+3-23	438-439	.	_	_	
+
+#Text=The weather had again become particularly sultry, and the transition had of course been accompanied by an increase in feverish and other complaints.
+4-1	440-443	The	_	_	
+4-2	444-451	weather	_	_	
+4-3	452-455	had	_	_	
+4-4	456-461	again	_	_	
+4-5	462-468	become	_	_	
+4-6	469-481	particularly	_	_	
+4-7	482-488	sultry	_	_	
+4-8	488-489	,	_	_	
+4-9	490-493	and	_	_	
+4-10	494-497	the	_	_	
+4-11	498-508	transition	_	_	
+4-12	509-512	had	_	_	
+4-13	513-515	of	_	_	
+4-14	516-522	course	_	_	
+4-15	523-527	been	_	_	
+4-16	528-539	accompanied	_	_	
+4-17	540-542	by	_	_	
+4-18	543-545	an	_	_	
+4-19	546-554	increase	_	_	
+4-20	555-557	in	_	_	
+4-21	558-566	feverish	_	_	
+4-22	567-570	and	_	_	
+4-23	571-576	other	_	_	
+4-24	577-587	complaints	_	_	
+4-25	587-588	.	_	_	
+
+#Text=We have a variety of commercial intelligence from China.
+5-1	589-591	We	_	_	
+5-2	592-596	have	_	_	
+5-3	597-598	a	_	_	
+5-4	599-606	variety	_	_	
+5-5	607-609	of	_	_	
+5-6	610-620	commercial	_	_	
+5-7	621-633	intelligence	_	_	
+5-8	634-638	from	_	_	
+5-9	639-644	China	https://en.wikipedia.org/wiki/China	LOC	
+5-10	644-645	.	_	_	
+
+#Text=According to the last accounts from Canton, the demand for cotton twist had become considerable.
+6-1	646-655	According	_	_	
+6-2	656-658	to	_	_	
+6-3	659-662	the	_	_	
+6-4	663-667	last	_	_	
+6-5	668-676	accounts	_	_	
+6-6	677-681	from	_	_	
+6-7	682-688	Canton	https://en.wikipedia.org/wiki/Guangzhou	LOC	
+6-8	688-689	,	_	_	
+6-9	690-693	the	_	_	
+6-10	694-700	demand	_	_	
+6-11	701-704	for	_	_	
+6-12	705-711	cotton	_	_	
+6-13	712-717	twist	_	_	
+6-14	718-721	had	_	_	
+6-15	722-728	become	_	_	
+6-16	729-741	considerable	_	_	
+6-17	741-742	.	_	_	
+
+#Text=Every bale in the market had been purchased by merchants from the northern provinces.
+7-1	743-748	Every	_	_	
+7-2	749-753	bale	_	_	
+7-3	754-756	in	_	_	
+7-4	757-760	the	_	_	
+7-5	761-767	market	_	_	
+7-6	768-771	had	_	_	
+7-7	772-776	been	_	_	
+7-8	777-786	purchased	_	_	
+7-9	787-789	by	_	_	
+7-10	790-799	merchants	_	_	
+7-11	800-804	from	_	_	
+7-12	805-808	the	_	_	
+7-13	809-817	northern	_	_	
+7-14	818-827	provinces	_	_	
+7-15	827-828	.	_	_	
+
+#Text=Preference was given to low numbers, at 48 dollars.
+8-1	829-839	Preference	_	_	
+8-2	840-843	was	_	_	
+8-3	844-849	given	_	_	
+8-4	850-852	to	_	_	
+8-5	853-856	low	_	_	
+8-6	857-864	numbers	_	_	
+8-7	864-865	,	_	_	
+8-8	866-868	at	_	_	
+8-9	869-871	48	_	_	
+8-10	872-879	dollars	_	_	
+8-11	879-880	.	_	_	
+
+#Text=The trade of cotton twist on yarn has been increasing from year to year.
+9-1	881-884	The	_	_	
+9-2	885-890	trade	_	_	
+9-3	891-893	of	_	_	
+9-4	894-900	cotton	_	_	
+9-5	901-906	twist	_	_	
+9-6	907-909	on	_	_	
+9-7	910-914	yarn	_	_	
+9-8	915-918	has	_	_	
+9-9	919-923	been	_	_	
+9-10	924-934	increasing	_	_	
+9-11	935-939	from	_	_	
+9-12	940-944	year	_	_	
+9-13	945-947	to	_	_	
+9-14	948-952	year	_	_	
+9-15	952-953	.	_	_	

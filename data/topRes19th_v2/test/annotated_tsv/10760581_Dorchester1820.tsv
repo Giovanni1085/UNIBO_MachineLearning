@@ -1,0 +1,448 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=TWELFTH NIGHT; OR, FALSE AND TRUE.
+1-1	0-7	TWELFTH	_	_	
+1-2	8-13	NIGHT	_	_	
+1-3	13-14	;	_	_	
+1-4	15-17	OR	_	_	
+1-5	17-18	,	_	_	
+1-6	19-24	FALSE	_	_	
+1-7	25-28	AND	_	_	
+1-8	29-33	TRUE	_	_	
+1-9	33-34	.	_	_	
+
+#Text=A Sociable party last Twelfth Night thought tit Its talent to try at extempore wit; To tell one, a story unfounded Truth’* laws on.
+2-1	35-36	A	_	_	
+2-2	37-45	Sociable	_	_	
+2-3	46-51	party	_	_	
+2-4	52-56	last	_	_	
+2-5	57-64	Twelfth	_	_	
+2-6	65-70	Night	_	_	
+2-7	71-78	thought	_	_	
+2-8	79-82	tit	_	_	
+2-9	83-86	Its	_	_	
+2-10	87-93	talent	_	_	
+2-11	94-96	to	_	_	
+2-12	97-100	try	_	_	
+2-13	101-103	at	_	_	
+2-14	104-113	extempore	_	_	
+2-15	114-117	wit	_	_	
+2-16	117-118	;	_	_	
+2-17	119-121	To	_	_	
+2-18	122-126	tell	_	_	
+2-19	127-130	one	_	_	
+2-20	130-131	,	_	_	
+2-21	132-133	a	_	_	
+2-22	134-139	story	_	_	
+2-23	140-149	unfounded	_	_	
+2-24	150-155	Truth	_	_	
+2-25	155-156	’	_	_	
+2-26	156-157	*	_	_	
+2-27	158-162	laws	_	_	
+2-28	163-165	on	_	_	
+2-29	165-166	.	_	_	
+
+#Text=In manner exceeding even Baron Munchausen; Another immutable Truth to disguise lo style that the party should please and surprise.
+3-1	167-169	In	_	_	
+3-2	170-176	manner	_	_	
+3-3	177-186	exceeding	_	_	
+3-4	187-191	even	_	_	
+3-5	192-197	Baron	_	_	
+3-6	198-208	Munchausen	_	_	
+3-7	208-209	;	_	_	
+3-8	210-217	Another	_	_	
+3-9	218-227	immutable	_	_	
+3-10	228-233	Truth	_	_	
+3-11	234-236	to	_	_	
+3-12	237-245	disguise	_	_	
+3-13	246-248	lo	_	_	
+3-14	249-254	style	_	_	
+3-15	255-259	that	_	_	
+3-16	260-263	the	_	_	
+3-17	264-269	party	_	_	
+3-18	270-276	should	_	_	
+3-19	277-283	please	_	_	
+3-20	284-287	and	_	_	
+3-21	288-296	surprise	_	_	
+3-22	296-297	.	_	_	
+
+#Text=THE MERRY DUNN OF DOVER.
+4-1	298-301	THE	_	_	
+4-2	302-307	MERRY	_	_	
+4-3	308-312	DUNN	_	_	
+4-4	313-315	OF	_	_	
+4-5	316-321	DOVER	https://en.wikipedia.org/wiki/Dover	LOC	
+4-6	321-322	.	_	_	
+
+#Text=The vessel the Merry Dunn, christen’d of Dover, la length many leagues of the ocean would cover!
+5-1	323-326	The	_	_	
+5-2	327-333	vessel	_	_	
+5-3	334-337	the	_	_	
+5-4	338-343	Merry	_	_	
+5-5	344-348	Dunn	_	_	
+5-6	348-349	,	_	_	
+5-7	350-358	christen	_	_	
+5-8	358-359	’	_	_	
+5-9	359-360	d	_	_	
+5-10	361-363	of	_	_	
+5-11	364-369	Dover	https://en.wikipedia.org/wiki/Dover	LOC	
+5-12	369-370	,	_	_	
+5-13	371-373	la	_	_	
+5-14	374-380	length	_	_	
+5-15	381-385	many	_	_	
+5-16	386-393	leagues	_	_	
+5-17	394-396	of	_	_	
+5-18	397-400	the	_	_	
+5-19	401-406	ocean	_	_	
+5-20	407-412	would	_	_	
+5-21	413-418	cover	_	_	
+5-22	418-419	!	_	_	
+
+#Text=At Sunderland cargoes of coals would receive At her bow-port!
+6-1	420-422	At	_	_	
+6-2	423-433	Sunderland	https://en.wikipedia.org/wiki/Sunderland	LOC	
+6-3	434-441	cargoes	_	_	
+6-4	442-444	of	_	_	
+6-5	445-450	coals	_	_	
+6-6	451-456	would	_	_	
+6-7	457-464	receive	_	_	
+6-8	465-467	At	_	_	
+6-9	468-471	her	_	_	
+6-10	472-480	bow-port	_	_	
+6-11	480-481	!	_	_	
+
+#Text=and, what you will scarcley believe.
+7-1	482-485	and	_	_	
+7-2	485-486	,	_	_	
+7-3	487-491	what	_	_	
+7-4	492-495	you	_	_	
+7-5	496-500	will	_	_	
+7-6	501-509	scarcley	_	_	
+7-7	510-517	believe	_	_	
+7-8	517-518	.	_	_	
+
+#Text=Would, at the same time, from her stem-port dischafg#.
+8-1	519-524	Would	_	_	
+8-2	524-525	,	_	_	
+8-3	526-528	at	_	_	
+8-4	529-532	the	_	_	
+8-5	533-537	same	_	_	
+8-6	538-542	time	_	_	
+8-7	542-543	,	_	_	
+8-8	544-548	from	_	_	
+8-9	549-552	her	_	_	
+8-10	553-562	stem-port	_	_	
+8-11	563-571	dischafg	_	_	
+8-12	571-572	#	_	_	
+8-13	572-573	.	_	_	
+
+#Text=Below London Bridge, into lighter and barge!
+9-1	574-579	Below	_	_	
+9-2	580-586	London	https://en.wikipedia.org/wiki/London\_Bridge[1]	BUILDING[1]	
+9-3	587-593	Bridge	https://en.wikipedia.org/wiki/London\_Bridge[1]	BUILDING[1]	
+9-4	593-594	,	_	_	
+9-5	595-599	into	_	_	
+9-6	600-607	lighter	_	_	
+9-7	608-611	and	_	_	
+9-8	612-617	barge	_	_	
+9-9	617-618	!	_	_	
+
+#Text=A boy sent aloft the ships pendant to clear.
+10-1	619-620	A	_	_	
+10-2	621-624	boy	_	_	
+10-3	625-629	sent	_	_	
+10-4	630-635	aloft	_	_	
+10-5	636-639	the	_	_	
+10-6	640-645	ships	_	_	
+10-7	646-653	pendant	_	_	
+10-8	654-656	to	_	_	
+10-9	657-662	clear	_	_	
+10-10	662-663	.	_	_	
+
+#Text=In ascent and descent for many a year.
+11-1	664-666	In	_	_	
+11-2	667-673	ascent	_	_	
+11-3	674-677	and	_	_	
+11-4	678-685	descent	_	_	
+11-5	686-689	for	_	_	
+11-6	690-694	many	_	_	
+11-7	695-696	a	_	_	
+11-8	697-701	year	_	_	
+11-9	701-702	.	_	_	
+
+#Text=So long was about it, as all might presage.
+12-1	703-705	So	_	_	
+12-2	706-710	long	_	_	
+12-3	711-714	was	_	_	
+12-4	715-720	about	_	_	
+12-5	721-723	it	_	_	
+12-6	723-724	,	_	_	
+12-7	725-727	as	_	_	
+12-8	728-731	all	_	_	
+12-9	732-737	might	_	_	
+12-10	738-745	presage	_	_	
+12-11	745-746	.	_	_	
+
+#Text=That when he came down he was gray with old age!
+13-1	747-751	That	_	_	
+13-2	752-756	when	_	_	
+13-3	757-759	he	_	_	
+13-4	760-764	came	_	_	
+13-5	765-769	down	_	_	
+13-6	770-772	he	_	_	
+13-7	773-776	was	_	_	
+13-8	777-781	gray	_	_	
+13-9	782-786	with	_	_	
+13-10	787-790	old	_	_	
+13-11	791-794	age	_	_	
+13-12	794-795	!	_	_	
+
+#Text=This ship from the Downs while her way working out.
+14-1	796-800	This	_	_	
+14-2	801-805	ship	_	_	
+14-3	806-810	from	_	_	
+14-4	811-814	the	_	_	
+14-5	815-820	Downs	https://en.wikipedia.org/wiki/South\_Downs	LOC	
+14-6	821-826	while	_	_	
+14-7	827-830	her	_	_	
+14-8	831-834	way	_	_	
+14-9	835-842	working	_	_	
+14-10	843-846	out	_	_	
+14-11	846-847	.	_	_	
+
+#Text=In length was so great, that in tacking about.
+15-1	848-850	In	_	_	
+15-2	851-857	length	_	_	
+15-3	858-861	was	_	_	
+15-4	862-864	so	_	_	
+15-5	865-870	great	_	_	
+15-6	870-871	,	_	_	
+15-7	872-876	that	_	_	
+15-8	877-879	in	_	_	
+15-9	880-887	tacking	_	_	
+15-10	888-893	about	_	_	
+15-11	893-894	.	_	_	
+
+#Text=Like some Hoating mountain, the dread of the people.
+16-1	895-899	Like	_	_	
+16-2	900-904	some	_	_	
+16-3	905-912	Hoating	_	_	
+16-4	913-921	mountain	_	_	
+16-5	921-922	,	_	_	
+16-6	923-926	the	_	_	
+16-7	927-932	dread	_	_	
+16-8	933-935	of	_	_	
+16-9	936-939	the	_	_	
+16-10	940-946	people	_	_	
+16-11	946-947	.	_	_	
+
+#Text=Her fiyiug-gib-bnon thea knock’d down Calais steeple!
+17-1	948-951	Her	_	_	
+17-2	952-967	fiyiug-gib-bnon	_	_	
+17-3	968-972	thea	_	_	
+17-4	973-978	knock	_	_	
+17-5	978-979	’	_	_	
+17-6	979-980	d	_	_	
+17-7	981-985	down	_	_	
+17-8	986-992	Calais	https://en.wikipedia.org/wiki/Calais	LOC	
+17-9	993-1000	steeple	_	_	
+17-10	1000-1001	!	_	_	
+
+#Text=Same time that her ensign’s long tail by a sweep From Dover heights struck off a large flock of sheep !
+18-1	1002-1006	Same	_	_	
+18-2	1007-1011	time	_	_	
+18-3	1012-1016	that	_	_	
+18-4	1017-1020	her	_	_	
+18-5	1021-1027	ensign	_	_	
+18-6	1027-1028	’	_	_	
+18-7	1028-1029	s	_	_	
+18-8	1030-1034	long	_	_	
+18-9	1035-1039	tail	_	_	
+18-10	1040-1042	by	_	_	
+18-11	1043-1044	a	_	_	
+18-12	1045-1050	sweep	_	_	
+18-13	1051-1055	From	_	_	
+18-14	1056-1061	Dover	https://en.wikipedia.org/wiki/Dover	LOC	
+18-15	1062-1069	heights	_	_	
+18-16	1070-1076	struck	_	_	
+18-17	1077-1080	off	_	_	
+18-18	1081-1082	a	_	_	
+18-19	1083-1088	large	_	_	
+18-20	1089-1094	flock	_	_	
+18-21	1095-1097	of	_	_	
+18-22	1098-1103	sheep	_	_	
+18-23	1104-1105	!	_	_	
+
+#Text=The story thus ended, a lady began— ‘ What is it that heats even the great Merry Dunn ?
+19-1	1106-1109	The	_	_	
+19-2	1110-1115	story	_	_	
+19-3	1116-1120	thus	_	_	
+19-4	1121-1126	ended	_	_	
+19-5	1126-1127	,	_	_	
+19-6	1128-1129	a	_	_	
+19-7	1130-1134	lady	_	_	
+19-8	1135-1140	began	_	_	
+19-9	1140-1141	—	_	_	
+19-10	1142-1143	‘	_	_	
+19-11	1144-1148	What	_	_	
+19-12	1149-1151	is	_	_	
+19-13	1152-1154	it	_	_	
+19-14	1155-1159	that	_	_	
+19-15	1160-1165	heats	_	_	
+19-16	1166-1170	even	_	_	
+19-17	1171-1174	the	_	_	
+19-18	1175-1180	great	_	_	
+19-19	1181-1186	Merry	_	_	
+19-20	1187-1191	Dunn	_	_	
+19-21	1192-1193	?	_	_	
+
+#Text=Whose standard of fame, many years now unfurl’d.
+20-1	1194-1199	Whose	_	_	
+20-2	1200-1208	standard	_	_	
+20-3	1209-1211	of	_	_	
+20-4	1212-1216	fame	_	_	
+20-5	1216-1217	,	_	_	
+20-6	1218-1222	many	_	_	
+20-7	1223-1228	years	_	_	
+20-8	1229-1232	now	_	_	
+20-9	1233-1239	unfurl	_	_	
+20-10	1239-1240	’	_	_	
+20-11	1240-1241	d	_	_	
+20-12	1241-1242	.	_	_	
+
+#Text=Extends o’er the whole of the civilized world !
+21-1	1243-1250	Extends	_	_	
+21-2	1251-1252	o	_	_	
+21-3	1252-1253	’	_	_	
+21-4	1253-1255	er	_	_	
+21-5	1256-1259	the	_	_	
+21-6	1260-1265	whole	_	_	
+21-7	1266-1268	of	_	_	
+21-8	1269-1272	the	_	_	
+21-9	1273-1282	civilized	_	_	
+21-10	1283-1288	world	_	_	
+21-11	1289-1290	!	_	_	
+
+#Text=The Merry Dunn merely to ocean confined, But this all the haunts still pervades of mankind; Your vessel unwieldy ; but this gives a grace, And stamps the criterion of taste on your race. * Tis Warre*%» Jet Blacking!’
+22-1	1291-1294	The	_	_	
+22-2	1295-1300	Merry	_	_	
+22-3	1301-1305	Dunn	_	_	
+22-4	1306-1312	merely	_	_	
+22-5	1313-1315	to	_	_	
+22-6	1316-1321	ocean	_	_	
+22-7	1322-1330	confined	_	_	
+22-8	1330-1331	,	_	_	
+22-9	1332-1335	But	_	_	
+22-10	1336-1340	this	_	_	
+22-11	1341-1344	all	_	_	
+22-12	1345-1348	the	_	_	
+22-13	1349-1355	haunts	_	_	
+22-14	1356-1361	still	_	_	
+22-15	1362-1370	pervades	_	_	
+22-16	1371-1373	of	_	_	
+22-17	1374-1381	mankind	_	_	
+22-18	1381-1382	;	_	_	
+22-19	1383-1387	Your	_	_	
+22-20	1388-1394	vessel	_	_	
+22-21	1395-1403	unwieldy	_	_	
+22-22	1404-1405	;	_	_	
+22-23	1406-1409	but	_	_	
+22-24	1410-1414	this	_	_	
+22-25	1415-1420	gives	_	_	
+22-26	1421-1422	a	_	_	
+22-27	1423-1428	grace	_	_	
+22-28	1428-1429	,	_	_	
+22-29	1430-1433	And	_	_	
+22-30	1434-1440	stamps	_	_	
+22-31	1441-1444	the	_	_	
+22-32	1445-1454	criterion	_	_	
+22-33	1455-1457	of	_	_	
+22-34	1458-1463	taste	_	_	
+22-35	1464-1466	on	_	_	
+22-36	1467-1471	your	_	_	
+22-37	1472-1476	race	_	_	
+22-38	1476-1477	.	_	_	
+22-39	1478-1479	*	_	_	
+22-40	1480-1483	Tis	_	_	
+22-41	1484-1489	Warre	_	_	
+22-42	1489-1490	*	_	_	
+22-43	1490-1491	%	_	_	
+22-44	1491-1492	»	_	_	
+22-45	1493-1496	Jet	_	_	
+22-46	1497-1505	Blacking	_	_	
+22-47	1505-1506	!	_	_	
+22-48	1506-1507	’	_	_	
+
+#Text=each voice now replies.
+23-1	1508-1512	each	_	_	
+23-2	1513-1518	voice	_	_	
+23-3	1519-1522	now	_	_	
+23-4	1523-1530	replies	_	_	
+23-5	1530-1531	.	_	_	
+
+#Text=And Truth thus achieved of due honors the priio.
+24-1	1532-1535	And	_	_	
+24-2	1536-1541	Truth	_	_	
+24-3	1542-1546	thus	_	_	
+24-4	1547-1555	achieved	_	_	
+24-5	1556-1558	of	_	_	
+24-6	1559-1562	due	_	_	
+24-7	1563-1569	honors	_	_	
+24-8	1570-1573	the	_	_	
+24-9	1574-1579	priio	_	_	
+24-10	1579-1580	.	_	_	
+
+#Text=This Easy Shining and Brilliant BLACKING is prepared by ROBERT \\V All REN, 3.», STRAND, London, and sold wholesale at the !
+25-1	1581-1585	This	_	_	
+25-2	1586-1590	Easy	_	_	
+25-3	1591-1598	Shining	_	_	
+25-4	1599-1602	and	_	_	
+25-5	1603-1612	Brilliant	_	_	
+25-6	1613-1621	BLACKING	_	_	
+25-7	1622-1624	is	_	_	
+25-8	1625-1633	prepared	_	_	
+25-9	1634-1636	by	_	_	
+25-10	1637-1643	ROBERT	_	_	
+25-11	1644-1645	\	_	_	
+25-12	1645-1646	V	_	_	
+25-13	1647-1650	All	_	_	
+25-14	1651-1654	REN	_	_	
+25-15	1654-1655	,	_	_	
+25-16	1656-1657	3	_	_	
+25-17	1657-1658	.	_	_	
+25-18	1658-1659	»	_	_	
+25-19	1659-1660	,	_	_	
+25-20	1661-1667	STRAND	https://en.wikipedia.org/wiki/Strand,\_London	LOC	
+25-21	1667-1668	,	_	_	
+25-22	1669-1675	London	https://en.wikipedia.org/wiki/London	LOC	
+25-23	1675-1676	,	_	_	
+25-24	1677-1680	and	_	_	
+25-25	1681-1685	sold	_	_	
+25-26	1686-1695	wholesale	_	_	
+25-27	1696-1698	at	_	_	
+25-28	1699-1702	the	_	_	
+25-29	1703-1704	!	_	_	
+
+#Text=>orsct Countv Chronicle and Somersetshire Gazette Oflice, Dorchester, and retail iu every Town ia the Kiagdcm.
+26-1	1704-1705	>	https://en.wikipedia.org/wiki/Dorset[2]	LOC[2]	
+26-2	1705-1710	orsct	https://en.wikipedia.org/wiki/Dorset[2]	LOC[2]	
+26-3	1711-1717	Countv	_	_	
+26-4	1718-1727	Chronicle	_	_	
+26-5	1728-1731	and	_	_	
+26-6	1732-1745	Somersetshire	https://en.wikipedia.org/wiki/Somerset	LOC	
+26-7	1746-1753	Gazette	_	_	
+26-8	1754-1760	Oflice	_	_	
+26-9	1760-1761	,	_	_	
+26-10	1762-1772	Dorchester	https://en.wikipedia.org/wiki/Dorchester,\_Dorset	LOC	
+26-11	1772-1773	,	_	_	
+26-12	1774-1777	and	_	_	
+26-13	1778-1784	retail	_	_	
+26-14	1785-1787	iu	_	_	
+26-15	1788-1793	every	_	_	
+26-16	1794-1798	Town	_	_	
+26-17	1799-1801	ia	_	_	
+26-18	1802-1805	the	_	_	
+26-19	1806-1813	Kiagdcm	_	_	
+26-20	1813-1814	.	_	_	

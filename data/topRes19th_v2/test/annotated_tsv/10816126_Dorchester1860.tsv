@@ -1,0 +1,603 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ATHELHAMPTON.
+1-1	0-12	ATHELHAMPTON	https://en.wikipedia.org/wiki/Athelhampton	LOC	
+1-2	12-13	.	_	_	
+
+#Text=Bible Society.
+2-1	15-20	Bible	_	_	
+2-2	21-28	Society	_	_	
+2-3	28-29	.	_	_	
+
+#Text=—Tbe annual meeting of this association in connection with the British ahd Foreign Bible Society was held in the usual place, the fine old ball of Athelbampton, on Thursday evening last.
+3-1	29-30	—	_	_	
+3-2	30-33	Tbe	_	_	
+3-3	34-40	annual	_	_	
+3-4	41-48	meeting	_	_	
+3-5	49-51	of	_	_	
+3-6	52-56	this	_	_	
+3-7	57-68	association	_	_	
+3-8	69-71	in	_	_	
+3-9	72-82	connection	_	_	
+3-10	83-87	with	_	_	
+3-11	88-91	the	_	_	
+3-12	92-99	British	_	_	
+3-13	100-103	ahd	_	_	
+3-14	104-111	Foreign	_	_	
+3-15	112-117	Bible	_	_	
+3-16	118-125	Society	_	_	
+3-17	126-129	was	_	_	
+3-18	130-134	held	_	_	
+3-19	135-137	in	_	_	
+3-20	138-141	the	_	_	
+3-21	142-147	usual	_	_	
+3-22	148-153	place	_	_	
+3-23	153-154	,	_	_	
+3-24	155-158	the	_	_	
+3-25	159-163	fine	_	_	
+3-26	164-167	old	_	_	
+3-27	168-172	ball	_	_	
+3-28	173-175	of	_	_	
+3-29	176-188	Athelbampton	https://en.wikipedia.org/wiki/Athelhampton	LOC	
+3-30	188-189	,	_	_	
+3-31	190-192	on	_	_	
+3-32	193-201	Thursday	_	_	
+3-33	202-209	evening	_	_	
+3-34	210-214	last	_	_	
+3-35	214-215	.	_	_	
+
+#Text=Notwithstanding tbe volunteer review, which took place at Milton Abbey on the same day, there was a very good attendance of friends of the society from a distance.
+4-1	216-231	Notwithstanding	_	_	
+4-2	232-235	tbe	_	_	
+4-3	236-245	volunteer	_	_	
+4-4	246-252	review	_	_	
+4-5	252-253	,	_	_	
+4-6	254-259	which	_	_	
+4-7	260-264	took	_	_	
+4-8	265-270	place	_	_	
+4-9	271-273	at	_	_	
+4-10	274-280	Milton	*[1]	BUILDING[1]	
+4-11	281-286	Abbey	*[1]	BUILDING[1]	
+4-12	287-289	on	_	_	
+4-13	290-293	the	_	_	
+4-14	294-298	same	_	_	
+4-15	299-302	day	_	_	
+4-16	302-303	,	_	_	
+4-17	304-309	there	_	_	
+4-18	310-313	was	_	_	
+4-19	314-315	a	_	_	
+4-20	316-320	very	_	_	
+4-21	321-325	good	_	_	
+4-22	326-336	attendance	_	_	
+4-23	337-339	of	_	_	
+4-24	340-347	friends	_	_	
+4-25	348-350	of	_	_	
+4-26	351-354	the	_	_	
+4-27	355-362	society	_	_	
+4-28	363-367	from	_	_	
+4-29	368-369	a	_	_	
+4-30	370-378	distance	_	_	
+4-31	378-379	.	_	_	
+
+#Text=G. de Home Vaizey, Esq., of Halstead, Essex, The meeting commenced with prayer by the Rev.
+5-1	380-381	G	_	_	
+5-2	381-382	.	_	_	
+5-3	383-385	de	_	_	
+5-4	386-390	Home	_	_	
+5-5	391-397	Vaizey	_	_	
+5-6	397-398	,	_	_	
+5-7	399-402	Esq	_	_	
+5-8	402-403	.	_	_	
+5-9	403-404	,	_	_	
+5-10	405-407	of	_	_	
+5-11	408-416	Halstead	https://en.wikipedia.org/wiki/Halstead	LOC	
+5-12	416-417	,	_	_	
+5-13	418-423	Essex	https://en.wikipedia.org/wiki/Essex	LOC	
+5-14	423-424	,	_	_	
+5-15	425-428	The	_	_	
+5-16	429-436	meeting	_	_	
+5-17	437-446	commenced	_	_	
+5-18	447-451	with	_	_	
+5-19	452-458	prayer	_	_	
+5-20	459-461	by	_	_	
+5-21	462-465	the	_	_	
+5-22	466-469	Rev	_	_	
+5-23	469-470	.	_	_	
+
+#Text=H.
+6-1	471-472	H	_	_	
+6-2	472-473	.	_	_	
+
+#Text=B.
+7-1	474-475	B	_	_	
+7-2	475-476	.	_	_	
+
+#Text=Miles, rector of the parish, and highly interesting addresses were delivered by the Rev.
+8-1	477-482	Miles	_	_	
+8-2	482-483	,	_	_	
+8-3	484-490	rector	_	_	
+8-4	491-493	of	_	_	
+8-5	494-497	the	_	_	
+8-6	498-504	parish	_	_	
+8-7	504-505	,	_	_	
+8-8	506-509	and	_	_	
+8-9	510-516	highly	_	_	
+8-10	517-528	interesting	_	_	
+8-11	529-538	addresses	_	_	
+8-12	539-543	were	_	_	
+8-13	544-553	delivered	_	_	
+8-14	554-556	by	_	_	
+8-15	557-560	the	_	_	
+8-16	561-564	Rev	_	_	
+8-17	564-565	.	_	_	
+
+#Text=H.
+9-1	566-567	H	_	_	
+9-2	567-568	.	_	_	
+
+#Text=Banie, vicar of Farmgdon, Rev.
+10-1	569-574	Banie	_	_	
+10-2	574-575	,	_	_	
+10-3	576-581	vicar	_	_	
+10-4	582-584	of	_	_	
+10-5	585-593	Farmgdon	*	LOC	
+10-6	593-594	,	_	_	
+10-7	595-598	Rev	_	_	
+10-8	598-599	.	_	_	
+
+#Text=Carr J.
+11-1	600-604	Carr	_	_	
+11-2	605-606	J	_	_	
+11-3	606-607	.	_	_	
+
+#Text=Glyn, Rev.
+12-1	608-612	Glyn	_	_	
+12-2	612-613	,	_	_	
+12-3	614-617	Rev	_	_	
+12-4	617-618	.	_	_	
+
+#Text=G.
+13-1	619-620	G	_	_	
+13-2	620-621	.	_	_	
+
+#Text=C.
+14-1	622-623	C	_	_	
+14-2	623-624	.	_	_	
+
+#Text=Smith, Rev.
+15-1	625-630	Smith	_	_	
+15-2	630-631	,	_	_	
+15-3	632-635	Rev	_	_	
+15-4	635-636	.	_	_	
+
+#Text=C.
+16-1	637-638	C	_	_	
+16-2	638-639	.	_	_	
+
+#Text=W.
+17-1	640-641	W	_	_	
+17-2	641-642	.	_	_	
+
+#Text=Bingham, Rev.
+18-1	643-650	Bingham	_	_	
+18-2	650-651	,	_	_	
+18-3	652-655	Rev	_	_	
+18-4	655-656	.	_	_	
+
+#Text=W.
+19-1	657-658	W	_	_	
+19-2	658-659	.	_	_	
+
+#Text=Fox, Rev.
+20-1	660-663	Fox	_	_	
+20-2	663-664	,	_	_	
+20-3	665-668	Rev	_	_	
+20-4	668-669	.	_	_	
+
+#Text=Reginald Smith, Rev.
+21-1	670-678	Reginald	_	_	
+21-2	679-684	Smith	_	_	
+21-3	684-685	,	_	_	
+21-4	686-689	Rev	_	_	
+21-5	689-690	.	_	_	
+
+#Text=E.
+22-1	691-692	E	_	_	
+22-2	692-693	.	_	_	
+
+#Text=W.
+23-1	694-695	W	_	_	
+23-2	695-696	.	_	_	
+
+#Text=Pears, and R. ft.
+24-1	697-702	Pears	_	_	
+24-2	702-703	,	_	_	
+24-3	704-707	and	_	_	
+24-4	708-709	R	_	_	
+24-5	709-710	.	_	_	
+24-6	711-713	ft	_	_	
+24-7	713-714	.	_	_	
+
+#Text=Ebot, Esq.
+25-1	715-719	Ebot	_	_	
+25-2	719-720	,	_	_	
+25-3	721-724	Esq	_	_	
+25-4	724-725	.	_	_	
+
+#Text=The association deeply deplored the loss it had sustained during the past year by the death of its founder and ever best and most earnest friend and supporter, the much respected proprietor of Athelhampton, G.
+26-1	726-729	The	_	_	
+26-2	730-741	association	_	_	
+26-3	742-748	deeply	_	_	
+26-4	749-757	deplored	_	_	
+26-5	758-761	the	_	_	
+26-6	762-766	loss	_	_	
+26-7	767-769	it	_	_	
+26-8	770-773	had	_	_	
+26-9	774-783	sustained	_	_	
+26-10	784-790	during	_	_	
+26-11	791-794	the	_	_	
+26-12	795-799	past	_	_	
+26-13	800-804	year	_	_	
+26-14	805-807	by	_	_	
+26-15	808-811	the	_	_	
+26-16	812-817	death	_	_	
+26-17	818-820	of	_	_	
+26-18	821-824	its	_	_	
+26-19	825-832	founder	_	_	
+26-20	833-836	and	_	_	
+26-21	837-841	ever	_	_	
+26-22	842-846	best	_	_	
+26-23	847-850	and	_	_	
+26-24	851-855	most	_	_	
+26-25	856-863	earnest	_	_	
+26-26	864-870	friend	_	_	
+26-27	871-874	and	_	_	
+26-28	875-884	supporter	_	_	
+26-29	884-885	,	_	_	
+26-30	886-889	the	_	_	
+26-31	890-894	much	_	_	
+26-32	895-904	respected	_	_	
+26-33	905-915	proprietor	_	_	
+26-34	916-918	of	_	_	
+26-35	919-931	Athelhampton	https://en.wikipedia.org/wiki/Athelhampton	LOC	
+26-36	931-932	,	_	_	
+26-37	933-934	G	_	_	
+26-38	934-935	.	_	_	
+
+#Text=J.
+27-1	936-937	J	_	_	
+27-2	937-938	.	_	_	
+
+#Text=Wood, Esq., thus imparting a sad and mournful interest to the proceedings.
+28-1	939-943	Wood	_	_	
+28-2	943-944	,	_	_	
+28-3	945-948	Esq	_	_	
+28-4	948-949	.	_	_	
+28-5	949-950	,	_	_	
+28-6	951-955	thus	_	_	
+28-7	956-965	imparting	_	_	
+28-8	966-967	a	_	_	
+28-9	968-971	sad	_	_	
+28-10	972-975	and	_	_	
+28-11	976-984	mournful	_	_	
+28-12	985-993	interest	_	_	
+28-13	994-996	to	_	_	
+28-14	997-1000	the	_	_	
+28-15	1001-1012	proceedings	_	_	
+28-16	1012-1013	.	_	_	
+
+#Text=Many were the expressions of heartfelt sorrow at the absence of one who bad for many years presided, with so much ability and good feeling, at these annual gatherings under bis own roof ; but sorrow was mingled with joyful hope in the assurance tbat the departed one had entered into his rest.
+29-1	1014-1018	Many	_	_	
+29-2	1019-1023	were	_	_	
+29-3	1024-1027	the	_	_	
+29-4	1028-1039	expressions	_	_	
+29-5	1040-1042	of	_	_	
+29-6	1043-1052	heartfelt	_	_	
+29-7	1053-1059	sorrow	_	_	
+29-8	1060-1062	at	_	_	
+29-9	1063-1066	the	_	_	
+29-10	1067-1074	absence	_	_	
+29-11	1075-1077	of	_	_	
+29-12	1078-1081	one	_	_	
+29-13	1082-1085	who	_	_	
+29-14	1086-1089	bad	_	_	
+29-15	1090-1093	for	_	_	
+29-16	1094-1098	many	_	_	
+29-17	1099-1104	years	_	_	
+29-18	1105-1113	presided	_	_	
+29-19	1113-1114	,	_	_	
+29-20	1115-1119	with	_	_	
+29-21	1120-1122	so	_	_	
+29-22	1123-1127	much	_	_	
+29-23	1128-1135	ability	_	_	
+29-24	1136-1139	and	_	_	
+29-25	1140-1144	good	_	_	
+29-26	1145-1152	feeling	_	_	
+29-27	1152-1153	,	_	_	
+29-28	1154-1156	at	_	_	
+29-29	1157-1162	these	_	_	
+29-30	1163-1169	annual	_	_	
+29-31	1170-1180	gatherings	_	_	
+29-32	1181-1186	under	_	_	
+29-33	1187-1190	bis	_	_	
+29-34	1191-1194	own	_	_	
+29-35	1195-1199	roof	_	_	
+29-36	1200-1201	;	_	_	
+29-37	1202-1205	but	_	_	
+29-38	1206-1212	sorrow	_	_	
+29-39	1213-1216	was	_	_	
+29-40	1217-1224	mingled	_	_	
+29-41	1225-1229	with	_	_	
+29-42	1230-1236	joyful	_	_	
+29-43	1237-1241	hope	_	_	
+29-44	1242-1244	in	_	_	
+29-45	1245-1248	the	_	_	
+29-46	1249-1258	assurance	_	_	
+29-47	1259-1263	tbat	_	_	
+29-48	1264-1267	the	_	_	
+29-49	1268-1276	departed	_	_	
+29-50	1277-1280	one	_	_	
+29-51	1281-1284	had	_	_	
+29-52	1285-1292	entered	_	_	
+29-53	1293-1297	into	_	_	
+29-54	1298-1301	his	_	_	
+29-55	1302-1306	rest	_	_	
+29-56	1306-1307	.	_	_	
+
+#Text=A deep and grateful sympathy was also evinced for the bereaved widow, who, at tbe sacrifice of personal feeling, had, for tbe good of tbe society, kindly allowed the meeting to be held as usual.
+30-1	1308-1309	A	_	_	
+30-2	1310-1314	deep	_	_	
+30-3	1315-1318	and	_	_	
+30-4	1319-1327	grateful	_	_	
+30-5	1328-1336	sympathy	_	_	
+30-6	1337-1340	was	_	_	
+30-7	1341-1345	also	_	_	
+30-8	1346-1353	evinced	_	_	
+30-9	1354-1357	for	_	_	
+30-10	1358-1361	the	_	_	
+30-11	1362-1370	bereaved	_	_	
+30-12	1371-1376	widow	_	_	
+30-13	1376-1377	,	_	_	
+30-14	1378-1381	who	_	_	
+30-15	1381-1382	,	_	_	
+30-16	1383-1385	at	_	_	
+30-17	1386-1389	tbe	_	_	
+30-18	1390-1399	sacrifice	_	_	
+30-19	1400-1402	of	_	_	
+30-20	1403-1411	personal	_	_	
+30-21	1412-1419	feeling	_	_	
+30-22	1419-1420	,	_	_	
+30-23	1421-1424	had	_	_	
+30-24	1424-1425	,	_	_	
+30-25	1426-1429	for	_	_	
+30-26	1430-1433	tbe	_	_	
+30-27	1434-1438	good	_	_	
+30-28	1439-1441	of	_	_	
+30-29	1442-1445	tbe	_	_	
+30-30	1446-1453	society	_	_	
+30-31	1453-1454	,	_	_	
+30-32	1455-1461	kindly	_	_	
+30-33	1462-1469	allowed	_	_	
+30-34	1470-1473	the	_	_	
+30-35	1474-1481	meeting	_	_	
+30-36	1482-1484	to	_	_	
+30-37	1485-1487	be	_	_	
+30-38	1488-1492	held	_	_	
+30-39	1493-1495	as	_	_	
+30-40	1496-1501	usual	_	_	
+30-41	1501-1502	.	_	_	
+
+#Text=Among those present were —Mrs. and Miss Sulivan, Mrs.
+31-1	1503-1508	Among	_	_	
+31-2	1509-1514	those	_	_	
+31-3	1515-1522	present	_	_	
+31-4	1523-1527	were	_	_	
+31-5	1528-1529	—	_	_	
+31-6	1529-1532	Mrs	_	_	
+31-7	1532-1533	.	_	_	
+31-8	1534-1537	and	_	_	
+31-9	1538-1542	Miss	_	_	
+31-10	1543-1550	Sulivan	_	_	
+31-11	1550-1551	,	_	_	
+31-12	1552-1555	Mrs	_	_	
+31-13	1555-1556	.	_	_	
+
+#Text=Reginald Smith, Mrs.
+32-1	1557-1565	Reginald	_	_	
+32-2	1566-1571	Smith	_	_	
+32-3	1571-1572	,	_	_	
+32-4	1573-1576	Mrs	_	_	
+32-5	1576-1577	.	_	_	
+
+#Text=C.
+33-1	1578-1579	C	_	_	
+33-2	1579-1580	.	_	_	
+
+#Text=W.
+34-1	1581-1582	W	_	_	
+34-2	1582-1583	.	_	_	
+
+#Text=Bingham, Mrs.
+35-1	1584-1591	Bingham	_	_	
+35-2	1591-1592	,	_	_	
+35-3	1593-1596	Mrs	_	_	
+35-4	1596-1597	.	_	_	
+
+#Text=Carr J.
+36-1	1598-1602	Carr	_	_	
+36-2	1603-1604	J	_	_	
+36-3	1604-1605	.	_	_	
+
+#Text=Glyn, Rev.
+37-1	1606-1610	Glyn	_	_	
+37-2	1610-1611	,	_	_	
+37-3	1612-1615	Rev	_	_	
+37-4	1615-1616	.	_	_	
+
+#Text=E.
+38-1	1617-1618	E	_	_	
+38-2	1618-1619	.	_	_	
+
+#Text=Headland, Mrs.
+39-1	1620-1628	Headland	_	_	
+39-2	1628-1629	,	_	_	
+39-3	1630-1633	Mrs	_	_	
+39-4	1633-1634	.	_	_	
+
+#Text=Eliot, Dr.
+40-1	1635-1640	Eliot	_	_	
+40-2	1640-1641	,	_	_	
+40-3	1642-1644	Dr	_	_	
+40-4	1644-1645	.	_	_	
+
+#Text=White, Rev.
+41-1	1646-1651	White	_	_	
+41-2	1651-1652	,	_	_	
+41-3	1653-1656	Rev	_	_	
+41-4	1656-1657	.	_	_	
+
+#Text=E.
+42-1	1658-1659	E	_	_	
+42-2	1659-1660	.	_	_	
+
+#Text=Ludlow, Mrs.
+43-1	1661-1667	Ludlow	_	_	
+43-2	1667-1668	,	_	_	
+43-3	1669-1672	Mrs	_	_	
+43-4	1672-1673	.	_	_	
+
+#Text=Samson, Mr. and Mrs.
+44-1	1674-1680	Samson	_	_	
+44-2	1680-1681	,	_	_	
+44-3	1682-1684	Mr	_	_	
+44-4	1684-1685	.	_	_	
+44-5	1686-1689	and	_	_	
+44-6	1690-1693	Mrs	_	_	
+44-7	1693-1694	.	_	_	
+
+#Text=T.
+45-1	1695-1696	T	_	_	
+45-2	1696-1697	.	_	_	
+
+#Text=Samson, Mrs.
+46-1	1698-1704	Samson	_	_	
+46-2	1704-1705	,	_	_	
+46-3	1706-1709	Mrs	_	_	
+46-4	1709-1710	.	_	_	
+
+#Text=Miles, Mrs.
+47-1	1711-1716	Miles	_	_	
+47-2	1716-1717	,	_	_	
+47-3	1718-1721	Mrs	_	_	
+47-4	1721-1722	.	_	_	
+
+#Text=Vaizey and family, Mr. and Mrs.
+48-1	1723-1729	Vaizey	_	_	
+48-2	1730-1733	and	_	_	
+48-3	1734-1740	family	_	_	
+48-4	1740-1741	,	_	_	
+48-5	1742-1744	Mr	_	_	
+48-6	1744-1745	.	_	_	
+48-7	1746-1749	and	_	_	
+48-8	1750-1753	Mrs	_	_	
+48-9	1753-1754	.	_	_	
+
+#Text=Devenish, Mr.
+49-1	1755-1763	Devenish	_	_	
+49-2	1763-1764	,	_	_	
+49-3	1765-1767	Mr	_	_	
+49-4	1767-1768	.	_	_	
+
+#Text=W.
+50-1	1769-1770	W	_	_	
+50-2	1770-1771	.	_	_	
+
+#Text=Barnes, Mr.
+51-1	1772-1778	Barnes	_	_	
+51-2	1778-1779	,	_	_	
+51-3	1780-1782	Mr	_	_	
+51-4	1782-1783	.	_	_	
+
+#Text=J.
+52-1	1784-1785	J	_	_	
+52-2	1785-1786	.	_	_	
+
+#Text=Homer, Mr. and Mrs.
+53-1	1787-1792	Homer	_	_	
+53-2	1792-1793	,	_	_	
+53-3	1794-1796	Mr	_	_	
+53-4	1796-1797	.	_	_	
+53-5	1798-1801	and	_	_	
+53-6	1802-1805	Mrs	_	_	
+53-7	1805-1806	.	_	_	
+
+#Text=T.
+54-1	1807-1808	T	_	_	
+54-2	1808-1809	.	_	_	
+
+#Text=Homer, Miss Pears, Mr.
+55-1	1810-1815	Homer	_	_	
+55-2	1815-1816	,	_	_	
+55-3	1817-1821	Miss	_	_	
+55-4	1822-1827	Pears	_	_	
+55-5	1827-1828	,	_	_	
+55-6	1829-1831	Mr	_	_	
+55-7	1831-1832	.	_	_	
+
+#Text=T.
+56-1	1833-1834	T	_	_	
+56-2	1834-1835	.	_	_	
+
+#Text=A.
+57-1	1836-1837	A	_	_	
+57-2	1837-1838	.	_	_	
+
+#Text=Homer and party, Mrs.
+58-1	1839-1844	Homer	_	_	
+58-2	1845-1848	and	_	_	
+58-3	1849-1854	party	_	_	
+58-4	1854-1855	,	_	_	
+58-5	1856-1859	Mrs	_	_	
+58-6	1859-1860	.	_	_	
+
+#Text=Fox, Mrs.
+59-1	1861-1864	Fox	_	_	
+59-2	1864-1865	,	_	_	
+59-3	1866-1869	Mrs	_	_	
+59-4	1869-1870	.	_	_	
+
+#Text=G.
+60-1	1871-1872	G	_	_	
+60-2	1872-1873	.	_	_	
+
+#Text=C.
+61-1	1874-1875	C	_	_	
+61-2	1875-1876	.	_	_	
+
+#Text=Smith, Rev.
+62-1	1877-1882	Smith	_	_	
+62-2	1882-1883	,	_	_	
+62-3	1884-1887	Rev	_	_	
+62-4	1887-1888	.	_	_	
+
+#Text=A.
+63-1	1889-1890	A	_	_	
+63-2	1890-1891	.	_	_	
+
+#Text=Perkins, &c.
+64-1	1892-1899	Perkins	_	_	
+64-2	1899-1900	,	_	_	
+64-3	1901-1902	&	_	_	
+64-4	1902-1903	c	_	_	
+64-5	1903-1904	.	_	_	
+
+#Text=The collection amounted to £7 Bs.
+65-1	1905-1908	The	_	_	
+65-2	1909-1919	collection	_	_	
+65-3	1920-1928	amounted	_	_	
+65-4	1929-1931	to	_	_	
+65-5	1932-1934	£7	_	_	
+65-6	1935-1937	Bs	_	_	
+65-7	1937-1938	.	_	_	

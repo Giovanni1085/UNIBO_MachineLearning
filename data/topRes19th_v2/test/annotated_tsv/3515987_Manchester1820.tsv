@@ -1,0 +1,266 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Postscript.
+1-1	0-10	Postscript	_	_	
+1-2	10-11	.	_	_	
+
+#Text=LONDON, THURSDAY, MARCH 19.
+2-1	13-19	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-2	19-20	,	_	_	
+2-3	21-29	THURSDAY	_	_	
+2-4	29-30	,	_	_	
+2-5	31-36	MARCH	_	_	
+2-6	37-39	19	_	_	
+2-7	39-40	.	_	_	
+
+#Text=City, Twelve oClock An official notice has been sent down to Lloyds by government, announcing the blockade of the Island of Terceira by the party who at present form the existing government of that unhappy country.
+3-1	41-45	City	_	_	
+3-2	45-46	,	_	_	
+3-3	47-53	Twelve	_	_	
+3-4	54-60	oClock	_	_	
+3-5	61-63	An	_	_	
+3-6	64-72	official	_	_	
+3-7	73-79	notice	_	_	
+3-8	80-83	has	_	_	
+3-9	84-88	been	_	_	
+3-10	89-93	sent	_	_	
+3-11	94-98	down	_	_	
+3-12	99-101	to	_	_	
+3-13	102-108	Lloyds	_	_	
+3-14	109-111	by	_	_	
+3-15	112-122	government	_	_	
+3-16	122-123	,	_	_	
+3-17	124-134	announcing	_	_	
+3-18	135-138	the	_	_	
+3-19	139-147	blockade	_	_	
+3-20	148-150	of	_	_	
+3-21	151-154	the	_	_	
+3-22	155-161	Island	https://en.wikipedia.org/wiki/Terceira\_Island[1]	LOC[1]	
+3-23	162-164	of	https://en.wikipedia.org/wiki/Terceira\_Island[1]	LOC[1]	
+3-24	165-173	Terceira	https://en.wikipedia.org/wiki/Terceira\_Island[1]	LOC[1]	
+3-25	174-176	by	_	_	
+3-26	177-180	the	_	_	
+3-27	181-186	party	_	_	
+3-28	187-190	who	_	_	
+3-29	191-193	at	_	_	
+3-30	194-201	present	_	_	
+3-31	202-206	form	_	_	
+3-32	207-210	the	_	_	
+3-33	211-219	existing	_	_	
+3-34	220-230	government	_	_	
+3-35	231-233	of	_	_	
+3-36	234-238	that	_	_	
+3-37	239-246	unhappy	_	_	
+3-38	247-254	country	_	_	
+3-39	254-255	.	_	_	
+
+#Text=Consols have not maintained their price this morning : they opened at 87 j for money, and 87#A for account, at which rate they remained for a considerable time, but afterwards declined toBfi| for money and are at present 87 £, and B7JI «** time, the market looking rather heavy.
+4-1	256-263	Consols	_	_	
+4-2	264-268	have	_	_	
+4-3	269-272	not	_	_	
+4-4	273-283	maintained	_	_	
+4-5	284-289	their	_	_	
+4-6	290-295	price	_	_	
+4-7	296-300	this	_	_	
+4-8	301-308	morning	_	_	
+4-9	309-310	:	_	_	
+4-10	311-315	they	_	_	
+4-11	316-322	opened	_	_	
+4-12	323-325	at	_	_	
+4-13	326-328	87	_	_	
+4-14	329-330	j	_	_	
+4-15	331-334	for	_	_	
+4-16	335-340	money	_	_	
+4-17	340-341	,	_	_	
+4-18	342-345	and	_	_	
+4-19	346-348	87	_	_	
+4-20	348-349	#	_	_	
+4-21	349-350	A	_	_	
+4-22	351-354	for	_	_	
+4-23	355-362	account	_	_	
+4-24	362-363	,	_	_	
+4-25	364-366	at	_	_	
+4-26	367-372	which	_	_	
+4-27	373-377	rate	_	_	
+4-28	378-382	they	_	_	
+4-29	383-391	remained	_	_	
+4-30	392-395	for	_	_	
+4-31	396-397	a	_	_	
+4-32	398-410	considerable	_	_	
+4-33	411-415	time	_	_	
+4-34	415-416	,	_	_	
+4-35	417-420	but	_	_	
+4-36	421-431	afterwards	_	_	
+4-37	432-440	declined	_	_	
+4-38	441-446	toBfi	_	_	
+4-39	446-447	|	_	_	
+4-40	448-451	for	_	_	
+4-41	452-457	money	_	_	
+4-42	458-461	and	_	_	
+4-43	462-465	are	_	_	
+4-44	466-468	at	_	_	
+4-45	469-476	present	_	_	
+4-46	477-479	87	_	_	
+4-47	480-481	£	_	_	
+4-48	481-482	,	_	_	
+4-49	483-486	and	_	_	
+4-50	487-491	B7JI	_	_	
+4-51	492-493	«	_	_	
+4-52	493-494	*	_	_	
+4-53	494-495	*	_	_	
+4-54	496-500	time	_	_	
+4-55	500-501	,	_	_	
+4-56	502-505	the	_	_	
+4-57	506-512	market	_	_	
+4-58	513-520	looking	_	_	
+4-59	521-527	rather	_	_	
+4-60	528-533	heavy	_	_	
+4-61	533-534	.	_	_	
+
+#Text=India Bonds are 47 fl pm. ; Exchequer Bills, ii 455 pm.
+5-1	535-540	India	https://en.wikipedia.org/wiki/India	LOC	
+5-2	541-546	Bonds	_	_	
+5-3	547-550	are	_	_	
+5-4	551-553	47	_	_	
+5-5	554-556	fl	_	_	
+5-6	557-559	pm	_	_	
+5-7	559-560	.	_	_	
+5-8	561-562	;	_	_	
+5-9	563-572	Exchequer	_	_	
+5-10	573-578	Bills	_	_	
+5-11	578-579	,	_	_	
+5-12	580-582	ii	_	_	
+5-13	583-586	455	_	_	
+5-14	587-589	pm	_	_	
+5-15	589-590	.	_	_	
+
+#Text=—The Foreign Funds are in a stagnant state.
+6-1	590-591	—	_	_	
+6-2	591-594	The	_	_	
+6-3	595-602	Foreign	_	_	
+6-4	603-608	Funds	_	_	
+6-5	609-612	are	_	_	
+6-6	613-615	in	_	_	
+6-7	616-617	a	_	_	
+6-8	618-626	stagnant	_	_	
+6-9	627-632	state	_	_	
+6-10	632-633	.	_	_	
+
+#Text=Four oClock Consols 87 i ; Do. for Ac. 87i &• HOUSE OF LORDS.
+7-1	634-638	Four	_	_	
+7-2	639-645	oClock	_	_	
+7-3	646-653	Consols	_	_	
+7-4	654-656	87	_	_	
+7-5	657-658	i	_	_	
+7-6	659-660	;	_	_	
+7-7	661-663	Do	_	_	
+7-8	663-664	.	_	_	
+7-9	665-668	for	_	_	
+7-10	669-671	Ac	_	_	
+7-11	671-672	.	_	_	
+7-12	673-676	87i	_	_	
+7-13	677-678	&	_	_	
+7-14	678-679	•	_	_	
+7-15	680-685	HOUSE	https://en.wikipedia.org/wiki/House\_of\_Lords[2]	BUILDING[2]	
+7-16	686-688	OF	https://en.wikipedia.org/wiki/House\_of\_Lords[2]	BUILDING[2]	
+7-17	689-694	LORDS	https://en.wikipedia.org/wiki/House\_of\_Lords[2]	BUILDING[2]	
+7-18	694-695	.	_	_	
+
+#Text=—Thursday.
+8-1	695-696	—	_	_	
+8-2	696-704	Thursday	_	_	
+8-3	704-705	.	_	_	
+
+#Text=The Duke of Cumberland presented the general petition of the Protestants of Ireland against concessions.
+9-1	706-709	The	_	_	
+9-2	710-714	Duke	_	_	
+9-3	715-717	of	_	_	
+9-4	718-728	Cumberland	https://en.wikipedia.org/wiki/Cumberland	LOC	
+9-5	729-738	presented	_	_	
+9-6	739-742	the	_	_	
+9-7	743-750	general	_	_	
+9-8	751-759	petition	_	_	
+9-9	760-762	of	_	_	
+9-10	763-766	the	_	_	
+9-11	767-778	Protestants	_	_	
+9-12	779-781	of	_	_	
+9-13	782-789	Ireland	https://en.wikipedia.org/wiki/Ireland	LOC	
+9-14	790-797	against	_	_	
+9-15	798-809	concessions	_	_	
+9-16	809-810	.	_	_	
+
+#Text=It was signed by a hundred and fifty thousand persons.
+10-1	811-813	It	_	_	
+10-2	814-817	was	_	_	
+10-3	818-824	signed	_	_	
+10-4	825-827	by	_	_	
+10-5	828-829	a	_	_	
+10-6	830-837	hundred	_	_	
+10-7	838-841	and	_	_	
+10-8	842-847	fifty	_	_	
+10-9	848-856	thousand	_	_	
+10-10	857-864	persons	_	_	
+10-11	864-865	.	_	_	
+
+#Text=The royal duke took the opportunity ot reiterating nis staunch adherence to Protestant principles, and his strong disapproval of the measures brought forward by ministers.
+11-1	866-869	The	_	_	
+11-2	870-875	royal	_	_	
+11-3	876-880	duke	_	_	
+11-4	881-885	took	_	_	
+11-5	886-889	the	_	_	
+11-6	890-901	opportunity	_	_	
+11-7	902-904	ot	_	_	
+11-8	905-916	reiterating	_	_	
+11-9	917-920	nis	_	_	
+11-10	921-928	staunch	_	_	
+11-11	929-938	adherence	_	_	
+11-12	939-941	to	_	_	
+11-13	942-952	Protestant	_	_	
+11-14	953-963	principles	_	_	
+11-15	963-964	,	_	_	
+11-16	965-968	and	_	_	
+11-17	969-972	his	_	_	
+11-18	973-979	strong	_	_	
+11-19	980-991	disapproval	_	_	
+11-20	992-994	of	_	_	
+11-21	995-998	the	_	_	
+11-22	999-1007	measures	_	_	
+11-23	1008-1015	brought	_	_	
+11-24	1016-1023	forward	_	_	
+11-25	1024-1026	by	_	_	
+11-26	1027-1036	ministers	_	_	
+11-27	1036-1037	.	_	_	
+
+#Text=—Left sittinu.
+12-1	1038-1039	—	_	_	
+12-2	1039-1043	Left	_	_	
+12-3	1044-1051	sittinu	_	_	
+12-4	1051-1052	.	_	_	
+
+#Text=HOUSE OF COMMONS—Thursday.
+13-1	1053-1058	HOUSE	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[3]	BUILDING[3]	
+13-2	1059-1061	OF	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[3]	BUILDING[3]	
+13-3	1062-1078	COMMONS—Thursday	_	_	
+13-3.1	1062-1069	COMMONS	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[3]	BUILDING[3]	
+13-4	1078-1079	.	_	_	
+
+#Text=The house was engaged in receiving petitions up to the time that our accounts came off.
+14-1	1080-1083	The	_	_	
+14-2	1084-1089	house	_	_	
+14-3	1090-1093	was	_	_	
+14-4	1094-1101	engaged	_	_	
+14-5	1102-1104	in	_	_	
+14-6	1105-1114	receiving	_	_	
+14-7	1115-1124	petitions	_	_	
+14-8	1125-1127	up	_	_	
+14-9	1128-1130	to	_	_	
+14-10	1131-1134	the	_	_	
+14-11	1135-1139	time	_	_	
+14-12	1140-1144	that	_	_	
+14-13	1145-1148	our	_	_	
+14-14	1149-1157	accounts	_	_	
+14-15	1158-1162	came	_	_	
+14-16	1163-1166	off	_	_	
+14-17	1166-1167	.	_	_	

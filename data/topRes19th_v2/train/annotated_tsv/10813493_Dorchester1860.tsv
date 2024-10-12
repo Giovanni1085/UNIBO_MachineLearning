@@ -1,0 +1,289 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=INDIA.
+1-1	0-5	INDIA	https://en.wikipedia.org/wiki/India	LOC	
+1-2	5-6	.	_	_	
+
+#Text=Calcutta, Aug. 3.
+2-1	8-16	Calcutta	https://en.wikipedia.org/wiki/Kolkata	LOC	
+2-2	16-17	,	_	_	
+2-3	18-21	Aug	_	_	
+2-4	21-22	.	_	_	
+2-5	23-24	3	_	_	
+2-6	24-25	.	_	_	
+
+#Text=—Favourable accounts are received from the famine districts ; the distress is abating and the crops arc thriving.
+3-1	25-26	—	_	_	
+3-2	26-36	Favourable	_	_	
+3-3	37-45	accounts	_	_	
+3-4	46-49	are	_	_	
+3-5	50-58	received	_	_	
+3-6	59-63	from	_	_	
+3-7	64-67	the	_	_	
+3-8	68-74	famine	_	_	
+3-9	75-84	districts	_	_	
+3-10	85-86	;	_	_	
+3-11	87-90	the	_	_	
+3-12	91-99	distress	_	_	
+3-13	100-102	is	_	_	
+3-14	103-110	abating	_	_	
+3-15	111-114	and	_	_	
+3-16	115-118	the	_	_	
+3-17	119-124	crops	_	_	
+3-18	125-128	arc	_	_	
+3-19	129-137	thriving	_	_	
+3-20	137-138	.	_	_	
+
+#Text=The Lieutenant-Governor left Calcutta on the 23rd ult. for the Assam districts.
+4-1	139-142	The	_	_	
+4-2	143-162	Lieutenant-Governor	_	_	
+4-3	163-167	left	_	_	
+4-4	168-176	Calcutta	https://en.wikipedia.org/wiki/Kolkata	LOC	
+4-5	177-179	on	_	_	
+4-6	180-183	the	_	_	
+4-7	184-188	23rd	_	_	
+4-8	189-192	ult	_	_	
+4-9	192-193	.	_	_	
+4-10	194-197	for	_	_	
+4-11	198-201	the	_	_	
+4-12	202-207	Assam	https://en.wikipedia.org/wiki/Assam	LOC	
+4-13	208-217	districts	_	_	
+4-14	217-218	.	_	_	
+
+#Text=The first session of the Bengal Social Science Association has been held.
+5-1	219-222	The	_	_	
+5-2	223-228	first	_	_	
+5-3	229-236	session	_	_	
+5-4	237-239	of	_	_	
+5-5	240-243	the	_	_	
+5-6	244-250	Bengal	_	_	
+5-7	251-257	Social	_	_	
+5-8	258-265	Science	_	_	
+5-9	266-277	Association	_	_	
+5-10	278-281	has	_	_	
+5-11	282-286	been	_	_	
+5-12	287-291	held	_	_	
+5-13	291-292	.	_	_	
+
+#Text=It was attended with great success.
+6-1	293-295	It	_	_	
+6-2	296-299	was	_	_	
+6-3	300-308	attended	_	_	
+6-4	309-313	with	_	_	
+6-5	314-319	great	_	_	
+6-6	320-327	success	_	_	
+6-7	327-328	.	_	_	
+
+#Text=Its objects are the same as those of the English Association.
+7-1	329-332	Its	_	_	
+7-2	333-340	objects	_	_	
+7-3	341-344	are	_	_	
+7-4	345-348	the	_	_	
+7-5	349-353	same	_	_	
+7-6	354-356	as	_	_	
+7-7	357-362	those	_	_	
+7-8	363-365	of	_	_	
+7-9	366-369	the	_	_	
+7-10	370-377	English	_	_	
+7-11	378-389	Association	_	_	
+7-12	389-390	.	_	_	
+
+#Text=The Bishop of Calcutta is about to proceed on a visitation tour lasting nearly four months.
+8-1	391-394	The	_	_	
+8-2	395-401	Bishop	_	_	
+8-3	402-404	of	_	_	
+8-4	405-413	Calcutta	https://en.wikipedia.org/wiki/Kolkata	LOC	
+8-5	414-416	is	_	_	
+8-6	417-422	about	_	_	
+8-7	423-425	to	_	_	
+8-8	426-433	proceed	_	_	
+8-9	434-436	on	_	_	
+8-10	437-438	a	_	_	
+8-11	439-449	visitation	_	_	
+8-12	450-454	tour	_	_	
+8-13	455-462	lasting	_	_	
+8-14	463-469	nearly	_	_	
+8-15	470-474	four	_	_	
+8-16	475-481	months	_	_	
+8-17	481-482	.	_	_	
+
+#Text=Cholera still prevails in the North-west Provinces of the Punjaub.
+9-1	483-490	Cholera	_	_	
+9-2	491-496	still	_	_	
+9-3	497-505	prevails	_	_	
+9-4	506-508	in	_	_	
+9-5	509-512	the	_	_	
+9-6	513-523	North-west	_	_	
+9-7	524-533	Provinces	_	_	
+9-8	534-536	of	_	_	
+9-9	537-540	the	_	_	
+9-10	541-548	Punjaub	https://en.wikipedia.org/wiki/Punjab	LOC	
+9-11	548-549	.	_	_	
+
+#Text=Bengal is reported healthy.
+10-1	550-556	Bengal	https://en.wikipedia.org/wiki/Bengal	LOC	
+10-2	557-559	is	_	_	
+10-3	560-568	reported	_	_	
+10-4	569-576	healthy	_	_	
+10-5	576-577	.	_	_	
+
+#Text=There is abundant rain, and the harvest prospects are good.
+11-1	578-583	There	_	_	
+11-2	584-586	is	_	_	
+11-3	587-595	abundant	_	_	
+11-4	596-600	rain	_	_	
+11-5	600-601	,	_	_	
+11-6	602-605	and	_	_	
+11-7	606-609	the	_	_	
+11-8	610-617	harvest	_	_	
+11-9	618-627	prospects	_	_	
+11-10	628-631	are	_	_	
+11-11	632-636	good	_	_	
+11-12	636-637	.	_	_	
+
+#Text=Bombay, Aug. 9.
+12-1	638-644	Bombay	https://en.wikipedia.org/wiki/Mumbai	LOC	
+12-2	644-645	,	_	_	
+12-3	646-649	Aug	_	_	
+12-4	649-650	.	_	_	
+12-5	651-652	9	_	_	
+12-6	652-653	.	_	_	
+
+#Text=—At the annual meeting of the shareholders of the Bank of Bombay the directors reported an additional loss of £530,000 of the banks capital, leaving £510,100 intact.
+13-1	653-654	—	_	_	
+13-2	654-656	At	_	_	
+13-3	657-660	the	_	_	
+13-4	661-667	annual	_	_	
+13-5	668-675	meeting	_	_	
+13-6	676-678	of	_	_	
+13-7	679-682	the	_	_	
+13-8	683-695	shareholders	_	_	
+13-9	696-698	of	_	_	
+13-10	699-702	the	_	_	
+13-11	703-707	Bank	_	_	
+13-12	708-710	of	_	_	
+13-13	711-717	Bombay	https://en.wikipedia.org/wiki/Mumbai	LOC	
+13-14	718-721	the	_	_	
+13-15	722-731	directors	_	_	
+13-16	732-740	reported	_	_	
+13-17	741-743	an	_	_	
+13-18	744-754	additional	_	_	
+13-19	755-759	loss	_	_	
+13-20	760-762	of	_	_	
+13-21	763-771	£530,000	_	_	
+13-22	772-774	of	_	_	
+13-23	775-778	the	_	_	
+13-24	779-784	banks	_	_	
+13-25	785-792	capital	_	_	
+13-26	792-793	,	_	_	
+13-27	794-801	leaving	_	_	
+13-28	802-810	£510,100	_	_	
+13-29	811-817	intact	_	_	
+13-30	817-818	.	_	_	
+
+#Text=A resolution was adopted praying the Government to appoint a commission to inquire into the mismanagement of the bank.
+14-1	819-820	A	_	_	
+14-2	821-831	resolution	_	_	
+14-3	832-835	was	_	_	
+14-4	836-843	adopted	_	_	
+14-5	844-851	praying	_	_	
+14-6	852-855	the	_	_	
+14-7	856-866	Government	_	_	
+14-8	867-869	to	_	_	
+14-9	870-877	appoint	_	_	
+14-10	878-879	a	_	_	
+14-11	880-890	commission	_	_	
+14-12	891-893	to	_	_	
+14-13	894-901	inquire	_	_	
+14-14	902-906	into	_	_	
+14-15	907-910	the	_	_	
+14-16	911-924	mismanagement	_	_	
+14-17	925-927	of	_	_	
+14-18	928-931	the	_	_	
+14-19	932-936	bank	_	_	
+14-20	936-937	.	_	_	
+
+#Text=The Poonah branch of the Bank of Bombay expected to lose between £20,000 and £30,000, principally on forced Government securities.
+15-1	938-941	The	_	_	
+15-2	942-948	Poonah	https://en.wikipedia.org/wiki/Pune	LOC	
+15-3	949-955	branch	_	_	
+15-4	956-958	of	_	_	
+15-5	959-962	the	_	_	
+15-6	963-967	Bank	_	_	
+15-7	968-970	of	_	_	
+15-8	971-977	Bombay	https://en.wikipedia.org/wiki/Mumbai	LOC	
+15-9	978-986	expected	_	_	
+15-10	987-989	to	_	_	
+15-11	990-994	lose	_	_	
+15-12	995-1002	between	_	_	
+15-13	1003-1010	£20,000	_	_	
+15-14	1011-1014	and	_	_	
+15-15	1015-1022	£30,000	_	_	
+15-16	1022-1023	,	_	_	
+15-17	1024-1035	principally	_	_	
+15-18	1036-1038	on	_	_	
+15-19	1039-1045	forced	_	_	
+15-20	1046-1056	Government	_	_	
+15-21	1057-1067	securities	_	_	
+15-22	1067-1068	.	_	_	
+
+#Text=The amalgamation of the Banks of Bombay and Bengal has been abandoned, although applications for ever 1,500 shares have been registered.
+16-1	1069-1072	The	_	_	
+16-2	1073-1085	amalgamation	_	_	
+16-3	1086-1088	of	_	_	
+16-4	1089-1092	the	_	_	
+16-5	1093-1098	Banks	_	_	
+16-6	1099-1101	of	_	_	
+16-7	1102-1108	Bombay	https://en.wikipedia.org/wiki/Mumbai	LOC	
+16-8	1109-1112	and	_	_	
+16-9	1113-1119	Bengal	https://en.wikipedia.org/wiki/Bengal	LOC	
+16-10	1120-1123	has	_	_	
+16-11	1124-1128	been	_	_	
+16-12	1129-1138	abandoned	_	_	
+16-13	1138-1139	,	_	_	
+16-14	1140-1148	although	_	_	
+16-15	1149-1161	applications	_	_	
+16-16	1162-1165	for	_	_	
+16-17	1166-1170	ever	_	_	
+16-18	1171-1176	1,500	_	_	
+16-19	1177-1183	shares	_	_	
+16-20	1184-1188	have	_	_	
+16-21	1189-1193	been	_	_	
+16-22	1194-1204	registered	_	_	
+16-23	1204-1205	.	_	_	
+
+#Text=The latest news from Cabul represents Afzul Khans position as very precarious.
+17-1	1206-1209	The	_	_	
+17-2	1210-1216	latest	_	_	
+17-3	1217-1221	news	_	_	
+17-4	1222-1226	from	_	_	
+17-5	1227-1232	Cabul	https://en.wikipedia.org/wiki/Kabul	LOC	
+17-6	1233-1243	represents	_	_	
+17-7	1244-1249	Afzul	_	_	
+17-8	1250-1255	Khans	_	_	
+17-9	1256-1264	position	_	_	
+17-10	1265-1267	as	_	_	
+17-11	1268-1272	very	_	_	
+17-12	1273-1283	precarious	_	_	
+17-13	1283-1284	.	_	_	
+
+#Text=It is expected that Cabul itself will soon fall into the hands of Ameer Shere Ali.
+18-1	1285-1287	It	_	_	
+18-2	1288-1290	is	_	_	
+18-3	1291-1299	expected	_	_	
+18-4	1300-1304	that	_	_	
+18-5	1305-1310	Cabul	https://en.wikipedia.org/wiki/Kabul	LOC	
+18-6	1311-1317	itself	_	_	
+18-7	1318-1322	will	_	_	
+18-8	1323-1327	soon	_	_	
+18-9	1328-1332	fall	_	_	
+18-10	1333-1337	into	_	_	
+18-11	1338-1341	the	_	_	
+18-12	1342-1347	hands	_	_	
+18-13	1348-1350	of	_	_	
+18-14	1351-1356	Ameer	_	_	
+18-15	1357-1362	Shere	_	_	
+18-16	1363-1366	Ali	_	_	
+18-17	1366-1367	.	_	_	

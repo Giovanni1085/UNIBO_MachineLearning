@@ -1,0 +1,458 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Wednesdays # Thursdays Posts. from the LONDON GAZETTE, March 8,1S03.
+1-1	0-10	Wednesdays	_	_	
+1-2	11-12	#	_	_	
+1-3	13-22	Thursdays	_	_	
+1-4	23-28	Posts	_	_	
+1-5	28-29	.	_	_	
+1-6	30-34	from	_	_	
+1-7	35-38	the	_	_	
+1-8	39-45	LONDON	_	_	
+1-9	46-53	GAZETTE	_	_	
+1-10	53-54	,	_	_	
+1-11	55-60	March	_	_	
+1-12	61-67	8,1S03	_	_	
+1-13	67-68	.	_	_	
+
+#Text=Admiralty-Office, March 8, 1808.
+2-1	69-85	Admiralty-Office	_	_	
+2-2	85-86	,	_	_	
+2-3	87-92	March	_	_	
+2-4	93-94	8	_	_	
+2-5	94-95	,	_	_	
+2-6	96-100	1808	_	_	
+2-7	100-101	.	_	_	
+
+#Text=Copy of a letter from Rear-Admiral tbe Hontotirabte Sir Alexander Cochrane, K.
+3-1	102-106	Copy	_	_	
+3-2	107-109	of	_	_	
+3-3	110-111	a	_	_	
+3-4	112-118	letter	_	_	
+3-5	119-123	from	_	_	
+3-6	124-136	Rear-Admiral	_	_	
+3-7	137-140	tbe	_	_	
+3-8	141-153	Hontotirabte	_	_	
+3-9	154-157	Sir	_	_	
+3-10	158-167	Alexander	_	_	
+3-11	168-176	Cochrane	_	_	
+3-12	176-177	,	_	_	
+3-13	178-179	K	_	_	
+3-14	179-180	.	_	_	
+
+#Text=B.
+4-1	181-182	B	_	_	
+4-2	182-183	.	_	_	
+
+#Text=Commander in Chief of Hit Majestys ships and vessels at the Lecivaid Is I lands, to tbe Honourable W.
+5-1	184-193	Commander	_	_	
+5-2	194-196	in	_	_	
+5-3	197-202	Chief	_	_	
+5-4	203-205	of	_	_	
+5-5	206-209	Hit	_	_	
+5-6	210-218	Majestys	_	_	
+5-7	219-224	ships	_	_	
+5-8	225-228	and	_	_	
+5-9	229-236	vessels	_	_	
+5-10	237-239	at	_	_	
+5-11	240-243	the	_	_	
+5-12	244-252	Lecivaid	https://en.wikipedia.org/wiki/Leeward\_Islands[1]	LOC[1]	
+5-13	253-255	Is	https://en.wikipedia.org/wiki/Leeward\_Islands[1]	LOC[1]	
+5-14	256-257	I	https://en.wikipedia.org/wiki/Leeward\_Islands[1]	LOC[1]	
+5-15	258-263	lands	https://en.wikipedia.org/wiki/Leeward\_Islands[1]	LOC[1]	
+5-16	263-264	,	_	_	
+5-17	265-267	to	_	_	
+5-18	268-271	tbe	_	_	
+5-19	272-282	Honourable	_	_	
+5-20	283-284	W	_	_	
+5-21	284-285	.	_	_	
+
+#Text=IV.
+6-1	286-288	IV	_	_	
+6-2	288-289	.	_	_	
+
+#Text=Pole, dated on board His Majestys ship Bellasle, at Tortola, January 5.
+7-1	290-294	Pole	_	_	
+7-2	294-295	,	_	_	
+7-3	296-301	dated	_	_	
+7-4	302-304	on	_	_	
+7-5	305-310	board	_	_	
+7-6	311-314	His	_	_	
+7-7	315-323	Majestys	_	_	
+7-8	324-328	ship	_	_	
+7-9	329-337	Bellasle	_	_	
+7-10	337-338	,	_	_	
+7-11	339-341	at	_	_	
+7-12	342-349	Tortola	https://en.wikipedia.org/wiki/Tortola	LOC	
+7-13	349-350	,	_	_	
+7-14	351-358	January	_	_	
+7-15	359-360	5	_	_	
+7-16	360-361	.	_	_	
+
+#Text=SIR, I send herewith the G>py of a Letter from Captain Spear, of His Majestys soop Nimrod, acquainting me with the capture of a privateer.
+8-1	362-365	SIR	_	_	
+8-2	365-366	,	_	_	
+8-3	367-368	I	_	_	
+8-4	369-373	send	_	_	
+8-5	374-382	herewith	_	_	
+8-6	383-386	the	_	_	
+8-7	387-388	G	_	_	
+8-8	388-389	>	_	_	
+8-9	389-391	py	_	_	
+8-10	392-394	of	_	_	
+8-11	395-396	a	_	_	
+8-12	397-403	Letter	_	_	
+8-13	404-408	from	_	_	
+8-14	409-416	Captain	_	_	
+8-15	417-422	Spear	_	_	
+8-16	422-423	,	_	_	
+8-17	424-426	of	_	_	
+8-18	427-430	His	_	_	
+8-19	431-439	Majestys	_	_	
+8-20	440-444	soop	_	_	
+8-21	445-451	Nimrod	_	_	
+8-22	451-452	,	_	_	
+8-23	453-464	acquainting	_	_	
+8-24	465-467	me	_	_	
+8-25	468-472	with	_	_	
+8-26	473-476	the	_	_	
+8-27	477-484	capture	_	_	
+8-28	485-487	of	_	_	
+8-29	488-489	a	_	_	
+8-30	490-499	privateer	_	_	
+8-31	499-500	.	_	_	
+
+#Text=I have the honour to be, &c.
+9-1	501-502	I	_	_	
+9-2	503-507	have	_	_	
+9-3	508-511	the	_	_	
+9-4	512-518	honour	_	_	
+9-5	519-521	to	_	_	
+9-6	522-524	be	_	_	
+9-7	524-525	,	_	_	
+9-8	526-527	&	_	_	
+9-9	527-528	c	_	_	
+9-10	528-529	.	_	_	
+
+#Text=(Signed) ALEX.
+10-1	530-531	(	_	_	
+10-2	531-537	Signed	_	_	
+10-3	537-538	)	_	_	
+10-4	539-543	ALEX	_	_	
+10-5	543-544	.	_	_	
+
+#Text=COCHRANE.
+11-1	545-553	COCHRANE	_	_	
+11-2	553-554	.	_	_	
+
+#Text=His Majesty Sloop Nimrod, Carlisle Bay SIR, Barbadoes, Dec 27. 1807. 1 have the honour to acquaint you, that yesterday, about twenty leagues to the eastward of this island, I captured La Nouvelle Enterprise, a French schooner privateer belonging to Guadaioupe, commanded by Francis Penand, mounting one long 12 pounder and four carronade9, with a compliment of fiftyfive men.
+12-1	555-558	His	_	_	
+12-2	559-566	Majesty	_	_	
+12-3	567-572	Sloop	_	_	
+12-4	573-579	Nimrod	_	_	
+12-5	579-580	,	_	_	
+12-6	581-589	Carlisle	https://en.wikipedia.org/wiki/Carlisle\_Bay,\_Barbados[2]	LOC[2]	
+12-7	590-593	Bay	https://en.wikipedia.org/wiki/Carlisle\_Bay,\_Barbados[2]	LOC[2]	
+12-8	594-597	SIR	_	_	
+12-9	597-598	,	_	_	
+12-10	599-608	Barbadoes	https://en.wikipedia.org/wiki/Barbados	LOC	
+12-11	608-609	,	_	_	
+12-12	610-613	Dec	_	_	
+12-13	614-616	27	_	_	
+12-14	616-617	.	_	_	
+12-15	618-622	1807	_	_	
+12-16	622-623	.	_	_	
+12-17	624-625	1	_	_	
+12-18	626-630	have	_	_	
+12-19	631-634	the	_	_	
+12-20	635-641	honour	_	_	
+12-21	642-644	to	_	_	
+12-22	645-653	acquaint	_	_	
+12-23	654-657	you	_	_	
+12-24	657-658	,	_	_	
+12-25	659-663	that	_	_	
+12-26	664-673	yesterday	_	_	
+12-27	673-674	,	_	_	
+12-28	675-680	about	_	_	
+12-29	681-687	twenty	_	_	
+12-30	688-695	leagues	_	_	
+12-31	696-698	to	_	_	
+12-32	699-702	the	_	_	
+12-33	703-711	eastward	_	_	
+12-34	712-714	of	_	_	
+12-35	715-719	this	_	_	
+12-36	720-726	island	_	_	
+12-37	726-727	,	_	_	
+12-38	728-729	I	_	_	
+12-39	730-738	captured	_	_	
+12-40	739-741	La	_	_	
+12-41	742-750	Nouvelle	_	_	
+12-42	751-761	Enterprise	_	_	
+12-43	761-762	,	_	_	
+12-44	763-764	a	_	_	
+12-45	765-771	French	_	_	
+12-46	772-780	schooner	_	_	
+12-47	781-790	privateer	_	_	
+12-48	791-800	belonging	_	_	
+12-49	801-803	to	_	_	
+12-50	804-814	Guadaioupe	https://en.wikipedia.org/wiki/Guadeloupe	LOC	
+12-51	814-815	,	_	_	
+12-52	816-825	commanded	_	_	
+12-53	826-828	by	_	_	
+12-54	829-836	Francis	_	_	
+12-55	837-843	Penand	_	_	
+12-56	843-844	,	_	_	
+12-57	845-853	mounting	_	_	
+12-58	854-857	one	_	_	
+12-59	858-862	long	_	_	
+12-60	863-865	12	_	_	
+12-61	866-873	pounder	_	_	
+12-62	874-877	and	_	_	
+12-63	878-882	four	_	_	
+12-64	883-893	carronade9	_	_	
+12-65	893-894	,	_	_	
+12-66	895-899	with	_	_	
+12-67	900-901	a	_	_	
+12-68	902-912	compliment	_	_	
+12-69	913-915	of	_	_	
+12-70	916-925	fiftyfive	_	_	
+12-71	926-929	men	_	_	
+12-72	929-930	.	_	_	
+
+#Text=I have, &c.
+13-1	931-932	I	_	_	
+13-2	933-937	have	_	_	
+13-3	937-938	,	_	_	
+13-4	939-940	&	_	_	
+13-5	940-941	c	_	_	
+13-6	941-942	.	_	_	
+
+#Text=(Signed) JOSEPH SPEAR.
+14-1	943-944	(	_	_	
+14-2	944-950	Signed	_	_	
+14-3	950-951	)	_	_	
+14-4	952-958	JOSEPH	_	_	
+14-5	959-964	SPEAR	_	_	
+14-6	964-965	.	_	_	
+
+#Text=The Hon Sir Alex.
+15-1	966-969	The	_	_	
+15-2	970-973	Hon	_	_	
+15-3	974-977	Sir	_	_	
+15-4	978-982	Alex	_	_	
+15-5	982-983	.	_	_	
+
+#Text=Cochrane, K.
+16-1	984-992	Cochrane	_	_	
+16-2	992-993	,	_	_	
+16-3	994-995	K	_	_	
+16-4	995-996	.	_	_	
+
+#Text=B.
+17-1	997-998	B	_	_	
+17-2	998-999	.	_	_	
+
+#Text=Reja Admiral of the White, fcrV.
+18-1	1000-1004	Reja	_	_	
+18-2	1005-1012	Admiral	_	_	
+18-3	1013-1015	of	_	_	
+18-4	1016-1019	the	_	_	
+18-5	1020-1025	White	_	_	
+18-6	1025-1026	,	_	_	
+18-7	1027-1031	fcrV	_	_	
+18-8	1031-1032	.	_	_	
+
+#Text=Admiralty-Office, March 8, 1808.
+19-1	1033-1049	Admiralty-Office	_	_	
+19-2	1049-1050	,	_	_	
+19-3	1051-1056	March	_	_	
+19-4	1057-1058	8	_	_	
+19-5	1058-1059	,	_	_	
+19-6	1060-1064	1808	_	_	
+19-7	1064-1065	.	_	_	
+
+#Text=Extract of a letter from C.iptain IVilHam Fisher, of His Majestys Sloop Racehorse, to tbe Hon.
+20-1	1066-1073	Extract	_	_	
+20-2	1074-1076	of	_	_	
+20-3	1077-1078	a	_	_	
+20-4	1079-1085	letter	_	_	
+20-5	1086-1090	from	_	_	
+20-6	1091-1099	C.iptain	_	_	
+20-7	1100-1107	IVilHam	_	_	
+20-8	1108-1114	Fisher	_	_	
+20-9	1114-1115	,	_	_	
+20-10	1116-1118	of	_	_	
+20-11	1119-1122	His	_	_	
+20-12	1123-1131	Majestys	_	_	
+20-13	1132-1137	Sloop	_	_	
+20-14	1138-1147	Racehorse	_	_	
+20-15	1147-1148	,	_	_	
+20-16	1149-1151	to	_	_	
+20-17	1152-1155	tbe	_	_	
+20-18	1156-1159	Hon	_	_	
+20-19	1159-1160	.	_	_	
+
+#Text=W.
+21-1	1161-1162	W	_	_	
+21-2	1162-1163	.	_	_	
+
+#Text=W.
+22-1	1164-1165	W	_	_	
+22-2	1165-1166	.	_	_	
+
+#Text=Pole, dated Plymouth Sound, tic Ath instant.
+23-1	1167-1171	Pole	_	_	
+23-2	1171-1172	,	_	_	
+23-3	1173-1178	dated	_	_	
+23-4	1179-1187	Plymouth	https://en.wikipedia.org/wiki/Plymouth\_Sound[3]	LOC[3]	
+23-5	1188-1193	Sound	https://en.wikipedia.org/wiki/Plymouth\_Sound[3]	LOC[3]	
+23-6	1193-1194	,	_	_	
+23-7	1195-1198	tic	_	_	
+23-8	1199-1202	Ath	_	_	
+23-9	1203-1210	instant	_	_	
+23-10	1210-1211	.	_	_	
+
+#Text=I beg leave to inclose for the information of their Lordships, an extract of a letter to VicejAdmiral Sir James Bart, and K.
+24-1	1212-1213	I	_	_	
+24-2	1214-1217	beg	_	_	
+24-3	1218-1223	leave	_	_	
+24-4	1224-1226	to	_	_	
+24-5	1227-1234	inclose	_	_	
+24-6	1235-1238	for	_	_	
+24-7	1239-1242	the	_	_	
+24-8	1243-1254	information	_	_	
+24-9	1255-1257	of	_	_	
+24-10	1258-1263	their	_	_	
+24-11	1264-1273	Lordships	_	_	
+24-12	1273-1274	,	_	_	
+24-13	1275-1277	an	_	_	
+24-14	1278-1285	extract	_	_	
+24-15	1286-1288	of	_	_	
+24-16	1289-1290	a	_	_	
+24-17	1291-1297	letter	_	_	
+24-18	1298-1300	to	_	_	
+24-19	1301-1313	VicejAdmiral	_	_	
+24-20	1314-1317	Sir	_	_	
+24-21	1318-1323	James	_	_	
+24-22	1324-1328	Bart	_	_	
+24-23	1328-1329	,	_	_	
+24-24	1330-1333	and	_	_	
+24-25	1334-1335	K	_	_	
+24-26	1335-1336	.	_	_	
+
+#Text=B. acquainting him with the capture of LAmiral Gantheaume, French lugger privateer, of four guns and twenty eight men.
+25-1	1337-1338	B	_	_	
+25-2	1338-1339	.	_	_	
+25-3	1340-1351	acquainting	_	_	
+25-4	1352-1355	him	_	_	
+25-5	1356-1360	with	_	_	
+25-6	1361-1364	the	_	_	
+25-7	1365-1372	capture	_	_	
+25-8	1373-1375	of	_	_	
+25-9	1376-1383	LAmiral	_	_	
+25-10	1384-1394	Gantheaume	_	_	
+25-11	1394-1395	,	_	_	
+25-12	1396-1402	French	_	_	
+25-13	1403-1409	lugger	_	_	
+25-14	1410-1419	privateer	_	_	
+25-15	1419-1420	,	_	_	
+25-16	1421-1423	of	_	_	
+25-17	1424-1428	four	_	_	
+25-18	1429-1433	guns	_	_	
+25-19	1434-1437	and	_	_	
+25-20	1438-1444	twenty	_	_	
+25-21	1445-1450	eight	_	_	
+25-22	1451-1454	men	_	_	
+25-23	1454-1455	.	_	_	
+
+#Text=Extract of a Utter from Cut-tain IViliiatrs Fisher, of His Majestys sloop Racehorse, at sea, to Vice Admiral Sir lames Saavtarez, Bart and K.
+26-1	1456-1463	Extract	_	_	
+26-2	1464-1466	of	_	_	
+26-3	1467-1468	a	_	_	
+26-4	1469-1474	Utter	_	_	
+26-5	1475-1479	from	_	_	
+26-6	1480-1488	Cut-tain	_	_	
+26-7	1489-1499	IViliiatrs	_	_	
+26-8	1500-1506	Fisher	_	_	
+26-9	1506-1507	,	_	_	
+26-10	1508-1510	of	_	_	
+26-11	1511-1514	His	_	_	
+26-12	1515-1523	Majestys	_	_	
+26-13	1524-1529	sloop	_	_	
+26-14	1530-1539	Racehorse	_	_	
+26-15	1539-1540	,	_	_	
+26-16	1541-1543	at	_	_	
+26-17	1544-1547	sea	_	_	
+26-18	1547-1548	,	_	_	
+26-19	1549-1551	to	_	_	
+26-20	1552-1556	Vice	_	_	
+26-21	1557-1564	Admiral	_	_	
+26-22	1565-1568	Sir	_	_	
+26-23	1569-1574	lames	_	_	
+26-24	1575-1584	Saavtarez	_	_	
+26-25	1584-1585	,	_	_	
+26-26	1586-1590	Bart	_	_	
+26-27	1591-1594	and	_	_	
+26-28	1595-1596	K	_	_	
+26-29	1596-1597	.	_	_	
+
+#Text=B. dated the 2J March, 18-08.
+27-1	1598-1599	B	_	_	
+27-2	1599-1600	.	_	_	
+27-3	1601-1606	dated	_	_	
+27-4	1607-1610	the	_	_	
+27-5	1611-1613	2J	_	_	
+27-6	1614-1619	March	_	_	
+27-7	1619-1620	,	_	_	
+27-8	1621-1623	18	_	_	
+27-9	1623-1624	-	_	_	
+27-10	1624-1626	08	_	_	
+27-11	1626-1627	.	_	_	
+
+#Text=His Majestys sloop under my command, captured this evening, off the Seven Islands, LAraira!
+28-1	1628-1631	His	_	_	
+28-2	1632-1640	Majestys	_	_	
+28-3	1641-1646	sloop	_	_	
+28-4	1647-1652	under	_	_	
+28-5	1653-1655	my	_	_	
+28-6	1656-1663	command	_	_	
+28-7	1663-1664	,	_	_	
+28-8	1665-1673	captured	_	_	
+28-9	1674-1678	this	_	_	
+28-10	1679-1686	evening	_	_	
+28-11	1686-1687	,	_	_	
+28-12	1688-1691	off	_	_	
+28-13	1692-1695	the	_	_	
+28-14	1696-1701	Seven	*[4]	LOC[4]	
+28-15	1702-1709	Islands	*[4]	LOC[4]	
+28-16	1709-1710	,	_	_	
+28-17	1711-1718	LAraira	_	_	
+28-18	1718-1719	!	_	_	
+
+#Text=Gantheaume, French iugger privateer, of four guns and twenty-eight men, two days from Gianville; had not taken any thing.
+29-1	1720-1730	Gantheaume	_	_	
+29-2	1730-1731	,	_	_	
+29-3	1732-1738	French	_	_	
+29-4	1739-1745	iugger	_	_	
+29-5	1746-1755	privateer	_	_	
+29-6	1755-1756	,	_	_	
+29-7	1757-1759	of	_	_	
+29-8	1760-1764	four	_	_	
+29-9	1765-1769	guns	_	_	
+29-10	1770-1773	and	_	_	
+29-11	1774-1786	twenty-eight	_	_	
+29-12	1787-1790	men	_	_	
+29-13	1790-1791	,	_	_	
+29-14	1792-1795	two	_	_	
+29-15	1796-1800	days	_	_	
+29-16	1801-1805	from	_	_	
+29-17	1806-1815	Gianville	*	LOC	
+29-18	1815-1816	;	_	_	
+29-19	1817-1820	had	_	_	
+29-20	1821-1824	not	_	_	
+29-21	1825-1830	taken	_	_	
+29-22	1831-1834	any	_	_	
+29-23	1835-1840	thing	_	_	
+29-24	1840-1841	.	_	_	

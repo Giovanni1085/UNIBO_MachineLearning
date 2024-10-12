@@ -1,0 +1,390 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=MANCHESTER, February 4.
+1-1	0-10	MANCHESTER	https://en.wikipedia.org/wiki/Manchester	LOC	
+1-2	10-11	,	_	_	
+1-3	12-20	February	_	_	
+1-4	21-22	4	_	_	
+1-5	22-23	.	_	_	
+
+#Text=On Tuefday the aift Ult. died at h,s Houfe at Kuklcef3 Hall, in (he County of Yoik, Sir George Army-are Bart* whofe Deathwill ever be truly regretted by bn FamdyV Frier4<ls, and numerous Acquaintance.
+2-1	25-27	On	_	_	
+2-2	28-35	Tuefday	_	_	
+2-3	36-39	the	_	_	
+2-4	40-44	aift	_	_	
+2-5	45-48	Ult	_	_	
+2-6	48-49	.	_	_	
+2-7	50-54	died	_	_	
+2-8	55-57	at	_	_	
+2-9	58-59	h	_	_	
+2-10	59-60	,	_	_	
+2-11	60-61	s	_	_	
+2-12	62-67	Houfe	_	_	
+2-13	68-70	at	_	_	
+2-14	71-79	Kuklcef3	*[1]	BUILDING[1]	
+2-15	80-84	Hall	*[1]	BUILDING[1]	
+2-16	84-85	,	_	_	
+2-17	86-88	in	_	_	
+2-18	89-90	(	_	_	
+2-19	90-92	he	_	_	
+2-20	93-99	County	_	_	
+2-21	100-102	of	_	_	
+2-22	103-107	Yoik	https://en.wikipedia.org/wiki/Yorkshire	LOC	
+2-23	107-108	,	_	_	
+2-24	109-112	Sir	_	_	
+2-25	113-119	George	_	_	
+2-26	120-128	Army-are	_	_	
+2-27	129-133	Bart	_	_	
+2-28	133-134	*	_	_	
+2-29	135-140	whofe	_	_	
+2-30	141-150	Deathwill	_	_	
+2-31	151-155	ever	_	_	
+2-32	156-158	be	_	_	
+2-33	159-164	truly	_	_	
+2-34	165-174	regretted	_	_	
+2-35	175-177	by	_	_	
+2-36	178-180	bn	_	_	
+2-37	181-187	FamdyV	_	_	
+2-38	188-194	Frier4	_	_	
+2-39	194-195	<	_	_	
+2-40	195-197	ls	_	_	
+2-41	197-198	,	_	_	
+2-42	199-202	and	_	_	
+2-43	203-211	numerous	_	_	
+2-44	212-224	Acquaintance	_	_	
+2-45	224-225	.	_	_	
+
+#Text=He is lucceeded in Title and Ellate by his eldeft Son, now Sir Geoi gc Army | tage, Bart.
+3-1	226-228	He	_	_	
+3-2	229-231	is	_	_	
+3-3	232-241	lucceeded	_	_	
+3-4	242-244	in	_	_	
+3-5	245-250	Title	_	_	
+3-6	251-254	and	_	_	
+3-7	255-261	Ellate	_	_	
+3-8	262-264	by	_	_	
+3-9	265-268	his	_	_	
+3-10	269-275	eldeft	_	_	
+3-11	276-279	Son	_	_	
+3-12	279-280	,	_	_	
+3-13	281-284	now	_	_	
+3-14	285-288	Sir	_	_	
+3-15	289-293	Geoi	_	_	
+3-16	294-296	gc	_	_	
+3-17	297-301	Army	_	_	
+3-18	302-303	|	_	_	
+3-19	304-308	tage	_	_	
+3-20	308-309	,	_	_	
+3-21	310-314	Bart	_	_	
+3-22	314-315	.	_	_	
+
+#Text=On Saturday Sennight died Mrs.
+4-1	316-318	On	_	_	
+4-2	319-327	Saturday	_	_	
+4-3	328-336	Sennight	_	_	
+4-4	337-341	died	_	_	
+4-5	342-345	Mrs	_	_	
+4-6	345-346	.	_	_	
+
+#Text=Worthington, Wife of Mr.
+5-1	347-358	Worthington	_	_	
+5-2	358-359	,	_	_	
+5-3	360-364	Wife	_	_	
+5-4	365-367	of	_	_	
+5-5	368-370	Mr	_	_	
+5-6	370-371	.	_	_	
+
+#Text=Jonathan Worthington, of Uld Trafford.
+6-1	372-380	Jonathan	_	_	
+6-2	381-392	Worthington	_	_	
+6-3	392-393	,	_	_	
+6-4	394-396	of	_	_	
+6-5	397-400	Uld	https://en.wikipedia.org/wiki/Old\_Trafford\_(area)[2]	LOC[2]	
+6-6	401-409	Trafford	https://en.wikipedia.org/wiki/Old\_Trafford\_(area)[2]	LOC[2]	
+6-7	409-410	.	_	_	
+
+#Text=Tuefday died, after a tedious Indifpofition, which he bof* | with great Patience and Rtfignatioo, Edwaid Greaves, <*»| Culcheth, Fifq; aged about 75, one of the Feoffees ol tll Blue Coat Hofpital, and alfo of the Free Giammat .V .elfl both in this Town.
+7-1	411-418	Tuefday	_	_	
+7-2	419-423	died	_	_	
+7-3	423-424	,	_	_	
+7-4	425-430	after	_	_	
+7-5	431-432	a	_	_	
+7-6	433-440	tedious	_	_	
+7-7	441-454	Indifpofition	_	_	
+7-8	454-455	,	_	_	
+7-9	456-461	which	_	_	
+7-10	462-464	he	_	_	
+7-11	465-468	bof	_	_	
+7-12	468-469	*	_	_	
+7-13	470-471	|	_	_	
+7-14	472-476	with	_	_	
+7-15	477-482	great	_	_	
+7-16	483-491	Patience	_	_	
+7-17	492-495	and	_	_	
+7-18	496-507	Rtfignatioo	_	_	
+7-19	507-508	,	_	_	
+7-20	509-515	Edwaid	_	_	
+7-21	516-523	Greaves	_	_	
+7-22	523-524	,	_	_	
+7-23	525-526	<	_	_	
+7-24	526-527	*	_	_	
+7-25	527-528	»	_	_	
+7-26	528-529	|	_	_	
+7-27	530-538	Culcheth	_	_	
+7-28	538-539	,	_	_	
+7-29	540-544	Fifq	_	_	
+7-30	544-545	;	_	_	
+7-31	546-550	aged	_	_	
+7-32	551-556	about	_	_	
+7-33	557-559	75	_	_	
+7-34	559-560	,	_	_	
+7-35	561-564	one	_	_	
+7-36	565-567	of	_	_	
+7-37	568-571	the	_	_	
+7-38	572-580	Feoffees	_	_	
+7-39	581-583	ol	_	_	
+7-40	584-587	tll	_	_	
+7-41	588-592	Blue	_	_	
+7-42	593-597	Coat	_	_	
+7-43	598-606	Hofpital	_	_	
+7-44	606-607	,	_	_	
+7-45	608-611	and	_	_	
+7-46	612-616	alfo	_	_	
+7-47	617-619	of	_	_	
+7-48	620-623	the	_	_	
+7-49	624-628	Free	_	_	
+7-50	629-636	Giammat	_	_	
+7-51	637-638	.	_	_	
+7-52	638-639	V	_	_	
+7-53	640-641	.	_	_	
+7-54	641-645	elfl	_	_	
+7-55	646-650	both	_	_	
+7-56	651-653	in	_	_	
+7-57	654-658	this	_	_	
+7-58	659-663	Town	_	_	
+7-59	663-664	.	_	_	
+
+#Text=The fame Day died, Mr.
+8-1	665-668	The	_	_	
+8-2	669-673	fame	_	_	
+8-3	674-677	Day	_	_	
+8-4	678-682	died	_	_	
+8-5	682-683	,	_	_	
+8-6	684-686	Mr	_	_	
+8-7	686-687	.	_	_	
+
+#Text=William Holt, Matter of tbe Trumpet Tavern, in St.
+9-1	688-695	William	_	_	
+9-2	696-700	Holt	_	_	
+9-3	700-701	,	_	_	
+9-4	702-708	Matter	_	_	
+9-5	709-711	of	_	_	
+9-6	712-715	tbe	_	_	
+9-7	716-723	Trumpet	*[3]	BUILDING[3]	
+9-8	724-730	Tavern	*[3]	BUILDING[3]	
+9-9	730-731	,	_	_	
+9-10	732-734	in	_	_	
+9-11	735-737	St	*[4]	STREET[4]	
+9-12	737-738	.	*[4]	STREET[4]	
+
+#Text=Anns Square.
+10-1	739-743	Anns	*[4]	STREET[4]	
+10-2	744-750	Square	*[4]	STREET[4]	
+10-3	750-751	.	_	_	
+
+#Text=Same Day died, Mrs.
+11-1	752-756	Same	_	_	
+11-2	757-760	Day	_	_	
+11-3	761-765	died	_	_	
+11-4	765-766	,	_	_	
+11-5	767-770	Mrs	_	_	
+11-6	770-771	.	_	_	
+
+#Text=Baron, Wife of Mr.
+12-1	772-777	Baron	_	_	
+12-2	777-778	,	_	_	
+12-3	779-783	Wife	_	_	
+12-4	784-786	of	_	_	
+12-5	787-789	Mr	_	_	
+12-6	789-790	.	_	_	
+
+#Text=Jofeph Garon, of kedivals, near Bury.
+13-1	791-797	Jofeph	_	_	
+13-2	798-803	Garon	_	_	
+13-3	803-804	,	_	_	
+13-4	805-807	of	_	_	
+13-5	808-816	kedivals	*	LOC	
+13-6	816-817	,	_	_	
+13-7	818-822	near	_	_	
+13-8	823-827	Bury	https://en.wikipedia.org/wiki/Bury,\_Greater\_Manchester	LOC	
+13-9	827-828	.	_	_	
+
+#Text=Thurfday a Man who fays his Name is Corbet, and that he came from London, was apprehended in attempting to pi* off a forged Bill of Exchange, Value 201. to Mr.
+14-1	829-837	Thurfday	_	_	
+14-2	838-839	a	_	_	
+14-3	840-843	Man	_	_	
+14-4	844-847	who	_	_	
+14-5	848-852	fays	_	_	
+14-6	853-856	his	_	_	
+14-7	857-861	Name	_	_	
+14-8	862-864	is	_	_	
+14-9	865-871	Corbet	_	_	
+14-10	871-872	,	_	_	
+14-11	873-876	and	_	_	
+14-12	877-881	that	_	_	
+14-13	882-884	he	_	_	
+14-14	885-889	came	_	_	
+14-15	890-894	from	_	_	
+14-16	895-901	London	https://en.wikipedia.org/wiki/London	LOC	
+14-17	901-902	,	_	_	
+14-18	903-906	was	_	_	
+14-19	907-918	apprehended	_	_	
+14-20	919-921	in	_	_	
+14-21	922-932	attempting	_	_	
+14-22	933-935	to	_	_	
+14-23	936-938	pi	_	_	
+14-24	938-939	*	_	_	
+14-25	940-943	off	_	_	
+14-26	944-945	a	_	_	
+14-27	946-952	forged	_	_	
+14-28	953-957	Bill	_	_	
+14-29	958-960	of	_	_	
+14-30	961-969	Exchange	_	_	
+14-31	969-970	,	_	_	
+14-32	971-976	Value	_	_	
+14-33	977-980	201	_	_	
+14-34	980-981	.	_	_	
+14-35	982-984	to	_	_	
+14-36	985-987	Mr	_	_	
+14-37	987-988	.	_	_	
+
+#Text=Halt* Watch-maker, Birmingham.
+15-1	989-993	Halt	_	_	
+15-2	993-994	*	_	_	
+15-3	995-1006	Watch-maker	_	_	
+15-4	1006-1007	,	_	_	
+15-5	1008-1018	Birmingham	https://en.wikipedia.org/wiki/Birmingham	LOC	
+15-6	1018-1019	.	_	_	
+
+#Text=He was taken before the M»» giflrates, who committed him to Prifon for further Examination. ,  1 A few Days ago the Right Rev. the Lord Bifhop of Chefter was plcafed to appoint the Rev.
+16-1	1020-1022	He	_	_	
+16-2	1023-1026	was	_	_	
+16-3	1027-1032	taken	_	_	
+16-4	1033-1039	before	_	_	
+16-5	1040-1043	the	_	_	
+16-6	1044-1045	M	_	_	
+16-7	1045-1046	»	_	_	
+16-8	1046-1047	»	_	_	
+16-9	1048-1057	giflrates	_	_	
+16-10	1057-1058	,	_	_	
+16-11	1059-1062	who	_	_	
+16-12	1063-1072	committed	_	_	
+16-13	1073-1076	him	_	_	
+16-14	1077-1079	to	_	_	
+16-15	1080-1086	Prifon	_	_	
+16-16	1087-1090	for	_	_	
+16-17	1091-1098	further	_	_	
+16-18	1099-1110	Examination	_	_	
+16-19	1110-1111	.	_	_	
+16-20	1112-1113	,	_	_	
+16-21	1115-1116	1	_	_	
+16-22	1117-1118	A	_	_	
+16-23	1119-1122	few	_	_	
+16-24	1123-1127	Days	_	_	
+16-25	1128-1131	ago	_	_	
+16-26	1132-1135	the	_	_	
+16-27	1136-1141	Right	_	_	
+16-28	1142-1145	Rev	_	_	
+16-29	1145-1146	.	_	_	
+16-30	1147-1150	the	_	_	
+16-31	1151-1155	Lord	_	_	
+16-32	1156-1162	Bifhop	_	_	
+16-33	1163-1165	of	_	_	
+16-34	1166-1173	Chefter	https://en.wikipedia.org/wiki/Chester	LOC	
+16-35	1174-1177	was	_	_	
+16-36	1178-1185	plcafed	_	_	
+16-37	1186-1188	to	_	_	
+16-38	1189-1196	appoint	_	_	
+16-39	1197-1200	the	_	_	
+16-40	1201-1204	Rev	_	_	
+16-41	1204-1205	.	_	_	
+
+#Text=George Travis, Vicar of Eaftham, a Prebendary in the Cathedral of CJjefter, in the Place of the late Rev.
+17-1	1206-1212	George	_	_	
+17-2	1213-1219	Travis	_	_	
+17-3	1219-1220	,	_	_	
+17-4	1221-1226	Vicar	_	_	
+17-5	1227-1229	of	_	_	
+17-6	1230-1237	Eaftham	https://en.wikipedia.org/wiki/Eastham,\_Merseyside	LOC	
+17-7	1237-1238	,	_	_	
+17-8	1239-1240	a	_	_	
+17-9	1241-1251	Prebendary	_	_	
+17-10	1252-1254	in	_	_	
+17-11	1255-1258	the	_	_	
+17-12	1259-1268	Cathedral	_	_	
+17-13	1269-1271	of	_	_	
+17-14	1272-1280	CJjefter	https://en.wikipedia.org/wiki/Chester	LOC	
+17-15	1280-1281	,	_	_	
+17-16	1282-1284	in	_	_	
+17-17	1285-1288	the	_	_	
+17-18	1289-1294	Place	_	_	
+17-19	1295-1297	of	_	_	
+17-20	1298-1301	the	_	_	
+17-21	1302-1306	late	_	_	
+17-22	1307-1310	Rev	_	_	
+17-23	1310-1311	.	_	_	
+
+#Text=Roger Bainfton.
+18-1	1312-1317	Roger	_	_	
+18-2	1318-1326	Bainfton	_	_	
+18-3	1326-1327	.	_	_	
+
+#Text=On the 26th of January, Orders from tbe War-Ofijce were received at Carlifle, for two of the Companies of the Royal Lancafhire Regiment of Militia, now quartered in that City, to march to Lancafter, and remain there till further Orders,
+19-1	1328-1330	On	_	_	
+19-2	1331-1334	the	_	_	
+19-3	1335-1339	26th	_	_	
+19-4	1340-1342	of	_	_	
+19-5	1343-1350	January	_	_	
+19-6	1350-1351	,	_	_	
+19-7	1352-1358	Orders	_	_	
+19-8	1359-1363	from	_	_	
+19-9	1364-1367	tbe	_	_	
+19-10	1368-1378	War-Ofijce	_	_	
+19-11	1379-1383	were	_	_	
+19-12	1384-1392	received	_	_	
+19-13	1393-1395	at	_	_	
+19-14	1396-1404	Carlifle	https://en.wikipedia.org/wiki/Carlisle	LOC	
+19-15	1404-1405	,	_	_	
+19-16	1406-1409	for	_	_	
+19-17	1410-1413	two	_	_	
+19-18	1414-1416	of	_	_	
+19-19	1417-1420	the	_	_	
+19-20	1421-1430	Companies	_	_	
+19-21	1431-1433	of	_	_	
+19-22	1434-1437	the	_	_	
+19-23	1438-1443	Royal	_	_	
+19-24	1444-1454	Lancafhire	https://en.wikipedia.org/wiki/Lancashire	LOC	
+19-25	1455-1463	Regiment	_	_	
+19-26	1464-1466	of	_	_	
+19-27	1467-1474	Militia	_	_	
+19-28	1474-1475	,	_	_	
+19-29	1476-1479	now	_	_	
+19-30	1480-1489	quartered	_	_	
+19-31	1490-1492	in	_	_	
+19-32	1493-1497	that	_	_	
+19-33	1498-1502	City	_	_	
+19-34	1502-1503	,	_	_	
+19-35	1504-1506	to	_	_	
+19-36	1507-1512	march	_	_	
+19-37	1513-1515	to	_	_	
+19-38	1516-1525	Lancafter	https://en.wikipedia.org/wiki/Lancaster,\_Lancashire	LOC	
+19-39	1525-1526	,	_	_	
+19-40	1527-1530	and	_	_	
+19-41	1531-1537	remain	_	_	
+19-42	1538-1543	there	_	_	
+19-43	1544-1548	till	_	_	
+19-44	1549-1556	further	_	_	
+19-45	1557-1563	Orders	_	_	
+19-46	1563-1564	,	_	_	

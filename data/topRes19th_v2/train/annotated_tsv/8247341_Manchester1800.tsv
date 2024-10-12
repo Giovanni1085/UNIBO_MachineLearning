@@ -1,0 +1,299 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Wednesday’s & Thursday’s Posts.
+1-1	0-9	Wednesday	_	_	
+1-2	9-10	’	_	_	
+1-3	10-11	s	_	_	
+1-4	12-13	&	_	_	
+1-5	14-22	Thursday	_	_	
+1-6	22-23	’	_	_	
+1-7	23-24	s	_	_	
+1-8	25-30	Posts	_	_	
+1-9	30-31	.	_	_	
+
+#Text=From the LONDON GAZETTE, June 214.
+2-1	33-37	From	_	_	
+2-2	38-41	the	_	_	
+2-3	42-48	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-4	49-56	GAZETTE	_	_	
+2-5	56-57	,	_	_	
+2-6	58-62	June	_	_	
+2-7	63-66	214	_	_	
+2-8	66-67	.	_	_	
+
+#Text=Admiralty-Office, June 34, iSoo.
+3-1	68-84	Admiralty-Office	_	_	
+3-2	84-85	,	_	_	
+3-3	86-90	June	_	_	
+3-4	91-93	34	_	_	
+3-5	93-94	,	_	_	
+3-6	95-99	iSoo	_	_	
+3-7	99-100	.	_	_	
+
+#Text=C\\f>y of a Litter from Cptaiu Seymour, to Vice-Admiril .>// Tbomai Pajley, Bart Commander in Chief of His \\ Majrf.f tjbipx anivtjftii at Plymouth, to Evan Nepean, Pfq ; dated tbe IQtb Jpjljnt.
+4-1	101-102	C	_	_	
+4-2	102-103	\	_	_	
+4-3	103-104	f	_	_	
+4-4	104-105	>	_	_	
+4-5	105-106	y	_	_	
+4-6	107-109	of	_	_	
+4-7	110-111	a	_	_	
+4-8	112-118	Litter	_	_	
+4-9	119-123	from	_	_	
+4-10	124-130	Cptaiu	_	_	
+4-11	131-138	Seymour	_	_	
+4-12	138-139	,	_	_	
+4-13	140-142	to	_	_	
+4-14	143-155	Vice-Admiril	_	_	
+4-15	156-157	.	_	_	
+4-16	157-158	>	_	_	
+4-17	158-159	/	_	_	
+4-18	159-160	/	_	_	
+4-19	161-167	Tbomai	_	_	
+4-20	168-174	Pajley	_	_	
+4-21	174-175	,	_	_	
+4-22	176-180	Bart	_	_	
+4-23	181-190	Commander	_	_	
+4-24	191-193	in	_	_	
+4-25	194-199	Chief	_	_	
+4-26	200-202	of	_	_	
+4-27	203-206	His	_	_	
+4-28	207-208	\	_	_	
+4-29	209-216	Majrf.f	_	_	
+4-30	217-223	tjbipx	_	_	
+4-31	224-234	anivtjftii	_	_	
+4-32	235-237	at	_	_	
+4-33	238-246	Plymouth	https://en.wikipedia.org/wiki/Plymouth	LOC	
+4-34	246-247	,	_	_	
+4-35	248-250	to	_	_	
+4-36	251-255	Evan	_	_	
+4-37	256-262	Nepean	_	_	
+4-38	262-263	,	_	_	
+4-39	264-267	Pfq	_	_	
+4-40	268-269	;	_	_	
+4-41	270-275	dated	_	_	
+4-42	276-279	tbe	_	_	
+4-43	280-284	IQtb	_	_	
+4-44	285-292	Jpjljnt	_	_	
+4-45	292-293	.	_	_	
+
+#Text=Spit/ire, Plymouth Sound.
+5-1	294-298	Spit	_	_	
+5-2	298-299	/	_	_	
+5-3	299-302	ire	_	_	
+5-4	302-303	,	_	_	
+5-5	304-312	Plymouth	https://en.wikipedia.org/wiki/Plymouth\_Sound[1]	LOC[1]	
+5-6	313-318	Sound	https://en.wikipedia.org/wiki/Plymouth\_Sound[1]	LOC[1]	
+5-7	318-319	.	_	_	
+
+#Text=SIR, June 20, 1800.
+6-1	320-323	SIR	_	_	
+6-2	323-324	,	_	_	
+6-3	325-329	June	_	_	
+6-4	330-332	20	_	_	
+6-5	332-333	,	_	_	
+6-6	334-338	1800	_	_	
+6-7	338-339	.	_	_	
+
+#Text=IHave the pleafure to aqcuaint you that this {loop | captured yefterday, ten leagues S.
+7-1	340-345	IHave	_	_	
+7-2	346-349	the	_	_	
+7-3	350-358	pleafure	_	_	
+7-4	359-361	to	_	_	
+7-5	362-370	aqcuaint	_	_	
+7-6	371-374	you	_	_	
+7-7	375-379	that	_	_	
+7-8	380-384	this	_	_	
+7-9	385-386	{	_	_	
+7-10	386-390	loop	_	_	
+7-11	391-392	|	_	_	
+7-12	393-401	captured	_	_	
+7-13	402-411	yefterday	_	_	
+7-14	411-412	,	_	_	
+7-15	413-416	ten	_	_	
+7-16	417-424	leagues	_	_	
+7-17	425-426	S	_	_	
+7-18	426-427	.	_	_	
+
+#Text=S E. from Scilly, the French brig privateer LHeureux cutter , t>f Granville, carrying fourteen fix-pounders and fitty-four men.
+8-1	428-429	S	_	_	
+8-2	430-431	E	_	_	
+8-3	431-432	.	_	_	
+8-4	433-437	from	_	_	
+8-5	438-444	Scilly	https://en.wikipedia.org/wiki/Isles\_of\_Scilly	LOC	
+8-6	444-445	,	_	_	
+8-7	446-449	the	_	_	
+8-8	450-456	French	_	_	
+8-9	457-461	brig	_	_	
+8-10	462-471	privateer	_	_	
+8-11	472-480	LHeureux	_	_	
+8-12	481-487	cutter	_	_	
+8-13	488-489	,	_	_	
+8-14	490-491	t	_	_	
+8-15	491-492	>	_	_	
+8-16	492-493	f	_	_	
+8-17	494-503	Granville	*	LOC	
+8-18	503-504	,	_	_	
+8-19	505-513	carrying	_	_	
+8-20	514-522	fourteen	_	_	
+8-21	523-535	fix-pounders	_	_	
+8-22	536-539	and	_	_	
+8-23	540-550	fitty-four	_	_	
+8-24	551-554	men	_	_	
+8-25	554-555	.	_	_	
+
+#Text=She was on her return from her firft cruize to the Weftward, and had made three captures, which reduced her complement.
+9-1	556-559	She	_	_	
+9-2	560-563	was	_	_	
+9-3	564-566	on	_	_	
+9-4	567-570	her	_	_	
+9-5	571-577	return	_	_	
+9-6	578-582	from	_	_	
+9-7	583-586	her	_	_	
+9-8	587-592	firft	_	_	
+9-9	593-599	cruize	_	_	
+9-10	600-602	to	_	_	
+9-11	603-606	the	_	_	
+9-12	607-615	Weftward	_	_	
+9-13	615-616	,	_	_	
+9-14	617-620	and	_	_	
+9-15	621-624	had	_	_	
+9-16	625-629	made	_	_	
+9-17	630-635	three	_	_	
+9-18	636-644	captures	_	_	
+9-19	644-645	,	_	_	
+9-20	646-651	which	_	_	
+9-21	652-659	reduced	_	_	
+9-22	660-663	her	_	_	
+9-23	664-674	complement	_	_	
+9-24	674-675	.	_	_	
+
+#Text=I have the honor to b;.
+10-1	676-677	I	_	_	
+10-2	678-682	have	_	_	
+10-3	683-686	the	_	_	
+10-4	687-692	honor	_	_	
+10-5	693-695	to	_	_	
+10-6	696-697	b	_	_	
+10-7	697-698	;	_	_	
+10-8	698-699	.	_	_	
+
+#Text=Sir, &c.
+11-1	700-703	Sir	_	_	
+11-2	703-704	,	_	_	
+11-3	705-706	&	_	_	
+11-4	706-707	c	_	_	
+11-5	707-708	.	_	_	
+
+#Text=MICHAEL SEYMOUR.
+12-1	709-716	MICHAEL	_	_	
+12-2	717-724	SEYMOUR	_	_	
+12-3	724-725	.	_	_	
+
+#Text=Vice-Admiral Sir Tbomat Pajlty, Bart.
+13-1	726-738	Vice-Admiral	_	_	
+13-2	739-742	Sir	_	_	
+13-3	743-749	Tbomat	_	_	
+13-4	750-756	Pajlty	_	_	
+13-5	756-757	,	_	_	
+13-6	758-762	Bart	_	_	
+13-7	762-763	.	_	_	
+
+#Text=Isfc.
+14-1	764-768	Isfc	_	_	
+14-2	768-769	.	_	_	
+
+#Text=Thurfday morning the Judges met at Lord Kcnyons Chambers, and chofs the following Circuits : Hsme -—Lord KENTO>f, ChiM Juftice—Mr.
+15-1	770-778	Thurfday	_	_	
+15-2	779-786	morning	_	_	
+15-3	787-790	the	_	_	
+15-4	791-797	Judges	_	_	
+15-5	798-801	met	_	_	
+15-6	802-804	at	_	_	
+15-7	805-809	Lord	_	_	
+15-8	810-817	Kcnyons	_	_	
+15-9	818-826	Chambers	_	_	
+15-10	826-827	,	_	_	
+15-11	828-831	and	_	_	
+15-12	832-837	chofs	_	_	
+15-13	838-841	the	_	_	
+15-14	842-851	following	_	_	
+15-15	852-860	Circuits	_	_	
+15-16	861-862	:	_	_	
+15-17	863-867	Hsme	_	_	
+15-18	868-869	-	_	_	
+15-19	869-870	—	_	_	
+15-20	870-874	Lord	_	_	
+15-21	875-880	KENTO	_	_	
+15-22	880-881	>	_	_	
+15-23	881-882	f	_	_	
+15-24	882-883	,	_	_	
+15-25	884-888	ChiM	_	_	
+15-26	889-899	Juftice—Mr	_	_	
+15-27	899-900	.	_	_	
+
+#Text=Juflice Grose WaUm.
+16-1	901-908	Juflice	_	_	
+16-2	909-914	Grose	_	_	
+16-3	915-919	WaUm	_	_	
+16-4	919-920	.	_	_	
+
+#Text=—Lord Chief Juftice Elton—Baron Thompson. - .4 Uarfjlk—Sir A.
+17-1	920-921	—	_	_	
+17-2	921-925	Lord	_	_	
+17-3	926-931	Chief	_	_	
+17-4	932-939	Juftice	_	_	
+17-5	940-951	Elton—Baron	_	_	
+17-6	952-960	Thompson	_	_	
+17-7	960-961	.	_	_	
+17-8	962-963	-	_	_	
+17-9	964-966	.4	https://en.wikipedia.org/wiki/Norfolk[2]	LOC[2]	
+17-10	967-978	Uarfjlk—Sir	_	_	
+17-10.1	967-974	Uarfjlk	https://en.wikipedia.org/wiki/Norfolk[2]	LOC[2]	
+17-11	979-980	A	_	_	
+17-12	980-981	.	_	_	
+
+#Text=Macdonald, Chief Baron—Baron .
+18-1	982-991	Macdonald	_	_	
+18-2	991-992	,	_	_	
+18-3	993-998	Chief	_	_	
+18-4	999-1010	Baron—Baron	_	_	
+18-5	1011-1012	.	_	_	
+
+#Text=Hot 11 am.
+19-1	1013-1016	Hot	_	_	
+19-2	1017-1019	11	_	_	
+19-3	1020-1022	am	_	_	
+19-4	1022-1023	.	_	_	
+
+#Text=Oxford — Judge Heath—Mr Juftice Lr.
+20-1	1024-1030	Oxford	https://en.wikipedia.org/wiki/Oxford	LOC	
+20-2	1031-1032	—	_	_	
+20-3	1033-1038	Judge	_	_	
+20-4	1039-1047	Heath—Mr	_	_	
+20-5	1048-1055	Juftice	_	_	
+20-6	1056-1058	Lr	_	_	
+20-7	1058-1059	.	_	_	
+
+#Text=Blanc.
+21-1	1060-1065	Blanc	_	_	
+21-2	1065-1066	.	_	_	
+
+#Text=Midland.
+22-1	1067-1074	Midland	https://en.wikipedia.org/wiki/Midlands	LOC	
+22-2	1074-1075	.	_	_	
+
+#Text=—Mr. suffice KooKt—Judge Lawrence, Northern—Baron Chamere—Baron Graham.
+23-1	1075-1076	—	_	_	
+23-2	1076-1078	Mr	_	_	
+23-3	1078-1079	.	_	_	
+23-4	1080-1087	suffice	_	_	
+23-5	1088-1099	KooKt—Judge	_	_	
+23-6	1100-1108	Lawrence	_	_	
+23-7	1108-1109	,	_	_	
+23-8	1110-1124	Northern—Baron	_	_	
+23-9	1125-1138	Chamere—Baron	_	_	
+23-10	1139-1145	Graham	_	_	
+23-11	1145-1146	.	_	_	

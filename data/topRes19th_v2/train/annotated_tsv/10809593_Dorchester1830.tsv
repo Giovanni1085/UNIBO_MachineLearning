@@ -1,0 +1,285 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=®h<c*fi=four.]
+1-1	0-1	®	_	_	
+1-2	1-2	h	_	_	
+1-3	2-3	<	_	_	
+1-4	3-4	c	_	_	
+1-5	4-5	*	_	_	
+1-6	5-7	fi	_	_	
+1-7	7-8	=	_	_	
+1-8	8-12	four	_	_	
+1-9	12-13	.	_	_	
+1-10	13-14	]	_	_	
+
+#Text=SOMERSETSHIRE.
+2-1	16-29	SOMERSETSHIRE	https://en.wikipedia.org/wiki/Somerset	LOC	
+2-2	29-30	.	_	_	
+
+#Text=Delightful Residence in the imm diate Vicinity of Taunton.
+3-1	32-42	Delightful	_	_	
+3-2	43-52	Residence	_	_	
+3-3	53-55	in	_	_	
+3-4	56-59	the	_	_	
+3-5	60-63	imm	_	_	
+3-6	64-69	diate	_	_	
+3-7	70-78	Vicinity	_	_	
+3-8	79-81	of	_	_	
+3-9	82-89	Taunton	https://en.wikipedia.org/wiki/Taunton	LOC	
+3-10	89-90	.	_	_	
+
+#Text=TO BE SOLD BY PRIVATE CONTRACT.
+4-1	91-93	TO	_	_	
+4-2	94-96	BE	_	_	
+4-3	97-101	SOLD	_	_	
+4-4	102-104	BY	_	_	
+4-5	105-112	PRIVATE	_	_	
+4-6	113-121	CONTRACT	_	_	
+4-7	121-122	.	_	_	
+
+#Text=WHETLEIGH LODGE, situate in the Parish of WILTON, Somerset, but within a quarter of a mile of the town of Taunton, with the Lawn, Shrubbery, Garden, and detached Coach-house and Stable, containing together, by estimation, two Acres, which are Tithe-free; and a .
+5-1	123-132	WHETLEIGH	*[1]	BUILDING[1]	
+5-2	133-138	LODGE	*[1]	BUILDING[1]	
+5-3	138-139	,	_	_	
+5-4	140-147	situate	_	_	
+5-5	148-150	in	_	_	
+5-6	151-154	the	_	_	
+5-7	155-161	Parish	_	_	
+5-8	162-164	of	_	_	
+5-9	165-171	WILTON	https://en.wikipedia.org/wiki/Taunton	LOC	
+5-10	171-172	,	_	_	
+5-11	173-181	Somerset	https://en.wikipedia.org/wiki/Somerset	LOC	
+5-12	181-182	,	_	_	
+5-13	183-186	but	_	_	
+5-14	187-193	within	_	_	
+5-15	194-195	a	_	_	
+5-16	196-203	quarter	_	_	
+5-17	204-206	of	_	_	
+5-18	207-208	a	_	_	
+5-19	209-213	mile	_	_	
+5-20	214-216	of	_	_	
+5-21	217-220	the	_	_	
+5-22	221-225	town	_	_	
+5-23	226-228	of	_	_	
+5-24	229-236	Taunton	https://en.wikipedia.org/wiki/Taunton	LOC	
+5-25	236-237	,	_	_	
+5-26	238-242	with	_	_	
+5-27	243-246	the	_	_	
+5-28	247-251	Lawn	_	_	
+5-29	251-252	,	_	_	
+5-30	253-262	Shrubbery	_	_	
+5-31	262-263	,	_	_	
+5-32	264-270	Garden	_	_	
+5-33	270-271	,	_	_	
+5-34	272-275	and	_	_	
+5-35	276-284	detached	_	_	
+5-36	285-296	Coach-house	_	_	
+5-37	297-300	and	_	_	
+5-38	301-307	Stable	_	_	
+5-39	307-308	,	_	_	
+5-40	309-319	containing	_	_	
+5-41	320-328	together	_	_	
+5-42	328-329	,	_	_	
+5-43	330-332	by	_	_	
+5-44	333-343	estimation	_	_	
+5-45	343-344	,	_	_	
+5-46	345-348	two	_	_	
+5-47	349-354	Acres	_	_	
+5-48	354-355	,	_	_	
+5-49	356-361	which	_	_	
+5-50	362-365	are	_	_	
+5-51	366-376	Tithe-free	_	_	
+5-52	376-377	;	_	_	
+5-53	378-381	and	_	_	
+5-54	382-383	a	_	_	
+5-55	384-385	.	_	_	
+
+#Text=\\leadow in front of the chouse, containing, by estimation, five Acres.
+6-1	385-386	\	_	_	
+6-2	386-392	leadow	_	_	
+6-3	393-395	in	_	_	
+6-4	396-401	front	_	_	
+6-5	402-404	of	_	_	
+6-6	405-408	the	_	_	
+6-7	409-415	chouse	_	_	
+6-8	415-416	,	_	_	
+6-9	417-427	containing	_	_	
+6-10	427-428	,	_	_	
+6-11	429-431	by	_	_	
+6-12	432-442	estimation	_	_	
+6-13	442-443	,	_	_	
+6-14	444-448	five	_	_	
+6-15	449-454	Acres	_	_	
+6-16	454-455	.	_	_	
+
+#Text=The House, which is of modern structure, comprises a vestibule, dining and drawing rooms, teach 17ft. 3in. by Iftft.), five bed rooms, kitchen, butler’s pantry and servant’s bed room adjoining, and all necessary offices, with hard and soft water pumps; and the whole is in excellent repair.
+7-1	456-459	The	_	_	
+7-2	460-465	House	_	_	
+7-3	465-466	,	_	_	
+7-4	467-472	which	_	_	
+7-5	473-475	is	_	_	
+7-6	476-478	of	_	_	
+7-7	479-485	modern	_	_	
+7-8	486-495	structure	_	_	
+7-9	495-496	,	_	_	
+7-10	497-506	comprises	_	_	
+7-11	507-508	a	_	_	
+7-12	509-518	vestibule	_	_	
+7-13	518-519	,	_	_	
+7-14	520-526	dining	_	_	
+7-15	527-530	and	_	_	
+7-16	531-538	drawing	_	_	
+7-17	539-544	rooms	_	_	
+7-18	544-545	,	_	_	
+7-19	546-551	teach	_	_	
+7-20	552-556	17ft	_	_	
+7-21	556-557	.	_	_	
+7-22	558-561	3in	_	_	
+7-23	561-562	.	_	_	
+7-24	563-565	by	_	_	
+7-25	566-571	Iftft	_	_	
+7-26	571-572	.	_	_	
+7-27	572-573	)	_	_	
+7-28	573-574	,	_	_	
+7-29	575-579	five	_	_	
+7-30	580-583	bed	_	_	
+7-31	584-589	rooms	_	_	
+7-32	589-590	,	_	_	
+7-33	591-598	kitchen	_	_	
+7-34	598-599	,	_	_	
+7-35	600-606	butler	_	_	
+7-36	606-607	’	_	_	
+7-37	607-608	s	_	_	
+7-38	609-615	pantry	_	_	
+7-39	616-619	and	_	_	
+7-40	620-627	servant	_	_	
+7-41	627-628	’	_	_	
+7-42	628-629	s	_	_	
+7-43	630-633	bed	_	_	
+7-44	634-638	room	_	_	
+7-45	639-648	adjoining	_	_	
+7-46	648-649	,	_	_	
+7-47	650-653	and	_	_	
+7-48	654-657	all	_	_	
+7-49	658-667	necessary	_	_	
+7-50	668-675	offices	_	_	
+7-51	675-676	,	_	_	
+7-52	677-681	with	_	_	
+7-53	682-686	hard	_	_	
+7-54	687-690	and	_	_	
+7-55	691-695	soft	_	_	
+7-56	696-701	water	_	_	
+7-57	702-707	pumps	_	_	
+7-58	707-708	;	_	_	
+7-59	709-712	and	_	_	
+7-60	713-716	the	_	_	
+7-61	717-722	whole	_	_	
+7-62	723-725	is	_	_	
+7-63	726-728	in	_	_	
+7-64	729-738	excellent	_	_	
+7-65	739-745	repair	_	_	
+7-66	745-746	.	_	_	
+
+#Text=The House stands on an eminence, and commands a great extent and variety of prospect.
+8-1	747-750	The	_	_	
+8-2	751-756	House	_	_	
+8-3	757-763	stands	_	_	
+8-4	764-766	on	_	_	
+8-5	767-769	an	_	_	
+8-6	770-778	eminence	_	_	
+8-7	778-779	,	_	_	
+8-8	780-783	and	_	_	
+8-9	784-792	commands	_	_	
+8-10	793-794	a	_	_	
+8-11	795-800	great	_	_	
+8-12	801-807	extent	_	_	
+8-13	808-811	and	_	_	
+8-14	812-819	variety	_	_	
+8-15	820-822	of	_	_	
+8-16	823-831	prospect	_	_	
+8-17	831-832	.	_	_	
+
+#Text=The Lands are customary Freehold of Inheritance, and the Tithes fee-simple. a .
+9-1	833-836	The	_	_	
+9-2	837-842	Lands	_	_	
+9-3	843-846	are	_	_	
+9-4	847-856	customary	_	_	
+9-5	857-865	Freehold	_	_	
+9-6	866-868	of	_	_	
+9-7	869-880	Inheritance	_	_	
+9-8	880-881	,	_	_	
+9-9	882-885	and	_	_	
+9-10	886-889	the	_	_	
+9-11	890-896	Tithes	_	_	
+9-12	897-907	fee-simple	_	_	
+9-13	907-908	.	_	_	
+9-14	909-910	a	_	_	
+9-15	911-912	.	_	_	
+
+#Text=A Purchaser may have early possession; and the Furniture may be purchased at a valuation.
+10-1	913-914	A	_	_	
+10-2	915-924	Purchaser	_	_	
+10-3	925-928	may	_	_	
+10-4	929-933	have	_	_	
+10-5	934-939	early	_	_	
+10-6	940-950	possession	_	_	
+10-7	950-951	;	_	_	
+10-8	952-955	and	_	_	
+10-9	956-959	the	_	_	
+10-10	960-969	Furniture	_	_	
+10-11	970-973	may	_	_	
+10-12	974-976	be	_	_	
+10-13	977-986	purchased	_	_	
+10-14	987-989	at	_	_	
+10-15	990-991	a	_	_	
+10-16	992-1001	valuation	_	_	
+10-17	1001-1002	.	_	_	
+
+#Text=(J- For viewing the premises, and for further particulars, application may be made (if by letter to be post-paid) to Messrs.
+11-1	1003-1004	(	_	_	
+11-2	1004-1005	J	_	_	
+11-3	1005-1006	-	_	_	
+11-4	1007-1010	For	_	_	
+11-5	1011-1018	viewing	_	_	
+11-6	1019-1022	the	_	_	
+11-7	1023-1031	premises	_	_	
+11-8	1031-1032	,	_	_	
+11-9	1033-1036	and	_	_	
+11-10	1037-1040	for	_	_	
+11-11	1041-1048	further	_	_	
+11-12	1049-1060	particulars	_	_	
+11-13	1060-1061	,	_	_	
+11-14	1062-1073	application	_	_	
+11-15	1074-1077	may	_	_	
+11-16	1078-1080	be	_	_	
+11-17	1081-1085	made	_	_	
+11-18	1086-1087	(	_	_	
+11-19	1087-1089	if	_	_	
+11-20	1090-1092	by	_	_	
+11-21	1093-1099	letter	_	_	
+11-22	1100-1102	to	_	_	
+11-23	1103-1105	be	_	_	
+11-24	1106-1115	post-paid	_	_	
+11-25	1115-1116	)	_	_	
+11-26	1117-1119	to	_	_	
+11-27	1120-1126	Messrs	_	_	
+11-28	1126-1127	.	_	_	
+
+#Text=R. ’and E.
+12-1	1128-1129	R	_	_	
+12-2	1129-1130	.	_	_	
+12-3	1131-1132	’	_	_	
+12-4	1132-1135	and	_	_	
+12-5	1136-1137	E	_	_	
+12-6	1137-1138	.	_	_	
+
+#Text=Beadow, Solicitors, Taunton. ■
+13-1	1139-1145	Beadow	_	_	
+13-2	1145-1146	,	_	_	
+13-3	1147-1157	Solicitors	_	_	
+13-4	1157-1158	,	_	_	
+13-5	1159-1166	Taunton	https://en.wikipedia.org/wiki/Taunton	LOC	
+13-6	1166-1167	.	_	_	
+13-7	1168-1169	■	_	_	

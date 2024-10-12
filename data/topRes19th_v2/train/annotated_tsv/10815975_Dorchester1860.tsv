@@ -1,0 +1,436 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WILTSHIRE.
+1-1	0-9	WILTSHIRE	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+1-2	9-10	.	_	_	
+
+#Text=SALISBURY.
+2-1	12-21	SALISBURY	https://en.wikipedia.org/wiki/Salisbury	LOC	
+2-2	21-22	.	_	_	
+
+#Text=School of Science and Art.
+3-1	24-30	School	*[1]	BUILDING[1]	
+3-2	31-33	of	*[1]	BUILDING[1]	
+3-3	34-41	Science	*[1]	BUILDING[1]	
+3-4	42-45	and	*[1]	BUILDING[1]	
+3-5	46-49	Art	*[1]	BUILDING[1]	
+3-6	49-50	.	_	_	
+
+#Text=—At a meeting of the committee of this school, held on Thursday lastpresent the Very Rev. the Dean of Salisbury (in the chair), the Hon. and Rev.
+4-1	50-51	—	_	_	
+4-2	51-53	At	_	_	
+4-3	54-55	a	_	_	
+4-4	56-63	meeting	_	_	
+4-5	64-66	of	_	_	
+4-6	67-70	the	_	_	
+4-7	71-80	committee	_	_	
+4-8	81-83	of	_	_	
+4-9	84-88	this	_	_	
+4-10	89-95	school	_	_	
+4-11	95-96	,	_	_	
+4-12	97-101	held	_	_	
+4-13	102-104	on	_	_	
+4-14	105-113	Thursday	_	_	
+4-15	114-125	lastpresent	_	_	
+4-16	126-129	the	_	_	
+4-17	130-134	Very	_	_	
+4-18	135-138	Rev	_	_	
+4-19	138-139	.	_	_	
+4-20	140-143	the	_	_	
+4-21	144-148	Dean	_	_	
+4-22	149-151	of	_	_	
+4-23	152-161	Salisbury	https://en.wikipedia.org/wiki/Salisbury	LOC	
+4-24	162-163	(	_	_	
+4-25	163-165	in	_	_	
+4-26	166-169	the	_	_	
+4-27	170-175	chair	_	_	
+4-28	175-176	)	_	_	
+4-29	176-177	,	_	_	
+4-30	178-181	the	_	_	
+4-31	182-185	Hon	_	_	
+4-32	185-186	.	_	_	
+4-33	187-190	and	_	_	
+4-34	191-194	Rev	_	_	
+4-35	194-195	.	_	_	
+
+#Text=S.
+5-1	196-197	S	_	_	
+5-2	197-198	.	_	_	
+
+#Text=Best, the Rev.
+6-1	199-203	Best	_	_	
+6-2	203-204	,	_	_	
+6-3	205-208	the	_	_	
+6-4	209-212	Rev	_	_	
+6-5	212-213	.	_	_	
+
+#Text=Subdean Eyre, Mr.
+7-1	214-221	Subdean	_	_	
+7-2	222-226	Eyre	_	_	
+7-3	226-227	,	_	_	
+7-4	228-230	Mr	_	_	
+7-5	230-231	.	_	_	
+
+#Text=F.
+8-1	232-233	F	_	_	
+8-2	233-234	.	_	_	
+
+#Text=R.
+9-1	235-236	R	_	_	
+9-2	236-237	.	_	_	
+
+#Text=Fisher.
+10-1	238-244	Fisher	_	_	
+10-2	244-245	.	_	_	
+
+#Text=Mr.
+11-1	246-248	Mr	_	_	
+11-2	248-249	.	_	_	
+
+#Text=S.
+12-1	250-251	S	_	_	
+12-2	251-252	.	_	_	
+
+#Text=R.
+13-1	253-254	R	_	_	
+13-2	254-255	.	_	_	
+
+#Text=Atkins, Mr.
+14-1	256-262	Atkins	_	_	
+14-2	262-263	,	_	_	
+14-3	264-266	Mr	_	_	
+14-4	266-267	.	_	_	
+
+#Text=Edwin Young, and the Rev.
+15-1	268-273	Edwin	_	_	
+15-2	274-279	Young	_	_	
+15-3	279-280	,	_	_	
+15-4	281-284	and	_	_	
+15-5	285-288	the	_	_	
+15-6	289-292	Rev	_	_	
+15-7	292-293	.	_	_	
+
+#Text=R.
+16-1	294-295	R	_	_	
+16-2	295-296	.	_	_	
+
+#Text=G.
+17-1	297-298	G	_	_	
+17-2	298-299	.	_	_	
+
+#Text=Swayne and Mr.
+18-1	300-306	Swayne	_	_	
+18-2	307-310	and	_	_	
+18-3	311-313	Mr	_	_	
+18-4	313-314	.	_	_	
+
+#Text=W".
+19-1	315-316	W	_	_	
+19-2	316-317	"	_	_	
+19-3	317-318	.	_	_	
+
+#Text=J- dtcm, hon. secretaries—Mr.
+20-1	319-320	J	_	_	
+20-2	320-321	-	_	_	
+20-3	322-326	dtcm	_	_	
+20-4	326-327	,	_	_	
+20-5	328-331	hon	_	_	
+20-6	331-332	.	_	_	
+20-7	333-347	secretaries—Mr	_	_	
+20-8	347-348	.	_	_	
+
+#Text=John P.
+21-1	349-353	John	_	_	
+21-2	354-355	P	_	_	
+21-3	355-356	.	_	_	
+
+#Text=Fraser, art master from South Kensington Museum, was, on the proposition of the Hon. and Rev.
+22-1	357-363	Fraser	_	_	
+22-2	363-364	,	_	_	
+22-3	365-368	art	_	_	
+22-4	369-375	master	_	_	
+22-5	376-380	from	_	_	
+22-6	381-386	South	https://en.wikipedia.org/wiki/Victoria\_and\_Albert\_Museum[2]	BUILDING[2]	
+22-7	387-397	Kensington	https://en.wikipedia.org/wiki/Victoria\_and\_Albert\_Museum[2]	BUILDING[2]	
+22-8	398-404	Museum	https://en.wikipedia.org/wiki/Victoria\_and\_Albert\_Museum[2]	BUILDING[2]	
+22-9	404-405	,	_	_	
+22-10	406-409	was	_	_	
+22-11	409-410	,	_	_	
+22-12	411-413	on	_	_	
+22-13	414-417	the	_	_	
+22-14	418-429	proposition	_	_	
+22-15	430-432	of	_	_	
+22-16	433-436	the	_	_	
+22-17	437-440	Hon	_	_	
+22-18	440-441	.	_	_	
+22-19	442-445	and	_	_	
+22-20	446-449	Rev	_	_	
+22-21	449-450	.	_	_	
+
+#Text=S.
+23-1	451-452	S	_	_	
+23-2	452-453	.	_	_	
+
+#Text=Best, seconded by the Rev.
+24-1	454-458	Best	_	_	
+24-2	458-459	,	_	_	
+24-3	460-468	seconded	_	_	
+24-4	469-471	by	_	_	
+24-5	472-475	the	_	_	
+24-6	476-479	Rev	_	_	
+24-7	479-480	.	_	_	
+
+#Text=R- G.
+25-1	481-482	R	_	_	
+25-2	482-483	-	_	_	
+25-3	484-485	G	_	_	
+25-4	485-486	.	_	_	
+
+#Text=Swvyne, elected permanent master of the Salisbury School of Science and Art, in the room of the late Mr.
+26-1	487-493	Swvyne	_	_	
+26-2	493-494	,	_	_	
+26-3	495-502	elected	_	_	
+26-4	503-512	permanent	_	_	
+26-5	513-519	master	_	_	
+26-6	520-522	of	_	_	
+26-7	523-526	the	_	_	
+26-8	527-536	Salisbury	https://en.wikipedia.org/wiki/Salisbury	LOC	
+26-9	537-543	School	*[3]	BUILDING[3]	
+26-10	544-546	of	*[3]	BUILDING[3]	
+26-11	547-554	Science	*[3]	BUILDING[3]	
+26-12	555-558	and	*[3]	BUILDING[3]	
+26-13	559-562	Art	*[3]	BUILDING[3]	
+26-14	562-563	,	_	_	
+26-15	564-566	in	_	_	
+26-16	567-570	the	_	_	
+26-17	571-575	room	_	_	
+26-18	576-578	of	_	_	
+26-19	579-582	the	_	_	
+26-20	583-587	late	_	_	
+26-21	588-590	Mr	_	_	
+26-22	590-591	.	_	_	
+
+#Text=Thuilow Short, deceased.
+27-1	592-599	Thuilow	_	_	
+27-2	600-605	Short	_	_	
+27-3	605-606	,	_	_	
+27-4	607-615	deceased	_	_	
+27-5	615-616	.	_	_	
+
+#Text=Mr.
+28-1	617-619	Mr	_	_	
+28-2	619-620	.	_	_	
+
+#Text=Erasers qualifications are 
+#Text=of a high character, he being the holder of four certificates from the Science and Art Department at South Kensington.
+29-1	621-628	Erasers	_	_	
+29-2	629-643	qualifications	_	_	
+29-3	644-647	are	_	_	
+29-4	649-651	of	_	_	
+29-5	652-653	a	_	_	
+29-6	654-658	high	_	_	
+29-7	659-668	character	_	_	
+29-8	668-669	,	_	_	
+29-9	670-672	he	_	_	
+29-10	673-678	being	_	_	
+29-11	679-682	the	_	_	
+29-12	683-689	holder	_	_	
+29-13	690-692	of	_	_	
+29-14	693-697	four	_	_	
+29-15	698-710	certificates	_	_	
+29-16	711-715	from	_	_	
+29-17	716-719	the	_	_	
+29-18	720-727	Science	*[4]	BUILDING[4]	
+29-19	728-731	and	*[4]	BUILDING[4]	
+29-20	732-735	Art	*[4]	BUILDING[4]	
+29-21	736-746	Department	*[4]	BUILDING[4]	
+29-22	747-749	at	_	_	
+29-23	750-755	South	https://en.wikipedia.org/wiki/South\_Kensington[5]	LOC[5]	
+29-24	756-766	Kensington	https://en.wikipedia.org/wiki/South\_Kensington[5]	LOC[5]	
+29-25	766-767	.	_	_	
+
+#Text=The Bath and West of England Societys Show.— At a recent public meeting in Salisbury with reference to the Bath and West of England Societys meeting there in June, several sheep breedere expressed regret that no prize was offered for Hampshire-down ram lambs.
+30-1	768-771	The	_	_	
+30-2	772-776	Bath	_	_	
+30-3	777-780	and	_	_	
+30-4	781-785	West	_	_	
+30-5	786-788	of	_	_	
+30-6	789-796	England	_	_	
+30-7	797-805	Societys	_	_	
+30-8	806-810	Show	_	_	
+30-9	810-811	.	_	_	
+30-10	811-812	—	_	_	
+30-11	813-815	At	_	_	
+30-12	816-817	a	_	_	
+30-13	818-824	recent	_	_	
+30-14	825-831	public	_	_	
+30-15	832-839	meeting	_	_	
+30-16	840-842	in	_	_	
+30-17	843-852	Salisbury	https://en.wikipedia.org/wiki/Salisbury	LOC	
+30-18	853-857	with	_	_	
+30-19	858-867	reference	_	_	
+30-20	868-870	to	_	_	
+30-21	871-874	the	_	_	
+30-22	875-879	Bath	_	_	
+30-23	880-883	and	_	_	
+30-24	884-888	West	_	_	
+30-25	889-891	of	_	_	
+30-26	892-899	England	_	_	
+30-27	900-908	Societys	_	_	
+30-28	909-916	meeting	_	_	
+30-29	917-922	there	_	_	
+30-30	923-925	in	_	_	
+30-31	926-930	June	_	_	
+30-32	930-931	,	_	_	
+30-33	932-939	several	_	_	
+30-34	940-945	sheep	_	_	
+30-35	946-954	breedere	_	_	
+30-36	955-964	expressed	_	_	
+30-37	965-971	regret	_	_	
+30-38	972-976	that	_	_	
+30-39	977-979	no	_	_	
+30-40	980-985	prize	_	_	
+30-41	986-989	was	_	_	
+30-42	990-997	offered	_	_	
+30-43	998-1001	for	_	_	
+30-44	1002-1016	Hampshire-down	_	_	
+30-45	1017-1020	ram	_	_	
+30-46	1021-1026	lambs	_	_	
+30-47	1026-1027	.	_	_	
+
+#Text=To supply what was felt to be a deficiency, Mr.
+31-1	1028-1030	To	_	_	
+31-2	1031-1037	supply	_	_	
+31-3	1038-1042	what	_	_	
+31-4	1043-1046	was	_	_	
+31-5	1047-1051	felt	_	_	
+31-6	1052-1054	to	_	_	
+31-7	1055-1057	be	_	_	
+31-8	1058-1059	a	_	_	
+31-9	1060-1070	deficiency	_	_	
+31-10	1070-1071	,	_	_	
+31-11	1072-1074	Mr	_	_	
+31-12	1074-1075	.	_	_	
+
+#Text=Alderman Pain offered to give a prize of for the best Hampsbire-down ram lambs, and Mr.
+32-1	1076-1084	Alderman	_	_	
+32-2	1085-1089	Pain	_	_	
+32-3	1090-1097	offered	_	_	
+32-4	1098-1100	to	_	_	
+32-5	1101-1105	give	_	_	
+32-6	1106-1107	a	_	_	
+32-7	1108-1113	prize	_	_	
+32-8	1114-1116	of	_	_	
+32-9	1117-1120	for	_	_	
+32-10	1121-1124	the	_	_	
+32-11	1125-1129	best	_	_	
+32-12	1130-1144	Hampsbire-down	https://en.wikipedia.org/wiki/Hampshire\_Downs	LOC	
+32-13	1145-1148	ram	_	_	
+32-14	1149-1154	lambs	_	_	
+32-15	1154-1155	,	_	_	
+32-16	1156-1159	and	_	_	
+32-17	1160-1162	Mr	_	_	
+32-18	1162-1163	.	_	_	
+
+#Text=Rawlence also offered £5 as a second prize to competitors in the same class.
+33-1	1164-1172	Rawlence	_	_	
+33-2	1173-1177	also	_	_	
+33-3	1178-1185	offered	_	_	
+33-4	1186-1188	£5	_	_	
+33-5	1189-1191	as	_	_	
+33-6	1192-1193	a	_	_	
+33-7	1194-1200	second	_	_	
+33-8	1201-1206	prize	_	_	
+33-9	1207-1209	to	_	_	
+33-10	1210-1221	competitors	_	_	
+33-11	1222-1224	in	_	_	
+33-12	1225-1228	the	_	_	
+33-13	1229-1233	same	_	_	
+33-14	1234-1239	class	_	_	
+33-15	1239-1240	.	_	_	
+
+#Text=It appears, however, the Council of the Society have declined to accept the offers of these two gentlemen, on the ground that the prize sheets had been issued before the prizes in question were offered, and that the entries have to be completed by the 18th inst.
+34-1	1241-1243	It	_	_	
+34-2	1244-1251	appears	_	_	
+34-3	1251-1252	,	_	_	
+34-4	1253-1260	however	_	_	
+34-5	1260-1261	,	_	_	
+34-6	1262-1265	the	_	_	
+34-7	1266-1273	Council	_	_	
+34-8	1274-1276	of	_	_	
+34-9	1277-1280	the	_	_	
+34-10	1281-1288	Society	_	_	
+34-11	1289-1293	have	_	_	
+34-12	1294-1302	declined	_	_	
+34-13	1303-1305	to	_	_	
+34-14	1306-1312	accept	_	_	
+34-15	1313-1316	the	_	_	
+34-16	1317-1323	offers	_	_	
+34-17	1324-1326	of	_	_	
+34-18	1327-1332	these	_	_	
+34-19	1333-1336	two	_	_	
+34-20	1337-1346	gentlemen	_	_	
+34-21	1346-1347	,	_	_	
+34-22	1348-1350	on	_	_	
+34-23	1351-1354	the	_	_	
+34-24	1355-1361	ground	_	_	
+34-25	1362-1366	that	_	_	
+34-26	1367-1370	the	_	_	
+34-27	1371-1376	prize	_	_	
+34-28	1377-1383	sheets	_	_	
+34-29	1384-1387	had	_	_	
+34-30	1388-1392	been	_	_	
+34-31	1393-1399	issued	_	_	
+34-32	1400-1406	before	_	_	
+34-33	1407-1410	the	_	_	
+34-34	1411-1417	prizes	_	_	
+34-35	1418-1420	in	_	_	
+34-36	1421-1429	question	_	_	
+34-37	1430-1434	were	_	_	
+34-38	1435-1442	offered	_	_	
+34-39	1442-1443	,	_	_	
+34-40	1444-1447	and	_	_	
+34-41	1448-1452	that	_	_	
+34-42	1453-1456	the	_	_	
+34-43	1457-1464	entries	_	_	
+34-44	1465-1469	have	_	_	
+34-45	1470-1472	to	_	_	
+34-46	1473-1475	be	_	_	
+34-47	1476-1485	completed	_	_	
+34-48	1486-1488	by	_	_	
+34-49	1489-1492	the	_	_	
+34-50	1493-1497	18th	_	_	
+34-51	1498-1502	inst	_	_	
+34-52	1502-1503	.	_	_	
+
+#Text=The thanks of the Council, however, have been given to Mr.
+35-1	1504-1507	The	_	_	
+35-2	1508-1514	thanks	_	_	
+35-3	1515-1517	of	_	_	
+35-4	1518-1521	the	_	_	
+35-5	1522-1529	Council	_	_	
+35-6	1529-1530	,	_	_	
+35-7	1531-1538	however	_	_	
+35-8	1538-1539	,	_	_	
+35-9	1540-1544	have	_	_	
+35-10	1545-1549	been	_	_	
+35-11	1550-1555	given	_	_	
+35-12	1556-1558	to	_	_	
+35-13	1559-1561	Mr	_	_	
+35-14	1561-1562	.	_	_	
+
+#Text=Pain and Mr.
+36-1	1563-1567	Pain	_	_	
+36-2	1568-1571	and	_	_	
+36-3	1572-1574	Mr	_	_	
+36-4	1574-1575	.	_	_	
+
+#Text=Rawlence for their generous offers.
+37-1	1576-1584	Rawlence	_	_	
+37-2	1585-1588	for	_	_	
+37-3	1589-1594	their	_	_	
+37-4	1595-1603	generous	_	_	
+37-5	1604-1610	offers	_	_	
+37-6	1610-1611	.	_	_	

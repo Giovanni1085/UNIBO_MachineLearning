@@ -1,0 +1,597 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=PRINTING of EVERY DESCRIPTION IN FIRST-CLASS STYLE, with the utmost expedition, and at very moderate charges.
+1-1	0-8	PRINTING	_	_	
+1-2	9-11	of	_	_	
+1-3	12-17	EVERY	_	_	
+1-4	18-29	DESCRIPTION	_	_	
+1-5	30-32	IN	_	_	
+1-6	33-44	FIRST-CLASS	_	_	
+1-7	45-50	STYLE	_	_	
+1-8	50-51	,	_	_	
+1-9	52-56	with	_	_	
+1-10	57-60	the	_	_	
+1-11	61-67	utmost	_	_	
+1-12	68-78	expedition	_	_	
+1-13	78-79	,	_	_	
+1-14	80-83	and	_	_	
+1-15	84-86	at	_	_	
+1-16	87-91	very	_	_	
+1-17	92-100	moderate	_	_	
+1-18	101-108	charges	_	_	
+1-19	108-109	.	_	_	
+
+#Text=POSTING BILLS, HAND BILLS, CIRCULARS.
+2-1	110-117	POSTING	_	_	
+2-2	118-123	BILLS	_	_	
+2-3	123-124	,	_	_	
+2-4	125-129	HAND	_	_	
+2-5	130-135	BILLS	_	_	
+2-6	135-136	,	_	_	
+2-7	137-146	CIRCULARS	_	_	
+2-8	146-147	.	_	_	
+
+#Text=PROGRAMMES.
+3-1	149-159	PROGRAMMES	_	_	
+3-2	159-160	.	_	_	
+
+#Text=CATALOGUES.
+4-1	161-171	CATALOGUES	_	_	
+4-2	171-172	.	_	_	
+
+#Text=FUNERAL CARDS, ’ ADDRESS CARDS, BUSINESS CARDS, CONTRIBUTION CARDS INVOICES, ’ DELIVERY NOTES.
+5-1	173-180	FUNERAL	_	_	
+5-2	181-186	CARDS	_	_	
+5-3	186-187	,	_	_	
+5-4	188-189	’	_	_	
+5-5	190-197	ADDRESS	_	_	
+5-6	198-203	CARDS	_	_	
+5-7	203-204	,	_	_	
+5-8	205-213	BUSINESS	_	_	
+5-9	214-219	CARDS	_	_	
+5-10	219-220	,	_	_	
+5-11	221-233	CONTRIBUTION	_	_	
+5-12	234-239	CARDS	_	_	
+5-13	240-248	INVOICES	_	_	
+5-14	248-249	,	_	_	
+5-15	250-251	’	_	_	
+5-16	252-260	DELIVERY	_	_	
+5-17	261-266	NOTES	_	_	
+5-18	266-267	.	_	_	
+
+#Text=SOCIETY RULES, PAMPHLETS, *e.
+6-1	268-275	SOCIETY	_	_	
+6-2	276-281	RULES	_	_	
+6-3	281-282	,	_	_	
+6-4	283-292	PAMPHLETS	_	_	
+6-5	292-293	,	_	_	
+6-6	294-295	*	_	_	
+6-7	295-296	e	_	_	
+6-8	296-297	.	_	_	
+
+#Text=By Competent Workmen, at E.
+7-1	298-300	By	_	_	
+7-2	301-310	Competent	_	_	
+7-3	311-318	Workmen	_	_	
+7-4	318-319	,	_	_	
+7-5	320-322	at	_	_	
+7-6	323-324	E	_	_	
+7-7	324-325	.	_	_	
+
+#Text=HOBSON AND SON’S. 175, STAMFORD.
+8-1	326-332	HOBSON	_	_	
+8-2	333-336	AND	_	_	
+8-3	337-340	SON	_	_	
+8-4	340-341	’	_	_	
+8-5	341-342	S	_	_	
+8-6	342-343	.	_	_	
+8-7	344-347	175	_	_	
+8-8	347-348	,	_	_	
+8-9	349-357	STAMFORD	*[1]	STREET[1]	
+8-10	357-358	.	*[1]	STREET[1]	
+
+#Text=STREET, ASHTON-UXDER-LYNE.
+9-1	360-366	STREET	*[1]	STREET[1]	
+9-2	366-367	,	*[1]	STREET[1]	
+9-3	368-385	ASHTON-UXDER-LYNE	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+9-4	385-386	.	_	_	
+
+#Text=PICKSTONE’S WASHING CRYSTAL is the best and cheapest thing erer invented for Washing.
+10-1	388-397	PICKSTONE	_	_	
+10-2	397-398	’	_	_	
+10-3	398-399	S	_	_	
+10-4	400-407	WASHING	_	_	
+10-5	408-415	CRYSTAL	_	_	
+10-6	416-418	is	_	_	
+10-7	419-422	the	_	_	
+10-8	423-427	best	_	_	
+10-9	428-431	and	_	_	
+10-10	432-440	cheapest	_	_	
+10-11	441-446	thing	_	_	
+10-12	447-451	erer	_	_	
+10-13	452-460	invented	_	_	
+10-14	461-464	for	_	_	
+10-15	465-472	Washing	_	_	
+10-16	472-473	.	_	_	
+
+#Text=—Sold by the grocers everywhere.
+11-1	473-474	—	_	_	
+11-2	474-478	Sold	_	_	
+11-3	479-481	by	_	_	
+11-4	482-485	the	_	_	
+11-5	486-493	grocers	_	_	
+11-6	494-504	everywhere	_	_	
+11-7	504-505	.	_	_	
+
+#Text=—Manufactory, Blackley House, Harpurhey, Manchester.
+12-1	505-506	—	_	_	
+12-2	506-517	Manufactory	_	_	
+12-3	517-518	,	_	_	
+12-4	519-527	Blackley	*[2]	BUILDING[2]	
+12-5	528-533	House	*[2]	BUILDING[2]	
+12-6	533-534	,	_	_	
+12-7	535-544	Harpurhey	*	LOC	
+12-8	544-545	,	_	_	
+12-9	546-556	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+12-10	556-557	.	_	_	
+
+#Text=ARTIFICIAL TEETH.
+13-1	559-569	ARTIFICIAL	_	_	
+13-2	570-575	TEETH	_	_	
+13-3	575-576	.	_	_	
+
+#Text=MESSRS.MOLLOY,SURGEON DENTISTS, of 112, Rnsholme-road (near All Saints), Manchester, tney be consulted every Saturday, from Ten till Five o’clock, at 231 Stamford-street, Ashton, the residence of Mr.
+14-1	578-591	MESSRS.MOLLOY	_	_	
+14-2	591-592	,	_	_	
+14-3	592-599	SURGEON	_	_	
+14-4	600-608	DENTISTS	_	_	
+14-5	608-609	,	_	_	
+14-6	610-612	of	_	_	
+14-7	613-616	112	_	_	
+14-8	616-617	,	_	_	
+14-9	618-631	Rnsholme-road	*	STREET	
+14-10	632-633	(	_	_	
+14-11	633-637	near	_	_	
+14-12	638-641	All	*[3]	BUILDING[3]	
+14-13	642-648	Saints	*[3]	BUILDING[3]	
+14-14	648-649	)	_	_	
+14-15	649-650	,	_	_	
+14-16	651-661	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+14-17	661-662	,	_	_	
+14-18	663-667	tney	_	_	
+14-19	668-670	be	_	_	
+14-20	671-680	consulted	_	_	
+14-21	681-686	every	_	_	
+14-22	687-695	Saturday	_	_	
+14-23	695-696	,	_	_	
+14-24	697-701	from	_	_	
+14-25	702-705	Ten	_	_	
+14-26	706-710	till	_	_	
+14-27	711-715	Five	_	_	
+14-28	716-717	o	_	_	
+14-29	717-718	’	_	_	
+14-30	718-723	clock	_	_	
+14-31	723-724	,	_	_	
+14-32	725-727	at	_	_	
+14-33	728-731	231	_	_	
+14-34	732-747	Stamford-street	*	STREET	
+14-35	747-748	,	_	_	
+14-36	749-755	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+14-37	755-756	,	_	_	
+14-38	757-760	the	_	_	
+14-39	761-770	residence	_	_	
+14-40	771-773	of	_	_	
+14-41	774-776	Mr	_	_	
+14-42	776-777	.	_	_	
+
+#Text=Bostock, Chemist.
+15-1	778-785	Bostock	_	_	
+15-2	785-786	,	_	_	
+15-3	787-794	Chemist	_	_	
+15-4	794-795	.	_	_	
+
+#Text=Messrs.
+16-1	796-802	Messrs	_	_	
+16-2	802-803	.	_	_	
+
+#Text=MOLLOT supply the loss of teeth without springs or wires upon their new system of self-adhesion, and without extracting any teeth or atumps, or giving any pain whatever.
+17-1	804-810	MOLLOT	_	_	
+17-2	811-817	supply	_	_	
+17-3	818-821	the	_	_	
+17-4	822-826	loss	_	_	
+17-5	827-829	of	_	_	
+17-6	830-835	teeth	_	_	
+17-7	836-843	without	_	_	
+17-8	844-851	springs	_	_	
+17-9	852-854	or	_	_	
+17-10	855-860	wires	_	_	
+17-11	861-865	upon	_	_	
+17-12	866-871	their	_	_	
+17-13	872-875	new	_	_	
+17-14	876-882	system	_	_	
+17-15	883-885	of	_	_	
+17-16	886-899	self-adhesion	_	_	
+17-17	899-900	,	_	_	
+17-18	901-904	and	_	_	
+17-19	905-912	without	_	_	
+17-20	913-923	extracting	_	_	
+17-21	924-927	any	_	_	
+17-22	928-933	teeth	_	_	
+17-23	934-936	or	_	_	
+17-24	937-943	atumps	_	_	
+17-25	943-944	,	_	_	
+17-26	945-947	or	_	_	
+17-27	948-954	giving	_	_	
+17-28	955-958	any	_	_	
+17-29	959-963	pain	_	_	
+17-30	964-972	whatever	_	_	
+17-31	972-973	.	_	_	
+
+#Text=This method has procured universal approbation, and is highly recommended by the faculty, it being the most efficient system of applying artificial teeth ever introduced.
+18-1	974-978	This	_	_	
+18-2	979-985	method	_	_	
+18-3	986-989	has	_	_	
+18-4	990-998	procured	_	_	
+18-5	999-1008	universal	_	_	
+18-6	1009-1020	approbation	_	_	
+18-7	1020-1021	,	_	_	
+18-8	1022-1025	and	_	_	
+18-9	1026-1028	is	_	_	
+18-10	1029-1035	highly	_	_	
+18-11	1036-1047	recommended	_	_	
+18-12	1048-1050	by	_	_	
+18-13	1051-1054	the	_	_	
+18-14	1055-1062	faculty	_	_	
+18-15	1062-1063	,	_	_	
+18-16	1064-1066	it	_	_	
+18-17	1067-1072	being	_	_	
+18-18	1073-1076	the	_	_	
+18-19	1077-1081	most	_	_	
+18-20	1082-1091	efficient	_	_	
+18-21	1092-1098	system	_	_	
+18-22	1099-1101	of	_	_	
+18-23	1102-1110	applying	_	_	
+18-24	1111-1121	artificial	_	_	
+18-25	1122-1127	teeth	_	_	
+18-26	1128-1132	ever	_	_	
+18-27	1133-1143	introduced	_	_	
+18-28	1143-1144	.	_	_	
+
+#Text=It renders mastication perfectly easy and agreeable, and does not interfere with the speech.
+19-1	1145-1147	It	_	_	
+19-2	1148-1155	renders	_	_	
+19-3	1156-1167	mastication	_	_	
+19-4	1168-1177	perfectly	_	_	
+19-5	1178-1182	easy	_	_	
+19-6	1183-1186	and	_	_	
+19-7	1187-1196	agreeable	_	_	
+19-8	1196-1197	,	_	_	
+19-9	1198-1201	and	_	_	
+19-10	1202-1206	does	_	_	
+19-11	1207-1210	not	_	_	
+19-12	1211-1220	interfere	_	_	
+19-13	1221-1225	with	_	_	
+19-14	1226-1229	the	_	_	
+19-15	1230-1236	speech	_	_	
+19-16	1236-1237	.	_	_	
+
+#Text=The PATENT VULCANITE PALATES also snpply the loss of the gums, and so accurately resemble their natural appearance as to defy detection.
+20-1	1238-1241	The	_	_	
+20-2	1242-1248	PATENT	_	_	
+20-3	1249-1258	VULCANITE	_	_	
+20-4	1259-1266	PALATES	_	_	
+20-5	1267-1271	also	_	_	
+20-6	1272-1278	snpply	_	_	
+20-7	1279-1282	the	_	_	
+20-8	1283-1287	loss	_	_	
+20-9	1288-1290	of	_	_	
+20-10	1291-1294	the	_	_	
+20-11	1295-1299	gums	_	_	
+20-12	1299-1300	,	_	_	
+20-13	1301-1304	and	_	_	
+20-14	1305-1307	so	_	_	
+20-15	1308-1318	accurately	_	_	
+20-16	1319-1327	resemble	_	_	
+20-17	1328-1333	their	_	_	
+20-18	1334-1341	natural	_	_	
+20-19	1342-1352	appearance	_	_	
+20-20	1353-1355	as	_	_	
+20-21	1356-1358	to	_	_	
+20-22	1359-1363	defy	_	_	
+20-23	1364-1373	detection	_	_	
+20-24	1373-1374	.	_	_	
+
+#Text=Messrs.
+21-1	1375-1381	Messrs	_	_	
+21-2	1381-1382	.	_	_	
+
+#Text=Molloy beg to call attention to their WHITE ENAMEL, which never changes colour, and is particularly adapted for front teeth, entirely superseding gold and other metallic fillings.
+22-1	1383-1389	Molloy	_	_	
+22-2	1390-1393	beg	_	_	
+22-3	1394-1396	to	_	_	
+22-4	1397-1401	call	_	_	
+22-5	1402-1411	attention	_	_	
+22-6	1412-1414	to	_	_	
+22-7	1415-1420	their	_	_	
+22-8	1421-1426	WHITE	_	_	
+22-9	1427-1433	ENAMEL	_	_	
+22-10	1433-1434	,	_	_	
+22-11	1435-1440	which	_	_	
+22-12	1441-1446	never	_	_	
+22-13	1447-1454	changes	_	_	
+22-14	1455-1461	colour	_	_	
+22-15	1461-1462	,	_	_	
+22-16	1463-1466	and	_	_	
+22-17	1467-1469	is	_	_	
+22-18	1470-1482	particularly	_	_	
+22-19	1483-1490	adapted	_	_	
+22-20	1491-1494	for	_	_	
+22-21	1495-1500	front	_	_	
+22-22	1501-1506	teeth	_	_	
+22-23	1506-1507	,	_	_	
+22-24	1508-1516	entirely	_	_	
+22-25	1517-1528	superseding	_	_	
+22-26	1529-1533	gold	_	_	
+22-27	1534-1537	and	_	_	
+22-28	1538-1543	other	_	_	
+22-29	1544-1552	metallic	_	_	
+22-30	1553-1561	fillings	_	_	
+22-31	1561-1562	.	_	_	
+
+#Text=N.B.
+23-1	1563-1566	N.B	_	_	
+23-2	1566-1567	.	_	_	
+
+#Text=—Black and discoloured teeth restored to their natural colour.
+24-1	1567-1568	—	_	_	
+24-2	1568-1573	Black	_	_	
+24-3	1574-1577	and	_	_	
+24-4	1578-1589	discoloured	_	_	
+24-5	1590-1595	teeth	_	_	
+24-6	1596-1604	restored	_	_	
+24-7	1605-1607	to	_	_	
+24-8	1608-1613	their	_	_	
+24-9	1614-1621	natural	_	_	
+24-10	1622-1628	colour	_	_	
+24-11	1628-1629	.	_	_	
+
+#Text=TERMS: £ s. d.
+25-1	1630-1635	TERMS	_	_	
+25-2	1635-1636	:	_	_	
+25-3	1637-1638	£	_	_	
+25-4	1639-1640	s	_	_	
+25-5	1640-1641	.	_	_	
+25-6	1642-1643	d	_	_	
+25-7	1643-1644	.	_	_	
+
+#Text=A Single Tooth from ft 5 0 A Complete Set from 6 0 0 CONSULTATION FREE. 231, Starafort street.
+26-1	1645-1646	A	_	_	
+26-2	1647-1653	Single	_	_	
+26-3	1654-1659	Tooth	_	_	
+26-4	1660-1664	from	_	_	
+26-5	1665-1667	ft	_	_	
+26-6	1668-1669	5	_	_	
+26-7	1670-1671	0	_	_	
+26-8	1672-1673	A	_	_	
+26-9	1674-1682	Complete	_	_	
+26-10	1683-1686	Set	_	_	
+26-11	1687-1691	from	_	_	
+26-12	1692-1693	6	_	_	
+26-13	1694-1695	0	_	_	
+26-14	1696-1697	0	_	_	
+26-15	1698-1710	CONSULTATION	_	_	
+26-16	1711-1715	FREE	_	_	
+26-17	1715-1716	.	_	_	
+26-18	1717-1720	231	_	_	
+26-19	1720-1721	,	_	_	
+26-20	1722-1731	Starafort	*[4]	STREET[4]	
+26-21	1732-1738	street	*[4]	STREET[4]	
+26-22	1738-1739	.	_	_	
+
+#Text=SHOP ACCOUNT BOOKS, of various sizes and qualities, from Is. each.
+27-1	1741-1745	SHOP	_	_	
+27-2	1746-1753	ACCOUNT	_	_	
+27-3	1754-1759	BOOKS	_	_	
+27-4	1759-1760	,	_	_	
+27-5	1761-1763	of	_	_	
+27-6	1764-1771	various	_	_	
+27-7	1772-1777	sizes	_	_	
+27-8	1778-1781	and	_	_	
+27-9	1782-1791	qualities	_	_	
+27-10	1791-1792	,	_	_	
+27-11	1793-1797	from	_	_	
+27-12	1798-1800	Is	_	_	
+27-13	1800-1801	.	_	_	
+27-14	1802-1806	each	_	_	
+27-15	1806-1807	.	_	_	
+
+#Text=At the REPORTER Office.
+28-1	1808-1810	At	_	_	
+28-2	1811-1814	the	_	_	
+28-3	1815-1823	REPORTER	_	_	
+28-4	1824-1830	Office	_	_	
+28-5	1830-1831	.	_	_	
+
+#Text=Letter-press printing by steam Power.
+29-1	1833-1845	Letter-press	_	_	
+29-2	1846-1854	printing	_	_	
+29-3	1855-1857	by	_	_	
+29-4	1858-1863	steam	_	_	
+29-5	1864-1869	Power	_	_	
+29-6	1869-1870	.	_	_	
+
+#Text=Posting Bills, Hand Bills, Circulars Delivery Notes, Catalogue*, Invoice Heads, Law Form* Contribution Card*, Societie*’ Rales, Reports, *e.
+30-1	1871-1878	Posting	_	_	
+30-2	1879-1884	Bills	_	_	
+30-3	1884-1885	,	_	_	
+30-4	1886-1890	Hand	_	_	
+30-5	1891-1896	Bills	_	_	
+30-6	1896-1897	,	_	_	
+30-7	1898-1907	Circulars	_	_	
+30-8	1908-1916	Delivery	_	_	
+30-9	1917-1922	Notes	_	_	
+30-10	1922-1923	,	_	_	
+30-11	1924-1933	Catalogue	_	_	
+30-12	1933-1934	*	_	_	
+30-13	1934-1935	,	_	_	
+30-14	1936-1943	Invoice	_	_	
+30-15	1944-1949	Heads	_	_	
+30-16	1949-1950	,	_	_	
+30-17	1951-1954	Law	_	_	
+30-18	1955-1959	Form	_	_	
+30-19	1959-1960	*	_	_	
+30-20	1961-1973	Contribution	_	_	
+30-21	1974-1978	Card	_	_	
+30-22	1978-1979	*	_	_	
+30-23	1979-1980	,	_	_	
+30-24	1981-1989	Societie	_	_	
+30-25	1989-1990	*	_	_	
+30-26	1990-1991	’	_	_	
+30-27	1992-1997	Rales	_	_	
+30-28	1997-1998	,	_	_	
+30-29	1999-2006	Reports	_	_	
+30-30	2006-2007	,	_	_	
+30-31	2008-2009	*	_	_	
+30-32	2009-2010	e	_	_	
+30-33	2010-2011	.	_	_	
+
+#Text=Ruptures effectually cured without loss of time to the sufferers, bj Mr.
+31-1	2013-2021	Ruptures	_	_	
+31-2	2022-2033	effectually	_	_	
+31-3	2034-2039	cured	_	_	
+31-4	2040-2047	without	_	_	
+31-5	2048-2052	loss	_	_	
+31-6	2053-2055	of	_	_	
+31-7	2056-2060	time	_	_	
+31-8	2061-2063	to	_	_	
+31-9	2064-2067	the	_	_	
+31-10	2068-2077	sufferers	_	_	
+31-11	2077-2078	,	_	_	
+31-12	2079-2081	bj	_	_	
+31-13	2082-2084	Mr	_	_	
+31-14	2084-2085	.	_	_	
+
+#Text=ROBERT SMITH, 14, Part-street, near the Market Place, Hyde.
+32-1	2086-2092	ROBERT	_	_	
+32-2	2093-2098	SMITH	_	_	
+32-3	2098-2099	,	_	_	
+32-4	2100-2102	14	_	_	
+32-5	2102-2103	,	_	_	
+32-6	2104-2115	Part-street	*	STREET	
+32-7	2115-2116	,	_	_	
+32-8	2117-2121	near	_	_	
+32-9	2122-2125	the	_	_	
+32-10	2126-2132	Market	*[5]	STREET[5]	
+32-11	2133-2138	Place	*[5]	STREET[5]	
+32-12	2138-2139	,	_	_	
+32-13	2140-2144	Hyde	https://en.wikipedia.org/wiki/Hyde,\_Greater\_Manchester	LOC	
+32-14	2144-2145	.	_	_	
+
+#Text=Letters, pest paid, giving the address of persons who wish to be waited upon at their own residence will receive prompt attention.
+33-1	2146-2153	Letters	_	_	
+33-2	2153-2154	,	_	_	
+33-3	2155-2159	pest	_	_	
+33-4	2160-2164	paid	_	_	
+33-5	2164-2165	,	_	_	
+33-6	2166-2172	giving	_	_	
+33-7	2173-2176	the	_	_	
+33-8	2177-2184	address	_	_	
+33-9	2185-2187	of	_	_	
+33-10	2188-2195	persons	_	_	
+33-11	2196-2199	who	_	_	
+33-12	2200-2204	wish	_	_	
+33-13	2205-2207	to	_	_	
+33-14	2208-2210	be	_	_	
+33-15	2211-2217	waited	_	_	
+33-16	2218-2222	upon	_	_	
+33-17	2223-2225	at	_	_	
+33-18	2226-2231	their	_	_	
+33-19	2232-2235	own	_	_	
+33-20	2236-2245	residence	_	_	
+33-21	2246-2250	will	_	_	
+33-22	2251-2258	receive	_	_	
+33-23	2259-2265	prompt	_	_	
+33-24	2266-2275	attention	_	_	
+33-25	2275-2276	.	_	_	
+
+#Text=A cure effected, or no pay.
+34-1	2277-2278	A	_	_	
+34-2	2279-2283	cure	_	_	
+34-3	2284-2292	effected	_	_	
+34-4	2292-2293	,	_	_	
+34-5	2294-2296	or	_	_	
+34-6	2297-2299	no	_	_	
+34-7	2300-2303	pay	_	_	
+34-8	2303-2304	.	_	_	
+
+#Text=References to cured persons in Hyde, Ashton, Stockpsrt, and other daces can be given.
+35-1	2305-2315	References	_	_	
+35-2	2316-2318	to	_	_	
+35-3	2319-2324	cured	_	_	
+35-4	2325-2332	persons	_	_	
+35-5	2333-2335	in	_	_	
+35-6	2336-2340	Hyde	https://en.wikipedia.org/wiki/Hyde,\_Greater\_Manchester	LOC	
+35-7	2340-2341	,	_	_	
+35-8	2342-2348	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+35-9	2348-2349	,	_	_	
+35-10	2350-2359	Stockpsrt	https://en.wikipedia.org/wiki/Stockport	LOC	
+35-11	2359-2360	,	_	_	
+35-12	2361-2364	and	_	_	
+35-13	2365-2370	other	_	_	
+35-14	2371-2376	daces	_	_	
+35-15	2377-2380	can	_	_	
+35-16	2381-2383	be	_	_	
+35-17	2384-2389	given	_	_	
+35-18	2389-2390	.	_	_	
+
+#Text=Charges strictly moderate.
+36-1	2391-2398	Charges	_	_	
+36-2	2399-2407	strictly	_	_	
+36-3	2408-2416	moderate	_	_	
+36-4	2416-2417	.	_	_	
+
+#Text=Suitable Trusses on hand.
+37-1	2418-2426	Suitable	_	_	
+37-2	2427-2434	Trusses	_	_	
+37-3	2435-2437	on	_	_	
+37-4	2438-2442	hand	_	_	
+37-5	2442-2443	.	_	_	
+
+#Text=—Mrs.
+38-1	2443-2444	—	_	_	
+38-2	2444-2447	Mrs	_	_	
+38-3	2447-2448	.	_	_	
+
+#Text=Smith will attend t i the tadie Attendanee at Wood’s Temperance Hotel, Yorkshire st Oldham, every Monday, from Eleven to Eight o’clock.
+39-1	2449-2454	Smith	_	_	
+39-2	2455-2459	will	_	_	
+39-3	2460-2466	attend	_	_	
+39-4	2467-2468	t	_	_	
+39-5	2469-2470	i	_	_	
+39-6	2471-2474	the	_	_	
+39-7	2475-2480	tadie	_	_	
+39-8	2481-2491	Attendanee	_	_	
+39-9	2492-2494	at	_	_	
+39-10	2495-2499	Wood	*[6]	BUILDING[6]	
+39-11	2499-2500	’	*[6]	BUILDING[6]	
+39-12	2500-2501	s	*[6]	BUILDING[6]	
+39-13	2502-2512	Temperance	*[6]	BUILDING[6]	
+39-14	2513-2518	Hotel	*[6]	BUILDING[6]	
+39-15	2518-2519	,	_	_	
+39-16	2520-2529	Yorkshire	https://en.wikipedia.org/wiki/Yorkshire	LOC	
+39-17	2530-2532	st	_	_	
+39-18	2533-2539	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+39-19	2539-2540	,	_	_	
+39-20	2541-2546	every	_	_	
+39-21	2547-2553	Monday	_	_	
+39-22	2553-2554	,	_	_	
+39-23	2555-2559	from	_	_	
+39-24	2560-2566	Eleven	_	_	
+39-25	2567-2569	to	_	_	
+39-26	2570-2575	Eight	_	_	
+39-27	2576-2577	o	_	_	
+39-28	2577-2578	’	_	_	
+39-29	2578-2583	clock	_	_	
+39-30	2583-2584	.	_	_	

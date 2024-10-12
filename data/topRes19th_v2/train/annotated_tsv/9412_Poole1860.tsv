@@ -1,0 +1,260 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=POOLE TURNPIKE.
+1-1	0-5	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+1-2	6-14	TURNPIKE	_	_	
+1-3	14-15	.	_	_	
+
+#Text=TB E NEXT MEETING of the TIITTSTEES will be held at the NEW INN, in Wm-801011, on MoNmer,the 10th day of SEPTZMBIIIt next, at two oclock at noon.
+2-1	17-19	TB	_	_	
+2-2	20-21	E	_	_	
+2-3	22-26	NEXT	_	_	
+2-4	27-34	MEETING	_	_	
+2-5	35-37	of	_	_	
+2-6	38-41	the	_	_	
+2-7	42-52	TIITTSTEES	_	_	
+2-8	53-57	will	_	_	
+2-9	58-60	be	_	_	
+2-10	61-65	held	_	_	
+2-11	66-68	at	_	_	
+2-12	69-72	the	_	_	
+2-13	73-76	NEW	*[1]	BUILDING[1]	
+2-14	77-80	INN	*[1]	BUILDING[1]	
+2-15	80-81	,	_	_	
+2-16	82-84	in	_	_	
+2-17	85-87	Wm	_	_	
+2-18	87-88	-	_	_	
+2-19	88-94	801011	_	_	
+2-20	94-95	,	_	_	
+2-21	96-98	on	_	_	
+2-22	99-105	MoNmer	_	_	
+2-23	105-106	,	_	_	
+2-24	106-109	the	_	_	
+2-25	110-114	10th	_	_	
+2-26	115-118	day	_	_	
+2-27	119-121	of	_	_	
+2-28	122-133	SEPTZMBIIIt	_	_	
+2-29	134-138	next	_	_	
+2-30	138-139	,	_	_	
+2-31	140-142	at	_	_	
+2-32	143-146	two	_	_	
+2-33	147-153	oclock	_	_	
+2-34	154-156	at	_	_	
+2-35	157-161	noon	_	_	
+2-36	161-162	.	_	_	
+
+#Text=All Bills on the Trust must be sent to me for examination by the Finance Committee at least ten days before the day of meeting or they will not be paid. 1.0.
+3-1	163-166	All	_	_	
+3-2	167-172	Bills	_	_	
+3-3	173-175	on	_	_	
+3-4	176-179	the	_	_	
+3-5	180-185	Trust	_	_	
+3-6	186-190	must	_	_	
+3-7	191-193	be	_	_	
+3-8	194-198	sent	_	_	
+3-9	199-201	to	_	_	
+3-10	202-204	me	_	_	
+3-11	205-208	for	_	_	
+3-12	209-220	examination	_	_	
+3-13	221-223	by	_	_	
+3-14	224-227	the	_	_	
+3-15	228-235	Finance	_	_	
+3-16	236-245	Committee	_	_	
+3-17	246-248	at	_	_	
+3-18	249-254	least	_	_	
+3-19	255-258	ten	_	_	
+3-20	259-263	days	_	_	
+3-21	264-270	before	_	_	
+3-22	271-274	the	_	_	
+3-23	275-278	day	_	_	
+3-24	279-281	of	_	_	
+3-25	282-289	meeting	_	_	
+3-26	290-292	or	_	_	
+3-27	293-297	they	_	_	
+3-28	298-302	will	_	_	
+3-29	303-306	not	_	_	
+3-30	307-309	be	_	_	
+3-31	310-314	paid	_	_	
+3-32	314-315	.	_	_	
+3-33	316-319	1.0	_	_	
+3-34	319-320	.	_	_	
+
+#Text=CH I SLETT, Clerk to the Trustees.
+4-1	321-323	CH	_	_	
+4-2	324-325	I	_	_	
+4-3	326-331	SLETT	_	_	
+4-4	331-332	,	_	_	
+4-5	333-338	Clerk	_	_	
+4-6	339-341	to	_	_	
+4-7	342-345	the	_	_	
+4-8	346-354	Trustees	_	_	
+4-9	354-355	.	_	_	
+
+#Text=Wimlsorne, August 9th, 1860.
+5-1	356-365	Wimlsorne	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+5-2	365-366	,	_	_	
+5-3	367-373	August	_	_	
+5-4	374-377	9th	_	_	
+5-5	377-378	,	_	_	
+5-6	379-383	1860	_	_	
+5-7	383-384	.	_	_	
+
+#Text=POOLE TURNPIKE.
+6-1	386-391	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+6-2	392-400	TURNPIKE	_	_	
+6-3	400-401	.	_	_	
+
+#Text=-MASONS TENDERS, 
+#Text=TENDERS are required by the Trustees of the Poole Turnpike for SUPPLYING AND FIXING ADDITIONAL STONE FOOTWAY CURBING, in continuation of the present curb of the footpath fronting Longfteet Church.
+7-1	401-402	-	_	_	
+7-2	402-408	MASONS	_	_	
+7-3	409-416	TENDERS	_	_	
+7-4	416-417	,	_	_	
+7-5	419-426	TENDERS	_	_	
+7-6	427-430	are	_	_	
+7-7	431-439	required	_	_	
+7-8	440-442	by	_	_	
+7-9	443-446	the	_	_	
+7-10	447-455	Trustees	_	_	
+7-11	456-458	of	_	_	
+7-12	459-462	the	_	_	
+7-13	463-468	Poole	https://en.wikipedia.org/wiki/Poole	LOC	
+7-14	469-477	Turnpike	_	_	
+7-15	478-481	for	_	_	
+7-16	482-491	SUPPLYING	_	_	
+7-17	492-495	AND	_	_	
+7-18	496-502	FIXING	_	_	
+7-19	503-513	ADDITIONAL	_	_	
+7-20	514-519	STONE	_	_	
+7-21	520-527	FOOTWAY	_	_	
+7-22	528-535	CURBING	_	_	
+7-23	535-536	,	_	_	
+7-24	537-539	in	_	_	
+7-25	540-552	continuation	_	_	
+7-26	553-555	of	_	_	
+7-27	556-559	the	_	_	
+7-28	560-567	present	_	_	
+7-29	568-572	curb	_	_	
+7-30	573-575	of	_	_	
+7-31	576-579	the	_	_	
+7-32	580-588	footpath	_	_	
+7-33	589-597	fronting	_	_	
+7-34	598-607	Longfteet	*[2]	BUILDING[2]	
+7-35	608-614	Church	*[2]	BUILDING[2]	
+7-36	614-615	.	_	_	
+
+#Text=Such Tenders to be at per yard lineal for curbing Gin. wide, and to include all labour and making good the path thereto with the soil of the present footway.
+8-1	616-620	Such	_	_	
+8-2	621-628	Tenders	_	_	
+8-3	629-631	to	_	_	
+8-4	632-634	be	_	_	
+8-5	635-637	at	_	_	
+8-6	638-641	per	_	_	
+8-7	642-646	yard	_	_	
+8-8	647-653	lineal	_	_	
+8-9	654-657	for	_	_	
+8-10	658-665	curbing	_	_	
+8-11	666-669	Gin	_	_	
+8-12	669-670	.	_	_	
+8-13	671-675	wide	_	_	
+8-14	675-676	,	_	_	
+8-15	677-680	and	_	_	
+8-16	681-683	to	_	_	
+8-17	684-691	include	_	_	
+8-18	692-695	all	_	_	
+8-19	696-702	labour	_	_	
+8-20	703-706	and	_	_	
+8-21	707-713	making	_	_	
+8-22	714-718	good	_	_	
+8-23	719-722	the	_	_	
+8-24	723-727	path	_	_	
+8-25	728-735	thereto	_	_	
+8-26	736-740	with	_	_	
+8-27	741-744	the	_	_	
+8-28	745-749	soil	_	_	
+8-29	750-752	of	_	_	
+8-30	753-756	the	_	_	
+8-31	757-764	present	_	_	
+8-32	765-772	footway	_	_	
+8-33	772-773	.	_	_	
+
+#Text=For further particulars apply to blessrs..CpEKE and PAREEN, Bournemouth, or at my Office.
+9-1	774-777	For	_	_	
+9-2	778-785	further	_	_	
+9-3	786-797	particulars	_	_	
+9-4	798-803	apply	_	_	
+9-5	804-806	to	_	_	
+9-6	807-814	blessrs	_	_	
+9-7	814-815	.	_	_	
+9-8	815-816	.	_	_	
+9-9	816-821	CpEKE	_	_	
+9-10	822-825	and	_	_	
+9-11	826-832	PAREEN	_	_	
+9-12	832-833	,	_	_	
+9-13	834-845	Bournemouth	https://en.wikipedia.org/wiki/Bournemouth	LOC	
+9-14	845-846	,	_	_	
+9-15	847-849	or	_	_	
+9-16	850-852	at	_	_	
+9-17	853-855	my	_	_	
+9-18	856-862	Office	_	_	
+9-19	862-863	.	_	_	
+
+#Text=Ir Tenders to he sent to mo not later than the Bth of September next.
+10-1	864-866	Ir	_	_	
+10-2	867-874	Tenders	_	_	
+10-3	875-877	to	_	_	
+10-4	878-880	he	_	_	
+10-5	881-885	sent	_	_	
+10-6	886-888	to	_	_	
+10-7	889-891	mo	_	_	
+10-8	892-895	not	_	_	
+10-9	896-901	later	_	_	
+10-10	902-906	than	_	_	
+10-11	907-910	the	_	_	
+10-12	911-914	Bth	_	_	
+10-13	915-917	of	_	_	
+10-14	918-927	September	_	_	
+10-15	928-932	next	_	_	
+10-16	932-933	.	_	_	
+
+#Text=The Trustees do not bind themselves to accept the lowest or any Tender.
+11-1	934-937	The	_	_	
+11-2	938-946	Trustees	_	_	
+11-3	947-949	do	_	_	
+11-4	950-953	not	_	_	
+11-5	954-958	bind	_	_	
+11-6	959-969	themselves	_	_	
+11-7	970-972	to	_	_	
+11-8	973-979	accept	_	_	
+11-9	980-983	the	_	_	
+11-10	984-990	lowest	_	_	
+11-11	991-993	or	_	_	
+11-12	994-997	any	_	_	
+11-13	998-1004	Tender	_	_	
+11-14	1004-1005	.	_	_	
+
+#Text=I. 0.
+12-1	1007-1008	I	_	_	
+12-2	1008-1009	.	_	_	
+12-3	1010-1011	0	_	_	
+12-4	1011-1012	.	_	_	
+
+#Text=CHISLETT, Clerk to the Trust.
+13-1	1013-1021	CHISLETT	_	_	
+13-2	1021-1022	,	_	_	
+13-3	1023-1028	Clerk	_	_	
+13-4	1029-1031	to	_	_	
+13-5	1032-1035	the	_	_	
+13-6	1036-1041	Trust	_	_	
+13-7	1041-1042	.	_	_	
+
+#Text=Wimboens, 81st August, 1860.
+14-1	1044-1052	Wimboens	https://en.wikipedia.org/wiki/Wimborne\_Minster	LOC	
+14-2	1052-1053	,	_	_	
+14-3	1054-1058	81st	_	_	
+14-4	1059-1065	August	_	_	
+14-5	1065-1066	,	_	_	
+14-6	1067-1071	1860	_	_	
+14-7	1071-1072	.	_	_	

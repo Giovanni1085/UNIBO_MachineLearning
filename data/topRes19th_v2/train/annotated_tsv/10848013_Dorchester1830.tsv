@@ -1,0 +1,348 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Mr.
+1-1	0-2	Mr	_	_	
+1-2	2-3	.	_	_	
+
+#Text=ISAAC GEORGE, being appointed AGENT the GLOBE FIRE and LIFE INSURANCE COMPANY, at BLANDFORD, respectfully solicits attention to the terms and conditions of that establishment.
+2-1	4-9	ISAAC	_	_	
+2-2	10-16	GEORGE	_	_	
+2-3	16-17	,	_	_	
+2-4	18-23	being	_	_	
+2-5	24-33	appointed	_	_	
+2-6	34-39	AGENT	_	_	
+2-7	40-43	the	_	_	
+2-8	44-49	GLOBE	_	_	
+2-9	50-54	FIRE	_	_	
+2-10	55-58	and	_	_	
+2-11	59-63	LIFE	_	_	
+2-12	64-73	INSURANCE	_	_	
+2-13	74-81	COMPANY	_	_	
+2-14	81-82	,	_	_	
+2-15	83-85	at	_	_	
+2-16	86-95	BLANDFORD	https://en.wikipedia.org/wiki/Blandford\_Forum	LOC	
+2-17	95-96	,	_	_	
+2-18	97-109	respectfully	_	_	
+2-19	110-118	solicits	_	_	
+2-20	119-128	attention	_	_	
+2-21	129-131	to	_	_	
+2-22	132-135	the	_	_	
+2-23	136-141	terms	_	_	
+2-24	142-145	and	_	_	
+2-25	146-156	conditions	_	_	
+2-26	157-159	of	_	_	
+2-27	160-164	that	_	_	
+2-28	165-178	establishment	_	_	
+2-29	178-179	.	_	_	
+
+#Text=LOBE INSURANCE, Pall Mall and Corn* J hill, London.
+3-1	180-184	LOBE	_	_	
+3-2	185-194	INSURANCE	_	_	
+3-3	194-195	,	_	_	
+3-4	196-200	Pall	https://en.wikipedia.org/wiki/Pall\_Mall,\_London[1]	STREET[1]	
+3-5	201-205	Mall	https://en.wikipedia.org/wiki/Pall\_Mall,\_London[1]	STREET[1]	
+3-6	206-209	and	_	_	
+3-7	210-214	Corn	https://en.wikipedia.org/wiki/Cornhill,\_London[2]	STREET[2]	
+3-8	214-215	*	https://en.wikipedia.org/wiki/Cornhill,\_London[2]	STREET[2]	
+3-9	216-217	J	https://en.wikipedia.org/wiki/Cornhill,\_London[2]	STREET[2]	
+3-10	218-222	hill	https://en.wikipedia.org/wiki/Cornhill,\_London[2]	STREET[2]	
+3-11	222-223	,	_	_	
+3-12	224-230	London	https://en.wikipedia.org/wiki/London	LOC	
+3-13	230-231	.	_	_	
+
+#Text=Established 1303. fire, Lives, and Anr.u ties ; Capital, One Million sterling, the whole paid up and invented: thereby affording to the Assured an imraediate available Fund for the Payment of the most extensive Losses.
+4-1	232-243	Established	_	_	
+4-2	244-248	1303	_	_	
+4-3	248-249	.	_	_	
+4-4	250-254	fire	_	_	
+4-5	254-255	,	_	_	
+4-6	256-261	Lives	_	_	
+4-7	261-262	,	_	_	
+4-8	263-266	and	_	_	
+4-9	267-272	Anr.u	_	_	
+4-10	273-277	ties	_	_	
+4-11	278-279	;	_	_	
+4-12	280-287	Capital	_	_	
+4-13	287-288	,	_	_	
+4-14	289-292	One	_	_	
+4-15	293-300	Million	_	_	
+4-16	301-309	sterling	_	_	
+4-17	309-310	,	_	_	
+4-18	311-314	the	_	_	
+4-19	315-320	whole	_	_	
+4-20	321-325	paid	_	_	
+4-21	326-328	up	_	_	
+4-22	329-332	and	_	_	
+4-23	333-341	invented	_	_	
+4-24	341-342	:	_	_	
+4-25	343-350	thereby	_	_	
+4-26	351-360	affording	_	_	
+4-27	361-363	to	_	_	
+4-28	364-367	the	_	_	
+4-29	368-375	Assured	_	_	
+4-30	376-378	an	_	_	
+4-31	379-389	imraediate	_	_	
+4-32	390-399	available	_	_	
+4-33	400-404	Fund	_	_	
+4-34	405-408	for	_	_	
+4-35	409-412	the	_	_	
+4-36	413-420	Payment	_	_	
+4-37	421-423	of	_	_	
+4-38	424-427	the	_	_	
+4-39	428-432	most	_	_	
+4-40	433-442	extensive	_	_	
+4-41	443-449	Losses	_	_	
+4-42	449-450	.	_	_	
+
+#Text=Joseph Dor in.
+5-1	452-458	Joseph	_	_	
+5-2	459-462	Dor	_	_	
+5-3	463-465	in	_	_	
+5-4	465-466	.	_	_	
+
+#Text=Esq., Chairman.
+6-1	467-470	Esq	_	_	
+6-2	470-471	.	_	_	
+6-3	471-472	,	_	_	
+6-4	473-481	Chairman	_	_	
+6-5	481-482	.	_	_	
+
+#Text=Thomas Coles, Esq., Deputy Chairman.
+7-1	483-489	Thomas	_	_	
+7-2	490-495	Coles	_	_	
+7-3	495-496	,	_	_	
+7-4	497-500	Esq	_	_	
+7-5	500-501	.	_	_	
+7-6	501-502	,	_	_	
+7-7	503-509	Deputy	_	_	
+7-8	510-518	Chairman	_	_	
+7-9	518-519	.	_	_	
+
+#Text=William Abbott, Esq.
+8-1	520-527	William	_	_	
+8-2	528-534	Abbott	_	_	
+8-3	534-535	,	_	_	
+8-4	536-539	Esq	_	_	
+8-5	539-540	.	_	_	
+
+#Text=Matthew laacke.
+9-1	541-548	Matthew	_	_	
+9-2	549-555	laacke	_	_	
+9-3	555-556	.	_	_	
+
+#Text=Esq.
+10-1	557-560	Esq	_	_	
+10-2	560-561	.	_	_	
+
+#Text=Llias.
+11-1	562-567	Llias	_	_	
+11-2	567-568	.	_	_	
+
+#Text=Raymond Barker, Esq.
+12-1	569-576	Raymond	_	_	
+12-2	577-583	Barker	_	_	
+12-3	583-584	,	_	_	
+12-4	585-588	Esq	_	_	
+12-5	588-589	.	_	_	
+
+#Text=John Latham, M.
+13-1	590-594	John	_	_	
+13-2	595-601	Latham	_	_	
+13-3	601-602	,	_	_	
+13-4	603-604	M	_	_	
+13-5	604-605	.	_	_	
+
+#Text=D.
+14-1	606-607	D	_	_	
+14-2	607-608	.	_	_	
+
+#Text=Thomas Barrow, Esq.
+15-1	609-615	Thomas	_	_	
+15-2	616-622	Barrow	_	_	
+15-3	622-623	,	_	_	
+15-4	624-627	Esq	_	_	
+15-5	627-628	.	_	_	
+
+#Text=John Neave, Esq, Jonathan Birch, Esq.
+16-1	629-633	John	_	_	
+16-2	634-639	Neave	_	_	
+16-3	639-640	,	_	_	
+16-4	641-644	Esq	_	_	
+16-5	644-645	,	_	_	
+16-6	646-654	Jonathan	_	_	
+16-7	655-660	Birch	_	_	
+16-8	660-661	,	_	_	
+16-9	662-665	Esq	_	_	
+16-10	665-666	.	_	_	
+
+#Text=William Phillimore, Esq.
+17-1	667-674	William	_	_	
+17-2	675-685	Phillimore	_	_	
+17-3	685-686	,	_	_	
+17-4	687-690	Esq	_	_	
+17-5	690-691	.	_	_	
+
+#Text=Jonathan Chapman- Esq.
+18-1	692-700	Jonathan	_	_	
+18-2	701-708	Chapman	_	_	
+18-3	708-709	-	_	_	
+18-4	710-713	Esq	_	_	
+18-5	713-714	.	_	_	
+
+#Text=John Poynder, Esq.
+19-1	715-719	John	_	_	
+19-2	720-727	Poynder	_	_	
+19-3	727-728	,	_	_	
+19-4	729-732	Esq	_	_	
+19-5	732-733	.	_	_	
+
+#Text=Sir C.
+20-1	734-737	Sir	_	_	
+20-2	738-739	C	_	_	
+20-3	739-740	.	_	_	
+
+#Text=Cockerell, litn., M.
+21-1	741-750	Cockerell	_	_	
+21-2	750-751	,	_	_	
+21-3	752-756	litn	_	_	
+21-4	756-757	.	_	_	
+21-5	757-758	,	_	_	
+21-6	759-760	M	_	_	
+21-7	760-761	.	_	_	
+
+#Text=P.
+22-1	762-763	P	_	_	
+22-2	763-764	.	_	_	
+
+#Text=Philip Ripley, Esq.
+23-1	765-771	Philip	_	_	
+23-2	772-778	Ripley	_	_	
+23-3	778-779	,	_	_	
+23-4	780-783	Esq	_	_	
+23-5	783-784	.	_	_	
+
+#Text=Boyce Combe, Esq.
+24-1	785-790	Boyce	_	_	
+24-2	791-796	Combe	_	_	
+24-3	796-797	,	_	_	
+24-4	798-801	Esq	_	_	
+24-5	801-802	.	_	_	
+
+#Text=Henry Howies, Esq.
+25-1	803-808	Henry	_	_	
+25-2	809-815	Howies	_	_	
+25-3	815-816	,	_	_	
+25-4	817-820	Esq	_	_	
+25-5	820-821	.	_	_	
+
+#Text=John Fairlie, Esq.
+26-1	822-826	John	_	_	
+26-2	827-834	Fairlie	_	_	
+26-3	834-835	,	_	_	
+26-4	836-839	Esq	_	_	
+26-5	839-840	.	_	_	
+
+#Text=Robert Saunders, Esq.
+27-1	841-847	Robert	_	_	
+27-2	848-856	Saunders	_	_	
+27-3	856-857	,	_	_	
+27-4	858-861	Esq	_	_	
+27-5	861-862	.	_	_	
+
+#Text=George Fraser, Esq.
+28-1	863-869	George	_	_	
+28-2	870-876	Fraser	_	_	
+28-3	876-877	,	_	_	
+28-4	878-881	Esq	_	_	
+28-5	881-882	.	_	_	
+
+#Text=Sir Walter Stirling, Bart.
+29-1	883-886	Sir	_	_	
+29-2	887-893	Walter	_	_	
+29-3	894-902	Stirling	_	_	
+29-4	902-903	,	_	_	
+29-5	904-908	Bart	_	_	
+29-6	908-909	.	_	_	
+
+#Text=George Carr Glyn, Esq.
+30-1	910-916	George	_	_	
+30-2	917-921	Carr	_	_	
+30-3	922-926	Glyn	_	_	
+30-4	926-927	,	_	_	
+30-5	928-931	Esq	_	_	
+30-6	931-932	.	_	_	
+
+#Text=Janies Stuart, Esq., M.
+31-1	933-939	Janies	_	_	
+31-2	940-946	Stuart	_	_	
+31-3	946-947	,	_	_	
+31-4	948-951	Esq	_	_	
+31-5	951-952	.	_	_	
+31-6	952-953	,	_	_	
+31-7	954-955	M	_	_	
+31-8	955-956	.	_	_	
+
+#Text=P.
+32-1	957-958	P	_	_	
+32-2	958-959	.	_	_	
+
+#Text=Edward Goldsuiid, Esq.
+33-1	960-966	Edward	_	_	
+33-2	967-976	Goldsuiid	_	_	
+33-3	976-977	,	_	_	
+33-4	978-981	Esq	_	_	
+33-5	981-982	.	_	_	
+
+#Text=Edward Vauz, Esq.
+34-1	983-989	Edward	_	_	
+34-2	990-994	Vauz	_	_	
+34-3	994-995	,	_	_	
+34-4	996-999	Esq	_	_	
+34-5	999-1000	.	_	_	
+
+#Text=Isaac L.
+35-1	1001-1006	Isaac	_	_	
+35-2	1007-1008	L	_	_	
+35-3	1008-1009	.	_	_	
+
+#Text=Goldsmid, Esq.
+36-1	1010-1018	Goldsmid	_	_	
+36-2	1018-1019	,	_	_	
+36-3	1020-1023	Esq	_	_	
+36-4	1023-1024	.	_	_	
+
+#Text=Farming Stock Insured generally on the Farm.
+37-1	1025-1032	Farming	_	_	
+37-2	1033-1038	Stock	_	_	
+37-3	1039-1046	Insured	_	_	
+37-4	1047-1056	generally	_	_	
+37-5	1057-1059	on	_	_	
+37-6	1060-1063	the	_	_	
+37-7	1064-1068	Farm	_	_	
+37-8	1068-1069	.	_	_	
+
+#Text=Hates and Conditions of Fire aud Life Insurance, &c., may be had of the Companys Agent:—
+38-1	1070-1075	Hates	_	_	
+38-2	1076-1079	and	_	_	
+38-3	1080-1090	Conditions	_	_	
+38-4	1091-1093	of	_	_	
+38-5	1094-1098	Fire	_	_	
+38-6	1099-1102	aud	_	_	
+38-7	1103-1107	Life	_	_	
+38-8	1108-1117	Insurance	_	_	
+38-9	1117-1118	,	_	_	
+38-10	1119-1120	&	_	_	
+38-11	1120-1121	c	_	_	
+38-12	1121-1122	.	_	_	
+38-13	1122-1123	,	_	_	
+38-14	1124-1127	may	_	_	
+38-15	1128-1130	be	_	_	
+38-16	1131-1134	had	_	_	
+38-17	1135-1137	of	_	_	
+38-18	1138-1141	the	_	_	
+38-19	1142-1150	Companys	_	_	
+38-20	1151-1156	Agent	_	_	
+38-21	1156-1157	:	_	_	
+38-22	1157-1158	—	_	_	

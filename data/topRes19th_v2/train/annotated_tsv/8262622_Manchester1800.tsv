@@ -1,0 +1,579 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ilfimrhi \\frr Orrr>rns Hll I\\y Ilefiorl.
+1-1	0-8	ilfimrhi	_	_	
+1-2	9-10	\	_	_	
+1-3	10-13	frr	_	_	
+1-4	14-18	Orrr	_	_	
+1-5	18-19	>	_	_	
+1-6	19-22	rns	_	_	
+1-7	23-26	Hll	_	_	
+1-8	27-28	I	_	_	
+1-9	28-29	\	_	_	
+1-10	29-30	y	_	_	
+1-11	31-39	Ilefiorl	_	_	
+1-12	39-40	.	_	_	
+
+#Text=Number in the Hute... ... u(is ra-li paid to C.muJ, secular IMuc and Militia. , ..
+2-1	41-47	Number	_	_	
+2-2	48-50	in	_	_	
+2-3	51-54	the	_	_	
+2-4	55-59	Hute	_	_	
+2-5	59-60	.	_	_	
+2-6	60-61	.	_	_	
+2-7	61-62	.	_	_	
+2-8	63-64	.	_	_	
+2-9	64-65	.	_	_	
+2-10	65-66	.	_	_	
+2-11	67-68	u	_	_	
+2-12	68-69	(	_	_	
+2-13	69-71	is	_	_	
+2-14	72-77	ra-li	_	_	
+2-15	78-82	paid	_	_	
+2-16	83-85	to	_	_	
+2-17	86-91	C.muJ	_	_	
+2-18	91-92	,	_	_	
+2-19	93-100	secular	_	_	
+2-20	101-105	IMuc	_	_	
+2-21	106-109	and	_	_	
+2-22	110-117	Militia	_	_	
+2-23	117-118	.	_	_	
+2-24	119-120	,	_	_	
+2-25	121-122	.	_	_	
+2-26	122-123	.	_	_	
+
+#Text=Cash paid to Ka-urdy and orphan. „ j t,, Admitted In-patient* Hume patient* Inoculated fir the c*mv Pnx Grunin in the House Lying- In-Hmpttjl.
+3-1	124-128	Cash	_	_	
+3-2	129-133	paid	_	_	
+3-3	134-136	to	_	_	
+3-4	137-144	Ka-urdy	_	_	
+3-5	145-148	and	_	_	
+3-6	149-155	orphan	_	_	
+3-7	155-156	.	_	_	
+3-8	157-158	„	_	_	
+3-9	159-160	j	_	_	
+3-10	161-162	t	_	_	
+3-11	162-163	,	_	_	
+3-12	163-164	,	_	_	
+3-13	165-173	Admitted	_	_	
+3-14	174-184	In-patient	_	_	
+3-15	184-185	*	_	_	
+3-16	186-190	Hume	_	_	
+3-17	191-198	patient	_	_	
+3-18	198-199	*	_	_	
+3-19	200-210	Inoculated	_	_	
+3-20	211-214	fir	_	_	
+3-21	215-218	the	_	_	
+3-22	219-220	c	_	_	
+3-23	220-221	*	_	_	
+3-24	221-223	mv	_	_	
+3-25	224-227	Pnx	_	_	
+3-26	228-234	Grunin	_	_	
+3-27	235-237	in	_	_	
+3-28	238-241	the	_	_	
+3-29	242-247	House	_	_	
+3-30	248-253	Lying	_	_	
+3-31	253-254	-	_	_	
+3-32	255-265	In-Hmpttjl	_	_	
+3-33	265-266	.	_	_	
+
+#Text=Duel lathed In-pattcm*.
+4-1	267-271	Duel	_	_	
+4-2	272-278	lathed	_	_	
+4-3	279-288	In-pattcm	_	_	
+4-4	288-289	*	_	_	
+4-5	289-290	.	_	_	
+
+#Text=I I lome patient. ; tin tile Hiatt. for admission id Women, and , Children. t hapl.du the en-uiny week, Aev.
+5-1	291-292	I	_	_	
+5-2	293-294	I	_	_	
+5-3	295-299	lome	_	_	
+5-4	300-307	patient	_	_	
+5-5	307-308	.	_	_	
+5-6	309-310	;	_	_	
+5-7	311-314	tin	_	_	
+5-8	315-319	tile	_	_	
+5-9	320-325	Hiatt	_	_	
+5-10	325-326	.	_	_	
+5-11	327-330	for	_	_	
+5-12	331-340	admission	_	_	
+5-13	341-343	id	_	_	
+5-14	344-349	Women	_	_	
+5-15	349-350	,	_	_	
+5-16	351-354	and	_	_	
+5-17	355-356	,	_	_	
+5-18	357-365	Children	_	_	
+5-19	365-366	.	_	_	
+5-20	367-368	t	_	_	
+5-21	369-376	hapl.du	_	_	
+5-22	377-380	the	_	_	
+5-23	381-388	en-uiny	_	_	
+5-24	389-393	week	_	_	
+5-25	393-394	,	_	_	
+5-26	395-398	Aev	_	_	
+5-27	398-399	.	_	_	
+
+#Text=S M Cheek.
+6-1	400-401	S	_	_	
+6-2	402-403	M	_	_	
+6-3	404-409	Cheek	_	_	
+6-4	409-410	.	_	_	
+
+#Text=House -Visitor*.
+7-1	411-416	House	_	_	
+7-2	417-418	-	_	_	
+7-3	418-425	Visitor	_	_	
+7-4	425-426	*	_	_	
+7-5	426-427	.	_	_	
+
+#Text=Mr Mcdlcv, Mr Muon, Mr Mar vita, Ma> banian and Co.
+8-1	428-430	Mr	_	_	
+8-2	431-437	Mcdlcv	_	_	
+8-3	437-438	,	_	_	
+8-4	439-441	Mr	_	_	
+8-5	442-446	Muon	_	_	
+8-6	446-447	,	_	_	
+8-7	448-450	Mr	_	_	
+8-8	451-454	Mar	_	_	
+8-9	455-459	vita	_	_	
+8-10	459-460	,	_	_	
+8-11	461-463	Ma	_	_	
+8-12	463-464	>	_	_	
+8-13	465-471	banian	_	_	
+8-14	472-475	and	_	_	
+8-15	476-478	Co	_	_	
+8-16	478-479	.	_	_	
+
+#Text=Mr,.
+9-1	480-482	Mr	_	_	
+9-2	482-483	,	_	_	
+9-3	483-484	.	_	_	
+
+#Text=Keyinci, Mr, N Knight.
+10-1	485-492	Keyinci	_	_	
+10-2	492-493	,	_	_	
+10-3	494-496	Mr	_	_	
+10-4	496-497	,	_	_	
+10-5	498-499	N	_	_	
+10-6	500-506	Knight	_	_	
+10-7	506-507	.	_	_	
+
+#Text=MARRIED.
+11-1	508-515	MARRIED	_	_	
+11-2	515-516	.	_	_	
+
+#Text=On the 2M nit. the Rev.
+12-1	517-519	On	_	_	
+12-2	520-523	the	_	_	
+12-3	524-526	2M	_	_	
+12-4	527-530	nit	_	_	
+12-5	530-531	.	_	_	
+12-6	532-535	the	_	_	
+12-7	536-539	Rev	_	_	
+12-8	539-540	.	_	_	
+
+#Text=Thomas Postlethsvaite, s.
+13-1	541-547	Thomas	_	_	
+13-2	548-562	Postlethsvaite	_	_	
+13-3	562-563	,	_	_	
+13-4	564-565	s	_	_	
+13-5	565-566	.	_	_	
+
+#Text=*n of Richard l*o,tlethwaite, F.sq. to Miss El.z-both Satterthwaite, third daughter of John SatUrthwaite.
+14-1	566-567	*	_	_	
+14-2	567-568	n	_	_	
+14-3	569-571	of	_	_	
+14-4	572-579	Richard	_	_	
+14-5	580-581	l	_	_	
+14-6	581-582	*	_	_	
+14-7	582-583	o	_	_	
+14-8	583-584	,	_	_	
+14-9	584-594	tlethwaite	_	_	
+14-10	594-595	,	_	_	
+14-11	596-600	F.sq	_	_	
+14-12	600-601	.	_	_	
+14-13	602-604	to	_	_	
+14-14	605-609	Miss	_	_	
+14-15	610-619	El.z-both	_	_	
+14-16	620-633	Satterthwaite	_	_	
+14-17	633-634	,	_	_	
+14-18	635-640	third	_	_	
+14-19	641-649	daughter	_	_	
+14-20	650-652	of	_	_	
+14-21	653-657	John	_	_	
+14-22	658-670	SatUrthwaite	_	_	
+14-23	670-671	.	_	_	
+
+#Text=Esq. all of Lancaster.
+15-1	672-675	Esq	_	_	
+15-2	675-676	.	_	_	
+15-3	677-680	all	_	_	
+15-4	681-683	of	_	_	
+15-5	684-693	Lancaster	https://en.wikipedia.org/wiki/Lancaster,\_Lancashire	LOC	
+15-6	693-694	.	_	_	
+
+#Text=—On Thursday last, Townsend luce.
+16-1	694-695	—	_	_	
+16-2	695-697	On	_	_	
+16-3	698-706	Thursday	_	_	
+16-4	707-711	last	_	_	
+16-5	711-712	,	_	_	
+16-6	713-721	Townsend	_	_	
+16-7	722-726	luce	_	_	
+16-8	726-727	.	_	_	
+
+#Text=Esq. l.ieut.
+17-1	728-731	Esq	_	_	
+17-2	731-732	.	_	_	
+17-3	733-739	l.ieut	_	_	
+17-4	739-740	.	_	_	
+
+#Text=-Colonel of the Royal Cheshire Militia, to Miss Mary Currie, 2d daughter of Dr.
+18-1	740-741	-	_	_	
+18-2	741-748	Colonel	_	_	
+18-3	749-751	of	_	_	
+18-4	752-755	the	_	_	
+18-5	756-761	Royal	_	_	
+18-6	762-770	Cheshire	_	_	
+18-7	771-778	Militia	_	_	
+18-8	778-779	,	_	_	
+18-9	780-782	to	_	_	
+18-10	783-787	Miss	_	_	
+18-11	788-792	Mary	_	_	
+18-12	793-799	Currie	_	_	
+18-13	799-800	,	_	_	
+18-14	801-803	2d	_	_	
+18-15	804-812	daughter	_	_	
+18-16	813-815	of	_	_	
+18-17	816-818	Dr	_	_	
+18-18	818-819	.	_	_	
+
+#Text=Currie, ol Chester.
+19-1	820-826	Currie	_	_	
+19-2	826-827	,	_	_	
+19-3	828-830	ol	_	_	
+19-4	831-838	Chester	https://en.wikipedia.org/wiki/Chester	LOC	
+19-5	838-839	.	_	_	
+
+#Text=—Same dav, at Chester Mr.
+20-1	839-840	—	_	_	
+20-2	840-844	Same	_	_	
+20-3	845-848	dav	_	_	
+20-4	848-849	,	_	_	
+20-5	850-852	at	_	_	
+20-6	853-860	Chester	https://en.wikipedia.org/wiki/Chester	LOC	
+20-7	861-863	Mr	_	_	
+20-8	863-864	.	_	_	
+
+#Text=James Taylor, of I.ower Thorp, near Oldham, merchant, to Mrs.
+21-1	865-870	James	_	_	
+21-2	871-877	Taylor	_	_	
+21-3	877-878	,	_	_	
+21-4	879-881	of	_	_	
+21-5	882-888	I.ower	_	_	
+21-6	889-894	Thorp	_	_	
+21-7	894-895	,	_	_	
+21-8	896-900	near	_	_	
+21-9	901-907	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+21-10	907-908	,	_	_	
+21-11	909-917	merchant	_	_	
+21-12	917-918	,	_	_	
+21-13	919-921	to	_	_	
+21-14	922-925	Mrs	_	_	
+21-15	925-926	.	_	_	
+
+#Text=Dutton, of the former place.— Oil Thursday list, at Chester, Mr.
+22-1	927-933	Dutton	_	_	
+22-2	933-934	,	_	_	
+22-3	935-937	of	_	_	
+22-4	938-941	the	_	_	
+22-5	942-948	former	_	_	
+22-6	949-954	place	_	_	
+22-7	954-955	.	_	_	
+22-8	955-956	—	_	_	
+22-9	957-960	Oil	_	_	
+22-10	961-969	Thursday	_	_	
+22-11	970-974	list	_	_	
+22-12	974-975	,	_	_	
+22-13	976-978	at	_	_	
+22-14	979-986	Chester	https://en.wikipedia.org/wiki/Chester	LOC	
+22-15	986-987	,	_	_	
+22-16	988-990	Mr	_	_	
+22-17	990-991	.	_	_	
+
+#Text=James Taylor, of Lower Thorpe, near Oldham, merchant, to Mrs.
+23-1	992-997	James	_	_	
+23-2	998-1004	Taylor	_	_	
+23-3	1004-1005	,	_	_	
+23-4	1006-1008	of	_	_	
+23-5	1009-1014	Lower	_	_	
+23-6	1015-1021	Thorpe	_	_	
+23-7	1021-1022	,	_	_	
+23-8	1023-1027	near	_	_	
+23-9	1028-1034	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+23-10	1034-1035	,	_	_	
+23-11	1036-1044	merchant	_	_	
+23-12	1044-1045	,	_	_	
+23-13	1046-1048	to	_	_	
+23-14	1049-1052	Mrs	_	_	
+23-15	1052-1053	.	_	_	
+
+#Text=Dutton, of the former place.
+24-1	1054-1060	Dutton	_	_	
+24-2	1060-1061	,	_	_	
+24-3	1062-1064	of	_	_	
+24-4	1065-1068	the	_	_	
+24-5	1069-1075	former	_	_	
+24-6	1076-1081	place	_	_	
+24-7	1081-1082	.	_	_	
+
+#Text=—On Monday se’nnight, at Bradford, in Wiltshire, the Rev.
+25-1	1082-1083	—	_	_	
+25-2	1083-1085	On	_	_	
+25-3	1086-1092	Monday	_	_	
+25-4	1093-1095	se	_	_	
+25-5	1095-1096	’	_	_	
+25-6	1096-1102	nnight	_	_	
+25-7	1102-1103	,	_	_	
+25-8	1104-1106	at	_	_	
+25-9	1107-1115	Bradford	https://en.wikipedia.org/wiki/Bradford-on-Avon	LOC	
+25-10	1115-1116	,	_	_	
+25-11	1117-1119	in	_	_	
+25-12	1120-1129	Wiltshire	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+25-13	1129-1130	,	_	_	
+25-14	1131-1134	the	_	_	
+25-15	1135-1138	Rev	_	_	
+25-16	1138-1139	.	_	_	
+
+#Text=Thomas Coke) L.
+26-1	1140-1146	Thomas	_	_	
+26-2	1147-1151	Coke	_	_	
+26-3	1151-1152	)	_	_	
+26-4	1153-1154	L	_	_	
+26-5	1154-1155	.	_	_	
+
+#Text=L.
+27-1	1156-1157	L	_	_	
+27-2	1157-1158	.	_	_	
+
+#Text=D. of the Methodist connection, to Miss Smith, daughter and sc - heiress of the late Joseph Smith, L»q. of that plafe.
+28-1	1159-1160	D	_	_	
+28-2	1160-1161	.	_	_	
+28-3	1162-1164	of	_	_	
+28-4	1165-1168	the	_	_	
+28-5	1169-1178	Methodist	_	_	
+28-6	1179-1189	connection	_	_	
+28-7	1189-1190	,	_	_	
+28-8	1191-1193	to	_	_	
+28-9	1194-1198	Miss	_	_	
+28-10	1199-1204	Smith	_	_	
+28-11	1204-1205	,	_	_	
+28-12	1206-1214	daughter	_	_	
+28-13	1215-1218	and	_	_	
+28-14	1219-1221	sc	_	_	
+28-15	1222-1223	-	_	_	
+28-16	1224-1231	heiress	_	_	
+28-17	1232-1234	of	_	_	
+28-18	1235-1238	the	_	_	
+28-19	1239-1243	late	_	_	
+28-20	1244-1250	Joseph	_	_	
+28-21	1251-1256	Smith	_	_	
+28-22	1256-1257	,	_	_	
+28-23	1258-1259	L	_	_	
+28-24	1259-1260	»	_	_	
+28-25	1260-1261	q	_	_	
+28-26	1261-1262	.	_	_	
+28-27	1263-1265	of	_	_	
+28-28	1266-1270	that	_	_	
+28-29	1271-1276	plafe	_	_	
+28-30	1276-1277	.	_	_	
+
+#Text=DIED.
+29-1	1278-1282	DIED	_	_	
+29-2	1282-1283	.	_	_	
+
+#Text=On Friday last, a quarter of an hour after dinin* in a state of perfect health, Mrs.
+30-1	1284-1286	On	_	_	
+30-2	1287-1293	Friday	_	_	
+30-3	1294-1298	last	_	_	
+30-4	1298-1299	,	_	_	
+30-5	1300-1301	a	_	_	
+30-6	1302-1309	quarter	_	_	
+30-7	1310-1312	of	_	_	
+30-8	1313-1315	an	_	_	
+30-9	1316-1320	hour	_	_	
+30-10	1321-1326	after	_	_	
+30-11	1327-1332	dinin	_	_	
+30-12	1332-1333	*	_	_	
+30-13	1334-1336	in	_	_	
+30-14	1337-1338	a	_	_	
+30-15	1339-1344	state	_	_	
+30-16	1345-1347	of	_	_	
+30-17	1348-1355	perfect	_	_	
+30-18	1356-1362	health	_	_	
+30-19	1362-1363	,	_	_	
+30-20	1364-1367	Mrs	_	_	
+30-21	1367-1368	.	_	_	
+
+#Text=Hentig, wife of J.
+31-1	1369-1375	Hentig	_	_	
+31-2	1375-1376	,	_	_	
+31-3	1377-1381	wife	_	_	
+31-4	1382-1384	of	_	_	
+31-5	1385-1386	J	_	_	
+31-6	1386-1387	.	_	_	
+
+#Text=W.
+32-1	1388-1389	W	_	_	
+32-2	1389-1390	.	_	_	
+
+#Text=Hvntig, Esq. of Hull.
+33-1	1391-1397	Hvntig	_	_	
+33-2	1397-1398	,	_	_	
+33-3	1399-1402	Esq	_	_	
+33-4	1402-1403	.	_	_	
+33-5	1404-1406	of	_	_	
+33-6	1407-1411	Hull	https://en.wikipedia.org/wiki/Kingston\_upon\_Hull	LOC	
+33-7	1411-1412	.	_	_	
+
+#Text=—Lately, at Haverfordwest, Elizabeth. daughter of Major-General Gascoigne, A I.l’.
+34-1	1412-1413	—	_	_	
+34-2	1413-1419	Lately	_	_	
+34-3	1419-1420	,	_	_	
+34-4	1421-1423	at	_	_	
+34-5	1424-1437	Haverfordwest	https://en.wikipedia.org/wiki/Haverfordwest	LOC	
+34-6	1437-1438	,	_	_	
+34-7	1439-1448	Elizabeth	_	_	
+34-8	1448-1449	.	_	_	
+34-9	1450-1458	daughter	_	_	
+34-10	1459-1461	of	_	_	
+34-11	1462-1475	Major-General	_	_	
+34-12	1476-1485	Gascoigne	_	_	
+34-13	1485-1486	,	_	_	
+34-14	1487-1488	A	_	_	
+34-15	1489-1492	I.l	_	_	
+34-16	1492-1493	’	_	_	
+34-17	1493-1494	.	_	_	
+
+#Text=—On the 25th ult. at Handforth, near Birmingham, Mr.
+35-1	1494-1495	—	_	_	
+35-2	1495-1497	On	_	_	
+35-3	1498-1501	the	_	_	
+35-4	1502-1506	25th	_	_	
+35-5	1507-1510	ult	_	_	
+35-6	1510-1511	.	_	_	
+35-7	1512-1514	at	_	_	
+35-8	1515-1524	Handforth	*	LOC	
+35-9	1524-1525	,	_	_	
+35-10	1526-1530	near	_	_	
+35-11	1531-1541	Birmingham	https://en.wikipedia.org/wiki/Birmingham	LOC	
+35-12	1541-1542	,	_	_	
+35-13	1543-1545	Mr	_	_	
+35-14	1545-1546	.	_	_	
+
+#Text=Francis Fginton, justly celebrated for restoring the beautiful art of painting and staining glass.
+36-1	1547-1554	Francis	_	_	
+36-2	1555-1562	Fginton	_	_	
+36-3	1562-1563	,	_	_	
+36-4	1564-1570	justly	_	_	
+36-5	1571-1581	celebrated	_	_	
+36-6	1582-1585	for	_	_	
+36-7	1586-1595	restoring	_	_	
+36-8	1596-1599	the	_	_	
+36-9	1600-1609	beautiful	_	_	
+36-10	1610-1613	art	_	_	
+36-11	1614-1616	of	_	_	
+36-12	1617-1625	painting	_	_	
+36-13	1626-1629	and	_	_	
+36-14	1630-1638	staining	_	_	
+36-15	1639-1644	glass	_	_	
+36-16	1644-1645	.	_	_	
+
+#Text=—On Sunday morning, at the White I,ion Inn, in this town, Mr.
+37-1	1645-1646	—	_	_	
+37-2	1646-1648	On	_	_	
+37-3	1649-1655	Sunday	_	_	
+37-4	1656-1663	morning	_	_	
+37-5	1663-1664	,	_	_	
+37-6	1665-1667	at	_	_	
+37-7	1668-1671	the	_	_	
+37-8	1672-1677	White	_	_	
+37-9	1678-1679	I	_	_	
+37-10	1679-1680	,	_	_	
+37-11	1680-1683	ion	_	_	
+37-12	1684-1687	Inn	_	_	
+37-13	1687-1688	,	_	_	
+37-14	1689-1691	in	_	_	
+37-15	1692-1696	this	_	_	
+37-16	1697-1701	town	_	_	
+37-17	1701-1702	,	_	_	
+37-18	1703-1705	Mr	_	_	
+37-19	1705-1706	.	_	_	
+
+#Text=Jonathan Hargreaves, of Fence, near Burnley.
+38-1	1707-1715	Jonathan	_	_	
+38-2	1716-1726	Hargreaves	_	_	
+38-3	1726-1727	,	_	_	
+38-4	1728-1730	of	_	_	
+38-5	1731-1736	Fence	https://en.wikipedia.org/wiki/Fence,\_Lancashire	LOC	
+38-6	1736-1737	,	_	_	
+38-7	1738-1742	near	_	_	
+38-8	1743-1750	Burnley	https://en.wikipedia.org/wiki/Burnley	LOC	
+38-9	1750-1751	.	_	_	
+
+#Text=—On Monday sennight, John Yates, Lsq. of Barbaston Hall, in the county of Stafford.
+39-1	1751-1752	—	_	_	
+39-2	1752-1754	On	_	_	
+39-3	1755-1761	Monday	_	_	
+39-4	1762-1770	sennight	_	_	
+39-5	1770-1771	,	_	_	
+39-6	1772-1776	John	_	_	
+39-7	1777-1782	Yates	_	_	
+39-8	1782-1783	,	_	_	
+39-9	1784-1787	Lsq	_	_	
+39-10	1787-1788	.	_	_	
+39-11	1789-1791	of	_	_	
+39-12	1792-1801	Barbaston	*[1]	BUILDING[1]	
+39-13	1802-1806	Hall	*[1]	BUILDING[1]	
+39-14	1806-1807	,	_	_	
+39-15	1808-1810	in	_	_	
+39-16	1811-1814	the	_	_	
+39-17	1815-1821	county	https://en.wikipedia.org/wiki/Staffordshire[2]	LOC[2]	
+39-18	1822-1824	of	https://en.wikipedia.org/wiki/Staffordshire[2]	LOC[2]	
+39-19	1825-1833	Stafford	https://en.wikipedia.org/wiki/Staffordshire[2]	LOC[2]	
+39-20	1833-1834	.	_	_	
+
+#Text=—On Friday last, alter a long and severe illness, supported with Christian resignation, Mrs.
+40-1	1834-1835	—	_	_	
+40-2	1835-1837	On	_	_	
+40-3	1838-1844	Friday	_	_	
+40-4	1845-1849	last	_	_	
+40-5	1849-1850	,	_	_	
+40-6	1851-1856	alter	_	_	
+40-7	1857-1858	a	_	_	
+40-8	1859-1863	long	_	_	
+40-9	1864-1867	and	_	_	
+40-10	1868-1874	severe	_	_	
+40-11	1875-1882	illness	_	_	
+40-12	1882-1883	,	_	_	
+40-13	1884-1893	supported	_	_	
+40-14	1894-1898	with	_	_	
+40-15	1899-1908	Christian	_	_	
+40-16	1909-1920	resignation	_	_	
+40-17	1920-1921	,	_	_	
+40-18	1922-1925	Mrs	_	_	
+40-19	1925-1926	.	_	_	
+
+#Text=Markland, wife of Edward Markland, of Leeds.
+41-1	1927-1935	Markland	_	_	
+41-2	1935-1936	,	_	_	
+41-3	1937-1941	wife	_	_	
+41-4	1942-1944	of	_	_	
+41-5	1945-1951	Edward	_	_	
+41-6	1952-1960	Markland	_	_	
+41-7	1960-1961	,	_	_	
+41-8	1962-1964	of	_	_	
+41-9	1965-1970	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+41-10	1970-1971	.	_	_	

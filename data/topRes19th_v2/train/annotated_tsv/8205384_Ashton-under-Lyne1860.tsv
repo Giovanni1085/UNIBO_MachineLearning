@@ -1,0 +1,369 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Entertainments, &c.
+1-1	0-14	Entertainments	_	_	
+1-2	14-15	,	_	_	
+1-3	16-17	&	_	_	
+1-4	17-18	c	_	_	
+1-5	18-19	.	_	_	
+
+#Text=MECHANICS’ ARMS CONCERT HALL, STALYBRIDGE.
+2-1	21-30	MECHANICS	*[1]	BUILDING[1]	
+2-2	30-31	’	*[1]	BUILDING[1]	
+2-3	32-36	ARMS	*[1]	BUILDING[1]	
+2-4	37-44	CONCERT	*[1]	BUILDING[1]	
+2-5	45-49	HALL	*[1]	BUILDING[1]	
+2-6	49-50	,	_	_	
+2-7	51-62	STALYBRIDGE	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+2-8	62-63	.	_	_	
+
+#Text=Proprietor Mr.
+3-1	64-74	Proprietor	_	_	
+3-2	75-77	Mr	_	_	
+3-3	77-78	.	_	_	
+
+#Text=J.
+4-1	79-80	J	_	_	
+4-2	80-81	.	_	_	
+
+#Text=HALLSWORTH.
+5-1	82-92	HALLSWORTH	_	_	
+5-2	92-93	.	_	_	
+
+#Text=Mr, J ROWAN, the justly celebrated Comic and Patter singer.
+6-1	94-96	Mr	_	_	
+6-2	96-97	,	_	_	
+6-3	98-99	J	_	_	
+6-4	100-105	ROWAN	_	_	
+6-5	105-106	,	_	_	
+6-6	107-110	the	_	_	
+6-7	111-117	justly	_	_	
+6-8	118-128	celebrated	_	_	
+6-9	129-134	Comic	_	_	
+6-10	135-138	and	_	_	
+6-11	139-145	Patter	_	_	
+6-12	146-152	singer	_	_	
+6-13	152-153	.	_	_	
+
+#Text=Mr.
+7-1	154-156	Mr	_	_	
+7-2	156-157	.	_	_	
+
+#Text=HARRY WEST, the rising star comique —Open every Monday, Friday, and Saturday evenings.
+8-1	158-163	HARRY	_	_	
+8-2	164-168	WEST	_	_	
+8-3	168-169	,	_	_	
+8-4	170-173	the	_	_	
+8-5	174-180	rising	_	_	
+8-6	181-185	star	_	_	
+8-7	186-193	comique	_	_	
+8-8	194-195	—	_	_	
+8-9	195-199	Open	_	_	
+8-10	200-205	every	_	_	
+8-11	206-212	Monday	_	_	
+8-12	212-213	,	_	_	
+8-13	214-220	Friday	_	_	
+8-14	220-221	,	_	_	
+8-15	222-225	and	_	_	
+8-16	226-234	Saturday	_	_	
+8-17	235-243	evenings	_	_	
+8-18	243-244	.	_	_	
+
+#Text=OLD CHURCH INN CONCERT ROOMS, Scotland-street, and Stamford-street, Ashton.
+9-1	246-249	OLD	*[2]	BUILDING[2]	
+9-2	250-256	CHURCH	*[2]	BUILDING[2]	
+9-3	257-260	INN	*[2]	BUILDING[2]	
+9-4	261-268	CONCERT	*[2]	BUILDING[2]	
+9-5	269-274	ROOMS	*[2]	BUILDING[2]	
+9-6	274-275	,	_	_	
+9-7	276-291	Scotland-street	*	STREET	
+9-8	291-292	,	_	_	
+9-9	293-296	and	_	_	
+9-10	297-312	Stamford-street	*	STREET	
+9-11	312-313	,	_	_	
+9-12	314-320	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+9-13	320-321	.	_	_	
+
+#Text=Proprietor 
+#Text=E, WATTS.
+10-1	323-333	Proprietor	_	_	
+10-2	335-336	E	_	_	
+10-3	336-337	,	_	_	
+10-4	338-343	WATTS	_	_	
+10-5	343-344	.	_	_	
+
+#Text=The Concert Room is OPEN EVERY NIGHT with a TALENTED COMPANY.
+11-1	346-349	The	_	_	
+11-2	350-357	Concert	*[3]	BUILDING[3]	
+11-3	358-362	Room	*[3]	BUILDING[3]	
+11-4	363-365	is	_	_	
+11-5	366-370	OPEN	_	_	
+11-6	371-376	EVERY	_	_	
+11-7	377-382	NIGHT	_	_	
+11-8	383-387	with	_	_	
+11-9	388-389	a	_	_	
+11-10	390-398	TALENTED	_	_	
+11-11	399-406	COMPANY	_	_	
+11-12	406-407	.	_	_	
+
+#Text=A change of artistes every week Refreshments of the best quality.
+12-1	408-409	A	_	_	
+12-2	410-416	change	_	_	
+12-3	417-419	of	_	_	
+12-4	420-428	artistes	_	_	
+12-5	429-434	every	_	_	
+12-6	435-439	week	_	_	
+12-7	440-452	Refreshments	_	_	
+12-8	453-455	of	_	_	
+12-9	456-459	the	_	_	
+12-10	460-464	best	_	_	
+12-11	465-472	quality	_	_	
+12-12	472-473	.	_	_	
+
+#Text=Admission Free.
+13-1	474-483	Admission	_	_	
+13-2	484-488	Free	_	_	
+13-3	488-489	.	_	_	
+
+#Text=NOTfCE —The “• Chief Justice ” Lodge of ANTEDILUVIAN BUFFALOES is removed to the above house, and the meetings held as usual.
+14-1	490-496	NOTfCE	_	_	
+14-2	497-498	—	_	_	
+14-3	498-501	The	_	_	
+14-4	502-503	“	_	_	
+14-5	503-504	•	_	_	
+14-6	505-510	Chief	_	_	
+14-7	511-518	Justice	_	_	
+14-8	519-520	”	_	_	
+14-9	521-526	Lodge	_	_	
+14-10	527-529	of	_	_	
+14-11	530-542	ANTEDILUVIAN	_	_	
+14-12	543-552	BUFFALOES	_	_	
+14-13	553-555	is	_	_	
+14-14	556-563	removed	_	_	
+14-15	564-566	to	_	_	
+14-16	567-570	the	_	_	
+14-17	571-576	above	_	_	
+14-18	577-582	house	_	_	
+14-19	582-583	,	_	_	
+14-20	584-587	and	_	_	
+14-21	588-591	the	_	_	
+14-22	592-600	meetings	_	_	
+14-23	601-605	held	_	_	
+14-24	606-608	as	_	_	
+14-25	609-614	usual	_	_	
+14-26	614-615	.	_	_	
+
+#Text=EDMUND WATTS.
+15-1	616-622	EDMUND	_	_	
+15-2	623-628	WATTS	_	_	
+15-3	628-629	.	_	_	
+
+#Text=A BAZAAR in aid of the FORESTERS’ FRIENDLY SOCIETY will be opened on the 26th day of December, 1866, in the Assembly Room of the Mechanics’ Institute, Stalybridge.
+16-1	631-632	A	_	_	
+16-2	633-639	BAZAAR	_	_	
+16-3	640-642	in	_	_	
+16-4	643-646	aid	_	_	
+16-5	647-649	of	_	_	
+16-6	650-653	the	_	_	
+16-7	654-663	FORESTERS	_	_	
+16-8	663-664	’	_	_	
+16-9	665-673	FRIENDLY	_	_	
+16-10	674-681	SOCIETY	_	_	
+16-11	682-686	will	_	_	
+16-12	687-689	be	_	_	
+16-13	690-696	opened	_	_	
+16-14	697-699	on	_	_	
+16-15	700-703	the	_	_	
+16-16	704-708	26th	_	_	
+16-17	709-712	day	_	_	
+16-18	713-715	of	_	_	
+16-19	716-724	December	_	_	
+16-20	724-725	,	_	_	
+16-21	726-730	1866	_	_	
+16-22	730-731	,	_	_	
+16-23	732-734	in	_	_	
+16-24	735-738	the	_	_	
+16-25	739-747	Assembly	*[4]	BUILDING[4]	
+16-26	748-752	Room	*[4]	BUILDING[4]	
+16-27	753-755	of	*[4]	BUILDING[4]	
+16-28	756-759	the	*[4]	BUILDING[4]	
+16-29	760-769	Mechanics	*[4]	BUILDING[4]	
+16-30	769-770	’	*[4]	BUILDING[4]	
+16-31	771-780	Institute	*[4]	BUILDING[4]	
+16-32	780-781	,	_	_	
+16-33	782-793	Stalybridge	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+16-34	793-794	.	_	_	
+
+#Text=The above is intended to lesson the debt existing upon the Foresters’, and to provide means of shelter for the poor and infirm Members of the Order, as well as to educate the Orphan’s of deceased Members.
+17-1	795-798	The	_	_	
+17-2	799-804	above	_	_	
+17-3	805-807	is	_	_	
+17-4	808-816	intended	_	_	
+17-5	817-819	to	_	_	
+17-6	820-826	lesson	_	_	
+17-7	827-830	the	_	_	
+17-8	831-835	debt	_	_	
+17-9	836-844	existing	_	_	
+17-10	845-849	upon	_	_	
+17-11	850-853	the	_	_	
+17-12	854-863	Foresters	_	_	
+17-13	863-864	’	_	_	
+17-14	864-865	,	_	_	
+17-15	866-869	and	_	_	
+17-16	870-872	to	_	_	
+17-17	873-880	provide	_	_	
+17-18	881-886	means	_	_	
+17-19	887-889	of	_	_	
+17-20	890-897	shelter	_	_	
+17-21	898-901	for	_	_	
+17-22	902-905	the	_	_	
+17-23	906-910	poor	_	_	
+17-24	911-914	and	_	_	
+17-25	915-921	infirm	_	_	
+17-26	922-929	Members	_	_	
+17-27	930-932	of	_	_	
+17-28	933-936	the	_	_	
+17-29	937-942	Order	_	_	
+17-30	942-943	,	_	_	
+17-31	944-946	as	_	_	
+17-32	947-951	well	_	_	
+17-33	952-954	as	_	_	
+17-34	955-957	to	_	_	
+17-35	958-965	educate	_	_	
+17-36	966-969	the	_	_	
+17-37	970-976	Orphan	_	_	
+17-38	976-977	’	_	_	
+17-39	977-978	s	_	_	
+17-40	979-981	of	_	_	
+17-41	982-990	deceased	_	_	
+17-42	991-998	Members	_	_	
+17-43	998-999	.	_	_	
+
+#Text=The friends of charity will please forward contributions of money, or articles of clothing for sale, or otherwise, to the following persons :—Mr.
+18-1	1001-1004	The	_	_	
+18-2	1005-1012	friends	_	_	
+18-3	1013-1015	of	_	_	
+18-4	1016-1023	charity	_	_	
+18-5	1024-1028	will	_	_	
+18-6	1029-1035	please	_	_	
+18-7	1036-1043	forward	_	_	
+18-8	1044-1057	contributions	_	_	
+18-9	1058-1060	of	_	_	
+18-10	1061-1066	money	_	_	
+18-11	1066-1067	,	_	_	
+18-12	1068-1070	or	_	_	
+18-13	1071-1079	articles	_	_	
+18-14	1080-1082	of	_	_	
+18-15	1083-1091	clothing	_	_	
+18-16	1092-1095	for	_	_	
+18-17	1096-1100	sale	_	_	
+18-18	1100-1101	,	_	_	
+18-19	1102-1104	or	_	_	
+18-20	1105-1114	otherwise	_	_	
+18-21	1114-1115	,	_	_	
+18-22	1116-1118	to	_	_	
+18-23	1119-1122	the	_	_	
+18-24	1123-1132	following	_	_	
+18-25	1133-1140	persons	_	_	
+18-26	1141-1142	:	_	_	
+18-27	1142-1143	—	_	_	
+18-28	1143-1145	Mr	_	_	
+18-29	1145-1146	.	_	_	
+
+#Text=GEO.
+19-1	1147-1150	GEO	_	_	
+19-2	1150-1151	.	_	_	
+
+#Text=HADFIELD, Hon.
+20-1	1152-1160	HADFIELD	_	_	
+20-2	1160-1161	,	_	_	
+20-3	1162-1165	Hon	_	_	
+20-4	1165-1166	.	_	_	
+
+#Text=Sec , 33, Cheethara Hill-road, Stalybridge, Mrs.
+21-1	1167-1170	Sec	_	_	
+21-2	1171-1172	,	_	_	
+21-3	1173-1175	33	_	_	
+21-4	1175-1176	,	_	_	
+21-5	1177-1186	Cheethara	*[5]	STREET[5]	
+21-6	1187-1196	Hill-road	*[5]	STREET[5]	
+21-7	1196-1197	,	_	_	
+21-8	1198-1209	Stalybridge	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+21-9	1209-1210	,	_	_	
+21-10	1211-1214	Mrs	_	_	
+21-11	1214-1215	.	_	_	
+
+#Text=ROBT.
+22-1	1216-1220	ROBT	_	_	
+22-2	1220-1221	.	_	_	
+
+#Text=HOPWOOD, Portland Place ; or any of the Committee.
+23-1	1222-1229	HOPWOOD	_	_	
+23-2	1229-1230	,	_	_	
+23-3	1231-1239	Portland	*[6]	STREET[6]	
+23-4	1240-1245	Place	*[6]	STREET[6]	
+23-5	1246-1247	;	_	_	
+23-6	1248-1250	or	_	_	
+23-7	1251-1254	any	_	_	
+23-8	1255-1257	of	_	_	
+23-9	1258-1261	the	_	_	
+23-10	1262-1271	Committee	_	_	
+23-11	1271-1272	.	_	_	
+
+#Text=CIRCULATION of the 1 REPORTER!
+24-1	1274-1285	CIRCULATION	_	_	
+24-2	1286-1288	of	_	_	
+24-3	1289-1292	the	_	_	
+24-4	1293-1294	1	_	_	
+24-5	1295-1303	REPORTER	_	_	
+24-6	1303-1304	!	_	_	
+
+#Text=The Circulation of the IREPORTER exceeds Eight Thousand Copies weekly, and is rapidly increasing.
+25-1	1306-1309	The	_	_	
+25-2	1310-1321	Circulation	_	_	
+25-3	1322-1324	of	_	_	
+25-4	1325-1328	the	_	_	
+25-5	1329-1338	IREPORTER	_	_	
+25-6	1339-1346	exceeds	_	_	
+25-7	1347-1352	Eight	_	_	
+25-8	1353-1361	Thousand	_	_	
+25-9	1362-1368	Copies	_	_	
+25-10	1369-1375	weekly	_	_	
+25-11	1375-1376	,	_	_	
+25-12	1377-1380	and	_	_	
+25-13	1381-1383	is	_	_	
+25-14	1384-1391	rapidly	_	_	
+25-15	1392-1402	increasing	_	_	
+25-16	1402-1403	.	_	_	
+
+#Text=IVe this day issue Eight Thousand Three Hundred Copies of our earliest edition.
+26-1	1404-1407	IVe	_	_	
+26-2	1408-1412	this	_	_	
+26-3	1413-1416	day	_	_	
+26-4	1417-1422	issue	_	_	
+26-5	1423-1428	Eight	_	_	
+26-6	1429-1437	Thousand	_	_	
+26-7	1438-1443	Three	_	_	
+26-8	1444-1451	Hundred	_	_	
+26-9	1452-1458	Copies	_	_	
+26-10	1459-1461	of	_	_	
+26-11	1462-1465	our	_	_	
+26-12	1466-1474	earliest	_	_	
+26-13	1475-1482	edition	_	_	
+26-14	1482-1483	.	_	_	
+
+#Text=THE REPORTER.
+27-1	1485-1488	THE	_	_	
+27-2	1489-1497	REPORTER	_	_	
+27-3	1497-1498	.	_	_	
+
+#Text=SATURDAY, OCTOBER 13, 1866,
+28-1	1500-1508	SATURDAY	_	_	
+28-2	1508-1509	,	_	_	
+28-3	1510-1517	OCTOBER	_	_	
+28-4	1518-1520	13	_	_	
+28-5	1520-1521	,	_	_	
+28-6	1522-1526	1866	_	_	
+28-7	1526-1527	,	_	_	

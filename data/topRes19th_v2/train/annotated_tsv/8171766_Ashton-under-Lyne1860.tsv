@@ -1,0 +1,243 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=OLD BOARS HEAD HOTEL, HYDES CROSS, MANCHESTER.
+1-1	0-3	OLD	*[1]	BUILDING[1]	
+1-2	4-9	BOARS	*[1]	BUILDING[1]	
+1-3	10-14	HEAD	*[1]	BUILDING[1]	
+1-4	15-20	HOTEL	*[1]	BUILDING[1]	
+1-5	20-21	,	_	_	
+1-6	22-27	HYDES	*[2]	STREET[2]	
+1-7	28-33	CROSS	*[2]	STREET[2]	
+1-8	33-34	,	_	_	
+1-9	35-45	MANCHESTER	https://en.wikipedia.org/wiki/Manchester	LOC	
+1-10	45-46	.	_	_	
+
+#Text=—Proprietor JOSEPH NOWELL, of No. 100 a, Market-street, and No. 6, St.
+2-1	46-47	—	_	_	
+2-2	47-57	Proprietor	_	_	
+2-3	58-64	JOSEPH	_	_	
+2-4	65-71	NOWELL	_	_	
+2-5	71-72	,	_	_	
+2-6	73-75	of	_	_	
+2-7	76-78	No	_	_	
+2-8	78-79	.	_	_	
+2-9	80-83	100	_	_	
+2-10	84-85	a	_	_	
+2-11	85-86	,	_	_	
+2-12	87-100	Market-street	*	STREET	
+2-13	100-101	,	_	_	
+2-14	102-105	and	_	_	
+2-15	106-108	No	_	_	
+2-16	108-109	.	_	_	
+2-17	110-111	6	_	_	
+2-18	111-112	,	_	_	
+2-19	113-115	St	*[3]	STREET[3]	
+2-20	115-116	.	*[3]	STREET[3]	
+
+#Text=Mary’s-street.
+3-1	117-121	Mary	*[3]	STREET[3]	
+3-2	121-122	’	*[3]	STREET[3]	
+3-3	122-130	s-street	*[3]	STREET[3]	
+3-4	130-131	.	_	_	
+
+#Text=J.
+4-1	132-133	J	_	_	
+4-2	133-134	.	_	_	
+
+#Text=N. in returning thanks to his numerous friends and the public for the kind support which they have favoured him with for so many years, begs to inform them that he has TAKEN THE ABOVE HOTEL, and hopes that he will still merit a continuance of that support.
+5-1	135-136	N	_	_	
+5-2	136-137	.	_	_	
+5-3	138-140	in	_	_	
+5-4	141-150	returning	_	_	
+5-5	151-157	thanks	_	_	
+5-6	158-160	to	_	_	
+5-7	161-164	his	_	_	
+5-8	165-173	numerous	_	_	
+5-9	174-181	friends	_	_	
+5-10	182-185	and	_	_	
+5-11	186-189	the	_	_	
+5-12	190-196	public	_	_	
+5-13	197-200	for	_	_	
+5-14	201-204	the	_	_	
+5-15	205-209	kind	_	_	
+5-16	210-217	support	_	_	
+5-17	218-223	which	_	_	
+5-18	224-228	they	_	_	
+5-19	229-233	have	_	_	
+5-20	234-242	favoured	_	_	
+5-21	243-246	him	_	_	
+5-22	247-251	with	_	_	
+5-23	252-255	for	_	_	
+5-24	256-258	so	_	_	
+5-25	259-263	many	_	_	
+5-26	264-269	years	_	_	
+5-27	269-270	,	_	_	
+5-28	271-275	begs	_	_	
+5-29	276-278	to	_	_	
+5-30	279-285	inform	_	_	
+5-31	286-290	them	_	_	
+5-32	291-295	that	_	_	
+5-33	296-298	he	_	_	
+5-34	299-302	has	_	_	
+5-35	303-308	TAKEN	_	_	
+5-36	309-312	THE	_	_	
+5-37	313-318	ABOVE	_	_	
+5-38	319-324	HOTEL	_	_	
+5-39	324-325	,	_	_	
+5-40	326-329	and	_	_	
+5-41	330-335	hopes	_	_	
+5-42	336-340	that	_	_	
+5-43	341-343	he	_	_	
+5-44	344-348	will	_	_	
+5-45	349-354	still	_	_	
+5-46	355-360	merit	_	_	
+5-47	361-362	a	_	_	
+5-48	363-374	continuance	_	_	
+5-49	375-377	of	_	_	
+5-50	378-382	that	_	_	
+5-51	383-390	support	_	_	
+5-52	390-391	.	_	_	
+
+#Text=Good accommodation for commercial travellers.
+6-1	392-396	Good	_	_	
+6-2	397-410	accommodation	_	_	
+6-3	411-414	for	_	_	
+6-4	415-425	commercial	_	_	
+6-5	426-436	travellers	_	_	
+6-6	436-437	.	_	_	
+
+#Text=Stabling ; horses Ist out for hire 
+#Text=GUTTA PERCHA BOTTOMED BOOTS AND SHOES 
+#Text=having been extensively and satisfactorily tested for upwards of 18 years, R.
+7-1	438-446	Stabling	_	_	
+7-2	447-448	;	_	_	
+7-3	449-455	horses	_	_	
+7-4	456-459	Ist	_	_	
+7-5	460-463	out	_	_	
+7-6	464-467	for	_	_	
+7-7	468-472	hire	_	_	
+7-8	474-479	GUTTA	_	_	
+7-9	480-486	PERCHA	_	_	
+7-10	487-495	BOTTOMED	_	_	
+7-11	496-501	BOOTS	_	_	
+7-12	502-505	AND	_	_	
+7-13	506-511	SHOES	_	_	
+7-14	513-519	having	_	_	
+7-15	520-524	been	_	_	
+7-16	525-536	extensively	_	_	
+7-17	537-540	and	_	_	
+7-18	541-555	satisfactorily	_	_	
+7-19	556-562	tested	_	_	
+7-20	563-566	for	_	_	
+7-21	567-574	upwards	_	_	
+7-22	575-577	of	_	_	
+7-23	578-580	18	_	_	
+7-24	581-586	years	_	_	
+7-25	586-587	,	_	_	
+7-26	588-589	R	_	_	
+7-27	589-590	.	_	_	
+
+#Text=FAIRLIE can confidently recoin mend them to the public.
+8-1	591-598	FAIRLIE	_	_	
+8-2	599-602	can	_	_	
+8-3	603-614	confidently	_	_	
+8-4	615-621	recoin	_	_	
+8-5	622-626	mend	_	_	
+8-6	627-631	them	_	_	
+8-7	632-634	to	_	_	
+8-8	635-638	the	_	_	
+8-9	639-645	public	_	_	
+8-10	645-646	.	_	_	
+
+#Text=They keep the Feet Dry an Warm, and are much easier 
+#Text=SOLED AND HEELED and at a Great Deal Less Cost than Leather Soled Boots and Shoes.
+9-1	647-651	They	_	_	
+9-2	652-656	keep	_	_	
+9-3	657-660	the	_	_	
+9-4	661-665	Feet	_	_	
+9-5	666-669	Dry	_	_	
+9-6	670-672	an	_	_	
+9-7	673-677	Warm	_	_	
+9-8	677-678	,	_	_	
+9-9	679-682	and	_	_	
+9-10	683-686	are	_	_	
+9-11	687-691	much	_	_	
+9-12	692-698	easier	_	_	
+9-13	700-705	SOLED	_	_	
+9-14	706-709	AND	_	_	
+9-15	710-716	HEELED	_	_	
+9-16	717-720	and	_	_	
+9-17	721-723	at	_	_	
+9-18	724-725	a	_	_	
+9-19	726-731	Great	_	_	
+9-20	732-736	Deal	_	_	
+9-21	737-741	Less	_	_	
+9-22	742-746	Cost	_	_	
+9-23	747-751	than	_	_	
+9-24	752-759	Leather	_	_	
+9-25	760-765	Soled	_	_	
+9-26	766-771	Boots	_	_	
+9-27	772-775	and	_	_	
+9-28	776-781	Shoes	_	_	
+9-29	781-782	.	_	_	
+
+#Text=They give entire satisfaction to all who try them.
+10-1	783-787	They	_	_	
+10-2	788-792	give	_	_	
+10-3	793-799	entire	_	_	
+10-4	800-812	satisfaction	_	_	
+10-5	813-815	to	_	_	
+10-6	816-819	all	_	_	
+10-7	820-823	who	_	_	
+10-8	824-827	try	_	_	
+10-9	828-832	them	_	_	
+10-10	832-833	.	_	_	
+
+#Text=The consumption having risen to the enormous number of 20,000 pairs weekly is a proof that they are unrivalled, 
+#Text=FOR NOTHING in the Leather line is equal to them for comfort, cheapness, and durability.
+11-1	834-837	The	_	_	
+11-2	838-849	consumption	_	_	
+11-3	850-856	having	_	_	
+11-4	857-862	risen	_	_	
+11-5	863-865	to	_	_	
+11-6	866-869	the	_	_	
+11-7	870-878	enormous	_	_	
+11-8	879-885	number	_	_	
+11-9	886-888	of	_	_	
+11-10	889-895	20,000	_	_	
+11-11	896-901	pairs	_	_	
+11-12	902-908	weekly	_	_	
+11-13	909-911	is	_	_	
+11-14	912-913	a	_	_	
+11-15	914-919	proof	_	_	
+11-16	920-924	that	_	_	
+11-17	925-929	they	_	_	
+11-18	930-933	are	_	_	
+11-19	934-944	unrivalled	_	_	
+11-20	944-945	,	_	_	
+11-21	947-950	FOR	_	_	
+11-22	951-958	NOTHING	_	_	
+11-23	959-961	in	_	_	
+11-24	962-965	the	_	_	
+11-25	966-973	Leather	_	_	
+11-26	974-978	line	_	_	
+11-27	979-981	is	_	_	
+11-28	982-987	equal	_	_	
+11-29	988-990	to	_	_	
+11-30	991-995	them	_	_	
+11-31	996-999	for	_	_	
+11-32	1000-1007	comfort	_	_	
+11-33	1007-1008	,	_	_	
+11-34	1009-1018	cheapness	_	_	
+11-35	1018-1019	,	_	_	
+11-36	1020-1023	and	_	_	
+11-37	1024-1034	durability	_	_	
+11-38	1034-1035	.	_	_	
+
+#Text=LIST OF PRICES.
+12-1	1037-1041	LIST	_	_	
+12-2	1042-1044	OF	_	_	
+12-3	1045-1051	PRICES	_	_	
+12-4	1051-1052	.	_	_	

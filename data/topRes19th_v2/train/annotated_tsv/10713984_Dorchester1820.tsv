@@ -1,0 +1,242 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Most Heritable RESIDENCE in BLANDFORD, 
+#Text=with tix Acre* of LAND adjoining.
+1-1	0-4	Most	_	_	
+1-2	5-14	Heritable	_	_	
+1-3	15-24	RESIDENCE	_	_	
+1-4	25-27	in	_	_	
+1-5	28-37	BLANDFORD	https://en.wikipedia.org/wiki/Blandford\_Forum	LOC	
+1-6	37-38	,	_	_	
+1-7	40-44	with	_	_	
+1-8	45-48	tix	_	_	
+1-9	49-53	Acre	_	_	
+1-10	53-54	*	_	_	
+1-11	55-57	of	_	_	
+1-12	58-62	LAND	_	_	
+1-13	63-72	adjoining	_	_	
+1-14	72-73	.	_	_	
+
+#Text=To be SOLD by PRIVATE CONTRACT.
+2-1	74-76	To	_	_	
+2-2	77-79	be	_	_	
+2-3	80-84	SOLD	_	_	
+2-4	85-87	by	_	_	
+2-5	88-95	PRIVATE	_	_	
+2-6	96-104	CONTRACT	_	_	
+2-7	104-105	.	_	_	
+
+#Text=THE FEE-SIMPLE and INHERITANCE of all that Capital and Substantial MANSION-HOUSK. with the Walled Garden, Coach-houses, excellent tii-stalled Stable, and a Close of MEADOW or PASTURE LAND in front of the Mansion containing upwards of two acres, most desirably situated in the Close of Blandfoid Forum, detached from all other buildings ; now and for many years last past in the occupation of Mrs.
+3-1	106-109	THE	_	_	
+3-2	110-120	FEE-SIMPLE	_	_	
+3-3	121-124	and	_	_	
+3-4	125-136	INHERITANCE	_	_	
+3-5	137-139	of	_	_	
+3-6	140-143	all	_	_	
+3-7	144-148	that	_	_	
+3-8	149-156	Capital	_	_	
+3-9	157-160	and	_	_	
+3-10	161-172	Substantial	_	_	
+3-11	173-186	MANSION-HOUSK	_	_	
+3-12	186-187	.	_	_	
+3-13	188-192	with	_	_	
+3-14	193-196	the	_	_	
+3-15	197-203	Walled	_	_	
+3-16	204-210	Garden	_	_	
+3-17	210-211	,	_	_	
+3-18	212-224	Coach-houses	_	_	
+3-19	224-225	,	_	_	
+3-20	226-235	excellent	_	_	
+3-21	236-247	tii-stalled	_	_	
+3-22	248-254	Stable	_	_	
+3-23	254-255	,	_	_	
+3-24	256-259	and	_	_	
+3-25	260-261	a	_	_	
+3-26	262-267	Close	_	_	
+3-27	268-270	of	_	_	
+3-28	271-277	MEADOW	_	_	
+3-29	278-280	or	_	_	
+3-30	281-288	PASTURE	_	_	
+3-31	289-293	LAND	_	_	
+3-32	294-296	in	_	_	
+3-33	297-302	front	_	_	
+3-34	303-305	of	_	_	
+3-35	306-309	the	_	_	
+3-36	310-317	Mansion	_	_	
+3-37	318-328	containing	_	_	
+3-38	329-336	upwards	_	_	
+3-39	337-339	of	_	_	
+3-40	340-343	two	_	_	
+3-41	344-349	acres	_	_	
+3-42	349-350	,	_	_	
+3-43	351-355	most	_	_	
+3-44	356-365	desirably	_	_	
+3-45	366-374	situated	_	_	
+3-46	375-377	in	_	_	
+3-47	378-381	the	_	_	
+3-48	382-387	Close	_	_	
+3-49	388-390	of	_	_	
+3-50	391-400	Blandfoid	https://en.wikipedia.org/wiki/Blandford\_Forum[1]	LOC[1]	
+3-51	401-406	Forum	https://en.wikipedia.org/wiki/Blandford\_Forum[1]	LOC[1]	
+3-52	406-407	,	_	_	
+3-53	408-416	detached	_	_	
+3-54	417-421	from	_	_	
+3-55	422-425	all	_	_	
+3-56	426-431	other	_	_	
+3-57	432-441	buildings	_	_	
+3-58	442-443	;	_	_	
+3-59	444-447	now	_	_	
+3-60	448-451	and	_	_	
+3-61	452-455	for	_	_	
+3-62	456-460	many	_	_	
+3-63	461-466	years	_	_	
+3-64	467-471	last	_	_	
+3-65	472-476	past	_	_	
+3-66	477-479	in	_	_	
+3-67	480-483	the	_	_	
+3-68	484-494	occupation	_	_	
+3-69	495-497	of	_	_	
+3-70	498-501	Mrs	_	_	
+3-71	501-502	.	_	_	
+
+#Text=Pleydell, as tenant, and well adapted for a family of respectability, together with THREE COTTAGES adjoining the Stable.
+4-1	503-511	Pleydell	_	_	
+4-2	511-512	,	_	_	
+4-3	513-515	as	_	_	
+4-4	516-522	tenant	_	_	
+4-5	522-523	,	_	_	
+4-6	524-527	and	_	_	
+4-7	528-532	well	_	_	
+4-8	533-540	adapted	_	_	
+4-9	541-544	for	_	_	
+4-10	545-546	a	_	_	
+4-11	547-553	family	_	_	
+4-12	554-556	of	_	_	
+4-13	557-571	respectability	_	_	
+4-14	571-572	,	_	_	
+4-15	573-581	together	_	_	
+4-16	582-586	with	_	_	
+4-17	587-592	THREE	_	_	
+4-18	593-601	COTTAGES	_	_	
+4-19	602-611	adjoining	_	_	
+4-20	612-615	the	_	_	
+4-21	616-622	Stable	_	_	
+4-22	622-623	.	_	_	
+
+#Text=Also, a Close of valuable and excellent MEADOW or PASTURE, adjoining the above, containing about four Acres, now m the occupation of Mr.
+5-1	624-628	Also	_	_	
+5-2	628-629	,	_	_	
+5-3	630-631	a	_	_	
+5-4	632-637	Close	_	_	
+5-5	638-640	of	_	_	
+5-6	641-649	valuable	_	_	
+5-7	650-653	and	_	_	
+5-8	654-663	excellent	_	_	
+5-9	664-670	MEADOW	_	_	
+5-10	671-673	or	_	_	
+5-11	674-681	PASTURE	_	_	
+5-12	681-682	,	_	_	
+5-13	683-692	adjoining	_	_	
+5-14	693-696	the	_	_	
+5-15	697-702	above	_	_	
+5-16	702-703	,	_	_	
+5-17	704-714	containing	_	_	
+5-18	715-720	about	_	_	
+5-19	721-725	four	_	_	
+5-20	726-731	Acres	_	_	
+5-21	731-732	,	_	_	
+5-22	733-736	now	_	_	
+5-23	737-738	m	_	_	
+5-24	739-742	the	_	_	
+5-25	743-753	occupation	_	_	
+5-26	754-756	of	_	_	
+5-27	757-759	Mr	_	_	
+5-28	759-760	.	_	_	
+
+#Text=Smith, with an extensive line of frontage in Salisbury-street, well adapted for building.
+6-1	761-766	Smith	_	_	
+6-2	766-767	,	_	_	
+6-3	768-772	with	_	_	
+6-4	773-775	an	_	_	
+6-5	776-785	extensive	_	_	
+6-6	786-790	line	_	_	
+6-7	791-793	of	_	_	
+6-8	794-802	frontage	_	_	
+6-9	803-805	in	_	_	
+6-10	806-822	Salisbury-street	*	STREET	
+6-11	822-823	,	_	_	
+6-12	824-828	well	_	_	
+6-13	829-836	adapted	_	_	
+6-14	837-840	for	_	_	
+6-15	841-849	building	_	_	
+6-16	849-850	.	_	_	
+
+#Text=The above may be purchased separately or together.
+7-1	851-854	The	_	_	
+7-2	855-860	above	_	_	
+7-3	861-864	may	_	_	
+7-4	865-867	be	_	_	
+7-5	868-877	purchased	_	_	
+7-6	878-888	separately	_	_	
+7-7	889-891	or	_	_	
+7-8	892-900	together	_	_	
+7-9	900-901	.	_	_	
+
+#Text=The land-tax on the whole is redeemed
+8-1	902-905	The	_	_	
+8-2	906-914	land-tax	_	_	
+8-3	915-917	on	_	_	
+8-4	918-921	the	_	_	
+8-5	922-927	whole	_	_	
+8-6	928-930	is	_	_	
+8-7	931-939	redeemed	_	_	
+
+#Text=.
+9-1	939-940	.	_	_	
+
+#Text=£?
+10-1	942-943	£	_	_	
+10-2	943-944	?	_	_	
+
+#Text=■ For a view of the Premises, and to treat for the purchase, apply at the office of Mr.
+11-1	944-945	■	_	_	
+11-2	946-949	For	_	_	
+11-3	950-951	a	_	_	
+11-4	952-956	view	_	_	
+11-5	957-959	of	_	_	
+11-6	960-963	the	_	_	
+11-7	964-972	Premises	_	_	
+11-8	972-973	,	_	_	
+11-9	974-977	and	_	_	
+11-10	978-980	to	_	_	
+11-11	981-986	treat	_	_	
+11-12	987-990	for	_	_	
+11-13	991-994	the	_	_	
+11-14	995-1003	purchase	_	_	
+11-15	1003-1004	,	_	_	
+11-16	1005-1010	apply	_	_	
+11-17	1011-1013	at	_	_	
+11-18	1014-1017	the	_	_	
+11-19	1018-1024	office	_	_	
+11-20	1025-1027	of	_	_	
+11-21	1028-1030	Mr	_	_	
+11-22	1030-1031	.	_	_	
+
+#Text=JOHNS, Solicitor, Blandford.
+12-1	1032-1037	JOHNS	_	_	
+12-2	1037-1038	,	_	_	
+12-3	1039-1048	Solicitor	_	_	
+12-4	1048-1049	,	_	_	
+12-5	1050-1059	Blandford	https://en.wikipedia.org/wiki/Blandford\_Forum	LOC	
+12-6	1059-1060	.	_	_	
+
+#Text=Letters to be free of postage.
+13-1	1061-1068	Letters	_	_	
+13-2	1069-1071	to	_	_	
+13-3	1072-1074	be	_	_	
+13-4	1075-1079	free	_	_	
+13-5	1080-1082	of	_	_	
+13-6	1083-1090	postage	_	_	
+13-7	1090-1091	.	_	_	

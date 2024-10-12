@@ -1,0 +1,610 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ROYAL HOTEL ASSEMBLY ROOMS, WHY MOUTH.
+1-1	0-5	ROYAL	https://en.wikipedia.org/wiki/Royal\_Hotel,\_Weymouth[1]	BUILDING[1]	
+1-2	6-11	HOTEL	https://en.wikipedia.org/wiki/Royal\_Hotel,\_Weymouth[1]	BUILDING[1]	
+1-3	12-20	ASSEMBLY	https://en.wikipedia.org/wiki/Royal\_Hotel,\_Weymouth[1]	BUILDING[1]	
+1-4	21-26	ROOMS	https://en.wikipedia.org/wiki/Royal\_Hotel,\_Weymouth[1]	BUILDING[1]	
+1-5	26-27	,	_	_	
+1-6	28-31	WHY	https://en.wikipedia.org/wiki/Weymouth,\_Dorset[2]	LOC[2]	
+1-7	32-37	MOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset[2]	LOC[2]	
+1-8	37-38	.	_	_	
+
+#Text=(Under distinguished Patronage.)
+2-1	39-40	(	_	_	
+2-2	40-45	Under	_	_	
+2-3	46-59	distinguished	_	_	
+2-4	60-69	Patronage	_	_	
+2-5	69-70	.	_	_	
+2-6	70-71	)	_	_	
+
+#Text=R.
+3-1	72-73	R	_	_	
+3-2	73-74	.	_	_	
+
+#Text=BLAGROVK has the honour to announce lv J that he will give a MORNING CONCERT,.at the above Rooms, on SATURDAY, August 4th, at Eight o’clock, for which occasion he has succeeded in securing the valuable Services of the celebrated Vocalist Mrs.
+4-1	75-83	BLAGROVK	_	_	
+4-2	84-87	has	_	_	
+4-3	88-91	the	_	_	
+4-4	92-98	honour	_	_	
+4-5	99-101	to	_	_	
+4-6	102-110	announce	_	_	
+4-7	111-113	lv	_	_	
+4-8	114-115	J	_	_	
+4-9	116-120	that	_	_	
+4-10	121-123	he	_	_	
+4-11	124-128	will	_	_	
+4-12	129-133	give	_	_	
+4-13	134-135	a	_	_	
+4-14	136-143	MORNING	_	_	
+4-15	144-151	CONCERT	_	_	
+4-16	151-152	,	_	_	
+4-17	152-153	.	_	_	
+4-18	153-155	at	_	_	
+4-19	156-159	the	_	_	
+4-20	160-165	above	_	_	
+4-21	166-171	Rooms	_	_	
+4-22	171-172	,	_	_	
+4-23	173-175	on	_	_	
+4-24	176-184	SATURDAY	_	_	
+4-25	184-185	,	_	_	
+4-26	186-192	August	_	_	
+4-27	193-196	4th	_	_	
+4-28	196-197	,	_	_	
+4-29	198-200	at	_	_	
+4-30	201-206	Eight	_	_	
+4-31	207-208	o	_	_	
+4-32	208-209	’	_	_	
+4-33	209-214	clock	_	_	
+4-34	214-215	,	_	_	
+4-35	216-219	for	_	_	
+4-36	220-225	which	_	_	
+4-37	226-234	occasion	_	_	
+4-38	235-237	he	_	_	
+4-39	238-241	has	_	_	
+4-40	242-251	succeeded	_	_	
+4-41	252-254	in	_	_	
+4-42	255-263	securing	_	_	
+4-43	264-267	the	_	_	
+4-44	268-276	valuable	_	_	
+4-45	277-285	Services	_	_	
+4-46	286-288	of	_	_	
+4-47	289-292	the	_	_	
+4-48	293-303	celebrated	_	_	
+4-49	304-312	Vocalist	_	_	
+4-50	313-316	Mrs	_	_	
+4-51	316-317	.	_	_	
+
+#Text=ALFRED SHAW, whose excellence of style and powers of voice are acknowledged to be unrivalled ; and the extraordinary Singer MONSIEUR STARK, just arrived from Paris, where he has created so great a sensation by his performance of Duetts for Soprano and Bass, he being possessed of Tico distinct Voices.
+5-1	318-324	ALFRED	_	_	
+5-2	325-329	SHAW	_	_	
+5-3	329-330	,	_	_	
+5-4	331-336	whose	_	_	
+5-5	337-347	excellence	_	_	
+5-6	348-350	of	_	_	
+5-7	351-356	style	_	_	
+5-8	357-360	and	_	_	
+5-9	361-367	powers	_	_	
+5-10	368-370	of	_	_	
+5-11	371-376	voice	_	_	
+5-12	377-380	are	_	_	
+5-13	381-393	acknowledged	_	_	
+5-14	394-396	to	_	_	
+5-15	397-399	be	_	_	
+5-16	400-410	unrivalled	_	_	
+5-17	411-412	;	_	_	
+5-18	413-416	and	_	_	
+5-19	417-420	the	_	_	
+5-20	421-434	extraordinary	_	_	
+5-21	435-441	Singer	_	_	
+5-22	442-450	MONSIEUR	_	_	
+5-23	451-456	STARK	_	_	
+5-24	456-457	,	_	_	
+5-25	458-462	just	_	_	
+5-26	463-470	arrived	_	_	
+5-27	471-475	from	_	_	
+5-28	476-481	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+5-29	481-482	,	_	_	
+5-30	483-488	where	_	_	
+5-31	489-491	he	_	_	
+5-32	492-495	has	_	_	
+5-33	496-503	created	_	_	
+5-34	504-506	so	_	_	
+5-35	507-512	great	_	_	
+5-36	513-514	a	_	_	
+5-37	515-524	sensation	_	_	
+5-38	525-527	by	_	_	
+5-39	528-531	his	_	_	
+5-40	532-543	performance	_	_	
+5-41	544-546	of	_	_	
+5-42	547-553	Duetts	_	_	
+5-43	554-557	for	_	_	
+5-44	558-565	Soprano	_	_	
+5-45	566-569	and	_	_	
+5-46	570-574	Bass	_	_	
+5-47	574-575	,	_	_	
+5-48	576-578	he	_	_	
+5-49	579-584	being	_	_	
+5-50	585-594	possessed	_	_	
+5-51	595-597	of	_	_	
+5-52	598-602	Tico	_	_	
+5-53	603-611	distinct	_	_	
+5-54	612-618	Voices	_	_	
+5-55	618-619	.	_	_	
+
+#Text=In the Instrumental Department 
+#Text=SIGNOR GIULIO REGONDI will perform on the much admired New Patent Concertina, also on the Guitar. ftlr.
+6-1	620-622	In	_	_	
+6-2	623-626	the	_	_	
+6-3	627-639	Instrumental	_	_	
+6-4	640-650	Department	_	_	
+6-5	652-658	SIGNOR	_	_	
+6-6	659-665	GIULIO	_	_	
+6-7	666-673	REGONDI	_	_	
+6-8	674-678	will	_	_	
+6-9	679-686	perform	_	_	
+6-10	687-689	on	_	_	
+6-11	690-693	the	_	_	
+6-12	694-698	much	_	_	
+6-13	699-706	admired	_	_	
+6-14	707-710	New	_	_	
+6-15	711-717	Patent	_	_	
+6-16	718-728	Concertina	_	_	
+6-17	728-729	,	_	_	
+6-18	730-734	also	_	_	
+6-19	735-737	on	_	_	
+6-20	738-741	the	_	_	
+6-21	742-748	Guitar	_	_	
+6-22	748-749	.	_	_	
+6-23	750-754	ftlr	_	_	
+6-24	754-755	.	_	_	
+
+#Text=BLAGKOVE will perform some of his most favourite Pieces on the Violin, and Mr.
+7-1	756-764	BLAGKOVE	_	_	
+7-2	765-769	will	_	_	
+7-3	770-777	perform	_	_	
+7-4	778-782	some	_	_	
+7-5	783-785	of	_	_	
+7-6	786-789	his	_	_	
+7-7	790-794	most	_	_	
+7-8	795-804	favourite	_	_	
+7-9	805-811	Pieces	_	_	
+7-10	812-814	on	_	_	
+7-11	815-818	the	_	_	
+7-12	819-825	Violin	_	_	
+7-13	825-826	,	_	_	
+7-14	827-830	and	_	_	
+7-15	831-833	Mr	_	_	
+7-16	833-834	.	_	_	
+
+#Text=C.
+8-1	835-836	C	_	_	
+8-2	836-837	.	_	_	
+
+#Text=BLAGKOVE wi.l preside at the Pianoforte.
+9-1	838-846	BLAGKOVE	_	_	
+9-2	847-851	wi.l	_	_	
+9-3	852-859	preside	_	_	
+9-4	860-862	at	_	_	
+9-5	863-866	the	_	_	
+9-6	867-877	Pianoforte	_	_	
+9-7	877-878	.	_	_	
+
+#Text=(t> Mr.
+10-1	879-880	(	_	_	
+10-2	880-881	t	_	_	
+10-3	881-882	>	_	_	
+10-4	883-885	Mr	_	_	
+10-5	885-886	.	_	_	
+
+#Text=BLAG ROVE begs also to announce that he will give CONCERTS at the following Places:— SALISBURY.
+11-1	887-891	BLAG	_	_	
+11-2	892-896	ROVE	_	_	
+11-3	897-901	begs	_	_	
+11-4	902-906	also	_	_	
+11-5	907-909	to	_	_	
+11-6	910-918	announce	_	_	
+11-7	919-923	that	_	_	
+11-8	924-926	he	_	_	
+11-9	927-931	will	_	_	
+11-10	932-936	give	_	_	
+11-11	937-945	CONCERTS	_	_	
+11-12	946-948	at	_	_	
+11-13	949-952	the	_	_	
+11-14	953-962	following	_	_	
+11-15	963-969	Places	_	_	
+11-16	969-970	:	_	_	
+11-17	970-971	—	_	_	
+11-18	972-981	SALISBURY	https://en.wikipedia.org/wiki/Salisbury	LOC	
+11-19	981-982	.	_	_	
+
+#Text=Wednesday Morning, August Ist.
+12-1	983-992	Wednesday	_	_	
+12-2	993-1000	Morning	_	_	
+12-3	1000-1001	,	_	_	
+12-4	1002-1008	August	_	_	
+12-5	1009-1012	Ist	_	_	
+12-6	1012-1013	.	_	_	
+
+#Text=LYMINGTON, Thursday Morning, August 2nd.
+13-1	1014-1023	LYMINGTON	https://en.wikipedia.org/wiki/Lymington	LOC	
+13-2	1023-1024	,	_	_	
+13-3	1025-1033	Thursday	_	_	
+13-4	1034-1041	Morning	_	_	
+13-5	1041-1042	,	_	_	
+13-6	1043-1049	August	_	_	
+13-7	1050-1053	2nd	_	_	
+13-8	1053-1054	.	_	_	
+
+#Text=BOURNEMOUTH, Friday Morning, August 3rdLYME, Monday Morning, August 6th.
+14-1	1055-1066	BOURNEMOUTH	https://en.wikipedia.org/wiki/Bournemouth	LOC	
+14-2	1066-1067	,	_	_	
+14-3	1068-1074	Friday	_	_	
+14-4	1075-1082	Morning	_	_	
+14-5	1082-1083	,	_	_	
+14-6	1084-1090	August	_	_	
+14-7	1091-1098	3rdLYME	_	_	
+14-7.1	1094-1098	LYME	https://en.wikipedia.org/wiki/Lyme\_Regis	LOC	
+14-8	1098-1099	,	_	_	
+14-9	1100-1106	Monday	_	_	
+14-10	1107-1114	Morning	_	_	
+14-11	1114-1115	,	_	_	
+14-12	1116-1122	August	_	_	
+14-13	1123-1126	6th	_	_	
+14-14	1126-1127	.	_	_	
+
+#Text=Grammar School, Crew kerne, Somerset, (Founded A.
+15-1	1129-1136	Grammar	_	_	
+15-2	1137-1143	School	_	_	
+15-3	1143-1144	,	_	_	
+15-4	1145-1149	Crew	https://en.wikipedia.org/wiki/Crewkerne[3]	LOC[3]	
+15-5	1150-1155	kerne	https://en.wikipedia.org/wiki/Crewkerne[3]	LOC[3]	
+15-6	1155-1156	,	_	_	
+15-7	1157-1165	Somerset	https://en.wikipedia.org/wiki/Somerset	LOC	
+15-8	1165-1166	,	_	_	
+15-9	1167-1168	(	_	_	
+15-10	1168-1175	Founded	_	_	
+15-11	1176-1177	A	_	_	
+15-12	1177-1178	.	_	_	
+
+#Text=D. 1489).
+16-1	1179-1180	D	_	_	
+16-2	1180-1181	.	_	_	
+16-3	1182-1186	1489	_	_	
+16-4	1186-1187	)	_	_	
+16-5	1187-1188	.	_	_	
+
+#Text=THK REV.
+17-1	1189-1192	THK	_	_	
+17-2	1193-1196	REV	_	_	
+17-3	1196-1197	.	_	_	
+
+#Text=CHARLES PENNY, M.
+18-1	1198-1205	CHARLES	_	_	
+18-2	1206-1211	PENNY	_	_	
+18-3	1211-1212	,	_	_	
+18-4	1213-1214	M	_	_	
+18-5	1214-1215	.	_	_	
+
+#Text=A., begs leave respectfully to inform the Public, that the duties of this SCHOOL, of which he has had the honour of being appointed HEAD 31 ASTER, will be resumed on Monday, the 30th July instant.
+19-1	1216-1217	A	_	_	
+19-2	1217-1218	.	_	_	
+19-3	1218-1219	,	_	_	
+19-4	1220-1224	begs	_	_	
+19-5	1225-1230	leave	_	_	
+19-6	1231-1243	respectfully	_	_	
+19-7	1244-1246	to	_	_	
+19-8	1247-1253	inform	_	_	
+19-9	1254-1257	the	_	_	
+19-10	1258-1264	Public	_	_	
+19-11	1264-1265	,	_	_	
+19-12	1266-1270	that	_	_	
+19-13	1271-1274	the	_	_	
+19-14	1275-1281	duties	_	_	
+19-15	1282-1284	of	_	_	
+19-16	1285-1289	this	_	_	
+19-17	1290-1296	SCHOOL	_	_	
+19-18	1296-1297	,	_	_	
+19-19	1298-1300	of	_	_	
+19-20	1301-1306	which	_	_	
+19-21	1307-1309	he	_	_	
+19-22	1310-1313	has	_	_	
+19-23	1314-1317	had	_	_	
+19-24	1318-1321	the	_	_	
+19-25	1322-1328	honour	_	_	
+19-26	1329-1331	of	_	_	
+19-27	1332-1337	being	_	_	
+19-28	1338-1347	appointed	_	_	
+19-29	1348-1352	HEAD	_	_	
+19-30	1353-1355	31	_	_	
+19-31	1356-1361	ASTER	_	_	
+19-32	1361-1362	,	_	_	
+19-33	1363-1367	will	_	_	
+19-34	1368-1370	be	_	_	
+19-35	1371-1378	resumed	_	_	
+19-36	1379-1381	on	_	_	
+19-37	1382-1388	Monday	_	_	
+19-38	1388-1389	,	_	_	
+19-39	1390-1393	the	_	_	
+19-40	1394-1398	30th	_	_	
+19-41	1399-1403	July	_	_	
+19-42	1404-1411	instant	_	_	
+19-43	1411-1412	.	_	_	
+
+#Text=TDRMS, for Board and Instruction in the Classics and Mathematics.
+20-1	1413-1418	TDRMS	_	_	
+20-2	1418-1419	,	_	_	
+20-3	1420-1423	for	_	_	
+20-4	1424-1429	Board	_	_	
+20-5	1430-1433	and	_	_	
+20-6	1434-1445	Instruction	_	_	
+20-7	1446-1448	in	_	_	
+20-8	1449-1452	the	_	_	
+20-9	1453-1461	Classics	_	_	
+20-10	1462-1465	and	_	_	
+20-11	1466-1477	Mathematics	_	_	
+20-12	1477-1478	.	_	_	
+
+#Text=Writing Arithmetic, &c., FORTY GUINEAS PEKI»ANNUM.
+21-1	1479-1486	Writing	_	_	
+21-2	1487-1497	Arithmetic	_	_	
+21-3	1497-1498	,	_	_	
+21-4	1499-1500	&	_	_	
+21-5	1500-1501	c	_	_	
+21-6	1501-1502	.	_	_	
+21-7	1502-1503	,	_	_	
+21-8	1504-1509	FORTY	_	_	
+21-9	1510-1517	GUINEAS	_	_	
+21-10	1518-1522	PEKI	_	_	
+21-11	1522-1523	»	_	_	
+21-12	1523-1528	ANNUM	_	_	
+21-13	1528-1529	.	_	_	
+
+#Text=Washing and a separate Bed for each Pupil are included.
+22-1	1530-1537	Washing	_	_	
+22-2	1538-1541	and	_	_	
+22-3	1542-1543	a	_	_	
+22-4	1544-1552	separate	_	_	
+22-5	1553-1556	Bed	_	_	
+22-6	1557-1560	for	_	_	
+22-7	1561-1565	each	_	_	
+22-8	1566-1571	Pupil	_	_	
+22-9	1572-1575	are	_	_	
+22-10	1576-1584	included	_	_	
+22-11	1584-1585	.	_	_	
+
+#Text=No Entrance, Annual Fees, or &A- extras.
+23-1	1586-1588	No	_	_	
+23-2	1589-1597	Entrance	_	_	
+23-3	1597-1598	,	_	_	
+23-4	1599-1605	Annual	_	_	
+23-5	1606-1610	Fees	_	_	
+23-6	1610-1611	,	_	_	
+23-7	1612-1614	or	_	_	
+23-8	1615-1616	&	_	_	
+23-9	1616-1617	A	_	_	
+23-10	1617-1618	-	_	_	
+23-11	1619-1625	extras	_	_	
+23-12	1625-1626	.	_	_	
+
+#Text=July 14, 1838.
+24-1	1627-1631	July	_	_	
+24-2	1632-1634	14	_	_	
+24-3	1634-1635	,	_	_	
+24-4	1636-1640	1838	_	_	
+24-5	1640-1641	.	_	_	
+
+#Text=MR.
+25-1	1643-1645	MR	_	_	
+25-2	1645-1646	.	_	_	
+
+#Text=SMI 111, Professor of Dancimj and Mupfc respectfully announces that his ACADEMIES for DANCING. in WEYMOUTH, DORCHESTER, and the Neighbourhood, will open, and his usual routine of Teaching recommence on Monday, 30th instant and following days.
+26-1	1647-1650	SMI	_	_	
+26-2	1651-1654	111	_	_	
+26-3	1654-1655	,	_	_	
+26-4	1656-1665	Professor	_	_	
+26-5	1666-1668	of	_	_	
+26-6	1669-1676	Dancimj	_	_	
+26-7	1677-1680	and	_	_	
+26-8	1681-1686	Mupfc	_	_	
+26-9	1687-1699	respectfully	_	_	
+26-10	1700-1709	announces	_	_	
+26-11	1710-1714	that	_	_	
+26-12	1715-1718	his	_	_	
+26-13	1719-1728	ACADEMIES	_	_	
+26-14	1729-1732	for	_	_	
+26-15	1733-1740	DANCING	_	_	
+26-16	1740-1741	.	_	_	
+26-17	1742-1744	in	_	_	
+26-18	1745-1753	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+26-19	1753-1754	,	_	_	
+26-20	1755-1765	DORCHESTER	https://en.wikipedia.org/wiki/Dorchester,\_Dorset	LOC	
+26-21	1765-1766	,	_	_	
+26-22	1767-1770	and	_	_	
+26-23	1771-1774	the	_	_	
+26-24	1775-1788	Neighbourhood	_	_	
+26-25	1788-1789	,	_	_	
+26-26	1790-1794	will	_	_	
+26-27	1795-1799	open	_	_	
+26-28	1799-1800	,	_	_	
+26-29	1801-1804	and	_	_	
+26-30	1805-1808	his	_	_	
+26-31	1809-1814	usual	_	_	
+26-32	1815-1822	routine	_	_	
+26-33	1823-1825	of	_	_	
+26-34	1826-1834	Teaching	_	_	
+26-35	1835-1845	recommence	_	_	
+26-36	1846-1848	on	_	_	
+26-37	1849-1855	Monday	_	_	
+26-38	1855-1856	,	_	_	
+26-39	1857-1861	30th	_	_	
+26-40	1862-1869	instant	_	_	
+26-41	1870-1873	and	_	_	
+26-42	1874-1883	following	_	_	
+26-43	1884-1888	days	_	_	
+26-44	1888-1889	.	_	_	
+
+#Text=Mr.
+27-1	1890-1892	Mr	_	_	
+27-2	1892-1893	.	_	_	
+
+#Text=S. begs particularly to draw the a* tent ion of loose Parents who may not wish thrir ( hi dren to learn Dancing to his approved System of the Caluth ni - and Indian Szeptre Exercises.
+28-1	1894-1895	S	_	_	
+28-2	1895-1896	.	_	_	
+28-3	1897-1901	begs	_	_	
+28-4	1902-1914	particularly	_	_	
+28-5	1915-1917	to	_	_	
+28-6	1918-1922	draw	_	_	
+28-7	1923-1926	the	_	_	
+28-8	1927-1928	a	_	_	
+28-9	1928-1929	*	_	_	
+28-10	1930-1934	tent	_	_	
+28-11	1935-1938	ion	_	_	
+28-12	1939-1941	of	_	_	
+28-13	1942-1947	loose	_	_	
+28-14	1948-1955	Parents	_	_	
+28-15	1956-1959	who	_	_	
+28-16	1960-1963	may	_	_	
+28-17	1964-1967	not	_	_	
+28-18	1968-1972	wish	_	_	
+28-19	1973-1978	thrir	_	_	
+28-20	1979-1980	(	_	_	
+28-21	1981-1983	hi	_	_	
+28-22	1984-1988	dren	_	_	
+28-23	1989-1991	to	_	_	
+28-24	1992-1997	learn	_	_	
+28-25	1998-2005	Dancing	_	_	
+28-26	2006-2008	to	_	_	
+28-27	2009-2012	his	_	_	
+28-28	2013-2021	approved	_	_	
+28-29	2022-2028	System	_	_	
+28-30	2029-2031	of	_	_	
+28-31	2032-2035	the	_	_	
+28-32	2036-2042	Caluth	_	_	
+28-33	2043-2045	ni	_	_	
+28-34	2046-2047	-	_	_	
+28-35	2048-2051	and	_	_	
+28-36	2052-2058	Indian	_	_	
+28-37	2059-2066	Szeptre	_	_	
+28-38	2067-2076	Exercises	_	_	
+28-39	2076-2077	.	_	_	
+
+#Text=In the prevention of deformity th«se exercises, properly conducted, are afld by their influence on the general health, through the medium of the muscular system, have in numerous instances, tcherein obliquity ha* actually take.i place, alone sufficed to remedy the evil.
+29-1	2078-2080	In	_	_	
+29-2	2081-2084	the	_	_	
+29-3	2085-2095	prevention	_	_	
+29-4	2096-2098	of	_	_	
+29-5	2099-2108	deformity	_	_	
+29-6	2109-2111	th	_	_	
+29-7	2111-2112	«	_	_	
+29-8	2112-2114	se	_	_	
+29-9	2115-2124	exercises	_	_	
+29-10	2124-2125	,	_	_	
+29-11	2126-2134	properly	_	_	
+29-12	2135-2144	conducted	_	_	
+29-13	2144-2145	,	_	_	
+29-14	2146-2149	are	_	_	
+29-15	2150-2154	afld	_	_	
+29-16	2155-2157	by	_	_	
+29-17	2158-2163	their	_	_	
+29-18	2164-2173	influence	_	_	
+29-19	2174-2176	on	_	_	
+29-20	2177-2180	the	_	_	
+29-21	2181-2188	general	_	_	
+29-22	2189-2195	health	_	_	
+29-23	2195-2196	,	_	_	
+29-24	2197-2204	through	_	_	
+29-25	2205-2208	the	_	_	
+29-26	2209-2215	medium	_	_	
+29-27	2216-2218	of	_	_	
+29-28	2219-2222	the	_	_	
+29-29	2223-2231	muscular	_	_	
+29-30	2232-2238	system	_	_	
+29-31	2238-2239	,	_	_	
+29-32	2240-2244	have	_	_	
+29-33	2245-2247	in	_	_	
+29-34	2248-2256	numerous	_	_	
+29-35	2257-2266	instances	_	_	
+29-36	2266-2267	,	_	_	
+29-37	2268-2276	tcherein	_	_	
+29-38	2277-2286	obliquity	_	_	
+29-39	2287-2289	ha	_	_	
+29-40	2289-2290	*	_	_	
+29-41	2291-2299	actually	_	_	
+29-42	2300-2306	take.i	_	_	
+29-43	2307-2312	place	_	_	
+29-44	2312-2313	,	_	_	
+29-45	2314-2319	alone	_	_	
+29-46	2320-2328	sufficed	_	_	
+29-47	2329-2331	to	_	_	
+29-48	2332-2338	remedy	_	_	
+29-49	2339-2342	the	_	_	
+29-50	2343-2347	evil	_	_	
+29-51	2347-2348	.	_	_	
+
+#Text=Mr.
+30-1	2349-2351	Mr	_	_	
+30-2	2351-2352	.	_	_	
+
+#Text=Smith can wiih pleasure refer to several cases wherein these Exercises, under his direction, have had this desirable effect The next Quarter will commence October 10.
+31-1	2353-2358	Smith	_	_	
+31-2	2359-2362	can	_	_	
+31-3	2363-2367	wiih	_	_	
+31-4	2368-2376	pleasure	_	_	
+31-5	2377-2382	refer	_	_	
+31-6	2383-2385	to	_	_	
+31-7	2386-2393	several	_	_	
+31-8	2394-2399	cases	_	_	
+31-9	2400-2407	wherein	_	_	
+31-10	2408-2413	these	_	_	
+31-11	2414-2423	Exercises	_	_	
+31-12	2423-2424	,	_	_	
+31-13	2425-2430	under	_	_	
+31-14	2431-2434	his	_	_	
+31-15	2435-2444	direction	_	_	
+31-16	2444-2445	,	_	_	
+31-17	2446-2450	have	_	_	
+31-18	2451-2454	had	_	_	
+31-19	2455-2459	this	_	_	
+31-20	2460-2469	desirable	_	_	
+31-21	2470-2476	effect	_	_	
+31-22	2477-2480	The	_	_	
+31-23	2481-2485	next	_	_	
+31-24	2486-2493	Quarter	_	_	
+31-25	2494-2498	will	_	_	
+31-26	2499-2507	commence	_	_	
+31-27	2508-2515	October	_	_	
+31-28	2516-2518	10	_	_	
+31-29	2518-2519	.	_	_	
+
+#Text=Piano Fortes Tuned, Repaired, and Regulated.
+32-1	2520-2525	Piano	_	_	
+32-2	2526-2532	Fortes	_	_	
+32-3	2533-2538	Tuned	_	_	
+32-4	2538-2539	,	_	_	
+32-5	2540-2548	Repaired	_	_	
+32-6	2548-2549	,	_	_	
+32-7	2550-2553	and	_	_	
+32-8	2554-2563	Regulated	_	_	
+32-9	2563-2564	.	_	_	
+
+#Text=Houti* Clujv* tafmff*, l>ouk.ixs.ji x-n, July 24, 1838.
+33-1	2565-2570	Houti	_	_	
+33-2	2570-2571	*	_	_	
+33-3	2572-2577	Clujv	_	_	
+33-4	2577-2578	*	_	_	
+33-5	2579-2585	tafmff	_	_	
+33-6	2585-2586	*	_	_	
+33-7	2586-2587	,	_	_	
+33-8	2588-2589	l	_	_	
+33-9	2589-2590	>	_	_	
+33-10	2590-2600	ouk.ixs.ji	_	_	
+33-11	2601-2604	x-n	_	_	
+33-12	2604-2605	,	_	_	
+33-13	2606-2610	July	_	_	
+33-14	2611-2613	24	_	_	
+33-15	2613-2614	,	_	_	
+33-16	2615-2619	1838	_	_	
+33-17	2619-2620	.	_	_	

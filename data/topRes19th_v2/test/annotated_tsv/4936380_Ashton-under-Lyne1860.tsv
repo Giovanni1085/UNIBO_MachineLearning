@@ -1,0 +1,576 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=STALYERIDGE.
+1-1	0-11	STALYERIDGE	https://en.wikipedia.org/wiki/Stalybridge	LOC	
+1-2	11-12	.	_	_	
+
+#Text=TOR and PARAFFIN LAMPS.
+2-1	14-17	TOR	_	_	
+2-2	18-21	and	_	_	
+2-3	22-30	PARAFFIN	_	_	
+2-4	31-36	LAMPS	_	_	
+2-5	36-37	.	_	_	
+
+#Text=IRONMONGERS, sortment of the above. 
+#Text=. frem 16s. to £6. ,4s. 9d, per gaL 
+#Text=S NEW 
+#Text=ORA M MAR. 
+#Text=1.
+3-1	38-49	IRONMONGERS	_	_	
+3-2	49-50	,	_	_	
+3-3	51-59	sortment	_	_	
+3-4	60-62	of	_	_	
+3-5	63-66	the	_	_	
+3-6	67-72	above	_	_	
+3-7	72-73	.	_	_	
+3-8	75-76	.	_	_	
+3-9	77-81	frem	_	_	
+3-10	82-85	16s	_	_	
+3-11	85-86	.	_	_	
+3-12	87-89	to	_	_	
+3-13	90-92	£6	_	_	
+3-14	92-93	.	_	_	
+3-15	94-95	,	_	_	
+3-16	95-97	4s	_	_	
+3-17	97-98	.	_	_	
+3-18	99-101	9d	_	_	
+3-19	101-102	,	_	_	
+3-20	103-106	per	_	_	
+3-21	107-110	gaL	_	_	
+3-22	112-113	S	_	_	
+3-23	114-117	NEW	_	_	
+3-24	119-122	ORA	_	_	
+3-25	123-124	M	_	_	
+3-26	125-128	MAR	_	_	
+3-27	128-129	.	_	_	
+3-28	131-132	1	_	_	
+3-29	132-133	.	_	_	
+
+#Text=Three little words we often see, They are Articles—A, an, and tee. 2.
+4-1	134-139	Three	_	_	
+4-2	140-146	little	_	_	
+4-3	147-152	words	_	_	
+4-4	153-155	we	_	_	
+4-5	156-161	often	_	_	
+4-6	162-165	see	_	_	
+4-7	165-166	,	_	_	
+4-8	167-171	They	_	_	
+4-9	172-175	are	_	_	
+4-10	176-186	Articles—A	_	_	
+4-11	186-187	,	_	_	
+4-12	188-190	an	_	_	
+4-13	190-191	,	_	_	
+4-14	192-195	and	_	_	
+4-15	196-199	tee	_	_	
+4-16	199-200	.	_	_	
+4-17	201-202	2	_	_	
+4-18	202-203	.	_	_	
+
+#Text=A Noun’s the name of anything, As—KILLOBN’S SUIT, so nice hr spring. 3.
+5-1	204-205	A	_	_	
+5-2	206-210	Noun	_	_	
+5-3	210-211	’	_	_	
+5-4	211-212	s	_	_	
+5-5	213-216	the	_	_	
+5-6	217-221	name	_	_	
+5-7	222-224	of	_	_	
+5-8	225-233	anything	_	_	
+5-9	233-234	,	_	_	
+5-10	235-245	As—KILLOBN	_	_	
+5-11	245-246	’	_	_	
+5-12	246-247	S	_	_	
+5-13	248-252	SUIT	_	_	
+5-14	252-253	,	_	_	
+5-15	254-256	so	_	_	
+5-16	257-261	nice	_	_	
+5-17	262-264	hr	_	_	
+5-18	265-271	spring	_	_	
+5-19	271-272	.	_	_	
+5-20	273-274	3	_	_	
+5-21	274-275	.	_	_	
+
+#Text=Adjectives tell the kind of Noun, As—KILLOKN’S dress, the BEST in town 4.
+6-1	276-286	Adjectives	_	_	
+6-2	287-291	tell	_	_	
+6-3	292-295	the	_	_	
+6-4	296-300	kind	_	_	
+6-5	301-303	of	_	_	
+6-6	304-308	Noun	_	_	
+6-7	308-309	,	_	_	
+6-8	310-320	As—KILLOKN	_	_	
+6-9	320-321	’	_	_	
+6-10	321-322	S	_	_	
+6-11	323-328	dress	_	_	
+6-12	328-329	,	_	_	
+6-13	330-333	the	_	_	
+6-14	334-338	BEST	_	_	
+6-15	339-341	in	_	_	
+6-16	342-346	town	_	_	
+6-17	347-348	4	_	_	
+6-18	348-349	.	_	_	
+
+#Text=Instead of Nouns the Pronouns stand— His cut is good, HIS styles are grand. 5 Verbs tell of something to be dtne— Jo call at KILLORN’S, jump, or run.
+7-1	350-357	Instead	_	_	
+7-2	358-360	of	_	_	
+7-3	361-366	Nouns	_	_	
+7-4	367-370	the	_	_	
+7-5	371-379	Pronouns	_	_	
+7-6	380-385	stand	_	_	
+7-7	385-386	—	_	_	
+7-8	387-390	His	_	_	
+7-9	391-394	cut	_	_	
+7-10	395-397	is	_	_	
+7-11	398-402	good	_	_	
+7-12	402-403	,	_	_	
+7-13	404-407	HIS	_	_	
+7-14	408-414	styles	_	_	
+7-15	415-418	are	_	_	
+7-16	419-424	grand	_	_	
+7-17	424-425	.	_	_	
+7-18	426-427	5	_	_	
+7-19	428-433	Verbs	_	_	
+7-20	434-438	tell	_	_	
+7-21	439-441	of	_	_	
+7-22	442-451	something	_	_	
+7-23	452-454	to	_	_	
+7-24	455-457	be	_	_	
+7-25	458-462	dtne	_	_	
+7-26	462-463	—	_	_	
+7-27	464-466	Jo	_	_	
+7-28	467-471	call	_	_	
+7-29	472-474	at	_	_	
+7-30	475-482	KILLORN	_	_	
+7-31	482-483	’	_	_	
+7-32	483-484	S	_	_	
+7-33	484-485	,	_	_	
+7-34	486-490	jump	_	_	
+7-35	490-491	,	_	_	
+7-36	492-494	or	_	_	
+7-37	495-498	run	_	_	
+7-38	498-499	.	_	_	
+
+#Text=C.
+8-1	500-501	C	_	_	
+8-2	501-502	.	_	_	
+
+#Text=How things are done the Adverbs tell.
+9-1	503-506	How	_	_	
+9-2	507-513	things	_	_	
+9-3	514-517	are	_	_	
+9-4	518-522	done	_	_	
+9-5	523-526	the	_	_	
+9-6	527-534	Adverbs	_	_	
+9-7	535-539	tell	_	_	
+9-8	539-540	.	_	_	
+
+#Text=As KILLORN made my clothing WELL. 7.
+10-1	541-543	As	_	_	
+10-2	544-551	KILLORN	_	_	
+10-3	552-556	made	_	_	
+10-4	557-559	my	_	_	
+10-5	560-568	clothing	_	_	
+10-6	569-573	WELL	_	_	
+10-7	573-574	.	_	_	
+10-8	575-576	7	_	_	
+10-9	576-577	.	_	_	
+
+#Text=Conjunctions join the words together, As—KILLORN’S dress stands “wind OR weather.” 8.
+11-1	578-590	Conjunctions	_	_	
+11-2	591-595	join	_	_	
+11-3	596-599	the	_	_	
+11-4	600-605	words	_	_	
+11-5	606-614	together	_	_	
+11-6	614-615	,	_	_	
+11-7	616-626	As—KILLORN	_	_	
+11-8	626-627	’	_	_	
+11-9	627-628	S	_	_	
+11-10	629-634	dress	_	_	
+11-11	635-641	stands	_	_	
+11-12	642-643	“	_	_	
+11-13	643-647	wind	_	_	
+11-14	648-650	OR	_	_	
+11-15	651-658	weather	_	_	
+11-16	658-659	.	_	_	
+11-17	659-660	”	_	_	
+11-18	661-662	8	_	_	
+11-19	662-663	.	_	_	
+
+#Text=Prepositions stand before A Noun, as—in through KILLORN’S door. 0.
+12-1	664-676	Prepositions	_	_	
+12-2	677-682	stand	_	_	
+12-3	683-689	before	_	_	
+12-4	690-691	A	_	_	
+12-5	692-696	Noun	_	_	
+12-6	696-697	,	_	_	
+12-7	698-703	as—in	_	_	
+12-8	704-711	through	_	_	
+12-9	712-719	KILLORN	_	_	
+12-10	719-720	’	_	_	
+12-11	720-721	S	_	_	
+12-12	722-726	door	_	_	
+12-13	726-727	.	_	_	
+12-14	728-729	0	_	_	
+12-15	729-730	.	_	_	
+
+#Text=Surprise the Interjection snows, As—“Oh !
+13-1	731-739	Surprise	_	_	
+13-2	740-743	the	_	_	
+13-3	744-756	Interjection	_	_	
+13-4	757-762	snows	_	_	
+13-5	762-763	,	_	_	
+13-6	764-766	As	_	_	
+13-7	766-767	—	_	_	
+13-8	767-768	“	_	_	
+13-9	768-770	Oh	_	_	
+13-10	771-772	!	_	_	
+
+#Text=there’s none like KILLORN’S clothes !”
+14-1	773-778	there	_	_	
+14-2	778-779	’	_	_	
+14-3	779-780	s	_	_	
+14-4	781-785	none	_	_	
+14-5	786-790	like	_	_	
+14-6	791-798	KILLORN	_	_	
+14-7	798-799	’	_	_	
+14-8	799-800	S	_	_	
+14-9	801-808	clothes	_	_	
+14-10	809-810	!	_	_	
+14-11	810-811	”	_	_	
+
+#Text=The whole we call nine parts of speech.
+15-1	812-815	The	_	_	
+15-2	816-821	whole	_	_	
+15-3	822-824	we	_	_	
+15-4	825-829	call	_	_	
+15-5	830-834	nine	_	_	
+15-6	835-840	parts	_	_	
+15-7	841-843	of	_	_	
+15-8	844-850	speech	_	_	
+15-9	850-851	.	_	_	
+
+#Text=Which reading, writing, speaking teach !
+16-1	852-857	Which	_	_	
+16-2	858-865	reading	_	_	
+16-3	865-866	,	_	_	
+16-4	867-874	writing	_	_	
+16-5	874-875	,	_	_	
+16-6	876-884	speaking	_	_	
+16-7	885-890	teach	_	_	
+16-8	891-892	!	_	_	
+
+#Text=KILLORN’3 CLOTHING for Young Gentlemen, Youth?
+17-1	894-901	KILLORN	_	_	
+17-2	901-902	’	_	_	
+17-3	902-903	3	_	_	
+17-4	904-912	CLOTHING	_	_	
+17-5	913-916	for	_	_	
+17-6	917-922	Young	_	_	
+17-7	923-932	Gentlemen	_	_	
+17-8	932-933	,	_	_	
+17-9	934-939	Youth	_	_	
+17-10	939-940	?	_	_	
+
+#Text=, ami Boys, is very fashionable, durable, and cheap, and distinguished for neatness and remarkable durability.
+18-1	940-941	,	_	_	
+18-2	942-945	ami	_	_	
+18-3	946-950	Boys	_	_	
+18-4	950-951	,	_	_	
+18-5	952-954	is	_	_	
+18-6	955-959	very	_	_	
+18-7	960-971	fashionable	_	_	
+18-8	971-972	,	_	_	
+18-9	973-980	durable	_	_	
+18-10	980-981	,	_	_	
+18-11	982-985	and	_	_	
+18-12	986-991	cheap	_	_	
+18-13	991-992	,	_	_	
+18-14	993-996	and	_	_	
+18-15	997-1010	distinguished	_	_	
+18-16	1011-1014	for	_	_	
+18-17	1015-1023	neatness	_	_	
+18-18	1024-1027	and	_	_	
+18-19	1028-1038	remarkable	_	_	
+18-20	1039-1049	durability	_	_	
+18-21	1049-1050	.	_	_	
+
+#Text=KILLORN’S SPRING STOCK is ready for inspection, and consist of the most choice goods of British and Foreign manufacture.
+19-1	1051-1058	KILLORN	_	_	
+19-2	1058-1059	’	_	_	
+19-3	1059-1060	S	_	_	
+19-4	1061-1067	SPRING	_	_	
+19-5	1068-1073	STOCK	_	_	
+19-6	1074-1076	is	_	_	
+19-7	1077-1082	ready	_	_	
+19-8	1083-1086	for	_	_	
+19-9	1087-1097	inspection	_	_	
+19-10	1097-1098	,	_	_	
+19-11	1099-1102	and	_	_	
+19-12	1103-1110	consist	_	_	
+19-13	1111-1113	of	_	_	
+19-14	1114-1117	the	_	_	
+19-15	1118-1122	most	_	_	
+19-16	1123-1129	choice	_	_	
+19-17	1130-1135	goods	_	_	
+19-18	1136-1138	of	_	_	
+19-19	1139-1146	British	_	_	
+19-20	1147-1150	and	_	_	
+19-21	1151-1158	Foreign	_	_	
+19-22	1159-1170	manufacture	_	_	
+19-23	1170-1171	.	_	_	
+
+#Text=The remaining stock of KILLORN’S OVERCOATS are now being sold at a great reduction.
+20-1	1172-1175	The	_	_	
+20-2	1176-1185	remaining	_	_	
+20-3	1186-1191	stock	_	_	
+20-4	1192-1194	of	_	_	
+20-5	1195-1202	KILLORN	_	_	
+20-6	1202-1203	’	_	_	
+20-7	1203-1204	S	_	_	
+20-8	1205-1214	OVERCOATS	_	_	
+20-9	1215-1218	are	_	_	
+20-10	1219-1222	now	_	_	
+20-11	1223-1228	being	_	_	
+20-12	1229-1233	sold	_	_	
+20-13	1234-1236	at	_	_	
+20-14	1237-1238	a	_	_	
+20-15	1239-1244	great	_	_	
+20-16	1245-1254	reduction	_	_	
+20-17	1254-1255	.	_	_	
+
+#Text=KILLOEN AND CO., MERCHANT TAILORS, HATTERS, HOSIERS, OUTFITTERS, AND MANUFACTURERS OF CLOTHING, 11 and 13, GEORGE-STREET (Near the Market-place), ASHTON-UNDER-LYNE.
+21-1	1257-1264	KILLOEN	_	_	
+21-2	1265-1268	AND	_	_	
+21-3	1269-1271	CO	_	_	
+21-4	1271-1272	.	_	_	
+21-5	1272-1273	,	_	_	
+21-6	1274-1282	MERCHANT	_	_	
+21-7	1283-1290	TAILORS	_	_	
+21-8	1290-1291	,	_	_	
+21-9	1292-1299	HATTERS	_	_	
+21-10	1299-1300	,	_	_	
+21-11	1301-1308	HOSIERS	_	_	
+21-12	1308-1309	,	_	_	
+21-13	1310-1320	OUTFITTERS	_	_	
+21-14	1320-1321	,	_	_	
+21-15	1322-1325	AND	_	_	
+21-16	1326-1339	MANUFACTURERS	_	_	
+21-17	1340-1342	OF	_	_	
+21-18	1343-1351	CLOTHING	_	_	
+21-19	1351-1352	,	_	_	
+21-20	1353-1355	11	_	_	
+21-21	1356-1359	and	_	_	
+21-22	1360-1362	13	_	_	
+21-23	1362-1363	,	_	_	
+21-24	1364-1377	GEORGE-STREET	*	STREET	
+21-25	1378-1379	(	_	_	
+21-26	1379-1383	Near	_	_	
+21-27	1384-1387	the	_	_	
+21-28	1388-1400	Market-place	*	STREET	
+21-29	1400-1401	)	_	_	
+21-30	1401-1402	,	_	_	
+21-31	1403-1420	ASHTON-UNDER-LYNE	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+21-32	1420-1421	.	_	_	
+
+#Text=THOMAS BROWNSON HAS ALWAYS IN STOCK THE 
+#Text=LARGEST, BEST, and CHEAPEST STOCK of CLOTHS and CLOTHING IN THE DISTRICT.
+22-1	1423-1429	THOMAS	_	_	
+22-2	1430-1438	BROWNSON	_	_	
+22-3	1439-1442	HAS	_	_	
+22-4	1443-1449	ALWAYS	_	_	
+22-5	1450-1452	IN	_	_	
+22-6	1453-1458	STOCK	_	_	
+22-7	1459-1462	THE	_	_	
+22-8	1464-1471	LARGEST	_	_	
+22-9	1471-1472	,	_	_	
+22-10	1473-1477	BEST	_	_	
+22-11	1477-1478	,	_	_	
+22-12	1479-1482	and	_	_	
+22-13	1483-1491	CHEAPEST	_	_	
+22-14	1492-1497	STOCK	_	_	
+22-15	1498-1500	of	_	_	
+22-16	1501-1507	CLOTHS	_	_	
+22-17	1508-1511	and	_	_	
+22-18	1512-1520	CLOTHING	_	_	
+22-19	1521-1523	IN	_	_	
+22-20	1524-1527	THE	_	_	
+22-21	1528-1536	DISTRICT	_	_	
+22-22	1536-1537	.	_	_	
+
+#Text=The Order Departments are replete with every convenience and well lighted, thus affording to parties who prefer measuring, a better opportunity of selecting than can be obtained elsewhere.
+23-1	1538-1541	The	_	_	
+23-2	1542-1547	Order	_	_	
+23-3	1548-1559	Departments	_	_	
+23-4	1560-1563	are	_	_	
+23-5	1564-1571	replete	_	_	
+23-6	1572-1576	with	_	_	
+23-7	1577-1582	every	_	_	
+23-8	1583-1594	convenience	_	_	
+23-9	1595-1598	and	_	_	
+23-10	1599-1603	well	_	_	
+23-11	1604-1611	lighted	_	_	
+23-12	1611-1612	,	_	_	
+23-13	1613-1617	thus	_	_	
+23-14	1618-1627	affording	_	_	
+23-15	1628-1630	to	_	_	
+23-16	1631-1638	parties	_	_	
+23-17	1639-1642	who	_	_	
+23-18	1643-1649	prefer	_	_	
+23-19	1650-1659	measuring	_	_	
+23-20	1659-1660	,	_	_	
+23-21	1661-1662	a	_	_	
+23-22	1663-1669	better	_	_	
+23-23	1670-1681	opportunity	_	_	
+23-24	1682-1684	of	_	_	
+23-25	1685-1694	selecting	_	_	
+23-26	1695-1699	than	_	_	
+23-27	1700-1703	can	_	_	
+23-28	1704-1706	be	_	_	
+23-29	1707-1715	obtained	_	_	
+23-30	1716-1725	elsewhere	_	_	
+23-31	1725-1726	.	_	_	
+
+#Text=T.
+24-1	1727-1728	T	_	_	
+24-2	1728-1729	.	_	_	
+
+#Text=B.’s JUVENILE DEPARTMENT is the only one solely devoted to BOY’S First-class CLOTHING in the neighbourhood, i By employing talent of the highest order to form the Models from which the READY-MADE Clothing is manufactured, an elegance is imparted which vies with the ckdhing made to measure, and meets with the general approbation of parents and guardians T.
+25-1	1730-1731	B	_	_	
+25-2	1731-1732	.	_	_	
+25-3	1732-1733	’	_	_	
+25-4	1733-1734	s	_	_	
+25-5	1735-1743	JUVENILE	_	_	
+25-6	1744-1754	DEPARTMENT	_	_	
+25-7	1755-1757	is	_	_	
+25-8	1758-1761	the	_	_	
+25-9	1762-1766	only	_	_	
+25-10	1767-1770	one	_	_	
+25-11	1771-1777	solely	_	_	
+25-12	1778-1785	devoted	_	_	
+25-13	1786-1788	to	_	_	
+25-14	1789-1792	BOY	_	_	
+25-15	1792-1793	’	_	_	
+25-16	1793-1794	S	_	_	
+25-17	1795-1806	First-class	_	_	
+25-18	1807-1815	CLOTHING	_	_	
+25-19	1816-1818	in	_	_	
+25-20	1819-1822	the	_	_	
+25-21	1823-1836	neighbourhood	_	_	
+25-22	1836-1837	,	_	_	
+25-23	1838-1839	i	_	_	
+25-24	1840-1842	By	_	_	
+25-25	1843-1852	employing	_	_	
+25-26	1853-1859	talent	_	_	
+25-27	1860-1862	of	_	_	
+25-28	1863-1866	the	_	_	
+25-29	1867-1874	highest	_	_	
+25-30	1875-1880	order	_	_	
+25-31	1881-1883	to	_	_	
+25-32	1884-1888	form	_	_	
+25-33	1889-1892	the	_	_	
+25-34	1893-1899	Models	_	_	
+25-35	1900-1904	from	_	_	
+25-36	1905-1910	which	_	_	
+25-37	1911-1914	the	_	_	
+25-38	1915-1925	READY-MADE	_	_	
+25-39	1926-1934	Clothing	_	_	
+25-40	1935-1937	is	_	_	
+25-41	1938-1950	manufactured	_	_	
+25-42	1950-1951	,	_	_	
+25-43	1952-1954	an	_	_	
+25-44	1955-1963	elegance	_	_	
+25-45	1964-1966	is	_	_	
+25-46	1967-1975	imparted	_	_	
+25-47	1976-1981	which	_	_	
+25-48	1982-1986	vies	_	_	
+25-49	1987-1991	with	_	_	
+25-50	1992-1995	the	_	_	
+25-51	1996-2003	ckdhing	_	_	
+25-52	2004-2008	made	_	_	
+25-53	2009-2011	to	_	_	
+25-54	2012-2019	measure	_	_	
+25-55	2019-2020	,	_	_	
+25-56	2021-2024	and	_	_	
+25-57	2025-2030	meets	_	_	
+25-58	2031-2035	with	_	_	
+25-59	2036-2039	the	_	_	
+25-60	2040-2047	general	_	_	
+25-61	2048-2059	approbation	_	_	
+25-62	2060-2062	of	_	_	
+25-63	2063-2070	parents	_	_	
+25-64	2071-2074	and	_	_	
+25-65	2075-2084	guardians	_	_	
+25-66	2085-2086	T	_	_	
+25-67	2086-2087	.	_	_	
+
+#Text=B. respectfully requests an inspection by all classes, being confident in his power to please; and that one trial will prove the difficulty of getting .better v.
+26-1	2088-2089	B	_	_	
+26-2	2089-2090	.	_	_	
+26-3	2091-2103	respectfully	_	_	
+26-4	2104-2112	requests	_	_	
+26-5	2113-2115	an	_	_	
+26-6	2116-2126	inspection	_	_	
+26-7	2127-2129	by	_	_	
+26-8	2130-2133	all	_	_	
+26-9	2134-2141	classes	_	_	
+26-10	2141-2142	,	_	_	
+26-11	2143-2148	being	_	_	
+26-12	2149-2158	confident	_	_	
+26-13	2159-2161	in	_	_	
+26-14	2162-2165	his	_	_	
+26-15	2166-2171	power	_	_	
+26-16	2172-2174	to	_	_	
+26-17	2175-2181	please	_	_	
+26-18	2181-2182	;	_	_	
+26-19	2183-2186	and	_	_	
+26-20	2187-2191	that	_	_	
+26-21	2192-2195	one	_	_	
+26-22	2196-2201	trial	_	_	
+26-23	2202-2206	will	_	_	
+26-24	2207-2212	prove	_	_	
+26-25	2213-2216	the	_	_	
+26-26	2217-2227	difficulty	_	_	
+26-27	2228-2230	of	_	_	
+26-28	2231-2238	getting	_	_	
+26-29	2239-2240	.	_	_	
+26-30	2240-2246	better	_	_	
+26-31	2247-2248	v	_	_	
+26-32	2248-2249	.	_	_	
+
+#Text=-lue elsewhete.
+27-1	2249-2250	-	_	_	
+27-2	2250-2253	lue	_	_	
+27-3	2254-2263	elsewhete	_	_	
+27-4	2263-2264	.	_	_	
+
+#Text=THOMAS BROWNSON, TAILOR AND WOOLLEN DRAPER, CLOTH HALL, OLD SQUARE, and BEEHIVE, OLD STREET (Opposite the Pitt and Nelson), ASHTON-UNDER-LYNE.
+28-1	2265-2271	THOMAS	_	_	
+28-2	2272-2280	BROWNSON	_	_	
+28-3	2280-2281	,	_	_	
+28-4	2282-2288	TAILOR	_	_	
+28-5	2289-2292	AND	_	_	
+28-6	2293-2300	WOOLLEN	_	_	
+28-7	2301-2307	DRAPER	_	_	
+28-8	2307-2308	,	_	_	
+28-9	2309-2314	CLOTH	_	_	
+28-10	2315-2319	HALL	_	_	
+28-11	2319-2320	,	_	_	
+28-12	2321-2324	OLD	*[1]	STREET[1]	
+28-13	2325-2331	SQUARE	*[1]	STREET[1]	
+28-14	2331-2332	,	_	_	
+28-15	2333-2336	and	_	_	
+28-16	2337-2344	BEEHIVE	_	_	
+28-17	2344-2345	,	_	_	
+28-18	2346-2349	OLD	*[2]	STREET[2]	
+28-19	2350-2356	STREET	*[2]	STREET[2]	
+28-20	2357-2358	(	_	_	
+28-21	2358-2366	Opposite	_	_	
+28-22	2367-2370	the	_	_	
+28-23	2371-2375	Pitt	*[3]	BUILDING[3]	
+28-24	2376-2379	and	*[3]	BUILDING[3]	
+28-25	2380-2386	Nelson	*[3]	BUILDING[3]	
+28-26	2386-2387	)	_	_	
+28-27	2387-2388	,	_	_	
+28-28	2389-2406	ASHTON-UNDER-LYNE	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+28-29	2406-2407	.	_	_	

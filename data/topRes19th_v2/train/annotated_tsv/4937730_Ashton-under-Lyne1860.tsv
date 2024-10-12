@@ -1,0 +1,530 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=IMPORTANT NOTICE !
+1-1	0-9	IMPORTANT	_	_	
+1-2	10-16	NOTICE	_	_	
+1-3	17-18	!	_	_	
+
+#Text=In consequence of the Unparalleled Success that has attended the Engagement of * MDLLE.
+2-1	20-22	In	_	_	
+2-2	23-34	consequence	_	_	
+2-3	35-37	of	_	_	
+2-4	38-41	the	_	_	
+2-5	42-54	Unparalleled	_	_	
+2-6	55-62	Success	_	_	
+2-7	63-67	that	_	_	
+2-8	68-71	has	_	_	
+2-9	72-80	attended	_	_	
+2-10	81-84	the	_	_	
+2-11	85-95	Engagement	_	_	
+2-12	96-98	of	_	_	
+2-13	99-100	*	_	_	
+2-14	101-106	MDLLE	_	_	
+2-15	106-107	.	_	_	
+
+#Text=ESTHER AUSTIN, And Powerful Troupe of Parisian CAN-C A N !
+3-1	108-114	ESTHER	_	_	
+3-2	115-121	AUSTIN	_	_	
+3-3	121-122	,	_	_	
+3-4	123-126	And	_	_	
+3-5	127-135	Powerful	_	_	
+3-6	136-142	Troupe	_	_	
+3-7	143-145	of	_	_	
+3-8	146-154	Parisian	_	_	
+3-9	155-160	CAN-C	_	_	
+3-10	161-162	A	_	_	
+3-11	163-164	N	_	_	
+3-12	165-166	!	_	_	
+
+#Text=!
+4-1	167-168	!	_	_	
+
+#Text=Danseuses, now permanently incaeased to Ten in number.
+5-1	170-179	Danseuses	_	_	
+5-2	179-180	,	_	_	
+5-3	181-184	now	_	_	
+5-4	185-196	permanently	_	_	
+5-5	197-206	incaeased	_	_	
+5-6	207-209	to	_	_	
+5-7	210-213	Ten	_	_	
+5-8	214-216	in	_	_	
+5-9	217-223	number	_	_	
+5-10	223-224	.	_	_	
+
+#Text=The Proprietor has pleasure in announcing their stay for Six Nights Longer, to enable MDLLE.
+6-1	225-228	The	_	_	
+6-2	229-239	Proprietor	_	_	
+6-3	240-243	has	_	_	
+6-4	244-252	pleasure	_	_	
+6-5	253-255	in	_	_	
+6-6	256-266	announcing	_	_	
+6-7	267-272	their	_	_	
+6-8	273-277	stay	_	_	
+6-9	278-281	for	_	_	
+6-10	282-285	Six	_	_	
+6-11	286-292	Nights	_	_	
+6-12	293-299	Longer	_	_	
+6-13	299-300	,	_	_	
+6-14	301-303	to	_	_	
+6-15	304-310	enable	_	_	
+6-16	311-316	MDLLE	_	_	
+6-17	316-317	.	_	_	
+
+#Text=ESTHER AUSTIN to take her FAREWELL 
+#Text=BENEFIT At this Hall on Friday Next, being most positively her Last Night but One in Manchester, when, in addition to the powerful programme, ONE THOUSAND PORTRAITS of this gifted Artiste WILL BE GIVEN AWAY !
+7-1	318-324	ESTHER	_	_	
+7-2	325-331	AUSTIN	_	_	
+7-3	332-334	to	_	_	
+7-4	335-339	take	_	_	
+7-5	340-343	her	_	_	
+7-6	344-352	FAREWELL	_	_	
+7-7	354-361	BENEFIT	_	_	
+7-8	362-364	At	_	_	
+7-9	365-369	this	_	_	
+7-10	370-374	Hall	_	_	
+7-11	375-377	on	_	_	
+7-12	378-384	Friday	_	_	
+7-13	385-389	Next	_	_	
+7-14	389-390	,	_	_	
+7-15	391-396	being	_	_	
+7-16	397-401	most	_	_	
+7-17	402-412	positively	_	_	
+7-18	413-416	her	_	_	
+7-19	417-421	Last	_	_	
+7-20	422-427	Night	_	_	
+7-21	428-431	but	_	_	
+7-22	432-435	One	_	_	
+7-23	436-438	in	_	_	
+7-24	439-449	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+7-25	449-450	,	_	_	
+7-26	451-455	when	_	_	
+7-27	455-456	,	_	_	
+7-28	457-459	in	_	_	
+7-29	460-468	addition	_	_	
+7-30	469-471	to	_	_	
+7-31	472-475	the	_	_	
+7-32	476-484	powerful	_	_	
+7-33	485-494	programme	_	_	
+7-34	494-495	,	_	_	
+7-35	496-499	ONE	_	_	
+7-36	500-508	THOUSAND	_	_	
+7-37	509-518	PORTRAITS	_	_	
+7-38	519-521	of	_	_	
+7-39	522-526	this	_	_	
+7-40	527-533	gifted	_	_	
+7-41	534-541	Artiste	_	_	
+7-42	542-546	WILL	_	_	
+7-43	547-549	BE	_	_	
+7-44	550-555	GIVEN	_	_	
+7-45	556-560	AWAY	_	_	
+7-46	561-562	!	_	_	
+
+#Text=TWO GRAND CHARACTERISTIC BALLETS.
+8-1	563-566	TWO	_	_	
+8-2	567-572	GRAND	_	_	
+8-3	573-587	CHARACTERISTIC	_	_	
+8-4	588-595	BALLETS	_	_	
+8-5	595-596	.	_	_	
+
+#Text=Tremendous Success of the New Ballet, LES WAT TEA UX!
+9-1	598-608	Tremendous	_	_	
+9-2	609-616	Success	_	_	
+9-3	617-619	of	_	_	
+9-4	620-623	the	_	_	
+9-5	624-627	New	_	_	
+9-6	628-634	Ballet	_	_	
+9-7	634-635	,	_	_	
+9-8	636-639	LES	_	_	
+9-9	640-643	WAT	_	_	
+9-10	644-647	TEA	_	_	
+9-11	648-650	UX	_	_	
+9-12	650-651	!	_	_	
+
+#Text=Immense Success of THE NEW CAN-CAN!
+10-1	652-659	Immense	_	_	
+10-2	660-667	Success	_	_	
+10-3	668-670	of	_	_	
+10-4	671-674	THE	_	_	
+10-5	675-678	NEW	_	_	
+10-6	679-686	CAN-CAN	_	_	
+10-7	686-687	!	_	_	
+
+#Text=At ten o’clock each evening this week, the NEW CAN-CAN !
+11-1	688-690	At	_	_	
+11-2	691-694	ten	_	_	
+11-3	695-696	o	_	_	
+11-4	696-697	’	_	_	
+11-5	697-702	clock	_	_	
+11-6	703-707	each	_	_	
+11-7	708-715	evening	_	_	
+11-8	716-720	this	_	_	
+11-9	721-725	week	_	_	
+11-10	725-726	,	_	_	
+11-11	727-730	the	_	_	
+11-12	731-734	NEW	_	_	
+11-13	735-742	CAN-CAN	_	_	
+11-14	743-744	!	_	_	
+
+#Text=ST.
+12-1	745-747	ST	_	_	
+12-2	747-748	.	_	_	
+
+#Text=VALENTIN BALLET AT 8-30.
+13-1	749-757	VALENTIN	_	_	
+13-2	758-764	BALLET	_	_	
+13-3	765-767	AT	_	_	
+13-4	768-769	8	_	_	
+13-5	769-770	-	_	_	
+13-6	770-772	30	_	_	
+13-7	772-773	.	_	_	
+
+#Text=ESTHER AUSTIN as the CHINESE HARLEQUIN 
+#Text=and CLOWN.
+14-1	775-781	ESTHER	_	_	
+14-2	782-788	AUSTIN	_	_	
+14-3	789-791	as	_	_	
+14-4	792-795	the	_	_	
+14-5	796-803	CHINESE	_	_	
+14-6	804-813	HARLEQUIN	_	_	
+14-7	815-818	and	_	_	
+14-8	819-824	CLOWN	_	_	
+14-9	824-825	.	_	_	
+
+#Text=Successful Engagement of MRS.
+15-1	826-836	Successful	_	_	
+15-2	837-847	Engagement	_	_	
+15-3	848-850	of	_	_	
+15-4	851-854	MRS	_	_	
+15-5	854-855	.	_	_	
+
+#Text=ORMOND COLLIS, The Dashing Serio-Comic.
+16-1	856-862	ORMOND	_	_	
+16-2	863-869	COLLIS	_	_	
+16-3	869-870	,	_	_	
+16-4	871-874	The	_	_	
+16-5	875-882	Dashing	_	_	
+16-6	883-894	Serio-Comic	_	_	
+16-7	894-895	.	_	_	
+
+#Text=Last Six Nights of Messrs.
+17-1	896-900	Last	_	_	
+17-2	901-904	Six	_	_	
+17-3	905-911	Nights	_	_	
+17-4	912-914	of	_	_	
+17-5	915-921	Messrs	_	_	
+17-6	921-922	.	_	_	
+
+#Text=II ARCO U R T and LUCE T T E, Talented Ethiopian Delineators.
+18-1	923-925	II	_	_	
+18-2	926-930	ARCO	_	_	
+18-3	931-932	U	_	_	
+18-4	933-934	R	_	_	
+18-5	935-936	T	_	_	
+18-6	937-940	and	_	_	
+18-7	941-945	LUCE	_	_	
+18-8	946-947	T	_	_	
+18-9	948-949	T	_	_	
+18-10	950-951	E	_	_	
+18-11	951-952	,	_	_	
+18-12	953-961	Talented	_	_	
+18-13	962-971	Ethiopian	_	_	
+18-14	972-983	Delineators	_	_	
+18-15	983-984	.	_	_	
+
+#Text=First Appearance of the THREE SISTERS DUVERNAYS, Burlesque Actresses and Dancers.
+19-1	985-990	First	_	_	
+19-2	991-1001	Appearance	_	_	
+19-3	1002-1004	of	_	_	
+19-4	1005-1008	the	_	_	
+19-5	1009-1014	THREE	_	_	
+19-6	1015-1022	SISTERS	_	_	
+19-7	1023-1032	DUVERNAYS	_	_	
+19-8	1032-1033	,	_	_	
+19-9	1034-1043	Burlesque	_	_	
+19-10	1044-1053	Actresses	_	_	
+19-11	1054-1057	and	_	_	
+19-12	1058-1065	Dancers	_	_	
+19-13	1065-1066	.	_	_	
+
+#Text=First Appearance of MISS NELLY GILTON, the New SERIO-COMIC.
+20-1	1067-1072	First	_	_	
+20-2	1073-1083	Appearance	_	_	
+20-3	1084-1086	of	_	_	
+20-4	1087-1091	MISS	_	_	
+20-5	1092-1097	NELLY	_	_	
+20-6	1098-1104	GILTON	_	_	
+20-7	1104-1105	,	_	_	
+20-8	1106-1109	the	_	_	
+20-9	1110-1113	New	_	_	
+20-10	1114-1125	SERIO-COMIC	_	_	
+20-11	1125-1126	.	_	_	
+
+#Text=First Appearance of MONS.
+21-1	1127-1132	First	_	_	
+21-2	1133-1143	Appearance	_	_	
+21-3	1144-1146	of	_	_	
+21-4	1147-1151	MONS	_	_	
+21-5	1151-1152	.	_	_	
+
+#Text=SANGUINETTI, with his WONDERFULLY TRAINED BIRDS !
+22-1	1153-1164	SANGUINETTI	_	_	
+22-2	1164-1165	,	_	_	
+22-3	1166-1170	with	_	_	
+22-4	1171-1174	his	_	_	
+22-5	1175-1186	WONDERFULLY	_	_	
+22-6	1187-1194	TRAINED	_	_	
+22-7	1195-1200	BIRDS	_	_	
+22-8	1201-1202	!	_	_	
+
+#Text=Leader of the Orchestra Doors open at 6-30 Promenade and Body of the Dali, Is.; Galleries, 6d Private Boxes, ss.
+23-1	1204-1210	Leader	_	_	
+23-2	1211-1213	of	_	_	
+23-3	1214-1217	the	_	_	
+23-4	1218-1227	Orchestra	_	_	
+23-5	1228-1233	Doors	_	_	
+23-6	1234-1238	open	_	_	
+23-7	1239-1241	at	_	_	
+23-8	1242-1243	6	_	_	
+23-9	1243-1244	-	_	_	
+23-10	1244-1246	30	_	_	
+23-11	1247-1256	Promenade	_	_	
+23-12	1257-1260	and	_	_	
+23-13	1261-1265	Body	_	_	
+23-14	1266-1268	of	_	_	
+23-15	1269-1272	the	_	_	
+23-16	1273-1277	Dali	_	_	
+23-17	1277-1278	,	_	_	
+23-18	1279-1281	Is	_	_	
+23-19	1281-1282	.	_	_	
+23-20	1282-1283	;	_	_	
+23-21	1284-1293	Galleries	_	_	
+23-22	1293-1294	,	_	_	
+23-23	1295-1297	6d	_	_	
+23-24	1298-1305	Private	_	_	
+23-25	1306-1311	Boxes	_	_	
+23-26	1311-1312	,	_	_	
+23-27	1313-1315	ss	_	_	
+23-28	1315-1316	.	_	_	
+
+#Text=Bill Inspector, Mr.
+24-1	1317-1321	Bill	_	_	
+24-2	1322-1331	Inspector	_	_	
+24-3	1331-1332	,	_	_	
+24-4	1333-1335	Mr	_	_	
+24-5	1335-1336	.	_	_	
+
+#Text=J.
+25-1	1337-1338	J	_	_	
+25-2	1338-1339	.	_	_	
+
+#Text=Pymer, to whom all applications respecting the same must be sent.
+26-1	1340-1345	Pymer	_	_	
+26-2	1345-1346	,	_	_	
+26-3	1347-1349	to	_	_	
+26-4	1350-1354	whom	_	_	
+26-5	1355-1358	all	_	_	
+26-6	1359-1371	applications	_	_	
+26-7	1372-1382	respecting	_	_	
+26-8	1383-1386	the	_	_	
+26-9	1387-1391	same	_	_	
+26-10	1392-1396	must	_	_	
+26-11	1397-1399	be	_	_	
+26-12	1400-1404	sent	_	_	
+26-13	1404-1405	.	_	_	
+
+#Text=Mr.
+27-1	1407-1409	Mr	_	_	
+27-2	1409-1410	.	_	_	
+
+#Text=J.
+28-1	1411-1412	J	_	_	
+28-2	1412-1413	.	_	_	
+
+#Text=Harrison, 
+#Text=Monday, November 22.
+29-1	1414-1422	Harrison	_	_	
+29-2	1422-1423	,	_	_	
+29-3	1425-1431	Monday	_	_	
+29-4	1431-1432	,	_	_	
+29-5	1433-1441	November	_	_	
+29-6	1442-1444	22	_	_	
+29-7	1444-1445	.	_	_	
+
+#Text=JOLLY NASH!
+30-1	1446-1451	JOLLY	_	_	
+30-2	1452-1456	NASH	_	_	
+30-3	1456-1457	!	_	_	
+
+#Text=HAIR DESTROYER.—24B, High Holborn, London.
+31-1	1459-1463	HAIR	_	_	
+31-2	1464-1473	DESTROYER	_	_	
+31-3	1473-1474	.	_	_	
+31-4	1474-1475	—	_	_	
+31-5	1475-1478	24B	_	_	
+31-6	1478-1479	,	_	_	
+31-7	1480-1484	High	https://en.wikipedia.org/wiki/High\_Holborn[1]	STREET[1]	
+31-8	1485-1492	Holborn	https://en.wikipedia.org/wiki/High\_Holborn[1]	STREET[1]	
+31-9	1492-1493	,	_	_	
+31-10	1494-1500	London	https://en.wikipedia.org/wiki/London	LOC	
+31-11	1500-1501	.	_	_	
+
+#Text=—Alex.
+32-1	1501-1502	—	_	_	
+32-2	1502-1506	Alex	_	_	
+32-3	1506-1507	.	_	_	
+
+#Text=Ross’s Depilatory removes, without effect to the skin, superfluous hair from the face, neck, and arms, 3s. 6d.; sent the same day as ordered by post for 54 stamps.
+33-1	1508-1512	Ross	_	_	
+33-2	1512-1513	’	_	_	
+33-3	1513-1514	s	_	_	
+33-4	1515-1525	Depilatory	_	_	
+33-5	1526-1533	removes	_	_	
+33-6	1533-1534	,	_	_	
+33-7	1535-1542	without	_	_	
+33-8	1543-1549	effect	_	_	
+33-9	1550-1552	to	_	_	
+33-10	1553-1556	the	_	_	
+33-11	1557-1561	skin	_	_	
+33-12	1561-1562	,	_	_	
+33-13	1563-1574	superfluous	_	_	
+33-14	1575-1579	hair	_	_	
+33-15	1580-1584	from	_	_	
+33-16	1585-1588	the	_	_	
+33-17	1589-1593	face	_	_	
+33-18	1593-1594	,	_	_	
+33-19	1595-1599	neck	_	_	
+33-20	1599-1600	,	_	_	
+33-21	1601-1604	and	_	_	
+33-22	1605-1609	arms	_	_	
+33-23	1609-1610	,	_	_	
+33-24	1611-1613	3s	_	_	
+33-25	1613-1614	.	_	_	
+33-26	1615-1617	6d	_	_	
+33-27	1617-1618	.	_	_	
+33-28	1618-1619	;	_	_	
+33-29	1620-1624	sent	_	_	
+33-30	1625-1628	the	_	_	
+33-31	1629-1633	same	_	_	
+33-32	1634-1637	day	_	_	
+33-33	1638-1640	as	_	_	
+33-34	1641-1648	ordered	_	_	
+33-35	1649-1651	by	_	_	
+33-36	1652-1656	post	_	_	
+33-37	1657-1660	for	_	_	
+33-38	1661-1663	54	_	_	
+33-39	1664-1670	stamps	_	_	
+33-40	1670-1671	.	_	_	
+
+#Text=—Sold by all Chemists, and by Mr.
+34-1	1671-1672	—	_	_	
+34-2	1672-1676	Sold	_	_	
+34-3	1677-1679	by	_	_	
+34-4	1680-1683	all	_	_	
+34-5	1684-1692	Chemists	_	_	
+34-6	1692-1693	,	_	_	
+34-7	1694-1697	and	_	_	
+34-8	1698-1700	by	_	_	
+34-9	1701-1703	Mr	_	_	
+34-10	1703-1704	.	_	_	
+
+#Text=BROWN, 173, Stamford-street; also by Mr.
+35-1	1705-1710	BROWN	_	_	
+35-2	1710-1711	,	_	_	
+35-3	1712-1715	173	_	_	
+35-4	1715-1716	,	_	_	
+35-5	1717-1732	Stamford-street	*	STREET	
+35-6	1732-1733	;	_	_	
+35-7	1734-1738	also	_	_	
+35-8	1739-1741	by	_	_	
+35-9	1742-1744	Mr	_	_	
+35-10	1744-1745	.	_	_	
+
+#Text=Fisher, Ashton-under-Lyne.
+36-1	1746-1752	Fisher	_	_	
+36-2	1752-1753	,	_	_	
+36-3	1754-1771	Ashton-under-Lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+36-4	1771-1772	.	_	_	
+
+#Text=HAIR-CURLING FLUID, 248, High Holborn, London.
+37-1	1774-1786	HAIR-CURLING	_	_	
+37-2	1787-1792	FLUID	_	_	
+37-3	1792-1793	,	_	_	
+37-4	1794-1797	248	_	_	
+37-5	1797-1798	,	_	_	
+37-6	1799-1803	High	https://en.wikipedia.org/wiki/High\_Holborn[2]	STREET[2]	
+37-7	1804-1811	Holborn	https://en.wikipedia.org/wiki/High\_Holborn[2]	STREET[2]	
+37-8	1811-1812	,	_	_	
+37-9	1813-1819	London	https://en.wikipedia.org/wiki/London	LOC	
+37-10	1819-1820	.	_	_	
+
+#Text=—Alex.
+38-1	1820-1821	—	_	_	
+38-2	1821-1825	Alex	_	_	
+38-3	1825-1826	.	_	_	
+
+#Text=Ross’s Curling Fluid curls Ladies’ and Gentlemen’s Hair immediately it is applied.
+39-1	1827-1831	Ross	_	_	
+39-2	1831-1832	’	_	_	
+39-3	1832-1833	s	_	_	
+39-4	1834-1841	Curling	_	_	
+39-5	1842-1847	Fluid	_	_	
+39-6	1848-1853	curls	_	_	
+39-7	1854-1860	Ladies	_	_	
+39-8	1860-1861	’	_	_	
+39-9	1862-1865	and	_	_	
+39-10	1866-1875	Gentlemen	_	_	
+39-11	1875-1876	’	_	_	
+39-12	1876-1877	s	_	_	
+39-13	1878-1882	Hair	_	_	
+39-14	1883-1894	immediately	_	_	
+39-15	1895-1897	it	_	_	
+39-16	1898-1900	is	_	_	
+39-17	1901-1908	applied	_	_	
+39-18	1908-1909	.	_	_	
+
+#Text=—Sold at 3s. 6d.; sent free for 54 stamps.
+40-1	1909-1910	—	_	_	
+40-2	1910-1914	Sold	_	_	
+40-3	1915-1917	at	_	_	
+40-4	1918-1920	3s	_	_	
+40-5	1920-1921	.	_	_	
+40-6	1922-1924	6d	_	_	
+40-7	1924-1925	.	_	_	
+40-8	1925-1926	;	_	_	
+40-9	1927-1931	sent	_	_	
+40-10	1932-1936	free	_	_	
+40-11	1937-1940	for	_	_	
+40-12	1941-1943	54	_	_	
+40-13	1944-1950	stamps	_	_	
+40-14	1950-1951	.	_	_	
+
+#Text=Sold by all Chemists, and by Mr.
+41-1	1952-1956	Sold	_	_	
+41-2	1957-1959	by	_	_	
+41-3	1960-1963	all	_	_	
+41-4	1964-1972	Chemists	_	_	
+41-5	1972-1973	,	_	_	
+41-6	1974-1977	and	_	_	
+41-7	1978-1980	by	_	_	
+41-8	1981-1983	Mr	_	_	
+41-9	1983-1984	.	_	_	
+
+#Text=Brown, Hairdresser, Stamford street; also by Mr, Fisher, Ashton under-Lyne.
+42-1	1985-1990	Brown	_	_	
+42-2	1990-1991	,	_	_	
+42-3	1992-2003	Hairdresser	_	_	
+42-4	2003-2004	,	_	_	
+42-5	2005-2013	Stamford	*[3]	STREET[3]	
+42-6	2014-2020	street	*[3]	STREET[3]	
+42-7	2020-2021	;	_	_	
+42-8	2022-2026	also	_	_	
+42-9	2027-2029	by	_	_	
+42-10	2030-2032	Mr	_	_	
+42-11	2032-2033	,	_	_	
+42-12	2034-2040	Fisher	_	_	
+42-13	2040-2041	,	_	_	
+42-14	2042-2048	Ashton	https://en.wikipedia.org/wiki/Ashton-under-Lyne[4]	LOC[4]	
+42-15	2049-2059	under-Lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne[4]	LOC[4]	
+42-16	2059-2060	.	_	_	

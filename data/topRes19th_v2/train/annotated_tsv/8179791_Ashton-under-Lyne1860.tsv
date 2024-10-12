@@ -1,0 +1,413 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=0H WILLIE WE HAVE MISSED YOU.
+1-1	0-2	0H	_	_	
+1-2	3-9	WILLIE	_	_	
+1-3	10-12	WE	_	_	
+1-4	13-17	HAVE	_	_	
+1-5	18-24	MISSED	_	_	
+1-6	25-28	YOU	_	_	
+1-7	28-29	.	_	_	
+
+#Text=Oh!
+2-1	31-33	Oh	_	_	
+2-2	33-34	!	_	_	
+
+#Text=Willie we hare missed yon, For you hare tamed long; We’ve not enjoyed a single meal.
+3-1	35-41	Willie	_	_	
+3-2	42-44	we	_	_	
+3-3	45-49	hare	_	_	
+3-4	50-56	missed	_	_	
+3-5	57-60	yon	_	_	
+3-6	60-61	,	_	_	
+3-7	62-65	For	_	_	
+3-8	66-69	you	_	_	
+3-9	70-74	hare	_	_	
+3-10	75-80	tamed	_	_	
+3-11	81-85	long	_	_	
+3-12	85-86	;	_	_	
+3-13	87-89	We	_	_	
+3-14	89-90	’	_	_	
+3-15	90-92	ve	_	_	
+3-16	93-96	not	_	_	
+3-17	97-104	enjoyed	_	_	
+3-18	105-106	a	_	_	
+3-19	107-113	single	_	_	
+3-20	114-118	meal	_	_	
+3-21	118-119	.	_	_	
+
+#Text=Nor heard the evening song.
+4-1	120-123	Nor	_	_	
+4-2	124-129	heard	_	_	
+4-3	130-133	the	_	_	
+4-4	134-141	evening	_	_	
+4-5	142-146	song	_	_	
+4-6	146-147	.	_	_	
+
+#Text=Teu went away at early morn, But where you did hot say.
+5-1	148-151	Teu	_	_	
+5-2	152-156	went	_	_	
+5-3	157-161	away	_	_	
+5-4	162-164	at	_	_	
+5-5	165-170	early	_	_	
+5-6	171-175	morn	_	_	
+5-7	175-176	,	_	_	
+5-8	177-180	But	_	_	
+5-9	181-186	where	_	_	
+5-10	187-190	you	_	_	
+5-11	191-194	did	_	_	
+5-12	195-198	hot	_	_	
+5-13	199-202	say	_	_	
+5-14	202-203	.	_	_	
+
+#Text=And sad were all our anxious hearts At closing of the day.
+6-1	204-207	And	_	_	
+6-2	208-211	sad	_	_	
+6-3	212-216	were	_	_	
+6-4	217-220	all	_	_	
+6-5	221-224	our	_	_	
+6-6	225-232	anxious	_	_	
+6-7	233-239	hearts	_	_	
+6-8	240-242	At	_	_	
+6-9	243-250	closing	_	_	
+6-10	251-253	of	_	_	
+6-11	254-257	the	_	_	
+6-12	258-261	day	_	_	
+6-13	261-262	.	_	_	
+
+#Text=The gloomy night kept wearing on.
+7-1	263-266	The	_	_	
+7-2	267-273	gloomy	_	_	
+7-3	274-279	night	_	_	
+7-4	280-284	kept	_	_	
+7-5	285-292	wearing	_	_	
+7-6	293-295	on	_	_	
+7-7	295-296	.	_	_	
+
+#Text=And still you did not come— Oh !
+8-1	297-300	And	_	_	
+8-2	301-306	still	_	_	
+8-3	307-310	you	_	_	
+8-4	311-314	did	_	_	
+8-5	315-318	not	_	_	
+8-6	319-323	come	_	_	
+8-7	323-324	—	_	_	
+8-8	325-327	Oh	_	_	
+8-9	328-329	!	_	_	
+
+#Text=Willie we have missed you.
+9-1	330-336	Willie	_	_	
+9-2	337-339	we	_	_	
+9-3	340-344	have	_	_	
+9-4	345-351	missed	_	_	
+9-5	352-355	you	_	_	
+9-6	355-356	.	_	_	
+
+#Text=Welcome, welcome home.* But what is this that movesroe, And startles my repose ?
+10-1	357-364	Welcome	_	_	
+10-2	364-365	,	_	_	
+10-3	366-373	welcome	_	_	
+10-4	374-378	home	_	_	
+10-5	378-379	.	_	_	
+10-6	379-380	*	_	_	
+10-7	381-384	But	_	_	
+10-8	385-389	what	_	_	
+10-9	390-392	is	_	_	
+10-10	393-397	this	_	_	
+10-11	398-402	that	_	_	
+10-12	403-411	movesroe	_	_	
+10-13	411-412	,	_	_	
+10-14	413-416	And	_	_	
+10-15	417-425	startles	_	_	
+10-16	426-428	my	_	_	
+10-17	429-435	repose	_	_	
+10-18	436-437	?	_	_	
+
+#Text=Yon cannot be my Willie dear.
+11-1	438-441	Yon	_	_	
+11-2	442-448	cannot	_	_	
+11-3	449-451	be	_	_	
+11-4	452-454	my	_	_	
+11-5	455-461	Willie	_	_	
+11-6	462-466	dear	_	_	
+11-7	466-467	.	_	_	
+
+#Text=Ton wear not Willies clothes.
+12-1	468-471	Ton	_	_	
+12-2	472-476	wear	_	_	
+12-3	477-480	not	_	_	
+12-4	481-488	Willies	_	_	
+12-5	489-496	clothes	_	_	
+12-6	496-497	.	_	_	
+
+#Text=Ah!
+13-1	498-500	Ah	_	_	
+13-2	500-501	!	_	_	
+
+#Text=now I see with joy and pride, You’ve joined the rifle corps, Prepared to hold your liberty.
+14-1	502-505	now	_	_	
+14-2	506-507	I	_	_	
+14-3	508-511	see	_	_	
+14-4	512-516	with	_	_	
+14-5	517-520	joy	_	_	
+14-6	521-524	and	_	_	
+14-7	525-530	pride	_	_	
+14-8	530-531	,	_	_	
+14-9	532-535	You	_	_	
+14-10	535-536	’	_	_	
+14-11	536-538	ve	_	_	
+14-12	539-545	joined	_	_	
+14-13	546-549	the	_	_	
+14-14	550-555	rifle	_	_	
+14-15	556-561	corps	_	_	
+14-16	561-562	,	_	_	
+14-17	563-571	Prepared	_	_	
+14-18	572-574	to	_	_	
+14-19	575-579	hold	_	_	
+14-20	580-584	your	_	_	
+14-21	585-592	liberty	_	_	
+14-22	592-593	.	_	_	
+
+#Text=As our fathers did of yore.
+15-1	594-596	As	_	_	
+15-2	597-600	our	_	_	
+15-3	601-608	fathers	_	_	
+15-4	609-612	did	_	_	
+15-5	613-615	of	_	_	
+15-6	616-620	yore	_	_	
+15-7	620-621	.	_	_	
+
+#Text=I do not wish that you should be Compelled from me to roam— OhWillie you have pleased me, Welcome, welcome home.
+16-1	622-623	I	_	_	
+16-2	624-626	do	_	_	
+16-3	627-630	not	_	_	
+16-4	631-635	wish	_	_	
+16-5	636-640	that	_	_	
+16-6	641-644	you	_	_	
+16-7	645-651	should	_	_	
+16-8	652-654	be	_	_	
+16-9	655-664	Compelled	_	_	
+16-10	665-669	from	_	_	
+16-11	670-672	me	_	_	
+16-12	673-675	to	_	_	
+16-13	676-680	roam	_	_	
+16-14	680-681	—	_	_	
+16-15	682-690	OhWillie	_	_	
+16-16	691-694	you	_	_	
+16-17	695-699	have	_	_	
+16-18	700-707	pleased	_	_	
+16-19	708-710	me	_	_	
+16-20	710-711	,	_	_	
+16-21	712-719	Welcome	_	_	
+16-22	719-720	,	_	_	
+16-23	721-728	welcome	_	_	
+16-24	729-733	home	_	_	
+16-25	733-734	.	_	_	
+
+#Text=But who has been your tailor To deck you out so gay, So bravely and becomingly In soldier-like array?
+17-1	735-738	But	_	_	
+17-2	739-742	who	_	_	
+17-3	743-746	has	_	_	
+17-4	747-751	been	_	_	
+17-5	752-756	your	_	_	
+17-6	757-763	tailor	_	_	
+17-7	764-766	To	_	_	
+17-8	767-771	deck	_	_	
+17-9	772-775	you	_	_	
+17-10	776-779	out	_	_	
+17-11	780-782	so	_	_	
+17-12	783-786	gay	_	_	
+17-13	786-787	,	_	_	
+17-14	788-790	So	_	_	
+17-15	791-798	bravely	_	_	
+17-16	799-802	and	_	_	
+17-17	803-813	becomingly	_	_	
+17-18	814-816	In	_	_	
+17-19	817-829	soldier-like	_	_	
+17-20	830-835	array	_	_	
+17-21	835-836	?	_	_	
+
+#Text=Tour clothes are made with taste and skill.
+18-1	837-841	Tour	_	_	
+18-2	842-849	clothes	_	_	
+18-3	850-853	are	_	_	
+18-4	854-858	made	_	_	
+18-5	859-863	with	_	_	
+18-6	864-869	taste	_	_	
+18-7	870-873	and	_	_	
+18-8	874-879	skill	_	_	
+18-9	879-880	.	_	_	
+
+#Text=The fabric good also; And manfully you’ll lock, my love, If to the field you go.
+19-1	881-884	The	_	_	
+19-2	885-891	fabric	_	_	
+19-3	892-896	good	_	_	
+19-4	897-901	also	_	_	
+19-5	901-902	;	_	_	
+19-6	903-906	And	_	_	
+19-7	907-915	manfully	_	_	
+19-8	916-919	you	_	_	
+19-9	919-920	’	_	_	
+19-10	920-922	ll	_	_	
+19-11	923-927	lock	_	_	
+19-12	927-928	,	_	_	
+19-13	929-931	my	_	_	
+19-14	932-936	love	_	_	
+19-15	936-937	,	_	_	
+19-16	938-940	If	_	_	
+19-17	941-943	to	_	_	
+19-18	944-947	the	_	_	
+19-19	948-953	field	_	_	
+19-20	954-957	you	_	_	
+19-21	958-960	go	_	_	
+19-22	960-961	.	_	_	
+
+#Text=But oh, I should be very sad If were compelled to part— Oh!
+20-1	962-965	But	_	_	
+20-2	966-968	oh	_	_	
+20-3	968-969	,	_	_	
+20-4	970-971	I	_	_	
+20-5	972-978	should	_	_	
+20-6	979-981	be	_	_	
+20-7	982-986	very	_	_	
+20-8	987-990	sad	_	_	
+20-9	991-993	If	_	_	
+20-10	994-998	were	_	_	
+20-11	999-1008	compelled	_	_	
+20-12	1009-1011	to	_	_	
+20-13	1012-1016	part	_	_	
+20-14	1016-1017	—	_	_	
+20-15	1018-1020	Oh	_	_	
+20-16	1020-1021	!	_	_	
+
+#Text=Willie I should miss you, The comfort of my heart Dear love, our honest tailor Lives in our own good town, And for his skill and promptitude Has won a just renown.
+21-1	1022-1028	Willie	_	_	
+21-2	1029-1030	I	_	_	
+21-3	1031-1037	should	_	_	
+21-4	1038-1042	miss	_	_	
+21-5	1043-1046	you	_	_	
+21-6	1046-1047	,	_	_	
+21-7	1048-1051	The	_	_	
+21-8	1052-1059	comfort	_	_	
+21-9	1060-1062	of	_	_	
+21-10	1063-1065	my	_	_	
+21-11	1066-1071	heart	_	_	
+21-12	1072-1076	Dear	_	_	
+21-13	1077-1081	love	_	_	
+21-14	1081-1082	,	_	_	
+21-15	1083-1086	our	_	_	
+21-16	1087-1093	honest	_	_	
+21-17	1094-1100	tailor	_	_	
+21-18	1101-1106	Lives	_	_	
+21-19	1107-1109	in	_	_	
+21-20	1110-1113	our	_	_	
+21-21	1114-1117	own	_	_	
+21-22	1118-1122	good	_	_	
+21-23	1123-1127	town	_	_	
+21-24	1127-1128	,	_	_	
+21-25	1129-1132	And	_	_	
+21-26	1133-1136	for	_	_	
+21-27	1137-1140	his	_	_	
+21-28	1141-1146	skill	_	_	
+21-29	1147-1150	and	_	_	
+21-30	1151-1162	promptitude	_	_	
+21-31	1163-1166	Has	_	_	
+21-32	1167-1170	won	_	_	
+21-33	1171-1172	a	_	_	
+21-34	1173-1177	just	_	_	
+21-35	1178-1184	renown	_	_	
+21-36	1184-1185	.	_	_	
+
+#Text=For cheapness he is not excelled— The best that eer was worn, By soldier or civilian, Is the clothing of KILLOHN.
+22-1	1186-1189	For	_	_	
+22-2	1190-1199	cheapness	_	_	
+22-3	1200-1202	he	_	_	
+22-4	1203-1205	is	_	_	
+22-5	1206-1209	not	_	_	
+22-6	1210-1218	excelled	_	_	
+22-7	1218-1219	—	_	_	
+22-8	1220-1223	The	_	_	
+22-9	1224-1228	best	_	_	
+22-10	1229-1233	that	_	_	
+22-11	1234-1237	eer	_	_	
+22-12	1238-1241	was	_	_	
+22-13	1242-1246	worn	_	_	
+22-14	1246-1247	,	_	_	
+22-15	1248-1250	By	_	_	
+22-16	1251-1258	soldier	_	_	
+22-17	1259-1261	or	_	_	
+22-18	1262-1270	civilian	_	_	
+22-19	1270-1271	,	_	_	
+22-20	1272-1274	Is	_	_	
+22-21	1275-1278	the	_	_	
+22-22	1279-1287	clothing	_	_	
+22-23	1288-1290	of	_	_	
+22-24	1291-1298	KILLOHN	_	_	
+22-25	1298-1299	.	_	_	
+
+#Text=His mart is now threefold enlarged.
+23-1	1300-1303	His	_	_	
+23-2	1304-1308	mart	_	_	
+23-3	1309-1311	is	_	_	
+23-4	1312-1315	now	_	_	
+23-5	1316-1325	threefold	_	_	
+23-6	1326-1334	enlarged	_	_	
+23-7	1334-1335	.	_	_	
+
+#Text=And grand is the display, So there the people all should haste Without the least delay.
+24-1	1336-1339	And	_	_	
+24-2	1340-1345	grand	_	_	
+24-3	1346-1348	is	_	_	
+24-4	1349-1352	the	_	_	
+24-5	1353-1360	display	_	_	
+24-6	1360-1361	,	_	_	
+24-7	1362-1364	So	_	_	
+24-8	1365-1370	there	_	_	
+24-9	1371-1374	the	_	_	
+24-10	1375-1381	people	_	_	
+24-11	1382-1385	all	_	_	
+24-12	1386-1392	should	_	_	
+24-13	1393-1398	haste	_	_	
+24-14	1399-1406	Without	_	_	
+24-15	1407-1410	the	_	_	
+24-16	1411-1416	least	_	_	
+24-17	1417-1422	delay	_	_	
+24-18	1422-1423	.	_	_	
+
+#Text=KILLORN AND CO., ARMY TAILORS, AND GENERAL OUTFITTERS, Nos. 11 and 13, George street, and No. 2, Wellington-street, near the Marketplace, Ashton-under-Lyue.
+25-1	1425-1432	KILLORN	_	_	
+25-2	1433-1436	AND	_	_	
+25-3	1437-1439	CO	_	_	
+25-4	1439-1440	.	_	_	
+25-5	1440-1441	,	_	_	
+25-6	1442-1446	ARMY	_	_	
+25-7	1447-1454	TAILORS	_	_	
+25-8	1454-1455	,	_	_	
+25-9	1456-1459	AND	_	_	
+25-10	1460-1467	GENERAL	_	_	
+25-11	1468-1478	OUTFITTERS	_	_	
+25-12	1478-1479	,	_	_	
+25-13	1480-1483	Nos	_	_	
+25-14	1483-1484	.	_	_	
+25-15	1485-1487	11	_	_	
+25-16	1488-1491	and	_	_	
+25-17	1492-1494	13	_	_	
+25-18	1494-1495	,	_	_	
+25-19	1496-1502	George	*[1]	STREET[1]	
+25-20	1503-1509	street	*[1]	STREET[1]	
+25-21	1509-1510	,	_	_	
+25-22	1511-1514	and	_	_	
+25-23	1515-1517	No	_	_	
+25-24	1517-1518	.	_	_	
+25-25	1519-1520	2	_	_	
+25-26	1520-1521	,	_	_	
+25-27	1522-1539	Wellington-street	*	STREET	
+25-28	1539-1540	,	_	_	
+25-29	1541-1545	near	_	_	
+25-30	1546-1549	the	_	_	
+25-31	1550-1561	Marketplace	*	STREET	
+25-32	1561-1562	,	_	_	
+25-33	1563-1580	Ashton-under-Lyue	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+25-34	1580-1581	.	_	_	

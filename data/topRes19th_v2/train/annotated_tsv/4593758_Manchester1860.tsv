@@ -1,0 +1,293 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=GREECE.
+1-1	0-6	GREECE	https://en.wikipedia.org/wiki/Greece	LOC	
+1-2	6-7	.	_	_	
+
+#Text=The" latest news from Athens reporting the choice of j Prince Alfred as King, confirms what has before been j stated, that the English government are altogether neutral, and have further given instructions to the English Minister at the Greek capital to refrain from endeavouring in any way to influence the election.
+2-1	9-12	The	_	_	
+2-2	12-13	"	_	_	
+2-3	14-20	latest	_	_	
+2-4	21-25	news	_	_	
+2-5	26-30	from	_	_	
+2-6	31-37	Athens	https://en.wikipedia.org/wiki/Athens	LOC	
+2-7	38-47	reporting	_	_	
+2-8	48-51	the	_	_	
+2-9	52-58	choice	_	_	
+2-10	59-61	of	_	_	
+2-11	62-63	j	_	_	
+2-12	64-70	Prince	_	_	
+2-13	71-77	Alfred	_	_	
+2-14	78-80	as	_	_	
+2-15	81-85	King	_	_	
+2-16	85-86	,	_	_	
+2-17	87-95	confirms	_	_	
+2-18	96-100	what	_	_	
+2-19	101-104	has	_	_	
+2-20	105-111	before	_	_	
+2-21	112-116	been	_	_	
+2-22	117-118	j	_	_	
+2-23	119-125	stated	_	_	
+2-24	125-126	,	_	_	
+2-25	127-131	that	_	_	
+2-26	132-135	the	_	_	
+2-27	136-143	English	_	_	
+2-28	144-154	government	_	_	
+2-29	155-158	are	_	_	
+2-30	159-169	altogether	_	_	
+2-31	170-177	neutral	_	_	
+2-32	177-178	,	_	_	
+2-33	179-182	and	_	_	
+2-34	183-187	have	_	_	
+2-35	188-195	further	_	_	
+2-36	196-201	given	_	_	
+2-37	202-214	instructions	_	_	
+2-38	215-217	to	_	_	
+2-39	218-221	the	_	_	
+2-40	222-229	English	_	_	
+2-41	230-238	Minister	_	_	
+2-42	239-241	at	_	_	
+2-43	242-245	the	_	_	
+2-44	246-251	Greek	_	_	
+2-45	252-259	capital	_	_	
+2-46	260-262	to	_	_	
+2-47	263-270	refrain	_	_	
+2-48	271-275	from	_	_	
+2-49	276-288	endeavouring	_	_	
+2-50	289-291	in	_	_	
+2-51	292-295	any	_	_	
+2-52	296-299	way	_	_	
+2-53	300-302	to	_	_	
+2-54	303-312	influence	_	_	
+2-55	313-316	the	_	_	
+2-56	317-325	election	_	_	
+2-57	325-326	.	_	_	
+
+#Text=The elections to the National Assembly will commence on the otb, aud terminate on the 10th of December.
+3-1	327-330	The	_	_	
+3-2	331-340	elections	_	_	
+3-3	341-343	to	_	_	
+3-4	344-347	the	_	_	
+3-5	348-356	National	_	_	
+3-6	357-365	Assembly	_	_	
+3-7	366-370	will	_	_	
+3-8	371-379	commence	_	_	
+3-9	380-382	on	_	_	
+3-10	383-386	the	_	_	
+3-11	387-390	otb	_	_	
+3-12	390-391	,	_	_	
+3-13	392-395	aud	_	_	
+3-14	396-405	terminate	_	_	
+3-15	406-408	on	_	_	
+3-16	409-412	the	_	_	
+3-17	413-417	10th	_	_	
+3-18	418-420	of	_	_	
+3-19	421-429	December	_	_	
+3-20	429-430	.	_	_	
+
+#Text=Several of the celebrated refugees who have returned to Athens have received a brilliant ovation.
+4-1	431-438	Several	_	_	
+4-2	439-441	of	_	_	
+4-3	442-445	the	_	_	
+4-4	446-456	celebrated	_	_	
+4-5	457-465	refugees	_	_	
+4-6	466-469	who	_	_	
+4-7	470-474	have	_	_	
+4-8	475-483	returned	_	_	
+4-9	484-486	to	_	_	
+4-10	487-493	Athens	https://en.wikipedia.org/wiki/Athens	LOC	
+4-11	494-498	have	_	_	
+4-12	499-507	received	_	_	
+4-13	508-509	a	_	_	
+4-14	510-519	brilliant	_	_	
+4-15	520-527	ovation	_	_	
+4-16	527-528	.	_	_	
+
+#Text=Tranquillitycontinues to prevail thiOiUhout tbe country.
+5-1	529-550	Tranquillitycontinues	_	_	
+5-2	551-553	to	_	_	
+5-3	554-561	prevail	_	_	
+5-4	562-572	thiOiUhout	_	_	
+5-5	573-576	tbe	_	_	
+5-6	577-584	country	_	_	
+5-7	584-585	.	_	_	
+
+#Text=Athens, Nov. 22. ] The provisional government is taking measures for insuring freedom of voting at the forthcoming election, and has threatened with dismissal all officials who should be guilty of exercising any undue influence.
+6-1	587-593	Athens	https://en.wikipedia.org/wiki/Athens	LOC	
+6-2	593-594	,	_	_	
+6-3	595-598	Nov	_	_	
+6-4	598-599	.	_	_	
+6-5	600-602	22	_	_	
+6-6	602-603	.	_	_	
+6-7	604-605	]	_	_	
+6-8	606-609	The	_	_	
+6-9	610-621	provisional	_	_	
+6-10	622-632	government	_	_	
+6-11	633-635	is	_	_	
+6-12	636-642	taking	_	_	
+6-13	643-651	measures	_	_	
+6-14	652-655	for	_	_	
+6-15	656-664	insuring	_	_	
+6-16	665-672	freedom	_	_	
+6-17	673-675	of	_	_	
+6-18	676-682	voting	_	_	
+6-19	683-685	at	_	_	
+6-20	686-689	the	_	_	
+6-21	690-701	forthcoming	_	_	
+6-22	702-710	election	_	_	
+6-23	710-711	,	_	_	
+6-24	712-715	and	_	_	
+6-25	716-719	has	_	_	
+6-26	720-730	threatened	_	_	
+6-27	731-735	with	_	_	
+6-28	736-745	dismissal	_	_	
+6-29	746-749	all	_	_	
+6-30	750-759	officials	_	_	
+6-31	760-763	who	_	_	
+6-32	764-770	should	_	_	
+6-33	771-773	be	_	_	
+6-34	774-780	guilty	_	_	
+6-35	781-783	of	_	_	
+6-36	784-794	exercising	_	_	
+6-37	795-798	any	_	_	
+6-38	799-804	undue	_	_	
+6-39	805-814	influence	_	_	
+6-40	814-815	.	_	_	
+
+#Text=The revolutionary party is endeavouring to cany the election of members opposed to the government.
+7-1	816-819	The	_	_	
+7-2	820-833	revolutionary	_	_	
+7-3	834-839	party	_	_	
+7-4	840-842	is	_	_	
+7-5	843-855	endeavouring	_	_	
+7-6	856-858	to	_	_	
+7-7	859-863	cany	_	_	
+7-8	864-867	the	_	_	
+7-9	868-876	election	_	_	
+7-10	877-879	of	_	_	
+7-11	880-887	members	_	_	
+7-12	888-895	opposed	_	_	
+7-13	896-898	to	_	_	
+7-14	899-902	the	_	_	
+7-15	903-913	government	_	_	
+7-16	913-914	.	_	_	
+
+#Text=The Times has received the following telegram : — "Athens, Nov. 23.
+8-1	915-918	The	_	_	
+8-2	919-924	Times	_	_	
+8-3	925-928	has	_	_	
+8-4	929-937	received	_	_	
+8-5	938-941	the	_	_	
+8-6	942-951	following	_	_	
+8-7	952-960	telegram	_	_	
+8-8	961-962	:	_	_	
+8-9	963-964	—	_	_	
+8-10	965-966	"	_	_	
+8-11	966-972	Athens	https://en.wikipedia.org/wiki/Athens	LOC	
+8-12	972-973	,	_	_	
+8-13	974-977	Nov	_	_	
+8-14	977-978	.	_	_	
+8-15	979-981	23	_	_	
+8-16	981-982	.	_	_	
+
+#Text=A great demonstration was made last night.
+9-1	983-984	A	_	_	
+9-2	985-990	great	_	_	
+9-3	991-1004	demonstration	_	_	
+9-4	1005-1008	was	_	_	
+9-5	1009-1013	made	_	_	
+9-6	1014-1018	last	_	_	
+9-7	1019-1024	night	_	_	
+9-8	1024-1025	.	_	_	
+
+#Text=A large crowd of all classes, after parading the streets, aud shouting for Prince Alfred, stopped before the British legation, and would not depart until Mr.
+10-1	1026-1027	A	_	_	
+10-2	1028-1033	large	_	_	
+10-3	1034-1039	crowd	_	_	
+10-4	1040-1042	of	_	_	
+10-5	1043-1046	all	_	_	
+10-6	1047-1054	classes	_	_	
+10-7	1054-1055	,	_	_	
+10-8	1056-1061	after	_	_	
+10-9	1062-1070	parading	_	_	
+10-10	1071-1074	the	_	_	
+10-11	1075-1082	streets	_	_	
+10-12	1082-1083	,	_	_	
+10-13	1084-1087	aud	_	_	
+10-14	1088-1096	shouting	_	_	
+10-15	1097-1100	for	_	_	
+10-16	1101-1107	Prince	_	_	
+10-17	1108-1114	Alfred	_	_	
+10-18	1114-1115	,	_	_	
+10-19	1116-1123	stopped	_	_	
+10-20	1124-1130	before	_	_	
+10-21	1131-1134	the	_	_	
+10-22	1135-1142	British	_	_	
+10-23	1143-1151	legation	_	_	
+10-24	1151-1152	,	_	_	
+10-25	1153-1156	and	_	_	
+10-26	1157-1162	would	_	_	
+10-27	1163-1166	not	_	_	
+10-28	1167-1173	depart	_	_	
+10-29	1174-1179	until	_	_	
+10-30	1180-1182	Mr	_	_	
+10-31	1182-1183	.	_	_	
+
+#Text=Scarlett addressed them.
+11-1	1184-1192	Scarlett	_	_	
+11-2	1193-1202	addressed	_	_	
+11-3	1203-1207	them	_	_	
+11-4	1207-1208	.	_	_	
+
+#Text=Thanking them for their sympathy towards England, he told them that he could not give an opinion on the subject which brought them there, but that Greece had the best wishes of England.
+12-1	1209-1217	Thanking	_	_	
+12-2	1218-1222	them	_	_	
+12-3	1223-1226	for	_	_	
+12-4	1227-1232	their	_	_	
+12-5	1233-1241	sympathy	_	_	
+12-6	1242-1249	towards	_	_	
+12-7	1250-1257	England	https://en.wikipedia.org/wiki/England	LOC	
+12-8	1257-1258	,	_	_	
+12-9	1259-1261	he	_	_	
+12-10	1262-1266	told	_	_	
+12-11	1267-1271	them	_	_	
+12-12	1272-1276	that	_	_	
+12-13	1277-1279	he	_	_	
+12-14	1280-1285	could	_	_	
+12-15	1286-1289	not	_	_	
+12-16	1290-1294	give	_	_	
+12-17	1295-1297	an	_	_	
+12-18	1298-1305	opinion	_	_	
+12-19	1306-1308	on	_	_	
+12-20	1309-1312	the	_	_	
+12-21	1313-1320	subject	_	_	
+12-22	1321-1326	which	_	_	
+12-23	1327-1334	brought	_	_	
+12-24	1335-1339	them	_	_	
+12-25	1340-1345	there	_	_	
+12-26	1345-1346	,	_	_	
+12-27	1347-1350	but	_	_	
+12-28	1351-1355	that	_	_	
+12-29	1356-1362	Greece	https://en.wikipedia.org/wiki/Greece	LOC	
+12-30	1363-1366	had	_	_	
+12-31	1367-1370	the	_	_	
+12-32	1371-1375	best	_	_	
+12-33	1376-1382	wishes	_	_	
+12-34	1383-1385	of	_	_	
+12-35	1386-1393	England	https://en.wikipedia.org/wiki/England	LOC	
+12-36	1393-1394	.	_	_	
+
+#Text=The crowd then dispersed in the most orderly manner."
+13-1	1395-1398	The	_	_	
+13-2	1399-1404	crowd	_	_	
+13-3	1405-1409	then	_	_	
+13-4	1410-1419	dispersed	_	_	
+13-5	1420-1422	in	_	_	
+13-6	1423-1426	the	_	_	
+13-7	1427-1431	most	_	_	
+13-8	1432-1439	orderly	_	_	
+13-9	1440-1446	manner	_	_	
+13-10	1446-1447	.	_	_	
+13-11	1447-1448	"	_	_	

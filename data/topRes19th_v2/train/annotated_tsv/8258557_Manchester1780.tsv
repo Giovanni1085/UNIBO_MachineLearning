@@ -1,0 +1,635 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Saturday’s and Sunday’s Posts.
+1-1	0-8	Saturday	_	_	
+1-2	8-9	’	_	_	
+1-3	9-10	s	_	_	
+1-4	11-14	and	_	_	
+1-5	15-21	Sunday	_	_	
+1-6	21-22	’	_	_	
+1-7	22-23	s	_	_	
+1-8	24-29	Posts	_	_	
+1-9	29-30	.	_	_	
+
+#Text=From the Evening Posts and D.vn v Papers.
+2-1	32-36	From	_	_	
+2-2	37-40	the	_	_	
+2-3	41-48	Evening	_	_	
+2-4	49-54	Posts	_	_	
+2-5	55-58	and	_	_	
+2-6	59-63	D.vn	_	_	
+2-7	64-65	v	_	_	
+2-8	66-72	Papers	_	_	
+2-9	72-73	.	_	_	
+
+#Text=June 5.
+3-1	74-78	June	_	_	
+3-2	79-80	5	_	_	
+3-3	80-81	.	_	_	
+
+#Text=A M E R I C A.
+4-1	82-83	A	https://en.wikipedia.org/wiki/Americas[1]	LOC[1]	
+4-2	84-85	M	https://en.wikipedia.org/wiki/Americas[1]	LOC[1]	
+4-3	86-87	E	https://en.wikipedia.org/wiki/Americas[1]	LOC[1]	
+4-4	88-89	R	https://en.wikipedia.org/wiki/Americas[1]	LOC[1]	
+4-5	90-91	I	https://en.wikipedia.org/wiki/Americas[1]	LOC[1]	
+4-6	92-93	C	https://en.wikipedia.org/wiki/Americas[1]	LOC[1]	
+4-7	94-95	A	https://en.wikipedia.org/wiki/Americas[1]	LOC[1]	
+4-8	95-96	.	_	_	
+
+#Text=Kingfton, ATasch I.
+5-1	97-105	Kingfton	https://en.wikipedia.org/wiki/Kingston	LOC	
+5-2	105-106	,	_	_	
+5-3	107-113	ATasch	_	_	
+5-4	114-115	I	_	_	
+5-5	115-116	.	_	_	
+
+#Text=Service (of the Schooner Convert, from St Tho \\jl mass) informs, tiiat about 15 Days ago, a Fiench 64 Gun Ship and a Frigate, fell in with three Englifh 74 Guns Ships that were cruizing to Windward, by which the latter, n mcd the Iphig-ne, was taken, but the former efeaped, 4 d .
+6-1	117-124	Service	_	_	
+6-2	125-126	(	_	_	
+6-3	126-128	of	_	_	
+6-4	129-132	the	_	_	
+6-5	133-141	Schooner	_	_	
+6-6	142-149	Convert	_	_	
+6-7	149-150	,	_	_	
+6-8	151-155	from	_	_	
+6-9	156-158	St	_	_	
+6-10	159-162	Tho	_	_	
+6-11	163-164	\	_	_	
+6-12	164-166	jl	_	_	
+6-13	167-171	mass	_	_	
+6-14	171-172	)	_	_	
+6-15	173-180	informs	_	_	
+6-16	180-181	,	_	_	
+6-17	182-187	tiiat	_	_	
+6-18	188-193	about	_	_	
+6-19	194-196	15	_	_	
+6-20	197-201	Days	_	_	
+6-21	202-205	ago	_	_	
+6-22	205-206	,	_	_	
+6-23	207-208	a	_	_	
+6-24	209-215	Fiench	_	_	
+6-25	216-218	64	_	_	
+6-26	219-222	Gun	_	_	
+6-27	223-227	Ship	_	_	
+6-28	228-231	and	_	_	
+6-29	232-233	a	_	_	
+6-30	234-241	Frigate	_	_	
+6-31	241-242	,	_	_	
+6-32	243-247	fell	_	_	
+6-33	248-250	in	_	_	
+6-34	251-255	with	_	_	
+6-35	256-261	three	_	_	
+6-36	262-269	Englifh	_	_	
+6-37	270-272	74	_	_	
+6-38	273-277	Guns	_	_	
+6-39	278-283	Ships	_	_	
+6-40	284-288	that	_	_	
+6-41	289-293	were	_	_	
+6-42	294-302	cruizing	_	_	
+6-43	303-305	to	_	_	
+6-44	306-314	Windward	_	_	
+6-45	314-315	,	_	_	
+6-46	316-318	by	_	_	
+6-47	319-324	which	_	_	
+6-48	325-328	the	_	_	
+6-49	329-335	latter	_	_	
+6-50	335-336	,	_	_	
+6-51	337-338	n	_	_	
+6-52	339-342	mcd	_	_	
+6-53	343-346	the	_	_	
+6-54	347-355	Iphig-ne	_	_	
+6-55	355-356	,	_	_	
+6-56	357-360	was	_	_	
+6-57	361-366	taken	_	_	
+6-58	366-367	,	_	_	
+6-59	368-371	but	_	_	
+6-60	372-375	the	_	_	
+6-61	376-382	former	_	_	
+6-62	383-390	efeaped	_	_	
+6-63	390-391	,	_	_	
+6-64	392-393	4	_	_	
+6-65	394-395	d	_	_	
+6-66	396-397	.	_	_	
+
+#Text=\\"t into St.
+7-1	397-398	\	_	_	
+7-2	398-399	"	_	_	
+7-3	399-400	t	_	_	
+7-4	401-405	into	_	_	
+7-5	406-408	St	_	_	
+7-6	408-409	.	_	_	
+
+#Text=F-ufUtkrs.
+8-1	410-419	F-ufUtkrs	_	_	
+8-2	419-420	.	_	_	
+
+#Text=A F.ench Two-decker has lately been loft to the Leeward : Saba, a Perfon w.
+9-1	421-422	A	_	_	
+9-2	423-429	F.ench	_	_	
+9-3	430-440	Two-decker	_	_	
+9-4	441-444	has	_	_	
+9-5	445-451	lately	_	_	
+9-6	452-456	been	_	_	
+9-7	457-461	loft	_	_	
+9-8	462-464	to	_	_	
+9-9	465-468	the	_	_	
+9-10	469-476	Leeward	_	_	
+9-11	477-478	:	_	_	
+9-12	479-483	Saba	_	_	
+9-13	483-484	,	_	_	
+9-14	485-486	a	_	_	
+9-15	487-493	Perfon	_	_	
+9-16	494-495	w	_	_	
+9-17	495-496	.	_	_	
+
+#Text=;s a.lived at St.
+10-1	496-497	;	_	_	
+10-2	497-498	s	_	_	
+10-3	499-506	a.lived	_	_	
+10-4	507-509	at	_	_	
+10-5	510-512	St	_	_	
+10-6	512-513	.	_	_	
+
+#Text=Thomass, who had been up > <ehe Wreck; he imagined Ihe mud have been blown up, flic had a French Pc ndant flying.
+11-1	514-521	Thomass	_	_	
+11-2	521-522	,	_	_	
+11-3	523-526	who	_	_	
+11-4	527-530	had	_	_	
+11-5	531-535	been	_	_	
+11-6	536-538	up	_	_	
+11-7	539-540	>	_	_	
+11-8	541-542	<	_	_	
+11-9	542-545	ehe	_	_	
+11-10	546-551	Wreck	_	_	
+11-11	551-552	;	_	_	
+11-12	553-555	he	_	_	
+11-13	556-564	imagined	_	_	
+11-14	565-568	Ihe	_	_	
+11-15	569-572	mud	_	_	
+11-16	573-577	have	_	_	
+11-17	578-582	been	_	_	
+11-18	583-588	blown	_	_	
+11-19	589-591	up	_	_	
+11-20	591-592	,	_	_	
+11-21	593-597	flic	_	_	
+11-22	598-601	had	_	_	
+11-23	602-603	a	_	_	
+11-24	604-610	French	_	_	
+11-25	611-613	Pc	_	_	
+11-26	614-619	ndant	_	_	
+11-27	620-626	flying	_	_	
+11-28	626-627	.	_	_	
+
+#Text=Three F,ngli!
+12-1	628-633	Three	_	_	
+12-2	634-635	F	_	_	
+12-3	635-636	,	_	_	
+12-4	636-640	ngli	_	_	
+12-5	640-641	!	_	_	
+
+#Text=h Velfels have been cut out of Mango, a neutral P it in St.
+13-1	641-642	h	_	_	
+13-2	643-650	Velfels	_	_	
+13-3	651-655	have	_	_	
+13-4	656-660	been	_	_	
+13-5	661-664	cut	_	_	
+13-6	665-668	out	_	_	
+13-7	669-671	of	_	_	
+13-8	672-677	Mango	_	_	
+13-9	677-678	,	_	_	
+13-10	679-680	a	_	_	
+13-11	681-688	neutral	_	_	
+13-12	689-690	P	_	_	
+13-13	691-693	it	_	_	
+13-14	694-696	in	_	_	
+13-15	697-699	St	_	_	
+13-16	699-700	.	_	_	
+
+#Text=Martins, by a French 50 Gun Ship and two I ;ij3tCs.
+14-1	701-708	Martins	_	_	
+14-2	708-709	,	_	_	
+14-3	710-712	by	_	_	
+14-4	713-714	a	_	_	
+14-5	715-721	French	_	_	
+14-6	722-724	50	_	_	
+14-7	725-728	Gun	_	_	
+14-8	729-733	Ship	_	_	
+14-9	734-737	and	_	_	
+14-10	738-741	two	_	_	
+14-11	742-743	I	_	_	
+14-12	744-745	;	_	_	
+14-13	745-751	ij3tCs	_	_	
+14-14	751-752	.	_	_	
+
+#Text=Kugjicn, March 8.
+15-1	753-760	Kugjicn	_	_	
+15-2	760-761	,	_	_	
+15-3	762-767	March	_	_	
+15-4	768-769	8	_	_	
+15-5	769-770	.	_	_	
+
+#Text=The Proferpine returning here from a ciuiu, fell in with two neutral Yelicls from the Cape, tbe captains of which mentioned, that two 74 Gun Ships, belonging to Vaudreuils Squadrous, had been loft oil* the Caraccas.
+16-1	771-774	The	_	_	
+16-2	775-785	Proferpine	_	_	
+16-3	786-795	returning	_	_	
+16-4	796-800	here	_	_	
+16-5	801-805	from	_	_	
+16-6	806-807	a	_	_	
+16-7	808-813	ciuiu	_	_	
+16-8	813-814	,	_	_	
+16-9	815-819	fell	_	_	
+16-10	820-822	in	_	_	
+16-11	823-827	with	_	_	
+16-12	828-831	two	_	_	
+16-13	832-839	neutral	_	_	
+16-14	840-847	Yelicls	_	_	
+16-15	848-852	from	_	_	
+16-16	853-856	the	_	_	
+16-17	857-861	Cape	_	_	
+16-18	861-862	,	_	_	
+16-19	863-866	tbe	_	_	
+16-20	867-875	captains	_	_	
+16-21	876-878	of	_	_	
+16-22	879-884	which	_	_	
+16-23	885-894	mentioned	_	_	
+16-24	894-895	,	_	_	
+16-25	896-900	that	_	_	
+16-26	901-904	two	_	_	
+16-27	905-907	74	_	_	
+16-28	908-911	Gun	_	_	
+16-29	912-917	Ships	_	_	
+16-30	917-918	,	_	_	
+16-31	919-928	belonging	_	_	
+16-32	929-931	to	_	_	
+16-33	932-942	Vaudreuils	_	_	
+16-34	943-952	Squadrous	_	_	
+16-35	952-953	,	_	_	
+16-36	954-957	had	_	_	
+16-37	958-962	been	_	_	
+16-38	963-967	loft	_	_	
+16-39	968-971	oil	_	_	
+16-40	971-972	*	_	_	
+16-41	973-976	the	_	_	
+16-42	977-985	Caraccas	_	_	
+16-43	985-986	.	_	_	
+
+#Text=A Schooner, Prize to his Majeflys Ship Rcfiftancc, has been lent in, die left the Refiftau.ce in chace of 14 Sail of Americans that were under th_ Convoy ot a 40 Gun Ship.
+17-1	987-988	A	_	_	
+17-2	989-997	Schooner	_	_	
+17-3	997-998	,	_	_	
+17-4	999-1004	Prize	_	_	
+17-5	1005-1007	to	_	_	
+17-6	1008-1011	his	_	_	
+17-7	1012-1020	Majeflys	_	_	
+17-8	1021-1025	Ship	_	_	
+17-9	1026-1036	Rcfiftancc	_	_	
+17-10	1036-1037	,	_	_	
+17-11	1038-1041	has	_	_	
+17-12	1042-1046	been	_	_	
+17-13	1047-1051	lent	_	_	
+17-14	1052-1054	in	_	_	
+17-15	1054-1055	,	_	_	
+17-16	1056-1059	die	_	_	
+17-17	1060-1064	left	_	_	
+17-18	1065-1068	the	_	_	
+17-19	1069-1080	Refiftau.ce	_	_	
+17-20	1081-1083	in	_	_	
+17-21	1084-1089	chace	_	_	
+17-22	1090-1092	of	_	_	
+17-23	1093-1095	14	_	_	
+17-24	1096-1100	Sail	_	_	
+17-25	1101-1103	of	_	_	
+17-26	1104-1113	Americans	_	_	
+17-27	1114-1118	that	_	_	
+17-28	1119-1123	were	_	_	
+17-29	1124-1129	under	_	_	
+17-30	1130-1132	th	_	_	
+17-31	1132-1133	_	_	_	
+17-32	1134-1140	Convoy	_	_	
+17-33	1141-1143	ot	_	_	
+17-34	1144-1145	a	_	_	
+17-35	1146-1148	40	_	_	
+17-36	1149-1152	Gun	_	_	
+17-37	1153-1157	Ship	_	_	
+17-38	1157-1158	.	_	_	
+
+#Text=Kingjhu, March XJ.
+18-1	1159-1166	Kingjhu	_	_	
+18-2	1166-1167	,	_	_	
+18-3	1168-1173	March	_	_	
+18-4	1174-1176	XJ	_	_	
+18-5	1176-1177	.	_	_	
+
+#Text=Wednefday anived from a cruize his Majeftys Ship Reliflance, Capt.
+19-1	1178-1187	Wednefday	_	_	
+19-2	1188-1194	anived	_	_	
+19-3	1195-1199	from	_	_	
+19-4	1200-1201	a	_	_	
+19-5	1202-1208	cruize	_	_	
+19-6	1209-1212	his	_	_	
+19-7	1213-1221	Majeftys	_	_	
+19-8	1222-1226	Ship	_	_	
+19-9	1227-1237	Reliflance	_	_	
+19-10	1237-1238	,	_	_	
+19-11	1239-1243	Capt	_	_	
+19-12	1243-1244	.	_	_	
+
+#Text=King, with La Coquette, a French Frigate of 28 Guns, commanded by Le Marquis de Grade, which flic captured ne::r Turks Ifland.
+20-1	1245-1249	King	_	_	
+20-2	1249-1250	,	_	_	
+20-3	1251-1255	with	_	_	
+20-4	1256-1258	La	_	_	
+20-5	1259-1267	Coquette	_	_	
+20-6	1267-1268	,	_	_	
+20-7	1269-1270	a	_	_	
+20-8	1271-1277	French	_	_	
+20-9	1278-1285	Frigate	_	_	
+20-10	1286-1288	of	_	_	
+20-11	1289-1291	28	_	_	
+20-12	1292-1296	Guns	_	_	
+20-13	1296-1297	,	_	_	
+20-14	1298-1307	commanded	_	_	
+20-15	1308-1310	by	_	_	
+20-16	1311-1313	Le	_	_	
+20-17	1314-1321	Marquis	_	_	
+20-18	1322-1324	de	_	_	
+20-19	1325-1330	Grade	_	_	
+20-20	1330-1331	,	_	_	
+20-21	1332-1337	which	_	_	
+20-22	1338-1342	flic	_	_	
+20-23	1343-1351	captured	_	_	
+20-24	1352-1354	ne	_	_	
+20-25	1354-1355	:	_	_	
+20-26	1355-1356	:	_	_	
+20-27	1356-1357	r	_	_	
+20-28	1358-1363	Turks	_	_	
+20-29	1364-1370	Ifland	_	_	
+20-30	1370-1371	.	_	_	
+
+#Text=The French have taken PoOcflion of Turks Ifland, with about 200 Men, and erected a Battery thereof 10 Guns; an Attempt has been made to difpoiTeis them by 130 Men, commanded by Capt.
+21-1	1372-1375	The	_	_	
+21-2	1376-1382	French	_	_	
+21-3	1383-1387	have	_	_	
+21-4	1388-1393	taken	_	_	
+21-5	1394-1403	PoOcflion	_	_	
+21-6	1404-1406	of	_	_	
+21-7	1407-1412	Turks	_	_	
+21-8	1413-1419	Ifland	_	_	
+21-9	1419-1420	,	_	_	
+21-10	1421-1425	with	_	_	
+21-11	1426-1431	about	_	_	
+21-12	1432-1435	200	_	_	
+21-13	1436-1439	Men	_	_	
+21-14	1439-1440	,	_	_	
+21-15	1441-1444	and	_	_	
+21-16	1445-1452	erected	_	_	
+21-17	1453-1454	a	_	_	
+21-18	1455-1462	Battery	_	_	
+21-19	1463-1470	thereof	_	_	
+21-20	1471-1473	10	_	_	
+21-21	1474-1478	Guns	_	_	
+21-22	1478-1479	;	_	_	
+21-23	1480-1482	an	_	_	
+21-24	1483-1490	Attempt	_	_	
+21-25	1491-1494	has	_	_	
+21-26	1495-1499	been	_	_	
+21-27	1500-1504	made	_	_	
+21-28	1505-1507	to	_	_	
+21-29	1508-1518	difpoiTeis	_	_	
+21-30	1519-1523	them	_	_	
+21-31	1524-1526	by	_	_	
+21-32	1527-1530	130	_	_	
+21-33	1531-1534	Men	_	_	
+21-34	1534-1535	,	_	_	
+21-35	1536-1545	commanded	_	_	
+21-36	1546-1548	by	_	_	
+21-37	1549-1553	Capt	_	_	
+21-38	1553-1554	.	_	_	
+
+#Text=Dickfbn, wi.ofe landing was covered by thj Tattar and Drake Sloops, and the Barrington, but tirey were repulfed with fome Lo.s, as the Tartar, having 101 l he r Anchor, could not approach near enough to reach their Battery.
+22-1	1555-1562	Dickfbn	_	_	
+22-2	1562-1563	,	_	_	
+22-3	1564-1570	wi.ofe	_	_	
+22-4	1571-1578	landing	_	_	
+22-5	1579-1582	was	_	_	
+22-6	1583-1590	covered	_	_	
+22-7	1591-1593	by	_	_	
+22-8	1594-1597	thj	_	_	
+22-9	1598-1604	Tattar	_	_	
+22-10	1605-1608	and	_	_	
+22-11	1609-1614	Drake	_	_	
+22-12	1615-1621	Sloops	_	_	
+22-13	1621-1622	,	_	_	
+22-14	1623-1626	and	_	_	
+22-15	1627-1630	the	_	_	
+22-16	1631-1641	Barrington	_	_	
+22-17	1641-1642	,	_	_	
+22-18	1643-1646	but	_	_	
+22-19	1647-1652	tirey	_	_	
+22-20	1653-1657	were	_	_	
+22-21	1658-1666	repulfed	_	_	
+22-22	1667-1671	with	_	_	
+22-23	1672-1676	fome	_	_	
+22-24	1677-1681	Lo.s	_	_	
+22-25	1681-1682	,	_	_	
+22-26	1683-1685	as	_	_	
+22-27	1686-1689	the	_	_	
+22-28	1690-1696	Tartar	_	_	
+22-29	1696-1697	,	_	_	
+22-30	1698-1704	having	_	_	
+22-31	1705-1708	101	_	_	
+22-32	1709-1710	l	_	_	
+22-33	1711-1713	he	_	_	
+22-34	1714-1715	r	_	_	
+22-35	1716-1722	Anchor	_	_	
+22-36	1722-1723	,	_	_	
+22-37	1724-1729	could	_	_	
+22-38	1730-1733	not	_	_	
+22-39	1734-1742	approach	_	_	
+22-40	1743-1747	near	_	_	
+22-41	1748-1754	enough	_	_	
+22-42	1755-1757	to	_	_	
+22-43	1758-1763	reach	_	_	
+22-44	1764-1769	their	_	_	
+22-45	1770-1777	Battery	_	_	
+22-46	1777-1778	.	_	_	
+
+#Text=The Spanifh Brig La Manra has been fent in, alf> the French Ship La Terrifte, of 24 Guns; the former is a Prize to the Alarm, Sybil, and Tobago ; Ihe was brought to off the Nswifla, by a Frigate belonging to Lord Hoods Squadron, which was then 111 fiftht.
+23-1	1779-1782	The	_	_	
+23-2	1783-1790	Spanifh	_	_	
+23-3	1791-1795	Brig	_	_	
+23-4	1796-1798	La	_	_	
+23-5	1799-1804	Manra	_	_	
+23-6	1805-1808	has	_	_	
+23-7	1809-1813	been	_	_	
+23-8	1814-1818	fent	_	_	
+23-9	1819-1821	in	_	_	
+23-10	1821-1822	,	_	_	
+23-11	1823-1826	alf	_	_	
+23-12	1826-1827	>	_	_	
+23-13	1828-1831	the	_	_	
+23-14	1832-1838	French	_	_	
+23-15	1839-1843	Ship	_	_	
+23-16	1844-1846	La	_	_	
+23-17	1847-1855	Terrifte	_	_	
+23-18	1855-1856	,	_	_	
+23-19	1857-1859	of	_	_	
+23-20	1860-1862	24	_	_	
+23-21	1863-1867	Guns	_	_	
+23-22	1867-1868	;	_	_	
+23-23	1869-1872	the	_	_	
+23-24	1873-1879	former	_	_	
+23-25	1880-1882	is	_	_	
+23-26	1883-1884	a	_	_	
+23-27	1885-1890	Prize	_	_	
+23-28	1891-1893	to	_	_	
+23-29	1894-1897	the	_	_	
+23-30	1898-1903	Alarm	_	_	
+23-31	1903-1904	,	_	_	
+23-32	1905-1910	Sybil	_	_	
+23-33	1910-1911	,	_	_	
+23-34	1912-1915	and	_	_	
+23-35	1916-1922	Tobago	_	_	
+23-36	1923-1924	;	_	_	
+23-37	1925-1928	Ihe	_	_	
+23-38	1929-1932	was	_	_	
+23-39	1933-1940	brought	_	_	
+23-40	1941-1943	to	_	_	
+23-41	1944-1947	off	_	_	
+23-42	1948-1951	the	_	_	
+23-43	1952-1959	Nswifla	_	_	
+23-44	1959-1960	,	_	_	
+23-45	1961-1963	by	_	_	
+23-46	1964-1965	a	_	_	
+23-47	1966-1973	Frigate	_	_	
+23-48	1974-1983	belonging	_	_	
+23-49	1984-1986	to	_	_	
+23-50	1987-1991	Lord	_	_	
+23-51	1992-1997	Hoods	_	_	
+23-52	1998-2006	Squadron	_	_	
+23-53	2006-2007	,	_	_	
+23-54	2008-2013	which	_	_	
+23-55	2014-2017	was	_	_	
+23-56	2018-2022	then	_	_	
+23-57	2023-2026	111	_	_	
+23-58	2027-2033	fiftht	_	_	
+23-59	2033-2034	.	_	_	
+
+#Text=The latter was captured under Imperial Colours, off the Cape, by his Majeftys Ship Tartar, Capt.
+24-1	2035-2038	The	_	_	
+24-2	2039-2045	latter	_	_	
+24-3	2046-2049	was	_	_	
+24-4	2050-2058	captured	_	_	
+24-5	2059-2064	under	_	_	
+24-6	2065-2073	Imperial	_	_	
+24-7	2074-2081	Colours	_	_	
+24-8	2081-2082	,	_	_	
+24-9	2083-2086	off	_	_	
+24-10	2087-2090	the	_	_	
+24-11	2091-2095	Cape	_	_	
+24-12	2095-2096	,	_	_	
+24-13	2097-2099	by	_	_	
+24-14	2100-2103	his	_	_	
+24-15	2104-2112	Majeftys	_	_	
+24-16	2113-2117	Ship	_	_	
+24-17	2118-2124	Tartar	_	_	
+24-18	2124-2125	,	_	_	
+24-19	2126-2130	Capt	_	_	
+24-20	2130-2131	.	_	_	
+
+#Text=Fairfax; file is laden *ith Cordr.go and Rale Goods.
+25-1	2132-2139	Fairfax	_	_	
+25-2	2139-2140	;	_	_	
+25-3	2141-2145	file	_	_	
+25-4	2146-2148	is	_	_	
+25-5	2149-2154	laden	_	_	
+25-6	2155-2156	*	_	_	
+25-7	2156-2159	ith	_	_	
+25-8	2160-2168	Cordr.go	_	_	
+25-9	2169-2172	and	_	_	
+25-10	2173-2177	Rale	_	_	
+25-11	2178-2183	Goods	_	_	
+25-12	2183-2184	.	_	_	
+
+#Text=Fhe Ship Holdcrnefs, entirely laden wilh Mads, Bowfprits, Ouk Plank, and Tuubtr, for the Marquis de Vau
+#Text=dreuils Squadron, was taken about three Weeks ago by liis Majeftys Ship Jupiter, Capt.
+26-1	2185-2188	Fhe	_	_	
+26-2	2189-2193	Ship	_	_	
+26-3	2194-2204	Holdcrnefs	_	_	
+26-4	2204-2205	,	_	_	
+26-5	2206-2214	entirely	_	_	
+26-6	2215-2220	laden	_	_	
+26-7	2221-2225	wilh	_	_	
+26-8	2226-2230	Mads	_	_	
+26-9	2230-2231	,	_	_	
+26-10	2232-2241	Bowfprits	_	_	
+26-11	2241-2242	,	_	_	
+26-12	2243-2246	Ouk	_	_	
+26-13	2247-2252	Plank	_	_	
+26-14	2252-2253	,	_	_	
+26-15	2254-2257	and	_	_	
+26-16	2258-2264	Tuubtr	_	_	
+26-17	2264-2265	,	_	_	
+26-18	2266-2269	for	_	_	
+26-19	2270-2273	the	_	_	
+26-20	2274-2281	Marquis	_	_	
+26-21	2282-2284	de	_	_	
+26-22	2285-2288	Vau	_	_	
+26-23	2289-2296	dreuils	_	_	
+26-24	2297-2305	Squadron	_	_	
+26-25	2305-2306	,	_	_	
+26-26	2307-2310	was	_	_	
+26-27	2311-2316	taken	_	_	
+26-28	2317-2322	about	_	_	
+26-29	2323-2328	three	_	_	
+26-30	2329-2334	Weeks	_	_	
+26-31	2335-2338	ago	_	_	
+26-32	2339-2341	by	_	_	
+26-33	2342-2346	liis	_	_	
+26-34	2347-2355	Majeftys	_	_	
+26-35	2356-2360	Ship	_	_	
+26-36	2361-2368	Jupiter	_	_	
+26-37	2368-2369	,	_	_	
+26-38	2370-2374	Capt	_	_	
+26-39	2374-2375	.	_	_	
+
+#Text=Paiflry, and conducted fafe into Antigua.
+27-1	2376-2383	Paiflry	_	_	
+27-2	2383-2384	,	_	_	
+27-3	2385-2388	and	_	_	
+27-4	2389-2398	conducted	_	_	
+27-5	2399-2403	fafe	_	_	
+27-6	2404-2408	into	_	_	
+27-7	2409-2416	Antigua	_	_	
+27-8	2416-2417	.	_	_	
+
+#Text=This moft valuablePriac is eftimated at no lefs a Sum than io.cccl.
+28-1	2418-2422	This	_	_	
+28-2	2423-2427	moft	_	_	
+28-3	2428-2441	valuablePriac	_	_	
+28-4	2442-2444	is	_	_	
+28-5	2445-2454	eftimated	_	_	
+28-6	2455-2457	at	_	_	
+28-7	2458-2460	no	_	_	
+28-8	2461-2465	lefs	_	_	
+28-9	2466-2467	a	_	_	
+28-10	2468-2471	Sum	_	_	
+28-11	2472-2476	than	_	_	
+28-12	2477-2484	io.cccl	_	_	
+28-13	2484-2485	.	_	_	
+
+#Text=Sterling, and is how unloading a: Englifh Harbour!
+29-1	2486-2494	Sterling	_	_	
+29-2	2494-2495	,	_	_	
+29-3	2496-2499	and	_	_	
+29-4	2500-2502	is	_	_	
+29-5	2503-2506	how	_	_	
+29-6	2507-2516	unloading	_	_	
+29-7	2517-2518	a	_	_	
+29-8	2518-2519	:	_	_	
+29-9	2520-2527	Englifh	_	_	
+29-10	2528-2535	Harbour	_	_	
+29-11	2535-2536	!	_	_	

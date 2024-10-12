@@ -1,0 +1,556 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ANNIVERSARY PROCESSION OF SUNDAY SCHOOL CHILDREN.
+1-1	0-11	ANNIVERSARY	_	_	
+1-2	12-22	PROCESSION	_	_	
+1-3	23-25	OF	_	_	
+1-4	26-32	SUNDAY	_	_	
+1-5	33-39	SCHOOL	_	_	
+1-6	40-48	CHILDREN	_	_	
+1-7	48-49	.	_	_	
+
+#Text=Monday last, being Whit-monday, the usual procession of the children taught in the Sunday Schools connected with the establishment, took place".
+2-1	51-57	Monday	_	_	
+2-2	58-62	last	_	_	
+2-3	62-63	,	_	_	
+2-4	64-69	being	_	_	
+2-5	70-81	Whit-monday	_	_	
+2-6	81-82	,	_	_	
+2-7	83-86	the	_	_	
+2-8	87-92	usual	_	_	
+2-9	93-103	procession	_	_	
+2-10	104-106	of	_	_	
+2-11	107-110	the	_	_	
+2-12	111-119	children	_	_	
+2-13	120-126	taught	_	_	
+2-14	127-129	in	_	_	
+2-15	130-133	the	_	_	
+2-16	134-140	Sunday	_	_	
+2-17	141-148	Schools	_	_	
+2-18	149-158	connected	_	_	
+2-19	159-163	with	_	_	
+2-20	164-167	the	_	_	
+2-21	168-181	establishment	_	_	
+2-22	181-182	,	_	_	
+2-23	183-187	took	_	_	
+2-24	188-193	place	_	_	
+2-25	193-194	"	_	_	
+2-26	194-195	.	_	_	
+
+#Text=Soon after eight oclock in the morning, they began to assemble in St.
+3-1	196-200	Soon	_	_	
+3-2	201-206	after	_	_	
+3-3	207-212	eight	_	_	
+3-4	213-219	oclock	_	_	
+3-5	220-222	in	_	_	
+3-6	223-226	the	_	_	
+3-7	227-234	morning	_	_	
+3-8	234-235	,	_	_	
+3-9	236-240	they	_	_	
+3-10	241-246	began	_	_	
+3-11	247-249	to	_	_	
+3-12	250-258	assemble	_	_	
+3-13	259-261	in	_	_	
+3-14	262-264	St	*[1]	STREET[1]	
+3-15	264-265	.	*[1]	STREET[1]	
+
+#Text=Anns-square, the places to be occupied by each school being denoted by boards with tho names of the schools painted on them".
+4-1	266-277	Anns-square	*[1]	STREET[1]	
+4-2	277-278	,	_	_	
+4-3	279-282	the	_	_	
+4-4	283-289	places	_	_	
+4-5	290-292	to	_	_	
+4-6	293-295	be	_	_	
+4-7	296-304	occupied	_	_	
+4-8	305-307	by	_	_	
+4-9	308-312	each	_	_	
+4-10	313-319	school	_	_	
+4-11	320-325	being	_	_	
+4-12	326-333	denoted	_	_	
+4-13	334-336	by	_	_	
+4-14	337-343	boards	_	_	
+4-15	344-348	with	_	_	
+4-16	349-352	tho	_	_	
+4-17	353-358	names	_	_	
+4-18	359-361	of	_	_	
+4-19	362-365	the	_	_	
+4-20	366-373	schools	_	_	
+4-21	374-381	painted	_	_	
+4-22	382-384	on	_	_	
+4-23	385-389	them	_	_	
+4-24	389-390	"	_	_	
+4-25	390-391	.	_	_	
+
+#Text=The morning being delightfully fine, a vast concourse of persons was drawn together to witness the pleasing spectacle, and every window which commanded a view of the square was crowded with fair spectators.
+5-1	392-395	The	_	_	
+5-2	396-403	morning	_	_	
+5-3	404-409	being	_	_	
+5-4	410-422	delightfully	_	_	
+5-5	423-427	fine	_	_	
+5-6	427-428	,	_	_	
+5-7	429-430	a	_	_	
+5-8	431-435	vast	_	_	
+5-9	436-445	concourse	_	_	
+5-10	446-448	of	_	_	
+5-11	449-456	persons	_	_	
+5-12	457-460	was	_	_	
+5-13	461-466	drawn	_	_	
+5-14	467-475	together	_	_	
+5-15	476-478	to	_	_	
+5-16	479-486	witness	_	_	
+5-17	487-490	the	_	_	
+5-18	491-499	pleasing	_	_	
+5-19	500-509	spectacle	_	_	
+5-20	509-510	,	_	_	
+5-21	511-514	and	_	_	
+5-22	515-520	every	_	_	
+5-23	521-527	window	_	_	
+5-24	528-533	which	_	_	
+5-25	534-543	commanded	_	_	
+5-26	544-545	a	_	_	
+5-27	546-550	view	_	_	
+5-28	551-553	of	_	_	
+5-29	554-557	the	_	_	
+5-30	558-564	square	_	_	
+5-31	565-568	was	_	_	
+5-32	569-576	crowded	_	_	
+5-33	577-581	with	_	_	
+5-34	582-586	fair	_	_	
+5-35	587-597	spectators	_	_	
+5-36	597-598	.	_	_	
+
+#Text=At nine oclock, the whole of the children, to the number of upwards of five thousand, having arrived, the procession moved towards King-street, in the following order :— The Police Beadles of Manchester and Salford.
+6-1	599-601	At	_	_	
+6-2	602-606	nine	_	_	
+6-3	607-613	oclock	_	_	
+6-4	613-614	,	_	_	
+6-5	615-618	the	_	_	
+6-6	619-624	whole	_	_	
+6-7	625-627	of	_	_	
+6-8	628-631	the	_	_	
+6-9	632-640	children	_	_	
+6-10	640-641	,	_	_	
+6-11	642-644	to	_	_	
+6-12	645-648	the	_	_	
+6-13	649-655	number	_	_	
+6-14	656-658	of	_	_	
+6-15	659-666	upwards	_	_	
+6-16	667-669	of	_	_	
+6-17	670-674	five	_	_	
+6-18	675-683	thousand	_	_	
+6-19	683-684	,	_	_	
+6-20	685-691	having	_	_	
+6-21	692-699	arrived	_	_	
+6-22	699-700	,	_	_	
+6-23	701-704	the	_	_	
+6-24	705-715	procession	_	_	
+6-25	716-721	moved	_	_	
+6-26	722-729	towards	_	_	
+6-27	730-741	King-street	*	STREET	
+6-28	741-742	,	_	_	
+6-29	743-745	in	_	_	
+6-30	746-749	the	_	_	
+6-31	750-759	following	_	_	
+6-32	760-765	order	_	_	
+6-33	766-767	:	_	_	
+6-34	767-768	—	_	_	
+6-35	769-772	The	_	_	
+6-36	773-779	Police	_	_	
+6-37	780-787	Beadles	_	_	
+6-38	788-790	of	_	_	
+6-39	791-801	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+6-40	802-805	and	_	_	
+6-41	806-813	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+6-42	813-814	.	_	_	
+
+#Text=The Manchester Borough Band.
+7-1	815-818	The	_	_	
+7-2	819-829	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+7-3	830-837	Borough	_	_	
+7-4	838-842	Band	_	_	
+7-5	842-843	.	_	_	
+
+#Text=The Boroughreeve and Constables of Manchester.
+8-1	844-847	The	_	_	
+8-2	848-860	Boroughreeve	_	_	
+8-3	861-864	and	_	_	
+8-4	865-875	Constables	_	_	
+8-5	876-878	of	_	_	
+8-6	879-889	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+8-7	889-890	.	_	_	
+
+#Text=The Very Rev. the Warden and the Fellows of the Collegiate Church.
+9-1	891-894	The	_	_	
+9-2	895-899	Very	_	_	
+9-3	900-903	Rev	_	_	
+9-4	903-904	.	_	_	
+9-5	905-908	the	_	_	
+9-6	909-915	Warden	_	_	
+9-7	916-919	and	_	_	
+9-8	920-923	the	_	_	
+9-9	924-931	Fellows	_	_	
+9-10	932-934	of	_	_	
+9-11	935-938	the	_	_	
+9-12	939-949	Collegiate	https://en.wikipedia.org/wiki/Manchester\_Cathedral[2]	BUILDING[2]	
+9-13	950-956	Church	https://en.wikipedia.org/wiki/Manchester\_Cathedral[2]	BUILDING[2]	
+9-14	956-957	.	_	_	
+
+#Text=The Hon. and Rev.
+10-1	958-961	The	_	_	
+10-2	962-965	Hon	_	_	
+10-3	965-966	.	_	_	
+10-4	967-970	and	_	_	
+10-5	971-974	Rev	_	_	
+10-6	974-975	.	_	_	
+
+#Text=Horace Powys and other Clergymen.
+11-1	976-982	Horace	_	_	
+11-2	983-988	Powys	_	_	
+11-3	989-992	and	_	_	
+11-4	993-998	other	_	_	
+11-5	999-1008	Clergymen	_	_	
+11-6	1008-1009	.	_	_	
+
+#Text=The Churchwardens and Sidesmen of Manchester.
+12-1	1010-1013	The	_	_	
+12-2	1014-1027	Churchwardens	_	_	
+12-3	1028-1031	and	_	_	
+12-4	1032-1040	Sidesmen	_	_	
+12-5	1041-1043	of	_	_	
+12-6	1044-1054	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+12-7	1054-1055	.	_	_	
+
+#Text=The Scholars, Each School headed by the Clergymen of the district, and the Visitors and Conductors, in the following order:— Collegiate Church Sunday School: Trinity Chapel, Salford; St.
+13-1	1056-1059	The	_	_	
+13-2	1060-1068	Scholars	_	_	
+13-3	1068-1069	,	_	_	
+13-4	1070-1074	Each	_	_	
+13-5	1075-1081	School	_	_	
+13-6	1082-1088	headed	_	_	
+13-7	1089-1091	by	_	_	
+13-8	1092-1095	the	_	_	
+13-9	1096-1105	Clergymen	_	_	
+13-10	1106-1108	of	_	_	
+13-11	1109-1112	the	_	_	
+13-12	1113-1121	district	_	_	
+13-13	1121-1122	,	_	_	
+13-14	1123-1126	and	_	_	
+13-15	1127-1130	the	_	_	
+13-16	1131-1139	Visitors	_	_	
+13-17	1140-1143	and	_	_	
+13-18	1144-1154	Conductors	_	_	
+13-19	1154-1155	,	_	_	
+13-20	1156-1158	in	_	_	
+13-21	1159-1162	the	_	_	
+13-22	1163-1172	following	_	_	
+13-23	1173-1178	order	_	_	
+13-24	1178-1179	:	_	_	
+13-25	1179-1180	—	_	_	
+13-26	1181-1191	Collegiate	https://en.wikipedia.org/wiki/Manchester\_Cathedral[3]	BUILDING[3]	
+13-27	1192-1198	Church	https://en.wikipedia.org/wiki/Manchester\_Cathedral[3]	BUILDING[3]	
+13-28	1199-1205	Sunday	_	_	
+13-29	1206-1212	School	_	_	
+13-30	1212-1213	:	_	_	
+13-31	1214-1221	Trinity	*[4]	BUILDING[4]	
+13-32	1222-1228	Chapel	*[4]	BUILDING[4]	
+13-33	1228-1229	,	_	_	
+13-34	1230-1237	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+13-35	1237-1238	;	_	_	
+13-36	1239-1241	St	_	_	
+13-37	1241-1242	.	_	_	
+
+#Text=Anns; St.
+14-1	1243-1247	Anns	_	_	
+14-2	1247-1248	;	_	_	
+14-3	1249-1251	St	_	_	
+14-4	1251-1252	.	_	_	
+
+#Text=Marys; St.
+15-1	1253-1258	Marys	_	_	
+15-2	1258-1259	;	_	_	
+15-3	1260-1262	St	*[5]	BUILDING[5]	
+15-4	1262-1263	.	*[5]	BUILDING[5]	
+
+#Text=Pauls, Nos. 1, 2, and 3, Bennett-street; St.
+16-1	1264-1269	Pauls	*[5]	BUILDING[5]	
+16-2	1269-1270	,	_	_	
+16-3	1271-1274	Nos	_	_	
+16-4	1274-1275	.	_	_	
+16-5	1276-1277	1	_	_	
+16-6	1277-1278	,	_	_	
+16-7	1279-1280	2	_	_	
+16-8	1280-1281	,	_	_	
+16-9	1282-1285	and	_	_	
+16-10	1286-1287	3	_	_	
+16-11	1287-1288	,	_	_	
+16-12	1289-1303	Bennett-street	*	STREET	
+16-13	1303-1304	;	_	_	
+16-14	1305-1307	St	*[6]	BUILDING[6]	
+16-15	1307-1308	.	*[6]	BUILDING[6]	
+
+#Text=Pauls, Germanstreet; St.
+17-1	1309-1314	Pauls	*[6]	BUILDING[6]	
+17-2	1314-1315	,	_	_	
+17-3	1316-1328	Germanstreet	*	STREET	
+17-4	1328-1329	;	_	_	
+17-5	1330-1332	St	_	_	
+17-6	1332-1333	.	_	_	
+
+#Text=Jamess; St.
+18-1	1334-1340	Jamess	_	_	
+18-2	1340-1341	;	_	_	
+18-3	1342-1344	St	_	_	
+18-4	1344-1345	.	_	_	
+
+#Text=Johns; St.
+19-1	1346-1351	Johns	_	_	
+19-2	1351-1352	;	_	_	
+19-3	1353-1355	St	_	_	
+19-4	1355-1356	.	_	_	
+
+#Text=Peters; St.
+20-1	1357-1363	Peters	_	_	
+20-2	1363-1364	;	_	_	
+20-3	1365-1367	St	_	_	
+20-4	1367-1368	.	_	_	
+
+#Text=Michaels; St.
+21-1	1369-1377	Michaels	_	_	
+21-2	1377-1378	;	_	_	
+21-3	1379-1381	St	*[7]	BUILDING[7]	
+21-4	1381-1382	.	*[7]	BUILDING[7]	
+
+#Text=Stephens,Nos. 1 and 2 ; St.
+22-1	1383-1391	Stephens	*[7]	BUILDING[7]	
+22-2	1391-1392	,	_	_	
+22-3	1392-1395	Nos	_	_	
+22-4	1395-1396	.	_	_	
+22-5	1397-1398	1	_	_	
+22-6	1399-1402	and	_	_	
+22-7	1403-1404	2	_	_	
+22-8	1405-1406	;	_	_	
+22-9	1407-1409	St	_	_	
+22-10	1409-1410	.	_	_	
+
+#Text=Georges, Nos. 1 and 2; All Saints; St.
+23-1	1411-1418	Georges	_	_	
+23-2	1418-1419	,	_	_	
+23-3	1420-1423	Nos	_	_	
+23-4	1423-1424	.	_	_	
+23-5	1425-1426	1	_	_	
+23-6	1427-1430	and	_	_	
+23-7	1431-1432	2	_	_	
+23-8	1432-1433	;	_	_	
+23-9	1434-1437	All	*[8]	BUILDING[8]	
+23-10	1438-1444	Saints	*[8]	BUILDING[8]	
+23-11	1444-1445	;	_	_	
+23-12	1446-1448	St	_	_	
+23-13	1448-1449	.	_	_	
+
+#Text=Matthews; Sr.
+24-1	1450-1458	Matthews	_	_	
+24-2	1458-1459	;	_	_	
+24-3	1460-1462	Sr	*[9]	BUILDING[9]	
+24-4	1462-1463	.	*[9]	BUILDING[9]	
+
+#Text=Andrews ; and St.
+25-1	1464-1471	Andrews	*[9]	BUILDING[9]	
+25-2	1472-1473	;	_	_	
+25-3	1474-1477	and	_	_	
+25-4	1478-1480	St	*[10]	BUILDING[10]	
+25-5	1480-1481	.	*[10]	BUILDING[10]	
+
+#Text=Judes.
+26-1	1482-1487	Judes	*[10]	BUILDING[10]	
+26-2	1487-1488	.	_	_	
+
+#Text=The route pursued was from St.
+27-1	1489-1492	The	_	_	
+27-2	1493-1498	route	_	_	
+27-3	1499-1506	pursued	_	_	
+27-4	1507-1510	was	_	_	
+27-5	1511-1515	from	_	_	
+27-6	1516-1518	St	*[11]	STREET[11]	
+27-7	1518-1519	.	*[11]	STREET[11]	
+
+#Text=Anns-square, up King-street,through York-street, Mosley-street, M-.
+28-1	1520-1531	Anns-square	*[11]	STREET[11]	
+28-2	1531-1532	,	_	_	
+28-3	1533-1535	up	_	_	
+28-4	1536-1547	King-street	*	STREET	
+28-5	1547-1548	,	_	_	
+28-6	1548-1555	through	_	_	
+28-7	1556-1567	York-street	*	STREET	
+28-8	1567-1568	,	_	_	
+28-9	1569-1582	Mosley-street	*	STREET	
+28-10	1582-1583	,	_	_	
+28-11	1584-1585	M	*[12]	STREET[12]	
+28-12	1585-1586	-	*[12]	STREET[12]	
+28-13	1586-1587	.	*[12]	STREET[12]	
+
+#Text=-r-ket-street, Old Millgate, to the Collegiate Church, where they arrived a little after ten oclock.
+29-1	1587-1588	-	*[12]	STREET[12]	
+29-2	1588-1600	r-ket-street	*[12]	STREET[12]	
+29-3	1600-1601	,	_	_	
+29-4	1602-1605	Old	*[13]	STREET[13]	
+29-5	1606-1614	Millgate	*[13]	STREET[13]	
+29-6	1614-1615	,	_	_	
+29-7	1616-1618	to	_	_	
+29-8	1619-1622	the	_	_	
+29-9	1623-1633	Collegiate	https://en.wikipedia.org/wiki/Manchester\_Cathedral[14]	BUILDING[14]	
+29-10	1634-1640	Church	https://en.wikipedia.org/wiki/Manchester\_Cathedral[14]	BUILDING[14]	
+29-11	1640-1641	,	_	_	
+29-12	1642-1647	where	_	_	
+29-13	1648-1652	they	_	_	
+29-14	1653-1660	arrived	_	_	
+29-15	1661-1662	a	_	_	
+29-16	1663-1669	little	_	_	
+29-17	1670-1675	after	_	_	
+29-18	1676-1679	ten	_	_	
+29-19	1680-1686	oclock	_	_	
+29-20	1686-1687	.	_	_	
+
+#Text=It being impossible to accommodate the whole of the children, about 2,200 were admitted to the church ; the remainder returned to their respective schools, and were treated with buns, &c.
+30-1	1688-1690	It	_	_	
+30-2	1691-1696	being	_	_	
+30-3	1697-1707	impossible	_	_	
+30-4	1708-1710	to	_	_	
+30-5	1711-1722	accommodate	_	_	
+30-6	1723-1726	the	_	_	
+30-7	1727-1732	whole	_	_	
+30-8	1733-1735	of	_	_	
+30-9	1736-1739	the	_	_	
+30-10	1740-1748	children	_	_	
+30-11	1748-1749	,	_	_	
+30-12	1750-1755	about	_	_	
+30-13	1756-1761	2,200	_	_	
+30-14	1762-1766	were	_	_	
+30-15	1767-1775	admitted	_	_	
+30-16	1776-1778	to	_	_	
+30-17	1779-1782	the	_	_	
+30-18	1783-1789	church	_	_	
+30-19	1790-1791	;	_	_	
+30-20	1792-1795	the	_	_	
+30-21	1796-1805	remainder	_	_	
+30-22	1806-1814	returned	_	_	
+30-23	1815-1817	to	_	_	
+30-24	1818-1823	their	_	_	
+30-25	1824-1834	respective	_	_	
+30-26	1835-1842	schools	_	_	
+30-27	1842-1843	,	_	_	
+30-28	1844-1847	and	_	_	
+30-29	1848-1852	were	_	_	
+30-30	1853-1860	treated	_	_	
+30-31	1861-1865	with	_	_	
+30-32	1866-1870	buns	_	_	
+30-33	1870-1871	,	_	_	
+30-34	1872-1873	&	_	_	
+30-35	1873-1874	c	_	_	
+30-36	1874-1875	.	_	_	
+
+#Text=The Very Rev. the AVarden read the morning service, and an excellent sermon was preached by the Hon. and Rev.
+31-1	1876-1879	The	_	_	
+31-2	1880-1884	Very	_	_	
+31-3	1885-1888	Rev	_	_	
+31-4	1888-1889	.	_	_	
+31-5	1890-1893	the	_	_	
+31-6	1894-1901	AVarden	_	_	
+31-7	1902-1906	read	_	_	
+31-8	1907-1910	the	_	_	
+31-9	1911-1918	morning	_	_	
+31-10	1919-1926	service	_	_	
+31-11	1926-1927	,	_	_	
+31-12	1928-1931	and	_	_	
+31-13	1932-1934	an	_	_	
+31-14	1935-1944	excellent	_	_	
+31-15	1945-1951	sermon	_	_	
+31-16	1952-1955	was	_	_	
+31-17	1956-1964	preached	_	_	
+31-18	1965-1967	by	_	_	
+31-19	1968-1971	the	_	_	
+31-20	1972-1975	Hon	_	_	
+31-21	1975-1976	.	_	_	
+31-22	1977-1980	and	_	_	
+31-23	1981-1984	Rev	_	_	
+31-24	1984-1985	.	_	_	
+
+#Text=Horace Powys. rector of AVarrington, from Ecclesiastes, eh. vii. 12 v.
+32-1	1986-1992	Horace	_	_	
+32-2	1993-1998	Powys	_	_	
+32-3	1998-1999	.	_	_	
+32-4	2000-2006	rector	_	_	
+32-5	2007-2009	of	_	_	
+32-6	2010-2021	AVarrington	https://en.wikipedia.org/wiki/Warrington	LOC	
+32-7	2021-2022	,	_	_	
+32-8	2023-2027	from	_	_	
+32-9	2028-2040	Ecclesiastes	_	_	
+32-10	2040-2041	,	_	_	
+32-11	2042-2044	eh	_	_	
+32-12	2044-2045	.	_	_	
+32-13	2046-2049	vii	_	_	
+32-14	2049-2050	.	_	_	
+32-15	2051-2053	12	_	_	
+32-16	2054-2055	v	_	_	
+32-17	2055-2056	.	_	_	
+
+#Text="For wisdom is a defence, and money is a defence ; but the excellency of knowledge is, that wisdom giveth life to them that have it."
+33-1	2057-2058	"	_	_	
+33-2	2058-2061	For	_	_	
+33-3	2062-2068	wisdom	_	_	
+33-4	2069-2071	is	_	_	
+33-5	2072-2073	a	_	_	
+33-6	2074-2081	defence	_	_	
+33-7	2081-2082	,	_	_	
+33-8	2083-2086	and	_	_	
+33-9	2087-2092	money	_	_	
+33-10	2093-2095	is	_	_	
+33-11	2096-2097	a	_	_	
+33-12	2098-2105	defence	_	_	
+33-13	2106-2107	;	_	_	
+33-14	2108-2111	but	_	_	
+33-15	2112-2115	the	_	_	
+33-16	2116-2126	excellency	_	_	
+33-17	2127-2129	of	_	_	
+33-18	2130-2139	knowledge	_	_	
+33-19	2140-2142	is	_	_	
+33-20	2142-2143	,	_	_	
+33-21	2144-2148	that	_	_	
+33-22	2149-2155	wisdom	_	_	
+33-23	2156-2162	giveth	_	_	
+33-24	2163-2167	life	_	_	
+33-25	2168-2170	to	_	_	
+33-26	2171-2175	them	_	_	
+33-27	2176-2180	that	_	_	
+33-28	2181-2185	have	_	_	
+33-29	2186-2188	it	_	_	
+33-30	2188-2189	.	_	_	
+33-31	2189-2190	"	_	_	
+
+#Text=The collection amounted to £56 2s.
+34-1	2191-2194	The	_	_	
+34-2	2195-2205	collection	_	_	
+34-3	2206-2214	amounted	_	_	
+34-4	2215-2217	to	_	_	
+34-5	2218-2221	£56	_	_	
+34-6	2222-2224	2s	_	_	
+34-7	2224-2225	.	_	_	
+
+#Text=Od., being £4 ss. 6d. more than that of Last year.
+35-1	2226-2228	Od	_	_	
+35-2	2228-2229	.	_	_	
+35-3	2229-2230	,	_	_	
+35-4	2231-2236	being	_	_	
+35-5	2237-2239	£4	_	_	
+35-6	2240-2242	ss	_	_	
+35-7	2242-2243	.	_	_	
+35-8	2244-2246	6d	_	_	
+35-9	2246-2247	.	_	_	
+35-10	2248-2252	more	_	_	
+35-11	2253-2257	than	_	_	
+35-12	2258-2262	that	_	_	
+35-13	2263-2265	of	_	_	
+35-14	2266-2270	Last	_	_	
+35-15	2271-2275	year	_	_	
+35-16	2275-2276	.	_	_	

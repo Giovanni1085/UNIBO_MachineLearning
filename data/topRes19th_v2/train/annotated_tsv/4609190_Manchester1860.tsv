@@ -1,0 +1,378 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=ELECTION INTELLIGENCE.
+1-1	0-8	ELECTION	_	_	
+1-2	9-21	INTELLIGENCE	_	_	
+1-3	21-22	.	_	_	
+
+#Text=Dublin University.
+2-1	24-30	Dublin	https://en.wikipedia.org/wiki/Dublin	LOC	
+2-2	31-41	University	_	_	
+2-3	41-42	.	_	_	
+
+#Text=—We have authority for stating that Mr.
+3-1	42-43	—	_	_	
+3-2	43-45	We	_	_	
+3-3	46-50	have	_	_	
+3-4	51-60	authority	_	_	
+3-5	61-64	for	_	_	
+3-6	65-72	stating	_	_	
+3-7	73-77	that	_	_	
+3-8	78-80	Mr	_	_	
+3-9	80-81	.	_	_	
+
+#Text=H.
+4-1	82-83	H	_	_	
+4-2	83-84	.	_	_	
+
+#Text=E.
+5-1	85-86	E	_	_	
+5-2	86-87	.	_	_	
+
+#Text=Chatterton, will present himself to the electors of the University of Dublin, in tbe event of a vacancy occurring.
+6-1	88-98	Chatterton	_	_	
+6-2	98-99	,	_	_	
+6-3	100-104	will	_	_	
+6-4	105-112	present	_	_	
+6-5	113-120	himself	_	_	
+6-6	121-123	to	_	_	
+6-7	124-127	the	_	_	
+6-8	128-136	electors	_	_	
+6-9	137-139	of	_	_	
+6-10	140-143	the	_	_	
+6-11	144-154	University	_	_	
+6-12	155-157	of	_	_	
+6-13	158-164	Dublin	https://en.wikipedia.org/wiki/Dublin	LOC	
+6-14	164-165	,	_	_	
+6-15	166-168	in	_	_	
+6-16	169-172	tbe	_	_	
+6-17	173-178	event	_	_	
+6-18	179-181	of	_	_	
+6-19	182-183	a	_	_	
+6-20	184-191	vacancy	_	_	
+6-21	192-201	occurring	_	_	
+6-22	201-202	.	_	_	
+
+#Text=There are now four candidates in the field—Mr.
+7-1	203-208	There	_	_	
+7-2	209-212	are	_	_	
+7-3	213-216	now	_	_	
+7-4	217-221	four	_	_	
+7-5	222-232	candidates	_	_	
+7-6	233-235	in	_	_	
+7-7	236-239	the	_	_	
+7-8	240-248	field—Mr	_	_	
+7-9	248-249	.	_	_	
+
+#Text=J.
+8-1	250-251	J	_	_	
+8-2	251-252	.	_	_	
+
+#Text=E.
+9-1	253-254	E	_	_	
+9-2	254-255	.	_	_	
+
+#Text=Walsh, Q.C.; Sir Elward Grogan, Mr.
+10-1	256-261	Walsh	_	_	
+10-2	261-262	,	_	_	
+10-3	263-266	Q.C	_	_	
+10-4	266-267	.	_	_	
+10-5	267-268	;	_	_	
+10-6	269-272	Sir	_	_	
+10-7	273-279	Elward	_	_	
+10-8	280-286	Grogan	_	_	
+10-9	286-287	,	_	_	
+10-10	288-290	Mr	_	_	
+10-11	290-291	.	_	_	
+
+#Text=Chatterton, and Mr.
+11-1	292-302	Chatterton	_	_	
+11-2	302-303	,	_	_	
+11-3	304-307	and	_	_	
+11-4	308-310	Mr	_	_	
+11-5	310-311	.	_	_	
+
+#Text=R.
+12-1	312-313	R	_	_	
+12-2	313-314	.	_	_	
+
+#Text=Longtield.— Lublin Evening MaiU Corrupt Practices at Elections.
+13-1	315-324	Longtield	_	_	
+13-2	324-325	.	_	_	
+13-3	325-326	—	_	_	
+13-4	327-333	Lublin	https://en.wikipedia.org/wiki/Dublin	LOC	
+13-5	334-341	Evening	_	_	
+13-6	342-346	MaiU	_	_	
+13-7	347-354	Corrupt	_	_	
+13-8	355-364	Practices	_	_	
+13-9	365-367	at	_	_	
+13-10	368-377	Elections	_	_	
+13-11	377-378	.	_	_	
+
+#Text=—A return has been issued from which it appears that ten royal commissioners have been appointed to investigate the conupt practices at elections since 1852.
+14-1	378-379	—	_	_	
+14-2	379-380	A	_	_	
+14-3	381-387	return	_	_	
+14-4	388-391	has	_	_	
+14-5	392-396	been	_	_	
+14-6	397-403	issued	_	_	
+14-7	404-408	from	_	_	
+14-8	409-414	which	_	_	
+14-9	415-417	it	_	_	
+14-10	418-425	appears	_	_	
+14-11	426-430	that	_	_	
+14-12	431-434	ten	_	_	
+14-13	435-440	royal	_	_	
+14-14	441-454	commissioners	_	_	
+14-15	455-459	have	_	_	
+14-16	460-464	been	_	_	
+14-17	465-474	appointed	_	_	
+14-18	475-477	to	_	_	
+14-19	478-489	investigate	_	_	
+14-20	490-493	the	_	_	
+14-21	494-500	conupt	_	_	
+14-22	501-510	practices	_	_	
+14-23	511-513	at	_	_	
+14-24	514-523	elections	_	_	
+14-25	524-529	since	_	_	
+14-26	530-534	1852	_	_	
+14-27	534-535	.	_	_	
+
+#Text=Six of these were appointed in 1853, one in 1857, and three in 1859.
+15-1	536-539	Six	_	_	
+15-2	540-542	of	_	_	
+15-3	543-548	these	_	_	
+15-4	549-553	were	_	_	
+15-5	554-563	appointed	_	_	
+15-6	564-566	in	_	_	
+15-7	567-571	1853	_	_	
+15-8	571-572	,	_	_	
+15-9	573-576	one	_	_	
+15-10	577-579	in	_	_	
+15-11	580-584	1857	_	_	
+15-12	584-585	,	_	_	
+15-13	586-589	and	_	_	
+15-14	590-595	three	_	_	
+15-15	596-598	in	_	_	
+15-16	599-603	1859	_	_	
+15-17	603-604	.	_	_	
+
+#Text=The total expenses have amounted to £21,466 6s. 5d., of which £12,111 19s. 7d. are appropriated to general expenses, £3,463 6s. 3d. to shorthand-writing, and £5,891 os. 7d. to printing and stationery.
+16-1	605-608	The	_	_	
+16-2	609-614	total	_	_	
+16-3	615-623	expenses	_	_	
+16-4	624-628	have	_	_	
+16-5	629-637	amounted	_	_	
+16-6	638-640	to	_	_	
+16-7	641-648	£21,466	_	_	
+16-8	649-651	6s	_	_	
+16-9	651-652	.	_	_	
+16-10	653-655	5d	_	_	
+16-11	655-656	.	_	_	
+16-12	656-657	,	_	_	
+16-13	658-660	of	_	_	
+16-14	661-666	which	_	_	
+16-15	667-674	£12,111	_	_	
+16-16	675-678	19s	_	_	
+16-17	678-679	.	_	_	
+16-18	680-682	7d	_	_	
+16-19	682-683	.	_	_	
+16-20	684-687	are	_	_	
+16-21	688-700	appropriated	_	_	
+16-22	701-703	to	_	_	
+16-23	704-711	general	_	_	
+16-24	712-720	expenses	_	_	
+16-25	720-721	,	_	_	
+16-26	722-728	£3,463	_	_	
+16-27	729-731	6s	_	_	
+16-28	731-732	.	_	_	
+16-29	733-735	3d	_	_	
+16-30	735-736	.	_	_	
+16-31	737-739	to	_	_	
+16-32	740-757	shorthand-writing	_	_	
+16-33	757-758	,	_	_	
+16-34	759-762	and	_	_	
+16-35	763-769	£5,891	_	_	
+16-36	770-772	os	_	_	
+16-37	772-773	.	_	_	
+16-38	774-776	7d	_	_	
+16-39	776-777	.	_	_	
+16-40	778-780	to	_	_	
+16-41	781-789	printing	_	_	
+16-42	790-793	and	_	_	
+16-43	794-804	stationery	_	_	
+16-44	804-805	.	_	_	
+
+#Text=Eight prosecutions were ordered at an expense of £4,952 3s. 4d., but as in each a case a nolle prosequi was entered, the prosecutions have, of course, meant nothing.
+17-1	806-811	Eight	_	_	
+17-2	812-824	prosecutions	_	_	
+17-3	825-829	were	_	_	
+17-4	830-837	ordered	_	_	
+17-5	838-840	at	_	_	
+17-6	841-843	an	_	_	
+17-7	844-851	expense	_	_	
+17-8	852-854	of	_	_	
+17-9	855-861	£4,952	_	_	
+17-10	862-864	3s	_	_	
+17-11	864-865	.	_	_	
+17-12	866-868	4d	_	_	
+17-13	868-869	.	_	_	
+17-14	869-870	,	_	_	
+17-15	871-874	but	_	_	
+17-16	875-877	as	_	_	
+17-17	878-880	in	_	_	
+17-18	881-885	each	_	_	
+17-19	886-887	a	_	_	
+17-20	888-892	case	_	_	
+17-21	893-894	a	_	_	
+17-22	895-900	nolle	_	_	
+17-23	901-909	prosequi	_	_	
+17-24	910-913	was	_	_	
+17-25	914-921	entered	_	_	
+17-26	921-922	,	_	_	
+17-27	923-926	the	_	_	
+17-28	927-939	prosecutions	_	_	
+17-29	940-944	have	_	_	
+17-30	944-945	,	_	_	
+17-31	946-948	of	_	_	
+17-32	949-955	course	_	_	
+17-33	955-956	,	_	_	
+17-34	957-962	meant	_	_	
+17-35	963-970	nothing	_	_	
+17-36	970-971	.	_	_	
+
+#Text=The Helston Election Committee.
+18-1	972-975	The	_	_	
+18-2	976-983	Helston	https://en.wikipedia.org/wiki/Helston	LOC	
+18-3	984-992	Election	_	_	
+18-4	993-1002	Committee	_	_	
+18-5	1002-1003	.	_	_	
+
+#Text=—The Helston election committee, which meets to-day, must of necessity last a considerable time.
+19-1	1003-1004	—	_	_	
+19-2	1004-1007	The	_	_	
+19-3	1008-1015	Helston	https://en.wikipedia.org/wiki/Helston	LOC	
+19-4	1016-1024	election	_	_	
+19-5	1025-1034	committee	_	_	
+19-6	1034-1035	,	_	_	
+19-7	1036-1041	which	_	_	
+19-8	1042-1047	meets	_	_	
+19-9	1048-1054	to-day	_	_	
+19-10	1054-1055	,	_	_	
+19-11	1056-1060	must	_	_	
+19-12	1061-1063	of	_	_	
+19-13	1064-1073	necessity	_	_	
+19-14	1074-1078	last	_	_	
+19-15	1079-1080	a	_	_	
+19-16	1081-1093	considerable	_	_	
+19-17	1094-1098	time	_	_	
+19-18	1098-1099	.	_	_	
+
+#Text=After disposing of the first question, namely, whether the mayors casting vote, which decided ihe election, was properly received or no, the scrutiny v ill be proceeded with.
+20-1	1100-1105	After	_	_	
+20-2	1106-1115	disposing	_	_	
+20-3	1116-1118	of	_	_	
+20-4	1119-1122	the	_	_	
+20-5	1123-1128	first	_	_	
+20-6	1129-1137	question	_	_	
+20-7	1137-1138	,	_	_	
+20-8	1139-1145	namely	_	_	
+20-9	1145-1146	,	_	_	
+20-10	1147-1154	whether	_	_	
+20-11	1155-1158	the	_	_	
+20-12	1159-1165	mayors	_	_	
+20-13	1166-1173	casting	_	_	
+20-14	1174-1178	vote	_	_	
+20-15	1178-1179	,	_	_	
+20-16	1180-1185	which	_	_	
+20-17	1186-1193	decided	_	_	
+20-18	1194-1197	ihe	_	_	
+20-19	1198-1206	election	_	_	
+20-20	1206-1207	,	_	_	
+20-21	1208-1211	was	_	_	
+20-22	1212-1220	properly	_	_	
+20-23	1221-1229	received	_	_	
+20-24	1230-1232	or	_	_	
+20-25	1233-1235	no	_	_	
+20-26	1235-1236	,	_	_	
+20-27	1237-1240	the	_	_	
+20-28	1241-1249	scrutiny	_	_	
+20-29	1250-1251	v	_	_	
+20-30	1252-1255	ill	_	_	
+20-31	1256-1258	be	_	_	
+20-32	1259-1268	proceeded	_	_	
+20-33	1269-1273	with	_	_	
+20-34	1273-1274	.	_	_	
+
+#Text=Twenty of the votes recorded for the fitting member (Mr.
+21-1	1275-1281	Twenty	_	_	
+21-2	1282-1284	of	_	_	
+21-3	1285-1288	the	_	_	
+21-4	1289-1294	votes	_	_	
+21-5	1295-1303	recorded	_	_	
+21-6	1304-1307	for	_	_	
+21-7	1308-1311	the	_	_	
+21-8	1312-1319	fitting	_	_	
+21-9	1320-1326	member	_	_	
+21-10	1327-1328	(	_	_	
+21-11	1328-1330	Mr	_	_	
+21-12	1330-1331	.	_	_	
+
+#Text=Campbell) are disputed by the petitioners, whilst eighty of the votes recorded for Mr.
+22-1	1332-1340	Campbell	_	_	
+22-2	1340-1341	)	_	_	
+22-3	1342-1345	are	_	_	
+22-4	1346-1354	disputed	_	_	
+22-5	1355-1357	by	_	_	
+22-6	1358-1361	the	_	_	
+22-7	1362-1373	petitioners	_	_	
+22-8	1373-1374	,	_	_	
+22-9	1375-1381	whilst	_	_	
+22-10	1382-1388	eighty	_	_	
+22-11	1389-1391	of	_	_	
+22-12	1392-1395	the	_	_	
+22-13	1396-1401	votes	_	_	
+22-14	1402-1410	recorded	_	_	
+22-15	1411-1414	for	_	_	
+22-16	1415-1417	Mr	_	_	
+22-17	1417-1418	.	_	_	
+
+#Text=Baliol Brett, the unsuccessful candidate at the last election and one of the petitioners against the return of Mr.
+23-1	1419-1425	Baliol	_	_	
+23-2	1426-1431	Brett	_	_	
+23-3	1431-1432	,	_	_	
+23-4	1433-1436	the	_	_	
+23-5	1437-1449	unsuccessful	_	_	
+23-6	1450-1459	candidate	_	_	
+23-7	1460-1462	at	_	_	
+23-8	1463-1466	the	_	_	
+23-9	1467-1471	last	_	_	
+23-10	1472-1480	election	_	_	
+23-11	1481-1484	and	_	_	
+23-12	1485-1488	one	_	_	
+23-13	1489-1491	of	_	_	
+23-14	1492-1495	the	_	_	
+23-15	1496-1507	petitioners	_	_	
+23-16	1508-1515	against	_	_	
+23-17	1516-1519	the	_	_	
+23-18	1520-1526	return	_	_	
+23-19	1527-1529	of	_	_	
+23-20	1530-1532	Mr	_	_	
+23-21	1532-1533	.	_	_	
+
+#Text=Campbell, are disputed by the agents for that gentleman. __
+24-1	1534-1542	Campbell	_	_	
+24-2	1542-1543	,	_	_	
+24-3	1544-1547	are	_	_	
+24-4	1548-1556	disputed	_	_	
+24-5	1557-1559	by	_	_	
+24-6	1560-1563	the	_	_	
+24-7	1564-1570	agents	_	_	
+24-8	1571-1574	for	_	_	
+24-9	1575-1579	that	_	_	
+24-10	1580-1589	gentleman	_	_	
+24-11	1589-1590	.	_	_	
+24-12	1591-1592	_	_	_	
+24-13	1592-1593	_	_	_	

@@ -1,0 +1,435 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=HYDE PETTY SESSIONS, 
+#Text=MONDAY".
+1-1	0-4	HYDE	https://en.wikipedia.org/wiki/Hyde,\_Greater\_Manchester	LOC	
+1-2	5-10	PETTY	_	_	
+1-3	11-19	SESSIONS	_	_	
+1-4	19-20	,	_	_	
+1-5	22-28	MONDAY	_	_	
+1-6	28-29	"	_	_	
+1-7	29-30	.	_	_	
+
+#Text=—Before T.
+2-1	30-31	—	_	_	
+2-2	31-37	Before	_	_	
+2-3	38-39	T	_	_	
+2-4	39-40	.	_	_	
+
+#Text=Thornely and E.
+3-1	41-49	Thornely	_	_	
+3-2	50-53	and	_	_	
+3-3	54-55	E	_	_	
+3-4	55-56	.	_	_	
+
+#Text=H.
+4-1	57-58	H	_	_	
+4-2	58-59	.	_	_	
+
+#Text=Shel lard, Esqs
+5-1	60-64	Shel	_	_	
+5-2	65-69	lard	_	_	
+5-3	69-70	,	_	_	
+5-4	71-75	Esqs	_	_	
+
+#Text=.
+6-1	75-76	.	_	_	
+
+#Text=• ; mnn WITPH —Put’*/’1- " with bemg drunk and riotous in Platt-street on Sunday afternoon.
+7-1	78-79	•	_	_	
+7-2	80-81	;	_	_	
+7-3	82-85	mnn	_	_	
+7-4	86-91	WITPH	_	_	
+7-5	92-93	—	_	_	
+7-6	93-96	Put	_	_	
+7-7	96-97	’	_	_	
+7-8	97-98	*	_	_	
+7-9	98-99	/	_	_	
+7-10	99-100	’	_	_	
+7-11	100-101	1	_	_	
+7-12	101-102	-	_	_	
+7-13	103-104	"	_	_	
+7-14	105-109	with	_	_	
+7-15	110-114	bemg	_	_	
+7-16	115-120	drunk	_	_	
+7-17	121-124	and	_	_	
+7-18	125-132	riotous	_	_	
+7-19	133-135	in	_	_	
+7-20	136-148	Platt-street	*	STREET	
+7-21	149-151	on	_	_	
+7-22	152-158	Sunday	_	_	
+7-23	159-168	afternoon	_	_	
+7-24	168-169	.	_	_	
+
+#Text=—Police-constable Shawcroft proved thjq’ offence.
+8-1	169-170	—	_	_	
+8-2	170-186	Police-constable	_	_	
+8-3	187-196	Shawcroft	_	_	
+8-4	197-203	proved	_	_	
+8-5	204-208	thjq	_	_	
+8-6	208-209	’	_	_	
+8-7	210-217	offence	_	_	
+8-8	217-218	.	_	_	
+
+#Text=Defendant said he believed he was gu Ity.
+9-1	219-228	Defendant	_	_	
+9-2	229-233	said	_	_	
+9-3	234-236	he	_	_	
+9-4	237-245	believed	_	_	
+9-5	246-248	he	_	_	
+9-6	249-252	was	_	_	
+9-7	253-255	gu	_	_	
+9-8	256-259	Ity	_	_	
+9-9	259-260	.	_	_	
+
+#Text=—Fined 2s. 6d. and costs, in default seven days’ imprisonment.
+10-1	260-261	—	_	_	
+10-2	261-266	Fined	_	_	
+10-3	267-269	2s	_	_	
+10-4	269-270	.	_	_	
+10-5	271-273	6d	_	_	
+10-6	273-274	.	_	_	
+10-7	275-278	and	_	_	
+10-8	279-284	costs	_	_	
+10-9	284-285	,	_	_	
+10-10	286-288	in	_	_	
+10-11	289-296	default	_	_	
+10-12	297-302	seven	_	_	
+10-13	303-307	days	_	_	
+10-14	307-308	’	_	_	
+10-15	309-321	imprisonment	_	_	
+10-16	321-322	.	_	_	
+
+#Text=Hugh Bryan pleaded guilty to having a drop too much.
+11-1	323-327	Hugh	_	_	
+11-2	328-333	Bryan	_	_	
+11-3	334-341	pleaded	_	_	
+11-4	342-348	guilty	_	_	
+11-5	349-351	to	_	_	
+11-6	352-358	having	_	_	
+11-7	359-360	a	_	_	
+11-8	361-365	drop	_	_	
+11-9	366-369	too	_	_	
+11-10	370-374	much	_	_	
+11-11	374-375	.	_	_	
+
+#Text=—On Sunday morning, at two o’clock.
+12-1	375-376	—	_	_	
+12-2	376-378	On	_	_	
+12-3	379-385	Sunday	_	_	
+12-4	386-393	morning	_	_	
+12-5	393-394	,	_	_	
+12-6	395-397	at	_	_	
+12-7	398-401	two	_	_	
+12-8	402-403	o	_	_	
+12-9	403-404	’	_	_	
+12-10	404-409	clock	_	_	
+12-11	409-410	.	_	_	
+
+#Text=Police-constable Parker found the defendant fast asleep on the footpath in Ashton-road.
+13-1	411-427	Police-constable	_	_	
+13-2	428-434	Parker	_	_	
+13-3	435-440	found	_	_	
+13-4	441-444	the	_	_	
+13-5	445-454	defendant	_	_	
+13-6	455-459	fast	_	_	
+13-7	460-466	asleep	_	_	
+13-8	467-469	on	_	_	
+13-9	470-473	the	_	_	
+13-10	474-482	footpath	_	_	
+13-11	483-485	in	_	_	
+13-12	486-497	Ashton-road	*	STREET	
+13-13	497-498	.	_	_	
+
+#Text=He was quite helpless, and the officer took him to safer lodgings in the lockups.
+14-1	499-501	He	_	_	
+14-2	502-505	was	_	_	
+14-3	506-511	quite	_	_	
+14-4	512-520	helpless	_	_	
+14-5	520-521	,	_	_	
+14-6	522-525	and	_	_	
+14-7	526-529	the	_	_	
+14-8	530-537	officer	_	_	
+14-9	538-542	took	_	_	
+14-10	543-546	him	_	_	
+14-11	547-549	to	_	_	
+14-12	550-555	safer	_	_	
+14-13	556-564	lodgings	_	_	
+14-14	565-567	in	_	_	
+14-15	568-571	the	_	_	
+14-16	572-579	lockups	_	_	
+14-17	579-580	.	_	_	
+
+#Text=—Fined 2s. 6d. and costs, or seven days.
+15-1	580-581	—	_	_	
+15-2	581-586	Fined	_	_	
+15-3	587-589	2s	_	_	
+15-4	589-590	.	_	_	
+15-5	591-593	6d	_	_	
+15-6	593-594	.	_	_	
+15-7	595-598	and	_	_	
+15-8	599-604	costs	_	_	
+15-9	604-605	,	_	_	
+15-10	606-608	or	_	_	
+15-11	609-614	seven	_	_	
+15-12	615-619	days	_	_	
+15-13	619-620	.	_	_	
+
+#Text=Removing Hat without Certificate.
+16-1	621-629	Removing	_	_	
+16-2	630-633	Hat	_	_	
+16-3	634-641	without	_	_	
+16-4	642-653	Certificate	_	_	
+16-5	653-654	.	_	_	
+
+#Text=—Thomas Adshead, farmer, Baguley, was charged with bavin" offended against an order of the Privy Council re°garding regulations for the cattle plague, by removing a cart load of hay from Baguley, which is an inspected district, to Hyde, which is a non-infected district,, without having first procured the necessary certificate to do so.
+17-1	654-655	—	_	_	
+17-2	655-661	Thomas	_	_	
+17-3	662-669	Adshead	_	_	
+17-4	669-670	,	_	_	
+17-5	671-677	farmer	_	_	
+17-6	677-678	,	_	_	
+17-7	679-686	Baguley	https://en.wikipedia.org/wiki/Baguley	LOC	
+17-8	686-687	,	_	_	
+17-9	688-691	was	_	_	
+17-10	692-699	charged	_	_	
+17-11	700-704	with	_	_	
+17-12	705-710	bavin	_	_	
+17-13	710-711	"	_	_	
+17-14	712-720	offended	_	_	
+17-15	721-728	against	_	_	
+17-16	729-731	an	_	_	
+17-17	732-737	order	_	_	
+17-18	738-740	of	_	_	
+17-19	741-744	the	_	_	
+17-20	745-750	Privy	_	_	
+17-21	751-758	Council	_	_	
+17-22	759-761	re	_	_	
+17-23	761-762	°	_	_	
+17-24	762-769	garding	_	_	
+17-25	770-781	regulations	_	_	
+17-26	782-785	for	_	_	
+17-27	786-789	the	_	_	
+17-28	790-796	cattle	_	_	
+17-29	797-803	plague	_	_	
+17-30	803-804	,	_	_	
+17-31	805-807	by	_	_	
+17-32	808-816	removing	_	_	
+17-33	817-818	a	_	_	
+17-34	819-823	cart	_	_	
+17-35	824-828	load	_	_	
+17-36	829-831	of	_	_	
+17-37	832-835	hay	_	_	
+17-38	836-840	from	_	_	
+17-39	841-848	Baguley	https://en.wikipedia.org/wiki/Baguley	LOC	
+17-40	848-849	,	_	_	
+17-41	850-855	which	_	_	
+17-42	856-858	is	_	_	
+17-43	859-861	an	_	_	
+17-44	862-871	inspected	_	_	
+17-45	872-880	district	_	_	
+17-46	880-881	,	_	_	
+17-47	882-884	to	_	_	
+17-48	885-889	Hyde	https://en.wikipedia.org/wiki/Hyde,\_Greater\_Manchester	LOC	
+17-49	889-890	,	_	_	
+17-50	891-896	which	_	_	
+17-51	897-899	is	_	_	
+17-52	900-901	a	_	_	
+17-53	902-914	non-infected	_	_	
+17-54	915-923	district	_	_	
+17-55	923-924	,	_	_	
+17-56	924-925	,	_	_	
+17-57	926-933	without	_	_	
+17-58	934-940	having	_	_	
+17-59	941-946	first	_	_	
+17-60	947-955	procured	_	_	
+17-61	956-959	the	_	_	
+17-62	960-969	necessary	_	_	
+17-63	970-981	certificate	_	_	
+17-64	982-984	to	_	_	
+17-65	985-987	do	_	_	
+17-66	988-990	so	_	_	
+17-67	990-991	.	_	_	
+
+#Text=—Sergeant Daniels met the defendant’s son with the hay on the 13th inst.
+18-1	991-992	—	_	_	
+18-2	992-1000	Sergeant	_	_	
+18-3	1001-1008	Daniels	_	_	
+18-4	1009-1012	met	_	_	
+18-5	1013-1016	the	_	_	
+18-6	1017-1026	defendant	_	_	
+18-7	1026-1027	’	_	_	
+18-8	1027-1028	s	_	_	
+18-9	1029-1032	son	_	_	
+18-10	1033-1037	with	_	_	
+18-11	1038-1041	the	_	_	
+18-12	1042-1045	hay	_	_	
+18-13	1046-1048	on	_	_	
+18-14	1049-1052	the	_	_	
+18-15	1053-1057	13th	_	_	
+18-16	1058-1062	inst	_	_	
+18-17	1062-1063	.	_	_	
+
+#Text=He asked for the certificate, and the youth said his father had it.
+19-1	1064-1066	He	_	_	
+19-2	1067-1072	asked	_	_	
+19-3	1073-1076	for	_	_	
+19-4	1077-1080	the	_	_	
+19-5	1081-1092	certificate	_	_	
+19-6	1092-1093	,	_	_	
+19-7	1094-1097	and	_	_	
+19-8	1098-1101	the	_	_	
+19-9	1102-1107	youth	_	_	
+19-10	1108-1112	said	_	_	
+19-11	1113-1116	his	_	_	
+19-12	1117-1123	father	_	_	
+19-13	1124-1127	had	_	_	
+19-14	1128-1130	it	_	_	
+19-15	1130-1131	.	_	_	
+
+#Text=The officer saw the defendant shortly after, and he produced a certificate authorising him to remove some hay to Manchester.
+20-1	1132-1135	The	_	_	
+20-2	1136-1143	officer	_	_	
+20-3	1144-1147	saw	_	_	
+20-4	1148-1151	the	_	_	
+20-5	1152-1161	defendant	_	_	
+20-6	1162-1169	shortly	_	_	
+20-7	1170-1175	after	_	_	
+20-8	1175-1176	,	_	_	
+20-9	1177-1180	and	_	_	
+20-10	1181-1183	he	_	_	
+20-11	1184-1192	produced	_	_	
+20-12	1193-1194	a	_	_	
+20-13	1195-1206	certificate	_	_	
+20-14	1207-1218	authorising	_	_	
+20-15	1219-1222	him	_	_	
+20-16	1223-1225	to	_	_	
+20-17	1226-1232	remove	_	_	
+20-18	1233-1237	some	_	_	
+20-19	1238-1241	hay	_	_	
+20-20	1242-1244	to	_	_	
+20-21	1245-1255	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+20-22	1255-1256	.	_	_	
+
+#Text=—Defendant admitted the fact, but said he was in ignorance of any certificate being required for Cheshire.
+21-1	1256-1257	—	_	_	
+21-2	1257-1266	Defendant	_	_	
+21-3	1267-1275	admitted	_	_	
+21-4	1276-1279	the	_	_	
+21-5	1280-1284	fact	_	_	
+21-6	1284-1285	,	_	_	
+21-7	1286-1289	but	_	_	
+21-8	1290-1294	said	_	_	
+21-9	1295-1297	he	_	_	
+21-10	1298-1301	was	_	_	
+21-11	1302-1304	in	_	_	
+21-12	1305-1314	ignorance	_	_	
+21-13	1315-1317	of	_	_	
+21-14	1318-1321	any	_	_	
+21-15	1322-1333	certificate	_	_	
+21-16	1334-1339	being	_	_	
+21-17	1340-1348	required	_	_	
+21-18	1349-1352	for	_	_	
+21-19	1353-1361	Cheshire	https://en.wikipedia.org/wiki/Cheshire	LOC	
+21-20	1361-1362	.	_	_	
+
+#Text=He knew that it was required in Lancashire, and had obtained certificates for there, but he was entirely ignorant of their being required in Cheshire.
+22-1	1363-1365	He	_	_	
+22-2	1366-1370	knew	_	_	
+22-3	1371-1375	that	_	_	
+22-4	1376-1378	it	_	_	
+22-5	1379-1382	was	_	_	
+22-6	1383-1391	required	_	_	
+22-7	1392-1394	in	_	_	
+22-8	1395-1405	Lancashire	https://en.wikipedia.org/wiki/Lancashire	LOC	
+22-9	1405-1406	,	_	_	
+22-10	1407-1410	and	_	_	
+22-11	1411-1414	had	_	_	
+22-12	1415-1423	obtained	_	_	
+22-13	1424-1436	certificates	_	_	
+22-14	1437-1440	for	_	_	
+22-15	1441-1446	there	_	_	
+22-16	1446-1447	,	_	_	
+22-17	1448-1451	but	_	_	
+22-18	1452-1454	he	_	_	
+22-19	1455-1458	was	_	_	
+22-20	1459-1467	entirely	_	_	
+22-21	1468-1476	ignorant	_	_	
+22-22	1477-1479	of	_	_	
+22-23	1480-1485	their	_	_	
+22-24	1486-1491	being	_	_	
+22-25	1492-1500	required	_	_	
+22-26	1501-1503	in	_	_	
+22-27	1504-1512	Cheshire	https://en.wikipedia.org/wiki/Cheshire	LOC	
+22-28	1512-1513	.	_	_	
+
+#Text=He had neither seen placard nor newspaper containing such announcement, and there was no cattle plague near Baguley.
+23-1	1514-1516	He	_	_	
+23-2	1517-1520	had	_	_	
+23-3	1521-1528	neither	_	_	
+23-4	1529-1533	seen	_	_	
+23-5	1534-1541	placard	_	_	
+23-6	1542-1545	nor	_	_	
+23-7	1546-1555	newspaper	_	_	
+23-8	1556-1566	containing	_	_	
+23-9	1567-1571	such	_	_	
+23-10	1572-1584	announcement	_	_	
+23-11	1584-1585	,	_	_	
+23-12	1586-1589	and	_	_	
+23-13	1590-1595	there	_	_	
+23-14	1596-1599	was	_	_	
+23-15	1600-1602	no	_	_	
+23-16	1603-1609	cattle	_	_	
+23-17	1610-1616	plague	_	_	
+23-18	1617-1621	near	_	_	
+23-19	1622-1629	Baguley	https://en.wikipedia.org/wiki/Baguley	LOC	
+23-20	1629-1630	.	_	_	
+
+#Text=—The Chairman said the defendant’s ignorance was no excuse whatever.
+24-1	1630-1631	—	_	_	
+24-2	1631-1634	The	_	_	
+24-3	1635-1643	Chairman	_	_	
+24-4	1644-1648	said	_	_	
+24-5	1649-1652	the	_	_	
+24-6	1653-1662	defendant	_	_	
+24-7	1662-1663	’	_	_	
+24-8	1663-1664	s	_	_	
+24-9	1665-1674	ignorance	_	_	
+24-10	1675-1678	was	_	_	
+24-11	1679-1681	no	_	_	
+24-12	1682-1688	excuse	_	_	
+24-13	1689-1697	whatever	_	_	
+24-14	1697-1698	.	_	_	
+
+#Text=He ought not to have been ignorant of what was required in a matter of such importance.
+25-1	1699-1701	He	_	_	
+25-2	1702-1707	ought	_	_	
+25-3	1708-1711	not	_	_	
+25-4	1712-1714	to	_	_	
+25-5	1715-1719	have	_	_	
+25-6	1720-1724	been	_	_	
+25-7	1725-1733	ignorant	_	_	
+25-8	1734-1736	of	_	_	
+25-9	1737-1741	what	_	_	
+25-10	1742-1745	was	_	_	
+25-11	1746-1754	required	_	_	
+25-12	1755-1757	in	_	_	
+25-13	1758-1759	a	_	_	
+25-14	1760-1766	matter	_	_	
+25-15	1767-1769	of	_	_	
+25-16	1770-1774	such	_	_	
+25-17	1775-1785	importance	_	_	
+25-18	1785-1786	.	_	_	
+
+#Text=—He was fined 20s. and costs.
+26-1	1787-1788	—	_	_	
+26-2	1788-1790	He	_	_	
+26-3	1791-1794	was	_	_	
+26-4	1795-1800	fined	_	_	
+26-5	1801-1804	20s	_	_	
+26-6	1804-1805	.	_	_	
+26-7	1806-1809	and	_	_	
+26-8	1810-1815	costs	_	_	
+26-9	1815-1816	.	_	_	

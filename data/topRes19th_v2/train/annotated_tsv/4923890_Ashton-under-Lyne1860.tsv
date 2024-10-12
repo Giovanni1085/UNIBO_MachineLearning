@@ -1,0 +1,571 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=PUBLIC NOTICE 
+#Text=That he will commence next week to Lecture in the country.
+1-1	0-6	PUBLIC	_	_	
+1-2	7-13	NOTICE	_	_	
+1-3	15-19	That	_	_	
+1-4	20-22	he	_	_	
+1-5	23-27	will	_	_	
+1-6	28-36	commence	_	_	
+1-7	37-41	next	_	_	
+1-8	42-46	week	_	_	
+1-9	47-49	to	_	_	
+1-10	50-57	Lecture	_	_	
+1-11	58-60	in	_	_	
+1-12	61-64	the	_	_	
+1-13	65-72	country	_	_	
+1-14	72-73	.	_	_	
+
+#Text=All his books and publications may be had after each 
+#Text=DR.
+2-1	75-78	All	_	_	
+2-2	79-82	his	_	_	
+2-3	83-88	books	_	_	
+2-4	89-92	and	_	_	
+2-5	93-105	publications	_	_	
+2-6	106-109	may	_	_	
+2-7	110-112	be	_	_	
+2-8	113-116	had	_	_	
+2-9	117-122	after	_	_	
+2-10	123-127	each	_	_	
+2-11	129-131	DR	_	_	
+2-12	131-132	.	_	_	
+
+#Text=AIREY may be CONSULTED as usual on all diseases from nine p.m. till fo»r p.m., and his assistant from four p.m. till nine p.m.
+3-1	133-138	AIREY	_	_	
+3-2	139-142	may	_	_	
+3-3	143-145	be	_	_	
+3-4	146-155	CONSULTED	_	_	
+3-5	156-158	as	_	_	
+3-6	159-164	usual	_	_	
+3-7	165-167	on	_	_	
+3-8	168-171	all	_	_	
+3-9	172-180	diseases	_	_	
+3-10	181-185	from	_	_	
+3-11	186-190	nine	_	_	
+3-12	191-194	p.m	_	_	
+3-13	194-195	.	_	_	
+3-14	196-200	till	_	_	
+3-15	201-203	fo	_	_	
+3-16	203-204	»	_	_	
+3-17	204-205	r	_	_	
+3-18	206-209	p.m	_	_	
+3-19	209-210	.	_	_	
+3-20	210-211	,	_	_	
+3-21	212-215	and	_	_	
+3-22	216-219	his	_	_	
+3-23	220-229	assistant	_	_	
+3-24	230-234	from	_	_	
+3-25	235-239	four	_	_	
+3-26	240-243	p.m	_	_	
+3-27	243-244	.	_	_	
+3-28	245-249	till	_	_	
+3-29	250-254	nine	_	_	
+3-30	255-258	p.m	_	_	
+3-31	258-259	.	_	_	
+
+#Text=Advice Free.
+4-1	260-266	Advice	_	_	
+4-2	267-271	Free	_	_	
+4-3	271-272	.	_	_	
+
+#Text=Dr. airey’s Hand-book to the botanic practice.
+5-1	274-276	Dr	_	_	
+5-2	276-277	.	_	_	
+5-3	278-283	airey	_	_	
+5-4	283-284	’	_	_	
+5-5	284-285	s	_	_	
+5-6	286-295	Hand-book	_	_	
+5-7	296-298	to	_	_	
+5-8	299-302	the	_	_	
+5-9	303-310	botanic	_	_	
+5-10	311-319	practice	_	_	
+5-11	319-320	.	_	_	
+
+#Text=Price One Shilling. 50,000 copies of this excellent book have been sold in England alone in the course of 
+#Text=a few years.
+6-1	321-326	Price	_	_	
+6-2	327-330	One	_	_	
+6-3	331-339	Shilling	_	_	
+6-4	339-340	.	_	_	
+6-5	341-347	50,000	_	_	
+6-6	348-354	copies	_	_	
+6-7	355-357	of	_	_	
+6-8	358-362	this	_	_	
+6-9	363-372	excellent	_	_	
+6-10	373-377	book	_	_	
+6-11	378-382	have	_	_	
+6-12	383-387	been	_	_	
+6-13	388-392	sold	_	_	
+6-14	393-395	in	_	_	
+6-15	396-403	England	https://en.wikipedia.org/wiki/England	LOC	
+6-16	404-409	alone	_	_	
+6-17	410-412	in	_	_	
+6-18	413-416	the	_	_	
+6-19	417-423	course	_	_	
+6-20	424-426	of	_	_	
+6-21	428-429	a	_	_	
+6-22	430-433	few	_	_	
+6-23	434-439	years	_	_	
+6-24	439-440	.	_	_	
+
+#Text=Dr.
+7-1	442-444	Dr	_	_	
+7-2	444-445	.	_	_	
+
+#Text=Airet’s Woman’s Friend ; or, Man-Midwifery Exposed, and the Diseases of Children.
+8-1	446-451	Airet	_	_	
+8-2	451-452	’	_	_	
+8-3	452-453	s	_	_	
+8-4	454-459	Woman	_	_	
+8-5	459-460	’	_	_	
+8-6	460-461	s	_	_	
+8-7	462-468	Friend	_	_	
+8-8	469-470	;	_	_	
+8-9	471-473	or	_	_	
+8-10	473-474	,	_	_	
+8-11	475-488	Man-Midwifery	_	_	
+8-12	489-496	Exposed	_	_	
+8-13	496-497	,	_	_	
+8-14	498-501	and	_	_	
+8-15	502-505	the	_	_	
+8-16	506-514	Diseases	_	_	
+8-17	515-517	of	_	_	
+8-18	518-526	Children	_	_	
+8-19	526-527	.	_	_	
+
+#Text=Price Sixpence.
+9-1	528-533	Price	_	_	
+9-2	534-542	Sixpence	_	_	
+9-3	542-543	.	_	_	
+
+#Text=This is a good book for mothers and heads of families.
+10-1	544-548	This	_	_	
+10-2	549-551	is	_	_	
+10-3	552-553	a	_	_	
+10-4	554-558	good	_	_	
+10-5	559-563	book	_	_	
+10-6	564-567	for	_	_	
+10-7	568-575	mothers	_	_	
+10-8	576-579	and	_	_	
+10-9	580-585	heads	_	_	
+10-10	586-588	of	_	_	
+10-11	589-597	families	_	_	
+10-12	597-598	.	_	_	
+
+#Text=Should be in every working man’s house.
+11-1	599-605	Should	_	_	
+11-2	606-608	be	_	_	
+11-3	609-611	in	_	_	
+11-4	612-617	every	_	_	
+11-5	618-625	working	_	_	
+11-6	626-629	man	_	_	
+11-7	629-630	’	_	_	
+11-8	630-631	s	_	_	
+11-9	632-637	house	_	_	
+11-10	637-638	.	_	_	
+
+#Text=Dr.
+12-1	640-642	Dr	_	_	
+12-2	642-643	.	_	_	
+
+#Text=Airey’s Young Man’s Friend.
+13-1	644-649	Airey	_	_	
+13-2	649-650	’	_	_	
+13-3	650-651	s	_	_	
+13-4	652-657	Young	_	_	
+13-5	658-661	Man	_	_	
+13-6	661-662	’	_	_	
+13-7	662-663	s	_	_	
+13-8	664-670	Friend	_	_	
+13-9	670-671	.	_	_	
+
+#Text=Price Sixpence.
+14-1	672-677	Price	_	_	
+14-2	678-686	Sixpence	_	_	
+14-3	686-687	.	_	_	
+
+#Text=This is a book for young men only, and should be read by every young man.
+15-1	688-692	This	_	_	
+15-2	693-695	is	_	_	
+15-3	696-697	a	_	_	
+15-4	698-702	book	_	_	
+15-5	703-706	for	_	_	
+15-6	707-712	young	_	_	
+15-7	713-716	men	_	_	
+15-8	717-721	only	_	_	
+15-9	721-722	,	_	_	
+15-10	723-726	and	_	_	
+15-11	727-733	should	_	_	
+15-12	734-736	be	_	_	
+15-13	737-741	read	_	_	
+15-14	742-744	by	_	_	
+15-15	745-750	every	_	_	
+15-16	751-756	young	_	_	
+15-17	757-760	man	_	_	
+15-18	760-761	.	_	_	
+
+#Text=Dr.
+16-1	763-765	Dr	_	_	
+16-2	765-766	.	_	_	
+
+#Text=Airey has published his celebrated course of Six Lectures.
+17-1	767-772	Airey	_	_	
+17-2	773-776	has	_	_	
+17-3	777-786	published	_	_	
+17-4	787-790	his	_	_	
+17-5	791-801	celebrated	_	_	
+17-6	802-808	course	_	_	
+17-7	809-811	of	_	_	
+17-8	812-815	Six	_	_	
+17-9	816-824	Lectures	_	_	
+17-10	824-825	.	_	_	
+
+#Text=They will be sold at one penny each, to defray the cost of printing.
+18-1	826-830	They	_	_	
+18-2	831-835	will	_	_	
+18-3	836-838	be	_	_	
+18-4	839-843	sold	_	_	
+18-5	844-846	at	_	_	
+18-6	847-850	one	_	_	
+18-7	851-856	penny	_	_	
+18-8	857-861	each	_	_	
+18-9	861-862	,	_	_	
+18-10	863-865	to	_	_	
+18-11	866-872	defray	_	_	
+18-12	873-876	the	_	_	
+18-13	877-881	cost	_	_	
+18-14	882-884	of	_	_	
+18-15	885-893	printing	_	_	
+18-16	893-894	.	_	_	
+
+#Text=They may be had at the Lecture Hall, or after each lecture.
+19-1	895-899	They	_	_	
+19-2	900-903	may	_	_	
+19-3	904-906	be	_	_	
+19-4	907-910	had	_	_	
+19-5	911-913	at	_	_	
+19-6	914-917	the	_	_	
+19-7	918-925	Lecture	*[1]	BUILDING[1]	
+19-8	926-930	Hall	*[1]	BUILDING[1]	
+19-9	930-931	,	_	_	
+19-10	932-934	or	_	_	
+19-11	935-940	after	_	_	
+19-12	941-945	each	_	_	
+19-13	946-953	lecture	_	_	
+19-14	953-954	.	_	_	
+
+#Text=A Lecture on Medical Reform, price Id.
+20-1	956-957	A	_	_	
+20-2	958-965	Lecture	_	_	
+20-3	966-968	on	_	_	
+20-4	969-976	Medical	_	_	
+20-5	977-983	Reform	_	_	
+20-6	983-984	,	_	_	
+20-7	985-990	price	_	_	
+20-8	991-993	Id	_	_	
+20-9	993-994	.	_	_	
+
+#Text=A Lecture on Consumption, price Id.
+21-1	995-996	A	_	_	
+21-2	997-1004	Lecture	_	_	
+21-3	1005-1007	on	_	_	
+21-4	1008-1019	Consumption	_	_	
+21-5	1019-1020	,	_	_	
+21-6	1021-1026	price	_	_	
+21-7	1027-1029	Id	_	_	
+21-8	1029-1030	.	_	_	
+
+#Text=A Lecture on Fever, its Cause and Cure, price Id.
+22-1	1031-1032	A	_	_	
+22-2	1033-1040	Lecture	_	_	
+22-3	1041-1043	on	_	_	
+22-4	1044-1049	Fever	_	_	
+22-5	1049-1050	,	_	_	
+22-6	1051-1054	its	_	_	
+22-7	1055-1060	Cause	_	_	
+22-8	1061-1064	and	_	_	
+22-9	1065-1069	Cure	_	_	
+22-10	1069-1070	,	_	_	
+22-11	1071-1076	price	_	_	
+22-12	1077-1079	Id	_	_	
+22-13	1079-1080	.	_	_	
+
+#Text=A Lecture on Inflammations, price Id.
+23-1	1081-1082	A	_	_	
+23-2	1083-1090	Lecture	_	_	
+23-3	1091-1093	on	_	_	
+23-4	1094-1107	Inflammations	_	_	
+23-5	1107-1108	,	_	_	
+23-6	1109-1114	price	_	_	
+23-7	1115-1117	Id	_	_	
+23-8	1117-1118	.	_	_	
+
+#Text=A Lecture on Indigestion, price Id.
+24-1	1119-1120	A	_	_	
+24-2	1121-1128	Lecture	_	_	
+24-3	1129-1131	on	_	_	
+24-4	1132-1143	Indigestion	_	_	
+24-5	1143-1144	,	_	_	
+24-6	1145-1150	price	_	_	
+24-7	1151-1153	Id	_	_	
+24-8	1153-1154	.	_	_	
+
+#Text=A Lecture on Rheumatism, price Id.
+25-1	1155-1156	A	_	_	
+25-2	1157-1164	Lecture	_	_	
+25-3	1165-1167	on	_	_	
+25-4	1168-1178	Rheumatism	_	_	
+25-5	1178-1179	,	_	_	
+25-6	1180-1185	price	_	_	
+25-7	1186-1188	Id	_	_	
+25-8	1188-1189	.	_	_	
+
+#Text=The above may he had by post for one stamp extra.
+26-1	1191-1194	The	_	_	
+26-2	1195-1200	above	_	_	
+26-3	1201-1204	may	_	_	
+26-4	1205-1207	he	_	_	
+26-5	1208-1211	had	_	_	
+26-6	1212-1214	by	_	_	
+26-7	1215-1219	post	_	_	
+26-8	1220-1223	for	_	_	
+26-9	1224-1227	one	_	_	
+26-10	1228-1233	stamp	_	_	
+26-11	1234-1239	extra	_	_	
+26-12	1239-1240	.	_	_	
+
+#Text=Dr.
+27-1	1242-1244	Dr	_	_	
+27-2	1244-1245	.	_	_	
+
+#Text=Airey is the only qualified gentleman practising in Ashton-under-Lyne from America, and his Diplomas may seen at his Lecture Hall.
+28-1	1246-1251	Airey	_	_	
+28-2	1252-1254	is	_	_	
+28-3	1255-1258	the	_	_	
+28-4	1259-1263	only	_	_	
+28-5	1264-1273	qualified	_	_	
+28-6	1274-1283	gentleman	_	_	
+28-7	1284-1294	practising	_	_	
+28-8	1295-1297	in	_	_	
+28-9	1298-1315	Ashton-under-Lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+28-10	1316-1320	from	_	_	
+28-11	1321-1328	America	https://en.wikipedia.org/wiki/United\_States	LOC	
+28-12	1328-1329	,	_	_	
+28-13	1330-1333	and	_	_	
+28-14	1334-1337	his	_	_	
+28-15	1338-1346	Diplomas	_	_	
+28-16	1347-1350	may	_	_	
+28-17	1351-1355	seen	_	_	
+28-18	1356-1358	at	_	_	
+28-19	1359-1362	his	_	_	
+28-20	1363-1370	Lecture	*[2]	BUILDING[2]	
+28-21	1371-1375	Hall	*[2]	BUILDING[2]	
+28-22	1375-1376	.	_	_	
+
+#Text=THE most conspicuous feature of KIT..
+29-1	1378-1381	THE	_	_	
+29-2	1382-1386	most	_	_	
+29-3	1387-1398	conspicuous	_	_	
+29-4	1399-1406	feature	_	_	
+29-5	1407-1409	of	_	_	
+29-6	1410-1413	KIT	_	_	
+29-7	1413-1414	.	_	_	
+29-8	1414-1415	.	_	_	
+
+#Text=LORN’S Clothing Establishment is the department for the supply of Clothing for the industrious classes.
+30-1	1416-1420	LORN	_	_	
+30-2	1420-1421	’	_	_	
+30-3	1421-1422	S	_	_	
+30-4	1423-1431	Clothing	_	_	
+30-5	1432-1445	Establishment	_	_	
+30-6	1446-1448	is	_	_	
+30-7	1449-1452	the	_	_	
+30-8	1453-1463	department	_	_	
+30-9	1464-1467	for	_	_	
+30-10	1468-1471	the	_	_	
+30-11	1472-1478	supply	_	_	
+30-12	1479-1481	of	_	_	
+30-13	1482-1490	Clothing	_	_	
+30-14	1491-1494	for	_	_	
+30-15	1495-1498	the	_	_	
+30-16	1499-1510	industrious	_	_	
+30-17	1511-1518	classes	_	_	
+30-18	1518-1519	.	_	_	
+
+#Text=In this department is displayed an unrivalled stock of strong, cheap, and useful Clothing.
+31-1	1520-1522	In	_	_	
+31-2	1523-1527	this	_	_	
+31-3	1528-1538	department	_	_	
+31-4	1539-1541	is	_	_	
+31-5	1542-1551	displayed	_	_	
+31-6	1552-1554	an	_	_	
+31-7	1555-1565	unrivalled	_	_	
+31-8	1566-1571	stock	_	_	
+31-9	1572-1574	of	_	_	
+31-10	1575-1581	strong	_	_	
+31-11	1581-1582	,	_	_	
+31-12	1583-1588	cheap	_	_	
+31-13	1588-1589	,	_	_	
+31-14	1590-1593	and	_	_	
+31-15	1594-1600	useful	_	_	
+31-16	1601-1609	Clothing	_	_	
+31-17	1609-1610	.	_	_	
+
+#Text=Working men’s baits for Sunday and holiday wear, of line double-milled cloth, £2 10s.
+32-1	1611-1618	Working	_	_	
+32-2	1619-1622	men	_	_	
+32-3	1622-1623	’	_	_	
+32-4	1623-1624	s	_	_	
+32-5	1625-1630	baits	_	_	
+32-6	1631-1634	for	_	_	
+32-7	1635-1641	Sunday	_	_	
+32-8	1642-1645	and	_	_	
+32-9	1646-1653	holiday	_	_	
+32-10	1654-1658	wear	_	_	
+32-11	1658-1659	,	_	_	
+32-12	1660-1662	of	_	_	
+32-13	1663-1667	line	_	_	
+32-14	1668-1681	double-milled	_	_	
+32-15	1682-1687	cloth	_	_	
+32-16	1687-1688	,	_	_	
+32-17	1689-1691	£2	_	_	
+32-18	1692-1695	10s	_	_	
+32-19	1695-1696	.	_	_	
+
+#Text=Specially adapted for the use of working men’s clothing are Killorn & Co.’s goods, consisting of strong Reaver and Pilot Cloths, Tweeds, Woollen and Bedford Cords, Beaverteens, Plushes, and Cotton Cords.
+33-1	1697-1706	Specially	_	_	
+33-2	1707-1714	adapted	_	_	
+33-3	1715-1718	for	_	_	
+33-4	1719-1722	the	_	_	
+33-5	1723-1726	use	_	_	
+33-6	1727-1729	of	_	_	
+33-7	1730-1737	working	_	_	
+33-8	1738-1741	men	_	_	
+33-9	1741-1742	’	_	_	
+33-10	1742-1743	s	_	_	
+33-11	1744-1752	clothing	_	_	
+33-12	1753-1756	are	_	_	
+33-13	1757-1764	Killorn	_	_	
+33-14	1765-1766	&	_	_	
+33-15	1767-1769	Co	_	_	
+33-16	1769-1770	.	_	_	
+33-17	1770-1771	’	_	_	
+33-18	1771-1772	s	_	_	
+33-19	1773-1778	goods	_	_	
+33-20	1778-1779	,	_	_	
+33-21	1780-1790	consisting	_	_	
+33-22	1791-1793	of	_	_	
+33-23	1794-1800	strong	_	_	
+33-24	1801-1807	Reaver	_	_	
+33-25	1808-1811	and	_	_	
+33-26	1812-1817	Pilot	_	_	
+33-27	1818-1824	Cloths	_	_	
+33-28	1824-1825	,	_	_	
+33-29	1826-1832	Tweeds	_	_	
+33-30	1832-1833	,	_	_	
+33-31	1834-1841	Woollen	_	_	
+33-32	1842-1845	and	_	_	
+33-33	1846-1853	Bedford	https://en.wikipedia.org/wiki/Bedford	BUILDING	
+33-34	1854-1859	Cords	_	_	
+33-35	1859-1860	,	_	_	
+33-36	1861-1872	Beaverteens	_	_	
+33-37	1872-1873	,	_	_	
+33-38	1874-1881	Plushes	_	_	
+33-39	1881-1882	,	_	_	
+33-40	1883-1886	and	_	_	
+33-41	1887-1893	Cotton	_	_	
+33-42	1894-1899	Cords	_	_	
+33-43	1899-1900	.	_	_	
+
+#Text=AND CO.’S 
+#Text=FOR WORKMEN, 
+#Text=AS HT6N-UND E it - L Y N E LOAN SOCIETY, held at Mr.
+34-1	1901-1904	AND	_	_	
+34-2	1905-1907	CO	_	_	
+34-3	1907-1908	.	_	_	
+34-4	1908-1909	’	_	_	
+34-5	1909-1910	S	_	_	
+34-6	1912-1915	FOR	_	_	
+34-7	1916-1923	WORKMEN	_	_	
+34-8	1923-1924	,	_	_	
+34-9	1926-1928	AS	_	_	
+34-10	1929-1937	HT6N-UND	_	_	
+34-11	1938-1939	E	_	_	
+34-12	1940-1942	it	_	_	
+34-13	1943-1944	-	_	_	
+34-14	1945-1946	L	_	_	
+34-15	1947-1948	Y	_	_	
+34-16	1949-1950	N	_	_	
+34-17	1951-1952	E	_	_	
+34-18	1953-1957	LOAN	_	_	
+34-19	1958-1965	SOCIETY	_	_	
+34-20	1965-1966	,	_	_	
+34-21	1967-1971	held	_	_	
+34-22	1972-1974	at	_	_	
+34-23	1975-1977	Mr	_	_	
+34-24	1977-1978	.	_	_	
+
+#Text=Joseph Hothwell’s, Market House Inn, Warrington-street.
+35-1	1979-1985	Joseph	_	_	
+35-2	1986-1994	Hothwell	_	_	
+35-3	1994-1995	’	_	_	
+35-4	1995-1996	s	_	_	
+35-5	1996-1997	,	_	_	
+35-6	1998-2004	Market	*[3]	BUILDING[3]	
+35-7	2005-2010	House	*[3]	BUILDING[3]	
+35-8	2011-2014	Inn	*[3]	BUILDING[3]	
+35-9	2014-2015	,	_	_	
+35-10	2016-2033	Warrington-street	*	STREET	
+35-11	2033-2034	.	_	_	
+
+#Text=Loans from £1 to £l5 granted on personal security.
+36-1	2035-2040	Loans	_	_	
+36-2	2041-2045	from	_	_	
+36-3	2046-2048	£1	_	_	
+36-4	2049-2051	to	_	_	
+36-5	2052-2053	£	_	_	
+36-6	2053-2055	l5	_	_	
+36-7	2056-2063	granted	_	_	
+36-8	2064-2066	on	_	_	
+36-9	2067-2075	personal	_	_	
+36-10	2076-2084	security	_	_	
+36-11	2084-2085	.	_	_	
+
+#Text=Forms granted every Monday night, from half-past seven to nine o’clock p.m.
+37-1	2086-2091	Forms	_	_	
+37-2	2092-2099	granted	_	_	
+37-3	2100-2105	every	_	_	
+37-4	2106-2112	Monday	_	_	
+37-5	2113-2118	night	_	_	
+37-6	2118-2119	,	_	_	
+37-7	2120-2124	from	_	_	
+37-8	2125-2134	half-past	_	_	
+37-9	2135-2140	seven	_	_	
+37-10	2141-2143	to	_	_	
+37-11	2144-2148	nine	_	_	
+37-12	2149-2150	o	_	_	
+37-13	2150-2151	’	_	_	
+37-14	2151-2156	clock	_	_	
+37-15	2157-2160	p.m	_	_	
+37-16	2160-2161	.	_	_	
+
+#Text=Five per cent, per annum given on all deposits from £1 and upwards.
+38-1	2162-2166	Five	_	_	
+38-2	2167-2170	per	_	_	
+38-3	2171-2175	cent	_	_	
+38-4	2175-2176	,	_	_	
+38-5	2177-2180	per	_	_	
+38-6	2181-2186	annum	_	_	
+38-7	2187-2192	given	_	_	
+38-8	2193-2195	on	_	_	
+38-9	2196-2199	all	_	_	
+38-10	2200-2208	deposits	_	_	
+38-11	2209-2213	from	_	_	
+38-12	2214-2216	£1	_	_	
+38-13	2217-2220	and	_	_	
+38-14	2221-2228	upwards	_	_	
+38-15	2228-2229	.	_	_	

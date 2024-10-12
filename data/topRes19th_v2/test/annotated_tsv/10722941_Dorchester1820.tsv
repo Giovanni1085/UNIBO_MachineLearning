@@ -1,0 +1,243 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=MESSRS.
+1-1	0-6	MESSRS	_	_	
+1-2	6-7	.	_	_	
+
+#Text=MEADER & SON 
+#Text=BEG respectfully to inform the Public, that they have received instructions to 
+#Text=SELL BY AUCTION, 
+#Text=ON TTfK PREMISES, .
+2-1	8-14	MEADER	_	_	
+2-2	15-16	&	_	_	
+2-3	17-20	SON	_	_	
+2-4	22-25	BEG	_	_	
+2-5	26-38	respectfully	_	_	
+2-6	39-41	to	_	_	
+2-7	42-48	inform	_	_	
+2-8	49-52	the	_	_	
+2-9	53-59	Public	_	_	
+2-10	59-60	,	_	_	
+2-11	61-65	that	_	_	
+2-12	66-70	they	_	_	
+2-13	71-75	have	_	_	
+2-14	76-84	received	_	_	
+2-15	85-97	instructions	_	_	
+2-16	98-100	to	_	_	
+2-17	102-106	SELL	_	_	
+2-18	107-109	BY	_	_	
+2-19	110-117	AUCTION	_	_	
+2-20	117-118	,	_	_	
+2-21	120-122	ON	_	_	
+2-22	123-127	TTfK	_	_	
+2-23	128-136	PREMISES	_	_	
+2-24	136-137	,	_	_	
+2-25	138-139	.	_	_	
+
+#Text=At COTTAGE GREEN SAINT JAMES, SHAFTESBURY, on Monday, the 17lh of Novfmbir, nod four following days, the neat and elegant HOUSEHOLD FURNITURE, oriental and other China, painted and other glass, paintings and prints.
+3-1	140-142	At	_	_	
+3-2	143-150	COTTAGE	*[1]	BUILDING[1]	
+3-3	151-156	GREEN	*[1]	BUILDING[1]	
+3-4	157-162	SAINT	*[2]	STREET[2]	
+3-5	163-168	JAMES	*[2]	STREET[2]	
+3-6	168-169	,	_	_	
+3-7	170-181	SHAFTESBURY	https://en.wikipedia.org/wiki/Shaftesbury	LOC	
+3-8	181-182	,	_	_	
+3-9	183-185	on	_	_	
+3-10	186-192	Monday	_	_	
+3-11	192-193	,	_	_	
+3-12	194-197	the	_	_	
+3-13	198-202	17lh	_	_	
+3-14	203-205	of	_	_	
+3-15	206-214	Novfmbir	_	_	
+3-16	214-215	,	_	_	
+3-17	216-219	nod	_	_	
+3-18	220-224	four	_	_	
+3-19	225-234	following	_	_	
+3-20	235-239	days	_	_	
+3-21	239-240	,	_	_	
+3-22	241-244	the	_	_	
+3-23	245-249	neat	_	_	
+3-24	250-253	and	_	_	
+3-25	254-261	elegant	_	_	
+3-26	262-271	HOUSEHOLD	_	_	
+3-27	272-281	FURNITURE	_	_	
+3-28	281-282	,	_	_	
+3-29	283-291	oriental	_	_	
+3-30	292-295	and	_	_	
+3-31	296-301	other	_	_	
+3-32	302-307	China	_	_	
+3-33	307-308	,	_	_	
+3-34	309-316	painted	_	_	
+3-35	317-320	and	_	_	
+3-36	321-326	other	_	_	
+3-37	327-332	glass	_	_	
+3-38	332-333	,	_	_	
+3-39	334-343	paintings	_	_	
+3-40	344-347	and	_	_	
+3-41	348-354	prints	_	_	
+3-42	354-355	.	_	_	
+
+#Text=—Also an excellent Library, containing many handred volumes, and amongst them the works of some of the most celebrated authors.
+4-1	355-356	—	_	_	
+4-2	356-360	Also	_	_	
+4-3	361-363	an	_	_	
+4-4	364-373	excellent	_	_	
+4-5	374-381	Library	_	_	
+4-6	381-382	,	_	_	
+4-7	383-393	containing	_	_	
+4-8	394-398	many	_	_	
+4-9	399-406	handred	_	_	
+4-10	407-414	volumes	_	_	
+4-11	414-415	,	_	_	
+4-12	416-419	and	_	_	
+4-13	420-427	amongst	_	_	
+4-14	428-432	them	_	_	
+4-15	433-436	the	_	_	
+4-16	437-442	works	_	_	
+4-17	443-445	of	_	_	
+4-18	446-450	some	_	_	
+4-19	451-453	of	_	_	
+4-20	454-457	the	_	_	
+4-21	458-462	most	_	_	
+4-22	463-473	celebrated	_	_	
+4-23	474-481	authors	_	_	
+4-24	481-482	.	_	_	
+
+#Text=Likewise a neat and fashionable four-wheel pony carriage, built at Bath; four capital Milch Cows; several Pigs; two ricks of excellent Ateadow Hay, and other Effects, the property of a Geutlcman quitting his residence.
+5-1	483-491	Likewise	_	_	
+5-2	492-493	a	_	_	
+5-3	494-498	neat	_	_	
+5-4	499-502	and	_	_	
+5-5	503-514	fashionable	_	_	
+5-6	515-525	four-wheel	_	_	
+5-7	526-530	pony	_	_	
+5-8	531-539	carriage	_	_	
+5-9	539-540	,	_	_	
+5-10	541-546	built	_	_	
+5-11	547-549	at	_	_	
+5-12	550-554	Bath	https://en.wikipedia.org/wiki/Bath,\_Somerset	LOC	
+5-13	554-555	;	_	_	
+5-14	556-560	four	_	_	
+5-15	561-568	capital	_	_	
+5-16	569-574	Milch	_	_	
+5-17	575-579	Cows	_	_	
+5-18	579-580	;	_	_	
+5-19	581-588	several	_	_	
+5-20	589-593	Pigs	_	_	
+5-21	593-594	;	_	_	
+5-22	595-598	two	_	_	
+5-23	599-604	ricks	_	_	
+5-24	605-607	of	_	_	
+5-25	608-617	excellent	_	_	
+5-26	618-625	Ateadow	_	_	
+5-27	626-629	Hay	_	_	
+5-28	629-630	,	_	_	
+5-29	631-634	and	_	_	
+5-30	635-640	other	_	_	
+5-31	641-648	Effects	_	_	
+5-32	648-649	,	_	_	
+5-33	650-653	the	_	_	
+5-34	654-662	property	_	_	
+5-35	663-665	of	_	_	
+5-36	666-667	a	_	_	
+5-37	668-677	Geutlcman	_	_	
+5-38	678-686	quitting	_	_	
+5-39	687-690	his	_	_	
+5-40	691-700	residence	_	_	
+5-41	700-701	.	_	_	
+
+#Text=Further particulars will he expressed in Catalogues, to be had six days previously to the Sale, at the Grosveoor Arms, Shaftesbury; the Bell Inn, Blandford: the Crown Inn, Sturminsler; the Lamb Inn, Hindoo ; the Black Horse, Salisbury, and of the Auctioneers.
+6-1	702-709	Further	_	_	
+6-2	710-721	particulars	_	_	
+6-3	722-726	will	_	_	
+6-4	727-729	he	_	_	
+6-5	730-739	expressed	_	_	
+6-6	740-742	in	_	_	
+6-7	743-753	Catalogues	_	_	
+6-8	753-754	,	_	_	
+6-9	755-757	to	_	_	
+6-10	758-760	be	_	_	
+6-11	761-764	had	_	_	
+6-12	765-768	six	_	_	
+6-13	769-773	days	_	_	
+6-14	774-784	previously	_	_	
+6-15	785-787	to	_	_	
+6-16	788-791	the	_	_	
+6-17	792-796	Sale	_	_	
+6-18	796-797	,	_	_	
+6-19	798-800	at	_	_	
+6-20	801-804	the	_	_	
+6-21	805-814	Grosveoor	*[3]	BUILDING[3]	
+6-22	815-819	Arms	*[3]	BUILDING[3]	
+6-23	819-820	,	_	_	
+6-24	821-832	Shaftesbury	https://en.wikipedia.org/wiki/Shaftesbury	LOC	
+6-25	832-833	;	_	_	
+6-26	834-837	the	_	_	
+6-27	838-842	Bell	*[4]	BUILDING[4]	
+6-28	843-846	Inn	*[4]	BUILDING[4]	
+6-29	846-847	,	_	_	
+6-30	848-857	Blandford	https://en.wikipedia.org/wiki/Blandford\_Forum	LOC	
+6-31	857-858	:	_	_	
+6-32	859-862	the	_	_	
+6-33	863-868	Crown	*[5]	BUILDING[5]	
+6-34	869-872	Inn	*[5]	BUILDING[5]	
+6-35	872-873	,	_	_	
+6-36	874-885	Sturminsler	https://en.wikipedia.org/wiki/Sturminster\_Newton	LOC	
+6-37	885-886	;	_	_	
+6-38	887-890	the	_	_	
+6-39	891-895	Lamb	*[6]	BUILDING[6]	
+6-40	896-899	Inn	*[6]	BUILDING[6]	
+6-41	899-900	,	_	_	
+6-42	901-907	Hindoo	https://en.wikipedia.org/wiki/Hindon,\_Wiltshire	LOC	
+6-43	908-909	;	_	_	
+6-44	910-913	the	_	_	
+6-45	914-919	Black	*[7]	BUILDING[7]	
+6-46	920-925	Horse	*[7]	BUILDING[7]	
+6-47	925-926	,	_	_	
+6-48	927-936	Salisbury	https://en.wikipedia.org/wiki/Salisbury	LOC	
+6-49	936-937	,	_	_	
+6-50	938-941	and	_	_	
+6-51	942-944	of	_	_	
+6-52	945-948	the	_	_	
+6-53	949-960	Auctioneers	_	_	
+6-54	960-961	.	_	_	
+
+#Text=N.B.
+7-1	962-965	N.B	_	_	
+7-2	965-966	.	_	_	
+
+#Text=The oriental and other China was part of the splendid collection sold at the late Fontbill Abbey Sale.
+8-1	967-970	The	_	_	
+8-2	971-979	oriental	_	_	
+8-3	980-983	and	_	_	
+8-4	984-989	other	_	_	
+8-5	990-995	China	_	_	
+8-6	996-999	was	_	_	
+8-7	1000-1004	part	_	_	
+8-8	1005-1007	of	_	_	
+8-9	1008-1011	the	_	_	
+8-10	1012-1020	splendid	_	_	
+8-11	1021-1031	collection	_	_	
+8-12	1032-1036	sold	_	_	
+8-13	1037-1039	at	_	_	
+8-14	1040-1043	the	_	_	
+8-15	1044-1048	late	_	_	
+8-16	1049-1057	Fontbill	https://en.wikipedia.org/wiki/Fonthill\_Abbey[8]	LOC[8]	
+8-17	1058-1063	Abbey	https://en.wikipedia.org/wiki/Fonthill\_Abbey[8]	LOC[8]	
+8-18	1064-1068	Sale	_	_	
+8-19	1068-1069	.	_	_	
+
+#Text=Shaftesbury, 30th Oct., 18^8.
+9-1	1070-1081	Shaftesbury	https://en.wikipedia.org/wiki/Shaftesbury	LOC	
+9-2	1081-1082	,	_	_	
+9-3	1083-1087	30th	_	_	
+9-4	1088-1091	Oct	_	_	
+9-5	1091-1092	.	_	_	
+9-6	1092-1093	,	_	_	
+9-7	1094-1096	18	_	_	
+9-8	1096-1097	^	_	_	
+9-9	1097-1098	8	_	_	
+9-10	1098-1099	.	_	_	

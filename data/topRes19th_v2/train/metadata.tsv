@@ -1,0 +1,344 @@
+fname	word_count	ocr_quality_mean	ocr_quality_sd	issue_date	publication_code	publication_title	decade	place_publication	annotation_batch
+10733983_Dorchester1820	288	0.8519	0.2215	1825-06-23	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+10714671_Dorchester1820	368	0.8537	0.2286	1829-05-14	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+10721457_Dorchester1830	410	0.8923	0.1815	1836-09-29	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+3896450_Manchester1830	398	0.8714	0.2068	1839-07-27	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+10713818_Dorchester1830	329	0.8636	0.2042	1831-08-25	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+10715946_Dorchester1820	213	0.8667	0.2068	1829-08-20	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+3722103_Manchester1820	392	0.8675	0.2095	1826-01-07	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+3936413_Manchester1860	181	0.8624	0.2095	1865-06-05	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+8247341_Manchester1800	185	0.7458	0.2853	1800-07-01	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+8249802_Manchester1780	381	0.7053	0.2978	1781-07-10	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	1
+12627_Poole1860	269	0.8829	0.1537	1860-05-03	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+8265624_Manchester1800	299	0.8368	0.2535	1804-08-14	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+3578124_Manchester1830	510	0.8927	0.1831	1838-05-26	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+10718914_Dorchester1830	364	0.8798	0.1965	1835-05-07	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+3578398_Manchester1830	412	0.8883	0.1936	1838-10-13	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+3579420_Manchester1820	519	0.8605	0.216	1825-05-28	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+4601724_Manchester1860	198	0.8243	0.2565	1866-03-02	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+5375455_Manchester1820	500	0.8484	0.2252	1827-09-25	240	The Manchester Mercury; and Tuesdays General Advertiser	1820	Manchester	1
+10714719_Dorchester1820	214	0.9034	0.1623	1829-07-30	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+10760195_Dorchester1820	399	0.8712	0.2048	1826-04-27	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+3722015_Manchester1820	320	0.8811	0.1923	1826-04-01	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+10734821_Dorchester1820	343	0.8612	0.2144	1825-02-24	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+10847903_Dorchester1830	257	0.8709	0.2028	1830-01-28	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+3423455_Manchester1860	238	0.7711	0.2765	1864-01-12	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+3574956_Manchester1820	417	0.872	0.2156	1828-03-01	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+9516_Poole1860	235	0.9237	0.1189	1860-04-26	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+10848013_Dorchester1830	185	0.8658	0.197	1830-06-10	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+10815043_Dorchester1860	245	0.8874	0.1945	1867-04-11	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+4941186_Ashton-under-Lyne1860	170	0.9043	0.1582	1869-07-17	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+10870472_Dorchester1860	470	0.9233	0.1407	1866-09-13	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+12275_Poole1860	365	0.879	0.1578	1860-02-23	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+10811430_Dorchester1860	292	0.9009	0.1779	1865-01-19	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+4424836_Manchester1830	408	0.8795	0.1838	1830-07-10	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+12010_Poole1860	223	0.8869	0.1441	1860-08-02	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+3579098_Manchester1820	269	0.9087	0.1735	1825-03-19	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+8248557_Manchester1780	333	0.7344	0.2845	1786-04-25	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	1
+8256968_Manchester1800	468	0.7741	0.2668	1809-05-09	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+11394_Poole1860	378	0.8996	0.1421	1860-11-01	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+3929380_Manchester1860	340	0.8596	0.2172	1865-10-11	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+12670_Poole1860	182	0.8953	0.1361	1860-12-27	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+4932673_Ashton-under-Lyne1860	309	0.899	0.1662	1867-02-09	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+4593406_Manchester1860	537	0.888	0.1879	1862-10-11	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+3580388_Manchester1830	444	0.8955	0.1743	1832-01-21	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+3691150_Manchester1830	321	0.9014	0.169	1837-05-27	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+4935585_Ashton-under-Lyne1860	448	0.8845	0.1795	1867-06-01	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+10771821_Dorchester1860	505	0.905	0.1712	1863-01-01	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+10734859_Dorchester1820	229	0.8555	0.2166	1825-10-06	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+33967_Poole1860	166	0.8927	0.1611	1865-03-16	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+10733447_Dorchester1830	165	0.8771	0.2016	1838-07-26	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+4924541_Ashton-under-Lyne1860	341	0.8878	0.1869	1868-02-15	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+10813493_Dorchester1860	220	0.8906	0.1811	1867-09-05	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+3574154_Manchester1830	530	0.8737	0.1976	1836-04-23	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+10707984_Dorchester1860	353	0.8965	0.1717	1864-12-22	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+4428937_Manchester1860	476	0.7976	0.2722	1869-02-09	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+4937730_Ashton-under-Lyne1860	335	0.8934	0.1805	1869-11-13	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+10757235_Dorchester1830	155	0.8672	0.2105	1837-10-05	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+10813661_Dorchester1860	303	0.8791	0.1954	1867-01-17	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+8258409_Manchester1780	396	0.8135	0.2435	1783-12-16	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+10867954_Dorchester1860	441	0.8819	0.1974	1866-05-10	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+10813254_Dorchester1860	544	0.8856	0.1941	1867-07-04	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+8262597_Manchester1800	329	0.7962	0.2757	1805-06-11	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+3580042_Manchester1820	234	0.8782	0.2039	1825-04-16	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+3935346_Manchester1860	323	0.737	0.2918	1865-02-18	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+8265216_Manchester1800	514	0.7026	0.2955	1804-05-29	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+3691199_Manchester1830	409	0.92	0.1529	1837-06-03	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+3730788_Manchester1820	534	0.8649	0.2139	1827-04-28	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+4596116_Manchester1860	407	0.8692	0.2118	1862-05-31	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+14281_Poole1860	271	0.9545	0.0899	1860-01-05	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+8262622_Manchester1800	331	0.7542	0.2881	1805-04-09	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+8563_Poole1860	191	0.8806	0.1678	1860-03-29	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+4939308_Ashton-under-Lyne1860	481	0.89	0.1803	1869-01-02	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+10848592_Dorchester1830	292	0.8621	0.2103	1830-10-28	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+8257127_Manchester1800	533	0.7336	0.2811	1809-10-24	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+4596779_Manchester1860	519	0.9066	0.1636	1866-10-25	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+10869766_Dorchester1860	408	0.8942	0.1846	1866-09-20	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+8240515_Manchester1800	466	0.7124	0.2929	1806-12-30	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+10707001_Dorchester1860	259	0.8839	0.1858	1864-02-18	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+10169_Poole1860	180	0.9115	0.1356	1860-04-19	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+10848655_Dorchester1830	538	0.9212	0.1548	1830-11-04	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+10723609_Dorchester1820	389	0.8508	0.2218	1828-10-23	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+8183886_Ashton-under-Lyne1860	339	0.9383	0.1286	1863-08-22	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	1
+8254299_Manchester1800	212	0.722	0.3257	1808-11-15	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+8265409_Manchester1800	527	0.8142	0.2555	1804-12-11	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+4425427_Manchester1830	377	0.8763	0.1926	1830-01-23	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+10734002_Dorchester1820	422	0.8587	0.2157	1825-02-03	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+8254262_Manchester1800	251	0.7821	0.2456	1808-03-15	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+8249061_Manchester1780	270	0.7231	0.2928	1785-06-07	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	1
+3897533_Manchester1830	288	0.867	0.1995	1839-12-07	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+10723148_Dorchester1820	439	0.8386	0.2424	1828-04-10	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+8241914_Manchester1820	455	0.8547	0.2226	1823-07-15	239	The Manchester Mercury and Harrops General Advertiser	1820	Manchester	1
+10735769_Dorchester1820	241	0.875	0.2091	1825-03-03	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+10809593_Dorchester1830	190	0.8838	0.1923	1834-05-15	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+10868764_Dorchester1860	226	0.8921	0.1936	1866-05-24	408	Dorset County Chronicle, etc.	1860	Dorchester	1
+10713984_Dorchester1820	181	0.8645	0.21	1829-06-18	408	Dorset County Chronicle, etc.	1820	Dorchester	1
+8199709_Ashton-under-Lyne1860	212	0.8747	0.1962	1862-08-09	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	1
+3580048_Manchester1820	246	0.8575	0.219	1825-01-08	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+8248405_Manchester1780	157	0.784	0.2438	1786-04-18	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	1
+12645_Poole1860	167	0.8902	0.1527	1860-05-03	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+3579547_Manchester1820	526	0.8522	0.2221	1825-02-26	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+4930460_Ashton-under-Lyne1860	433	0.913	0.161	1868-04-04	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+3987617_Manchester1860	298	0.8779	0.1946	1867-10-21	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+3664866_Manchester1860	394	0.8432	0.2263	1860-03-10	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+8249740_Manchester1780	532	0.7636	0.2535	1781-10-02	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	1
+3933329_Manchester1860	246	0.8519	0.2336	1865-10-02	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	1
+3896074_Manchester1830	361	0.883	0.1934	1839-06-08	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+10718966_Dorchester1830	275	0.8733	0.198	1835-08-06	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+8184533_Ashton-under-Lyne1860	200	0.8772	0.1911	1863-12-12	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	1
+4937265_Ashton-under-Lyne1860	303	0.88	0.1881	1869-06-26	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+3578446_Manchester1830	321	0.8687	0.2029	1838-10-20	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	1
+8554_Poole1860	225	0.9044	0.1485	1860-03-29	2325	The Poole and South-Western Herald, etc.	1860	Poole	1
+10846355_Dorchester1830	531	0.8685	0.2002	1830-04-15	408	Dorset County Chronicle, etc.	1830	Dorchester	1
+3579519_Manchester1820	279	0.8934	0.1949	1825-01-29	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	1
+4925139_Ashton-under-Lyne1860	171	0.8735	0.2046	1868-04-18	968	The Ashton Reporter.	1860	Ashton-under-Lyne	1
+8249113_Manchester1780	156	0.7629	0.2847	1785-02-01	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+8249741_Manchester1780	469	0.7043	0.2958	1781-10-02	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+10720702_Dorchester1830	420	0.862	0.2134	1835-08-13	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+3579604_Manchester1820	550	0.8473	0.2356	1825-11-05	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+10732727_Dorchester1830	238	0.8671	0.2006	1838-11-08	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+8178932_Ashton-under-Lyne1860	187	0.8741	0.1947	1860-10-13	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	2
+3579090_Manchester1820	345	0.8674	0.2293	1825-03-19	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+10810147_Dorchester1860	257	0.8852	0.1902	1865-12-28	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+10715509_Dorchester1820	267	0.8643	0.2206	1829-06-11	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+10733489_Dorchester1830	542	0.8768	0.2013	1838-09-27	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+3665487_Manchester1860	394	0.8623	0.2153	1860-09-15	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8734_Poole1860	281	0.9236	0.119	1860-11-29	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+10813634_Dorchester1860	297	0.8921	0.1818	1867-10-31	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+3896679_Manchester1830	509	0.9181	0.1643	1839-03-02	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+10848754_Dorchester1820	157	0.8347	0.2305	1824-01-22	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+3579771_Manchester1820	361	0.872	0.217	1825-10-22	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+8261999_Manchester1780	244	0.7217	0.2757	1780-08-29	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+10814760_Dorchester1860	245	0.9037	0.1721	1867-10-17	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+10714146_Dorchester1820	355	0.8583	0.2083	1829-03-19	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+10808156_Dorchester1830	501	0.8634	0.2095	1834-12-25	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+8174166_Ashton-under-Lyne1860	396	0.8895	0.1798	1864-01-02	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	2
+3929160_Manchester1830	210	0.8926	0.1877	1834-01-25	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+13311_Poole1860	370	0.9034	0.1367	1860-01-26	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+9199_Poole1860	153	0.8924	0.127	1860-05-17	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+3691281_Manchester1830	331	0.8735	0.2033	1837-05-20	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+8258557_Manchester1780	463	0.7342	0.2953	1783-06-10	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+4928532_Ashton-under-Lyne1860	503	0.8932	0.175	1868-12-05	968	The Ashton Reporter.	1860	Ashton-under-Lyne	2
+4594366_Manchester1860	334	0.8691	0.1962	1862-10-04	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+10848003_Dorchester1830	274	0.8704	0.1962	1830-06-10	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+8257196_Manchester1800	406	0.7007	0.2994	1809-01-31	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+3730969_Manchester1820	403	0.8645	0.2154	1827-05-19	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+8201725_Ashton-under-Lyne1860	241	0.9113	0.1585	1862-08-16	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	2
+3931474_Manchester1860	513	0.77	0.2965	1865-12-02	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8265247_Manchester1800	326	0.731	0.2802	1804-06-12	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+36804_Poole1860	389	0.9113	0.1323	1865-10-19	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+3575443_Manchester1820	453	0.891	0.1806	1828-07-12	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+4940917_Ashton-under-Lyne1860	397	0.8734	0.1983	1869-08-28	968	The Ashton Reporter.	1860	Ashton-under-Lyne	2
+10814880_Dorchester1860	172	0.9159	0.1539	1867-11-21	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+4439753_Manchester1860	170	0.7964	0.2749	1869-06-17	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8256863_Manchester1800	461	0.72	0.2888	1809-11-14	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+3897559_Manchester1830	398	0.8669	0.2036	1839-11-23	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+8179791_Ashton-under-Lyne1860	294	0.8799	0.1879	1860-03-03	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	2
+10814482_Dorchester1860	406	0.8899	0.1694	1867-01-03	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+13800_Poole1860	155	0.8952	0.1389	1860-07-12	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+10759710_Dorchester1820	373	0.8747	0.2021	1826-09-21	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+14320_Poole1860	244	0.89	0.1469	1860-01-05	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+3897770_Manchester1830	331	0.8761	0.2056	1839-01-05	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+8262551_Manchester1800	439	0.7456	0.2879	1805-06-04	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+4425300_Manchester1830	268	0.8955	0.183	1830-07-03	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+10758521_Dorchester1830	182	0.8837	0.189	1837-05-18	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+10719430_Dorchester1830	293	0.8733	0.1914	1835-03-12	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+8240535_Manchester1800	376	0.7962	0.253	1806-03-25	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+4941516_Ashton-under-Lyne1860	170	0.9231	0.1466	1869-04-17	968	The Ashton Reporter.	1860	Ashton-under-Lyne	2
+35528_Poole1860	374	0.8825	0.1488	1865-04-13	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+3986886_Manchester1860	287	0.8582	0.2191	1867-12-18	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+10707985_Dorchester1860	237	0.8784	0.1849	1864-12-22	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+3896766_Manchester1830	499	0.8714	0.2076	1839-04-13	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+8828_Poole1860	315	0.8992	0.1327	1860-06-14	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+8240639_Manchester1800	456	0.833	0.2443	1806-01-14	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+3516947_Manchester1820	180	0.8599	0.2177	1829-01-31	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+3580311_Manchester1820	527	0.8519	0.2318	1825-10-29	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+10714873_Dorchester1820	394	0.8914	0.1799	1829-07-09	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+4595955_Manchester1860	274	0.8516	0.234	1862-08-16	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+11242_Poole1860	267	0.9423	0.1014	1860-10-18	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+4427954_Manchester1860	159	0.8873	0.1778	1869-01-27	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8254528_Manchester1800	254	0.774	0.2896	1808-11-08	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+10706495_Dorchester1860	399	0.8836	0.1884	1864-11-03	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+10847231_Dorchester1830	268	0.8796	0.193	1830-11-18	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+8239825_Manchester1800	225	0.7531	0.2719	1803-10-25	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+3933500_Manchester1860	516	0.8777	0.1917	1865-08-30	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8258341_Manchester1780	173	0.774	0.2634	1783-04-15	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+10714197_Dorchester1820	279	0.8534	0.2197	1829-05-07	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+8201399_Ashton-under-Lyne1860	292	0.8771	0.1876	1862-12-27	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	2
+10760454_Dorchester1820	196	0.8516	0.2158	1826-06-15	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+4596553_Manchester1860	151	0.8989	0.1718	1862-04-12	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8172096_Ashton-under-Lyne1860	273	0.8988	0.1569	1864-05-21	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	2
+1218_Poole1860	347	0.8804	0.1506	1864-10-20	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+4431967_Manchester1860	341	0.8409	0.2357	1869-07-13	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8265432_Manchester1800	316	0.8603	0.2195	1804-08-07	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+10876896_Dorchester1830	289	0.8683	0.203	1833-07-18	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+3577865_Manchester1830	418	0.8686	0.2094	1838-08-11	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+5371547_Manchester1820	219	0.8564	0.2248	1828-12-30	240	The Manchester Mercury; and Tuesdays General Advertiser	1820	Manchester	2
+12955_Poole1860	426	0.8867	0.1493	1860-08-16	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+10772674_Dorchester1860	466	0.8874	0.1876	1863-02-26	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+10735717_Dorchester1820	156	0.8506	0.2258	1825-03-03	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+3722494_Manchester1820	328	0.877	0.196	1826-11-04	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+8725_Poole1860	367	0.8787	0.1456	1860-03-15	2325	The Poole and South-Western Herald, etc.	1860	Poole	2
+10712318_Dorchester1830	398	0.8912	0.1853	1831-02-24	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+3896918_Manchester1830	236	0.8825	0.1728	1839-04-27	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+10724370_Dorchester1820	341	0.8697	0.2107	1828-01-24	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+10722461_Dorchester1830	375	0.8658	0.2121	1836-08-25	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+8261963_Manchester1780	236	0.7483	0.277	1780-05-30	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+3579471_Manchester1820	418	0.8809	0.2008	1825-07-09	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+4936459_Ashton-under-Lyne1860	506	0.8842	0.1928	1867-01-26	968	The Ashton Reporter.	1860	Ashton-under-Lyne	2
+3580555_Manchester1830	210	0.9013	0.1642	1832-04-21	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+10846250_Dorchester1830	223	0.9084	0.1696	1830-03-11	408	Dorset County Chronicle, etc.	1830	Dorchester	2
+3938653_Manchester1860	186	0.821	0.2563	1865-07-22	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+8174390_Ashton-under-Lyne1860	247	0.8878	0.1827	1864-01-16	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	2
+10760616_Dorchester1820	184	0.8551	0.2245	1826-03-30	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+10772691_Dorchester1860	158	0.8819	0.1977	1863-02-26	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+8258460_Manchester1780	196	0.7833	0.275	1783-05-20	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	2
+3578997_Manchester1820	198	0.9071	0.1536	1825-01-22	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	2
+10707958_Dorchester1860	220	0.8939	0.192	1864-11-10	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+10723219_Dorchester1820	474	0.861	0.2063	1828-03-20	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+5378394_Manchester1820	223	0.8544	0.2253	1824-05-11	240	The Manchester Mercury; and Tuesdays General Advertiser	1820	Manchester	2
+3928737_Manchester1830	222	0.8881	0.1958	1834-10-04	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+10868601_Dorchester1860	356	0.8984	0.1628	1866-04-19	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+4958033_Ashton-under-Lyne1860	318	0.9041	0.1695	1866-12-01	968	The Ashton Reporter.	1860	Ashton-under-Lyne	2
+8254267_Manchester1800	312	0.8108	0.2556	1808-03-15	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+3929162_Manchester1830	252	0.8788	0.2105	1834-01-25	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	2
+3665637_Manchester1860	359	0.7357	0.2774	1860-04-28	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	2
+10814919_Dorchester1860	492	0.8958	0.1829	1867-07-11	408	Dorset County Chronicle, etc.	1860	Dorchester	2
+8262498_Manchester1800	444	0.7806	0.2786	1805-01-29	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+10734579_Dorchester1820	350	0.8665	0.221	1825-04-21	408	Dorset County Chronicle, etc.	1820	Dorchester	2
+10868698_Dorchester1860	210	0.8944	0.1723	1866-03-08	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+4604479_Manchester1860	168	0.8604	0.2225	1866-10-09	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+3579677_Manchester1820	489	0.883	0.1916	1825-06-25	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+4942160_Ashton-under-Lyne1860	548	0.9	0.1672	1869-08-14	968	The Ashton Reporter.	1860	Ashton-under-Lyne	0
+8254542_Manchester1800	276	0.7962	0.2619	1808-01-19	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+8265939_Manchester1800	312	0.7124	0.2956	1802-08-31	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	2
+10715785_Dorchester1820	154	0.8723	0.1919	1829-04-16	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+8254599_Manchester1800	352	0.7639	0.2859	1808-09-20	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+8205384_Ashton-under-Lyne1860	245	0.8752	0.1976	1866-10-13	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	0
+8258326_Manchester1780	434	0.7761	0.2514	1783-04-22	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	1
+10865759_Dorchester1860	441	0.8965	0.1773	1862-11-20	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+4609190_Manchester1860	262	0.8444	0.2162	1866-07-03	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+3573334_Manchester1830	457	0.8689	0.2094	1836-12-10	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+10847072_Dorchester1830	349	0.8674	0.207	1830-06-03	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+3574432_Manchester1830	375	0.8738	0.2007	1836-11-26	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+4604062_Manchester1860	302	0.8541	0.2296	1866-11-24	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+3580760_Manchester1830	502	0.8929	0.1848	1832-09-29	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+9703_Poole1860	490	0.8792	0.1506	1860-12-20	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10732214_Dorchester1830	251	0.9975	0.0354	1838-08-23	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+10877685_Dorchester1830	398	0.8688	0.2055	1833-09-26	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+10732_Poole1860	365	0.9766	0.0509	1860-03-01	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+8170742_Ashton-under-Lyne1860	175	0.8801	0.194	1864-12-10	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	0
+10734046_Dorchester1820	420	0.8409	0.2303	1825-02-03	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+3730435_Manchester1820	346	0.8688	0.2125	1827-09-29	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+8241288_Manchester1820	436	0.8523	0.228	1823-03-11	239	The Manchester Mercury and Harrops General Advertiser	1820	Manchester	0
+8261428_Manchester1780	232	0.7241	0.2797	1788-10-28	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	0
+8264315_Manchester1780	264	0.7504	0.281	1789-03-31	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	1
+10847800_Dorchester1830	404	0.8709	0.2071	1830-09-09	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+13097_Poole1860	485	0.893	0.1368	1860-05-31	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+12917_Poole1860	415	0.8838	0.1551	1860-08-16	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+3691413_Manchester1830	397	0.8959	0.1648	1837-11-25	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+8265166_Manchester1800	372	0.7231	0.2761	1804-05-01	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+10756473_Dorchester1830	490	0.8774	0.1951	1837-07-06	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+4958030_Ashton-under-Lyne1860	213	0.9447	0.1184	1866-12-01	968	The Ashton Reporter.	1860	Ashton-under-Lyne	0
+4599239_Manchester1860	486	0.7978	0.2681	1866-12-20	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+10715414_Dorchester1820	544	0.8508	0.2194	1829-10-22	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+4939830_Ashton-under-Lyne1860	184	0.8879	0.1766	1869-06-05	968	The Ashton Reporter.	1860	Ashton-under-Lyne	0
+10808649_Dorchester1830	224	0.8943	0.1689	1834-09-04	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+8258323_Manchester1780	419	0.7911	0.2594	1783-04-22	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	0
+3721471_Manchester1820	518	0.8609	0.2194	1826-08-19	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+10724018_Dorchester1820	332	0.8592	0.2238	1828-08-28	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+9412_Poole1860	192	0.8997	0.1474	1860-09-06	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10735494_Dorchester1820	342	0.9166	0.1558	1825-06-30	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+3929050_Manchester1830	330	0.8671	0.2059	1834-12-06	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+10861824_Dorchester1860	160	0.8921	0.1672	1862-11-13	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+3580826_Manchester1830	313	0.9018	0.1662	1832-12-08	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+8256990_Manchester1800	258	0.9921	0.0639	1809-04-11	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	1
+3896239_Manchester1830	377	0.8885	0.1868	1839-05-25	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+4598798_Manchester1860	208	0.7475	0.2777	1866-10-31	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+10860983_Dorchester1860	361	0.8875	0.191	1862-02-13	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+11851_Poole1860	325	0.8874	0.1398	1860-06-21	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10866610_Dorchester1860	533	0.8858	0.1999	1862-12-04	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+10759067_Dorchester1820	272	0.852	0.2224	1826-01-12	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+8265533_Manchester1800	466	0.7341	0.289	1804-12-18	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+10714680_Dorchester1820	374	0.8557	0.2209	1829-07-30	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+8254516_Manchester1800	316	0.7749	0.2768	1808-02-16	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+10764_Poole1860	374	0.9126	0.1296	1860-03-01	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10847450_Dorchester1830	203	0.8637	0.2024	1830-04-08	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+10712685_Dorchester1830	159	0.8658	0.2009	1831-06-09	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+3575432_Manchester1820	372	0.8662	0.219	1828-07-12	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+8240794_Manchester1800	303	0.783	0.2612	1806-01-28	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+3579417_Manchester1820	399	0.9168	0.1534	1825-05-28	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+4934312_Ashton-under-Lyne1860	161	0.8902	0.1929	1867-01-19	968	The Ashton Reporter.	1860	Ashton-under-Lyne	0
+8171766_Ashton-under-Lyne1860	180	0.9136	0.1479	1864-02-20	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	0
+3691557_Manchester1830	269	0.8714	0.2104	1837-06-10	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+4938614_Ashton-under-Lyne1860	203	0.9047	0.1623	1869-08-21	968	The Ashton Reporter.	1860	Ashton-under-Lyne	0
+8258405_Manchester1780	182	0.8267	0.225	1783-05-27	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	0
+10713959_Dorchester1820	528	0.8762	0.205	1829-06-18	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+4600779_Manchester1860	430	0.8695	0.1951	1866-06-29	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+3985394_Manchester1860	205	0.878	0.1807	1867-10-03	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+4593758_Manchester1860	236	0.8636	0.2306	1862-11-29	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+8254538_Manchester1800	540	0.8155	0.2583	1808-01-19	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+10266_Poole1860	153	0.8958	0.1439	1860-08-23	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10870687_Dorchester1860	294	0.901	0.1766	1866-04-05	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+8258458_Manchester1780	246	0.7647	0.2663	1783-05-20	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	0
+8265630_Manchester1800	240	0.8386	0.2324	1804-08-14	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+8184093_Ashton-under-Lyne1860	389	0.8773	0.1935	1863-06-20	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	0
+12045_Poole1860	215	0.9066	0.1429	1860-08-02	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10862937_Dorchester1860	255	0.906	0.1723	1862-11-27	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+10815975_Dorchester1860	287	0.8792	0.1933	1867-04-04	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+4926614_Ashton-under-Lyne1860	403	0.8938	0.1818	1868-08-15	968	The Ashton Reporter.	1860	Ashton-under-Lyne	0
+3897040_Manchester1830	157	0.8796	0.1946	1839-10-26	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+10722895_Dorchester1820	369	0.8667	0.2046	1828-03-06	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+8247104_Manchester1800	506	0.7029	0.3121	1800-09-16	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+3930826_Manchester1860	470	0.9126	0.1554	1865-01-04	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+3722152_Manchester1820	374	0.8955	0.1883	1826-02-04	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+3573658_Manchester1830	165	0.8764	0.189	1836-07-30	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+3430247_Manchester1860	156	0.8902	0.1841	1864-05-18	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+3976171_Manchester1860	326	0.8245	0.2386	1867-01-12	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+3580130_Manchester1820	280	0.8722	0.2249	1825-02-05	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+10870005_Dorchester1860	167	0.9257	0.1313	1866-07-19	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+10733712_Dorchester1830	315	0.8798	0.1892	1838-04-05	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+3580486_Manchester1830	379	0.8834	0.1969	1832-06-02	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+10734843_Dorchester1820	347	0.8646	0.2098	1825-10-06	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+10700957_Dorchester1860	415	0.8821	0.1933	1861-06-27	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+8258309_Manchester1780	369	0.7374	0.2861	1783-01-21	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	0
+3730434_Manchester1820	449	0.8783	0.2065	1827-09-29	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+10811656_Dorchester1860	192	0.884	0.1927	1865-08-03	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+3516747_Manchester1820	433	0.8552	0.2167	1829-02-14	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+10757038_Dorchester1830	437	0.8625	0.2105	1837-11-09	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+8220_Poole1860	156	0.8812	0.1309	1860-10-25	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10714738_Dorchester1820	501	0.8619	0.1985	1829-05-28	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+10732878_Dorchester1830	167	0.8739	0.1873	1838-08-02	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+8254408_Manchester1800	429	0.748	0.2675	1808-03-08	239	The Manchester Mercury and Harrops General Advertiser	1800	Manchester	0
+10735595_Dorchester1820	185	0.8539	0.2382	1825-01-13	408	Dorset County Chronicle, etc.	1820	Dorchester	0
+3897352_Manchester1830	374	0.9257	0.145	1839-10-12	206	Manchester Courier and Lancashire General Advertiser.	1830	Manchester	0
+8175293_Ashton-under-Lyne1860	157	0.8736	0.1669	1864-04-16	967	Ashton and Stalybridge Reporter, etc.	1860	Ashton-under-Lyne	0
+9479_Poole1860	439	0.8903	0.1461	1860-02-09	2325	The Poole and South-Western Herald, etc.	1860	Poole	0
+10719165_Dorchester1830	184	0.884	0.1831	1835-09-17	408	Dorset County Chronicle, etc.	1830	Dorchester	0
+4923890_Ashton-under-Lyne1860	384	0.8848	0.1861	1868-02-29	968	The Ashton Reporter.	1860	Ashton-under-Lyne	0
+3730333_Manchester1820	394	0.8577	0.2241	1827-07-28	206	Manchester Courier and Lancashire General Advertiser.	1820	Manchester	0
+3426774_Manchester1860	158	0.7724	0.2839	1864-02-24	206	Manchester Courier and Lancashire General Advertiser.	1860	Manchester	0
+8258392_Manchester1780	379	0.7086	0.3082	1783-12-09	239	The Manchester Mercury and Harrops General Advertiser	1780	Manchester	0
+10864473_Dorchester1860	412	0.8908	0.1883	1862-12-11	408	Dorset County Chronicle, etc.	1860	Dorchester	0
+8263166_Manchester1820	221	0.8485	0.2334	1821-02-20	239	The Manchester Mercury and Harrops General Advertiser	1820	Manchester	0
+8915_Poole1860	218	0.925	0.1176	1860-06-14	2325	The Poole and South-Western Herald, etc.	1860	Poole	0

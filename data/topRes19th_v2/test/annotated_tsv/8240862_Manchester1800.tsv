@@ -1,0 +1,457 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CHESTER, TUESDAY, AUGUST 5.
+1-1	0-7	CHESTER	https://en.wikipedia.org/wiki/Chester	LOC	
+1-2	7-8	,	_	_	
+1-3	9-16	TUESDAY	_	_	
+1-4	16-17	,	_	_	
+1-5	18-24	AUGUST	_	_	
+1-6	25-26	5	_	_	
+1-7	26-27	.	_	_	
+
+#Text=BIRTH.
+2-1	28-33	BIRTH	_	_	
+2-2	33-34	.	_	_	
+
+#Text=On Friday last the Lady of Francis Freeling, Esq. of the General Post Oiuce, wa» lately del.vered of a son.
+3-1	35-37	On	_	_	
+3-2	38-44	Friday	_	_	
+3-3	45-49	last	_	_	
+3-4	50-53	the	_	_	
+3-5	54-58	Lady	_	_	
+3-6	59-61	of	_	_	
+3-7	62-69	Francis	_	_	
+3-8	70-78	Freeling	_	_	
+3-9	78-79	,	_	_	
+3-10	80-83	Esq	_	_	
+3-11	83-84	.	_	_	
+3-12	85-87	of	_	_	
+3-13	88-91	the	_	_	
+3-14	92-99	General	*[1]	BUILDING[1]	
+3-15	100-104	Post	*[1]	BUILDING[1]	
+3-16	105-110	Oiuce	*[1]	BUILDING[1]	
+3-17	110-111	,	_	_	
+3-18	112-114	wa	_	_	
+3-19	114-115	»	_	_	
+3-20	116-122	lately	_	_	
+3-21	123-132	del.vered	_	_	
+3-22	133-135	of	_	_	
+3-23	136-137	a	_	_	
+3-24	138-141	son	_	_	
+3-25	141-142	.	_	_	
+
+#Text=MARRIED.
+4-1	143-150	MARRIED	_	_	
+4-2	150-151	.	_	_	
+
+#Text=Yesterday (Monday) at the Collegiate Church, Mr Joshua rirern, to Miss Scholes, both of this town.
+5-1	152-161	Yesterday	_	_	
+5-2	162-163	(	_	_	
+5-3	163-169	Monday	_	_	
+5-4	169-170	)	_	_	
+5-5	171-173	at	_	_	
+5-6	174-177	the	_	_	
+5-7	178-188	Collegiate	*[2]	BUILDING[2]	
+5-8	189-195	Church	*[2]	BUILDING[2]	
+5-9	195-196	,	_	_	
+5-10	197-199	Mr	_	_	
+5-11	200-206	Joshua	_	_	
+5-12	207-213	rirern	_	_	
+5-13	213-214	,	_	_	
+5-14	215-217	to	_	_	
+5-15	218-222	Miss	_	_	
+5-16	223-230	Scholes	_	_	
+5-17	230-231	,	_	_	
+5-18	232-236	both	_	_	
+5-19	237-239	of	_	_	
+5-20	240-244	this	_	_	
+5-21	245-249	town	_	_	
+5-22	249-250	.	_	_	
+
+#Text=—Lately, Mr J.
+6-1	250-251	—	_	_	
+6-2	251-257	Lately	_	_	
+6-3	257-258	,	_	_	
+6-4	259-261	Mr	_	_	
+6-5	262-263	J	_	_	
+6-6	263-264	.	_	_	
+
+#Text=Threlfall, of Preston, currier, to Mi«s Hall, daughter of Mr.
+7-1	265-274	Threlfall	_	_	
+7-2	274-275	,	_	_	
+7-3	276-278	of	_	_	
+7-4	279-286	Preston	https://en.wikipedia.org/wiki/Preston,\_Lancashire	LOC	
+7-5	286-287	,	_	_	
+7-6	288-295	currier	_	_	
+7-7	295-296	,	_	_	
+7-8	297-299	to	_	_	
+7-9	300-302	Mi	_	_	
+7-10	302-303	«	_	_	
+7-11	303-304	s	_	_	
+7-12	305-309	Hall	_	_	
+7-13	309-310	,	_	_	
+7-14	311-319	daughter	_	_	
+7-15	320-322	of	_	_	
+7-16	323-325	Mr	_	_	
+7-17	325-326	.	_	_	
+
+#Text=Hall, of the Rose and Crown Inn, K.rhy Lonsdale.
+8-1	327-331	Hall	_	_	
+8-2	331-332	,	_	_	
+8-3	333-335	of	_	_	
+8-4	336-339	the	_	_	
+8-5	340-344	Rose	*[3]	BUILDING[3]	
+8-6	345-348	and	*[3]	BUILDING[3]	
+8-7	349-354	Crown	*[3]	BUILDING[3]	
+8-8	355-358	Inn	*[3]	BUILDING[3]	
+8-9	358-359	,	_	_	
+8-10	360-365	K.rhy	https://en.wikipedia.org/wiki/Kirkby\_Lonsdale[4]	LOC[4]	
+8-11	366-374	Lonsdale	https://en.wikipedia.org/wiki/Kirkby\_Lonsdale[4]	LOC[4]	
+8-12	374-375	.	_	_	
+
+#Text=—Monday «e’nn:ght, at Liverpool, Mr Janies Kendrick, of Warrington, surgeon, to Miss Mary Johnson, of the former puce.
+9-1	375-376	—	_	_	
+9-2	376-382	Monday	_	_	
+9-3	383-384	«	_	_	
+9-4	384-385	e	_	_	
+9-5	385-386	’	_	_	
+9-6	386-388	nn	_	_	
+9-7	388-389	:	_	_	
+9-8	389-392	ght	_	_	
+9-9	392-393	,	_	_	
+9-10	394-396	at	_	_	
+9-11	397-406	Liverpool	*	LOC	
+9-12	406-407	,	_	_	
+9-13	408-410	Mr	_	_	
+9-14	411-417	Janies	_	_	
+9-15	418-426	Kendrick	_	_	
+9-16	426-427	,	_	_	
+9-17	428-430	of	_	_	
+9-18	431-441	Warrington	https://en.wikipedia.org/wiki/Warrington	LOC	
+9-19	441-442	,	_	_	
+9-20	443-450	surgeon	_	_	
+9-21	450-451	,	_	_	
+9-22	452-454	to	_	_	
+9-23	455-459	Miss	_	_	
+9-24	460-464	Mary	_	_	
+9-25	465-472	Johnson	_	_	
+9-26	472-473	,	_	_	
+9-27	474-476	of	_	_	
+9-28	477-480	the	_	_	
+9-29	481-487	former	_	_	
+9-30	488-492	puce	_	_	
+9-31	492-493	.	_	_	
+
+#Text=—On Monday la«t at Chester.
+10-1	494-495	—	_	_	
+10-2	495-497	On	_	_	
+10-3	498-504	Monday	_	_	
+10-4	505-507	la	_	_	
+10-5	507-508	«	_	_	
+10-6	508-509	t	_	_	
+10-7	510-512	at	_	_	
+10-8	513-520	Chester	https://en.wikipedia.org/wiki/Chester	LOC	
+10-9	520-521	.	_	_	
+
+#Text=Mr John Pairy, of this town, brazier and tin-man, to Miss Tuck, of the firmer place.
+11-1	522-524	Mr	_	_	
+11-2	525-529	John	_	_	
+11-3	530-535	Pairy	_	_	
+11-4	535-536	,	_	_	
+11-5	537-539	of	_	_	
+11-6	540-544	this	_	_	
+11-7	545-549	town	_	_	
+11-8	549-550	,	_	_	
+11-9	551-558	brazier	_	_	
+11-10	559-562	and	_	_	
+11-11	563-570	tin-man	_	_	
+11-12	570-571	,	_	_	
+11-13	572-574	to	_	_	
+11-14	575-579	Miss	_	_	
+11-15	580-584	Tuck	_	_	
+11-16	584-585	,	_	_	
+11-17	586-588	of	_	_	
+11-18	589-592	the	_	_	
+11-19	593-599	firmer	_	_	
+11-20	600-605	place	_	_	
+11-21	605-606	.	_	_	
+
+#Text=—On Tuesday sennight at Great Harwood, near Blackburn, the Rev.
+12-1	606-607	—	_	_	
+12-2	607-609	On	_	_	
+12-3	610-617	Tuesday	_	_	
+12-4	618-626	sennight	_	_	
+12-5	627-629	at	_	_	
+12-6	630-635	Great	https://en.wikipedia.org/wiki/Great\_Harwood[5]	LOC[5]	
+12-7	636-643	Harwood	https://en.wikipedia.org/wiki/Great\_Harwood[5]	LOC[5]	
+12-8	643-644	,	_	_	
+12-9	645-649	near	_	_	
+12-10	650-659	Blackburn	https://en.wikipedia.org/wiki/Blackburn	LOC	
+12-11	659-660	,	_	_	
+12-12	661-664	the	_	_	
+12-13	665-668	Rev	_	_	
+12-14	668-669	.	_	_	
+
+#Text=Mr G.
+13-1	670-672	Mr	_	_	
+13-2	673-674	G	_	_	
+13-3	674-675	.	_	_	
+
+#Text=Wearing, Curate of Lango, to Miss Brooks, of Great Harwood aforesaid.
+14-1	676-683	Wearing	_	_	
+14-2	683-684	,	_	_	
+14-3	685-691	Curate	_	_	
+14-4	692-694	of	_	_	
+14-5	695-700	Lango	*	LOC	
+14-6	700-701	,	_	_	
+14-7	702-704	to	_	_	
+14-8	705-709	Miss	_	_	
+14-9	710-716	Brooks	_	_	
+14-10	716-717	,	_	_	
+14-11	718-720	of	_	_	
+14-12	721-726	Great	https://en.wikipedia.org/wiki/Great\_Harwood[6]	LOC[6]	
+14-13	727-734	Harwood	https://en.wikipedia.org/wiki/Great\_Harwood[6]	LOC[6]	
+14-14	735-744	aforesaid	_	_	
+14-15	744-745	.	_	_	
+
+#Text=—On Thursday se’nuight at the Collegiate Church, Mr James B.omely, of Chorlton, to Miss Eliza.
+15-1	745-746	—	_	_	
+15-2	746-748	On	_	_	
+15-3	749-757	Thursday	_	_	
+15-4	758-760	se	_	_	
+15-5	760-761	’	_	_	
+15-6	761-767	nuight	_	_	
+15-7	768-770	at	_	_	
+15-8	771-774	the	_	_	
+15-9	775-785	Collegiate	*[7]	BUILDING[7]	
+15-10	786-792	Church	*[7]	BUILDING[7]	
+15-11	792-793	,	_	_	
+15-12	794-796	Mr	_	_	
+15-13	797-802	James	_	_	
+15-14	803-810	B.omely	_	_	
+15-15	810-811	,	_	_	
+15-16	812-814	of	_	_	
+15-17	815-823	Chorlton	https://en.wikipedia.org/wiki/Chorlton-cum-Hardy	LOC	
+15-18	823-824	,	_	_	
+15-19	825-827	to	_	_	
+15-20	828-832	Miss	_	_	
+15-21	833-838	Eliza	_	_	
+15-22	838-839	.	_	_	
+
+#Text=Jackson, daughter of Mr Jackion, of Hough End Hall.
+16-1	840-847	Jackson	_	_	
+16-2	847-848	,	_	_	
+16-3	849-857	daughter	_	_	
+16-4	858-860	of	_	_	
+16-5	861-863	Mr	_	_	
+16-6	864-871	Jackion	_	_	
+16-7	871-872	,	_	_	
+16-8	873-875	of	_	_	
+16-9	876-881	Hough	*[8]	BUILDING[8]	
+16-10	882-885	End	*[8]	BUILDING[8]	
+16-11	886-890	Hall	*[8]	BUILDING[8]	
+16-12	890-891	.	_	_	
+
+#Text=DIED.
+17-1	892-896	DIED	_	_	
+17-2	896-897	.	_	_	
+
+#Text=On Wednesday last, Mrs Hailwood, wife of Mr Hailwood, one of the Aldermen of Chester.
+18-1	898-900	On	_	_	
+18-2	901-910	Wednesday	_	_	
+18-3	911-915	last	_	_	
+18-4	915-916	,	_	_	
+18-5	917-920	Mrs	_	_	
+18-6	921-929	Hailwood	_	_	
+18-7	929-930	,	_	_	
+18-8	931-935	wife	_	_	
+18-9	936-938	of	_	_	
+18-10	939-941	Mr	_	_	
+18-11	942-950	Hailwood	_	_	
+18-12	950-951	,	_	_	
+18-13	952-955	one	_	_	
+18-14	956-958	of	_	_	
+18-15	959-962	the	_	_	
+18-16	963-971	Aldermen	_	_	
+18-17	972-974	of	_	_	
+18-18	975-982	Chester	https://en.wikipedia.org/wiki/Chester	LOC	
+18-19	982-983	.	_	_	
+
+#Text=—Last week at Oldham, generally respected, Mr Henry King, one ol the people called Quaker .
+19-1	983-984	—	_	_	
+19-2	984-988	Last	_	_	
+19-3	989-993	week	_	_	
+19-4	994-996	at	_	_	
+19-5	997-1003	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+19-6	1003-1004	,	_	_	
+19-7	1005-1014	generally	_	_	
+19-8	1015-1024	respected	_	_	
+19-9	1024-1025	,	_	_	
+19-10	1026-1028	Mr	_	_	
+19-11	1029-1034	Henry	_	_	
+19-12	1035-1039	King	_	_	
+19-13	1039-1040	,	_	_	
+19-14	1041-1044	one	_	_	
+19-15	1045-1047	ol	_	_	
+19-16	1048-1051	the	_	_	
+19-17	1052-1058	people	_	_	
+19-18	1059-1065	called	_	_	
+19-19	1066-1072	Quaker	_	_	
+19-20	1073-1074	.	_	_	
+
+#Text=—Also, Mrs Howarth, wife of Mr Thomas Howartb, of Oldham, surveyor.
+20-1	1074-1075	—	_	_	
+20-2	1075-1079	Also	_	_	
+20-3	1079-1080	,	_	_	
+20-4	1081-1084	Mrs	_	_	
+20-5	1085-1092	Howarth	_	_	
+20-6	1092-1093	,	_	_	
+20-7	1094-1098	wife	_	_	
+20-8	1099-1101	of	_	_	
+20-9	1102-1104	Mr	_	_	
+20-10	1105-1111	Thomas	_	_	
+20-11	1112-1119	Howartb	_	_	
+20-12	1119-1120	,	_	_	
+20-13	1121-1123	of	_	_	
+20-14	1124-1130	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+20-15	1130-1131	,	_	_	
+20-16	1132-1140	surveyor	_	_	
+20-17	1140-1141	.	_	_	
+
+#Text=—On the 19th ult. at Wood End, the Rev.
+21-1	1141-1142	—	_	_	
+21-2	1142-1144	On	_	_	
+21-3	1145-1148	the	_	_	
+21-4	1149-1153	19th	_	_	
+21-5	1154-1157	ult	_	_	
+21-6	1157-1158	.	_	_	
+21-7	1159-1161	at	_	_	
+21-8	1162-1166	Wood	_	_	
+21-9	1167-1170	End	_	_	
+21-10	1170-1171	,	_	_	
+21-11	1172-1175	the	_	_	
+21-12	1176-1179	Rev	_	_	
+21-13	1179-1180	.	_	_	
+
+#Text=John Lindow, A.
+22-1	1181-1185	John	_	_	
+22-2	1186-1192	Lindow	_	_	
+22-3	1192-1193	,	_	_	
+22-4	1194-1195	A	_	_	
+22-5	1195-1196	.	_	_	
+
+#Text=B Rector of Connrstone.— On Wednesday last, at Swansea, the Right Hon the Earl of Landaf), who had retired to bed in apparent health, and bespoke the theatrical entertainments for the evening, but was found dead nr his Led at eleven o’clock tile same morning.
+23-1	1197-1198	B	_	_	
+23-2	1199-1205	Rector	_	_	
+23-3	1206-1208	of	_	_	
+23-4	1209-1219	Connrstone	*	LOC	
+23-5	1219-1220	.	_	_	
+23-6	1220-1221	—	_	_	
+23-7	1222-1224	On	_	_	
+23-8	1225-1234	Wednesday	_	_	
+23-9	1235-1239	last	_	_	
+23-10	1239-1240	,	_	_	
+23-11	1241-1243	at	_	_	
+23-12	1244-1251	Swansea	_	_	
+23-13	1251-1252	,	_	_	
+23-14	1253-1256	the	_	_	
+23-15	1257-1262	Right	_	_	
+23-16	1263-1266	Hon	_	_	
+23-17	1267-1270	the	_	_	
+23-18	1271-1275	Earl	_	_	
+23-19	1276-1278	of	_	_	
+23-20	1279-1285	Landaf	_	_	
+23-21	1285-1286	)	_	_	
+23-22	1286-1287	,	_	_	
+23-23	1288-1291	who	_	_	
+23-24	1292-1295	had	_	_	
+23-25	1296-1303	retired	_	_	
+23-26	1304-1306	to	_	_	
+23-27	1307-1310	bed	_	_	
+23-28	1311-1313	in	_	_	
+23-29	1314-1322	apparent	_	_	
+23-30	1323-1329	health	_	_	
+23-31	1329-1330	,	_	_	
+23-32	1331-1334	and	_	_	
+23-33	1335-1342	bespoke	_	_	
+23-34	1343-1346	the	_	_	
+23-35	1347-1357	theatrical	_	_	
+23-36	1358-1372	entertainments	_	_	
+23-37	1373-1376	for	_	_	
+23-38	1377-1380	the	_	_	
+23-39	1381-1388	evening	_	_	
+23-40	1388-1389	,	_	_	
+23-41	1390-1393	but	_	_	
+23-42	1394-1397	was	_	_	
+23-43	1398-1403	found	_	_	
+23-44	1404-1408	dead	_	_	
+23-45	1409-1411	nr	_	_	
+23-46	1412-1415	his	_	_	
+23-47	1416-1419	Led	_	_	
+23-48	1420-1422	at	_	_	
+23-49	1423-1429	eleven	_	_	
+23-50	1430-1431	o	_	_	
+23-51	1431-1432	’	_	_	
+23-52	1432-1437	clock	_	_	
+23-53	1438-1442	tile	_	_	
+23-54	1443-1447	same	_	_	
+23-55	1448-1455	morning	_	_	
+23-56	1455-1456	.	_	_	
+
+#Text=—On Monday last, greatly respected, Mr S.
+24-1	1456-1457	—	_	_	
+24-2	1457-1459	On	_	_	
+24-3	1460-1466	Monday	_	_	
+24-4	1467-1471	last	_	_	
+24-5	1471-1472	,	_	_	
+24-6	1473-1480	greatly	_	_	
+24-7	1481-1490	respected	_	_	
+24-8	1490-1491	,	_	_	
+24-9	1492-1494	Mr	_	_	
+24-10	1495-1496	S	_	_	
+24-11	1496-1497	.	_	_	
+
+#Text=Newton, of the King s Head, Ueansgatc On Tuesday last at Lark 1 ane, where he was for the recovery of his health, John Gnmshaw, Esq. late of Gorton Haute, near this town.
+25-1	1498-1504	Newton	_	_	
+25-2	1504-1505	,	_	_	
+25-3	1506-1508	of	_	_	
+25-4	1509-1512	the	_	_	
+25-5	1513-1517	King	*[9]	BUILDING[9]	
+25-6	1518-1519	s	*[9]	BUILDING[9]	
+25-7	1520-1524	Head	*[9]	BUILDING[9]	
+25-8	1524-1525	,	_	_	
+25-9	1526-1535	Ueansgatc	https://en.wikipedia.org/wiki/Deansgate	LOC	
+25-10	1536-1538	On	_	_	
+25-11	1539-1546	Tuesday	_	_	
+25-12	1547-1551	last	_	_	
+25-13	1552-1554	at	_	_	
+25-14	1555-1559	Lark	_	_	
+25-15	1560-1561	1	_	_	
+25-16	1562-1565	ane	_	_	
+25-17	1565-1566	,	_	_	
+25-18	1567-1572	where	_	_	
+25-19	1573-1575	he	_	_	
+25-20	1576-1579	was	_	_	
+25-21	1580-1583	for	_	_	
+25-22	1584-1587	the	_	_	
+25-23	1588-1596	recovery	_	_	
+25-24	1597-1599	of	_	_	
+25-25	1600-1603	his	_	_	
+25-26	1604-1610	health	_	_	
+25-27	1610-1611	,	_	_	
+25-28	1612-1616	John	_	_	
+25-29	1617-1624	Gnmshaw	_	_	
+25-30	1624-1625	,	_	_	
+25-31	1626-1629	Esq	_	_	
+25-32	1629-1630	.	_	_	
+25-33	1631-1635	late	_	_	
+25-34	1636-1638	of	_	_	
+25-35	1639-1645	Gorton	https://en.wikipedia.org/wiki/Gorton	LOC	
+25-36	1646-1651	Haute	_	_	
+25-37	1651-1652	,	_	_	
+25-38	1653-1657	near	_	_	
+25-39	1658-1662	this	_	_	
+25-40	1663-1667	town	_	_	
+25-41	1667-1668	.	_	_	

@@ -8,3 +8,11 @@ numpy
 scikit-learn
 torch
 torchvision
+transformers
+tqdm
+chainlit
+openai
+llama-index
+llama-index-core
+llama-hub
+llama-index-readers-file

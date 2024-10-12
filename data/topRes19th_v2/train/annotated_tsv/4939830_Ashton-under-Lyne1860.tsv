@@ -1,0 +1,231 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE ACT OF SUPREMACY.
+1-1	0-3	THE	_	_	
+1-2	4-7	ACT	_	_	
+1-3	8-10	OF	_	_	
+1-4	11-20	SUPREMACY	_	_	
+1-5	20-21	.	_	_	
+
+#Text=As the Act of Supremancy is the foundation of the English Church, it ought ever to be considered in answering the question.
+2-1	23-25	As	_	_	
+2-2	26-29	the	_	_	
+2-3	30-33	Act	_	_	
+2-4	34-36	of	_	_	
+2-5	37-47	Supremancy	_	_	
+2-6	48-50	is	_	_	
+2-7	51-54	the	_	_	
+2-8	55-65	foundation	_	_	
+2-9	66-68	of	_	_	
+2-10	69-72	the	_	_	
+2-11	73-80	English	_	_	
+2-12	81-87	Church	_	_	
+2-13	87-88	,	_	_	
+2-14	89-91	it	_	_	
+2-15	92-97	ought	_	_	
+2-16	98-102	ever	_	_	
+2-17	103-105	to	_	_	
+2-18	106-108	be	_	_	
+2-19	109-119	considered	_	_	
+2-20	120-122	in	_	_	
+2-21	123-132	answering	_	_	
+2-22	133-136	the	_	_	
+2-23	137-145	question	_	_	
+2-24	145-146	.	_	_	
+
+#Text=What is the English Nonconformity?
+3-1	147-151	What	_	_	
+3-2	152-154	is	_	_	
+3-3	155-158	the	_	_	
+3-4	159-166	English	_	_	
+3-5	167-180	Nonconformity	_	_	
+3-6	180-181	?	_	_	
+
+#Text=The meaning of the act is clear, unambiguous, capable of only one construction.
+4-1	182-185	The	_	_	
+4-2	186-193	meaning	_	_	
+4-3	194-196	of	_	_	
+4-4	197-200	the	_	_	
+4-5	201-204	act	_	_	
+4-6	205-207	is	_	_	
+4-7	208-213	clear	_	_	
+4-8	213-214	,	_	_	
+4-9	215-226	unambiguous	_	_	
+4-10	226-227	,	_	_	
+4-11	228-235	capable	_	_	
+4-12	236-238	of	_	_	
+4-13	239-243	only	_	_	
+4-14	244-247	one	_	_	
+4-15	248-260	construction	_	_	
+4-16	260-261	.	_	_	
+
+#Text=Whatever may be s’aid about the uncertainty of acts of parliament, there is one of them not chargeable with the least ambiguity.
+5-1	262-270	Whatever	_	_	
+5-2	271-274	may	_	_	
+5-3	275-277	be	_	_	
+5-4	278-279	s	_	_	
+5-5	279-280	’	_	_	
+5-6	280-283	aid	_	_	
+5-7	284-289	about	_	_	
+5-8	290-293	the	_	_	
+5-9	294-305	uncertainty	_	_	
+5-10	306-308	of	_	_	
+5-11	309-313	acts	_	_	
+5-12	314-316	of	_	_	
+5-13	317-327	parliament	_	_	
+5-14	327-328	,	_	_	
+5-15	329-334	there	_	_	
+5-16	335-337	is	_	_	
+5-17	338-341	one	_	_	
+5-18	342-344	of	_	_	
+5-19	345-349	them	_	_	
+5-20	350-353	not	_	_	
+5-21	354-364	chargeable	_	_	
+5-22	365-369	with	_	_	
+5-23	370-373	the	_	_	
+5-24	374-379	least	_	_	
+5-25	380-389	ambiguity	_	_	
+5-26	389-390	.	_	_	
+
+#Text=According to the only interpretation which the act admits, the Church of England is in doctrine and discipline what the king speaking through the constitutional authorities declares ic to be.
+6-1	391-400	According	_	_	
+6-2	401-403	to	_	_	
+6-3	404-407	the	_	_	
+6-4	408-412	only	_	_	
+6-5	413-427	interpretation	_	_	
+6-6	428-433	which	_	_	
+6-7	434-437	the	_	_	
+6-8	438-441	act	_	_	
+6-9	442-448	admits	_	_	
+6-10	448-449	,	_	_	
+6-11	450-453	the	_	_	
+6-12	454-460	Church	_	_	
+6-13	461-463	of	_	_	
+6-14	464-471	England	_	_	
+6-15	472-474	is	_	_	
+6-16	475-477	in	_	_	
+6-17	478-486	doctrine	_	_	
+6-18	487-490	and	_	_	
+6-19	491-501	discipline	_	_	
+6-20	502-506	what	_	_	
+6-21	507-510	the	_	_	
+6-22	511-515	king	_	_	
+6-23	516-524	speaking	_	_	
+6-24	525-532	through	_	_	
+6-25	533-536	the	_	_	
+6-26	537-551	constitutional	_	_	
+6-27	552-563	authorities	_	_	
+6-28	564-572	declares	_	_	
+6-29	573-575	ic	_	_	
+6-30	576-578	to	_	_	
+6-31	579-581	be	_	_	
+6-32	581-582	.	_	_	
+
+#Text=He makes its laws by his court of parliament, and interprets them by his courts of judicature.
+7-1	583-585	He	_	_	
+7-2	586-591	makes	_	_	
+7-3	592-595	its	_	_	
+7-4	596-600	laws	_	_	
+7-5	601-603	by	_	_	
+7-6	604-607	his	_	_	
+7-7	608-613	court	_	_	
+7-8	614-616	of	_	_	
+7-9	617-627	parliament	_	_	
+7-10	627-628	,	_	_	
+7-11	629-632	and	_	_	
+7-12	633-643	interprets	_	_	
+7-13	644-648	them	_	_	
+7-14	649-651	by	_	_	
+7-15	652-655	his	_	_	
+7-16	656-662	courts	_	_	
+7-17	663-665	of	_	_	
+7-18	666-676	judicature	_	_	
+7-19	676-677	.	_	_	
+
+#Text=The Church !
+8-1	678-681	The	_	_	
+8-2	682-688	Church	_	_	
+8-3	689-690	!	_	_	
+
+#Text=that is the king.
+9-1	691-695	that	_	_	
+9-2	696-698	is	_	_	
+9-3	699-702	the	_	_	
+9-4	703-707	king	_	_	
+9-5	707-708	.	_	_	
+
+#Text=Puritanism made itself felt during the reign of Elizabeth, and “under the Puritan Bishop of Chester and the Puritan Earl of Derby,” the collegiate church of Manchester, and the three rich rectories of Winwick, Wigan, and Middleton were held by Puritans.
+10-1	709-719	Puritanism	_	_	
+10-2	720-724	made	_	_	
+10-3	725-731	itself	_	_	
+10-4	732-736	felt	_	_	
+10-5	737-743	during	_	_	
+10-6	744-747	the	_	_	
+10-7	748-753	reign	_	_	
+10-8	754-756	of	_	_	
+10-9	757-766	Elizabeth	_	_	
+10-10	766-767	,	_	_	
+10-11	768-771	and	_	_	
+10-12	772-773	“	_	_	
+10-13	773-778	under	_	_	
+10-14	779-782	the	_	_	
+10-15	783-790	Puritan	_	_	
+10-16	791-797	Bishop	_	_	
+10-17	798-800	of	_	_	
+10-18	801-808	Chester	https://en.wikipedia.org/wiki/Chester	LOC	
+10-19	809-812	and	_	_	
+10-20	813-816	the	_	_	
+10-21	817-824	Puritan	_	_	
+10-22	825-829	Earl	_	_	
+10-23	830-832	of	_	_	
+10-24	833-838	Derby	_	_	
+10-25	838-839	,	_	_	
+10-26	839-840	”	_	_	
+10-27	841-844	the	_	_	
+10-28	845-855	collegiate	_	_	
+10-29	856-862	church	_	_	
+10-30	863-865	of	_	_	
+10-31	866-876	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+10-32	876-877	,	_	_	
+10-33	878-881	and	_	_	
+10-34	882-885	the	_	_	
+10-35	886-891	three	_	_	
+10-36	892-896	rich	_	_	
+10-37	897-906	rectories	_	_	
+10-38	907-909	of	_	_	
+10-39	910-917	Winwick	https://en.wikipedia.org/wiki/Winwick,\_Cheshire	LOC	
+10-40	917-918	,	_	_	
+10-41	919-924	Wigan	https://en.wikipedia.org/wiki/Wigan	LOC	
+10-42	924-925	,	_	_	
+10-43	926-929	and	_	_	
+10-44	930-939	Middleton	https://en.wikipedia.org/wiki/Middleton,\_Greater\_Manchester	LOC	
+10-45	940-944	were	_	_	
+10-46	945-949	held	_	_	
+10-47	950-952	by	_	_	
+10-48	953-961	Puritans	_	_	
+10-49	961-962	.	_	_	
+
+#Text=The following summary of affairs when the Queen died is necessary to the proper understanding of events which afterwards transpired;
+11-1	963-966	The	_	_	
+11-2	967-976	following	_	_	
+11-3	977-984	summary	_	_	
+11-4	985-987	of	_	_	
+11-5	988-995	affairs	_	_	
+11-6	996-1000	when	_	_	
+11-7	1001-1004	the	_	_	
+11-8	1005-1010	Queen	_	_	
+11-9	1011-1015	died	_	_	
+11-10	1016-1018	is	_	_	
+11-11	1019-1028	necessary	_	_	
+11-12	1029-1031	to	_	_	
+11-13	1032-1035	the	_	_	
+11-14	1036-1042	proper	_	_	
+11-15	1043-1056	understanding	_	_	
+11-16	1057-1059	of	_	_	
+11-17	1060-1066	events	_	_	
+11-18	1067-1072	which	_	_	
+11-19	1073-1083	afterwards	_	_	
+11-20	1084-1094	transpired	_	_	
+11-21	1094-1095	;	_	_	

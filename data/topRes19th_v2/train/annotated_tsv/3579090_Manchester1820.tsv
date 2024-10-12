@@ -1,0 +1,452 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Postscript.
+1-1	0-10	Postscript	_	_	
+1-2	10-11	.	_	_	
+
+#Text=LONDON, THURSDAY, MARCH 17.
+2-1	13-19	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-2	19-20	,	_	_	
+2-3	21-29	THURSDAY	_	_	
+2-4	29-30	,	_	_	
+2-5	31-36	MARCH	_	_	
+2-6	37-39	17	_	_	
+2-7	39-40	.	_	_	
+
+#Text=PRICE OP BRITISH STOCKS THIS DAY AT TWO.
+3-1	41-46	PRICE	_	_	
+3-2	47-49	OP	_	_	
+3-3	50-57	BRITISH	_	_	
+3-4	58-64	STOCKS	_	_	
+3-5	65-69	THIS	_	_	
+3-6	70-73	DAY	_	_	
+3-7	74-76	AT	_	_	
+3-8	77-80	TWO	_	_	
+3-9	80-81	.	_	_	
+
+#Text=Red.
+4-1	82-85	Red	_	_	
+4-2	85-86	.	_	_	
+
+#Text=Three per Cents, shut J Bank Stock shut Cons.
+5-1	87-92	Three	_	_	
+5-2	93-96	per	_	_	
+5-3	97-102	Cents	_	_	
+5-4	102-103	,	_	_	
+5-5	104-108	shut	_	_	
+5-6	109-110	J	_	_	
+5-7	111-115	Bank	_	_	
+5-8	116-121	Stock	_	_	
+5-9	122-126	shut	_	_	
+5-10	127-131	Cons	_	_	
+5-11	131-132	.	_	_	
+
+#Text=Three per Cents. 93§ !
+6-1	133-138	Three	_	_	
+6-2	139-142	per	_	_	
+6-3	143-148	Cents	_	_	
+6-4	148-149	.	_	_	
+6-5	150-152	93	_	_	
+6-6	152-153	§	_	_	
+6-7	154-155	!	_	_	
+
+#Text=Long Annuities, shut Threeandahalfper Cents. | India Stock shut 31 per Cents.
+7-1	156-160	Long	_	_	
+7-2	161-170	Annuities	_	_	
+7-3	170-171	,	_	_	
+7-4	172-176	shut	_	_	
+7-5	177-193	Threeandahalfper	_	_	
+7-6	194-199	Cents	_	_	
+7-7	199-200	.	_	_	
+7-8	201-202	|	_	_	
+7-9	203-208	India	_	_	
+7-10	209-214	Stock	_	_	
+7-11	215-219	shut	_	_	
+7-12	220-222	31	_	_	
+7-13	223-226	per	_	_	
+7-14	227-232	Cents	_	_	
+7-15	232-233	.	_	_	
+
+#Text=Reduced shut ] India Bonds, Four per Cents. 106 Exch.
+8-1	234-241	Reduced	_	_	
+8-2	242-246	shut	_	_	
+8-3	247-248	]	_	_	
+8-4	249-254	India	_	_	
+8-5	255-260	Bonds	_	_	
+8-6	260-261	,	_	_	
+8-7	262-266	Four	_	_	
+8-8	267-270	per	_	_	
+8-9	271-276	Cents	_	_	
+8-10	276-277	.	_	_	
+8-11	278-281	106	_	_	
+8-12	282-286	Exch	_	_	
+8-13	286-287	.	_	_	
+
+#Text=BUls (ljd.) 53 Consols for Account 93g }, j{ | City, Two oClock—The British stock market continues heavy.
+9-1	288-292	BUls	_	_	
+9-2	293-294	(	_	_	
+9-3	294-297	ljd	_	_	
+9-4	297-298	.	_	_	
+9-5	298-299	)	_	_	
+9-6	300-302	53	_	_	
+9-7	303-310	Consols	_	_	
+9-8	311-314	for	_	_	
+9-9	315-322	Account	_	_	
+9-10	323-326	93g	_	_	
+9-11	327-328	}	_	_	
+9-12	328-329	,	_	_	
+9-13	330-331	j	_	_	
+9-14	331-332	{	_	_	
+9-15	333-334	|	_	_	
+9-16	335-339	City	https://en.wikipedia.org/wiki/City\_of\_London	LOC	
+9-17	339-340	,	_	_	
+9-18	341-344	Two	_	_	
+9-19	345-355	oClock—The	_	_	
+9-20	356-363	British	_	_	
+9-21	364-369	stock	_	_	
+9-22	370-376	market	_	_	
+9-23	377-386	continues	_	_	
+9-24	387-392	heavy	_	_	
+9-25	392-393	.	_	_	
+
+#Text=Consols for April are 93| and 932 J for money—ln the Foreign market there is little doing.
+10-1	394-401	Consols	_	_	
+10-2	402-405	for	_	_	
+10-3	406-411	April	_	_	
+10-4	412-415	are	_	_	
+10-5	416-418	93	_	_	
+10-6	418-419	|	_	_	
+10-7	420-423	and	_	_	
+10-8	424-427	932	_	_	
+10-9	428-429	J	_	_	
+10-10	430-433	for	_	_	
+10-11	434-442	money—ln	_	_	
+10-12	443-446	the	_	_	
+10-13	447-454	Foreign	_	_	
+10-14	455-461	market	_	_	
+10-15	462-467	there	_	_	
+10-16	468-470	is	_	_	
+10-17	471-477	little	_	_	
+10-18	478-483	doing	_	_	
+10-19	483-484	.	_	_	
+
+#Text=The South American securities have rather improved ; Colombian bonds are 91$ ; Mexican bonds !
+11-1	485-488	The	_	_	
+11-2	489-494	South	_	_	
+11-3	495-503	American	_	_	
+11-4	504-514	securities	_	_	
+11-5	515-519	have	_	_	
+11-6	520-526	rather	_	_	
+11-7	527-535	improved	_	_	
+11-8	536-537	;	_	_	
+11-9	538-547	Colombian	_	_	
+11-10	548-553	bonds	_	_	
+11-11	554-557	are	_	_	
+11-12	558-560	91	_	_	
+11-13	560-561	$	_	_	
+11-14	562-563	;	_	_	
+11-15	564-571	Mexican	_	_	
+11-16	572-577	bonds	_	_	
+11-17	578-579	!	_	_	
+
+#Text=t(t« HI ; Mexican scrip 3 pm. ; Spanish bonds ; Greek scrip 334 dis.
+12-1	579-580	t	_	_	
+12-2	580-581	(	_	_	
+12-3	581-582	t	_	_	
+12-4	582-583	«	_	_	
+12-5	584-586	HI	_	_	
+12-6	587-588	;	_	_	
+12-7	589-596	Mexican	_	_	
+12-8	597-602	scrip	_	_	
+12-9	603-604	3	_	_	
+12-10	605-607	pm	_	_	
+12-11	607-608	.	_	_	
+12-12	609-610	;	_	_	
+12-13	611-618	Spanish	_	_	
+12-14	619-624	bonds	_	_	
+12-15	625-626	;	_	_	
+12-16	627-632	Greek	_	_	
+12-17	633-638	scrip	_	_	
+12-18	639-642	334	_	_	
+12-19	643-646	dis	_	_	
+12-20	646-647	.	_	_	
+
+#Text=Colonel Berkeley Colonel Berkeley has been so imprudent as to enter the office of the editor (Mr.
+13-1	648-655	Colonel	_	_	
+13-2	656-664	Berkeley	_	_	
+13-3	665-672	Colonel	_	_	
+13-4	673-681	Berkeley	_	_	
+13-5	682-685	has	_	_	
+13-6	686-690	been	_	_	
+13-7	691-693	so	_	_	
+13-8	694-703	imprudent	_	_	
+13-9	704-706	as	_	_	
+13-10	707-709	to	_	_	
+13-11	710-715	enter	_	_	
+13-12	716-719	the	_	_	
+13-13	720-726	office	_	_	
+13-14	727-729	of	_	_	
+13-15	730-733	the	_	_	
+13-16	734-740	editor	_	_	
+13-17	741-742	(	_	_	
+13-18	742-744	Mr	_	_	
+13-19	744-745	.	_	_	
+
+#Text=Judge) of the Cheltenham Journal, this day, with two persons of gentlemanly appearance, and to first insult and then grossly assault him During the late expose occasioned by the proceedings on the trial of Footer.
+14-1	746-751	Judge	_	_	
+14-2	751-752	)	_	_	
+14-3	753-755	of	_	_	
+14-4	756-759	the	_	_	
+14-5	760-770	Cheltenham	_	_	
+14-6	771-778	Journal	_	_	
+14-7	778-779	,	_	_	
+14-8	780-784	this	_	_	
+14-9	785-788	day	_	_	
+14-10	788-789	,	_	_	
+14-11	790-794	with	_	_	
+14-12	795-798	two	_	_	
+14-13	799-806	persons	_	_	
+14-14	807-809	of	_	_	
+14-15	810-821	gentlemanly	_	_	
+14-16	822-832	appearance	_	_	
+14-17	832-833	,	_	_	
+14-18	834-837	and	_	_	
+14-19	838-840	to	_	_	
+14-20	841-846	first	_	_	
+14-21	847-853	insult	_	_	
+14-22	854-857	and	_	_	
+14-23	858-862	then	_	_	
+14-24	863-870	grossly	_	_	
+14-25	871-878	assault	_	_	
+14-26	879-882	him	_	_	
+14-27	883-889	During	_	_	
+14-28	890-893	the	_	_	
+14-29	894-898	late	_	_	
+14-30	899-905	expose	_	_	
+14-31	906-916	occasioned	_	_	
+14-32	917-919	by	_	_	
+14-33	920-923	the	_	_	
+14-34	924-935	proceedings	_	_	
+14-35	936-938	on	_	_	
+14-36	939-942	the	_	_	
+14-37	943-948	trial	_	_	
+14-38	949-951	of	_	_	
+14-39	952-958	Footer	_	_	
+14-40	958-959	.	_	_	
+
+#Text=Hayne, the editor of the Cheltenham Journal occasionally indulged in making some apparently just, but rather severe and pointed animadversions on the conduct of the Colonel.
+15-1	960-965	Hayne	_	_	
+15-2	965-966	,	_	_	
+15-3	967-970	the	_	_	
+15-4	971-977	editor	_	_	
+15-5	978-980	of	_	_	
+15-6	981-984	the	_	_	
+15-7	985-995	Cheltenham	_	_	
+15-8	996-1003	Journal	_	_	
+15-9	1004-1016	occasionally	_	_	
+15-10	1017-1025	indulged	_	_	
+15-11	1026-1028	in	_	_	
+15-12	1029-1035	making	_	_	
+15-13	1036-1040	some	_	_	
+15-14	1041-1051	apparently	_	_	
+15-15	1052-1056	just	_	_	
+15-16	1056-1057	,	_	_	
+15-17	1058-1061	but	_	_	
+15-18	1062-1068	rather	_	_	
+15-19	1069-1075	severe	_	_	
+15-20	1076-1079	and	_	_	
+15-21	1080-1087	pointed	_	_	
+15-22	1088-1102	animadversions	_	_	
+15-23	1103-1105	on	_	_	
+15-24	1106-1109	the	_	_	
+15-25	1110-1117	conduct	_	_	
+15-26	1118-1120	of	_	_	
+15-27	1121-1124	the	_	_	
+15-28	1125-1132	Colonel	_	_	
+15-29	1132-1133	.	_	_	
+
+#Text=The article which had drawn upon the head of the unfortunate editor the personal chastisement of the Colonel was inserted in the last number of the Cheltenham Journal, and contained some proper and sensible remarks upon the Colonels advertisement puff", intimatipg that upwards of a hundred ladies were at the Berkeley Hunt Ball The Colonels conduct on this occasion was quite consistent with his behaviour to Mr.
+16-1	1134-1137	The	_	_	
+16-2	1138-1145	article	_	_	
+16-3	1146-1151	which	_	_	
+16-4	1152-1155	had	_	_	
+16-5	1156-1161	drawn	_	_	
+16-6	1162-1166	upon	_	_	
+16-7	1167-1170	the	_	_	
+16-8	1171-1175	head	_	_	
+16-9	1176-1178	of	_	_	
+16-10	1179-1182	the	_	_	
+16-11	1183-1194	unfortunate	_	_	
+16-12	1195-1201	editor	_	_	
+16-13	1202-1205	the	_	_	
+16-14	1206-1214	personal	_	_	
+16-15	1215-1227	chastisement	_	_	
+16-16	1228-1230	of	_	_	
+16-17	1231-1234	the	_	_	
+16-18	1235-1242	Colonel	_	_	
+16-19	1243-1246	was	_	_	
+16-20	1247-1255	inserted	_	_	
+16-21	1256-1258	in	_	_	
+16-22	1259-1262	the	_	_	
+16-23	1263-1267	last	_	_	
+16-24	1268-1274	number	_	_	
+16-25	1275-1277	of	_	_	
+16-26	1278-1281	the	_	_	
+16-27	1282-1292	Cheltenham	_	_	
+16-28	1293-1300	Journal	_	_	
+16-29	1300-1301	,	_	_	
+16-30	1302-1305	and	_	_	
+16-31	1306-1315	contained	_	_	
+16-32	1316-1320	some	_	_	
+16-33	1321-1327	proper	_	_	
+16-34	1328-1331	and	_	_	
+16-35	1332-1340	sensible	_	_	
+16-36	1341-1348	remarks	_	_	
+16-37	1349-1353	upon	_	_	
+16-38	1354-1357	the	_	_	
+16-39	1358-1366	Colonels	_	_	
+16-40	1367-1380	advertisement	_	_	
+16-41	1381-1385	puff	_	_	
+16-42	1385-1386	"	_	_	
+16-43	1386-1387	,	_	_	
+16-44	1388-1398	intimatipg	_	_	
+16-45	1399-1403	that	_	_	
+16-46	1404-1411	upwards	_	_	
+16-47	1412-1414	of	_	_	
+16-48	1415-1416	a	_	_	
+16-49	1417-1424	hundred	_	_	
+16-50	1425-1431	ladies	_	_	
+16-51	1432-1436	were	_	_	
+16-52	1437-1439	at	_	_	
+16-53	1440-1443	the	_	_	
+16-54	1444-1452	Berkeley	_	_	
+16-55	1453-1457	Hunt	_	_	
+16-56	1458-1462	Ball	_	_	
+16-57	1463-1466	The	_	_	
+16-58	1467-1475	Colonels	_	_	
+16-59	1476-1483	conduct	_	_	
+16-60	1484-1486	on	_	_	
+16-61	1487-1491	this	_	_	
+16-62	1492-1500	occasion	_	_	
+16-63	1501-1504	was	_	_	
+16-64	1505-1510	quite	_	_	
+16-65	1511-1521	consistent	_	_	
+16-66	1522-1526	with	_	_	
+16-67	1527-1530	his	_	_	
+16-68	1531-1540	behaviour	_	_	
+16-69	1541-1543	to	_	_	
+16-70	1544-1546	Mr	_	_	
+16-71	1546-1547	.	_	_	
+
+#Text=Horatio Clagget.
+17-1	1548-1555	Horatio	_	_	
+17-2	1556-1563	Clagget	_	_	
+17-3	1563-1564	.	_	_	
+
+#Text=It requires little personal courage to play the bully.
+18-1	1565-1567	It	_	_	
+18-2	1568-1576	requires	_	_	
+18-3	1577-1583	little	_	_	
+18-4	1584-1592	personal	_	_	
+18-5	1593-1600	courage	_	_	
+18-6	1601-1603	to	_	_	
+18-7	1604-1608	play	_	_	
+18-8	1609-1612	the	_	_	
+18-9	1613-1618	bully	_	_	
+18-10	1618-1619	.	_	_	
+
+#Text=The Colonel had two ruffians to a«sist him in this exploit.
+19-1	1620-1623	The	_	_	
+19-2	1624-1631	Colonel	_	_	
+19-3	1632-1635	had	_	_	
+19-4	1636-1639	two	_	_	
+19-5	1640-1648	ruffians	_	_	
+19-6	1649-1651	to	_	_	
+19-7	1652-1653	a	_	_	
+19-8	1653-1654	«	_	_	
+19-9	1654-1658	sist	_	_	
+19-10	1659-1662	him	_	_	
+19-11	1663-1665	in	_	_	
+19-12	1666-1670	this	_	_	
+19-13	1671-1678	exploit	_	_	
+19-14	1678-1679	.	_	_	
+
+#Text=Me are credibly informed that the beautiful Miss Foote, of Covent Garden Theatre, will certainly be married to Mr.
+20-1	1680-1682	Me	_	_	
+20-2	1683-1686	are	_	_	
+20-3	1687-1695	credibly	_	_	
+20-4	1696-1704	informed	_	_	
+20-5	1705-1709	that	_	_	
+20-6	1710-1713	the	_	_	
+20-7	1714-1723	beautiful	_	_	
+20-8	1724-1728	Miss	_	_	
+20-9	1729-1734	Foote	_	_	
+20-10	1734-1735	,	_	_	
+20-11	1736-1738	of	_	_	
+20-12	1739-1745	Covent	https://en.wikipedia.org/wiki/Royal\_Opera\_House[1]	BUILDING[1]	
+20-13	1746-1752	Garden	https://en.wikipedia.org/wiki/Royal\_Opera\_House[1]	BUILDING[1]	
+20-14	1753-1760	Theatre	https://en.wikipedia.org/wiki/Royal\_Opera\_House[1]	BUILDING[1]	
+20-15	1760-1761	,	_	_	
+20-16	1762-1766	will	_	_	
+20-17	1767-1776	certainly	_	_	
+20-18	1777-1779	be	_	_	
+20-19	1780-1787	married	_	_	
+20-20	1788-1790	to	_	_	
+20-21	1791-1793	Mr	_	_	
+20-22	1793-1794	.	_	_	
+
+#Text=Hayne, this day.
+21-1	1795-1800	Hayne	_	_	
+21-2	1800-1801	,	_	_	
+21-3	1802-1806	this	_	_	
+21-4	1807-1810	day	_	_	
+21-5	1810-1811	.	_	_	
+
+#Text=(Thursday), before noon.
+22-1	1812-1813	(	_	_	
+22-2	1813-1821	Thursday	_	_	
+22-3	1821-1822	)	_	_	
+22-4	1822-1823	,	_	_	
+22-5	1824-1830	before	_	_	
+22-6	1831-1835	noon	_	_	
+22-7	1835-1836	.	_	_	
+
+#Text=The principal parishes in the borough of Leicester send up petitions against any further concessions to the Roman Catholics.
+23-1	1837-1840	The	_	_	
+23-2	1841-1850	principal	_	_	
+23-3	1851-1859	parishes	_	_	
+23-4	1860-1862	in	_	_	
+23-5	1863-1866	the	_	_	
+23-6	1867-1874	borough	_	_	
+23-7	1875-1877	of	_	_	
+23-8	1878-1887	Leicester	https://en.wikipedia.org/wiki/Leicester	LOC	
+23-9	1888-1892	send	_	_	
+23-10	1893-1895	up	_	_	
+23-11	1896-1905	petitions	_	_	
+23-12	1906-1913	against	_	_	
+23-13	1914-1917	any	_	_	
+23-14	1918-1925	further	_	_	
+23-15	1926-1937	concessions	_	_	
+23-16	1938-1940	to	_	_	
+23-17	1941-1944	the	_	_	
+23-18	1945-1950	Roman	_	_	
+23-19	1951-1960	Catholics	_	_	
+23-20	1960-1961	.	_	_	
+
+#Text=Phe corporation of Leicester have also decided upon a petition against the claims.
+24-1	1962-1965	Phe	_	_	
+24-2	1966-1977	corporation	_	_	
+24-3	1978-1980	of	_	_	
+24-4	1981-1990	Leicester	https://en.wikipedia.org/wiki/Leicester	LOC	
+24-5	1991-1995	have	_	_	
+24-6	1996-2000	also	_	_	
+24-7	2001-2008	decided	_	_	
+24-8	2009-2013	upon	_	_	
+24-9	2014-2015	a	_	_	
+24-10	2016-2024	petition	_	_	
+24-11	2025-2032	against	_	_	
+24-12	2033-2036	the	_	_	
+24-13	2037-2043	claims	_	_	
+24-14	2043-2044	.	_	_	

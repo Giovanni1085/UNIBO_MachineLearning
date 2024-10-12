@@ -1,0 +1,474 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CORFE CASTLE.
+1-1	0-5	CORFE	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[1]	LOC[1]	
+1-2	6-12	CASTLE	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[1]	LOC[1]	
+1-3	12-13	.	_	_	
+
+#Text=RESTORATION OF THZ CHERCII.
+2-1	15-26	RESTORATION	_	_	
+2-2	27-29	OF	_	_	
+2-3	30-33	THZ	_	_	
+2-4	34-41	CHERCII	*	BUILDING	
+2-5	41-42	.	_	_	
+
+#Text=—The exterior of the Church is now rapidly progressing towards corn pletion.
+3-1	42-43	—	_	_	
+3-2	43-46	The	_	_	
+3-3	47-55	exterior	_	_	
+3-4	56-58	of	_	_	
+3-5	59-62	the	_	_	
+3-6	63-69	Church	*	BUILDING	
+3-7	70-72	is	_	_	
+3-8	73-76	now	_	_	
+3-9	77-84	rapidly	_	_	
+3-10	85-96	progressing	_	_	
+3-11	97-104	towards	_	_	
+3-12	105-109	corn	_	_	
+3-13	110-117	pletion	_	_	
+3-14	117-118	.	_	_	
+
+#Text=The roof is of slate, altogether out of character with the heavy stone coverings of the houses around it, and with the general feature of the original churches and ancient buildings of Purbeck.
+4-1	119-122	The	_	_	
+4-2	123-127	roof	_	_	
+4-3	128-130	is	_	_	
+4-4	131-133	of	_	_	
+4-5	134-139	slate	_	_	
+4-6	139-140	,	_	_	
+4-7	141-151	altogether	_	_	
+4-8	152-155	out	_	_	
+4-9	156-158	of	_	_	
+4-10	159-168	character	_	_	
+4-11	169-173	with	_	_	
+4-12	174-177	the	_	_	
+4-13	178-183	heavy	_	_	
+4-14	184-189	stone	_	_	
+4-15	190-199	coverings	_	_	
+4-16	200-202	of	_	_	
+4-17	203-206	the	_	_	
+4-18	207-213	houses	_	_	
+4-19	214-220	around	_	_	
+4-20	221-223	it	_	_	
+4-21	223-224	,	_	_	
+4-22	225-228	and	_	_	
+4-23	229-233	with	_	_	
+4-24	234-237	the	_	_	
+4-25	238-245	general	_	_	
+4-26	246-253	feature	_	_	
+4-27	254-256	of	_	_	
+4-28	257-260	the	_	_	
+4-29	261-269	original	_	_	
+4-30	270-278	churches	_	_	
+4-31	279-282	and	_	_	
+4-32	283-290	ancient	_	_	
+4-33	291-300	buildings	_	_	
+4-34	301-303	of	_	_	
+4-35	304-311	Purbeck	https://en.wikipedia.org/wiki/Purbeck\_District	LOC	
+4-36	311-312	.	_	_	
+
+#Text=Corte Castle is much nearer the beds of tile stone than Swanage, yet the latter can boast of retaining the former character of the church now rebuilding there in this respect, and as originality was strictly to be preserved in the restoration here, the substitution of slate fur stone and lead appears to be departing widely therefrom, while it exhibits a mixture of the ancient and modern which fancy alone can reconcile.
+5-1	313-318	Corte	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[2]	LOC[2]	
+5-2	319-325	Castle	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[2]	LOC[2]	
+5-3	326-328	is	_	_	
+5-4	329-333	much	_	_	
+5-5	334-340	nearer	_	_	
+5-6	341-344	the	_	_	
+5-7	345-349	beds	_	_	
+5-8	350-352	of	_	_	
+5-9	353-357	tile	_	_	
+5-10	358-363	stone	_	_	
+5-11	364-368	than	_	_	
+5-12	369-376	Swanage	https://en.wikipedia.org/wiki/Swanage	LOC	
+5-13	376-377	,	_	_	
+5-14	378-381	yet	_	_	
+5-15	382-385	the	_	_	
+5-16	386-392	latter	_	_	
+5-17	393-396	can	_	_	
+5-18	397-402	boast	_	_	
+5-19	403-405	of	_	_	
+5-20	406-415	retaining	_	_	
+5-21	416-419	the	_	_	
+5-22	420-426	former	_	_	
+5-23	427-436	character	_	_	
+5-24	437-439	of	_	_	
+5-25	440-443	the	_	_	
+5-26	444-450	church	_	_	
+5-27	451-454	now	_	_	
+5-28	455-465	rebuilding	_	_	
+5-29	466-471	there	_	_	
+5-30	472-474	in	_	_	
+5-31	475-479	this	_	_	
+5-32	480-487	respect	_	_	
+5-33	487-488	,	_	_	
+5-34	489-492	and	_	_	
+5-35	493-495	as	_	_	
+5-36	496-507	originality	_	_	
+5-37	508-511	was	_	_	
+5-38	512-520	strictly	_	_	
+5-39	521-523	to	_	_	
+5-40	524-526	be	_	_	
+5-41	527-536	preserved	_	_	
+5-42	537-539	in	_	_	
+5-43	540-543	the	_	_	
+5-44	544-555	restoration	_	_	
+5-45	556-560	here	_	_	
+5-46	560-561	,	_	_	
+5-47	562-565	the	_	_	
+5-48	566-578	substitution	_	_	
+5-49	579-581	of	_	_	
+5-50	582-587	slate	_	_	
+5-51	588-591	fur	_	_	
+5-52	592-597	stone	_	_	
+5-53	598-601	and	_	_	
+5-54	602-606	lead	_	_	
+5-55	607-614	appears	_	_	
+5-56	615-617	to	_	_	
+5-57	618-620	be	_	_	
+5-58	621-630	departing	_	_	
+5-59	631-637	widely	_	_	
+5-60	638-647	therefrom	_	_	
+5-61	647-648	,	_	_	
+5-62	649-654	while	_	_	
+5-63	655-657	it	_	_	
+5-64	658-666	exhibits	_	_	
+5-65	667-668	a	_	_	
+5-66	669-676	mixture	_	_	
+5-67	677-679	of	_	_	
+5-68	680-683	the	_	_	
+5-69	684-691	ancient	_	_	
+5-70	692-695	and	_	_	
+5-71	696-702	modern	_	_	
+5-72	703-708	which	_	_	
+5-73	709-714	fancy	_	_	
+5-74	715-720	alone	_	_	
+5-75	721-724	can	_	_	
+5-76	725-734	reconcile	_	_	
+5-77	734-735	.	_	_	
+
+#Text=—Communicated.
+6-1	735-736	—	_	_	
+6-2	736-748	Communicated	_	_	
+6-3	748-749	.	_	_	
+
+#Text=A MERRY CHRISTMAS PARTT.-011 Friday evening last the workmen and labourers employed on the estate of J.
+7-1	750-751	A	_	_	
+7-2	752-757	MERRY	_	_	
+7-3	758-767	CHRISTMAS	_	_	
+7-4	768-773	PARTT	_	_	
+7-5	773-774	.	_	_	
+7-6	774-775	-	_	_	
+7-7	775-778	011	_	_	
+7-8	779-785	Friday	_	_	
+7-9	786-793	evening	_	_	
+7-10	794-798	last	_	_	
+7-11	799-802	the	_	_	
+7-12	803-810	workmen	_	_	
+7-13	811-814	and	_	_	
+7-14	815-824	labourers	_	_	
+7-15	825-833	employed	_	_	
+7-16	834-836	on	_	_	
+7-17	837-840	the	_	_	
+7-18	841-847	estate	_	_	
+7-19	848-850	of	_	_	
+7-20	851-852	J	_	_	
+7-21	852-853	.	_	_	
+
+#Text=H.
+8-1	854-855	H	_	_	
+8-2	855-856	.	_	_	
+
+#Text=Calcraft, Esq., assembled with their wives and families at the Hall, where they were regaled with a plentiful supply of bread and butter, rich cake, and the cup which is said to cheer but nut inebriate.
+9-1	857-865	Calcraft	_	_	
+9-2	865-866	,	_	_	
+9-3	867-870	Esq	_	_	
+9-4	870-871	.	_	_	
+9-5	871-872	,	_	_	
+9-6	873-882	assembled	_	_	
+9-7	883-887	with	_	_	
+9-8	888-893	their	_	_	
+9-9	894-899	wives	_	_	
+9-10	900-903	and	_	_	
+9-11	904-912	families	_	_	
+9-12	913-915	at	_	_	
+9-13	916-919	the	_	_	
+9-14	920-924	Hall	*	BUILDING	
+9-15	924-925	,	_	_	
+9-16	926-931	where	_	_	
+9-17	932-936	they	_	_	
+9-18	937-941	were	_	_	
+9-19	942-949	regaled	_	_	
+9-20	950-954	with	_	_	
+9-21	955-956	a	_	_	
+9-22	957-966	plentiful	_	_	
+9-23	967-973	supply	_	_	
+9-24	974-976	of	_	_	
+9-25	977-982	bread	_	_	
+9-26	983-986	and	_	_	
+9-27	987-993	butter	_	_	
+9-28	993-994	,	_	_	
+9-29	995-999	rich	_	_	
+9-30	1000-1004	cake	_	_	
+9-31	1004-1005	,	_	_	
+9-32	1006-1009	and	_	_	
+9-33	1010-1013	the	_	_	
+9-34	1014-1017	cup	_	_	
+9-35	1018-1023	which	_	_	
+9-36	1024-1026	is	_	_	
+9-37	1027-1031	said	_	_	
+9-38	1032-1034	to	_	_	
+9-39	1035-1040	cheer	_	_	
+9-40	1041-1044	but	_	_	
+9-41	1045-1048	nut	_	_	
+9-42	1049-1058	inebriate	_	_	
+9-43	1058-1059	.	_	_	
+
+#Text=After which the company were amused by the school children singing some cheerful pieces.
+10-1	1060-1065	After	_	_	
+10-2	1066-1071	which	_	_	
+10-3	1072-1075	the	_	_	
+10-4	1076-1083	company	_	_	
+10-5	1084-1088	were	_	_	
+10-6	1089-1095	amused	_	_	
+10-7	1096-1098	by	_	_	
+10-8	1099-1102	the	_	_	
+10-9	1103-1109	school	_	_	
+10-10	1110-1118	children	_	_	
+10-11	1119-1126	singing	_	_	
+10-12	1127-1131	some	_	_	
+10-13	1132-1140	cheerful	_	_	
+10-14	1141-1147	pieces	_	_	
+10-15	1147-1148	.	_	_	
+
+#Text=At the conclusion of the evening a splendid Christmastree was exhibited, from which each of the guests received presents and returned home much gratified.
+11-1	1149-1151	At	_	_	
+11-2	1152-1155	the	_	_	
+11-3	1156-1166	conclusion	_	_	
+11-4	1167-1169	of	_	_	
+11-5	1170-1173	the	_	_	
+11-6	1174-1181	evening	_	_	
+11-7	1182-1183	a	_	_	
+11-8	1184-1192	splendid	_	_	
+11-9	1193-1206	Christmastree	_	_	
+11-10	1207-1210	was	_	_	
+11-11	1211-1220	exhibited	_	_	
+11-12	1220-1221	,	_	_	
+11-13	1222-1226	from	_	_	
+11-14	1227-1232	which	_	_	
+11-15	1233-1237	each	_	_	
+11-16	1238-1240	of	_	_	
+11-17	1241-1244	the	_	_	
+11-18	1245-1251	guests	_	_	
+11-19	1252-1260	received	_	_	
+11-20	1261-1269	presents	_	_	
+11-21	1270-1273	and	_	_	
+11-22	1274-1282	returned	_	_	
+11-23	1283-1287	home	_	_	
+11-24	1288-1292	much	_	_	
+11-25	1293-1302	gratified	_	_	
+11-26	1302-1303	.	_	_	
+
+#Text=TESTIMONIAL OF RESPICT.
+12-1	1304-1315	TESTIMONIAL	_	_	
+12-2	1316-1318	OF	_	_	
+12-3	1319-1326	RESPICT	_	_	
+12-4	1326-1327	.	_	_	
+
+#Text=—We are much pleased to find that our late townsman, Mr.
+13-1	1327-1328	—	_	_	
+13-2	1328-1330	We	_	_	
+13-3	1331-1334	are	_	_	
+13-4	1335-1339	much	_	_	
+13-5	1340-1347	pleased	_	_	
+13-6	1348-1350	to	_	_	
+13-7	1351-1355	find	_	_	
+13-8	1356-1360	that	_	_	
+13-9	1361-1364	our	_	_	
+13-10	1365-1369	late	_	_	
+13-11	1370-1378	townsman	_	_	
+13-12	1378-1379	,	_	_	
+13-13	1380-1382	Mr	_	_	
+13-14	1382-1383	.	_	_	
+
+#Text=Joseph Willis. bas received a piece of silver plate front the firm of Messrs. 11.
+14-1	1384-1390	Joseph	_	_	
+14-2	1391-1397	Willis	_	_	
+14-3	1397-1398	.	_	_	
+14-4	1399-1402	bas	_	_	
+14-5	1403-1411	received	_	_	
+14-6	1412-1413	a	_	_	
+14-7	1414-1419	piece	_	_	
+14-8	1420-1422	of	_	_	
+14-9	1423-1429	silver	_	_	
+14-10	1430-1435	plate	_	_	
+14-11	1436-1441	front	_	_	
+14-12	1442-1445	the	_	_	
+14-13	1446-1450	firm	_	_	
+14-14	1451-1453	of	_	_	
+14-15	1454-1460	Messrs	_	_	
+14-16	1460-1461	.	_	_	
+14-17	1462-1464	11	_	_	
+14-18	1464-1465	.	_	_	
+
+#Text=Fayle and Co., as a token of their esteem for his services whale manager of their clay works.
+15-1	1466-1471	Fayle	_	_	
+15-2	1472-1475	and	_	_	
+15-3	1476-1478	Co	_	_	
+15-4	1478-1479	.	_	_	
+15-5	1479-1480	,	_	_	
+15-6	1481-1483	as	_	_	
+15-7	1484-1485	a	_	_	
+15-8	1486-1491	token	_	_	
+15-9	1492-1494	of	_	_	
+15-10	1495-1500	their	_	_	
+15-11	1501-1507	esteem	_	_	
+15-12	1508-1511	for	_	_	
+15-13	1512-1515	his	_	_	
+15-14	1516-1524	services	_	_	
+15-15	1525-1530	whale	_	_	
+15-16	1531-1538	manager	_	_	
+15-17	1539-1541	of	_	_	
+15-18	1542-1547	their	_	_	
+15-19	1548-1552	clay	_	_	
+15-20	1553-1558	works	_	_	
+15-21	1558-1559	.	_	_	
+
+#Text=Mr.
+16-1	1560-1562	Mr	_	_	
+16-2	1562-1563	.	_	_	
+
+#Text=Willis succeeded his father as principal agent for the above firm, which situation they filled jointly for nearly 70 years. with great satisfaction both to the employers and employed.
+17-1	1564-1570	Willis	_	_	
+17-2	1571-1580	succeeded	_	_	
+17-3	1581-1584	his	_	_	
+17-4	1585-1591	father	_	_	
+17-5	1592-1594	as	_	_	
+17-6	1595-1604	principal	_	_	
+17-7	1605-1610	agent	_	_	
+17-8	1611-1614	for	_	_	
+17-9	1615-1618	the	_	_	
+17-10	1619-1624	above	_	_	
+17-11	1625-1629	firm	_	_	
+17-12	1629-1630	,	_	_	
+17-13	1631-1636	which	_	_	
+17-14	1637-1646	situation	_	_	
+17-15	1647-1651	they	_	_	
+17-16	1652-1658	filled	_	_	
+17-17	1659-1666	jointly	_	_	
+17-18	1667-1670	for	_	_	
+17-19	1671-1677	nearly	_	_	
+17-20	1678-1680	70	_	_	
+17-21	1681-1686	years	_	_	
+17-22	1686-1687	.	_	_	
+17-23	1688-1692	with	_	_	
+17-24	1693-1698	great	_	_	
+17-25	1699-1711	satisfaction	_	_	
+17-26	1712-1716	both	_	_	
+17-27	1717-1719	to	_	_	
+17-28	1720-1723	the	_	_	
+17-29	1724-1733	employers	_	_	
+17-30	1734-1737	and	_	_	
+17-31	1738-1746	employed	_	_	
+17-32	1746-1747	.	_	_	
+
+#Text=Mr.
+18-1	1748-1750	Mr	_	_	
+18-2	1750-1751	.	_	_	
+
+#Text=Willis has lately relinquished his situation and taken • farm in the neighbourhood of Salisbury, with the view of bringing his sons to agricultural pursuits, a business which he ever delighted in.
+19-1	1752-1758	Willis	_	_	
+19-2	1759-1762	has	_	_	
+19-3	1763-1769	lately	_	_	
+19-4	1770-1782	relinquished	_	_	
+19-5	1783-1786	his	_	_	
+19-6	1787-1796	situation	_	_	
+19-7	1797-1800	and	_	_	
+19-8	1801-1806	taken	_	_	
+19-9	1807-1808	•	_	_	
+19-10	1809-1813	farm	_	_	
+19-11	1814-1816	in	_	_	
+19-12	1817-1820	the	_	_	
+19-13	1821-1834	neighbourhood	_	_	
+19-14	1835-1837	of	_	_	
+19-15	1838-1847	Salisbury	https://en.wikipedia.org/wiki/Salisbury	LOC	
+19-16	1847-1848	,	_	_	
+19-17	1849-1853	with	_	_	
+19-18	1854-1857	the	_	_	
+19-19	1858-1862	view	_	_	
+19-20	1863-1865	of	_	_	
+19-21	1866-1874	bringing	_	_	
+19-22	1875-1878	his	_	_	
+19-23	1879-1883	sons	_	_	
+19-24	1884-1886	to	_	_	
+19-25	1887-1899	agricultural	_	_	
+19-26	1900-1908	pursuits	_	_	
+19-27	1908-1909	,	_	_	
+19-28	1910-1911	a	_	_	
+19-29	1912-1920	business	_	_	
+19-30	1921-1926	which	_	_	
+19-31	1927-1929	he	_	_	
+19-32	1930-1934	ever	_	_	
+19-33	1935-1944	delighted	_	_	
+19-34	1945-1947	in	_	_	
+19-35	1947-1948	.	_	_	
+
+#Text=The testimonial is • silver inkstand neatly executed with an appropriate inscription engraved thereon.
+20-1	1949-1952	The	_	_	
+20-2	1953-1964	testimonial	_	_	
+20-3	1965-1967	is	_	_	
+20-4	1968-1969	•	_	_	
+20-5	1970-1976	silver	_	_	
+20-6	1977-1985	inkstand	_	_	
+20-7	1986-1992	neatly	_	_	
+20-8	1993-2001	executed	_	_	
+20-9	2002-2006	with	_	_	
+20-10	2007-2009	an	_	_	
+20-11	2010-2021	appropriate	_	_	
+20-12	2022-2033	inscription	_	_	
+20-13	2034-2042	engraved	_	_	
+20-14	2043-2050	thereon	_	_	
+20-15	2050-2051	.	_	_	
+
+#Text=We understand that the working. men employed at the Clay Pits which he for so long a time managed, are each going to subscribe towards presenting Mr.
+21-1	2052-2054	We	_	_	
+21-2	2055-2065	understand	_	_	
+21-3	2066-2070	that	_	_	
+21-4	2071-2074	the	_	_	
+21-5	2075-2082	working	_	_	
+21-6	2082-2083	.	_	_	
+21-7	2084-2087	men	_	_	
+21-8	2088-2096	employed	_	_	
+21-9	2097-2099	at	_	_	
+21-10	2100-2103	the	_	_	
+21-11	2104-2108	Clay	_	_	
+21-12	2109-2113	Pits	_	_	
+21-13	2114-2119	which	_	_	
+21-14	2120-2122	he	_	_	
+21-15	2123-2126	for	_	_	
+21-16	2127-2129	so	_	_	
+21-17	2130-2134	long	_	_	
+21-18	2135-2136	a	_	_	
+21-19	2137-2141	time	_	_	
+21-20	2142-2149	managed	_	_	
+21-21	2149-2150	,	_	_	
+21-22	2151-2154	are	_	_	
+21-23	2155-2159	each	_	_	
+21-24	2160-2165	going	_	_	
+21-25	2166-2168	to	_	_	
+21-26	2169-2178	subscribe	_	_	
+21-27	2179-2186	towards	_	_	
+21-28	2187-2197	presenting	_	_	
+21-29	2198-2200	Mr	_	_	
+21-30	2200-2201	.	_	_	
+
+#Text=Willis with a similar token of their respect.
+22-1	2202-2208	Willis	_	_	
+22-2	2209-2213	with	_	_	
+22-3	2214-2215	a	_	_	
+22-4	2216-2223	similar	_	_	
+22-5	2224-2229	token	_	_	
+22-6	2230-2232	of	_	_	
+22-7	2233-2238	their	_	_	
+22-8	2239-2246	respect	_	_	
+22-9	2246-2247	.	_	_	

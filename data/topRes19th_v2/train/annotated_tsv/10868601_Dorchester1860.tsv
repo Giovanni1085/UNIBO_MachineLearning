@@ -1,0 +1,554 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=BRIDGWATER.
+1-1	0-10	BRIDGWATER	https://en.wikipedia.org/wiki/Bridgwater	LOC	
+1-2	10-11	.	_	_	
+
+#Text=We are requested to correct an error which appeared in our last, to the effect that Mr.
+2-1	13-15	We	_	_	
+2-2	16-19	are	_	_	
+2-3	20-29	requested	_	_	
+2-4	30-32	to	_	_	
+2-5	33-40	correct	_	_	
+2-6	41-43	an	_	_	
+2-7	44-49	error	_	_	
+2-8	50-55	which	_	_	
+2-9	56-64	appeared	_	_	
+2-10	65-67	in	_	_	
+2-11	68-71	our	_	_	
+2-12	72-76	last	_	_	
+2-13	76-77	,	_	_	
+2-14	78-80	to	_	_	
+2-15	81-84	the	_	_	
+2-16	85-91	effect	_	_	
+2-17	92-96	that	_	_	
+2-18	97-99	Mr	_	_	
+2-19	99-100	.	_	_	
+
+#Text=Mole, chemist, of this place, had committed suicide.
+3-1	101-105	Mole	_	_	
+3-2	105-106	,	_	_	
+3-3	107-114	chemist	_	_	
+3-4	114-115	,	_	_	
+3-5	116-118	of	_	_	
+3-6	119-123	this	_	_	
+3-7	124-129	place	_	_	
+3-8	129-130	,	_	_	
+3-9	131-134	had	_	_	
+3-10	135-144	committed	_	_	
+3-11	145-152	suicide	_	_	
+3-12	152-153	.	_	_	
+
+#Text=The paragraph, we presume, was written by our correspondent before the inquest put a different complexion on the melancholy event, for we are given to understand the jury returned a verdict to tbe effect that Mr.
+4-1	154-157	The	_	_	
+4-2	158-167	paragraph	_	_	
+4-3	167-168	,	_	_	
+4-4	169-171	we	_	_	
+4-5	172-179	presume	_	_	
+4-6	179-180	,	_	_	
+4-7	181-184	was	_	_	
+4-8	185-192	written	_	_	
+4-9	193-195	by	_	_	
+4-10	196-199	our	_	_	
+4-11	200-213	correspondent	_	_	
+4-12	214-220	before	_	_	
+4-13	221-224	the	_	_	
+4-14	225-232	inquest	_	_	
+4-15	233-236	put	_	_	
+4-16	237-238	a	_	_	
+4-17	239-248	different	_	_	
+4-18	249-259	complexion	_	_	
+4-19	260-262	on	_	_	
+4-20	263-266	the	_	_	
+4-21	267-277	melancholy	_	_	
+4-22	278-283	event	_	_	
+4-23	283-284	,	_	_	
+4-24	285-288	for	_	_	
+4-25	289-291	we	_	_	
+4-26	292-295	are	_	_	
+4-27	296-301	given	_	_	
+4-28	302-304	to	_	_	
+4-29	305-315	understand	_	_	
+4-30	316-319	the	_	_	
+4-31	320-324	jury	_	_	
+4-32	325-333	returned	_	_	
+4-33	334-335	a	_	_	
+4-34	336-343	verdict	_	_	
+4-35	344-346	to	_	_	
+4-36	347-350	tbe	_	_	
+4-37	351-357	effect	_	_	
+4-38	358-362	that	_	_	
+4-39	363-365	Mr	_	_	
+4-40	365-366	.	_	_	
+
+#Text=Mole " Died of disease of the heart, accelerated by taking a medicinal dose of prussic acid."
+5-1	367-371	Mole	_	_	
+5-2	372-373	"	_	_	
+5-3	374-378	Died	_	_	
+5-4	379-381	of	_	_	
+5-5	382-389	disease	_	_	
+5-6	390-392	of	_	_	
+5-7	393-396	the	_	_	
+5-8	397-402	heart	_	_	
+5-9	402-403	,	_	_	
+5-10	404-415	accelerated	_	_	
+5-11	416-418	by	_	_	
+5-12	419-425	taking	_	_	
+5-13	426-427	a	_	_	
+5-14	428-437	medicinal	_	_	
+5-15	438-442	dose	_	_	
+5-16	443-445	of	_	_	
+5-17	446-453	prussic	_	_	
+5-18	454-458	acid	_	_	
+5-19	458-459	.	_	_	
+5-20	459-460	"	_	_	
+
+#Text=The unfortunate gentleman suffered from palpitation of the heart, and it appears the dilution which he took, instead of tending to allay the symptoms, actually aggravated the case, and a fatal end was the result.
+6-1	461-464	The	_	_	
+6-2	465-476	unfortunate	_	_	
+6-3	477-486	gentleman	_	_	
+6-4	487-495	suffered	_	_	
+6-5	496-500	from	_	_	
+6-6	501-512	palpitation	_	_	
+6-7	513-515	of	_	_	
+6-8	516-519	the	_	_	
+6-9	520-525	heart	_	_	
+6-10	525-526	,	_	_	
+6-11	527-530	and	_	_	
+6-12	531-533	it	_	_	
+6-13	534-541	appears	_	_	
+6-14	542-545	the	_	_	
+6-15	546-554	dilution	_	_	
+6-16	555-560	which	_	_	
+6-17	561-563	he	_	_	
+6-18	564-568	took	_	_	
+6-19	568-569	,	_	_	
+6-20	570-577	instead	_	_	
+6-21	578-580	of	_	_	
+6-22	581-588	tending	_	_	
+6-23	589-591	to	_	_	
+6-24	592-597	allay	_	_	
+6-25	598-601	the	_	_	
+6-26	602-610	symptoms	_	_	
+6-27	610-611	,	_	_	
+6-28	612-620	actually	_	_	
+6-29	621-631	aggravated	_	_	
+6-30	632-635	the	_	_	
+6-31	636-640	case	_	_	
+6-32	640-641	,	_	_	
+6-33	642-645	and	_	_	
+6-34	646-647	a	_	_	
+6-35	648-653	fatal	_	_	
+6-36	654-657	end	_	_	
+6-37	658-661	was	_	_	
+6-38	662-665	the	_	_	
+6-39	666-672	result	_	_	
+6-40	672-673	.	_	_	
+
+#Text=CHUBCH RESTOBATION.
+7-1	674-680	CHUBCH	_	_	
+7-2	681-692	RESTOBATION	_	_	
+7-3	692-693	.	_	_	
+
+#Text=—On Thursday last the parish church of Over Stowey, near this place, having undergone restoration, was re-opened for Divine worship.
+8-1	693-694	—	_	_	
+8-2	694-696	On	_	_	
+8-3	697-705	Thursday	_	_	
+8-4	706-710	last	_	_	
+8-5	711-714	the	_	_	
+8-6	715-721	parish	_	_	
+8-7	722-728	church	_	_	
+8-8	729-731	of	_	_	
+8-9	732-736	Over	https://en.wikipedia.org/wiki/Over\_Stowey[1]	LOC[1]	
+8-10	737-743	Stowey	https://en.wikipedia.org/wiki/Over\_Stowey[1]	LOC[1]	
+8-11	743-744	,	_	_	
+8-12	745-749	near	_	_	
+8-13	750-754	this	_	_	
+8-14	755-760	place	_	_	
+8-15	760-761	,	_	_	
+8-16	762-768	having	_	_	
+8-17	769-778	undergone	_	_	
+8-18	779-790	restoration	_	_	
+8-19	790-791	,	_	_	
+8-20	792-795	was	_	_	
+8-21	796-805	re-opened	_	_	
+8-22	806-809	for	_	_	
+8-23	810-816	Divine	_	_	
+8-24	817-824	worship	_	_	
+8-25	824-825	.	_	_	
+
+#Text=The chancel of the church is now lighted by two beautiful corona manufactured by Singer, of Frome, which was the gift of tbe Right Rev.
+9-1	826-829	The	_	_	
+9-2	830-837	chancel	_	_	
+9-3	838-840	of	_	_	
+9-4	841-844	the	_	_	
+9-5	845-851	church	_	_	
+9-6	852-854	is	_	_	
+9-7	855-858	now	_	_	
+9-8	859-866	lighted	_	_	
+9-9	867-869	by	_	_	
+9-10	870-873	two	_	_	
+9-11	874-883	beautiful	_	_	
+9-12	884-890	corona	_	_	
+9-13	891-903	manufactured	_	_	
+9-14	904-906	by	_	_	
+9-15	907-913	Singer	_	_	
+9-16	913-914	,	_	_	
+9-17	915-917	of	_	_	
+9-18	918-923	Frome	https://en.wikipedia.org/wiki/Frome	LOC	
+9-19	923-924	,	_	_	
+9-20	925-930	which	_	_	
+9-21	931-934	was	_	_	
+9-22	935-938	the	_	_	
+9-23	939-943	gift	_	_	
+9-24	944-946	of	_	_	
+9-25	947-950	tbe	_	_	
+9-26	951-956	Right	_	_	
+9-27	957-960	Rev	_	_	
+9-28	960-961	.	_	_	
+
+#Text=Bishop Toxer. of the Central African mission.
+10-1	962-968	Bishop	_	_	
+10-2	969-974	Toxer	_	_	
+10-3	974-975	.	_	_	
+10-4	976-978	of	_	_	
+10-5	979-982	the	_	_	
+10-6	983-990	Central	_	_	
+10-7	991-998	African	_	_	
+10-8	999-1006	mission	_	_	
+10-9	1006-1007	.	_	_	
+
+#Text=The preachers at the services were the Rev.
+11-1	1008-1011	The	_	_	
+11-2	1012-1021	preachers	_	_	
+11-3	1022-1024	at	_	_	
+11-4	1025-1028	the	_	_	
+11-5	1029-1037	services	_	_	
+11-6	1038-1042	were	_	_	
+11-7	1043-1046	the	_	_	
+11-8	1047-1050	Rev	_	_	
+11-9	1050-1051	.	_	_	
+
+#Text=W.
+12-1	1052-1053	W	_	_	
+12-2	1053-1054	.	_	_	
+
+#Text=C.
+13-1	1055-1056	C	_	_	
+13-2	1056-1057	.	_	_	
+
+#Text=Lake, prebendary of Wells, and vicar of Huntspill, and the Rev.
+14-1	1058-1062	Lake	_	_	
+14-2	1062-1063	,	_	_	
+14-3	1064-1074	prebendary	_	_	
+14-4	1075-1077	of	_	_	
+14-5	1078-1083	Wells	https://en.wikipedia.org/wiki/Wells,\_Somerset	LOC	
+14-6	1083-1084	,	_	_	
+14-7	1085-1088	and	_	_	
+14-8	1089-1094	vicar	_	_	
+14-9	1095-1097	of	_	_	
+14-10	1098-1107	Huntspill	https://en.wikipedia.org/wiki/Huntspill	LOC	
+14-11	1107-1108	,	_	_	
+14-12	1109-1112	and	_	_	
+14-13	1113-1116	the	_	_	
+14-14	1117-1120	Rev	_	_	
+14-15	1120-1121	.	_	_	
+
+#Text=W.
+15-1	1122-1123	W	_	_	
+15-2	1123-1124	.	_	_	
+
+#Text=R.
+16-1	1125-1126	R	_	_	
+16-2	1126-1127	.	_	_	
+
+#Text=Clarke, vicar of St.
+17-1	1128-1134	Clarke	_	_	
+17-2	1134-1135	,	_	_	
+17-3	1136-1141	vicar	_	_	
+17-4	1142-1144	of	_	_	
+17-5	1145-1147	St	*[2]	BUILDING[2]	
+17-6	1147-1148	.	*[2]	BUILDING[2]	
+
+#Text=Marys, Taunton.
+18-1	1149-1154	Marys	*[2]	BUILDING[2]	
+18-2	1154-1155	,	_	_	
+18-3	1156-1163	Taunton	https://en.wikipedia.org/wiki/Taunton	LOC	
+18-4	1163-1164	.	_	_	
+
+#Text=The event was the occasion of much rejoicing, and between the services a substantial dinner was given to the working men of the parish, which was presided over by the Right Hon.
+19-1	1165-1168	The	_	_	
+19-2	1169-1174	event	_	_	
+19-3	1175-1178	was	_	_	
+19-4	1179-1182	the	_	_	
+19-5	1183-1191	occasion	_	_	
+19-6	1192-1194	of	_	_	
+19-7	1195-1199	much	_	_	
+19-8	1200-1209	rejoicing	_	_	
+19-9	1209-1210	,	_	_	
+19-10	1211-1214	and	_	_	
+19-11	1215-1222	between	_	_	
+19-12	1223-1226	the	_	_	
+19-13	1227-1235	services	_	_	
+19-14	1236-1237	a	_	_	
+19-15	1238-1249	substantial	_	_	
+19-16	1250-1256	dinner	_	_	
+19-17	1257-1260	was	_	_	
+19-18	1261-1266	given	_	_	
+19-19	1267-1269	to	_	_	
+19-20	1270-1273	the	_	_	
+19-21	1274-1281	working	_	_	
+19-22	1282-1285	men	_	_	
+19-23	1286-1288	of	_	_	
+19-24	1289-1292	the	_	_	
+19-25	1293-1299	parish	_	_	
+19-26	1299-1300	,	_	_	
+19-27	1301-1306	which	_	_	
+19-28	1307-1310	was	_	_	
+19-29	1311-1319	presided	_	_	
+19-30	1320-1324	over	_	_	
+19-31	1325-1327	by	_	_	
+19-32	1328-1331	the	_	_	
+19-33	1332-1337	Right	_	_	
+19-34	1338-1341	Hon	_	_	
+19-35	1341-1342	.	_	_	
+
+#Text=Lord Taunton.
+20-1	1343-1347	Lord	_	_	
+20-2	1348-1355	Taunton	_	_	
+20-3	1355-1356	.	_	_	
+
+#Text=Bbidgwateb Election Petitions.
+21-1	1357-1367	Bbidgwateb	https://en.wikipedia.org/wiki/Bridgwater	LOC	
+21-2	1368-1376	Election	_	_	
+21-3	1377-1386	Petitions	_	_	
+21-4	1386-1387	.	_	_	
+
+#Text=—The General Committee of Elections, Mr.
+22-1	1387-1388	—	_	_	
+22-2	1388-1391	The	_	_	
+22-3	1392-1399	General	_	_	
+22-4	1400-1409	Committee	_	_	
+22-5	1410-1412	of	_	_	
+22-6	1413-1422	Elections	_	_	
+22-7	1422-1423	,	_	_	
+22-8	1424-1426	Mr	_	_	
+22-9	1426-1427	.	_	_	
+
+#Text=Walpole in the chair, on Thursday appointed the committee to hear the petitions against the return for this borough.
+23-1	1428-1435	Walpole	_	_	
+23-2	1436-1438	in	_	_	
+23-3	1439-1442	the	_	_	
+23-4	1443-1448	chair	_	_	
+23-5	1448-1449	,	_	_	
+23-6	1450-1452	on	_	_	
+23-7	1453-1461	Thursday	_	_	
+23-8	1462-1471	appointed	_	_	
+23-9	1472-1475	the	_	_	
+23-10	1476-1485	committee	_	_	
+23-11	1486-1488	to	_	_	
+23-12	1489-1493	hear	_	_	
+23-13	1494-1497	the	_	_	
+23-14	1498-1507	petitions	_	_	
+23-15	1508-1515	against	_	_	
+23-16	1516-1519	the	_	_	
+23-17	1520-1526	return	_	_	
+23-18	1527-1530	for	_	_	
+23-19	1531-1535	this	_	_	
+23-20	1536-1543	borough	_	_	
+23-21	1543-1544	.	_	_	
+
+#Text=There are two petitions, the first being against the return of Mr.
+24-1	1545-1550	There	_	_	
+24-2	1551-1554	are	_	_	
+24-3	1555-1558	two	_	_	
+24-4	1559-1568	petitions	_	_	
+24-5	1568-1569	,	_	_	
+24-6	1570-1573	the	_	_	
+24-7	1574-1579	first	_	_	
+24-8	1580-1585	being	_	_	
+24-9	1586-1593	against	_	_	
+24-10	1594-1597	the	_	_	
+24-11	1598-1604	return	_	_	
+24-12	1605-1607	of	_	_	
+24-13	1608-1610	Mr	_	_	
+24-14	1610-1611	.	_	_	
+
+#Text=Westropp, on the ground of bribery, treating, and undue influence, and the second against Mr.
+25-1	1612-1620	Westropp	_	_	
+25-2	1620-1621	,	_	_	
+25-3	1622-1624	on	_	_	
+25-4	1625-1628	the	_	_	
+25-5	1629-1635	ground	_	_	
+25-6	1636-1638	of	_	_	
+25-7	1639-1646	bribery	_	_	
+25-8	1646-1647	,	_	_	
+25-9	1648-1656	treating	_	_	
+25-10	1656-1657	,	_	_	
+25-11	1658-1661	and	_	_	
+25-12	1662-1667	undue	_	_	
+25-13	1668-1677	influence	_	_	
+25-14	1677-1678	,	_	_	
+25-15	1679-1682	and	_	_	
+25-16	1683-1686	the	_	_	
+25-17	1687-1693	second	_	_	
+25-18	1694-1701	against	_	_	
+25-19	1702-1704	Mr	_	_	
+25-20	1704-1705	.	_	_	
+
+#Text=A.
+26-1	1706-1707	A	_	_	
+26-2	1707-1708	.	_	_	
+
+#Text=W.
+27-1	1709-1710	W	_	_	
+27-2	1710-1711	.	_	_	
+
+#Text=Kinglake on similar grounds.
+28-1	1712-1720	Kinglake	_	_	
+28-2	1721-1723	on	_	_	
+28-3	1724-1731	similar	_	_	
+28-4	1732-1739	grounds	_	_	
+28-5	1739-1740	.	_	_	
+
+#Text=The committee are Mr.
+29-1	1741-1744	The	_	_	
+29-2	1745-1754	committee	_	_	
+29-3	1755-1758	are	_	_	
+29-4	1759-1761	Mr	_	_	
+29-5	1761-1762	.	_	_	
+
+#Text=W.
+30-1	1763-1764	W	_	_	
+30-2	1764-1765	.	_	_	
+
+#Text=E.
+31-1	1766-1767	E	_	_	
+31-2	1767-1768	.	_	_	
+
+#Text=Baxter (chairman), Mr.
+32-1	1769-1775	Baxter	_	_	
+32-2	1776-1777	(	_	_	
+32-3	1777-1785	chairman	_	_	
+32-4	1785-1786	)	_	_	
+32-5	1786-1787	,	_	_	
+32-6	1788-1790	Mr	_	_	
+32-7	1790-1791	.	_	_	
+
+#Text=J.
+33-1	1792-1793	J	_	_	
+33-2	1793-1794	.	_	_	
+
+#Text=T.
+34-1	1795-1796	T	_	_	
+34-2	1796-1797	.	_	_	
+
+#Text=Hamilton, Mr.
+35-1	1798-1806	Hamilton	_	_	
+35-2	1806-1807	,	_	_	
+35-3	1808-1810	Mr	_	_	
+35-4	1810-1811	.	_	_	
+
+#Text=Hardcastle, the Hon.
+36-1	1812-1822	Hardcastle	_	_	
+36-2	1822-1823	,	_	_	
+36-3	1824-1827	the	_	_	
+36-4	1828-1831	Hon	_	_	
+36-5	1831-1832	.	_	_	
+
+#Text=J.
+37-1	1833-1834	J	_	_	
+37-2	1834-1835	.	_	_	
+
+#Text=W.
+38-1	1836-1837	W	_	_	
+38-2	1837-1838	.	_	_	
+
+#Text=Fitzpatrick, and Lord H.
+39-1	1839-1850	Fitzpatrick	_	_	
+39-2	1850-1851	,	_	_	
+39-3	1852-1855	and	_	_	
+39-4	1856-1860	Lord	_	_	
+39-5	1861-1862	H	_	_	
+39-6	1862-1863	.	_	_	
+
+#Text=Scott.
+40-1	1864-1869	Scott	_	_	
+40-2	1869-1870	.	_	_	
+
+#Text=Mr.
+41-1	1871-1873	Mr	_	_	
+41-2	1873-1874	.	_	_	
+
+#Text=W.
+42-1	1875-1876	W	_	_	
+42-2	1876-1877	.	_	_	
+
+#Text=Durrant Cooper appeared in support of the first petition; and Mr.
+43-1	1878-1885	Durrant	_	_	
+43-2	1886-1892	Cooper	_	_	
+43-3	1893-1901	appeared	_	_	
+43-4	1902-1904	in	_	_	
+43-5	1905-1912	support	_	_	
+43-6	1913-1915	of	_	_	
+43-7	1916-1919	the	_	_	
+43-8	1920-1925	first	_	_	
+43-9	1926-1934	petition	_	_	
+43-10	1934-1935	;	_	_	
+43-11	1936-1939	and	_	_	
+43-12	1940-1942	Mr	_	_	
+43-13	1942-1943	.	_	_	
+
+#Text=Spofforth for Mr.
+44-1	1944-1953	Spofforth	_	_	
+44-2	1954-1957	for	_	_	
+44-3	1958-1960	Mr	_	_	
+44-4	1960-1961	.	_	_	
+
+#Text=Westropp.
+45-1	1962-1970	Westropp	_	_	
+45-2	1970-1971	.	_	_	
+
+#Text=Mr.
+46-1	1972-1974	Mr	_	_	
+46-2	1974-1975	.	_	_	
+
+#Text=Spofforth in support of the second petition; and Mr.
+47-1	1976-1985	Spofforth	_	_	
+47-2	1986-1988	in	_	_	
+47-3	1989-1996	support	_	_	
+47-4	1997-1999	of	_	_	
+47-5	2000-2003	the	_	_	
+47-6	2004-2010	second	_	_	
+47-7	2011-2019	petition	_	_	
+47-8	2019-2020	;	_	_	
+47-9	2021-2024	and	_	_	
+47-10	2025-2027	Mr	_	_	
+47-11	2027-2028	.	_	_	
+
+#Text=W.
+48-1	2029-2030	W	_	_	
+48-2	2030-2031	.	_	_	
+
+#Text=Durrant Cooper for Mr.
+49-1	2032-2039	Durrant	_	_	
+49-2	2040-2046	Cooper	_	_	
+49-3	2047-2050	for	_	_	
+49-4	2051-2053	Mr	_	_	
+49-5	2053-2054	.	_	_	
+
+#Text=Kinglake.
+50-1	2055-2063	Kinglake	_	_	
+50-2	2063-2064	.	_	_	
+
+#Text=No objection was made to the selection.
+51-1	2065-2067	No	_	_	
+51-2	2068-2077	objection	_	_	
+51-3	2078-2081	was	_	_	
+51-4	2082-2086	made	_	_	
+51-5	2087-2089	to	_	_	
+51-6	2090-2093	the	_	_	
+51-7	2094-2103	selection	_	_	
+51-8	2103-2104	.	_	_	

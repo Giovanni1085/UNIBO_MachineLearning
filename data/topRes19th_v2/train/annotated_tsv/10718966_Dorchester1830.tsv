@@ -1,0 +1,367 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=IPSWICH election.
+1-1	0-7	IPSWICH	https://en.wikipedia.org/wiki/Ipswich	LOC	
+1-2	8-16	election	_	_	
+1-3	16-17	.	_	_	
+
+#Text=On the re-assembling of the house in the evening.
+2-1	19-21	On	_	_	
+2-2	22-25	the	_	_	
+2-3	26-39	re-assembling	_	_	
+2-4	40-42	of	_	_	
+2-5	43-46	the	_	_	
+2-6	47-52	house	_	_	
+2-7	53-55	in	_	_	
+2-8	56-59	the	_	_	
+2-9	60-67	evening	_	_	
+2-10	67-68	.	_	_	
+
+#Text=Mr.
+3-1	69-71	Mr	_	_	
+3-2	71-72	.	_	_	
+
+#Text=Clipperton, who has been so long confined in Newgate for a breach of privilege, was brought to the bar, reprimanded, and discharged.
+4-1	73-83	Clipperton	_	_	
+4-2	83-84	,	_	_	
+4-3	85-88	who	_	_	
+4-4	89-92	has	_	_	
+4-5	93-97	been	_	_	
+4-6	98-100	so	_	_	
+4-7	101-105	long	_	_	
+4-8	106-114	confined	_	_	
+4-9	115-117	in	_	_	
+4-10	118-125	Newgate	https://en.wikipedia.org/wiki/Newgate\_Prison	BUILDING	
+4-11	126-129	for	_	_	
+4-12	130-131	a	_	_	
+4-13	132-138	breach	_	_	
+4-14	139-141	of	_	_	
+4-15	142-151	privilege	_	_	
+4-16	151-152	,	_	_	
+4-17	153-156	was	_	_	
+4-18	157-164	brought	_	_	
+4-19	165-167	to	_	_	
+4-20	168-171	the	_	_	
+4-21	172-175	bar	_	_	
+4-22	175-176	,	_	_	
+4-23	177-188	reprimanded	_	_	
+4-24	188-189	,	_	_	
+4-25	190-193	and	_	_	
+4-26	194-204	discharged	_	_	
+4-27	204-205	.	_	_	
+
+#Text=Mr.
+5-1	206-208	Mr	_	_	
+5-2	208-209	.	_	_	
+
+#Text=Hume then moved, in consequence of the evidence adduced be ore the Ipswich election Committee, that T.
+6-1	210-214	Hume	_	_	
+6-2	215-219	then	_	_	
+6-3	220-225	moved	_	_	
+6-4	225-226	,	_	_	
+6-5	227-229	in	_	_	
+6-6	230-241	consequence	_	_	
+6-7	242-244	of	_	_	
+6-8	245-248	the	_	_	
+6-9	249-257	evidence	_	_	
+6-10	258-265	adduced	_	_	
+6-11	266-268	be	_	_	
+6-12	269-272	ore	_	_	
+6-13	273-276	the	_	_	
+6-14	277-284	Ipswich	https://en.wikipedia.org/wiki/Ipswich	LOC	
+6-15	285-293	election	_	_	
+6-16	294-303	Committee	_	_	
+6-17	303-304	,	_	_	
+6-18	305-309	that	_	_	
+6-19	310-311	T	_	_	
+6-20	311-312	.	_	_	
+
+#Text=M.
+7-1	313-314	M	_	_	
+7-2	314-315	.	_	_	
+
+#Text=Keith be committed to the custody of the Serjeant at Anns.
+8-1	316-321	Keith	_	_	
+8-2	322-324	be	_	_	
+8-3	325-334	committed	_	_	
+8-4	335-337	to	_	_	
+8-5	338-341	the	_	_	
+8-6	342-349	custody	_	_	
+8-7	350-352	of	_	_	
+8-8	353-356	the	_	_	
+8-9	357-365	Serjeant	_	_	
+8-10	366-368	at	_	_	
+8-11	369-373	Anns	_	_	
+8-12	373-374	.	_	_	
+
+#Text=Some discussion ensued, and the motion was agreed to.
+9-1	375-379	Some	_	_	
+9-2	380-390	discussion	_	_	
+9-3	391-397	ensued	_	_	
+9-4	397-398	,	_	_	
+9-5	399-402	and	_	_	
+9-6	403-406	the	_	_	
+9-7	407-413	motion	_	_	
+9-8	414-417	was	_	_	
+9-9	418-424	agreed	_	_	
+9-10	425-427	to	_	_	
+9-11	427-428	.	_	_	
+
+#Text=Mr.
+10-1	429-431	Mr	_	_	
+10-2	431-432	.	_	_	
+
+#Text=Wason then presented a petition from Mr.
+11-1	433-438	Wason	_	_	
+11-2	439-443	then	_	_	
+11-3	444-453	presented	_	_	
+11-4	454-455	a	_	_	
+11-5	456-464	petition	_	_	
+11-6	465-469	from	_	_	
+11-7	470-472	Mr	_	_	
+11-8	472-473	.	_	_	
+
+#Text=Pilgrim, praying that Mr.
+12-1	474-481	Pilgrim	_	_	
+12-2	481-482	,	_	_	
+12-3	483-490	praying	_	_	
+12-4	491-495	that	_	_	
+12-5	496-498	Mr	_	_	
+12-6	498-499	.	_	_	
+
+#Text=Keith might be allowed to go to Norwich in custody either of the Serjeant-at-Arms or of the Governor of New- : gate, to give evidence upon his ( Pilgrim’s) trial.
+13-1	500-505	Keith	_	_	
+13-2	506-511	might	_	_	
+13-3	512-514	be	_	_	
+13-4	515-522	allowed	_	_	
+13-5	523-525	to	_	_	
+13-6	526-528	go	_	_	
+13-7	529-531	to	_	_	
+13-8	532-539	Norwich	https://en.wikipedia.org/wiki/Norwich	LOC	
+13-9	540-542	in	_	_	
+13-10	543-550	custody	_	_	
+13-11	551-557	either	_	_	
+13-12	558-560	of	_	_	
+13-13	561-564	the	_	_	
+13-14	565-581	Serjeant-at-Arms	_	_	
+13-15	582-584	or	_	_	
+13-16	585-587	of	_	_	
+13-17	588-591	the	_	_	
+13-18	592-600	Governor	_	_	
+13-19	601-603	of	_	_	
+13-20	604-607	New	https://en.wikipedia.org/wiki/Newgate\_Prison[1]	BUILDING[1]	
+13-21	607-608	-	https://en.wikipedia.org/wiki/Newgate\_Prison[1]	BUILDING[1]	
+13-22	609-610	:	https://en.wikipedia.org/wiki/Newgate\_Prison[1]	BUILDING[1]	
+13-23	611-615	gate	https://en.wikipedia.org/wiki/Newgate\_Prison[1]	BUILDING[1]	
+13-24	615-616	,	_	_	
+13-25	617-619	to	_	_	
+13-26	620-624	give	_	_	
+13-27	625-633	evidence	_	_	
+13-28	634-638	upon	_	_	
+13-29	639-642	his	_	_	
+13-30	643-644	(	_	_	
+13-31	645-652	Pilgrim	_	_	
+13-32	652-653	’	_	_	
+13-33	653-654	s	_	_	
+13-34	654-655	)	_	_	
+13-35	656-661	trial	_	_	
+13-36	661-662	.	_	_	
+
+#Text=Lord Stormont said that he should advise not to go on with the prosecution against Pilgrim, as it whs clear (hat, after what the house had done to prejudge the case by taking Mr.
+14-1	663-667	Lord	_	_	
+14-2	668-676	Stormont	_	_	
+14-3	677-681	said	_	_	
+14-4	682-686	that	_	_	
+14-5	687-689	he	_	_	
+14-6	690-696	should	_	_	
+14-7	697-703	advise	_	_	
+14-8	704-707	not	_	_	
+14-9	708-710	to	_	_	
+14-10	711-713	go	_	_	
+14-11	714-716	on	_	_	
+14-12	717-721	with	_	_	
+14-13	722-725	the	_	_	
+14-14	726-737	prosecution	_	_	
+14-15	738-745	against	_	_	
+14-16	746-753	Pilgrim	_	_	
+14-17	753-754	,	_	_	
+14-18	755-757	as	_	_	
+14-19	758-760	it	_	_	
+14-20	761-764	whs	_	_	
+14-21	765-770	clear	_	_	
+14-22	771-772	(	_	_	
+14-23	772-775	hat	_	_	
+14-24	775-776	,	_	_	
+14-25	777-782	after	_	_	
+14-26	783-787	what	_	_	
+14-27	788-791	the	_	_	
+14-28	792-797	house	_	_	
+14-29	798-801	had	_	_	
+14-30	802-806	done	_	_	
+14-31	807-809	to	_	_	
+14-32	810-818	prejudge	_	_	
+14-33	819-822	the	_	_	
+14-34	823-827	case	_	_	
+14-35	828-830	by	_	_	
+14-36	831-837	taking	_	_	
+14-37	838-840	Mr	_	_	
+14-38	840-841	.	_	_	
+
+#Text=Keith into custody, the prosecution must be a mere farce.
+15-1	842-847	Keith	_	_	
+15-2	848-852	into	_	_	
+15-3	853-860	custody	_	_	
+15-4	860-861	,	_	_	
+15-5	862-865	the	_	_	
+15-6	866-877	prosecution	_	_	
+15-7	878-882	must	_	_	
+15-8	883-885	be	_	_	
+15-9	886-887	a	_	_	
+15-10	888-892	mere	_	_	
+15-11	893-898	farce	_	_	
+15-12	898-899	.	_	_	
+
+#Text=Mr.
+16-1	900-902	Mr	_	_	
+16-2	902-903	.	_	_	
+
+#Text=S.
+17-1	904-905	S	_	_	
+17-2	905-906	.	_	_	
+
+#Text=Kice suggested the postponement of the subject till tomorrow ; to which Mr.
+18-1	907-911	Kice	_	_	
+18-2	912-921	suggested	_	_	
+18-3	922-925	the	_	_	
+18-4	926-938	postponement	_	_	
+18-5	939-941	of	_	_	
+18-6	942-945	the	_	_	
+18-7	946-953	subject	_	_	
+18-8	954-958	till	_	_	
+18-9	959-967	tomorrow	_	_	
+18-10	968-969	;	_	_	
+18-11	970-972	to	_	_	
+18-12	973-978	which	_	_	
+18-13	979-981	Mr	_	_	
+18-14	981-982	.	_	_	
+
+#Text=Wason did not object, but he moved that Pilgrim’s petition be printed.
+19-1	983-988	Wason	_	_	
+19-2	989-992	did	_	_	
+19-3	993-996	not	_	_	
+19-4	997-1003	object	_	_	
+19-5	1003-1004	,	_	_	
+19-6	1005-1008	but	_	_	
+19-7	1009-1011	he	_	_	
+19-8	1012-1017	moved	_	_	
+19-9	1018-1022	that	_	_	
+19-10	1023-1030	Pilgrim	_	_	
+19-11	1030-1031	’	_	_	
+19-12	1031-1032	s	_	_	
+19-13	1033-1041	petition	_	_	
+19-14	1042-1044	be	_	_	
+19-15	1045-1052	printed	_	_	
+19-16	1052-1053	.	_	_	
+
+#Text=This was opposed by Mr Frcshfield. on the ground that it would operate unfavorably against Mr.
+20-1	1054-1058	This	_	_	
+20-2	1059-1062	was	_	_	
+20-3	1063-1070	opposed	_	_	
+20-4	1071-1073	by	_	_	
+20-5	1074-1076	Mr	_	_	
+20-6	1077-1087	Frcshfield	_	_	
+20-7	1087-1088	.	_	_	
+20-8	1089-1091	on	_	_	
+20-9	1092-1095	the	_	_	
+20-10	1096-1102	ground	_	_	
+20-11	1103-1107	that	_	_	
+20-12	1108-1110	it	_	_	
+20-13	1111-1116	would	_	_	
+20-14	1117-1124	operate	_	_	
+20-15	1125-1136	unfavorably	_	_	
+20-16	1137-1144	against	_	_	
+20-17	1145-1147	Mr	_	_	
+20-18	1147-1148	.	_	_	
+
+#Text=Keith, by making the fact public, that he was so conscious of his innocence that he even petitioned the house to have his prosecutor examined.
+21-1	1149-1154	Keith	_	_	
+21-2	1154-1155	,	_	_	
+21-3	1156-1158	by	_	_	
+21-4	1159-1165	making	_	_	
+21-5	1166-1169	the	_	_	
+21-6	1170-1174	fact	_	_	
+21-7	1175-1181	public	_	_	
+21-8	1181-1182	,	_	_	
+21-9	1183-1187	that	_	_	
+21-10	1188-1190	he	_	_	
+21-11	1191-1194	was	_	_	
+21-12	1195-1197	so	_	_	
+21-13	1198-1207	conscious	_	_	
+21-14	1208-1210	of	_	_	
+21-15	1211-1214	his	_	_	
+21-16	1215-1224	innocence	_	_	
+21-17	1225-1229	that	_	_	
+21-18	1230-1232	he	_	_	
+21-19	1233-1237	even	_	_	
+21-20	1238-1248	petitioned	_	_	
+21-21	1249-1252	the	_	_	
+21-22	1253-1258	house	_	_	
+21-23	1259-1261	to	_	_	
+21-24	1262-1266	have	_	_	
+21-25	1267-1270	his	_	_	
+21-26	1271-1281	prosecutor	_	_	
+21-27	1282-1290	examined	_	_	
+21-28	1290-1291	.	_	_	
+
+#Text=The Chancellor of the Exchequer said that the house ought to proceed on its own judgment of what was right, without looking to partial consequences The petition, however, was not ordered to be primed, but was ordered to be brought under consideration to morrow.
+22-1	1292-1295	The	_	_	
+22-2	1296-1306	Chancellor	_	_	
+22-3	1307-1309	of	_	_	
+22-4	1310-1313	the	_	_	
+22-5	1314-1323	Exchequer	_	_	
+22-6	1324-1328	said	_	_	
+22-7	1329-1333	that	_	_	
+22-8	1334-1337	the	_	_	
+22-9	1338-1343	house	_	_	
+22-10	1344-1349	ought	_	_	
+22-11	1350-1352	to	_	_	
+22-12	1353-1360	proceed	_	_	
+22-13	1361-1363	on	_	_	
+22-14	1364-1367	its	_	_	
+22-15	1368-1371	own	_	_	
+22-16	1372-1380	judgment	_	_	
+22-17	1381-1383	of	_	_	
+22-18	1384-1388	what	_	_	
+22-19	1389-1392	was	_	_	
+22-20	1393-1398	right	_	_	
+22-21	1398-1399	,	_	_	
+22-22	1400-1407	without	_	_	
+22-23	1408-1415	looking	_	_	
+22-24	1416-1418	to	_	_	
+22-25	1419-1426	partial	_	_	
+22-26	1427-1439	consequences	_	_	
+22-27	1440-1443	The	_	_	
+22-28	1444-1452	petition	_	_	
+22-29	1452-1453	,	_	_	
+22-30	1454-1461	however	_	_	
+22-31	1461-1462	,	_	_	
+22-32	1463-1466	was	_	_	
+22-33	1467-1470	not	_	_	
+22-34	1471-1478	ordered	_	_	
+22-35	1479-1481	to	_	_	
+22-36	1482-1484	be	_	_	
+22-37	1485-1491	primed	_	_	
+22-38	1491-1492	,	_	_	
+22-39	1493-1496	but	_	_	
+22-40	1497-1500	was	_	_	
+22-41	1501-1508	ordered	_	_	
+22-42	1509-1511	to	_	_	
+22-43	1512-1514	be	_	_	
+22-44	1515-1522	brought	_	_	
+22-45	1523-1528	under	_	_	
+22-46	1529-1542	consideration	_	_	
+22-47	1543-1545	to	_	_	
+22-48	1546-1552	morrow	_	_	
+22-49	1552-1553	.	_	_	

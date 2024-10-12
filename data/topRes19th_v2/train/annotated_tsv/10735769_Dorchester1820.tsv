@@ -1,0 +1,509 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WEYMOUTH.
+1-1	0-8	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-2	8-9	.	_	_	
+
+#Text=R WOOD WARD, Printer, Bookbinder, • and Stationer, 69, St.
+2-1	11-12	R	_	_	
+2-2	13-17	WOOD	_	_	
+2-3	18-22	WARD	_	_	
+2-4	22-23	,	_	_	
+2-5	24-31	Printer	_	_	
+2-6	31-32	,	_	_	
+2-7	33-43	Bookbinder	_	_	
+2-8	43-44	,	_	_	
+2-9	45-46	•	_	_	
+2-10	47-50	and	_	_	
+2-11	51-60	Stationer	_	_	
+2-12	60-61	,	_	_	
+2-13	62-64	69	_	_	
+2-14	64-65	,	_	_	
+2-15	66-68	St	*[1]	STREET[1]	
+2-16	68-69	.	*[1]	STREET[1]	
+
+#Text=Mary Street, impressed with gratitude for the numerous favours conferred on him since his commencement as above, begs to offer his sincere acknowledgments ; and earnestly hopes, that by embracing every improvement, strict assiduity, and reasonable charges, lie shall ensure a share of public patronage in future.
+3-1	70-74	Mary	*[1]	STREET[1]	
+3-2	75-81	Street	*[1]	STREET[1]	
+3-3	81-82	,	_	_	
+3-4	83-92	impressed	_	_	
+3-5	93-97	with	_	_	
+3-6	98-107	gratitude	_	_	
+3-7	108-111	for	_	_	
+3-8	112-115	the	_	_	
+3-9	116-124	numerous	_	_	
+3-10	125-132	favours	_	_	
+3-11	133-142	conferred	_	_	
+3-12	143-145	on	_	_	
+3-13	146-149	him	_	_	
+3-14	150-155	since	_	_	
+3-15	156-159	his	_	_	
+3-16	160-172	commencement	_	_	
+3-17	173-175	as	_	_	
+3-18	176-181	above	_	_	
+3-19	181-182	,	_	_	
+3-20	183-187	begs	_	_	
+3-21	188-190	to	_	_	
+3-22	191-196	offer	_	_	
+3-23	197-200	his	_	_	
+3-24	201-208	sincere	_	_	
+3-25	209-224	acknowledgments	_	_	
+3-26	225-226	;	_	_	
+3-27	227-230	and	_	_	
+3-28	231-240	earnestly	_	_	
+3-29	241-246	hopes	_	_	
+3-30	246-247	,	_	_	
+3-31	248-252	that	_	_	
+3-32	253-255	by	_	_	
+3-33	256-265	embracing	_	_	
+3-34	266-271	every	_	_	
+3-35	272-283	improvement	_	_	
+3-36	283-284	,	_	_	
+3-37	285-291	strict	_	_	
+3-38	292-301	assiduity	_	_	
+3-39	301-302	,	_	_	
+3-40	303-306	and	_	_	
+3-41	307-317	reasonable	_	_	
+3-42	318-325	charges	_	_	
+3-43	325-326	,	_	_	
+3-44	327-330	lie	_	_	
+3-45	331-336	shall	_	_	
+3-46	337-343	ensure	_	_	
+3-47	344-345	a	_	_	
+3-48	346-351	share	_	_	
+3-49	352-354	of	_	_	
+3-50	355-361	public	_	_	
+3-51	362-371	patronage	_	_	
+3-52	372-374	in	_	_	
+3-53	375-381	future	_	_	
+3-54	381-382	.	_	_	
+
+#Text=Printing of every description expeditiously executed in the best style.
+4-1	383-391	Printing	_	_	
+4-2	392-394	of	_	_	
+4-3	395-400	every	_	_	
+4-4	401-412	description	_	_	
+4-5	413-426	expeditiously	_	_	
+4-6	427-435	executed	_	_	
+4-7	436-438	in	_	_	
+4-8	439-442	the	_	_	
+4-9	443-447	best	_	_	
+4-10	448-453	style	_	_	
+4-11	453-454	.	_	_	
+
+#Text=BOOKS BOUND TO PATTERN.
+5-1	455-460	BOOKS	_	_	
+5-2	461-466	BOUND	_	_	
+5-3	467-469	TO	_	_	
+5-4	470-477	PATTERN	_	_	
+5-5	477-478	.	_	_	
+
+#Text=Orders for Periodical Publications punctually procured Advertisements received for, and transmitted to any Xcwsjmper in the United Kingdom.
+6-1	480-486	Orders	_	_	
+6-2	487-490	for	_	_	
+6-3	491-501	Periodical	_	_	
+6-4	502-514	Publications	_	_	
+6-5	515-525	punctually	_	_	
+6-6	526-534	procured	_	_	
+6-7	535-549	Advertisements	_	_	
+6-8	550-558	received	_	_	
+6-9	559-562	for	_	_	
+6-10	562-563	,	_	_	
+6-11	564-567	and	_	_	
+6-12	568-579	transmitted	_	_	
+6-13	580-582	to	_	_	
+6-14	583-586	any	_	_	
+6-15	587-596	Xcwsjmper	_	_	
+6-16	597-599	in	_	_	
+6-17	600-603	the	_	_	
+6-18	604-610	United	https://en.wikipedia.org/wiki/United\_Kingdom[2]	LOC[2]	
+6-19	611-618	Kingdom	https://en.wikipedia.org/wiki/United\_Kingdom[2]	LOC[2]	
+6-20	618-619	.	_	_	
+
+#Text=A Gexeual Assortment of Stationary, School and Children’s Books, &,c. tS:c.
+7-1	621-622	A	_	_	
+7-2	623-630	Gexeual	_	_	
+7-3	631-641	Assortment	_	_	
+7-4	642-644	of	_	_	
+7-5	645-655	Stationary	_	_	
+7-6	655-656	,	_	_	
+7-7	657-663	School	_	_	
+7-8	664-667	and	_	_	
+7-9	668-676	Children	_	_	
+7-10	676-677	’	_	_	
+7-11	677-678	s	_	_	
+7-12	679-684	Books	_	_	
+7-13	684-685	,	_	_	
+7-14	686-687	&	_	_	
+7-15	687-688	,	_	_	
+7-16	688-689	c	_	_	
+7-17	689-690	.	_	_	
+7-18	691-693	tS	_	_	
+7-19	693-694	:	_	_	
+7-20	694-695	c	_	_	
+7-21	695-696	.	_	_	
+
+#Text=THE FOLLOWING PATENT MEDICINES, &c., CONSTANTLY ON SALE: 
+#Text=Simpson’s VegetnMp Pills.
+8-1	698-701	THE	_	_	
+8-2	702-711	FOLLOWING	_	_	
+8-3	712-718	PATENT	_	_	
+8-4	719-728	MEDICINES	_	_	
+8-5	728-729	,	_	_	
+8-6	730-731	&	_	_	
+8-7	731-732	c	_	_	
+8-8	732-733	.	_	_	
+8-9	733-734	,	_	_	
+8-10	735-745	CONSTANTLY	_	_	
+8-11	746-748	ON	_	_	
+8-12	749-753	SALE	_	_	
+8-13	753-754	:	_	_	
+8-14	756-763	Simpson	_	_	
+8-15	763-764	’	_	_	
+8-16	764-765	s	_	_	
+8-17	766-774	VegetnMp	_	_	
+8-18	775-780	Pills	_	_	
+8-19	780-781	.	_	_	
+
+#Text=Tooth Powder.
+9-1	783-788	Tooth	_	_	
+9-2	789-795	Powder	_	_	
+9-3	795-796	.	_	_	
+
+#Text=Sydenhams Antihilious Pills.
+10-1	797-806	Sydenhams	_	_	
+10-2	807-818	Antihilious	_	_	
+10-3	819-824	Pills	_	_	
+10-4	824-825	.	_	_	
+
+#Text=Mexican Corn Piaster.
+11-1	826-833	Mexican	_	_	
+11-2	834-838	Corn	_	_	
+11-3	839-846	Piaster	_	_	
+11-4	846-847	.	_	_	
+
+#Text=Leakes Pill*.
+12-1	848-854	Leakes	_	_	
+12-2	855-859	Pill	_	_	
+12-3	859-860	*	_	_	
+12-4	860-861	.	_	_	
+
+#Text=Widow Welch’s Pills.
+13-1	862-867	Widow	_	_	
+13-2	868-873	Welch	_	_	
+13-3	873-874	’	_	_	
+13-4	874-875	s	_	_	
+13-5	876-881	Pills	_	_	
+13-6	881-882	.	_	_	
+
+#Text=Snook’s Pills.
+14-1	883-888	Snook	_	_	
+14-2	888-889	’	_	_	
+14-3	889-890	s	_	_	
+14-4	891-896	Pills	_	_	
+14-5	896-897	.	_	_	
+
+#Text=Styles’s Soda Powders.
+15-1	898-904	Styles	_	_	
+15-2	904-905	’	_	_	
+15-3	905-906	s	_	_	
+15-4	907-911	Soda	_	_	
+15-5	912-919	Powders	_	_	
+15-6	919-920	.	_	_	
+
+#Text=Gift’ord’s Antibilious Pills.
+16-1	921-925	Gift	_	_	
+16-2	925-926	’	_	_	
+16-3	926-929	ord	_	_	
+16-4	929-930	’	_	_	
+16-5	930-931	s	_	_	
+16-6	932-943	Antibilious	_	_	
+16-7	944-949	Pills	_	_	
+16-8	949-950	.	_	_	
+
+#Text=Tooth Powder.
+17-1	951-956	Tooth	_	_	
+17-2	957-963	Powder	_	_	
+17-3	963-964	.	_	_	
+
+#Text=I pec.
+18-1	965-966	I	_	_	
+18-2	967-970	pec	_	_	
+18-3	970-971	.	_	_	
+
+#Text=Lozenges.
+19-1	972-980	Lozenges	_	_	
+19-2	980-981	.	_	_	
+
+#Text=Scouring Drops.
+20-1	982-990	Scouring	_	_	
+20-2	991-996	Drops	_	_	
+20-3	996-997	.	_	_	
+
+#Text=Essence of Lemons.
+21-1	998-1005	Essence	_	_	
+21-2	1006-1008	of	_	_	
+21-3	1009-1015	Lemons	_	_	
+21-4	1015-1016	.	_	_	
+
+#Text=Acid of Lemons.
+22-1	1017-1021	Acid	_	_	
+22-2	1022-1024	of	_	_	
+22-3	1025-1031	Lemons	_	_	
+22-4	1031-1032	.	_	_	
+
+#Text=Fruit Lozenges.
+23-1	1033-1038	Fruit	_	_	
+23-2	1039-1047	Lozenges	_	_	
+23-3	1047-1048	.	_	_	
+
+#Text=Marking ink.
+24-1	1049-1056	Marking	_	_	
+24-2	1057-1060	ink	_	_	
+24-3	1060-1061	.	_	_	
+
+#Text=Liddon’s Steel Lozenges.
+25-1	1062-1068	Liddon	_	_	
+25-2	1068-1069	’	_	_	
+25-3	1069-1070	s	_	_	
+25-4	1071-1076	Steel	_	_	
+25-5	1077-1085	Lozenges	_	_	
+25-6	1085-1086	.	_	_	
+
+#Text=Roberts’s Poor Man’s Friend. ......
+26-1	1087-1094	Roberts	_	_	
+26-2	1094-1095	’	_	_	
+26-3	1095-1096	s	_	_	
+26-4	1097-1101	Poor	_	_	
+26-5	1102-1105	Man	_	_	
+26-6	1105-1106	’	_	_	
+26-7	1106-1107	s	_	_	
+26-8	1108-1114	Friend	_	_	
+26-9	1114-1115	.	_	_	
+26-10	1116-1117	.	_	_	
+26-11	1117-1118	.	_	_	
+26-12	1118-1119	.	_	_	
+26-13	1119-1120	.	_	_	
+26-14	1120-1121	.	_	_	
+26-15	1121-1122	.	_	_	
+
+#Text=Pills.
+27-1	1123-1128	Pills	_	_	
+27-2	1128-1129	.	_	_	
+
+#Text=Towers’s Tonic Pills.
+28-1	1130-1136	Towers	_	_	
+28-2	1136-1137	’	_	_	
+28-3	1137-1138	s	_	_	
+28-4	1139-1144	Tonic	_	_	
+28-5	1145-1150	Pills	_	_	
+28-6	1150-1151	.	_	_	
+
+#Text=Atkinson’s Soap.
+29-1	1152-1160	Atkinson	_	_	
+29-2	1160-1161	’	_	_	
+29-3	1161-1162	s	_	_	
+29-4	1163-1167	Soap	_	_	
+29-5	1167-1168	.	_	_	
+
+#Text=Hears Grease. ........
+30-1	1169-1174	Hears	_	_	
+30-2	1175-1181	Grease	_	_	
+30-3	1181-1182	.	_	_	
+30-4	1183-1184	.	_	_	
+30-5	1184-1185	.	_	_	
+30-6	1185-1186	.	_	_	
+30-7	1186-1187	.	_	_	
+30-8	1187-1188	.	_	_	
+30-9	1188-1189	.	_	_	
+30-10	1189-1190	.	_	_	
+30-11	1190-1191	.	_	_	
+
+#Text=Essence of Lavender.
+31-1	1192-1199	Essence	_	_	
+31-2	1200-1202	of	_	_	
+31-3	1203-1211	Lavender	_	_	
+31-4	1211-1212	.	_	_	
+
+#Text=Vegetable Die.
+32-1	1213-1222	Vegetable	_	_	
+32-2	1223-1226	Die	_	_	
+32-3	1226-1227	.	_	_	
+
+#Text=HLACKING OF AL 
+#Text=Hudson’s Tooth Powder. ......
+33-1	1228-1236	HLACKING	_	_	
+33-2	1237-1239	OF	_	_	
+33-3	1240-1242	AL	_	_	
+33-4	1244-1250	Hudson	_	_	
+33-5	1250-1251	’	_	_	
+33-6	1251-1252	s	_	_	
+33-7	1253-1258	Tooth	_	_	
+33-8	1259-1265	Powder	_	_	
+33-9	1265-1266	.	_	_	
+33-10	1267-1268	.	_	_	
+33-11	1268-1269	.	_	_	
+33-12	1269-1270	.	_	_	
+33-13	1270-1271	.	_	_	
+33-14	1271-1272	.	_	_	
+33-15	1272-1273	.	_	_	
+
+#Text=Tincture.
+34-1	1274-1282	Tincture	_	_	
+34-2	1282-1283	.	_	_	
+
+#Text=Bleaching Liquid.
+35-1	1284-1293	Bleaching	_	_	
+35-2	1294-1300	Liquid	_	_	
+35-3	1300-1301	.	_	_	
+
+#Text=Groolcs Gout Mcdiciue.
+36-1	1302-1309	Groolcs	_	_	
+36-2	1310-1314	Gout	_	_	
+36-3	1315-1323	Mcdiciue	_	_	
+36-4	1323-1324	.	_	_	
+
+#Text=Daffy’s Elixir.
+37-1	1325-1330	Daffy	_	_	
+37-2	1330-1331	’	_	_	
+37-3	1331-1332	s	_	_	
+37-4	1333-1339	Elixir	_	_	
+37-5	1339-1340	.	_	_	
+
+#Text=Hunt’s Pills.
+38-1	1341-1345	Hunt	_	_	
+38-2	1345-1346	’	_	_	
+38-3	1346-1347	s	_	_	
+38-4	1348-1353	Pills	_	_	
+38-5	1353-1354	.	_	_	
+
+#Text=Friar’s Balsam.
+39-1	1355-1360	Friar	_	_	
+39-2	1360-1361	’	_	_	
+39-3	1361-1362	s	_	_	
+39-4	1363-1369	Balsam	_	_	
+39-5	1369-1370	.	_	_	
+
+#Text=Oxley’s Essence of Ginger.
+40-1	1371-1376	Oxley	_	_	
+40-2	1376-1377	’	_	_	
+40-3	1377-1378	s	_	_	
+40-4	1379-1386	Essence	_	_	
+40-5	1387-1389	of	_	_	
+40-6	1390-1396	Ginger	_	_	
+40-7	1396-1397	.	_	_	
+
+#Text=Williams’s Tonic Wine.
+41-1	1398-1406	Williams	_	_	
+41-2	1406-1407	’	_	_	
+41-3	1407-1408	s	_	_	
+41-4	1409-1414	Tonic	_	_	
+41-5	1415-1419	Wine	_	_	
+41-6	1419-1420	.	_	_	
+
+#Text=Prince’s Russia Oil.
+42-1	1421-1427	Prince	_	_	
+42-2	1427-1428	’	_	_	
+42-3	1428-1429	s	_	_	
+42-4	1430-1436	Russia	_	_	
+42-5	1437-1440	Oil	_	_	
+42-6	1440-1441	.	_	_	
+
+#Text=Smyth’s Drops.
+43-1	1442-1447	Smyth	_	_	
+43-2	1447-1448	’	_	_	
+43-3	1448-1449	s	_	_	
+43-4	1450-1455	Drops	_	_	
+43-5	1455-1456	.	_	_	
+
+#Text=Leamington Salts, Leeming Essence.
+44-1	1457-1467	Leamington	_	_	
+44-2	1468-1473	Salts	_	_	
+44-3	1473-1474	,	_	_	
+44-4	1475-1482	Leeming	_	_	
+44-5	1483-1490	Essence	_	_	
+44-6	1490-1491	.	_	_	
+
+#Text=Bolt’s Tooth Powder.
+45-1	1492-1496	Bolt	_	_	
+45-2	1496-1497	’	_	_	
+45-3	1497-1498	s	_	_	
+45-4	1499-1504	Tooth	_	_	
+45-5	1505-1511	Powder	_	_	
+45-6	1511-1512	.	_	_	
+
+#Text=Golden Senativo Salve Corn Salve.
+46-1	1513-1519	Golden	_	_	
+46-2	1520-1528	Senativo	_	_	
+46-3	1529-1534	Salve	_	_	
+46-4	1535-1539	Corn	_	_	
+46-5	1540-1545	Salve	_	_	
+46-6	1545-1546	.	_	_	
+
+#Text=(lowland’s Lotion.
+47-1	1547-1548	(	_	_	
+47-2	1548-1555	lowland	_	_	
+47-3	1555-1556	’	_	_	
+47-4	1556-1557	s	_	_	
+47-5	1558-1564	Lotion	_	_	
+47-6	1564-1565	.	_	_	
+
+#Text=Dredge’s Heal All.
+48-1	1566-1572	Dredge	_	_	
+48-2	1572-1573	’	_	_	
+48-3	1573-1574	s	_	_	
+48-4	1575-1579	Heal	_	_	
+48-5	1580-1583	All	_	_	
+48-6	1583-1584	.	_	_	
+
+#Text=Barclay’s Itch Ointment.
+49-1	1585-1592	Barclay	_	_	
+49-2	1592-1593	’	_	_	
+49-3	1593-1594	s	_	_	
+49-4	1595-1599	Itch	_	_	
+49-5	1600-1608	Ointment	_	_	
+49-6	1608-1609	.	_	_	
+
+#Text=Spavin Liniment.
+50-1	1610-1616	Spavin	_	_	
+50-2	1617-1625	Liniment	_	_	
+50-3	1625-1626	.	_	_	
+
+#Text=Balsam of Honey.
+51-1	1627-1633	Balsam	_	_	
+51-2	1634-1636	of	_	_	
+51-3	1637-1642	Honey	_	_	
+51-4	1642-1643	.	_	_	
+
+#Text=Spilsfyury’s Drops.
+52-1	1644-1654	Spilsfyury	_	_	
+52-2	1654-1655	’	_	_	
+52-3	1655-1656	s	_	_	
+52-4	1657-1662	Drops	_	_	
+52-5	1662-1663	.	_	_	
+
+#Text=Rowland’s Macassar Oil.
+53-1	1664-1671	Rowland	_	_	
+53-2	1671-1672	’	_	_	
+53-3	1672-1673	s	_	_	
+53-4	1674-1682	Macassar	_	_	
+53-5	1683-1686	Oil	_	_	
+53-6	1686-1687	.	_	_	
+
+#Text=&c.
+54-1	1689-1690	&	_	_	
+54-2	1690-1691	c	_	_	
+54-3	1691-1692	.	_	_	
+
+#Text=&c. ike.
+55-1	1693-1694	&	_	_	
+55-2	1694-1695	c	_	_	
+55-3	1695-1696	.	_	_	
+55-4	1697-1700	ike	_	_	
+55-5	1700-1701	.	_	_	
+
+#Text=L DESCRIPTIONS
+56-1	1702-1703	L	_	_	
+56-2	1704-1716	DESCRIPTIONS	_	_	

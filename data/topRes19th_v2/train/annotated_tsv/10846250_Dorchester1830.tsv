@@ -1,0 +1,297 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=A highly Desirable and Genteel CIIEDDINGTON, near Beaminster, Dorset,Ui 
+#Text=TO BK LET, For a Terra of Years, with or without Eight Acres of Fertile Land, and Possession had at Lady Day next, consisting of 
+#Text=ALL that Commodious COUNTRY RESIDENCE, replete with every convenience, situated on a particularly healthy and elevated spot, commanding a most ex tensive and delightful prospect over a beautiful part of Somersetshire, as well as a recluse woody scene from the back front.
+1-1	0-1	A	_	_	
+1-2	2-8	highly	_	_	
+1-3	9-18	Desirable	_	_	
+1-4	19-22	and	_	_	
+1-5	23-30	Genteel	_	_	
+1-6	31-43	CIIEDDINGTON	*	LOC	
+1-7	43-44	,	_	_	
+1-8	45-49	near	_	_	
+1-9	50-60	Beaminster	https://en.wikipedia.org/wiki/Beaminster	LOC	
+1-10	60-61	,	_	_	
+1-11	62-68	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+1-12	68-69	,	_	_	
+1-13	69-71	Ui	_	_	
+1-14	73-75	TO	_	_	
+1-15	76-78	BK	_	_	
+1-16	79-82	LET	_	_	
+1-17	82-83	,	_	_	
+1-18	84-87	For	_	_	
+1-19	88-89	a	_	_	
+1-20	90-95	Terra	_	_	
+1-21	96-98	of	_	_	
+1-22	99-104	Years	_	_	
+1-23	104-105	,	_	_	
+1-24	106-110	with	_	_	
+1-25	111-113	or	_	_	
+1-26	114-121	without	_	_	
+1-27	122-127	Eight	_	_	
+1-28	128-133	Acres	_	_	
+1-29	134-136	of	_	_	
+1-30	137-144	Fertile	_	_	
+1-31	145-149	Land	_	_	
+1-32	149-150	,	_	_	
+1-33	151-154	and	_	_	
+1-34	155-165	Possession	_	_	
+1-35	166-169	had	_	_	
+1-36	170-172	at	_	_	
+1-37	173-177	Lady	_	_	
+1-38	178-181	Day	_	_	
+1-39	182-186	next	_	_	
+1-40	186-187	,	_	_	
+1-41	188-198	consisting	_	_	
+1-42	199-201	of	_	_	
+1-43	203-206	ALL	_	_	
+1-44	207-211	that	_	_	
+1-45	212-222	Commodious	_	_	
+1-46	223-230	COUNTRY	_	_	
+1-47	231-240	RESIDENCE	_	_	
+1-48	240-241	,	_	_	
+1-49	242-249	replete	_	_	
+1-50	250-254	with	_	_	
+1-51	255-260	every	_	_	
+1-52	261-272	convenience	_	_	
+1-53	272-273	,	_	_	
+1-54	274-282	situated	_	_	
+1-55	283-285	on	_	_	
+1-56	286-287	a	_	_	
+1-57	288-300	particularly	_	_	
+1-58	301-308	healthy	_	_	
+1-59	309-312	and	_	_	
+1-60	313-321	elevated	_	_	
+1-61	322-326	spot	_	_	
+1-62	326-327	,	_	_	
+1-63	328-338	commanding	_	_	
+1-64	339-340	a	_	_	
+1-65	341-345	most	_	_	
+1-66	346-348	ex	_	_	
+1-67	349-356	tensive	_	_	
+1-68	357-360	and	_	_	
+1-69	361-371	delightful	_	_	
+1-70	372-380	prospect	_	_	
+1-71	381-385	over	_	_	
+1-72	386-387	a	_	_	
+1-73	388-397	beautiful	_	_	
+1-74	398-402	part	_	_	
+1-75	403-405	of	_	_	
+1-76	406-419	Somersetshire	https://en.wikipedia.org/wiki/Somerset	LOC	
+1-77	419-420	,	_	_	
+1-78	421-423	as	_	_	
+1-79	424-428	well	_	_	
+1-80	429-431	as	_	_	
+1-81	432-433	a	_	_	
+1-82	434-441	recluse	_	_	
+1-83	442-447	woody	_	_	
+1-84	448-453	scene	_	_	
+1-85	454-458	from	_	_	
+1-86	459-462	the	_	_	
+1-87	463-467	back	_	_	
+1-88	468-473	front	_	_	
+1-89	473-474	.	_	_	
+
+#Text=The House contains dining and sitting rooms, breakfast parlour, study, kitchen, and all useful offices on the ground floor, and nine comfortable, airy bed-rooms.
+2-1	476-479	The	_	_	
+2-2	480-485	House	_	_	
+2-3	486-494	contains	_	_	
+2-4	495-501	dining	_	_	
+2-5	502-505	and	_	_	
+2-6	506-513	sitting	_	_	
+2-7	514-519	rooms	_	_	
+2-8	519-520	,	_	_	
+2-9	521-530	breakfast	_	_	
+2-10	531-538	parlour	_	_	
+2-11	538-539	,	_	_	
+2-12	540-545	study	_	_	
+2-13	545-546	,	_	_	
+2-14	547-554	kitchen	_	_	
+2-15	554-555	,	_	_	
+2-16	556-559	and	_	_	
+2-17	560-563	all	_	_	
+2-18	564-570	useful	_	_	
+2-19	571-578	offices	_	_	
+2-20	579-581	on	_	_	
+2-21	582-585	the	_	_	
+2-22	586-592	ground	_	_	
+2-23	593-598	floor	_	_	
+2-24	598-599	,	_	_	
+2-25	600-603	and	_	_	
+2-26	604-608	nine	_	_	
+2-27	609-620	comfortable	_	_	
+2-28	620-621	,	_	_	
+2-29	622-626	airy	_	_	
+2-30	627-636	bed-rooms	_	_	
+2-31	636-637	.	_	_	
+
+#Text=There is also a capital three-stall Stable, Coach-House, GreenHouse, a Lawn, Shrubbery, and fruitful Garden, with a detached Cottage.
+3-1	638-643	There	_	_	
+3-2	644-646	is	_	_	
+3-3	647-651	also	_	_	
+3-4	652-653	a	_	_	
+3-5	654-661	capital	_	_	
+3-6	662-673	three-stall	_	_	
+3-7	674-680	Stable	_	_	
+3-8	680-681	,	_	_	
+3-9	682-693	Coach-House	_	_	
+3-10	693-694	,	_	_	
+3-11	695-705	GreenHouse	_	_	
+3-12	705-706	,	_	_	
+3-13	707-708	a	_	_	
+3-14	709-713	Lawn	_	_	
+3-15	713-714	,	_	_	
+3-16	715-724	Shrubbery	_	_	
+3-17	724-725	,	_	_	
+3-18	726-729	and	_	_	
+3-19	730-738	fruitful	_	_	
+3-20	739-745	Garden	_	_	
+3-21	745-746	,	_	_	
+3-22	747-751	with	_	_	
+3-23	752-753	a	_	_	
+3-24	754-762	detached	_	_	
+3-25	763-770	Cottage	_	_	
+3-26	770-771	.	_	_	
+
+#Text=The above Premises are well adapted for the reception of a genteel family, fond of retirement.
+4-1	772-775	The	_	_	
+4-2	776-781	above	_	_	
+4-3	782-790	Premises	_	_	
+4-4	791-794	are	_	_	
+4-5	795-799	well	_	_	
+4-6	800-807	adapted	_	_	
+4-7	808-811	for	_	_	
+4-8	812-815	the	_	_	
+4-9	816-825	reception	_	_	
+4-10	826-828	of	_	_	
+4-11	829-830	a	_	_	
+4-12	831-838	genteel	_	_	
+4-13	839-845	family	_	_	
+4-14	845-846	,	_	_	
+4-15	847-851	fond	_	_	
+4-16	852-854	of	_	_	
+4-17	855-865	retirement	_	_	
+4-18	865-866	.	_	_	
+
+#Text=The building is in the Cottage Style, and has every convenience to recommend it, is within three miles of Bearainster, and five from Crewkerne, both good market towns; several packs of Harriers are kept in the neighbourhood, and the celebrated Fox Hounds of Mr.
+5-1	867-870	The	_	_	
+5-2	871-879	building	_	_	
+5-3	880-882	is	_	_	
+5-4	883-885	in	_	_	
+5-5	886-889	the	_	_	
+5-6	890-897	Cottage	_	_	
+5-7	898-903	Style	_	_	
+5-8	903-904	,	_	_	
+5-9	905-908	and	_	_	
+5-10	909-912	has	_	_	
+5-11	913-918	every	_	_	
+5-12	919-930	convenience	_	_	
+5-13	931-933	to	_	_	
+5-14	934-943	recommend	_	_	
+5-15	944-946	it	_	_	
+5-16	946-947	,	_	_	
+5-17	948-950	is	_	_	
+5-18	951-957	within	_	_	
+5-19	958-963	three	_	_	
+5-20	964-969	miles	_	_	
+5-21	970-972	of	_	_	
+5-22	973-984	Bearainster	https://en.wikipedia.org/wiki/Beaminster	LOC	
+5-23	984-985	,	_	_	
+5-24	986-989	and	_	_	
+5-25	990-994	five	_	_	
+5-26	995-999	from	_	_	
+5-27	1000-1009	Crewkerne	https://en.wikipedia.org/wiki/Crewkerne	LOC	
+5-28	1009-1010	,	_	_	
+5-29	1011-1015	both	_	_	
+5-30	1016-1020	good	_	_	
+5-31	1021-1027	market	_	_	
+5-32	1028-1033	towns	_	_	
+5-33	1033-1034	;	_	_	
+5-34	1035-1042	several	_	_	
+5-35	1043-1048	packs	_	_	
+5-36	1049-1051	of	_	_	
+5-37	1052-1060	Harriers	_	_	
+5-38	1061-1064	are	_	_	
+5-39	1065-1069	kept	_	_	
+5-40	1070-1072	in	_	_	
+5-41	1073-1076	the	_	_	
+5-42	1077-1090	neighbourhood	_	_	
+5-43	1090-1091	,	_	_	
+5-44	1092-1095	and	_	_	
+5-45	1096-1099	the	_	_	
+5-46	1100-1110	celebrated	_	_	
+5-47	1111-1114	Fox	_	_	
+5-48	1115-1121	Hounds	_	_	
+5-49	1122-1124	of	_	_	
+5-50	1125-1127	Mr	_	_	
+5-51	1127-1128	.	_	_	
+
+#Text=Farquharson are within nine miles of the place.
+6-1	1129-1140	Farquharson	_	_	
+6-2	1141-1144	are	_	_	
+6-3	1145-1151	within	_	_	
+6-4	1152-1156	nine	_	_	
+6-5	1157-1162	miles	_	_	
+6-6	1163-1165	of	_	_	
+6-7	1166-1169	the	_	_	
+6-8	1170-1175	place	_	_	
+6-9	1175-1176	.	_	_	
+
+#Text=Any further particulars may be known by applying to Mr.
+7-1	1177-1180	Any	_	_	
+7-2	1181-1188	further	_	_	
+7-3	1189-1200	particulars	_	_	
+7-4	1201-1204	may	_	_	
+7-5	1205-1207	be	_	_	
+7-6	1208-1213	known	_	_	
+7-7	1214-1216	by	_	_	
+7-8	1217-1225	applying	_	_	
+7-9	1226-1228	to	_	_	
+7-10	1229-1231	Mr	_	_	
+7-11	1231-1232	.	_	_	
+
+#Text=W.
+8-1	1233-1234	W	_	_	
+8-2	1234-1235	.	_	_	
+
+#Text=J.
+9-1	1236-1237	J	_	_	
+9-2	1237-1238	.	_	_	
+
+#Text=HILL, Estate and House Agent, Weymouth.
+10-1	1239-1243	HILL	_	_	
+10-2	1243-1244	,	_	_	
+10-3	1245-1251	Estate	_	_	
+10-4	1252-1255	and	_	_	
+10-5	1256-1261	House	_	_	
+10-6	1262-1267	Agent	_	_	
+10-7	1267-1268	,	_	_	
+10-8	1269-1277	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+10-9	1277-1278	.	_	_	
+
+#Text=A servant b on the premises to show them.
+11-1	1279-1280	A	_	_	
+11-2	1281-1288	servant	_	_	
+11-3	1289-1290	b	_	_	
+11-4	1291-1293	on	_	_	
+11-5	1294-1297	the	_	_	
+11-6	1298-1306	premises	_	_	
+11-7	1307-1309	to	_	_	
+11-8	1310-1314	show	_	_	
+11-9	1315-1319	them	_	_	
+11-10	1319-1320	.	_	_	
+
+#Text=N.B.
+12-1	1321-1324	N.B	_	_	
+12-2	1324-1325	.	_	_	
+
+#Text=All letters must be post-paid.
+13-1	1326-1329	All	_	_	
+13-2	1330-1337	letters	_	_	
+13-3	1338-1342	must	_	_	
+13-4	1343-1345	be	_	_	
+13-5	1346-1355	post-paid	_	_	
+13-6	1355-1356	.	_	_	

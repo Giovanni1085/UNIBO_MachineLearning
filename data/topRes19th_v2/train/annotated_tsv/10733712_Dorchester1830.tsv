@@ -1,0 +1,460 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=WEYMOUTH:—W£DN ESDA V, April 4 
+#Text=Fashionable Arrivals.
+1-1	0-8	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-2	8-9	:	_	_	
+1-3	9-10	—	_	_	
+1-4	10-11	W	_	_	
+1-5	11-12	£	_	_	
+1-6	12-14	DN	_	_	
+1-7	15-19	ESDA	_	_	
+1-8	20-21	V	_	_	
+1-9	21-22	,	_	_	
+1-10	23-28	April	_	_	
+1-11	29-30	4	_	_	
+1-12	32-43	Fashionable	_	_	
+1-13	44-52	Arrivals	_	_	
+1-14	52-53	.	_	_	
+
+#Text=—Lady Mulcaster.
+2-1	53-54	—	_	_	
+2-2	54-58	Lady	_	_	
+2-3	59-68	Mulcaster	_	_	
+2-4	68-69	.	_	_	
+
+#Text=Sir F. and Lady Cooper, Dr.
+3-1	70-73	Sir	_	_	
+3-2	74-75	F	_	_	
+3-3	75-76	.	_	_	
+3-4	77-80	and	_	_	
+3-5	81-85	Lady	_	_	
+3-6	86-92	Cooper	_	_	
+3-7	92-93	,	_	_	
+3-8	94-96	Dr	_	_	
+3-9	96-97	.	_	_	
+
+#Text=Jcwne, Colonel Cleaveley, Captains Harvey, Scudamore and Alardonuld, Kevs.
+4-1	98-103	Jcwne	_	_	
+4-2	103-104	,	_	_	
+4-3	105-112	Colonel	_	_	
+4-4	113-122	Cleaveley	_	_	
+4-5	122-123	,	_	_	
+4-6	124-132	Captains	_	_	
+4-7	133-139	Harvey	_	_	
+4-8	139-140	,	_	_	
+4-9	141-150	Scudamore	_	_	
+4-10	151-154	and	_	_	
+4-11	155-165	Alardonuld	_	_	
+4-12	165-166	,	_	_	
+4-13	167-171	Kevs	_	_	
+4-14	171-172	.	_	_	
+
+#Text=Mr.
+5-1	173-175	Mr	_	_	
+5-2	175-176	.	_	_	
+
+#Text=Farquharson, Case, Gat ter, Hammond.
+6-1	177-188	Farquharson	_	_	
+6-2	188-189	,	_	_	
+6-3	190-194	Case	_	_	
+6-4	194-195	,	_	_	
+6-5	196-199	Gat	_	_	
+6-6	200-203	ter	_	_	
+6-7	203-204	,	_	_	
+6-8	205-212	Hammond	_	_	
+6-9	212-213	.	_	_	
+
+#Text=Wickham, Marinden, Mrs.
+7-1	214-221	Wickham	_	_	
+7-2	221-222	,	_	_	
+7-3	223-231	Marinden	_	_	
+7-4	231-232	,	_	_	
+7-5	233-236	Mrs	_	_	
+7-6	236-237	.	_	_	
+
+#Text=Wentworth, Brooks, Sandley, Hall, Williams, Golding, Trent, Summers, Rugby, Manington, Norm, Swetland, Mias Floyer, Mills, Lumiey, Hadclilfe, Mr. and Mrs.
+8-1	238-247	Wentworth	_	_	
+8-2	247-248	,	_	_	
+8-3	249-255	Brooks	_	_	
+8-4	255-256	,	_	_	
+8-5	257-264	Sandley	_	_	
+8-6	264-265	,	_	_	
+8-7	266-270	Hall	_	_	
+8-8	270-271	,	_	_	
+8-9	272-280	Williams	_	_	
+8-10	280-281	,	_	_	
+8-11	282-289	Golding	_	_	
+8-12	289-290	,	_	_	
+8-13	291-296	Trent	_	_	
+8-14	296-297	,	_	_	
+8-15	298-305	Summers	_	_	
+8-16	305-306	,	_	_	
+8-17	307-312	Rugby	_	_	
+8-18	312-313	,	_	_	
+8-19	314-323	Manington	_	_	
+8-20	323-324	,	_	_	
+8-21	325-329	Norm	_	_	
+8-22	329-330	,	_	_	
+8-23	331-339	Swetland	_	_	
+8-24	339-340	,	_	_	
+8-25	341-345	Mias	_	_	
+8-26	346-352	Floyer	_	_	
+8-27	352-353	,	_	_	
+8-28	354-359	Mills	_	_	
+8-29	359-360	,	_	_	
+8-30	361-367	Lumiey	_	_	
+8-31	367-368	,	_	_	
+8-32	369-378	Hadclilfe	_	_	
+8-33	378-379	,	_	_	
+8-34	380-382	Mr	_	_	
+8-35	382-383	.	_	_	
+8-36	384-387	and	_	_	
+8-37	388-391	Mrs	_	_	
+8-38	391-392	.	_	_	
+
+#Text=Easton, George, Walton, Dudley, Bentley, Huntley, Saunders, Young, Mr.
+9-1	393-399	Easton	_	_	
+9-2	399-400	,	_	_	
+9-3	401-407	George	_	_	
+9-4	407-408	,	_	_	
+9-5	409-415	Walton	_	_	
+9-6	415-416	,	_	_	
+9-7	417-423	Dudley	_	_	
+9-8	423-424	,	_	_	
+9-9	425-432	Bentley	_	_	
+9-10	432-433	,	_	_	
+9-11	434-441	Huntley	_	_	
+9-12	441-442	,	_	_	
+9-13	443-451	Saunders	_	_	
+9-14	451-452	,	_	_	
+9-15	453-458	Young	_	_	
+9-16	458-459	,	_	_	
+9-17	460-462	Mr	_	_	
+9-18	462-463	.	_	_	
+
+#Text=Morant, Barnes.
+10-1	464-470	Morant	_	_	
+10-2	470-471	,	_	_	
+10-3	472-478	Barnes	_	_	
+10-4	478-479	.	_	_	
+
+#Text=Kepton.
+11-1	480-486	Kepton	_	_	
+11-2	486-487	.	_	_	
+
+#Text=Milsoin, Walters, Green, Stanley, Newton, Parsons, Otway, Kirkwood, Francis, Hallam, See.
+12-1	488-495	Milsoin	_	_	
+12-2	495-496	,	_	_	
+12-3	497-504	Walters	_	_	
+12-4	504-505	,	_	_	
+12-5	506-511	Green	_	_	
+12-6	511-512	,	_	_	
+12-7	513-520	Stanley	_	_	
+12-8	520-521	,	_	_	
+12-9	522-528	Newton	_	_	
+12-10	528-529	,	_	_	
+12-11	530-537	Parsons	_	_	
+12-12	537-538	,	_	_	
+12-13	539-544	Otway	_	_	
+12-14	544-545	,	_	_	
+12-15	546-554	Kirkwood	_	_	
+12-16	554-555	,	_	_	
+12-17	556-563	Francis	_	_	
+12-18	563-564	,	_	_	
+12-19	565-571	Hallam	_	_	
+12-20	571-572	,	_	_	
+12-21	573-576	See	_	_	
+12-22	576-577	.	_	_	
+
+#Text=See.
+13-1	578-581	See	_	_	
+13-2	581-582	.	_	_	
+
+#Text=This day a Meeting of the friends of the Benevolent Society for the Indigent Sick and Aged of Weymouth and Melcombe Regis, was held at the Royal Hotel Assembly Rooms, for the purpose of auditing the accounts, receiving names of new subscribers, &c.
+14-1	583-587	This	_	_	
+14-2	588-591	day	_	_	
+14-3	592-593	a	_	_	
+14-4	594-601	Meeting	_	_	
+14-5	602-604	of	_	_	
+14-6	605-608	the	_	_	
+14-7	609-616	friends	_	_	
+14-8	617-619	of	_	_	
+14-9	620-623	the	_	_	
+14-10	624-634	Benevolent	_	_	
+14-11	635-642	Society	_	_	
+14-12	643-646	for	_	_	
+14-13	647-650	the	_	_	
+14-14	651-659	Indigent	_	_	
+14-15	660-664	Sick	_	_	
+14-16	665-668	and	_	_	
+14-17	669-673	Aged	_	_	
+14-18	674-676	of	_	_	
+14-19	677-685	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+14-20	686-689	and	_	_	
+14-21	690-698	Melcombe	https://en.wikipedia.org/wiki/Melcombe\_Regis[1]	LOC[1]	
+14-22	699-704	Regis	https://en.wikipedia.org/wiki/Melcombe\_Regis[1]	LOC[1]	
+14-23	704-705	,	_	_	
+14-24	706-709	was	_	_	
+14-25	710-714	held	_	_	
+14-26	715-717	at	_	_	
+14-27	718-721	the	_	_	
+14-28	722-727	Royal	*[2]	BUILDING[2]	
+14-29	728-733	Hotel	*[2]	BUILDING[2]	
+14-30	734-742	Assembly	*[2]	BUILDING[2]	
+14-31	743-748	Rooms	*[2]	BUILDING[2]	
+14-32	748-749	,	_	_	
+14-33	750-753	for	_	_	
+14-34	754-757	the	_	_	
+14-35	758-765	purpose	_	_	
+14-36	766-768	of	_	_	
+14-37	769-777	auditing	_	_	
+14-38	778-781	the	_	_	
+14-39	782-790	accounts	_	_	
+14-40	790-791	,	_	_	
+14-41	792-801	receiving	_	_	
+14-42	802-807	names	_	_	
+14-43	808-810	of	_	_	
+14-44	811-814	new	_	_	
+14-45	815-826	subscribers	_	_	
+14-46	826-827	,	_	_	
+14-47	828-829	&	_	_	
+14-48	829-830	c	_	_	
+14-49	830-831	.	_	_	
+
+#Text=&c. which was most respectably anu numerously attended, From the twenty-first Annual Report, which is just in circulation,’ it appears that,during the late unusually inclement and severe season, upwards of one hundred families have had the miseries incident to sickness and old age relieved, and the wants of poverty alleviated by the kind and attentive feelings of the ( ommittee of this excellent society.
+15-1	832-833	&	_	_	
+15-2	833-834	c	_	_	
+15-3	834-835	.	_	_	
+15-4	836-841	which	_	_	
+15-5	842-845	was	_	_	
+15-6	846-850	most	_	_	
+15-7	851-862	respectably	_	_	
+15-8	863-866	anu	_	_	
+15-9	867-877	numerously	_	_	
+15-10	878-886	attended	_	_	
+15-11	886-887	,	_	_	
+15-12	888-892	From	_	_	
+15-13	893-896	the	_	_	
+15-14	897-909	twenty-first	_	_	
+15-15	910-916	Annual	_	_	
+15-16	917-923	Report	_	_	
+15-17	923-924	,	_	_	
+15-18	925-930	which	_	_	
+15-19	931-933	is	_	_	
+15-20	934-938	just	_	_	
+15-21	939-941	in	_	_	
+15-22	942-953	circulation	_	_	
+15-23	953-954	,	_	_	
+15-24	954-955	’	_	_	
+15-25	956-958	it	_	_	
+15-26	959-966	appears	_	_	
+15-27	967-971	that	_	_	
+15-28	971-972	,	_	_	
+15-29	972-978	during	_	_	
+15-30	979-982	the	_	_	
+15-31	983-987	late	_	_	
+15-32	988-997	unusually	_	_	
+15-33	998-1007	inclement	_	_	
+15-34	1008-1011	and	_	_	
+15-35	1012-1018	severe	_	_	
+15-36	1019-1025	season	_	_	
+15-37	1025-1026	,	_	_	
+15-38	1027-1034	upwards	_	_	
+15-39	1035-1037	of	_	_	
+15-40	1038-1041	one	_	_	
+15-41	1042-1049	hundred	_	_	
+15-42	1050-1058	families	_	_	
+15-43	1059-1063	have	_	_	
+15-44	1064-1067	had	_	_	
+15-45	1068-1071	the	_	_	
+15-46	1072-1080	miseries	_	_	
+15-47	1081-1089	incident	_	_	
+15-48	1090-1092	to	_	_	
+15-49	1093-1101	sickness	_	_	
+15-50	1102-1105	and	_	_	
+15-51	1106-1109	old	_	_	
+15-52	1110-1113	age	_	_	
+15-53	1114-1122	relieved	_	_	
+15-54	1122-1123	,	_	_	
+15-55	1124-1127	and	_	_	
+15-56	1128-1131	the	_	_	
+15-57	1132-1137	wants	_	_	
+15-58	1138-1140	of	_	_	
+15-59	1141-1148	poverty	_	_	
+15-60	1149-1159	alleviated	_	_	
+15-61	1160-1162	by	_	_	
+15-62	1163-1166	the	_	_	
+15-63	1167-1171	kind	_	_	
+15-64	1172-1175	and	_	_	
+15-65	1176-1185	attentive	_	_	
+15-66	1186-1194	feelings	_	_	
+15-67	1195-1197	of	_	_	
+15-68	1198-1201	the	_	_	
+15-69	1202-1203	(	_	_	
+15-70	1204-1212	ommittee	_	_	
+15-71	1213-1215	of	_	_	
+15-72	1216-1220	this	_	_	
+15-73	1221-1230	excellent	_	_	
+15-74	1231-1238	society	_	_	
+15-75	1238-1239	.	_	_	
+
+#Text=It is pleasing to record that the funds of the society are improving, and we feel peculiar gratification in noticing, among the many liberal donations which have been made during the past year, that of 2s. from our resffected pastor, the Rev.
+16-1	1240-1242	It	_	_	
+16-2	1243-1245	is	_	_	
+16-3	1246-1254	pleasing	_	_	
+16-4	1255-1257	to	_	_	
+16-5	1258-1264	record	_	_	
+16-6	1265-1269	that	_	_	
+16-7	1270-1273	the	_	_	
+16-8	1274-1279	funds	_	_	
+16-9	1280-1282	of	_	_	
+16-10	1283-1286	the	_	_	
+16-11	1287-1294	society	_	_	
+16-12	1295-1298	are	_	_	
+16-13	1299-1308	improving	_	_	
+16-14	1308-1309	,	_	_	
+16-15	1310-1313	and	_	_	
+16-16	1314-1316	we	_	_	
+16-17	1317-1321	feel	_	_	
+16-18	1322-1330	peculiar	_	_	
+16-19	1331-1344	gratification	_	_	
+16-20	1345-1347	in	_	_	
+16-21	1348-1356	noticing	_	_	
+16-22	1356-1357	,	_	_	
+16-23	1358-1363	among	_	_	
+16-24	1364-1367	the	_	_	
+16-25	1368-1372	many	_	_	
+16-26	1373-1380	liberal	_	_	
+16-27	1381-1390	donations	_	_	
+16-28	1391-1396	which	_	_	
+16-29	1397-1401	have	_	_	
+16-30	1402-1406	been	_	_	
+16-31	1407-1411	made	_	_	
+16-32	1412-1418	during	_	_	
+16-33	1419-1422	the	_	_	
+16-34	1423-1427	past	_	_	
+16-35	1428-1432	year	_	_	
+16-36	1432-1433	,	_	_	
+16-37	1434-1438	that	_	_	
+16-38	1439-1441	of	_	_	
+16-39	1442-1444	2s	_	_	
+16-40	1444-1445	.	_	_	
+16-41	1446-1450	from	_	_	
+16-42	1451-1454	our	_	_	
+16-43	1455-1465	resffected	_	_	
+16-44	1466-1472	pastor	_	_	
+16-45	1472-1473	,	_	_	
+16-46	1474-1477	the	_	_	
+16-47	1478-1481	Rev	_	_	
+16-48	1481-1482	.	_	_	
+
+#Text=W.
+17-1	1483-1484	W	_	_	
+17-2	1484-1485	.	_	_	
+
+#Text=Brassey, from monies placed at his disposal for charitable purposes!
+18-1	1486-1493	Brassey	_	_	
+18-2	1493-1494	,	_	_	
+18-3	1495-1499	from	_	_	
+18-4	1500-1506	monies	_	_	
+18-5	1507-1513	placed	_	_	
+18-6	1514-1516	at	_	_	
+18-7	1517-1520	his	_	_	
+18-8	1521-1529	disposal	_	_	
+18-9	1530-1533	for	_	_	
+18-10	1534-1544	charitable	_	_	
+18-11	1545-1553	purposes	_	_	
+18-12	1553-1554	!	_	_	
+
+#Text=Such examples are above comment.
+19-1	1555-1559	Such	_	_	
+19-2	1560-1568	examples	_	_	
+19-3	1569-1572	are	_	_	
+19-4	1573-1578	above	_	_	
+19-5	1579-1586	comment	_	_	
+19-6	1586-1587	.	_	_	
+
+#Text=Nottington.
+20-1	1589-1599	Nottington	https://en.wikipedia.org/wiki/Nottington	LOC	
+20-2	1599-1600	.	_	_	
+
+#Text=—The delightful weather we are now enjoying materially enhances our scenic attractions ; and the forwardness of all the vegetable productions of nature in this locality fully and convincingly indicate the advantages that are here offered in point of climate.
+21-1	1600-1601	—	_	_	
+21-2	1601-1604	The	_	_	
+21-3	1605-1615	delightful	_	_	
+21-4	1616-1623	weather	_	_	
+21-5	1624-1626	we	_	_	
+21-6	1627-1630	are	_	_	
+21-7	1631-1634	now	_	_	
+21-8	1635-1643	enjoying	_	_	
+21-9	1644-1654	materially	_	_	
+21-10	1655-1663	enhances	_	_	
+21-11	1664-1667	our	_	_	
+21-12	1668-1674	scenic	_	_	
+21-13	1675-1686	attractions	_	_	
+21-14	1687-1688	;	_	_	
+21-15	1689-1692	and	_	_	
+21-16	1693-1696	the	_	_	
+21-17	1697-1708	forwardness	_	_	
+21-18	1709-1711	of	_	_	
+21-19	1712-1715	all	_	_	
+21-20	1716-1719	the	_	_	
+21-21	1720-1729	vegetable	_	_	
+21-22	1730-1741	productions	_	_	
+21-23	1742-1744	of	_	_	
+21-24	1745-1751	nature	_	_	
+21-25	1752-1754	in	_	_	
+21-26	1755-1759	this	_	_	
+21-27	1760-1768	locality	_	_	
+21-28	1769-1774	fully	_	_	
+21-29	1775-1778	and	_	_	
+21-30	1779-1791	convincingly	_	_	
+21-31	1792-1800	indicate	_	_	
+21-32	1801-1804	the	_	_	
+21-33	1805-1815	advantages	_	_	
+21-34	1816-1820	that	_	_	
+21-35	1821-1824	are	_	_	
+21-36	1825-1829	here	_	_	
+21-37	1830-1837	offered	_	_	
+21-38	1838-1840	in	_	_	
+21-39	1841-1846	point	_	_	
+21-40	1847-1849	of	_	_	
+21-41	1850-1857	climate	_	_	
+21-42	1857-1858	.	_	_	
+
+#Text=The spring fiowers have been in bloom with us for some time, and the hedges are tapidiy giving token of that verdure that w;L very shortly clothe them.
+22-1	1859-1862	The	_	_	
+22-2	1863-1869	spring	_	_	
+22-3	1870-1877	fiowers	_	_	
+22-4	1878-1882	have	_	_	
+22-5	1883-1887	been	_	_	
+22-6	1888-1890	in	_	_	
+22-7	1891-1896	bloom	_	_	
+22-8	1897-1901	with	_	_	
+22-9	1902-1904	us	_	_	
+22-10	1905-1908	for	_	_	
+22-11	1909-1913	some	_	_	
+22-12	1914-1918	time	_	_	
+22-13	1918-1919	,	_	_	
+22-14	1920-1923	and	_	_	
+22-15	1924-1927	the	_	_	
+22-16	1928-1934	hedges	_	_	
+22-17	1935-1938	are	_	_	
+22-18	1939-1946	tapidiy	_	_	
+22-19	1947-1953	giving	_	_	
+22-20	1954-1959	token	_	_	
+22-21	1960-1962	of	_	_	
+22-22	1963-1967	that	_	_	
+22-23	1968-1975	verdure	_	_	
+22-24	1976-1980	that	_	_	
+22-25	1981-1982	w	_	_	
+22-26	1982-1983	;	_	_	
+22-27	1983-1984	L	_	_	
+22-28	1985-1989	very	_	_	
+22-29	1990-1997	shortly	_	_	
+22-30	1998-2004	clothe	_	_	
+22-31	2005-2009	them	_	_	
+22-32	2009-2010	.	_	_	

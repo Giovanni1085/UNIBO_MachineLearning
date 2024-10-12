@@ -1,0 +1,569 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=EXETER DISTRICT COURT OF BANKRUPTCY.
+1-1	0-6	EXETER	https://en.wikipedia.org/wiki/Exeter	LOC	
+1-2	7-15	DISTRICT	_	_	
+1-3	16-21	COURT	_	_	
+1-4	22-24	OF	_	_	
+1-5	25-35	BANKRUPTCY	_	_	
+1-6	35-36	.	_	_	
+
+#Text=Thursday.
+2-1	38-46	Thursday	_	_	
+2-2	46-47	.	_	_	
+
+#Text=—(Before Mr.
+3-1	47-48	—	_	_	
+3-2	48-49	(	_	_	
+3-3	49-55	Before	_	_	
+3-4	56-58	Mr	_	_	
+3-5	58-59	.	_	_	
+
+#Text=Registrar King.)
+4-1	60-69	Registrar	_	_	
+4-2	70-74	King	_	_	
+4-3	74-75	.	_	_	
+4-4	75-76	)	_	_	
+
+#Text=Re Walter William Commins, hotel keeper, auctioneer, dealer, and chapman, of Weymouth and Melcombo Regis, Dorset.
+5-1	77-79	Re	_	_	
+5-2	80-86	Walter	_	_	
+5-3	87-94	William	_	_	
+5-4	95-102	Commins	_	_	
+5-5	102-103	,	_	_	
+5-6	104-109	hotel	_	_	
+5-7	110-116	keeper	_	_	
+5-8	116-117	,	_	_	
+5-9	118-128	auctioneer	_	_	
+5-10	128-129	,	_	_	
+5-11	130-136	dealer	_	_	
+5-12	136-137	,	_	_	
+5-13	138-141	and	_	_	
+5-14	142-149	chapman	_	_	
+5-15	149-150	,	_	_	
+5-16	151-153	of	_	_	
+5-17	154-162	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+5-18	163-166	and	_	_	
+5-19	167-175	Melcombo	https://en.wikipedia.org/wiki/Melcombe\_Regis[1]	LOC[1]	
+5-20	176-181	Regis	https://en.wikipedia.org/wiki/Melcombe\_Regis[1]	LOC[1]	
+5-21	181-182	,	_	_	
+5-22	183-189	Dorset	https://en.wikipedia.org/wiki/Dorset	LOC	
+5-23	189-190	.	_	_	
+
+#Text=—This was a meeting for choice of assignees.
+6-1	190-191	—	_	_	
+6-2	191-195	This	_	_	
+6-3	196-199	was	_	_	
+6-4	200-201	a	_	_	
+6-5	202-209	meeting	_	_	
+6-6	210-213	for	_	_	
+6-7	214-220	choice	_	_	
+6-8	221-223	of	_	_	
+6-9	224-233	assignees	_	_	
+6-10	233-234	.	_	_	
+
+#Text=—Mr.
+7-1	234-235	—	_	_	
+7-2	235-237	Mr	_	_	
+7-3	237-238	.	_	_	
+
+#Text=Terrell represented the estate, and Mr.
+8-1	239-246	Terrell	_	_	
+8-2	247-258	represented	_	_	
+8-3	259-262	the	_	_	
+8-4	263-269	estate	_	_	
+8-5	269-270	,	_	_	
+8-6	271-274	and	_	_	
+8-7	275-277	Mr	_	_	
+8-8	277-278	.	_	_	
+
+#Text=Hirtzel appeared for creditors.
+9-1	279-286	Hirtzel	_	_	
+9-2	287-295	appeared	_	_	
+9-3	296-299	for	_	_	
+9-4	300-309	creditors	_	_	
+9-5	309-310	.	_	_	
+
+#Text=The report of the official assignee show that the bankrupt owes to unsecured creditors £975 18s. ; and to those holding security, £30—total, £1,005 18s.
+10-1	311-314	The	_	_	
+10-2	315-321	report	_	_	
+10-3	322-324	of	_	_	
+10-4	325-328	the	_	_	
+10-5	329-337	official	_	_	
+10-6	338-346	assignee	_	_	
+10-7	347-351	show	_	_	
+10-8	352-356	that	_	_	
+10-9	357-360	the	_	_	
+10-10	361-369	bankrupt	_	_	
+10-11	370-374	owes	_	_	
+10-12	375-377	to	_	_	
+10-13	378-387	unsecured	_	_	
+10-14	388-397	creditors	_	_	
+10-15	398-402	£975	_	_	
+10-16	403-406	18s	_	_	
+10-17	406-407	.	_	_	
+10-18	408-409	;	_	_	
+10-19	410-413	and	_	_	
+10-20	414-416	to	_	_	
+10-21	417-422	those	_	_	
+10-22	423-430	holding	_	_	
+10-23	431-439	security	_	_	
+10-24	439-440	,	_	_	
+10-25	441-444	£30	_	_	
+10-26	444-445	—	_	_	
+10-27	445-450	total	_	_	
+10-28	450-451	,	_	_	
+10-29	452-458	£1,005	_	_	
+10-30	459-462	18s	_	_	
+10-31	462-463	.	_	_	
+
+#Text=The assets are doubtful debts, about £10; furniture, valued at about £500 ; stock-in-trade and fixtures, £100; and a policy■of assurance, held by secured creditors, supposed to be worth £30-total, £640, leaving a deficiency of £365.
+11-1	464-467	The	_	_	
+11-2	468-474	assets	_	_	
+11-3	475-478	are	_	_	
+11-4	479-487	doubtful	_	_	
+11-5	488-493	debts	_	_	
+11-6	493-494	,	_	_	
+11-7	495-500	about	_	_	
+11-8	501-504	£10	_	_	
+11-9	504-505	;	_	_	
+11-10	506-515	furniture	_	_	
+11-11	515-516	,	_	_	
+11-12	517-523	valued	_	_	
+11-13	524-526	at	_	_	
+11-14	527-532	about	_	_	
+11-15	533-537	£500	_	_	
+11-16	538-539	;	_	_	
+11-17	540-554	stock-in-trade	_	_	
+11-18	555-558	and	_	_	
+11-19	559-567	fixtures	_	_	
+11-20	567-568	,	_	_	
+11-21	569-573	£100	_	_	
+11-22	573-574	;	_	_	
+11-23	575-578	and	_	_	
+11-24	579-580	a	_	_	
+11-25	581-587	policy	_	_	
+11-26	587-588	■	_	_	
+11-27	588-590	of	_	_	
+11-28	591-600	assurance	_	_	
+11-29	600-601	,	_	_	
+11-30	602-606	held	_	_	
+11-31	607-609	by	_	_	
+11-32	610-617	secured	_	_	
+11-33	618-627	creditors	_	_	
+11-34	627-628	,	_	_	
+11-35	629-637	supposed	_	_	
+11-36	638-640	to	_	_	
+11-37	641-643	be	_	_	
+11-38	644-649	worth	_	_	
+11-39	650-653	£30	_	_	
+11-40	653-654	-	_	_	
+11-41	654-659	total	_	_	
+11-42	659-660	,	_	_	
+11-43	661-665	£640	_	_	
+11-44	665-666	,	_	_	
+11-45	667-674	leaving	_	_	
+11-46	675-676	a	_	_	
+11-47	677-687	deficiency	_	_	
+11-48	688-690	of	_	_	
+11-49	691-695	£365	_	_	
+11-50	695-696	.	_	_	
+
+#Text=Mr.
+12-1	697-699	Mr	_	_	
+12-2	699-700	.	_	_	
+
+#Text=Groves, brewer, &c., of Weymouth, holds a bill of sale for £200 on bankrupts furniture, which was given to him by the bankrupts late wife beforo their marriage.
+13-1	701-707	Groves	_	_	
+13-2	707-708	,	_	_	
+13-3	709-715	brewer	_	_	
+13-4	715-716	,	_	_	
+13-5	717-718	&	_	_	
+13-6	718-719	c	_	_	
+13-7	719-720	.	_	_	
+13-8	720-721	,	_	_	
+13-9	722-724	of	_	_	
+13-10	725-733	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+13-11	733-734	,	_	_	
+13-12	735-740	holds	_	_	
+13-13	741-742	a	_	_	
+13-14	743-747	bill	_	_	
+13-15	748-750	of	_	_	
+13-16	751-755	sale	_	_	
+13-17	756-759	for	_	_	
+13-18	760-764	£200	_	_	
+13-19	765-767	on	_	_	
+13-20	768-777	bankrupts	_	_	
+13-21	778-787	furniture	_	_	
+13-22	787-788	,	_	_	
+13-23	789-794	which	_	_	
+13-24	795-798	was	_	_	
+13-25	799-804	given	_	_	
+13-26	805-807	to	_	_	
+13-27	808-811	him	_	_	
+13-28	812-814	by	_	_	
+13-29	815-818	the	_	_	
+13-30	819-828	bankrupts	_	_	
+13-31	829-833	late	_	_	
+13-32	834-838	wife	_	_	
+13-33	839-845	beforo	_	_	
+13-34	846-851	their	_	_	
+13-35	852-860	marriage	_	_	
+13-36	860-861	.	_	_	
+
+#Text=Tho bankrupt was examined at some length by Mr.
+14-1	862-865	Tho	_	_	
+14-2	866-874	bankrupt	_	_	
+14-3	875-878	was	_	_	
+14-4	879-887	examined	_	_	
+14-5	888-890	at	_	_	
+14-6	891-895	some	_	_	
+14-7	896-902	length	_	_	
+14-8	903-905	by	_	_	
+14-9	906-908	Mr	_	_	
+14-10	908-909	.	_	_	
+
+#Text=Hirtzel, as to his debt to Mr.
+15-1	910-917	Hirtzel	_	_	
+15-2	917-918	,	_	_	
+15-3	919-921	as	_	_	
+15-4	922-924	to	_	_	
+15-5	925-928	his	_	_	
+15-6	929-933	debt	_	_	
+15-7	934-936	to	_	_	
+15-8	937-939	Mr	_	_	
+15-9	939-940	.	_	_	
+
+#Text=Groves.
+16-1	941-947	Groves	_	_	
+16-2	947-948	.	_	_	
+
+#Text=He said he believed Mr.
+17-1	949-951	He	_	_	
+17-2	952-956	said	_	_	
+17-3	957-959	he	_	_	
+17-4	960-968	believed	_	_	
+17-5	969-971	Mr	_	_	
+17-6	971-972	.	_	_	
+
+#Text=Grovess claim for £470 was correct: that included the bill of sale.
+18-1	973-980	Grovess	_	_	
+18-2	981-986	claim	_	_	
+18-3	987-990	for	_	_	
+18-4	991-995	£470	_	_	
+18-5	996-999	was	_	_	
+18-6	1000-1007	correct	_	_	
+18-7	1007-1008	:	_	_	
+18-8	1009-1013	that	_	_	
+18-9	1014-1022	included	_	_	
+18-10	1023-1026	the	_	_	
+18-11	1027-1031	bill	_	_	
+18-12	1032-1034	of	_	_	
+18-13	1035-1039	sale	_	_	
+18-14	1039-1040	.	_	_	
+
+#Text=At the time he married, in Oct., 1863, he had made no inquiry of his wife as to her property.
+19-1	1041-1043	At	_	_	
+19-2	1044-1047	the	_	_	
+19-3	1048-1052	time	_	_	
+19-4	1053-1055	he	_	_	
+19-5	1056-1063	married	_	_	
+19-6	1063-1064	,	_	_	
+19-7	1065-1067	in	_	_	
+19-8	1068-1071	Oct	_	_	
+19-9	1071-1072	.	_	_	
+19-10	1072-1073	,	_	_	
+19-11	1074-1078	1863	_	_	
+19-12	1078-1079	,	_	_	
+19-13	1080-1082	he	_	_	
+19-14	1083-1086	had	_	_	
+19-15	1087-1091	made	_	_	
+19-16	1092-1094	no	_	_	
+19-17	1095-1102	inquiry	_	_	
+19-18	1103-1105	of	_	_	
+19-19	1106-1109	his	_	_	
+19-20	1110-1114	wife	_	_	
+19-21	1115-1117	as	_	_	
+19-22	1118-1120	to	_	_	
+19-23	1121-1124	her	_	_	
+19-24	1125-1133	property	_	_	
+19-25	1133-1134	.	_	_	
+
+#Text=He believed that all she possessed was her own, and he knew nothing of the bill of sale to Mr.
+20-1	1135-1137	He	_	_	
+20-2	1138-1146	believed	_	_	
+20-3	1147-1151	that	_	_	
+20-4	1152-1155	all	_	_	
+20-5	1156-1159	she	_	_	
+20-6	1160-1169	possessed	_	_	
+20-7	1170-1173	was	_	_	
+20-8	1174-1177	her	_	_	
+20-9	1178-1181	own	_	_	
+20-10	1181-1182	,	_	_	
+20-11	1183-1186	and	_	_	
+20-12	1187-1189	he	_	_	
+20-13	1190-1194	knew	_	_	
+20-14	1195-1202	nothing	_	_	
+20-15	1203-1205	of	_	_	
+20-16	1206-1209	the	_	_	
+20-17	1210-1214	bill	_	_	
+20-18	1215-1217	of	_	_	
+20-19	1218-1222	sale	_	_	
+20-20	1223-1225	to	_	_	
+20-21	1226-1228	Mr	_	_	
+20-22	1228-1229	.	_	_	
+
+#Text=Groves, until he accidentally discovered papers relating to it in a drawer a year and a half after the marriage.
+21-1	1230-1236	Groves	_	_	
+21-2	1236-1237	,	_	_	
+21-3	1238-1243	until	_	_	
+21-4	1244-1246	he	_	_	
+21-5	1247-1259	accidentally	_	_	
+21-6	1260-1270	discovered	_	_	
+21-7	1271-1277	papers	_	_	
+21-8	1278-1286	relating	_	_	
+21-9	1287-1289	to	_	_	
+21-10	1290-1292	it	_	_	
+21-11	1293-1295	in	_	_	
+21-12	1296-1297	a	_	_	
+21-13	1298-1304	drawer	_	_	
+21-14	1305-1306	a	_	_	
+21-15	1307-1311	year	_	_	
+21-16	1312-1315	and	_	_	
+21-17	1316-1317	a	_	_	
+21-18	1318-1322	half	_	_	
+21-19	1323-1328	after	_	_	
+21-20	1329-1332	the	_	_	
+21-21	1333-1341	marriage	_	_	
+21-22	1341-1342	.	_	_	
+
+#Text=He never interfered with his wifes business.
+22-1	1343-1345	He	_	_	
+22-2	1346-1351	never	_	_	
+22-3	1352-1362	interfered	_	_	
+22-4	1363-1367	with	_	_	
+22-5	1368-1371	his	_	_	
+22-6	1372-1377	wifes	_	_	
+22-7	1378-1386	business	_	_	
+22-8	1386-1387	.	_	_	
+
+#Text=The cheques drawn on the spirit account included interest; but he had drawn them at his wifes request without inquiring into particulars.
+23-1	1388-1391	The	_	_	
+23-2	1392-1399	cheques	_	_	
+23-3	1400-1405	drawn	_	_	
+23-4	1406-1408	on	_	_	
+23-5	1409-1412	the	_	_	
+23-6	1413-1419	spirit	_	_	
+23-7	1420-1427	account	_	_	
+23-8	1428-1436	included	_	_	
+23-9	1437-1445	interest	_	_	
+23-10	1445-1446	;	_	_	
+23-11	1447-1450	but	_	_	
+23-12	1451-1453	he	_	_	
+23-13	1454-1457	had	_	_	
+23-14	1458-1463	drawn	_	_	
+23-15	1464-1468	them	_	_	
+23-16	1469-1471	at	_	_	
+23-17	1472-1475	his	_	_	
+23-18	1476-1481	wifes	_	_	
+23-19	1482-1489	request	_	_	
+23-20	1490-1497	without	_	_	
+23-21	1498-1507	inquiring	_	_	
+23-22	1508-1512	into	_	_	
+23-23	1513-1524	particulars	_	_	
+23-24	1524-1525	.	_	_	
+
+#Text=In Nov., 1866, he was on a visit at Chippenham, and he was then served with a copy of a notice which had been left with his barmaid at the hotel, requesting that tho furniture should be given up.
+24-1	1526-1528	In	_	_	
+24-2	1529-1532	Nov	_	_	
+24-3	1532-1533	.	_	_	
+24-4	1533-1534	,	_	_	
+24-5	1535-1539	1866	_	_	
+24-6	1539-1540	,	_	_	
+24-7	1541-1543	he	_	_	
+24-8	1544-1547	was	_	_	
+24-9	1548-1550	on	_	_	
+24-10	1551-1552	a	_	_	
+24-11	1553-1558	visit	_	_	
+24-12	1559-1561	at	_	_	
+24-13	1562-1572	Chippenham	https://en.wikipedia.org/wiki/Chippenham	LOC	
+24-14	1572-1573	,	_	_	
+24-15	1574-1577	and	_	_	
+24-16	1578-1580	he	_	_	
+24-17	1581-1584	was	_	_	
+24-18	1585-1589	then	_	_	
+24-19	1590-1596	served	_	_	
+24-20	1597-1601	with	_	_	
+24-21	1602-1603	a	_	_	
+24-22	1604-1608	copy	_	_	
+24-23	1609-1611	of	_	_	
+24-24	1612-1613	a	_	_	
+24-25	1614-1620	notice	_	_	
+24-26	1621-1626	which	_	_	
+24-27	1627-1630	had	_	_	
+24-28	1631-1635	been	_	_	
+24-29	1636-1640	left	_	_	
+24-30	1641-1645	with	_	_	
+24-31	1646-1649	his	_	_	
+24-32	1650-1657	barmaid	_	_	
+24-33	1658-1660	at	_	_	
+24-34	1661-1664	the	_	_	
+24-35	1665-1670	hotel	_	_	
+24-36	1670-1671	,	_	_	
+24-37	1672-1682	requesting	_	_	
+24-38	1683-1687	that	_	_	
+24-39	1688-1691	tho	_	_	
+24-40	1692-1701	furniture	_	_	
+24-41	1702-1708	should	_	_	
+24-42	1709-1711	be	_	_	
+24-43	1712-1717	given	_	_	
+24-44	1718-1720	up	_	_	
+24-45	1720-1721	.	_	_	
+
+#Text=He refused to give up the furniture, and told Mr.
+25-1	1722-1724	He	_	_	
+25-2	1725-1732	refused	_	_	
+25-3	1733-1735	to	_	_	
+25-4	1736-1740	give	_	_	
+25-5	1741-1743	up	_	_	
+25-6	1744-1747	the	_	_	
+25-7	1748-1757	furniture	_	_	
+25-8	1757-1758	,	_	_	
+25-9	1759-1762	and	_	_	
+25-10	1763-1767	told	_	_	
+25-11	1768-1770	Mr	_	_	
+25-12	1770-1771	.	_	_	
+
+#Text=Groves he should be acting unfairly towards the other creditors if he did so He also told him that he was surprised at the notice being served, inasmuch as he had paid him £86 not long before, and, as the plant on the premises was as laroc as before, the bill of sale was just as good security.
+26-1	1772-1778	Groves	_	_	
+26-2	1779-1781	he	_	_	
+26-3	1782-1788	should	_	_	
+26-4	1789-1791	be	_	_	
+26-5	1792-1798	acting	_	_	
+26-6	1799-1807	unfairly	_	_	
+26-7	1808-1815	towards	_	_	
+26-8	1816-1819	the	_	_	
+26-9	1820-1825	other	_	_	
+26-10	1826-1835	creditors	_	_	
+26-11	1836-1838	if	_	_	
+26-12	1839-1841	he	_	_	
+26-13	1842-1845	did	_	_	
+26-14	1846-1848	so	_	_	
+26-15	1849-1851	He	_	_	
+26-16	1852-1856	also	_	_	
+26-17	1857-1861	told	_	_	
+26-18	1862-1865	him	_	_	
+26-19	1866-1870	that	_	_	
+26-20	1871-1873	he	_	_	
+26-21	1874-1877	was	_	_	
+26-22	1878-1887	surprised	_	_	
+26-23	1888-1890	at	_	_	
+26-24	1891-1894	the	_	_	
+26-25	1895-1901	notice	_	_	
+26-26	1902-1907	being	_	_	
+26-27	1908-1914	served	_	_	
+26-28	1914-1915	,	_	_	
+26-29	1916-1924	inasmuch	_	_	
+26-30	1925-1927	as	_	_	
+26-31	1928-1930	he	_	_	
+26-32	1931-1934	had	_	_	
+26-33	1935-1939	paid	_	_	
+26-34	1940-1943	him	_	_	
+26-35	1944-1947	£86	_	_	
+26-36	1948-1951	not	_	_	
+26-37	1952-1956	long	_	_	
+26-38	1957-1963	before	_	_	
+26-39	1963-1964	,	_	_	
+26-40	1965-1968	and	_	_	
+26-41	1968-1969	,	_	_	
+26-42	1970-1972	as	_	_	
+26-43	1973-1976	the	_	_	
+26-44	1977-1982	plant	_	_	
+26-45	1983-1985	on	_	_	
+26-46	1986-1989	the	_	_	
+26-47	1990-1998	premises	_	_	
+26-48	1999-2002	was	_	_	
+26-49	2003-2005	as	_	_	
+26-50	2006-2011	laroc	_	_	
+26-51	2012-2014	as	_	_	
+26-52	2015-2021	before	_	_	
+26-53	2021-2022	,	_	_	
+26-54	2023-2026	the	_	_	
+26-55	2027-2031	bill	_	_	
+26-56	2032-2034	of	_	_	
+26-57	2035-2039	sale	_	_	
+26-58	2040-2043	was	_	_	
+26-59	2044-2048	just	_	_	
+26-60	2049-2051	as	_	_	
+26-61	2052-2056	good	_	_	
+26-62	2057-2065	security	_	_	
+26-63	2065-2066	.	_	_	
+
+#Text=No one was then pressing him (the bankrupt), and he had no hostile creditor.
+27-1	2067-2069	No	_	_	
+27-2	2070-2073	one	_	_	
+27-3	2074-2077	was	_	_	
+27-4	2078-2082	then	_	_	
+27-5	2083-2091	pressing	_	_	
+27-6	2092-2095	him	_	_	
+27-7	2096-2097	(	_	_	
+27-8	2097-2100	the	_	_	
+27-9	2101-2109	bankrupt	_	_	
+27-10	2109-2110	)	_	_	
+27-11	2110-2111	,	_	_	
+27-12	2112-2115	and	_	_	
+27-13	2116-2118	he	_	_	
+27-14	2119-2122	had	_	_	
+27-15	2123-2125	no	_	_	
+27-16	2126-2133	hostile	_	_	
+27-17	2134-2142	creditor	_	_	
+27-18	2142-2143	.	_	_	
+
+#Text=Mr.
+28-1	2144-2146	Mr	_	_	
+28-2	2146-2147	.	_	_	
+
+#Text=Terrell carried the choice, and appointed Mr.
+29-1	2148-2155	Terrell	_	_	
+29-2	2156-2163	carried	_	_	
+29-3	2164-2167	the	_	_	
+29-4	2168-2174	choice	_	_	
+29-5	2174-2175	,	_	_	
+29-6	2176-2179	and	_	_	
+29-7	2180-2189	appointed	_	_	
+29-8	2190-2192	Mr	_	_	
+29-9	2192-2193	.	_	_	
+
+#Text=Richard Commins (father of the bankrupt) cabinet-maker, Weymouth, creditors assignee.
+30-1	2194-2201	Richard	_	_	
+30-2	2202-2209	Commins	_	_	
+30-3	2210-2211	(	_	_	
+30-4	2211-2217	father	_	_	
+30-5	2218-2220	of	_	_	
+30-6	2221-2224	the	_	_	
+30-7	2225-2233	bankrupt	_	_	
+30-8	2233-2234	)	_	_	
+30-9	2235-2248	cabinet-maker	_	_	
+30-10	2248-2249	,	_	_	
+30-11	2250-2258	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+30-12	2258-2259	,	_	_	
+30-13	2260-2269	creditors	_	_	
+30-14	2270-2278	assignee	_	_	
+30-15	2278-2279	.	_	_	
+
+#Text=The last examination was fixed for the 19th Feb., 1867.
+31-1	2280-2283	The	_	_	
+31-2	2284-2288	last	_	_	
+31-3	2289-2300	examination	_	_	
+31-4	2301-2304	was	_	_	
+31-5	2305-2310	fixed	_	_	
+31-6	2311-2314	for	_	_	
+31-7	2315-2318	the	_	_	
+31-8	2319-2323	19th	_	_	
+31-9	2324-2327	Feb	_	_	
+31-10	2327-2328	.	_	_	
+31-11	2328-2329	,	_	_	
+31-12	2330-2334	1867	_	_	
+31-13	2334-2335	.	_	_	

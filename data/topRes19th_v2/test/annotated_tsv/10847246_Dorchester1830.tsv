@@ -1,0 +1,206 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=PORTUGAL.
+1-1	0-8	PORTUGAL	https://en.wikipedia.org/wiki/Portugal	LOC	
+1-2	8-9	.	_	_	
+
+#Text=The political misfortunes of to speak in the mildest terms, have either banished or immured in prison, every man who hud the aplrit to complain of the tyranny, cruelty, and oppression of Don Miguel and his ministers.
+2-1	11-14	The	_	_	
+2-2	15-24	political	_	_	
+2-3	25-36	misfortunes	_	_	
+2-4	37-39	of	_	_	
+2-5	40-42	to	_	_	
+2-6	43-48	speak	_	_	
+2-7	49-51	in	_	_	
+2-8	52-55	the	_	_	
+2-9	56-63	mildest	_	_	
+2-10	64-69	terms	_	_	
+2-11	69-70	,	_	_	
+2-12	71-75	have	_	_	
+2-13	76-82	either	_	_	
+2-14	83-91	banished	_	_	
+2-15	92-94	or	_	_	
+2-16	95-102	immured	_	_	
+2-17	103-105	in	_	_	
+2-18	106-112	prison	_	_	
+2-19	112-113	,	_	_	
+2-20	114-119	every	_	_	
+2-21	120-123	man	_	_	
+2-22	124-127	who	_	_	
+2-23	128-131	hud	_	_	
+2-24	132-135	the	_	_	
+2-25	136-142	aplrit	_	_	
+2-26	143-145	to	_	_	
+2-27	146-154	complain	_	_	
+2-28	155-157	of	_	_	
+2-29	158-161	the	_	_	
+2-30	162-169	tyranny	_	_	
+2-31	169-170	,	_	_	
+2-32	171-178	cruelty	_	_	
+2-33	178-179	,	_	_	
+2-34	180-183	and	_	_	
+2-35	184-194	oppression	_	_	
+2-36	195-197	of	_	_	
+2-37	198-201	Don	_	_	
+2-38	202-208	Miguel	_	_	
+2-39	209-212	and	_	_	
+2-40	213-216	his	_	_	
+2-41	217-226	ministers	_	_	
+2-42	226-227	.	_	_	
+
+#Text=Poverty, distrust, and misery, are now the only things known in Lisbon.
+3-1	228-235	Poverty	_	_	
+3-2	235-236	,	_	_	
+3-3	237-245	distrust	_	_	
+3-4	245-246	,	_	_	
+3-5	247-250	and	_	_	
+3-6	251-257	misery	_	_	
+3-7	257-258	,	_	_	
+3-8	259-262	are	_	_	
+3-9	263-266	now	_	_	
+3-10	267-270	the	_	_	
+3-11	271-275	only	_	_	
+3-12	276-282	things	_	_	
+3-13	283-288	known	_	_	
+3-14	289-291	in	_	_	
+3-15	292-298	Lisbon	https://en.wikipedia.org/wiki/Lisbon	LOC	
+3-16	298-299	.	_	_	
+
+#Text=The Hritish government, it appears, are about to renew the relations of .intercourse and amity with the Portuguese nation, an intercourse which has now been long interrupted.
+4-1	300-303	The	_	_	
+4-2	304-311	Hritish	_	_	
+4-3	312-322	government	_	_	
+4-4	322-323	,	_	_	
+4-5	324-326	it	_	_	
+4-6	327-334	appears	_	_	
+4-7	334-335	,	_	_	
+4-8	336-339	are	_	_	
+4-9	340-345	about	_	_	
+4-10	346-348	to	_	_	
+4-11	349-354	renew	_	_	
+4-12	355-358	the	_	_	
+4-13	359-368	relations	_	_	
+4-14	369-371	of	_	_	
+4-15	372-373	.	_	_	
+4-16	373-384	intercourse	_	_	
+4-17	385-388	and	_	_	
+4-18	389-394	amity	_	_	
+4-19	395-399	with	_	_	
+4-20	400-403	the	_	_	
+4-21	404-414	Portuguese	_	_	
+4-22	415-421	nation	_	_	
+4-23	421-422	,	_	_	
+4-24	423-425	an	_	_	
+4-25	426-437	intercourse	_	_	
+4-26	438-443	which	_	_	
+4-27	444-447	has	_	_	
+4-28	448-451	now	_	_	
+4-29	452-456	been	_	_	
+4-30	457-461	long	_	_	
+4-31	462-473	interrupted	_	_	
+4-32	473-474	.	_	_	
+
+#Text=Don Miguel having determined to perform a great act of justice and humanity (we speak in the advised language of William the Fourth), by the grant of a general amnesty, the time has arrived, or may shortly arrive, when this intercourse may be effected with that security which his most Faithful Majesty.
+5-1	475-478	Don	_	_	
+5-2	479-485	Miguel	_	_	
+5-3	486-492	having	_	_	
+5-4	493-503	determined	_	_	
+5-5	504-506	to	_	_	
+5-6	507-514	perform	_	_	
+5-7	515-516	a	_	_	
+5-8	517-522	great	_	_	
+5-9	523-526	act	_	_	
+5-10	527-529	of	_	_	
+5-11	530-537	justice	_	_	
+5-12	538-541	and	_	_	
+5-13	542-550	humanity	_	_	
+5-14	551-552	(	_	_	
+5-15	552-554	we	_	_	
+5-16	555-560	speak	_	_	
+5-17	561-563	in	_	_	
+5-18	564-567	the	_	_	
+5-19	568-575	advised	_	_	
+5-20	576-584	language	_	_	
+5-21	585-587	of	_	_	
+5-22	588-595	William	_	_	
+5-23	596-599	the	_	_	
+5-24	600-606	Fourth	_	_	
+5-25	606-607	)	_	_	
+5-26	607-608	,	_	_	
+5-27	609-611	by	_	_	
+5-28	612-615	the	_	_	
+5-29	616-621	grant	_	_	
+5-30	622-624	of	_	_	
+5-31	625-626	a	_	_	
+5-32	627-634	general	_	_	
+5-33	635-642	amnesty	_	_	
+5-34	642-643	,	_	_	
+5-35	644-647	the	_	_	
+5-36	648-652	time	_	_	
+5-37	653-656	has	_	_	
+5-38	657-664	arrived	_	_	
+5-39	664-665	,	_	_	
+5-40	666-668	or	_	_	
+5-41	669-672	may	_	_	
+5-42	673-680	shortly	_	_	
+5-43	681-687	arrive	_	_	
+5-44	687-688	,	_	_	
+5-45	689-693	when	_	_	
+5-46	694-698	this	_	_	
+5-47	699-710	intercourse	_	_	
+5-48	711-714	may	_	_	
+5-49	715-717	be	_	_	
+5-50	718-726	effected	_	_	
+5-51	727-731	with	_	_	
+5-52	732-736	that	_	_	
+5-53	737-745	security	_	_	
+5-54	746-751	which	_	_	
+5-55	752-755	his	_	_	
+5-56	756-760	most	_	_	
+5-57	761-769	Faithful	_	_	
+5-58	770-777	Majesty	_	_	
+5-59	777-778	.	_	_	
+
+#Text=Don Miguel, seems disposed to grant.
+6-1	779-782	Don	_	_	
+6-2	783-789	Miguel	_	_	
+6-3	789-790	,	_	_	
+6-4	791-796	seems	_	_	
+6-5	797-805	disposed	_	_	
+6-6	806-808	to	_	_	
+6-7	809-814	grant	_	_	
+6-8	814-815	.	_	_	
+
+#Text=We trust that these things may prove true, and he attended with all t!
+7-1	816-818	We	_	_	
+7-2	819-824	trust	_	_	
+7-3	825-829	that	_	_	
+7-4	830-835	these	_	_	
+7-5	836-842	things	_	_	
+7-6	843-846	may	_	_	
+7-7	847-852	prove	_	_	
+7-8	853-857	true	_	_	
+7-9	857-858	,	_	_	
+7-10	859-862	and	_	_	
+7-11	863-865	he	_	_	
+7-12	866-874	attended	_	_	
+7-13	875-879	with	_	_	
+7-14	880-883	all	_	_	
+7-15	884-885	t	_	_	
+7-16	885-886	!	_	_	
+
+#Text=>e good that this nation has a tight to expect.
+8-1	886-887	>	_	_	
+8-2	887-888	e	_	_	
+8-3	889-893	good	_	_	
+8-4	894-898	that	_	_	
+8-5	899-903	this	_	_	
+8-6	904-910	nation	_	_	
+8-7	911-914	has	_	_	
+8-8	915-916	a	_	_	
+8-9	917-922	tight	_	_	
+8-10	923-925	to	_	_	
+8-11	926-932	expect	_	_	
+8-12	932-933	.	_	_	

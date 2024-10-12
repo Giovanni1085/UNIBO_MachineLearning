@@ -1,0 +1,224 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=FRIDAY’S MARKET ACCOUNTS.
+1-1	0-6	FRIDAY	_	_	
+1-2	6-7	’	_	_	
+1-3	7-8	S	_	_	
+1-4	9-15	MARKET	_	_	
+1-5	16-24	ACCOUNTS	_	_	
+1-6	24-25	.	_	_	
+
+#Text=MANUFACTURES, MANCHESTER.
+2-1	27-39	MANUFACTURES	_	_	
+2-2	39-40	,	_	_	
+2-3	41-51	MANCHESTER	https://en.wikipedia.org/wiki/Manchester	LOC	
+2-4	51-52	.	_	_	
+
+#Text=The favourable change in the weather, and the hardenin tendency of the raw material in Liverpool, appear to have somewhat strengthened the tone of our market, which must be quoted rather better than at the com mencement of the week.
+3-1	53-56	The	_	_	
+3-2	57-67	favourable	_	_	
+3-3	68-74	change	_	_	
+3-4	75-77	in	_	_	
+3-5	78-81	the	_	_	
+3-6	82-89	weather	_	_	
+3-7	89-90	,	_	_	
+3-8	91-94	and	_	_	
+3-9	95-98	the	_	_	
+3-10	99-107	hardenin	_	_	
+3-11	108-116	tendency	_	_	
+3-12	117-119	of	_	_	
+3-13	120-123	the	_	_	
+3-14	124-127	raw	_	_	
+3-15	128-136	material	_	_	
+3-16	137-139	in	_	_	
+3-17	140-149	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+3-18	149-150	,	_	_	
+3-19	151-157	appear	_	_	
+3-20	158-160	to	_	_	
+3-21	161-165	have	_	_	
+3-22	166-174	somewhat	_	_	
+3-23	175-187	strengthened	_	_	
+3-24	188-191	the	_	_	
+3-25	192-196	tone	_	_	
+3-26	197-199	of	_	_	
+3-27	200-203	our	_	_	
+3-28	204-210	market	_	_	
+3-29	210-211	,	_	_	
+3-30	212-217	which	_	_	
+3-31	218-222	must	_	_	
+3-32	223-225	be	_	_	
+3-33	226-232	quoted	_	_	
+3-34	233-239	rather	_	_	
+3-35	240-246	better	_	_	
+3-36	247-251	than	_	_	
+3-37	252-254	at	_	_	
+3-38	255-258	the	_	_	
+3-39	259-262	com	_	_	
+3-40	263-272	mencement	_	_	
+3-41	273-275	of	_	_	
+3-42	276-279	the	_	_	
+3-43	280-284	week	_	_	
+3-44	284-285	.	_	_	
+
+#Text=The great extent to which producers are under contract precludes any great extent of business, but where sales are made full price > are exacted, and occasionally a slight improvement in this respect is observable since Tuesday.
+4-1	286-289	The	_	_	
+4-2	290-295	great	_	_	
+4-3	296-302	extent	_	_	
+4-4	303-305	to	_	_	
+4-5	306-311	which	_	_	
+4-6	312-321	producers	_	_	
+4-7	322-325	are	_	_	
+4-8	326-331	under	_	_	
+4-9	332-340	contract	_	_	
+4-10	341-350	precludes	_	_	
+4-11	351-354	any	_	_	
+4-12	355-360	great	_	_	
+4-13	361-367	extent	_	_	
+4-14	368-370	of	_	_	
+4-15	371-379	business	_	_	
+4-16	379-380	,	_	_	
+4-17	381-384	but	_	_	
+4-18	385-390	where	_	_	
+4-19	391-396	sales	_	_	
+4-20	397-400	are	_	_	
+4-21	401-405	made	_	_	
+4-22	406-410	full	_	_	
+4-23	411-416	price	_	_	
+4-24	417-418	>	_	_	
+4-25	419-422	are	_	_	
+4-26	423-430	exacted	_	_	
+4-27	430-431	,	_	_	
+4-28	432-435	and	_	_	
+4-29	436-448	occasionally	_	_	
+4-30	449-450	a	_	_	
+4-31	451-457	slight	_	_	
+4-32	458-469	improvement	_	_	
+4-33	470-472	in	_	_	
+4-34	473-477	this	_	_	
+4-35	478-485	respect	_	_	
+4-36	486-488	is	_	_	
+4-37	489-499	observable	_	_	
+4-38	500-505	since	_	_	
+4-39	506-513	Tuesday	_	_	
+4-40	513-514	.	_	_	
+
+#Text=CORN, LONDON.
+5-1	516-520	CORN	_	_	
+5-2	520-521	,	_	_	
+5-3	522-528	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+5-4	528-529	.	_	_	
+
+#Text=—Wheat firmly held at higher price, but as yet little business done.
+6-1	529-530	—	_	_	
+6-2	530-535	Wheat	_	_	
+6-3	536-542	firmly	_	_	
+6-4	543-547	held	_	_	
+6-5	548-550	at	_	_	
+6-6	551-557	higher	_	_	
+6-7	558-563	price	_	_	
+6-8	563-564	,	_	_	
+6-9	565-568	but	_	_	
+6-10	569-571	as	_	_	
+6-11	572-575	yet	_	_	
+6-12	576-582	little	_	_	
+6-13	583-591	business	_	_	
+6-14	592-596	done	_	_	
+6-15	596-597	.	_	_	
+
+#Text=Oats and barley the turn dearer than on Monday, 
+#Text=CORN, M AKEFIELD.
+7-1	598-602	Oats	_	_	
+7-2	603-606	and	_	_	
+7-3	607-613	barley	_	_	
+7-4	614-617	the	_	_	
+7-5	618-622	turn	_	_	
+7-6	623-629	dearer	_	_	
+7-7	630-634	than	_	_	
+7-8	635-637	on	_	_	
+7-9	638-644	Monday	_	_	
+7-10	644-645	,	_	_	
+7-11	647-651	CORN	_	_	
+7-12	651-652	,	_	_	
+7-13	653-654	M	*[1]	LOC[1]	
+7-14	655-663	AKEFIELD	*[1]	LOC[1]	
+7-15	663-664	.	_	_	
+
+#Text=—-We have a poor show of wheat to-day.
+8-1	664-665	—	_	_	
+8-2	665-666	-	_	_	
+8-3	666-668	We	_	_	
+8-4	669-673	have	_	_	
+8-5	674-675	a	_	_	
+8-6	676-680	poor	_	_	
+8-7	681-685	show	_	_	
+8-8	686-688	of	_	_	
+8-9	689-694	wheat	_	_	
+8-10	695-701	to-day	_	_	
+8-11	701-702	.	_	_	
+
+#Text=Factors ask an advance of Is. to Ss. on tine old, but millers buy sparingly.
+9-1	703-710	Factors	_	_	
+9-2	711-714	ask	_	_	
+9-3	715-717	an	_	_	
+9-4	718-725	advance	_	_	
+9-5	726-728	of	_	_	
+9-6	729-731	Is	_	_	
+9-7	731-732	.	_	_	
+9-8	733-735	to	_	_	
+9-9	736-738	Ss	_	_	
+9-10	738-739	.	_	_	
+9-11	740-742	on	_	_	
+9-12	743-747	tine	_	_	
+9-13	748-751	old	_	_	
+9-14	751-752	,	_	_	
+9-15	753-756	but	_	_	
+9-16	757-764	millers	_	_	
+9-17	765-768	buy	_	_	
+9-18	769-778	sparingly	_	_	
+9-19	778-779	.	_	_	
+
+#Text=Dry new good request, at rather over the rates of last week.
+10-1	780-783	Dry	_	_	
+10-2	784-787	new	_	_	
+10-3	788-792	good	_	_	
+10-4	793-800	request	_	_	
+10-5	800-801	,	_	_	
+10-6	802-804	at	_	_	
+10-7	805-811	rather	_	_	
+10-8	812-816	over	_	_	
+10-9	817-820	the	_	_	
+10-10	821-826	rates	_	_	
+10-11	827-829	of	_	_	
+10-12	830-834	last	_	_	
+10-13	835-839	week	_	_	
+10-14	839-840	.	_	_	
+
+#Text=New barley fetches from AOs. to AAs. per quarter. a beans, oats, and shelling no change.
+11-1	841-844	New	_	_	
+11-2	845-851	barley	_	_	
+11-3	852-859	fetches	_	_	
+11-4	860-864	from	_	_	
+11-5	865-868	AOs	_	_	
+11-6	868-869	.	_	_	
+11-7	870-872	to	_	_	
+11-8	873-876	AAs	_	_	
+11-9	876-877	.	_	_	
+11-10	878-881	per	_	_	
+11-11	882-889	quarter	_	_	
+11-12	889-890	.	_	_	
+11-13	891-892	a	_	_	
+11-14	893-898	beans	_	_	
+11-15	898-899	,	_	_	
+11-16	900-904	oats	_	_	
+11-17	904-905	,	_	_	
+11-18	906-909	and	_	_	
+11-19	910-918	shelling	_	_	
+11-20	919-921	no	_	_	
+11-21	922-928	change	_	_	
+11-22	928-929	.	_	_	
+
+#Text=damages antr
+12-1	931-938	damages	_	_	
+12-2	939-943	antr	_	_	

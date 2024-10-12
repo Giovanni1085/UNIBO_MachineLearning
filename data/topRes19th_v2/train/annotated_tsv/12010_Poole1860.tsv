@@ -1,0 +1,304 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=FRAMPTON.
+1-1	0-8	FRAMPTON	https://en.wikipedia.org/wiki/Frampton,\_Dorset	LOC	
+1-2	8-9	.	_	_	
+
+#Text=Half a mils from the 01imston; Station of the Wilts Bomenet, and Weymouth Railway, and five miles from Dorchester.
+2-1	11-15	Half	_	_	
+2-2	16-17	a	_	_	
+2-3	18-22	mils	_	_	
+2-4	23-27	from	_	_	
+2-5	28-31	the	_	_	
+2-6	32-40	01imston	_	_	
+2-7	40-41	;	_	_	
+2-8	42-49	Station	_	_	
+2-9	50-52	of	_	_	
+2-10	53-56	the	_	_	
+2-11	57-62	Wilts	https://en.wikipedia.org/wiki/Wiltshire	LOC	
+2-12	63-70	Bomenet	https://en.wikipedia.org/wiki/Somerset	LOC	
+2-13	70-71	,	_	_	
+2-14	72-75	and	_	_	
+2-15	76-84	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+2-16	85-92	Railway	_	_	
+2-17	92-93	,	_	_	
+2-18	94-97	and	_	_	
+2-19	98-102	five	_	_	
+2-20	103-108	miles	_	_	
+2-21	109-113	from	_	_	
+2-22	114-124	Dorchester	https://en.wikipedia.org/wiki/Dorchester,\_Dorset	LOC	
+2-23	124-125	.	_	_	
+
+#Text=MESSRS.
+3-1	127-133	MESSRS	_	_	
+3-2	133-134	.	_	_	
+
+#Text=BAKER and ENSOR have been favoured with instructions from R.
+4-1	135-140	BAKER	_	_	
+4-2	141-144	and	_	_	
+4-3	145-150	ENSOR	_	_	
+4-4	151-155	have	_	_	
+4-5	156-160	been	_	_	
+4-6	161-169	favoured	_	_	
+4-7	170-174	with	_	_	
+4-8	175-187	instructions	_	_	
+4-9	188-192	from	_	_	
+4-10	193-194	R	_	_	
+4-11	194-195	.	_	_	
+
+#Text=B.
+5-1	196-197	B	_	_	
+5-2	197-198	.	_	_	
+
+#Text=Sheridan, Esq., M.P., to SELL BY AUCTION, 
+#Text=at FRAYPION, on WEDYUDAT, ACciC3l. 8, 1880, hie choice 
+#Text=Flock of 712 Sussex Down Ewes, Chilver Lambs, Rams and Ram Lambs, Which hare been bled with great care,judgment and expense from the celebrated flocks of the Duke of Richmond, Jonas Webb, Eliman, James Harding, and Edward Pope, Esquires.
+6-1	199-207	Sheridan	_	_	
+6-2	207-208	,	_	_	
+6-3	209-212	Esq	_	_	
+6-4	212-213	.	_	_	
+6-5	213-214	,	_	_	
+6-6	215-218	M.P	_	_	
+6-7	218-219	.	_	_	
+6-8	219-220	,	_	_	
+6-9	221-223	to	_	_	
+6-10	224-228	SELL	_	_	
+6-11	229-231	BY	_	_	
+6-12	232-239	AUCTION	_	_	
+6-13	239-240	,	_	_	
+6-14	242-244	at	_	_	
+6-15	245-253	FRAYPION	https://en.wikipedia.org/wiki/Frampton,\_Dorset	LOC	
+6-16	253-254	,	_	_	
+6-17	255-257	on	_	_	
+6-18	258-266	WEDYUDAT	_	_	
+6-19	266-267	,	_	_	
+6-20	268-275	ACciC3l	_	_	
+6-21	275-276	.	_	_	
+6-22	277-278	8	_	_	
+6-23	278-279	,	_	_	
+6-24	280-284	1880	_	_	
+6-25	284-285	,	_	_	
+6-26	286-289	hie	_	_	
+6-27	290-296	choice	_	_	
+6-28	298-303	Flock	_	_	
+6-29	304-306	of	_	_	
+6-30	307-310	712	_	_	
+6-31	311-317	Sussex	https://en.wikipedia.org/wiki/Sussex	LOC	
+6-32	318-322	Down	_	_	
+6-33	323-327	Ewes	_	_	
+6-34	327-328	,	_	_	
+6-35	329-336	Chilver	_	_	
+6-36	337-342	Lambs	_	_	
+6-37	342-343	,	_	_	
+6-38	344-348	Rams	_	_	
+6-39	349-352	and	_	_	
+6-40	353-356	Ram	_	_	
+6-41	357-362	Lambs	_	_	
+6-42	362-363	,	_	_	
+6-43	364-369	Which	_	_	
+6-44	370-374	hare	_	_	
+6-45	375-379	been	_	_	
+6-46	380-384	bled	_	_	
+6-47	385-389	with	_	_	
+6-48	390-395	great	_	_	
+6-49	396-400	care	_	_	
+6-50	400-401	,	_	_	
+6-51	401-409	judgment	_	_	
+6-52	410-413	and	_	_	
+6-53	414-421	expense	_	_	
+6-54	422-426	from	_	_	
+6-55	427-430	the	_	_	
+6-56	431-441	celebrated	_	_	
+6-57	442-448	flocks	_	_	
+6-58	449-451	of	_	_	
+6-59	452-455	the	_	_	
+6-60	456-460	Duke	_	_	
+6-61	461-463	of	_	_	
+6-62	464-472	Richmond	_	_	
+6-63	472-473	,	_	_	
+6-64	474-479	Jonas	_	_	
+6-65	480-484	Webb	_	_	
+6-66	484-485	,	_	_	
+6-67	486-492	Eliman	_	_	
+6-68	492-493	,	_	_	
+6-69	494-499	James	_	_	
+6-70	500-507	Harding	_	_	
+6-71	507-508	,	_	_	
+6-72	509-512	and	_	_	
+6-73	513-519	Edward	_	_	
+6-74	520-524	Pope	_	_	
+6-75	524-525	,	_	_	
+6-76	526-534	Esquires	_	_	
+6-77	534-535	.	_	_	
+
+#Text=The Auctioneers consider any recommendation of theirs superfluous, as the mention of the above distinguished names is a sufficient guarantee to those gentlemen who may intend to honour them with their attendance at the sale, that the stock to be offered for their competition is of a first class description.
+7-1	536-539	The	_	_	
+7-2	540-551	Auctioneers	_	_	
+7-3	552-560	consider	_	_	
+7-4	561-564	any	_	_	
+7-5	565-579	recommendation	_	_	
+7-6	580-582	of	_	_	
+7-7	583-589	theirs	_	_	
+7-8	590-601	superfluous	_	_	
+7-9	601-602	,	_	_	
+7-10	603-605	as	_	_	
+7-11	606-609	the	_	_	
+7-12	610-617	mention	_	_	
+7-13	618-620	of	_	_	
+7-14	621-624	the	_	_	
+7-15	625-630	above	_	_	
+7-16	631-644	distinguished	_	_	
+7-17	645-650	names	_	_	
+7-18	651-653	is	_	_	
+7-19	654-655	a	_	_	
+7-20	656-666	sufficient	_	_	
+7-21	667-676	guarantee	_	_	
+7-22	677-679	to	_	_	
+7-23	680-685	those	_	_	
+7-24	686-695	gentlemen	_	_	
+7-25	696-699	who	_	_	
+7-26	700-703	may	_	_	
+7-27	704-710	intend	_	_	
+7-28	711-713	to	_	_	
+7-29	714-720	honour	_	_	
+7-30	721-725	them	_	_	
+7-31	726-730	with	_	_	
+7-32	731-736	their	_	_	
+7-33	737-747	attendance	_	_	
+7-34	748-750	at	_	_	
+7-35	751-754	the	_	_	
+7-36	755-759	sale	_	_	
+7-37	759-760	,	_	_	
+7-38	761-765	that	_	_	
+7-39	766-769	the	_	_	
+7-40	770-775	stock	_	_	
+7-41	776-778	to	_	_	
+7-42	779-781	be	_	_	
+7-43	782-789	offered	_	_	
+7-44	790-793	for	_	_	
+7-45	794-799	their	_	_	
+7-46	800-811	competition	_	_	
+7-47	812-814	is	_	_	
+7-48	815-817	of	_	_	
+7-49	818-819	a	_	_	
+7-50	820-825	first	_	_	
+7-51	826-831	class	_	_	
+7-52	832-843	description	_	_	
+7-53	843-844	.	_	_	
+
+#Text=Refreshments will be provided at One oCloek.
+8-1	845-857	Refreshments	_	_	
+8-2	858-862	will	_	_	
+8-3	863-865	be	_	_	
+8-4	866-874	provided	_	_	
+8-5	875-877	at	_	_	
+8-6	878-881	One	_	_	
+8-7	882-888	oCloek	_	_	
+8-8	888-889	.	_	_	
+
+#Text=ROLLINGTON AND SANDYHILL FARMS, CORFE CASTLE, DORSET, NOTICE OF SALE.
+9-1	891-901	ROLLINGTON	*	BUILDING	
+9-2	902-905	AND	_	_	
+9-3	906-915	SANDYHILL	*	BUILDING	
+9-4	916-921	FARMS	_	_	
+9-5	921-922	,	_	_	
+9-6	923-928	CORFE	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[1]	LOC[1]	
+9-7	929-935	CASTLE	https://en.wikipedia.org/wiki/Corfe\_Castle\_(village)[1]	LOC[1]	
+9-8	935-936	,	_	_	
+9-9	937-943	DORSET	https://en.wikipedia.org/wiki/Dorset	LOC	
+9-10	943-944	,	_	_	
+9-11	945-951	NOTICE	_	_	
+9-12	952-954	OF	_	_	
+9-13	955-959	SALE	_	_	
+9-14	959-960	.	_	_	
+
+#Text=MR.
+10-1	961-963	MR	_	_	
+10-2	963-964	.	_	_	
+
+#Text=H.
+11-1	965-966	H	_	_	
+11-2	966-967	.	_	_	
+
+#Text=RICHARDS has been instructed to announce that he will SELL BY AUCTION The Wheat and Oat Crops. now growing on the above Farms, the property of the outgoing tenant, Mr.
+12-1	968-976	RICHARDS	_	_	
+12-2	977-980	has	_	_	
+12-3	981-985	been	_	_	
+12-4	986-996	instructed	_	_	
+12-5	997-999	to	_	_	
+12-6	1000-1008	announce	_	_	
+12-7	1009-1013	that	_	_	
+12-8	1014-1016	he	_	_	
+12-9	1017-1021	will	_	_	
+12-10	1022-1026	SELL	_	_	
+12-11	1027-1029	BY	_	_	
+12-12	1030-1037	AUCTION	_	_	
+12-13	1038-1041	The	_	_	
+12-14	1042-1047	Wheat	_	_	
+12-15	1048-1051	and	_	_	
+12-16	1052-1055	Oat	_	_	
+12-17	1056-1061	Crops	_	_	
+12-18	1061-1062	.	_	_	
+12-19	1063-1066	now	_	_	
+12-20	1067-1074	growing	_	_	
+12-21	1075-1077	on	_	_	
+12-22	1078-1081	the	_	_	
+12-23	1082-1087	above	_	_	
+12-24	1088-1093	Farms	_	_	
+12-25	1093-1094	,	_	_	
+12-26	1095-1098	the	_	_	
+12-27	1099-1107	property	_	_	
+12-28	1108-1110	of	_	_	
+12-29	1111-1114	the	_	_	
+12-30	1115-1123	outgoing	_	_	
+12-31	1124-1130	tenant	_	_	
+12-32	1130-1131	,	_	_	
+12-33	1132-1134	Mr	_	_	
+12-34	1134-1135	.	_	_	
+
+#Text=Robert Fowler, particulars of which with the day and place of Sale will be given in future Advertisement. and in hand bills to be circulated in the neiglibourbond.
+13-1	1136-1142	Robert	_	_	
+13-2	1143-1149	Fowler	_	_	
+13-3	1149-1150	,	_	_	
+13-4	1151-1162	particulars	_	_	
+13-5	1163-1165	of	_	_	
+13-6	1166-1171	which	_	_	
+13-7	1172-1176	with	_	_	
+13-8	1177-1180	the	_	_	
+13-9	1181-1184	day	_	_	
+13-10	1185-1188	and	_	_	
+13-11	1189-1194	place	_	_	
+13-12	1195-1197	of	_	_	
+13-13	1198-1202	Sale	_	_	
+13-14	1203-1207	will	_	_	
+13-15	1208-1210	be	_	_	
+13-16	1211-1216	given	_	_	
+13-17	1217-1219	in	_	_	
+13-18	1220-1226	future	_	_	
+13-19	1227-1240	Advertisement	_	_	
+13-20	1240-1241	.	_	_	
+13-21	1242-1245	and	_	_	
+13-22	1246-1248	in	_	_	
+13-23	1249-1253	hand	_	_	
+13-24	1254-1259	bills	_	_	
+13-25	1260-1262	to	_	_	
+13-26	1263-1265	be	_	_	
+13-27	1266-1276	circulated	_	_	
+13-28	1277-1279	in	_	_	
+13-29	1280-1283	the	_	_	
+13-30	1284-1298	neiglibourbond	_	_	
+13-31	1298-1299	.	_	_	
+
+#Text=Abbotts Court, Blaudford, July 24th, 1860.
+14-1	1300-1307	Abbotts	*[2]	BUILDING[2]	
+14-2	1308-1313	Court	*[2]	BUILDING[2]	
+14-3	1313-1314	,	_	_	
+14-4	1315-1324	Blaudford	https://en.wikipedia.org/wiki/Blandford\_Forum	LOC	
+14-5	1324-1325	,	_	_	
+14-6	1326-1330	July	_	_	
+14-7	1331-1335	24th	_	_	
+14-8	1335-1336	,	_	_	
+14-9	1337-1341	1860	_	_	
+14-10	1341-1342	.	_	_	

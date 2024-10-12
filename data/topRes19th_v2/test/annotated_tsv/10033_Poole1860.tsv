@@ -1,0 +1,423 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Steam to Australia under SO Days.
+1-1	0-5	Steam	_	_	
+1-2	6-8	to	_	_	
+1-3	9-18	Australia	https://en.wikipedia.org/wiki/Australia	LOC	
+1-4	19-24	under	_	_	
+1-5	25-27	SO	_	_	
+1-6	28-32	Days	_	_	
+1-7	32-33	.	_	_	
+
+#Text=PASSAGE MONEY £l4 AND UPWARDS BLACK BALL LINE OF *Will and Australian Ex-Royal Mail Packets.
+2-1	34-41	PASSAGE	_	_	
+2-2	42-47	MONEY	_	_	
+2-3	48-49	£	_	_	
+2-4	49-51	l4	_	_	
+2-5	52-55	AND	_	_	
+2-6	56-63	UPWARDS	_	_	
+2-7	64-69	BLACK	_	_	
+2-8	70-74	BALL	_	_	
+2-9	75-79	LINE	_	_	
+2-10	80-82	OF	_	_	
+2-11	83-84	*	_	_	
+2-12	84-88	Will	_	_	
+2-13	89-92	and	_	_	
+2-14	93-103	Australian	_	_	
+2-15	104-112	Ex-Royal	_	_	
+2-16	113-117	Mail	_	_	
+2-17	118-125	Packets	_	_	
+2-18	125-126	.	_	_	
+
+#Text=AND EAGLE LINE OF PACKETS.
+3-1	127-130	AND	_	_	
+3-2	131-136	EAGLE	_	_	
+3-3	137-141	LINE	_	_	
+3-4	142-144	OF	_	_	
+3-5	145-152	PACKETS	_	_	
+3-6	152-153	.	_	_	
+
+#Text=TN conjunction with the Celebrated .• Auxiliary Screw Steam Clipper r • t 0 " GREAT BRITAIN. " Appointed to Sail punctually from LIVERPOOL, on the 6th and 15th of every month.
+4-1	154-156	TN	_	_	
+4-2	157-168	conjunction	_	_	
+4-3	169-173	with	_	_	
+4-4	174-177	the	_	_	
+4-5	178-188	Celebrated	_	_	
+4-6	189-190	.	_	_	
+4-7	190-191	•	_	_	
+4-8	192-201	Auxiliary	_	_	
+4-9	202-207	Screw	_	_	
+4-10	208-213	Steam	_	_	
+4-11	214-221	Clipper	_	_	
+4-12	222-223	r	_	_	
+4-13	224-225	•	_	_	
+4-14	226-227	t	_	_	
+4-15	228-229	0	_	_	
+4-16	230-231	"	_	_	
+4-17	232-237	GREAT	_	_	
+4-18	238-245	BRITAIN	_	_	
+4-19	245-246	.	_	_	
+4-20	247-248	"	_	_	
+4-21	249-258	Appointed	_	_	
+4-22	259-261	to	_	_	
+4-23	262-266	Sail	_	_	
+4-24	267-277	punctually	_	_	
+4-25	278-282	from	_	_	
+4-26	283-292	LIVERPOOL	https://en.wikipedia.org/wiki/Liverpool	LOC	
+4-27	292-293	,	_	_	
+4-28	294-296	on	_	_	
+4-29	297-300	the	_	_	
+4-30	301-304	6th	_	_	
+4-31	305-308	and	_	_	
+4-32	309-313	15th	_	_	
+4-33	314-316	of	_	_	
+4-34	317-322	every	_	_	
+4-35	323-328	month	_	_	
+4-36	328-329	.	_	_	
+
+#Text=To the consignment of BRIGHT, BROTHERS & CU., MELBOURNE.
+5-1	330-332	To	_	_	
+5-2	333-336	the	_	_	
+5-3	337-348	consignment	_	_	
+5-4	349-351	of	_	_	
+5-5	352-358	BRIGHT	_	_	
+5-6	358-359	,	_	_	
+5-7	360-368	BROTHERS	_	_	
+5-8	369-370	&	_	_	
+5-9	371-373	CU	_	_	
+5-10	373-374	.	_	_	
+5-11	374-375	,	_	_	
+5-12	376-385	MELBOURNE	https://en.wikipedia.org/wiki/Melbourne	LOC	
+5-13	385-386	.	_	_	
+
+#Text=The above, in addition to being the only Line with Steam out of Liverpool, is composed of the largest, finest and fastest Merchant Ships in the world.
+6-1	387-390	The	_	_	
+6-2	391-396	above	_	_	
+6-3	396-397	,	_	_	
+6-4	398-400	in	_	_	
+6-5	401-409	addition	_	_	
+6-6	410-412	to	_	_	
+6-7	413-418	being	_	_	
+6-8	419-422	the	_	_	
+6-9	423-427	only	_	_	
+6-10	428-432	Line	_	_	
+6-11	433-437	with	_	_	
+6-12	438-443	Steam	_	_	
+6-13	444-447	out	_	_	
+6-14	448-450	of	_	_	
+6-15	451-460	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+6-16	460-461	,	_	_	
+6-17	462-464	is	_	_	
+6-18	465-473	composed	_	_	
+6-19	474-476	of	_	_	
+6-20	477-480	the	_	_	
+6-21	481-488	largest	_	_	
+6-22	488-489	,	_	_	
+6-23	490-496	finest	_	_	
+6-24	497-500	and	_	_	
+6-25	501-508	fastest	_	_	
+6-26	509-517	Merchant	_	_	
+6-27	518-523	Ships	_	_	
+6-28	524-526	in	_	_	
+6-29	527-530	the	_	_	
+6-30	531-536	world	_	_	
+6-31	536-537	.	_	_	
+
+#Text=Ship.
+7-1	538-542	Ship	_	_	
+7-2	542-543	.	_	_	
+
+#Text=Reg.
+8-1	544-547	Reg	_	_	
+8-2	547-548	.	_	_	
+
+#Text=Bur.
+9-1	549-552	Bur	_	_	
+9-2	552-553	.	_	_	
+
+#Text=Capt.
+10-1	554-558	Capt	_	_	
+10-2	558-559	.	_	_	
+
+#Text=Date.
+11-1	560-564	Date	_	_	
+11-2	564-565	.	_	_	
+
+#Text=Ocean Chief 1092 3000 Brown 6th July.
+12-1	566-571	Ocean	_	_	
+12-2	572-577	Chief	_	_	
+12-3	578-582	1092	_	_	
+12-4	583-587	3000	_	_	
+12-5	588-593	Brown	_	_	
+12-6	594-597	6th	_	_	
+12-7	598-602	July	_	_	
+12-8	602-603	.	_	_	
+
+#Text=Great Britain 1763 500 H.,.
+13-1	604-609	Great	_	_	
+13-2	610-617	Britain	_	_	
+13-3	618-622	1763	_	_	
+13-4	623-626	500	_	_	
+13-5	627-628	H	_	_	
+13-6	628-629	.	_	_	
+13-7	629-630	,	_	_	
+13-8	630-631	.	_	_	
+
+#Text=Gray 16th July.
+14-1	632-636	Gray	_	_	
+14-2	637-641	16th	_	_	
+14-3	642-646	July	_	_	
+14-4	646-647	.	_	_	
+
+#Text=Lightning 1769 5000 Clarke sth August.
+15-1	648-657	Lightning	_	_	
+15-2	658-662	1769	_	_	
+15-3	663-667	5000	_	_	
+15-4	668-674	Clarke	_	_	
+15-5	675-678	sth	_	_	
+15-6	679-685	August	_	_	
+15-7	685-686	.	_	_	
+
+#Text=Marco Polo 1625 4600 Johnston To follow.
+16-1	687-692	Marco	_	_	
+16-2	693-697	Polo	_	_	
+16-3	698-702	1625	_	_	
+16-4	703-707	4600	_	_	
+16-5	708-716	Johnston	_	_	
+16-6	717-719	To	_	_	
+16-7	720-726	follow	_	_	
+16-8	726-727	.	_	_	
+
+#Text=To be succeeded by the following Clippers and Steamers re.
+17-1	729-731	To	_	_	
+17-2	732-734	be	_	_	
+17-3	735-744	succeeded	_	_	
+17-4	745-747	by	_	_	
+17-5	748-751	the	_	_	
+17-6	752-761	following	_	_	
+17-7	762-770	Clippers	_	_	
+17-8	771-774	and	_	_	
+17-9	775-783	Steamers	_	_	
+17-10	784-786	re	_	_	
+17-11	786-787	.	_	_	
+
+#Text=Great Britain 1 Marco Polo Lightning  Ocean Chief Champion of the Seas British Trident Donald McKay ()ipso, Bride Great Tasmania Morning Light Eagle Commodore Perry Soldanha Montmorency 
+#Text=The above celebrated Steam end sailing airpe“ forming the only line honoured by a visit from Her Majesty the Queen, and so well-known for their rapid Oupeges, punctuality in sailing, and splendid accommoda• {ion insurpaesed by any !
+18-1	788-793	Great	_	_	
+18-2	794-801	Britain	_	_	
+18-3	802-803	1	_	_	
+18-4	804-809	Marco	_	_	
+18-5	810-814	Polo	_	_	
+18-6	815-824	Lightning	_	_	
+18-7	826-831	Ocean	_	_	
+18-8	832-837	Chief	_	_	
+18-9	838-846	Champion	_	_	
+18-10	847-849	of	_	_	
+18-11	850-853	the	_	_	
+18-12	854-858	Seas	_	_	
+18-13	859-866	British	_	_	
+18-14	867-874	Trident	_	_	
+18-15	875-881	Donald	_	_	
+18-16	882-887	McKay	_	_	
+18-17	888-889	(	_	_	
+18-18	889-890	)	_	_	
+18-19	890-894	ipso	_	_	
+18-20	894-895	,	_	_	
+18-21	896-901	Bride	_	_	
+18-22	902-907	Great	_	_	
+18-23	908-916	Tasmania	_	_	
+18-24	917-924	Morning	_	_	
+18-25	925-930	Light	_	_	
+18-26	931-936	Eagle	_	_	
+18-27	937-946	Commodore	_	_	
+18-28	947-952	Perry	_	_	
+18-29	953-961	Soldanha	_	_	
+18-30	962-973	Montmorency	_	_	
+18-31	975-978	The	_	_	
+18-32	979-984	above	_	_	
+18-33	985-995	celebrated	_	_	
+18-34	996-1001	Steam	_	_	
+18-35	1002-1005	end	_	_	
+18-36	1006-1013	sailing	_	_	
+18-37	1014-1019	airpe	_	_	
+18-38	1019-1020	“	_	_	
+18-39	1021-1028	forming	_	_	
+18-40	1029-1032	the	_	_	
+18-41	1033-1037	only	_	_	
+18-42	1038-1042	line	_	_	
+18-43	1043-1051	honoured	_	_	
+18-44	1052-1054	by	_	_	
+18-45	1055-1056	a	_	_	
+18-46	1057-1062	visit	_	_	
+18-47	1063-1067	from	_	_	
+18-48	1068-1071	Her	_	_	
+18-49	1072-1079	Majesty	_	_	
+18-50	1080-1083	the	_	_	
+18-51	1084-1089	Queen	_	_	
+18-52	1089-1090	,	_	_	
+18-53	1091-1094	and	_	_	
+18-54	1095-1097	so	_	_	
+18-55	1098-1108	well-known	_	_	
+18-56	1109-1112	for	_	_	
+18-57	1113-1118	their	_	_	
+18-58	1119-1124	rapid	_	_	
+18-59	1125-1132	Oupeges	_	_	
+18-60	1132-1133	,	_	_	
+18-61	1134-1145	punctuality	_	_	
+18-62	1146-1148	in	_	_	
+18-63	1149-1156	sailing	_	_	
+18-64	1156-1157	,	_	_	
+18-65	1158-1161	and	_	_	
+18-66	1162-1170	splendid	_	_	
+18-67	1171-1180	accommoda	_	_	
+18-68	1180-1181	•	_	_	
+18-69	1182-1183	{	_	_	
+18-70	1183-1186	ion	_	_	
+18-71	1187-1198	insurpaesed	_	_	
+18-72	1199-1201	by	_	_	
+18-73	1202-1205	any	_	_	
+18-74	1206-1207	!	_	_	
+
+#Text=Mips in the world, will continue to sail regularly between Liverpool and Melbourne, affording to Passengers and Shippers the most unrivalled 
+#Text=Ttd—Van Loges• The Commanders are men of experience and noted for their kindness and attention to Passengers.
+19-1	1207-1211	Mips	_	_	
+19-2	1212-1214	in	_	_	
+19-3	1215-1218	the	_	_	
+19-4	1219-1224	world	_	_	
+19-5	1224-1225	,	_	_	
+19-6	1226-1230	will	_	_	
+19-7	1231-1239	continue	_	_	
+19-8	1240-1242	to	_	_	
+19-9	1243-1247	sail	_	_	
+19-10	1248-1257	regularly	_	_	
+19-11	1258-1265	between	_	_	
+19-12	1266-1275	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+19-13	1276-1279	and	_	_	
+19-14	1280-1289	Melbourne	https://en.wikipedia.org/wiki/Melbourne	LOC	
+19-15	1289-1290	,	_	_	
+19-16	1291-1300	affording	_	_	
+19-17	1301-1303	to	_	_	
+19-18	1304-1314	Passengers	_	_	
+19-19	1315-1318	and	_	_	
+19-20	1319-1327	Shippers	_	_	
+19-21	1328-1331	the	_	_	
+19-22	1332-1336	most	_	_	
+19-23	1337-1347	unrivalled	_	_	
+19-24	1349-1356	Ttd—Van	_	_	
+19-25	1357-1362	Loges	_	_	
+19-26	1362-1363	•	_	_	
+19-27	1364-1367	The	_	_	
+19-28	1368-1378	Commanders	_	_	
+19-29	1379-1382	are	_	_	
+19-30	1383-1386	men	_	_	
+19-31	1387-1389	of	_	_	
+19-32	1390-1400	experience	_	_	
+19-33	1401-1404	and	_	_	
+19-34	1405-1410	noted	_	_	
+19-35	1411-1414	for	_	_	
+19-36	1415-1420	their	_	_	
+19-37	1421-1429	kindness	_	_	
+19-38	1430-1433	and	_	_	
+19-39	1434-1443	attention	_	_	
+19-40	1444-1446	to	_	_	
+19-41	1447-1457	Passengers	_	_	
+19-42	1457-1458	.	_	_	
+
+#Text=The Cabin accommodation is very superior, the Saloons being elegantly furnished with every requisite to insure comfort and are enpplied with beds, bedding, Ac.
+20-1	1459-1462	The	_	_	
+20-2	1463-1468	Cabin	_	_	
+20-3	1469-1482	accommodation	_	_	
+20-4	1483-1485	is	_	_	
+20-5	1486-1490	very	_	_	
+20-6	1491-1499	superior	_	_	
+20-7	1499-1500	,	_	_	
+20-8	1501-1504	the	_	_	
+20-9	1505-1512	Saloons	_	_	
+20-10	1513-1518	being	_	_	
+20-11	1519-1528	elegantly	_	_	
+20-12	1529-1538	furnished	_	_	
+20-13	1539-1543	with	_	_	
+20-14	1544-1549	every	_	_	
+20-15	1550-1559	requisite	_	_	
+20-16	1560-1562	to	_	_	
+20-17	1563-1569	insure	_	_	
+20-18	1570-1577	comfort	_	_	
+20-19	1578-1581	and	_	_	
+20-20	1582-1585	are	_	_	
+20-21	1586-1594	enpplied	_	_	
+20-22	1595-1599	with	_	_	
+20-23	1600-1604	beds	_	_	
+20-24	1604-1605	,	_	_	
+20-25	1606-1613	bedding	_	_	
+20-26	1613-1614	,	_	_	
+20-27	1615-1617	Ac	_	_	
+20-28	1617-1618	.	_	_	
+
+#Text=Bounty Ticket Passengers forwarded to Launceston and Hobart town.
+21-1	1619-1625	Bounty	_	_	
+21-2	1626-1632	Ticket	_	_	
+21-3	1633-1643	Passengers	_	_	
+21-4	1644-1653	forwarded	_	_	
+21-5	1654-1656	to	_	_	
+21-6	1657-1667	Launceston	https://en.wikipedia.org/wiki/Launceston,\_Tasmania	LOC	
+21-7	1668-1671	and	_	_	
+21-8	1672-1678	Hobart	https://en.wikipedia.org/wiki/Hobart[1]	LOC[1]	
+21-9	1679-1683	town	https://en.wikipedia.org/wiki/Hobart[1]	LOC[1]	
+21-10	1683-1684	.	_	_	
+
+#Text=Apply to GIBBS, BRIGHT A CO., Merchants orth John Street, and JAMBS BAINES and Co.
+22-1	1685-1690	Apply	_	_	
+22-2	1691-1693	to	_	_	
+22-3	1694-1699	GIBBS	_	_	
+22-4	1699-1700	,	_	_	
+22-5	1701-1707	BRIGHT	_	_	
+22-6	1708-1709	A	_	_	
+22-7	1710-1712	CO	_	_	
+22-8	1712-1713	.	_	_	
+22-9	1713-1714	,	_	_	
+22-10	1715-1724	Merchants	_	_	
+22-11	1725-1729	orth	*[2]	STREET[2]	
+22-12	1730-1734	John	*[2]	STREET[2]	
+22-13	1735-1741	Street	*[2]	STREET[2]	
+22-14	1741-1742	,	_	_	
+22-15	1743-1746	and	_	_	
+22-16	1747-1752	JAMBS	_	_	
+22-17	1753-1759	BAINES	_	_	
+22-18	1760-1763	and	_	_	
+22-19	1764-1766	Co	_	_	
+22-20	1766-1767	.	_	_	
+
+#Text=Tower Buildings, Liverpool; or to Mr.
+23-1	1768-1773	Tower	*[3]	BUILDING[3]	
+23-2	1774-1783	Buildings	*[3]	BUILDING[3]	
+23-3	1783-1784	,	_	_	
+23-4	1785-1794	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+23-5	1794-1795	;	_	_	
+23-6	1796-1798	or	_	_	
+23-7	1799-1801	to	_	_	
+23-8	1802-1804	Mr	_	_	
+23-9	1804-1805	.	_	_	
+
+#Text=ROBERTS Ship Broker, Weymouth, and Mr.
+24-1	1806-1813	ROBERTS	_	_	
+24-2	1814-1818	Ship	_	_	
+24-3	1819-1825	Broker	_	_	
+24-4	1825-1826	,	_	_	
+24-5	1827-1835	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+24-6	1835-1836	,	_	_	
+24-7	1837-1840	and	_	_	
+24-8	1841-1843	Mr	_	_	
+24-9	1843-1844	.	_	_	
+
+#Text=JOHN WILLS MARTIN, Shipping Agent, Poole.
+25-1	1845-1849	JOHN	_	_	
+25-2	1850-1855	WILLS	_	_	
+25-3	1856-1862	MARTIN	_	_	
+25-4	1862-1863	,	_	_	
+25-5	1864-1872	Shipping	_	_	
+25-6	1873-1878	Agent	_	_	
+25-7	1878-1879	,	_	_	
+25-8	1880-1885	Poole	https://en.wikipedia.org/wiki/Poole	LOC	
+25-9	1885-1886	.	_	_	

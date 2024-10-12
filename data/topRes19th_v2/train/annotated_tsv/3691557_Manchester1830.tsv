@@ -1,0 +1,358 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Postscript.
+1-1	0-10	Postscript	_	_	
+1-2	10-11	.	_	_	
+
+#Text=LONDON, THURSDAY/EVENING.
+2-1	13-19	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+2-2	19-20	,	_	_	
+2-3	21-29	THURSDAY	_	_	
+2-4	29-30	/	_	_	
+2-5	30-37	EVENING	_	_	
+2-6	37-38	.	_	_	
+
+#Text=City, Twelve oclock The reported indisposition of his majesty has produced a slight decline in the value of Consols, which are quoted at 91J \\, for the account.
+3-1	39-43	City	https://en.wikipedia.org/wiki/City\_of\_London	LOC	
+3-2	43-44	,	_	_	
+3-3	45-51	Twelve	_	_	
+3-4	52-58	oclock	_	_	
+3-5	59-62	The	_	_	
+3-6	63-71	reported	_	_	
+3-7	72-85	indisposition	_	_	
+3-8	86-88	of	_	_	
+3-9	89-92	his	_	_	
+3-10	93-100	majesty	_	_	
+3-11	101-104	has	_	_	
+3-12	105-113	produced	_	_	
+3-13	114-115	a	_	_	
+3-14	116-122	slight	_	_	
+3-15	123-130	decline	_	_	
+3-16	131-133	in	_	_	
+3-17	134-137	the	_	_	
+3-18	138-143	value	_	_	
+3-19	144-146	of	_	_	
+3-20	147-154	Consols	_	_	
+3-21	154-155	,	_	_	
+3-22	156-161	which	_	_	
+3-23	162-165	are	_	_	
+3-24	166-172	quoted	_	_	
+3-25	173-175	at	_	_	
+3-26	176-179	91J	_	_	
+3-27	180-181	\	_	_	
+3-28	181-182	,	_	_	
+3-29	183-186	for	_	_	
+3-30	187-190	the	_	_	
+3-31	191-198	account	_	_	
+3-32	198-199	.	_	_	
+
+#Text=Exchequer Rills are 15 to 37 premium.
+4-1	200-209	Exchequer	_	_	
+4-2	210-215	Rills	_	_	
+4-3	216-219	are	_	_	
+4-4	220-222	15	_	_	
+4-5	223-225	to	_	_	
+4-6	226-228	37	_	_	
+4-7	229-236	premium	_	_	
+4-8	236-237	.	_	_	
+
+#Text=United States Bank post notes are 93 to 94.
+5-1	238-244	United	https://en.wikipedia.org/wiki/United\_States[1]	LOC[1]	
+5-2	245-251	States	https://en.wikipedia.org/wiki/United\_States[1]	LOC[1]	
+5-3	252-256	Bank	_	_	
+5-4	257-261	post	_	_	
+5-5	262-267	notes	_	_	
+5-6	268-271	are	_	_	
+5-7	272-274	93	_	_	
+5-8	275-277	to	_	_	
+5-9	278-280	94	_	_	
+5-10	280-281	.	_	_	
+
+#Text=Four oclock—Consols for account closed at 91| L We have no information of importance from the seat of war, to-day.
+6-1	282-286	Four	_	_	
+6-2	287-301	oclock—Consols	_	_	
+6-3	302-305	for	_	_	
+6-4	306-313	account	_	_	
+6-5	314-320	closed	_	_	
+6-6	321-323	at	_	_	
+6-7	324-326	91	_	_	
+6-8	326-327	|	_	_	
+6-9	328-329	L	_	_	
+6-10	330-332	We	_	_	
+6-11	333-337	have	_	_	
+6-12	338-340	no	_	_	
+6-13	341-352	information	_	_	
+6-14	353-355	of	_	_	
+6-15	356-366	importance	_	_	
+6-16	367-371	from	_	_	
+6-17	372-375	the	_	_	
+6-18	376-380	seat	_	_	
+6-19	381-383	of	_	_	
+6-20	384-387	war	_	_	
+6-21	387-388	,	_	_	
+6-22	389-395	to-day	_	_	
+6-23	395-396	.	_	_	
+
+#Text=HOUSE OF LORDS.
+7-1	397-402	HOUSE	https://en.wikipedia.org/wiki/House\_of\_Lords[2]	LOC[2]	
+7-2	403-405	OF	https://en.wikipedia.org/wiki/House\_of\_Lords[2]	LOC[2]	
+7-3	406-411	LORDS	https://en.wikipedia.org/wiki/House\_of\_Lords[2]	LOC[2]	
+7-4	411-412	.	_	_	
+
+#Text=The royal assent was given by commission to the following bills:—The Exchequer Bills Bill ; Annual Indemnity Bill; the/Milbank Penitentiary Bill; the Trial by Jury (Scotland) Bill; the Manchester and Oldham Roads Bill; and several private bills Several bills were forwarded a stage—(Left sitting.)
+8-1	413-416	The	_	_	
+8-2	417-422	royal	_	_	
+8-3	423-429	assent	_	_	
+8-4	430-433	was	_	_	
+8-5	434-439	given	_	_	
+8-6	440-442	by	_	_	
+8-7	443-453	commission	_	_	
+8-8	454-456	to	_	_	
+8-9	457-460	the	_	_	
+8-10	461-470	following	_	_	
+8-11	471-476	bills	_	_	
+8-12	476-477	:	_	_	
+8-13	477-478	—	_	_	
+8-14	478-481	The	_	_	
+8-15	482-491	Exchequer	_	_	
+8-16	492-497	Bills	_	_	
+8-17	498-502	Bill	_	_	
+8-18	503-504	;	_	_	
+8-19	505-511	Annual	_	_	
+8-20	512-521	Indemnity	_	_	
+8-21	522-526	Bill	_	_	
+8-22	526-527	;	_	_	
+8-23	528-531	the	_	_	
+8-24	531-532	/	_	_	
+8-25	532-539	Milbank	https://en.wikipedia.org/wiki/Millbank\_Prison[3]	BUILDING[3]	
+8-26	540-552	Penitentiary	https://en.wikipedia.org/wiki/Millbank\_Prison[3]	BUILDING[3]	
+8-27	553-557	Bill	_	_	
+8-28	557-558	;	_	_	
+8-29	559-562	the	_	_	
+8-30	563-568	Trial	_	_	
+8-31	569-571	by	_	_	
+8-32	572-576	Jury	_	_	
+8-33	577-578	(	_	_	
+8-34	578-586	Scotland	https://en.wikipedia.org/wiki/Scotland	LOC	
+8-35	586-587	)	_	_	
+8-36	588-592	Bill	_	_	
+8-37	592-593	;	_	_	
+8-38	594-597	the	_	_	
+8-39	598-608	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+8-40	609-612	and	_	_	
+8-41	613-619	Oldham	https://en.wikipedia.org/wiki/Oldham	LOC	
+8-42	620-625	Roads	_	_	
+8-43	626-630	Bill	_	_	
+8-44	630-631	;	_	_	
+8-45	632-635	and	_	_	
+8-46	636-643	several	_	_	
+8-47	644-651	private	_	_	
+8-48	652-657	bills	_	_	
+8-49	658-665	Several	_	_	
+8-50	666-671	bills	_	_	
+8-51	672-676	were	_	_	
+8-52	677-686	forwarded	_	_	
+8-53	687-688	a	_	_	
+8-54	689-694	stage	_	_	
+8-55	694-695	—	_	_	
+8-56	695-696	(	_	_	
+8-57	696-700	Left	_	_	
+8-58	701-708	sitting	_	_	
+8-59	708-709	.	_	_	
+8-60	709-710	)	_	_	
+
+#Text=HOUSE OF COMMONS.
+9-1	711-716	HOUSE	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[4]	LOC[4]	
+9-2	717-719	OF	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[4]	LOC[4]	
+9-3	720-727	COMMONS	https://en.wikipedia.org/wiki/House\_of\_Commons\_of\_the\_United\_Kingdom[4]	LOC[4]	
+9-4	727-728	.	_	_	
+
+#Text=The Glossop Reservoirs Bill was read a third time, and passed.
+10-1	729-732	The	_	_	
+10-2	733-740	Glossop	https://en.wikipedia.org/wiki/Glossop	LOC	
+10-3	741-751	Reservoirs	_	_	
+10-4	752-756	Bill	_	_	
+10-5	757-760	was	_	_	
+10-6	761-765	read	_	_	
+10-7	766-767	a	_	_	
+10-8	768-773	third	_	_	
+10-9	774-778	time	_	_	
+10-10	778-779	,	_	_	
+10-11	780-783	and	_	_	
+10-12	784-790	passed	_	_	
+10-13	790-791	.	_	_	
+
+#Text=Mr.
+11-1	792-794	Mr	_	_	
+11-2	794-795	.	_	_	
+
+#Text=Baines gave notice that on a future day he should move for leave to bring in a bill to provide for the more equal payment and an improved mode of administering the funds arising from the first fruits.
+12-1	796-802	Baines	_	_	
+12-2	803-807	gave	_	_	
+12-3	808-814	notice	_	_	
+12-4	815-819	that	_	_	
+12-5	820-822	on	_	_	
+12-6	823-824	a	_	_	
+12-7	825-831	future	_	_	
+12-8	832-835	day	_	_	
+12-9	836-838	he	_	_	
+12-10	839-845	should	_	_	
+12-11	846-850	move	_	_	
+12-12	851-854	for	_	_	
+12-13	855-860	leave	_	_	
+12-14	861-863	to	_	_	
+12-15	864-869	bring	_	_	
+12-16	870-872	in	_	_	
+12-17	873-874	a	_	_	
+12-18	875-879	bill	_	_	
+12-19	880-882	to	_	_	
+12-20	883-890	provide	_	_	
+12-21	891-894	for	_	_	
+12-22	895-898	the	_	_	
+12-23	899-903	more	_	_	
+12-24	904-909	equal	_	_	
+12-25	910-917	payment	_	_	
+12-26	918-921	and	_	_	
+12-27	922-924	an	_	_	
+12-28	925-933	improved	_	_	
+12-29	934-938	mode	_	_	
+12-30	939-941	of	_	_	
+12-31	942-955	administering	_	_	
+12-32	956-959	the	_	_	
+12-33	960-965	funds	_	_	
+12-34	966-973	arising	_	_	
+12-35	974-978	from	_	_	
+12-36	979-982	the	_	_	
+12-37	983-988	first	_	_	
+12-38	989-995	fruits	_	_	
+12-39	995-996	.	_	_	
+
+#Text=In answer to a question from Mr.
+13-1	997-999	In	_	_	
+13-2	1000-1006	answer	_	_	
+13-3	1007-1009	to	_	_	
+13-4	1010-1011	a	_	_	
+13-5	1012-1020	question	_	_	
+13-6	1021-1025	from	_	_	
+13-7	1026-1028	Mr	_	_	
+13-8	1028-1029	.	_	_	
+
+#Text=Goulburn, Lord J.
+14-1	1030-1038	Goulburn	_	_	
+14-2	1038-1039	,	_	_	
+14-3	1040-1044	Lord	_	_	
+14-4	1045-1046	J	_	_	
+14-5	1046-1047	.	_	_	
+
+#Text=Russell said it was the intention of his right hon. friend, the President of the Board of Trade, to bring in a bill, which would follow up the recommendatitn of the tithe commissioners in all respects, with the exception of the postponement of the commutation for another year. » STATUE or NELSON.
+15-1	1048-1055	Russell	_	_	
+15-2	1056-1060	said	_	_	
+15-3	1061-1063	it	_	_	
+15-4	1064-1067	was	_	_	
+15-5	1068-1071	the	_	_	
+15-6	1072-1081	intention	_	_	
+15-7	1082-1084	of	_	_	
+15-8	1085-1088	his	_	_	
+15-9	1089-1094	right	_	_	
+15-10	1095-1098	hon	_	_	
+15-11	1098-1099	.	_	_	
+15-12	1100-1106	friend	_	_	
+15-13	1106-1107	,	_	_	
+15-14	1108-1111	the	_	_	
+15-15	1112-1121	President	_	_	
+15-16	1122-1124	of	_	_	
+15-17	1125-1128	the	_	_	
+15-18	1129-1134	Board	_	_	
+15-19	1135-1137	of	_	_	
+15-20	1138-1143	Trade	_	_	
+15-21	1143-1144	,	_	_	
+15-22	1145-1147	to	_	_	
+15-23	1148-1153	bring	_	_	
+15-24	1154-1156	in	_	_	
+15-25	1157-1158	a	_	_	
+15-26	1159-1163	bill	_	_	
+15-27	1163-1164	,	_	_	
+15-28	1165-1170	which	_	_	
+15-29	1171-1176	would	_	_	
+15-30	1177-1183	follow	_	_	
+15-31	1184-1186	up	_	_	
+15-32	1187-1190	the	_	_	
+15-33	1191-1205	recommendatitn	_	_	
+15-34	1206-1208	of	_	_	
+15-35	1209-1212	the	_	_	
+15-36	1213-1218	tithe	_	_	
+15-37	1219-1232	commissioners	_	_	
+15-38	1233-1235	in	_	_	
+15-39	1236-1239	all	_	_	
+15-40	1240-1248	respects	_	_	
+15-41	1248-1249	,	_	_	
+15-42	1250-1254	with	_	_	
+15-43	1255-1258	the	_	_	
+15-44	1259-1268	exception	_	_	
+15-45	1269-1271	of	_	_	
+15-46	1272-1275	the	_	_	
+15-47	1276-1288	postponement	_	_	
+15-48	1289-1291	of	_	_	
+15-49	1292-1295	the	_	_	
+15-50	1296-1307	commutation	_	_	
+15-51	1308-1311	for	_	_	
+15-52	1312-1319	another	_	_	
+15-53	1320-1324	year	_	_	
+15-54	1324-1325	.	_	_	
+15-55	1326-1327	»	_	_	
+15-56	1328-1334	STATUE	_	_	
+15-57	1335-1337	or	_	_	
+15-58	1338-1344	NELSON	_	_	
+15-59	1344-1345	.	_	_	
+
+#Text=In answer from Sir E.
+16-1	1346-1348	In	_	_	
+16-2	1349-1355	answer	_	_	
+16-3	1356-1360	from	_	_	
+16-4	1361-1364	Sir	_	_	
+16-5	1365-1366	E	_	_	
+16-6	1366-1367	.	_	_	
+
+#Text=Codrington, Mr.
+17-1	1368-1378	Codrington	_	_	
+17-2	1378-1379	,	_	_	
+17-3	1380-1382	Mr	_	_	
+17-4	1382-1383	.	_	_	
+
+#Text=S.
+18-1	1384-1385	S	_	_	
+18-2	1385-1386	.	_	_	
+
+#Text=RrcESaid the Government was inclined to give facility in its power towards the erection of a statue in Trafalgar-square to the memory of Lord Nelson (Left sitting.)
+19-1	1387-1395	RrcESaid	_	_	
+19-2	1396-1399	the	_	_	
+19-3	1400-1410	Government	_	_	
+19-4	1411-1414	was	_	_	
+19-5	1415-1423	inclined	_	_	
+19-6	1424-1426	to	_	_	
+19-7	1427-1431	give	_	_	
+19-8	1432-1440	facility	_	_	
+19-9	1441-1443	in	_	_	
+19-10	1444-1447	its	_	_	
+19-11	1448-1453	power	_	_	
+19-12	1454-1461	towards	_	_	
+19-13	1462-1465	the	_	_	
+19-14	1466-1474	erection	_	_	
+19-15	1475-1477	of	_	_	
+19-16	1478-1479	a	_	_	
+19-17	1480-1486	statue	_	_	
+19-18	1487-1489	in	_	_	
+19-19	1490-1506	Trafalgar-square	https://en.wikipedia.org/wiki/Trafalgar\_Square	STREET	
+19-20	1507-1509	to	_	_	
+19-21	1510-1513	the	_	_	
+19-22	1514-1520	memory	_	_	
+19-23	1521-1523	of	_	_	
+19-24	1524-1528	Lord	_	_	
+19-25	1529-1535	Nelson	_	_	
+19-26	1536-1537	(	_	_	
+19-27	1537-1541	Left	_	_	
+19-28	1542-1549	sitting	_	_	
+19-29	1549-1550	.	_	_	
+19-30	1550-1551	)	_	_	

@@ -1,0 +1,515 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=DAMAGE DONE DURING THE LATE RIOTS.
+1-1	0-6	DAMAGE	_	_	
+1-2	7-11	DONE	_	_	
+1-3	12-18	DURING	_	_	
+1-4	19-22	THE	_	_	
+1-5	23-27	LATE	_	_	
+1-6	28-33	RIOTS	_	_	
+1-7	33-34	.	_	_	
+
+#Text=Yesterday an inquiry took place in the Manor Court Room, before T.
+2-1	36-45	Yesterday	_	_	
+2-2	46-48	an	_	_	
+2-3	49-56	inquiry	_	_	
+2-4	57-61	took	_	_	
+2-5	62-67	place	_	_	
+2-6	68-70	in	_	_	
+2-7	71-74	the	_	_	
+2-8	75-80	Manor	*[1]	BUILDING[1]	
+2-9	81-86	Court	*[1]	BUILDING[1]	
+2-10	87-91	Room	*[1]	BUILDING[1]	
+2-11	91-92	,	_	_	
+2-12	93-99	before	_	_	
+2-13	100-101	T	_	_	
+2-14	101-102	.	_	_	
+
+#Text=B.
+3-1	103-104	B	_	_	
+3-2	104-105	.	_	_	
+
+#Text=Addison, Ksq.. assessor, and a Sheriffs Jury, to ascertain the amount of damage done to the property of various individuals in this town, during the riots in the beginning of .May last.
+4-1	106-113	Addison	_	_	
+4-2	113-114	,	_	_	
+4-3	115-118	Ksq	_	_	
+4-4	118-119	.	_	_	
+4-5	119-120	.	_	_	
+4-6	121-129	assessor	_	_	
+4-7	129-130	,	_	_	
+4-8	131-134	and	_	_	
+4-9	135-136	a	_	_	
+4-10	137-145	Sheriffs	_	_	
+4-11	146-150	Jury	_	_	
+4-12	150-151	,	_	_	
+4-13	152-154	to	_	_	
+4-14	155-164	ascertain	_	_	
+4-15	165-168	the	_	_	
+4-16	169-175	amount	_	_	
+4-17	176-178	of	_	_	
+4-18	179-185	damage	_	_	
+4-19	186-190	done	_	_	
+4-20	191-193	to	_	_	
+4-21	194-197	the	_	_	
+4-22	198-206	property	_	_	
+4-23	207-209	of	_	_	
+4-24	210-217	various	_	_	
+4-25	218-229	individuals	_	_	
+4-26	230-232	in	_	_	
+4-27	233-237	this	_	_	
+4-28	238-242	town	_	_	
+4-29	242-243	,	_	_	
+4-30	244-250	during	_	_	
+4-31	251-254	the	_	_	
+4-32	255-260	riots	_	_	
+4-33	261-263	in	_	_	
+4-34	264-267	the	_	_	
+4-35	268-277	beginning	_	_	
+4-36	278-280	of	_	_	
+4-37	281-282	.	_	_	
+4-38	282-285	May	_	_	
+4-39	286-290	last	_	_	
+4-40	290-291	.	_	_	
+
+#Text=The persons claiming compensation, are Mr.
+5-1	292-295	The	_	_	
+5-2	296-303	persons	_	_	
+5-3	304-312	claiming	_	_	
+5-4	313-325	compensation	_	_	
+5-5	325-326	,	_	_	
+5-6	327-330	are	_	_	
+5-7	331-333	Mr	_	_	
+5-8	333-334	.	_	_	
+
+#Text=Whittaker, as trustee for the late Mr.
+6-1	335-344	Whittaker	_	_	
+6-2	344-345	,	_	_	
+6-3	346-348	as	_	_	
+6-4	349-356	trustee	_	_	
+6-5	357-360	for	_	_	
+6-6	361-364	the	_	_	
+6-7	365-369	late	_	_	
+6-8	370-372	Mr	_	_	
+6-9	372-373	.	_	_	
+
+#Text=Marshall, the owner of the factory occupied by Mr.
+7-1	374-382	Marshall	_	_	
+7-2	382-383	,	_	_	
+7-3	384-387	the	_	_	
+7-4	388-393	owner	_	_	
+7-5	394-396	of	_	_	
+7-6	397-400	the	_	_	
+7-7	401-408	factory	_	_	
+7-8	409-417	occupied	_	_	
+7-9	418-420	by	_	_	
+7-10	421-423	Mr	_	_	
+7-11	423-424	.	_	_	
+
+#Text=Parker, in Dyche-street, St.
+8-1	425-431	Parker	_	_	
+8-2	431-432	,	_	_	
+8-3	433-435	in	_	_	
+8-4	436-448	Dyche-street	*	STREET	
+8-5	448-449	,	_	_	
+8-6	450-452	St	*[2]	STREET[2]	
+8-7	452-453	.	*[2]	STREET[2]	
+
+#Text=Georges-road; .Mr.
+9-1	454-466	Georges-road	*[2]	STREET[2]	
+9-2	466-467	;	_	_	
+9-3	468-469	.	_	_	
+9-4	469-471	Mr	_	_	
+9-5	471-472	.	_	_	
+
+#Text=Parker himself, Mr.
+10-1	473-479	Parker	_	_	
+10-2	480-487	himself	_	_	
+10-3	487-488	,	_	_	
+10-4	489-491	Mr	_	_	
+10-5	491-492	.	_	_	
+
+#Text=Guest, Mr.
+11-1	493-498	Guest	_	_	
+11-2	498-499	,	_	_	
+11-3	500-502	Mr	_	_	
+11-4	502-503	.	_	_	
+
+#Text=Harbottle, and Mr.
+12-1	504-513	Harbottle	_	_	
+12-2	513-514	,	_	_	
+12-3	515-518	and	_	_	
+12-4	519-521	Mr	_	_	
+12-5	521-522	.	_	_	
+
+#Text=Twiss.
+13-1	523-528	Twiss	_	_	
+13-2	528-529	.	_	_	
+
+#Text=The first case which came on was that of Mr.
+14-1	530-533	The	_	_	
+14-2	534-539	first	_	_	
+14-3	540-544	case	_	_	
+14-4	545-550	which	_	_	
+14-5	551-555	came	_	_	
+14-6	556-558	on	_	_	
+14-7	559-562	was	_	_	
+14-8	563-567	that	_	_	
+14-9	568-570	of	_	_	
+14-10	571-573	Mr	_	_	
+14-11	573-574	.	_	_	
+
+#Text=Whittaker, who claimed compensation for the destruction by fire, of the factory occupied by Mr.
+15-1	575-584	Whittaker	_	_	
+15-2	584-585	,	_	_	
+15-3	586-589	who	_	_	
+15-4	590-597	claimed	_	_	
+15-5	598-610	compensation	_	_	
+15-6	611-614	for	_	_	
+15-7	615-618	the	_	_	
+15-8	619-630	destruction	_	_	
+15-9	631-633	by	_	_	
+15-10	634-638	fire	_	_	
+15-11	638-639	,	_	_	
+15-12	640-642	of	_	_	
+15-13	643-646	the	_	_	
+15-14	647-654	factory	_	_	
+15-15	655-663	occupied	_	_	
+15-16	664-666	by	_	_	
+15-17	667-669	Mr	_	_	
+15-18	669-670	.	_	_	
+
+#Text=Parker, on the 4th of Way, and for the damage done by the fire to a number of cottages adjoining the factory. .Messrs. t ourtenay and Brandt appeared as counsel for the claimant, and Mr.
+16-1	671-677	Parker	_	_	
+16-2	677-678	,	_	_	
+16-3	679-681	on	_	_	
+16-4	682-685	the	_	_	
+16-5	686-689	4th	_	_	
+16-6	690-692	of	_	_	
+16-7	693-696	Way	_	_	
+16-8	696-697	,	_	_	
+16-9	698-701	and	_	_	
+16-10	702-705	for	_	_	
+16-11	706-709	the	_	_	
+16-12	710-716	damage	_	_	
+16-13	717-721	done	_	_	
+16-14	722-724	by	_	_	
+16-15	725-728	the	_	_	
+16-16	729-733	fire	_	_	
+16-17	734-736	to	_	_	
+16-18	737-738	a	_	_	
+16-19	739-745	number	_	_	
+16-20	746-748	of	_	_	
+16-21	749-757	cottages	_	_	
+16-22	758-767	adjoining	_	_	
+16-23	768-771	the	_	_	
+16-24	772-779	factory	_	_	
+16-25	779-780	.	_	_	
+16-26	781-782	.	_	_	
+16-27	782-788	Messrs	_	_	
+16-28	788-789	.	_	_	
+16-29	790-791	t	_	_	
+16-30	792-800	ourtenay	_	_	
+16-31	801-804	and	_	_	
+16-32	805-811	Brandt	_	_	
+16-33	812-820	appeared	_	_	
+16-34	821-823	as	_	_	
+16-35	824-831	counsel	_	_	
+16-36	832-835	for	_	_	
+16-37	836-839	the	_	_	
+16-38	840-848	claimant	_	_	
+16-39	848-849	,	_	_	
+16-40	850-853	and	_	_	
+16-41	854-856	Mr	_	_	
+16-42	856-857	.	_	_	
+
+#Text=Aglionby for the hundred.
+17-1	858-866	Aglionby	_	_	
+17-2	867-870	for	_	_	
+17-3	871-874	the	_	_	
+17-4	875-882	hundred	_	_	
+17-5	882-883	.	_	_	
+
+#Text=Mr Birchall also attended on behalf of tbe county.
+18-1	884-886	Mr	_	_	
+18-2	887-895	Birchall	_	_	
+18-3	896-900	also	_	_	
+18-4	901-909	attended	_	_	
+18-5	910-912	on	_	_	
+18-6	913-919	behalf	_	_	
+18-7	920-922	of	_	_	
+18-8	923-926	tbe	_	_	
+18-9	927-933	county	_	_	
+18-10	933-934	.	_	_	
+
+#Text=The sum claimed by .Mr.
+19-1	935-938	The	_	_	
+19-2	939-942	sum	_	_	
+19-3	943-950	claimed	_	_	
+19-4	951-953	by	_	_	
+19-5	954-955	.	_	_	
+19-6	955-957	Mr	_	_	
+19-7	957-958	.	_	_	
+
+#Text=Whittaker was £3090.
+20-1	959-968	Whittaker	_	_	
+20-2	969-972	was	_	_	
+20-3	973-978	£3090	_	_	
+20-4	978-979	.	_	_	
+
+#Text=After an opening address by Mr.
+21-1	980-985	After	_	_	
+21-2	986-988	an	_	_	
+21-3	989-996	opening	_	_	
+21-4	997-1004	address	_	_	
+21-5	1005-1007	by	_	_	
+21-6	1008-1010	Mr	_	_	
+21-7	1010-1011	.	_	_	
+
+#Text=Courtenay, in which he explained the law under which the hundred becomes liable for damage committed by riotous mobs, six witnesses were called to prove the value of the buildings, and the amount of damage sustained.
+22-1	1012-1021	Courtenay	_	_	
+22-2	1021-1022	,	_	_	
+22-3	1023-1025	in	_	_	
+22-4	1026-1031	which	_	_	
+22-5	1032-1034	he	_	_	
+22-6	1035-1044	explained	_	_	
+22-7	1045-1048	the	_	_	
+22-8	1049-1052	law	_	_	
+22-9	1053-1058	under	_	_	
+22-10	1059-1064	which	_	_	
+22-11	1065-1068	the	_	_	
+22-12	1069-1076	hundred	_	_	
+22-13	1077-1084	becomes	_	_	
+22-14	1085-1091	liable	_	_	
+22-15	1092-1095	for	_	_	
+22-16	1096-1102	damage	_	_	
+22-17	1103-1112	committed	_	_	
+22-18	1113-1115	by	_	_	
+22-19	1116-1123	riotous	_	_	
+22-20	1124-1128	mobs	_	_	
+22-21	1128-1129	,	_	_	
+22-22	1130-1133	six	_	_	
+22-23	1134-1143	witnesses	_	_	
+22-24	1144-1148	were	_	_	
+22-25	1149-1155	called	_	_	
+22-26	1156-1158	to	_	_	
+22-27	1159-1164	prove	_	_	
+22-28	1165-1168	the	_	_	
+22-29	1169-1174	value	_	_	
+22-30	1175-1177	of	_	_	
+22-31	1178-1181	the	_	_	
+22-32	1182-1191	buildings	_	_	
+22-33	1191-1192	,	_	_	
+22-34	1193-1196	and	_	_	
+22-35	1197-1200	the	_	_	
+22-36	1201-1207	amount	_	_	
+22-37	1208-1210	of	_	_	
+22-38	1211-1217	damage	_	_	
+22-39	1218-1227	sustained	_	_	
+22-40	1227-1228	.	_	_	
+
+#Text=The claimants case having been gone through, Mr.
+23-1	1229-1232	The	_	_	
+23-2	1233-1242	claimants	_	_	
+23-3	1243-1247	case	_	_	
+23-4	1248-1254	having	_	_	
+23-5	1255-1259	been	_	_	
+23-6	1260-1264	gone	_	_	
+23-7	1265-1272	through	_	_	
+23-8	1272-1273	,	_	_	
+23-9	1274-1276	Mr	_	_	
+23-10	1276-1277	.	_	_	
+
+#Text=Aglionby addressed tbe jury, on behalf of the hundred, and commented upon the evidence brought forward iv support of the claim.
+24-1	1278-1286	Aglionby	_	_	
+24-2	1287-1296	addressed	_	_	
+24-3	1297-1300	tbe	_	_	
+24-4	1301-1305	jury	_	_	
+24-5	1305-1306	,	_	_	
+24-6	1307-1309	on	_	_	
+24-7	1310-1316	behalf	_	_	
+24-8	1317-1319	of	_	_	
+24-9	1320-1323	the	_	_	
+24-10	1324-1331	hundred	_	_	
+24-11	1331-1332	,	_	_	
+24-12	1333-1336	and	_	_	
+24-13	1337-1346	commented	_	_	
+24-14	1347-1351	upon	_	_	
+24-15	1352-1355	the	_	_	
+24-16	1356-1364	evidence	_	_	
+24-17	1365-1372	brought	_	_	
+24-18	1373-1380	forward	_	_	
+24-19	1381-1383	iv	_	_	
+24-20	1384-1391	support	_	_	
+24-21	1392-1394	of	_	_	
+24-22	1395-1398	the	_	_	
+24-23	1399-1404	claim	_	_	
+24-24	1404-1405	.	_	_	
+
+#Text=He then called Mr.
+25-1	1406-1408	He	_	_	
+25-2	1409-1413	then	_	_	
+25-3	1414-1420	called	_	_	
+25-4	1421-1423	Mr	_	_	
+25-5	1423-1424	.	_	_	
+
+#Text=BeUhOuse, jun. and Mr.
+26-1	1425-1433	BeUhOuse	_	_	
+26-2	1433-1434	,	_	_	
+26-3	1435-1438	jun	_	_	
+26-4	1438-1439	.	_	_	
+26-5	1440-1443	and	_	_	
+26-6	1444-1446	Mr	_	_	
+26-7	1446-1447	.	_	_	
+
+#Text=R.
+27-1	1448-1449	R	_	_	
+27-2	1449-1450	.	_	_	
+
+#Text=Lane, both of whom had surveyed the premises, and whose joint estimate of the damage committed, fell short of the sum claimed by £340.
+28-1	1451-1455	Lane	_	_	
+28-2	1455-1456	,	_	_	
+28-3	1457-1461	both	_	_	
+28-4	1462-1464	of	_	_	
+28-5	1465-1469	whom	_	_	
+28-6	1470-1473	had	_	_	
+28-7	1474-1482	surveyed	_	_	
+28-8	1483-1486	the	_	_	
+28-9	1487-1495	premises	_	_	
+28-10	1495-1496	,	_	_	
+28-11	1497-1500	and	_	_	
+28-12	1501-1506	whose	_	_	
+28-13	1507-1512	joint	_	_	
+28-14	1513-1521	estimate	_	_	
+28-15	1522-1524	of	_	_	
+28-16	1525-1528	the	_	_	
+28-17	1529-1535	damage	_	_	
+28-18	1536-1545	committed	_	_	
+28-19	1545-1546	,	_	_	
+28-20	1547-1551	fell	_	_	
+28-21	1552-1557	short	_	_	
+28-22	1558-1560	of	_	_	
+28-23	1561-1564	the	_	_	
+28-24	1565-1568	sum	_	_	
+28-25	1569-1576	claimed	_	_	
+28-26	1577-1579	by	_	_	
+28-27	1580-1584	£340	_	_	
+28-28	1584-1585	.	_	_	
+
+#Text=The assessor, in summing up the case, expounded the law to the jury, and after reading over and commenting on the evidence, left it to them to say what sum ought to be awarded.
+29-1	1586-1589	The	_	_	
+29-2	1590-1598	assessor	_	_	
+29-3	1598-1599	,	_	_	
+29-4	1600-1602	in	_	_	
+29-5	1603-1610	summing	_	_	
+29-6	1611-1613	up	_	_	
+29-7	1614-1617	the	_	_	
+29-8	1618-1622	case	_	_	
+29-9	1622-1623	,	_	_	
+29-10	1624-1633	expounded	_	_	
+29-11	1634-1637	the	_	_	
+29-12	1638-1641	law	_	_	
+29-13	1642-1644	to	_	_	
+29-14	1645-1648	the	_	_	
+29-15	1649-1653	jury	_	_	
+29-16	1653-1654	,	_	_	
+29-17	1655-1658	and	_	_	
+29-18	1659-1664	after	_	_	
+29-19	1665-1672	reading	_	_	
+29-20	1673-1677	over	_	_	
+29-21	1678-1681	and	_	_	
+29-22	1682-1692	commenting	_	_	
+29-23	1693-1695	on	_	_	
+29-24	1696-1699	the	_	_	
+29-25	1700-1708	evidence	_	_	
+29-26	1708-1709	,	_	_	
+29-27	1710-1714	left	_	_	
+29-28	1715-1717	it	_	_	
+29-29	1718-1720	to	_	_	
+29-30	1721-1725	them	_	_	
+29-31	1726-1728	to	_	_	
+29-32	1729-1732	say	_	_	
+29-33	1733-1737	what	_	_	
+29-34	1738-1741	sum	_	_	
+29-35	1742-1747	ought	_	_	
+29-36	1748-1750	to	_	_	
+29-37	1751-1753	be	_	_	
+29-38	1754-1761	awarded	_	_	
+29-39	1761-1762	.	_	_	
+
+#Text=The jury after consulting together for about a quarter of an hour, awarded to the claimant the sum of £2050.
+30-1	1763-1766	The	_	_	
+30-2	1767-1771	jury	_	_	
+30-3	1772-1777	after	_	_	
+30-4	1778-1788	consulting	_	_	
+30-5	1789-1797	together	_	_	
+30-6	1798-1801	for	_	_	
+30-7	1802-1807	about	_	_	
+30-8	1808-1809	a	_	_	
+30-9	1810-1817	quarter	_	_	
+30-10	1818-1820	of	_	_	
+30-11	1821-1823	an	_	_	
+30-12	1824-1828	hour	_	_	
+30-13	1828-1829	,	_	_	
+30-14	1830-1837	awarded	_	_	
+30-15	1838-1840	to	_	_	
+30-16	1841-1844	the	_	_	
+30-17	1845-1853	claimant	_	_	
+30-18	1854-1857	the	_	_	
+30-19	1858-1861	sum	_	_	
+30-20	1862-1864	of	_	_	
+30-21	1865-1870	£2050	_	_	
+30-22	1870-1871	.	_	_	
+
+#Text=The inquiry lasted from ten oclock in the morning until nearly five in the afternoon.
+31-1	1872-1875	The	_	_	
+31-2	1876-1883	inquiry	_	_	
+31-3	1884-1890	lasted	_	_	
+31-4	1891-1895	from	_	_	
+31-5	1896-1899	ten	_	_	
+31-6	1900-1906	oclock	_	_	
+31-7	1907-1909	in	_	_	
+31-8	1910-1913	the	_	_	
+31-9	1914-1921	morning	_	_	
+31-10	1922-1927	until	_	_	
+31-11	1928-1934	nearly	_	_	
+31-12	1935-1939	five	_	_	
+31-13	1940-1942	in	_	_	
+31-14	1943-1946	the	_	_	
+31-15	1947-1956	afternoon	_	_	
+31-16	1956-1957	.	_	_	
+
+#Text=The court then adjourned until this day, when it will resume its sittings for the hearing of the other cases, in the grand jury room in the New Bailey.
+32-1	1958-1961	The	_	_	
+32-2	1962-1967	court	_	_	
+32-3	1968-1972	then	_	_	
+32-4	1973-1982	adjourned	_	_	
+32-5	1983-1988	until	_	_	
+32-6	1989-1993	this	_	_	
+32-7	1994-1997	day	_	_	
+32-8	1997-1998	,	_	_	
+32-9	1999-2003	when	_	_	
+32-10	2004-2006	it	_	_	
+32-11	2007-2011	will	_	_	
+32-12	2012-2018	resume	_	_	
+32-13	2019-2022	its	_	_	
+32-14	2023-2031	sittings	_	_	
+32-15	2032-2035	for	_	_	
+32-16	2036-2039	the	_	_	
+32-17	2040-2047	hearing	_	_	
+32-18	2048-2050	of	_	_	
+32-19	2051-2054	the	_	_	
+32-20	2055-2060	other	_	_	
+32-21	2061-2066	cases	_	_	
+32-22	2066-2067	,	_	_	
+32-23	2068-2070	in	_	_	
+32-24	2071-2074	the	_	_	
+32-25	2075-2080	grand	_	_	
+32-26	2081-2085	jury	_	_	
+32-27	2086-2090	room	_	_	
+32-28	2091-2093	in	_	_	
+32-29	2094-2097	the	_	_	
+32-30	2098-2101	New	*[3]	BUILDING[3]	
+32-31	2102-2108	Bailey	*[3]	BUILDING[3]	
+32-32	2108-2109	.	_	_	

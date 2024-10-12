@@ -1,0 +1,349 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=The Bisuopric of London.
+1-1	0-3	The	_	_	
+1-2	4-13	Bisuopric	_	_	
+1-3	14-16	of	_	_	
+1-4	17-23	London	https://en.wikipedia.org/wiki/London	LOC	
+1-5	23-24	.	_	_	
+
+#Text=—The Yen.
+2-1	24-25	—	_	_	
+2-2	25-28	The	_	_	
+2-3	29-32	Yen	_	_	
+2-4	32-33	.	_	_	
+
+#Text=W.
+3-1	34-35	W	_	_	
+3-2	35-36	.	_	_	
+
+#Text=Hale Hale, M.
+4-1	37-41	Hale	_	_	
+4-2	42-46	Hale	_	_	
+4-3	46-47	,	_	_	
+4-4	48-49	M	_	_	
+4-5	49-50	.	_	_	
+
+#Text=A., Archdeacon of London and canon of St.
+5-1	51-52	A	_	_	
+5-2	52-53	.	_	_	
+5-3	53-54	,	_	_	
+5-4	55-65	Archdeacon	_	_	
+5-5	66-68	of	_	_	
+5-6	69-75	London	https://en.wikipedia.org/wiki/London	LOC	
+5-7	76-79	and	_	_	
+5-8	80-85	canon	_	_	
+5-9	86-88	of	_	_	
+5-10	89-91	St	https://en.wikipedia.org/wiki/St\_Paul%27s\_Cathedral[1]	BUILDING[1]	
+5-11	91-92	.	https://en.wikipedia.org/wiki/St\_Paul%27s\_Cathedral[1]	BUILDING[1]	
+
+#Text=Pauls, nas taken the customary oaths, and has been admitted before the Vicar-General, Sir Travers Twiss, to the office of official within the city and diocese of London during the vacancy of ihe see of London.
+6-1	93-98	Pauls	https://en.wikipedia.org/wiki/St\_Paul%27s\_Cathedral[1]	BUILDING[1]	
+6-2	98-99	,	_	_	
+6-3	100-103	nas	_	_	
+6-4	104-109	taken	_	_	
+6-5	110-113	the	_	_	
+6-6	114-123	customary	_	_	
+6-7	124-129	oaths	_	_	
+6-8	129-130	,	_	_	
+6-9	131-134	and	_	_	
+6-10	135-138	has	_	_	
+6-11	139-143	been	_	_	
+6-12	144-152	admitted	_	_	
+6-13	153-159	before	_	_	
+6-14	160-163	the	_	_	
+6-15	164-177	Vicar-General	_	_	
+6-16	177-178	,	_	_	
+6-17	179-182	Sir	_	_	
+6-18	183-190	Travers	_	_	
+6-19	191-196	Twiss	_	_	
+6-20	196-197	,	_	_	
+6-21	198-200	to	_	_	
+6-22	201-204	the	_	_	
+6-23	205-211	office	_	_	
+6-24	212-214	of	_	_	
+6-25	215-223	official	_	_	
+6-26	224-230	within	_	_	
+6-27	231-234	the	_	_	
+6-28	235-239	city	_	_	
+6-29	240-243	and	_	_	
+6-30	244-251	diocese	_	_	
+6-31	252-254	of	_	_	
+6-32	255-261	London	https://en.wikipedia.org/wiki/London	LOC	
+6-33	262-268	during	_	_	
+6-34	269-272	the	_	_	
+6-35	273-280	vacancy	_	_	
+6-36	281-283	of	_	_	
+6-37	284-287	ihe	_	_	
+6-38	288-291	see	_	_	
+6-39	292-294	of	_	_	
+6-40	295-301	London	https://en.wikipedia.org/wiki/London	LOC	
+6-41	301-302	.	_	_	
+
+#Text=Galvanism.
+7-1	303-312	Galvanism	_	_	
+7-2	312-313	.	_	_	
+
+#Text=—Natures Ohtei Restorer ov Impaired Vitaj.
+8-1	313-314	—	_	_	
+8-2	314-321	Natures	_	_	
+8-3	322-327	Ohtei	_	_	
+8-4	328-336	Restorer	_	_	
+8-5	337-339	ov	_	_	
+8-6	340-348	Impaired	_	_	
+8-7	349-354	Vitaj	_	_	
+8-8	354-355	.	_	_	
+
+#Text=Enkiiov.
+9-1	356-363	Enkiiov	_	_	
+9-2	363-364	.	_	_	
+
+#Text=—APamihlet on Self-applicable Electricity demonstrating the most effectual, rational, and simple galvanic treatment of nervous aud rheumatic pains, debUity, indigestion, nervousness, sleeplessness, paralysis, neuralgia. epUepßy, cramo, functional disorders, &c., aa realised exclusively by the use of Pulvermachers Improved Patent Galvanic Chain Bands, Belts, and Pooket Self  restorablo Chais Batterif s, *c.
+10-1	364-365	—	_	_	
+10-2	365-374	APamihlet	_	_	
+10-3	375-377	on	_	_	
+10-4	378-393	Self-applicable	_	_	
+10-5	394-405	Electricity	_	_	
+10-6	406-419	demonstrating	_	_	
+10-7	420-423	the	_	_	
+10-8	424-428	most	_	_	
+10-9	429-438	effectual	_	_	
+10-10	438-439	,	_	_	
+10-11	440-448	rational	_	_	
+10-12	448-449	,	_	_	
+10-13	450-453	and	_	_	
+10-14	454-460	simple	_	_	
+10-15	461-469	galvanic	_	_	
+10-16	470-479	treatment	_	_	
+10-17	480-482	of	_	_	
+10-18	483-490	nervous	_	_	
+10-19	491-494	aud	_	_	
+10-20	495-504	rheumatic	_	_	
+10-21	505-510	pains	_	_	
+10-22	510-511	,	_	_	
+10-23	512-519	debUity	_	_	
+10-24	519-520	,	_	_	
+10-25	521-532	indigestion	_	_	
+10-26	532-533	,	_	_	
+10-27	534-545	nervousness	_	_	
+10-28	545-546	,	_	_	
+10-29	547-560	sleeplessness	_	_	
+10-30	560-561	,	_	_	
+10-31	562-571	paralysis	_	_	
+10-32	571-572	,	_	_	
+10-33	573-582	neuralgia	_	_	
+10-34	582-583	.	_	_	
+10-35	584-591	epUepßy	_	_	
+10-36	591-592	,	_	_	
+10-37	593-598	cramo	_	_	
+10-38	598-599	,	_	_	
+10-39	600-610	functional	_	_	
+10-40	611-620	disorders	_	_	
+10-41	620-621	,	_	_	
+10-42	622-623	&	_	_	
+10-43	623-624	c	_	_	
+10-44	624-625	.	_	_	
+10-45	625-626	,	_	_	
+10-46	627-629	aa	_	_	
+10-47	630-638	realised	_	_	
+10-48	639-650	exclusively	_	_	
+10-49	651-653	by	_	_	
+10-50	654-657	the	_	_	
+10-51	658-661	use	_	_	
+10-52	662-664	of	_	_	
+10-53	665-678	Pulvermachers	_	_	
+10-54	679-687	Improved	_	_	
+10-55	688-694	Patent	_	_	
+10-56	695-703	Galvanic	_	_	
+10-57	704-709	Chain	_	_	
+10-58	710-715	Bands	_	_	
+10-59	715-716	,	_	_	
+10-60	717-722	Belts	_	_	
+10-61	722-723	,	_	_	
+10-62	724-727	and	_	_	
+10-63	728-734	Pooket	_	_	
+10-64	735-739	Self	_	_	
+10-65	741-751	restorablo	_	_	
+10-66	752-757	Chais	_	_	
+10-67	758-766	Batterif	_	_	
+10-68	767-768	s	_	_	
+10-69	768-769	,	_	_	
+10-70	770-771	*	_	_	
+10-71	771-772	c	_	_	
+10-72	772-773	.	_	_	
+
+#Text=Approved by the Academic de Medecine, Paris; the Royal CoUege of Physicians, London, &c • subston.
+11-1	774-782	Approved	_	_	
+11-2	783-785	by	_	_	
+11-3	786-789	the	_	_	
+11-4	790-798	Academic	_	_	
+11-5	799-801	de	_	_	
+11-6	802-810	Medecine	_	_	
+11-7	810-811	,	_	_	
+11-8	812-817	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+11-9	817-818	;	_	_	
+11-10	819-822	the	_	_	
+11-11	823-828	Royal	_	_	
+11-12	829-835	CoUege	_	_	
+11-13	836-838	of	_	_	
+11-14	839-849	Physicians	_	_	
+11-15	849-850	,	_	_	
+11-16	851-857	London	https://en.wikipedia.org/wiki/London	LOC	
+11-17	857-858	,	_	_	
+11-18	859-860	&	_	_	
+11-19	860-861	c	_	_	
+11-20	862-863	•	_	_	
+11-21	864-871	subston	_	_	
+11-22	871-872	.	_	_	
+
+#Text=Hated by medical reports and authenticated testimonlaJs.i\\clndinff Sir C.
+12-1	873-878	Hated	_	_	
+12-2	879-881	by	_	_	
+12-3	882-889	medical	_	_	
+12-4	890-897	reports	_	_	
+12-5	898-901	and	_	_	
+12-6	902-915	authenticated	_	_	
+12-7	916-930	testimonlaJs.i	_	_	
+12-8	930-931	\	_	_	
+12-9	931-939	clndinff	_	_	
+12-10	940-943	Sir	_	_	
+12-11	944-945	C	_	_	
+12-12	945-946	.	_	_	
+
+#Text=Locoik, Bart., M.D.; Sir William Pergusson.
+13-1	947-953	Locoik	_	_	
+13-2	953-954	,	_	_	
+13-3	955-959	Bart	_	_	
+13-4	959-960	.	_	_	
+13-5	960-961	,	_	_	
+13-6	962-965	M.D	_	_	
+13-7	965-966	.	_	_	
+13-8	966-967	;	_	_	
+13-9	968-971	Sir	_	_	
+13-10	972-979	William	_	_	
+13-11	980-989	Pergusson	_	_	
+13-12	989-990	.	_	_	
+
+#Text=Bart- fflrT TR?
+14-1	991-995	Bart	_	_	
+14-2	995-996	-	_	_	
+14-3	997-1002	fflrT	_	_	
+14-4	1003-1005	TR	_	_	
+14-5	1005-1006	?	_	_	
+
+#Text=Martin, M.D.; £/.
+15-1	1007-1013	Martin	_	_	
+15-2	1013-1014	,	_	_	
+15-3	1015-1018	M.D	_	_	
+15-4	1018-1019	.	_	_	
+15-5	1019-1020	;	_	_	
+15-6	1021-1022	£	_	_	
+15-7	1022-1023	/	_	_	
+15-8	1023-1024	.	_	_	
+
+#Text=E.
+16-1	1025-1026	E	_	_	
+16-2	1026-1027	.	_	_	
+
+#Text=Stoekii.g M.D.; Dr.
+17-1	1028-1037	Stoekii.g	_	_	
+17-2	1038-1041	M.D	_	_	
+17-3	1041-1042	.	_	_	
+17-4	1042-1043	;	_	_	
+17-5	1044-1046	Dr	_	_	
+17-6	1046-1047	.	_	_	
+
+#Text=Hanflold Jones, physiiiaa to St.
+18-1	1048-1056	Hanflold	_	_	
+18-2	1057-1062	Jones	_	_	
+18-3	1062-1063	,	_	_	
+18-4	1064-1073	physiiiaa	_	_	
+18-5	1074-1076	to	_	_	
+18-6	1077-1079	St	_	_	
+18-7	1079-1080	.	_	_	
+
+#Text=Marys.
+19-1	1081-1086	Marys	_	_	
+19-2	1086-1087	.	_	_	
+
+#Text=Hospital; Dr.
+20-1	1088-1096	Hospital	_	_	
+20-2	1096-1097	;	_	_	
+20-3	1098-1100	Dr	_	_	
+20-4	1100-1101	.	_	_	
+
+#Text=A.
+21-1	1102-1103	A	_	_	
+21-2	1103-1104	.	_	_	
+
+#Text=Clarke, physician to theXoiSS Hospital.
+22-1	1105-1111	Clarke	_	_	
+22-2	1111-1112	,	_	_	
+22-3	1113-1122	physician	_	_	
+22-4	1123-1125	to	_	_	
+22-5	1126-1134	theXoiSS	_	_	
+22-5.1	1129-1134	XoiSS	*[2]	BUILDING[2]	
+22-6	1135-1143	Hospital	*[2]	BUILDING[2]	
+22-7	1143-1144	.	_	_	
+
+#Text=Ttis Pamphlet (sent post free) treats "why" and fore* these galvanio arrangements have proved most efficacious even in cases where other electrical apparatus and ordinary medical treatraent have been tried in vain, especially in ailments resulting fwm ,lt vital electricity >„ tbe functional organs.
+23-1	1145-1149	Ttis	_	_	
+23-2	1150-1158	Pamphlet	_	_	
+23-3	1159-1160	(	_	_	
+23-4	1160-1164	sent	_	_	
+23-5	1165-1169	post	_	_	
+23-6	1170-1174	free	_	_	
+23-7	1174-1175	)	_	_	
+23-8	1176-1182	treats	_	_	
+23-9	1183-1184	"	_	_	
+23-10	1184-1187	why	_	_	
+23-11	1187-1188	"	_	_	
+23-12	1189-1192	and	_	_	
+23-13	1193-1197	fore	_	_	
+23-14	1197-1198	*	_	_	
+23-15	1199-1204	these	_	_	
+23-16	1205-1213	galvanio	_	_	
+23-17	1214-1226	arrangements	_	_	
+23-18	1227-1231	have	_	_	
+23-19	1232-1238	proved	_	_	
+23-20	1239-1243	most	_	_	
+23-21	1244-1255	efficacious	_	_	
+23-22	1256-1260	even	_	_	
+23-23	1261-1263	in	_	_	
+23-24	1264-1269	cases	_	_	
+23-25	1270-1275	where	_	_	
+23-26	1276-1281	other	_	_	
+23-27	1282-1292	electrical	_	_	
+23-28	1293-1302	apparatus	_	_	
+23-29	1303-1306	and	_	_	
+23-30	1307-1315	ordinary	_	_	
+23-31	1316-1323	medical	_	_	
+23-32	1324-1334	treatraent	_	_	
+23-33	1335-1339	have	_	_	
+23-34	1340-1344	been	_	_	
+23-35	1345-1350	tried	_	_	
+23-36	1351-1353	in	_	_	
+23-37	1354-1358	vain	_	_	
+23-38	1358-1359	,	_	_	
+23-39	1360-1370	especially	_	_	
+23-40	1371-1373	in	_	_	
+23-41	1374-1382	ailments	_	_	
+23-42	1383-1392	resulting	_	_	
+23-43	1393-1396	fwm	_	_	
+23-44	1397-1398	,	_	_	
+23-45	1398-1400	lt	_	_	
+23-46	1401-1406	vital	_	_	
+23-47	1407-1418	electricity	_	_	
+23-48	1419-1420	>	_	_	
+23-49	1420-1421	„	_	_	
+23-50	1422-1425	tbe	_	_	
+23-51	1426-1436	functional	_	_	
+23-52	1437-1443	organs	_	_	
+23-53	1443-1444	.	_	_	
+
+#Text=-ApVlv jmt
+24-1	1444-1445	-	_	_	
+24-2	1445-1450	ApVlv	_	_	
+24-3	1451-1454	jmt	_	_	

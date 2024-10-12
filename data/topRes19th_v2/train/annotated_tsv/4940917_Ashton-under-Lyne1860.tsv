@@ -1,0 +1,553 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=GORTON.
+1-1	0-6	GORTON	https://en.wikipedia.org/wiki/Gorton	LOC	
+1-2	6-7	.	_	_	
+
+#Text=A Chicken with Four Legs.
+2-1	9-10	A	_	_	
+2-2	11-18	Chicken	_	_	
+2-3	19-23	with	_	_	
+2-4	24-28	Four	_	_	
+2-5	29-33	Legs	_	_	
+2-6	33-34	.	_	_	
+
+#Text=—Amongst the many freaks of nature is a fowl with four legs, in the possession of Mr.
+3-1	34-35	—	_	_	
+3-2	35-42	Amongst	_	_	
+3-3	43-46	the	_	_	
+3-4	47-51	many	_	_	
+3-5	52-58	freaks	_	_	
+3-6	59-61	of	_	_	
+3-7	62-68	nature	_	_	
+3-8	69-71	is	_	_	
+3-9	72-73	a	_	_	
+3-10	74-78	fowl	_	_	
+3-11	79-83	with	_	_	
+3-12	84-88	four	_	_	
+3-13	89-93	legs	_	_	
+3-14	93-94	,	_	_	
+3-15	95-97	in	_	_	
+3-16	98-101	the	_	_	
+3-17	102-112	possession	_	_	
+3-18	113-115	of	_	_	
+3-19	116-118	Mr	_	_	
+3-20	118-119	.	_	_	
+
+#Text=Mark Hadfield, of the Sportman’s Inn, Hall-street, Hyde-road, where it can be seen at any time of the day running about with others of the same brood.
+4-1	120-124	Mark	_	_	
+4-2	125-133	Hadfield	_	_	
+4-3	133-134	,	_	_	
+4-4	135-137	of	_	_	
+4-5	138-141	the	_	_	
+4-6	142-150	Sportman	*[1]	BUILDING[1]	
+4-7	150-151	’	*[1]	BUILDING[1]	
+4-8	151-152	s	*[1]	BUILDING[1]	
+4-9	153-156	Inn	*[1]	BUILDING[1]	
+4-10	156-157	,	_	_	
+4-11	158-169	Hall-street	*	STREET	
+4-12	169-170	,	_	_	
+4-13	171-180	Hyde-road	*	STREET	
+4-14	180-181	,	_	_	
+4-15	182-187	where	_	_	
+4-16	188-190	it	_	_	
+4-17	191-194	can	_	_	
+4-18	195-197	be	_	_	
+4-19	198-202	seen	_	_	
+4-20	203-205	at	_	_	
+4-21	206-209	any	_	_	
+4-22	210-214	time	_	_	
+4-23	215-217	of	_	_	
+4-24	218-221	the	_	_	
+4-25	222-225	day	_	_	
+4-26	226-233	running	_	_	
+4-27	234-239	about	_	_	
+4-28	240-244	with	_	_	
+4-29	245-251	others	_	_	
+4-30	252-254	of	_	_	
+4-31	255-258	the	_	_	
+4-32	259-263	same	_	_	
+4-33	264-269	brood	_	_	
+4-34	269-270	.	_	_	
+
+#Text=The eggs from which these chickens were hatched came from Mr.
+5-1	271-274	The	_	_	
+5-2	275-279	eggs	_	_	
+5-3	280-284	from	_	_	
+5-4	285-290	which	_	_	
+5-5	291-296	these	_	_	
+5-6	297-305	chickens	_	_	
+5-7	306-310	were	_	_	
+5-8	311-318	hatched	_	_	
+5-9	319-323	came	_	_	
+5-10	324-328	from	_	_	
+5-11	329-331	Mr	_	_	
+5-12	331-332	.	_	_	
+
+#Text=D.
+6-1	333-334	D	_	_	
+6-2	334-335	.	_	_	
+
+#Text=Ashbrook’s farm, Reddish.
+7-1	336-344	Ashbrook	_	_	
+7-2	344-345	’	_	_	
+7-3	345-346	s	_	_	
+7-4	347-351	farm	_	_	
+7-5	351-352	,	_	_	
+7-6	353-360	Reddish	https://en.wikipedia.org/wiki/Reddish	LOC	
+7-7	360-361	.	_	_	
+
+#Text=It is of a black colour, has a double comb, and is enjoying good health.
+8-1	362-364	It	_	_	
+8-2	365-367	is	_	_	
+8-3	368-370	of	_	_	
+8-4	371-372	a	_	_	
+8-5	373-378	black	_	_	
+8-6	379-385	colour	_	_	
+8-7	385-386	,	_	_	
+8-8	387-390	has	_	_	
+8-9	391-392	a	_	_	
+8-10	393-399	double	_	_	
+8-11	400-404	comb	_	_	
+8-12	404-405	,	_	_	
+8-13	406-409	and	_	_	
+8-14	410-412	is	_	_	
+8-15	413-421	enjoying	_	_	
+8-16	422-426	good	_	_	
+8-17	427-433	health	_	_	
+8-18	433-434	.	_	_	
+
+#Text=Gorton Local Board Meeting.
+9-1	436-442	Gorton	https://en.wikipedia.org/wiki/Gorton	LOC	
+9-2	443-448	Local	_	_	
+9-3	449-454	Board	_	_	
+9-4	455-462	Meeting	_	_	
+9-5	462-463	.	_	_	
+
+#Text=—On Thursday, the monthly meeting was held in the Local Board Offices, Hyde-road.
+10-1	463-464	—	_	_	
+10-2	464-466	On	_	_	
+10-3	467-475	Thursday	_	_	
+10-4	475-476	,	_	_	
+10-5	477-480	the	_	_	
+10-6	481-488	monthly	_	_	
+10-7	489-496	meeting	_	_	
+10-8	497-500	was	_	_	
+10-9	501-505	held	_	_	
+10-10	506-508	in	_	_	
+10-11	509-512	the	_	_	
+10-12	513-518	Local	_	_	
+10-13	519-524	Board	_	_	
+10-14	525-532	Offices	_	_	
+10-15	532-533	,	_	_	
+10-16	534-543	Hyde-road	*	STREET	
+10-17	543-544	.	_	_	
+
+#Text=There were present Messrs.
+11-1	545-550	There	_	_	
+11-2	551-555	were	_	_	
+11-3	556-563	present	_	_	
+11-4	564-570	Messrs	_	_	
+11-5	570-571	.	_	_	
+
+#Text=Jennison, Henshall, Fiattely, Taylor, Walker (clerk), and Mayor (surveyor).
+12-1	572-580	Jennison	_	_	
+12-2	580-581	,	_	_	
+12-3	582-590	Henshall	_	_	
+12-4	590-591	,	_	_	
+12-5	592-600	Fiattely	_	_	
+12-6	600-601	,	_	_	
+12-7	602-608	Taylor	_	_	
+12-8	608-609	,	_	_	
+12-9	610-616	Walker	_	_	
+12-10	617-618	(	_	_	
+12-11	618-623	clerk	_	_	
+12-12	623-624	)	_	_	
+12-13	624-625	,	_	_	
+12-14	626-629	and	_	_	
+12-15	630-635	Mayor	_	_	
+12-16	636-637	(	_	_	
+12-17	637-645	surveyor	_	_	
+12-18	645-646	)	_	_	
+12-19	646-647	.	_	_	
+
+#Text=In the absence of Mr.
+13-1	648-650	In	_	_	
+13-2	651-654	the	_	_	
+13-3	655-662	absence	_	_	
+13-4	663-665	of	_	_	
+13-5	666-668	Mr	_	_	
+13-6	668-669	.	_	_	
+
+#Text=Stopford, Mr.
+14-1	670-678	Stopford	_	_	
+14-2	678-679	,	_	_	
+14-3	680-682	Mr	_	_	
+14-4	682-683	.	_	_	
+
+#Text=Jennison was voted to the chair for the evening.
+15-1	684-692	Jennison	_	_	
+15-2	693-696	was	_	_	
+15-3	697-702	voted	_	_	
+15-4	703-705	to	_	_	
+15-5	706-709	the	_	_	
+15-6	710-715	chair	_	_	
+15-7	716-719	for	_	_	
+15-8	720-723	the	_	_	
+15-9	724-731	evening	_	_	
+15-10	731-732	.	_	_	
+
+#Text=—Mr.
+16-1	732-733	—	_	_	
+16-2	733-735	Mr	_	_	
+16-3	735-736	.	_	_	
+
+#Text=Fiattely moved that the notice of motion which he made at the last meeting, referrirg to voting by ballot at the next election, be referred to a full meeting of the board ; also, that the ashpit question be put off till more members were present.
+17-1	737-745	Fiattely	_	_	
+17-2	746-751	moved	_	_	
+17-3	752-756	that	_	_	
+17-4	757-760	the	_	_	
+17-5	761-767	notice	_	_	
+17-6	768-770	of	_	_	
+17-7	771-777	motion	_	_	
+17-8	778-783	which	_	_	
+17-9	784-786	he	_	_	
+17-10	787-791	made	_	_	
+17-11	792-794	at	_	_	
+17-12	795-798	the	_	_	
+17-13	799-803	last	_	_	
+17-14	804-811	meeting	_	_	
+17-15	811-812	,	_	_	
+17-16	813-822	referrirg	_	_	
+17-17	823-825	to	_	_	
+17-18	826-832	voting	_	_	
+17-19	833-835	by	_	_	
+17-20	836-842	ballot	_	_	
+17-21	843-845	at	_	_	
+17-22	846-849	the	_	_	
+17-23	850-854	next	_	_	
+17-24	855-863	election	_	_	
+17-25	863-864	,	_	_	
+17-26	865-867	be	_	_	
+17-27	868-876	referred	_	_	
+17-28	877-879	to	_	_	
+17-29	880-881	a	_	_	
+17-30	882-886	full	_	_	
+17-31	887-894	meeting	_	_	
+17-32	895-897	of	_	_	
+17-33	898-901	the	_	_	
+17-34	902-907	board	_	_	
+17-35	908-909	;	_	_	
+17-36	910-914	also	_	_	
+17-37	914-915	,	_	_	
+17-38	916-920	that	_	_	
+17-39	921-924	the	_	_	
+17-40	925-931	ashpit	_	_	
+17-41	932-940	question	_	_	
+17-42	941-943	be	_	_	
+17-43	944-947	put	_	_	
+17-44	948-951	off	_	_	
+17-45	952-956	till	_	_	
+17-46	957-961	more	_	_	
+17-47	962-969	members	_	_	
+17-48	970-974	were	_	_	
+17-49	975-982	present	_	_	
+17-50	982-983	.	_	_	
+
+#Text=—Mr.
+18-1	983-984	—	_	_	
+18-2	984-986	Mr	_	_	
+18-3	986-987	.	_	_	
+
+#Text=Henshall did not like the idea of postponing business.
+19-1	988-996	Henshall	_	_	
+19-2	997-1000	did	_	_	
+19-3	1001-1004	not	_	_	
+19-4	1005-1009	like	_	_	
+19-5	1010-1013	the	_	_	
+19-6	1014-1018	idea	_	_	
+19-7	1019-1021	of	_	_	
+19-8	1022-1032	postponing	_	_	
+19-9	1033-1041	business	_	_	
+19-10	1041-1042	.	_	_	
+
+#Text=There had been a month’s notice given, and he thought it was sufficient, for he might possibly be unable to attend the next meeting through unaioidable circumstances.
+20-1	1043-1048	There	_	_	
+20-2	1049-1052	had	_	_	
+20-3	1053-1057	been	_	_	
+20-4	1058-1059	a	_	_	
+20-5	1060-1065	month	_	_	
+20-6	1065-1066	’	_	_	
+20-7	1066-1067	s	_	_	
+20-8	1068-1074	notice	_	_	
+20-9	1075-1080	given	_	_	
+20-10	1080-1081	,	_	_	
+20-11	1082-1085	and	_	_	
+20-12	1086-1088	he	_	_	
+20-13	1089-1096	thought	_	_	
+20-14	1097-1099	it	_	_	
+20-15	1100-1103	was	_	_	
+20-16	1104-1114	sufficient	_	_	
+20-17	1114-1115	,	_	_	
+20-18	1116-1119	for	_	_	
+20-19	1120-1122	he	_	_	
+20-20	1123-1128	might	_	_	
+20-21	1129-1137	possibly	_	_	
+20-22	1138-1140	be	_	_	
+20-23	1141-1147	unable	_	_	
+20-24	1148-1150	to	_	_	
+20-25	1151-1157	attend	_	_	
+20-26	1158-1161	the	_	_	
+20-27	1162-1166	next	_	_	
+20-28	1167-1174	meeting	_	_	
+20-29	1175-1182	through	_	_	
+20-30	1183-1194	unaioidable	_	_	
+20-31	1195-1208	circumstances	_	_	
+20-32	1208-1209	.	_	_	
+
+#Text=—lt was ultimately agreed that both motions should stand over till next meeting.
+21-1	1209-1210	—	_	_	
+21-2	1210-1212	lt	_	_	
+21-3	1213-1216	was	_	_	
+21-4	1217-1227	ultimately	_	_	
+21-5	1228-1234	agreed	_	_	
+21-6	1235-1239	that	_	_	
+21-7	1240-1244	both	_	_	
+21-8	1245-1252	motions	_	_	
+21-9	1253-1259	should	_	_	
+21-10	1260-1265	stand	_	_	
+21-11	1266-1270	over	_	_	
+21-12	1271-1275	till	_	_	
+21-13	1276-1280	next	_	_	
+21-14	1281-1288	meeting	_	_	
+21-15	1288-1289	.	_	_	
+
+#Text=—A letter was read from Mr.Toyne, in which he spoke very strongly agasnst the account which appeared in the Reporter about the last board meeting.
+22-1	1289-1290	—	_	_	
+22-2	1290-1291	A	_	_	
+22-3	1292-1298	letter	_	_	
+22-4	1299-1302	was	_	_	
+22-5	1303-1307	read	_	_	
+22-6	1308-1312	from	_	_	
+22-7	1313-1321	Mr.Toyne	_	_	
+22-8	1321-1322	,	_	_	
+22-9	1323-1325	in	_	_	
+22-10	1326-1331	which	_	_	
+22-11	1332-1334	he	_	_	
+22-12	1335-1340	spoke	_	_	
+22-13	1341-1345	very	_	_	
+22-14	1346-1354	strongly	_	_	
+22-15	1355-1362	agasnst	_	_	
+22-16	1363-1366	the	_	_	
+22-17	1367-1374	account	_	_	
+22-18	1375-1380	which	_	_	
+22-19	1381-1389	appeared	_	_	
+22-20	1390-1392	in	_	_	
+22-21	1393-1396	the	_	_	
+22-22	1397-1405	Reporter	_	_	
+22-23	1406-1411	about	_	_	
+22-24	1412-1415	the	_	_	
+22-25	1416-1420	last	_	_	
+22-26	1421-1426	board	_	_	
+22-27	1427-1434	meeting	_	_	
+22-28	1434-1435	.	_	_	
+
+#Text=He also protested against Mr.
+23-1	1436-1438	He	_	_	
+23-2	1439-1443	also	_	_	
+23-3	1444-1453	protested	_	_	
+23-4	1454-1461	against	_	_	
+23-5	1462-1464	Mr	_	_	
+23-6	1464-1465	.	_	_	
+
+#Text=Kelly’s statement, in language of a libelous character.
+24-1	1466-1471	Kelly	_	_	
+24-2	1471-1472	’	_	_	
+24-3	1472-1473	s	_	_	
+24-4	1474-1483	statement	_	_	
+24-5	1483-1484	,	_	_	
+24-6	1485-1487	in	_	_	
+24-7	1488-1496	language	_	_	
+24-8	1497-1499	of	_	_	
+24-9	1500-1501	a	_	_	
+24-10	1502-1510	libelous	_	_	
+24-11	1511-1520	character	_	_	
+24-12	1520-1521	.	_	_	
+
+#Text=Amongst other expressions he used was a “ base liar.”
+25-1	1522-1529	Amongst	_	_	
+25-2	1530-1535	other	_	_	
+25-3	1536-1547	expressions	_	_	
+25-4	1548-1550	he	_	_	
+25-5	1551-1555	used	_	_	
+25-6	1556-1559	was	_	_	
+25-7	1560-1561	a	_	_	
+25-8	1562-1563	“	_	_	
+25-9	1564-1568	base	_	_	
+25-10	1569-1573	liar	_	_	
+25-11	1573-1574	.	_	_	
+25-12	1574-1575	”	_	_	
+
+#Text=—The other business was of a formal character.
+26-1	1575-1576	—	_	_	
+26-2	1576-1579	The	_	_	
+26-3	1580-1585	other	_	_	
+26-4	1586-1594	business	_	_	
+26-5	1595-1598	was	_	_	
+26-6	1599-1601	of	_	_	
+26-7	1602-1603	a	_	_	
+26-8	1604-1610	formal	_	_	
+26-9	1611-1620	character	_	_	
+26-10	1620-1621	.	_	_	
+
+#Text=MOTTRAM.
+27-1	1623-1630	MOTTRAM	https://en.wikipedia.org/wiki/Mottram\_in\_Longdendale	LOC	
+27-2	1630-1631	.	_	_	
+
+#Text=Manchester Royal School of Medicine.
+28-1	1632-1642	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+28-2	1643-1648	Royal	https://en.wikipedia.org/wiki/Manchester\_Royal\_School\_of\_Medicine[2]	BUILDING[2]	
+28-3	1649-1655	School	https://en.wikipedia.org/wiki/Manchester\_Royal\_School\_of\_Medicine[2]	BUILDING[2]	
+28-4	1656-1658	of	https://en.wikipedia.org/wiki/Manchester\_Royal\_School\_of\_Medicine[2]	BUILDING[2]	
+28-5	1659-1667	Medicine	https://en.wikipedia.org/wiki/Manchester\_Royal\_School\_of\_Medicine[2]	BUILDING[2]	
+28-6	1667-1668	.	_	_	
+
+#Text=—An account has just been published of the results of the public examinations that have taken place in connection with the above institution, from November, 1868, to July, 1869.
+29-1	1668-1669	—	_	_	
+29-2	1669-1671	An	_	_	
+29-3	1672-1679	account	_	_	
+29-4	1680-1683	has	_	_	
+29-5	1684-1688	just	_	_	
+29-6	1689-1693	been	_	_	
+29-7	1694-1703	published	_	_	
+29-8	1704-1706	of	_	_	
+29-9	1707-1710	the	_	_	
+29-10	1711-1718	results	_	_	
+29-11	1719-1721	of	_	_	
+29-12	1722-1725	the	_	_	
+29-13	1726-1732	public	_	_	
+29-14	1733-1745	examinations	_	_	
+29-15	1746-1750	that	_	_	
+29-16	1751-1755	have	_	_	
+29-17	1756-1761	taken	_	_	
+29-18	1762-1767	place	_	_	
+29-19	1768-1770	in	_	_	
+29-20	1771-1781	connection	_	_	
+29-21	1782-1786	with	_	_	
+29-22	1787-1790	the	_	_	
+29-23	1791-1796	above	_	_	
+29-24	1797-1808	institution	_	_	
+29-25	1808-1809	,	_	_	
+29-26	1810-1814	from	_	_	
+29-27	1815-1823	November	_	_	
+29-28	1823-1824	,	_	_	
+29-29	1825-1829	1868	_	_	
+29-30	1829-1830	,	_	_	
+29-31	1831-1833	to	_	_	
+29-32	1834-1838	July	_	_	
+29-33	1838-1839	,	_	_	
+29-34	1840-1844	1869	_	_	
+29-35	1844-1845	.	_	_	
+
+#Text=In the list of young gentlemen who are passing on step by step through the various degrees in the study of the medical science, we notice the name of Mr.
+30-1	1846-1848	In	_	_	
+30-2	1849-1852	the	_	_	
+30-3	1853-1857	list	_	_	
+30-4	1858-1860	of	_	_	
+30-5	1861-1866	young	_	_	
+30-6	1867-1876	gentlemen	_	_	
+30-7	1877-1880	who	_	_	
+30-8	1881-1884	are	_	_	
+30-9	1885-1892	passing	_	_	
+30-10	1893-1895	on	_	_	
+30-11	1896-1900	step	_	_	
+30-12	1901-1903	by	_	_	
+30-13	1904-1908	step	_	_	
+30-14	1909-1916	through	_	_	
+30-15	1917-1920	the	_	_	
+30-16	1921-1928	various	_	_	
+30-17	1929-1936	degrees	_	_	
+30-18	1937-1939	in	_	_	
+30-19	1940-1943	the	_	_	
+30-20	1944-1949	study	_	_	
+30-21	1950-1952	of	_	_	
+30-22	1953-1956	the	_	_	
+30-23	1957-1964	medical	_	_	
+30-24	1965-1972	science	_	_	
+30-25	1972-1973	,	_	_	
+30-26	1974-1976	we	_	_	
+30-27	1977-1983	notice	_	_	
+30-28	1984-1987	the	_	_	
+30-29	1988-1992	name	_	_	
+30-30	1993-1995	of	_	_	
+30-31	1996-1998	Mr	_	_	
+30-32	1998-1999	.	_	_	
+
+#Text=William Ashton Patchett, of Mottram, be being the only student named as having passed the examination at the Apothecaries’ Hall; also that he has gained the third year’s scholarship, value £2O.
+31-1	2000-2007	William	_	_	
+31-2	2008-2014	Ashton	_	_	
+31-3	2015-2023	Patchett	_	_	
+31-4	2023-2024	,	_	_	
+31-5	2025-2027	of	_	_	
+31-6	2028-2035	Mottram	https://en.wikipedia.org/wiki/Mottram\_in\_Longdendale	LOC	
+31-7	2035-2036	,	_	_	
+31-8	2037-2039	be	_	_	
+31-9	2040-2045	being	_	_	
+31-10	2046-2049	the	_	_	
+31-11	2050-2054	only	_	_	
+31-12	2055-2062	student	_	_	
+31-13	2063-2068	named	_	_	
+31-14	2069-2071	as	_	_	
+31-15	2072-2078	having	_	_	
+31-16	2079-2085	passed	_	_	
+31-17	2086-2089	the	_	_	
+31-18	2090-2101	examination	_	_	
+31-19	2102-2104	at	_	_	
+31-20	2105-2108	the	_	_	
+31-21	2109-2121	Apothecaries	*[3]	BUILDING[3]	
+31-22	2121-2122	’	*[3]	BUILDING[3]	
+31-23	2123-2127	Hall	*[3]	BUILDING[3]	
+31-24	2127-2128	;	_	_	
+31-25	2129-2133	also	_	_	
+31-26	2134-2138	that	_	_	
+31-27	2139-2141	he	_	_	
+31-28	2142-2145	has	_	_	
+31-29	2146-2152	gained	_	_	
+31-30	2153-2156	the	_	_	
+31-31	2157-2162	third	_	_	
+31-32	2163-2167	year	_	_	
+31-33	2167-2168	’	_	_	
+31-34	2168-2169	s	_	_	
+31-35	2170-2181	scholarship	_	_	
+31-36	2181-2182	,	_	_	
+31-37	2183-2188	value	_	_	
+31-38	2189-2192	£2O	_	_	
+31-39	2192-2193	.	_	_	
+
+#Text=Mr.
+32-1	2194-2196	Mr	_	_	
+32-2	2196-2197	.	_	_	
+
+#Text=Patchett has been successful in passing every examination during the three years he has been studying at the Manchester schooh
+33-1	2198-2206	Patchett	_	_	
+33-2	2207-2210	has	_	_	
+33-3	2211-2215	been	_	_	
+33-4	2216-2226	successful	_	_	
+33-5	2227-2229	in	_	_	
+33-6	2230-2237	passing	_	_	
+33-7	2238-2243	every	_	_	
+33-8	2244-2255	examination	_	_	
+33-9	2256-2262	during	_	_	
+33-10	2263-2266	the	_	_	
+33-11	2267-2272	three	_	_	
+33-12	2273-2278	years	_	_	
+33-13	2279-2281	he	_	_	
+33-14	2282-2285	has	_	_	
+33-15	2286-2290	been	_	_	
+33-16	2291-2299	studying	_	_	
+33-17	2300-2302	at	_	_	
+33-18	2303-2306	the	_	_	
+33-19	2307-2317	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+33-20	2318-2324	schooh	_	_	

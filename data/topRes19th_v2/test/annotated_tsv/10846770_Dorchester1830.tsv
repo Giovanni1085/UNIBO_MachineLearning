@@ -1,0 +1,455 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=GLO UC EST ERS H1 RE.
+1-1	0-3	GLO	https://en.wikipedia.org/wiki/Gloucestershire[1]	LOC[1]	
+1-2	4-6	UC	https://en.wikipedia.org/wiki/Gloucestershire[1]	LOC[1]	
+1-3	7-10	EST	https://en.wikipedia.org/wiki/Gloucestershire[1]	LOC[1]	
+1-4	11-14	ERS	https://en.wikipedia.org/wiki/Gloucestershire[1]	LOC[1]	
+1-5	15-17	H1	https://en.wikipedia.org/wiki/Gloucestershire[1]	LOC[1]	
+1-6	18-20	RE	https://en.wikipedia.org/wiki/Gloucestershire[1]	LOC[1]	
+1-7	20-21	.	_	_	
+
+#Text=Bristol.
+2-1	23-30	Bristol	https://en.wikipedia.org/wiki/Bristol	LOC	
+2-2	30-31	.	_	_	
+
+#Text=—On Friday the 16th instant, in pursuance of advertisement, a meeting of the electors of Bristol was held at the Assembly Rooms, for the purpose of considering a proper Representative for that city, to supply the vacancy occasioned by the retirement of Mr.
+3-1	31-32	—	_	_	
+3-2	32-34	On	_	_	
+3-3	35-41	Friday	_	_	
+3-4	42-45	the	_	_	
+3-5	46-50	16th	_	_	
+3-6	51-58	instant	_	_	
+3-7	58-59	,	_	_	
+3-8	60-62	in	_	_	
+3-9	63-72	pursuance	_	_	
+3-10	73-75	of	_	_	
+3-11	76-89	advertisement	_	_	
+3-12	89-90	,	_	_	
+3-13	91-92	a	_	_	
+3-14	93-100	meeting	_	_	
+3-15	101-103	of	_	_	
+3-16	104-107	the	_	_	
+3-17	108-116	electors	_	_	
+3-18	117-119	of	_	_	
+3-19	120-127	Bristol	https://en.wikipedia.org/wiki/Bristol	LOC	
+3-20	128-131	was	_	_	
+3-21	132-136	held	_	_	
+3-22	137-139	at	_	_	
+3-23	140-143	the	_	_	
+3-24	144-152	Assembly	*[2]	BUILDING[2]	
+3-25	153-158	Rooms	*[2]	BUILDING[2]	
+3-26	158-159	,	_	_	
+3-27	160-163	for	_	_	
+3-28	164-167	the	_	_	
+3-29	168-175	purpose	_	_	
+3-30	176-178	of	_	_	
+3-31	179-190	considering	_	_	
+3-32	191-192	a	_	_	
+3-33	193-199	proper	_	_	
+3-34	200-214	Representative	_	_	
+3-35	215-218	for	_	_	
+3-36	219-223	that	_	_	
+3-37	224-228	city	_	_	
+3-38	228-229	,	_	_	
+3-39	230-232	to	_	_	
+3-40	233-239	supply	_	_	
+3-41	240-243	the	_	_	
+3-42	244-251	vacancy	_	_	
+3-43	252-262	occasioned	_	_	
+3-44	263-265	by	_	_	
+3-45	266-269	the	_	_	
+3-46	270-280	retirement	_	_	
+3-47	281-283	of	_	_	
+3-48	284-286	Mr	_	_	
+3-49	286-287	.	_	_	
+
+#Text=H.
+4-1	288-289	H	_	_	
+4-2	289-290	.	_	_	
+
+#Text=Bright, and after a long discussion Mr.
+5-1	291-297	Bright	_	_	
+5-2	297-298	,	_	_	
+5-3	299-302	and	_	_	
+5-4	303-308	after	_	_	
+5-5	309-310	a	_	_	
+5-6	311-315	long	_	_	
+5-7	316-326	discussion	_	_	
+5-8	327-329	Mr	_	_	
+5-9	329-330	.	_	_	
+
+#Text=Protheroe and Mr.
+6-1	331-340	Protheroe	_	_	
+6-2	341-344	and	_	_	
+6-3	345-347	Mr	_	_	
+6-4	347-348	.	_	_	
+
+#Text=James Baillie were nominated.
+7-1	349-354	James	_	_	
+7-2	355-362	Baillie	_	_	
+7-3	363-367	were	_	_	
+7-4	368-377	nominated	_	_	
+7-5	377-378	.	_	_	
+
+#Text=Mr.
+8-1	379-381	Mr	_	_	
+8-2	381-382	.	_	_	
+
+#Text=Protheroe offers himself upon the ground chiefly of being an Abolitionist of Slavery in the Colonies; Mr.
+9-1	383-392	Protheroe	_	_	
+9-2	393-399	offers	_	_	
+9-3	400-407	himself	_	_	
+9-4	408-412	upon	_	_	
+9-5	413-416	the	_	_	
+9-6	417-423	ground	_	_	
+9-7	424-431	chiefly	_	_	
+9-8	432-434	of	_	_	
+9-9	435-440	being	_	_	
+9-10	441-443	an	_	_	
+9-11	444-456	Abolitionist	_	_	
+9-12	457-459	of	_	_	
+9-13	460-467	Slavery	_	_	
+9-14	468-470	in	_	_	
+9-15	471-474	the	_	_	
+9-16	475-483	Colonies	_	_	
+9-17	483-484	;	_	_	
+9-18	485-487	Mr	_	_	
+9-19	487-488	.	_	_	
+
+#Text=Baillie, upon the support of the same measure, so far as it is regulated by reason, prudence, and experience.
+10-1	489-496	Baillie	_	_	
+10-2	496-497	,	_	_	
+10-3	498-502	upon	_	_	
+10-4	503-506	the	_	_	
+10-5	507-514	support	_	_	
+10-6	515-517	of	_	_	
+10-7	518-521	the	_	_	
+10-8	522-526	same	_	_	
+10-9	527-534	measure	_	_	
+10-10	534-535	,	_	_	
+10-11	536-538	so	_	_	
+10-12	539-542	far	_	_	
+10-13	543-545	as	_	_	
+10-14	546-548	it	_	_	
+10-15	549-551	is	_	_	
+10-16	552-561	regulated	_	_	
+10-17	562-564	by	_	_	
+10-18	565-571	reason	_	_	
+10-19	571-572	,	_	_	
+10-20	573-581	prudence	_	_	
+10-21	581-582	,	_	_	
+10-22	583-586	and	_	_	
+10-23	587-597	experience	_	_	
+10-24	597-598	.	_	_	
+
+#Text=Opening of Pittville Spa at Cheltenham.
+11-1	599-606	Opening	_	_	
+11-2	607-609	of	_	_	
+11-3	610-619	Pittville	*[3]	BUILDING[3]	
+11-4	620-623	Spa	*[3]	BUILDING[3]	
+11-5	624-626	at	_	_	
+11-6	627-637	Cheltenham	https://en.wikipedia.org/wiki/Cheltenham	LOC	
+11-7	637-638	.	_	_	
+
+#Text=—Tire opening of Pittville Pump Room and Promenades to the public, took place on Tuesday the 20th inst., to which period it had been postponed by the lessee, Mr.
+12-1	638-639	—	_	_	
+12-2	639-643	Tire	_	_	
+12-3	644-651	opening	_	_	
+12-4	652-654	of	_	_	
+12-5	655-664	Pittville	https://en.wikipedia.org/wiki/Pittville\_Pump\_Room[4]	BUILDING[4]	
+12-6	665-669	Pump	https://en.wikipedia.org/wiki/Pittville\_Pump\_Room[4]	BUILDING[4]	
+12-7	670-674	Room	https://en.wikipedia.org/wiki/Pittville\_Pump\_Room[4]	BUILDING[4]	
+12-8	675-678	and	_	_	
+12-9	679-689	Promenades	_	_	
+12-10	690-692	to	_	_	
+12-11	693-696	the	_	_	
+12-12	697-703	public	_	_	
+12-13	703-704	,	_	_	
+12-14	705-709	took	_	_	
+12-15	710-715	place	_	_	
+12-16	716-718	on	_	_	
+12-17	719-726	Tuesday	_	_	
+12-18	727-730	the	_	_	
+12-19	731-735	20th	_	_	
+12-20	736-740	inst	_	_	
+12-21	740-741	.	_	_	
+12-22	741-742	,	_	_	
+12-23	743-745	to	_	_	
+12-24	746-751	which	_	_	
+12-25	752-758	period	_	_	
+12-26	759-761	it	_	_	
+12-27	762-765	had	_	_	
+12-28	766-770	been	_	_	
+12-29	771-780	postponed	_	_	
+12-30	781-783	by	_	_	
+12-31	784-787	the	_	_	
+12-32	788-794	lessee	_	_	
+12-33	794-795	,	_	_	
+12-34	796-798	Mr	_	_	
+12-35	798-799	.	_	_	
+
+#Text=Seymour, in consequence of the lamented death of his late Majesty.
+13-1	800-807	Seymour	_	_	
+13-2	807-808	,	_	_	
+13-3	809-811	in	_	_	
+13-4	812-823	consequence	_	_	
+13-5	824-826	of	_	_	
+13-6	827-830	the	_	_	
+13-7	831-839	lamented	_	_	
+13-8	840-845	death	_	_	
+13-9	846-848	of	_	_	
+13-10	849-852	his	_	_	
+13-11	853-857	late	_	_	
+13-12	858-865	Majesty	_	_	
+13-13	865-866	.	_	_	
+
+#Text=The breakfast consisted of every delicacy of the season that could be applied to a morning repast, and although the tables were necessarily crowded, all present seemed perfectly satisfied with the entertainment.
+14-1	867-870	The	_	_	
+14-2	871-880	breakfast	_	_	
+14-3	881-890	consisted	_	_	
+14-4	891-893	of	_	_	
+14-5	894-899	every	_	_	
+14-6	900-908	delicacy	_	_	
+14-7	909-911	of	_	_	
+14-8	912-915	the	_	_	
+14-9	916-922	season	_	_	
+14-10	923-927	that	_	_	
+14-11	928-933	could	_	_	
+14-12	934-936	be	_	_	
+14-13	937-944	applied	_	_	
+14-14	945-947	to	_	_	
+14-15	948-949	a	_	_	
+14-16	950-957	morning	_	_	
+14-17	958-964	repast	_	_	
+14-18	964-965	,	_	_	
+14-19	966-969	and	_	_	
+14-20	970-978	although	_	_	
+14-21	979-982	the	_	_	
+14-22	983-989	tables	_	_	
+14-23	990-994	were	_	_	
+14-24	995-1006	necessarily	_	_	
+14-25	1007-1014	crowded	_	_	
+14-26	1014-1015	,	_	_	
+14-27	1016-1019	all	_	_	
+14-28	1020-1027	present	_	_	
+14-29	1028-1034	seemed	_	_	
+14-30	1035-1044	perfectly	_	_	
+14-31	1045-1054	satisfied	_	_	
+14-32	1055-1059	with	_	_	
+14-33	1060-1063	the	_	_	
+14-34	1064-1077	entertainment	_	_	
+14-35	1077-1078	.	_	_	
+
+#Text=At half-past two, the company adjourned to the ball room where an excellent band was provided for the occasion from the Assembly Rooms, and the effect of the music beneath the dome was delightful.
+15-1	1079-1081	At	_	_	
+15-2	1082-1091	half-past	_	_	
+15-3	1092-1095	two	_	_	
+15-4	1095-1096	,	_	_	
+15-5	1097-1100	the	_	_	
+15-6	1101-1108	company	_	_	
+15-7	1109-1118	adjourned	_	_	
+15-8	1119-1121	to	_	_	
+15-9	1122-1125	the	_	_	
+15-10	1126-1130	ball	_	_	
+15-11	1131-1135	room	_	_	
+15-12	1136-1141	where	_	_	
+15-13	1142-1144	an	_	_	
+15-14	1145-1154	excellent	_	_	
+15-15	1155-1159	band	_	_	
+15-16	1160-1163	was	_	_	
+15-17	1164-1172	provided	_	_	
+15-18	1173-1176	for	_	_	
+15-19	1177-1180	the	_	_	
+15-20	1181-1189	occasion	_	_	
+15-21	1190-1194	from	_	_	
+15-22	1195-1198	the	_	_	
+15-23	1199-1207	Assembly	*[5]	BUILDING[5]	
+15-24	1208-1213	Rooms	*[5]	BUILDING[5]	
+15-25	1213-1214	,	_	_	
+15-26	1215-1218	and	_	_	
+15-27	1219-1222	the	_	_	
+15-28	1223-1229	effect	_	_	
+15-29	1230-1232	of	_	_	
+15-30	1233-1236	the	_	_	
+15-31	1237-1242	music	_	_	
+15-32	1243-1250	beneath	_	_	
+15-33	1251-1254	the	_	_	
+15-34	1255-1259	dome	_	_	
+15-35	1260-1263	was	_	_	
+15-36	1264-1274	delightful	_	_	
+15-37	1274-1275	.	_	_	
+
+#Text=The ball was opened by the daughter of Sir Wm.
+16-1	1276-1279	The	_	_	
+16-2	1280-1284	ball	_	_	
+16-3	1285-1288	was	_	_	
+16-4	1289-1295	opened	_	_	
+16-5	1296-1298	by	_	_	
+16-6	1299-1302	the	_	_	
+16-7	1303-1311	daughter	_	_	
+16-8	1312-1314	of	_	_	
+16-9	1315-1318	Sir	_	_	
+16-10	1319-1321	Wm	_	_	
+16-11	1321-1322	.	_	_	
+
+#Text=Burdett, and the Hon.
+17-1	1323-1330	Burdett	_	_	
+17-2	1330-1331	,	_	_	
+17-3	1332-1335	and	_	_	
+17-4	1336-1339	the	_	_	
+17-5	1340-1343	Hon	_	_	
+17-6	1343-1344	.	_	_	
+
+#Text=R.
+18-1	1345-1346	R	_	_	
+18-2	1346-1347	.	_	_	
+
+#Text=Boyle, youngest son of the Earl of Cork, who led off in a new quadrille, called ** The Pitville Spa,” composed expressly for the occasion.
+19-1	1348-1353	Boyle	_	_	
+19-2	1353-1354	,	_	_	
+19-3	1355-1363	youngest	_	_	
+19-4	1364-1367	son	_	_	
+19-5	1368-1370	of	_	_	
+19-6	1371-1374	the	_	_	
+19-7	1375-1379	Earl	_	_	
+19-8	1380-1382	of	_	_	
+19-9	1383-1387	Cork	_	_	
+19-10	1387-1388	,	_	_	
+19-11	1389-1392	who	_	_	
+19-12	1393-1396	led	_	_	
+19-13	1397-1400	off	_	_	
+19-14	1401-1403	in	_	_	
+19-15	1404-1405	a	_	_	
+19-16	1406-1409	new	_	_	
+19-17	1410-1419	quadrille	_	_	
+19-18	1419-1420	,	_	_	
+19-19	1421-1427	called	_	_	
+19-20	1428-1429	*	_	_	
+19-21	1429-1430	*	_	_	
+19-22	1431-1434	The	*[6]	BUILDING[6]	
+19-23	1435-1443	Pitville	*[6]	BUILDING[6]	
+19-24	1444-1447	Spa	*[6]	BUILDING[6]	
+19-25	1447-1448	,	_	_	
+19-26	1448-1449	”	_	_	
+19-27	1450-1458	composed	_	_	
+19-28	1459-1468	expressly	_	_	
+19-29	1469-1472	for	_	_	
+19-30	1473-1476	the	_	_	
+19-31	1477-1485	occasion	_	_	
+19-32	1485-1486	.	_	_	
+
+#Text=A succession of Quadrilles, Waltzes, and Les Cahrpades, followed, which were continued with great spirit, under the superintendance of Mr.
+20-1	1487-1488	A	_	_	
+20-2	1489-1499	succession	_	_	
+20-3	1500-1502	of	_	_	
+20-4	1503-1513	Quadrilles	_	_	
+20-5	1513-1514	,	_	_	
+20-6	1515-1522	Waltzes	_	_	
+20-7	1522-1523	,	_	_	
+20-8	1524-1527	and	_	_	
+20-9	1528-1531	Les	_	_	
+20-10	1532-1541	Cahrpades	_	_	
+20-11	1541-1542	,	_	_	
+20-12	1543-1551	followed	_	_	
+20-13	1551-1552	,	_	_	
+20-14	1553-1558	which	_	_	
+20-15	1559-1563	were	_	_	
+20-16	1564-1573	continued	_	_	
+20-17	1574-1578	with	_	_	
+20-18	1579-1584	great	_	_	
+20-19	1585-1591	spirit	_	_	
+20-20	1591-1592	,	_	_	
+20-21	1593-1598	under	_	_	
+20-22	1599-1602	the	_	_	
+20-23	1603-1618	superintendance	_	_	
+20-24	1619-1621	of	_	_	
+20-25	1622-1624	Mr	_	_	
+20-26	1624-1625	.	_	_	
+
+#Text=Marshall, Master of the Ceremonies.
+21-1	1626-1634	Marshall	_	_	
+21-2	1634-1635	,	_	_	
+21-3	1636-1642	Master	_	_	
+21-4	1643-1645	of	_	_	
+21-5	1646-1649	the	_	_	
+21-6	1650-1660	Ceremonies	_	_	
+21-7	1660-1661	.	_	_	
+
+#Text=At six oclock, the amusements closed with the national anthem of4* God Save the King,” and the company retired highly gratified with the brilliancy and edit which had distinguished this elegant/ere.
+22-1	1662-1664	At	_	_	
+22-2	1665-1668	six	_	_	
+22-3	1669-1675	oclock	_	_	
+22-4	1675-1676	,	_	_	
+22-5	1677-1680	the	_	_	
+22-6	1681-1691	amusements	_	_	
+22-7	1692-1698	closed	_	_	
+22-8	1699-1703	with	_	_	
+22-9	1704-1707	the	_	_	
+22-10	1708-1716	national	_	_	
+22-11	1717-1723	anthem	_	_	
+22-12	1724-1727	of4	_	_	
+22-13	1727-1728	*	_	_	
+22-14	1729-1732	God	_	_	
+22-15	1733-1737	Save	_	_	
+22-16	1738-1741	the	_	_	
+22-17	1742-1746	King	_	_	
+22-18	1746-1747	,	_	_	
+22-19	1747-1748	”	_	_	
+22-20	1749-1752	and	_	_	
+22-21	1753-1756	the	_	_	
+22-22	1757-1764	company	_	_	
+22-23	1765-1772	retired	_	_	
+22-24	1773-1779	highly	_	_	
+22-25	1780-1789	gratified	_	_	
+22-26	1790-1794	with	_	_	
+22-27	1795-1798	the	_	_	
+22-28	1799-1809	brilliancy	_	_	
+22-29	1810-1813	and	_	_	
+22-30	1814-1818	edit	_	_	
+22-31	1819-1824	which	_	_	
+22-32	1825-1828	had	_	_	
+22-33	1829-1842	distinguished	_	_	
+22-34	1843-1847	this	_	_	
+22-35	1848-1855	elegant	_	_	
+22-36	1855-1856	/	_	_	
+22-37	1856-1859	ere	_	_	
+22-38	1859-1860	.	_	_	
+
+#Text=A numerous gang of London pickpockets are traversing the West of England; last week they commenced their depredations in Bristol, and were particularly active among persons quitting places of Idirine Worship.
+23-1	1861-1862	A	_	_	
+23-2	1863-1871	numerous	_	_	
+23-3	1872-1876	gang	_	_	
+23-4	1877-1879	of	_	_	
+23-5	1880-1886	London	https://en.wikipedia.org/wiki/London	LOC	
+23-6	1887-1898	pickpockets	_	_	
+23-7	1899-1902	are	_	_	
+23-8	1903-1913	traversing	_	_	
+23-9	1914-1917	the	_	_	
+23-10	1918-1922	West	*[7]	LOC[7]	
+23-11	1923-1925	of	*[7]	LOC[7]	
+23-12	1926-1933	England	*[7]	LOC[7]	
+23-13	1933-1934	;	_	_	
+23-14	1935-1939	last	_	_	
+23-15	1940-1944	week	_	_	
+23-16	1945-1949	they	_	_	
+23-17	1950-1959	commenced	_	_	
+23-18	1960-1965	their	_	_	
+23-19	1966-1978	depredations	_	_	
+23-20	1979-1981	in	_	_	
+23-21	1982-1989	Bristol	https://en.wikipedia.org/wiki/Bristol	LOC	
+23-22	1989-1990	,	_	_	
+23-23	1991-1994	and	_	_	
+23-24	1995-1999	were	_	_	
+23-25	2000-2012	particularly	_	_	
+23-26	2013-2019	active	_	_	
+23-27	2020-2025	among	_	_	
+23-28	2026-2033	persons	_	_	
+23-29	2034-2042	quitting	_	_	
+23-30	2043-2049	places	_	_	
+23-31	2050-2052	of	_	_	
+23-32	2053-2060	Idirine	_	_	
+23-33	2061-2068	Worship	_	_	
+23-34	2068-2069	.	_	_	

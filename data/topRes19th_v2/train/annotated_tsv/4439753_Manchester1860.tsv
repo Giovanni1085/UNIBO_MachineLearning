@@ -1,0 +1,267 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=EXTRACTS FROM THE COMIC PAPERS.
+1-1	0-8	EXTRACTS	_	_	
+1-2	9-13	FROM	_	_	
+1-3	14-17	THE	_	_	
+1-4	18-23	COMIC	_	_	
+1-5	24-30	PAPERS	_	_	
+1-6	30-31	.	_	_	
+
+#Text=(From PunrK. ) THE SITUATION IN FRANCE.
+2-1	33-34	(	_	_	
+2-2	34-38	From	_	_	
+2-3	39-44	PunrK	_	_	
+2-4	44-45	.	_	_	
+2-5	46-47	)	_	_	
+2-6	48-51	THE	_	_	
+2-7	52-61	SITUATION	_	_	
+2-8	62-64	IN	_	_	
+2-9	65-71	FRANCE	https://en.wikipedia.org/wiki/France	LOC	
+2-10	71-72	.	_	_	
+
+#Text=(walkers telegrams.)
+3-1	73-74	(	_	_	
+3-2	74-81	walkers	_	_	
+3-3	82-91	telegrams	_	_	
+3-4	91-92	.	_	_	
+3-5	92-93	)	_	_	
+
+#Text=Paris.
+4-1	94-99	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+4-2	99-100	.	_	_	
+
+#Text=Jose 12.
+5-1	101-105	Jose	_	_	
+5-2	106-108	12	_	_	
+5-3	108-109	.	_	_	
+
+#Text=Large bodies of troops have been massed ar.
+6-1	110-115	Large	_	_	
+6-2	116-122	bodies	_	_	
+6-3	123-125	of	_	_	
+6-4	126-132	troops	_	_	
+6-5	133-137	have	_	_	
+6-6	138-142	been	_	_	
+6-7	143-149	massed	_	_	
+6-8	150-152	ar	_	_	
+6-9	152-153	.	_	_	
+
+#Text=Satory.
+7-1	154-160	Satory	https://en.wikipedia.org/wiki/Satory	LOC	
+7-2	160-161	.	_	_	
+
+#Text=The principal vantage-makers cf Paris have reoeiv. d he mense orders.
+8-1	162-165	The	_	_	
+8-2	166-175	principal	_	_	
+8-3	176-190	vantage-makers	_	_	
+8-4	191-193	cf	_	_	
+8-5	194-199	Paris	https://en.wikipedia.org/wiki/Paris	LOC	
+8-6	200-204	have	_	_	
+8-7	205-211	reoeiv	_	_	
+8-8	211-212	.	_	_	
+8-9	213-214	d	_	_	
+8-10	215-217	he	_	_	
+8-11	218-223	mense	_	_	
+8-12	224-230	orders	_	_	
+8-13	230-231	.	_	_	
+
+#Text=Great quantities of champagne are stora .
+9-1	232-237	Great	_	_	
+9-2	238-248	quantities	_	_	
+9-3	249-251	of	_	_	
+9-4	252-261	champagne	_	_	
+9-5	262-265	are	_	_	
+9-6	266-271	stora	_	_	
+9-7	272-273	.	_	_	
+
+#Text=It is whispered that events are about to repeat themselves. • ~ The Equebtriak Order.
+10-1	274-276	It	_	_	
+10-2	277-279	is	_	_	
+10-3	280-289	whispered	_	_	
+10-4	290-294	that	_	_	
+10-5	295-301	events	_	_	
+10-6	302-305	are	_	_	
+10-7	306-311	about	_	_	
+10-8	312-314	to	_	_	
+10-9	315-321	repeat	_	_	
+10-10	322-332	themselves	_	_	
+10-11	332-333	.	_	_	
+10-12	334-335	•	_	_	
+10-13	336-337	~	_	_	
+10-14	338-341	The	_	_	
+10-15	342-352	Equebtriak	_	_	
+10-16	353-358	Order	_	_	
+10-17	358-359	.	_	_	
+
+#Text=—lf every rogue upon the turf to-day were to be under it to-morrow, how 111*0.y respectable families would be placed in mourning !
+11-1	359-360	—	_	_	
+11-2	360-362	lf	_	_	
+11-3	363-368	every	_	_	
+11-4	369-374	rogue	_	_	
+11-5	375-379	upon	_	_	
+11-6	380-383	the	_	_	
+11-7	384-388	turf	_	_	
+11-8	389-395	to-day	_	_	
+11-9	396-400	were	_	_	
+11-10	401-403	to	_	_	
+11-11	404-406	be	_	_	
+11-12	407-412	under	_	_	
+11-13	413-415	it	_	_	
+11-14	416-425	to-morrow	_	_	
+11-15	425-426	,	_	_	
+11-16	427-430	how	_	_	
+11-17	431-434	111	_	_	
+11-18	434-435	*	_	_	
+11-19	435-436	0	_	_	
+11-20	436-437	.	_	_	
+11-21	437-438	y	_	_	
+11-22	439-450	respectable	_	_	
+11-23	451-459	families	_	_	
+11-24	460-465	would	_	_	
+11-25	466-468	be	_	_	
+11-26	469-475	placed	_	_	
+11-27	476-478	in	_	_	
+11-28	479-487	mourning	_	_	
+11-29	488-489	!	_	_	
+
+#Text=Embabrapsing.
+12-1	490-502	Embabrapsing	_	_	
+12-2	502-503	.	_	_	
+
+#Text=—Nervous spinster (to wary old bachelor): "Oh, Mr.
+13-1	503-504	—	_	_	
+13-2	504-511	Nervous	_	_	
+13-3	512-520	spinster	_	_	
+13-4	521-522	(	_	_	
+13-5	522-524	to	_	_	
+13-6	525-529	wary	_	_	
+13-7	530-533	old	_	_	
+13-8	534-542	bachelor	_	_	
+13-9	542-543	)	_	_	
+13-10	543-544	:	_	_	
+13-11	545-546	"	_	_	
+13-12	546-548	Oh	_	_	
+13-13	548-549	,	_	_	
+13-14	550-552	Mr	_	_	
+13-15	552-553	.	_	_	
+
+#Text=Marigold, Im so frightened !
+14-1	554-562	Marigold	_	_	
+14-2	562-563	,	_	_	
+14-3	564-566	Im	_	_	
+14-4	567-569	so	_	_	
+14-5	570-580	frightened	_	_	
+14-6	581-582	!	_	_	
+
+#Text=May I take hold of jonr band while were going through this tunnel?"
+15-1	583-586	May	_	_	
+15-2	587-588	I	_	_	
+15-3	589-593	take	_	_	
+15-4	594-598	hold	_	_	
+15-5	599-601	of	_	_	
+15-6	602-606	jonr	_	_	
+15-7	607-611	band	_	_	
+15-8	612-617	while	_	_	
+15-9	618-622	were	_	_	
+15-10	623-628	going	_	_	
+15-11	629-636	through	_	_	
+15-12	637-641	this	_	_	
+15-13	642-648	tunnel	_	_	
+15-14	648-649	?	_	_	
+15-15	649-650	"	_	_	
+
+#Text=A Dibtikction —The "Good Parson" (to applicant for instruction in the night school): " Have you been coo. filmed, my boy?"
+16-1	651-652	A	_	_	
+16-2	653-664	Dibtikction	_	_	
+16-3	665-666	—	_	_	
+16-4	666-669	The	_	_	
+16-5	670-671	"	_	_	
+16-6	671-675	Good	_	_	
+16-7	676-682	Parson	_	_	
+16-8	682-683	"	_	_	
+16-9	684-685	(	_	_	
+16-10	685-687	to	_	_	
+16-11	688-697	applicant	_	_	
+16-12	698-701	for	_	_	
+16-13	702-713	instruction	_	_	
+16-14	714-716	in	_	_	
+16-15	717-720	the	_	_	
+16-16	721-726	night	_	_	
+16-17	727-733	school	_	_	
+16-18	733-734	)	_	_	
+16-19	734-735	:	_	_	
+16-20	736-737	"	_	_	
+16-21	738-742	Have	_	_	
+16-22	743-746	you	_	_	
+16-23	747-751	been	_	_	
+16-24	752-755	coo	_	_	
+16-25	755-756	.	_	_	
+16-26	757-763	filmed	_	_	
+16-27	763-764	,	_	_	
+16-28	765-767	my	_	_	
+16-29	768-771	boy	_	_	
+16-30	771-772	?	_	_	
+16-31	772-773	"	_	_	
+
+#Text=Boy (hesitating): "Pl -ase, sir—l — dont know " Parson; " You nn terstand me; has tbe bishop laid bis bands oa you?"
+17-1	774-777	Boy	_	_	
+17-2	778-779	(	_	_	
+17-3	779-789	hesitating	_	_	
+17-4	789-790	)	_	_	
+17-5	790-791	:	_	_	
+17-6	792-793	"	_	_	
+17-7	793-795	Pl	_	_	
+17-8	796-797	-	_	_	
+17-9	797-800	ase	_	_	
+17-10	800-801	,	_	_	
+17-11	802-807	sir—l	_	_	
+17-12	808-809	—	_	_	
+17-13	810-814	dont	_	_	
+17-14	815-819	know	_	_	
+17-15	820-821	"	_	_	
+17-16	822-828	Parson	_	_	
+17-17	828-829	;	_	_	
+17-18	830-831	"	_	_	
+17-19	832-835	You	_	_	
+17-20	836-838	nn	_	_	
+17-21	839-847	terstand	_	_	
+17-22	848-850	me	_	_	
+17-23	850-851	;	_	_	
+17-24	852-855	has	_	_	
+17-25	856-859	tbe	_	_	
+17-26	860-866	bishop	_	_	
+17-27	867-871	laid	_	_	
+17-28	872-875	bis	_	_	
+17-29	876-881	bands	_	_	
+17-30	882-884	oa	_	_	
+17-31	885-888	you	_	_	
+17-32	888-889	?	_	_	
+17-33	889-890	"	_	_	
+
+#Text=Boy : M Oh, no, sir, bat hit keeper have, sir -very o ten, sir!"
+18-1	891-894	Boy	_	_	
+18-2	895-896	:	_	_	
+18-3	897-898	M	_	_	
+18-4	899-901	Oh	_	_	
+18-5	901-902	,	_	_	
+18-6	903-905	no	_	_	
+18-7	905-906	,	_	_	
+18-8	907-910	sir	_	_	
+18-9	910-911	,	_	_	
+18-10	912-915	bat	_	_	
+18-11	916-919	hit	_	_	
+18-12	920-926	keeper	_	_	
+18-13	927-931	have	_	_	
+18-14	931-932	,	_	_	
+18-15	933-936	sir	_	_	
+18-16	937-938	-	_	_	
+18-17	938-942	very	_	_	
+18-18	943-944	o	_	_	
+18-19	945-948	ten	_	_	
+18-20	948-949	,	_	_	
+18-21	950-953	sir	_	_	
+18-22	953-954	!	_	_	
+18-23	954-955	"	_	_	

@@ -1,0 +1,267 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=DUKINFIELD.
+1-1	0-10	DUKINFIELD	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+1-2	10-11	.	_	_	
+
+#Text=Knutsford Sessions.
+2-1	13-22	Knutsford	https://en.wikipedia.org/wiki/Knutsford	LOC	
+2-2	23-31	Sessions	_	_	
+2-3	31-32	.	_	_	
+
+#Text=—The servant girl, Eliza Ann Byrom, who stole a quantity of clothes from the house where she lodged, in Dukiafield, was sentenced to two months’ imprisonment.
+3-1	32-33	—	_	_	
+3-2	33-36	The	_	_	
+3-3	37-44	servant	_	_	
+3-4	45-49	girl	_	_	
+3-5	49-50	,	_	_	
+3-6	51-56	Eliza	_	_	
+3-7	57-60	Ann	_	_	
+3-8	61-66	Byrom	_	_	
+3-9	66-67	,	_	_	
+3-10	68-71	who	_	_	
+3-11	72-77	stole	_	_	
+3-12	78-79	a	_	_	
+3-13	80-88	quantity	_	_	
+3-14	89-91	of	_	_	
+3-15	92-99	clothes	_	_	
+3-16	100-104	from	_	_	
+3-17	105-108	the	_	_	
+3-18	109-114	house	_	_	
+3-19	115-120	where	_	_	
+3-20	121-124	she	_	_	
+3-21	125-131	lodged	_	_	
+3-22	131-132	,	_	_	
+3-23	133-135	in	_	_	
+3-24	136-146	Dukiafield	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+3-25	146-147	,	_	_	
+3-26	148-151	was	_	_	
+3-27	152-161	sentenced	_	_	
+3-28	162-164	to	_	_	
+3-29	165-168	two	_	_	
+3-30	169-175	months	_	_	
+3-31	175-176	’	_	_	
+3-32	177-189	imprisonment	_	_	
+3-33	189-190	.	_	_	
+
+#Text=Martha Wilde, who was sent from the Dukinfield court for obtaining money under false pretences by representing at two pawnshops in Dukinfield that a spurious composition called coraline beads were real coral was discharged.
+4-1	191-197	Martha	_	_	
+4-2	198-203	Wilde	_	_	
+4-3	203-204	,	_	_	
+4-4	205-208	who	_	_	
+4-5	209-212	was	_	_	
+4-6	213-217	sent	_	_	
+4-7	218-222	from	_	_	
+4-8	223-226	the	_	_	
+4-9	227-237	Dukinfield	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+4-10	238-243	court	_	_	
+4-11	244-247	for	_	_	
+4-12	248-257	obtaining	_	_	
+4-13	258-263	money	_	_	
+4-14	264-269	under	_	_	
+4-15	270-275	false	_	_	
+4-16	276-285	pretences	_	_	
+4-17	286-288	by	_	_	
+4-18	289-301	representing	_	_	
+4-19	302-304	at	_	_	
+4-20	305-308	two	_	_	
+4-21	309-318	pawnshops	_	_	
+4-22	319-321	in	_	_	
+4-23	322-332	Dukinfield	https://en.wikipedia.org/wiki/Dukinfield	LOC	
+4-24	333-337	that	_	_	
+4-25	338-339	a	_	_	
+4-26	340-348	spurious	_	_	
+4-27	349-360	composition	_	_	
+4-28	361-367	called	_	_	
+4-29	368-376	coraline	_	_	
+4-30	377-382	beads	_	_	
+4-31	383-387	were	_	_	
+4-32	388-392	real	_	_	
+4-33	393-398	coral	_	_	
+4-34	399-402	was	_	_	
+4-35	403-413	discharged	_	_	
+4-36	413-414	.	_	_	
+
+#Text=Mr.
+5-1	415-417	Mr	_	_	
+5-2	417-418	.	_	_	
+
+#Text=Brandt appeared for the prisoner.
+6-1	419-425	Brandt	_	_	
+6-2	426-434	appeared	_	_	
+6-3	435-438	for	_	_	
+6-4	439-442	the	_	_	
+6-5	443-451	prisoner	_	_	
+6-6	451-452	.	_	_	
+
+#Text=Accident in a Factory.
+7-1	453-461	Accident	_	_	
+7-2	462-464	in	_	_	
+7-3	465-466	a	_	_	
+7-4	467-474	Factory	_	_	
+7-5	474-475	.	_	_	
+
+#Text=—Whilst a boy named Edwin _ Diggle, 14 years of age, a pieoer at Mr.
+8-1	475-476	—	_	_	
+8-2	476-482	Whilst	_	_	
+8-3	483-484	a	_	_	
+8-4	485-488	boy	_	_	
+8-5	489-494	named	_	_	
+8-6	495-500	Edwin	_	_	
+8-7	501-502	_	_	_	
+8-8	503-509	Diggle	_	_	
+8-9	509-510	,	_	_	
+8-10	511-513	14	_	_	
+8-11	514-519	years	_	_	
+8-12	520-522	of	_	_	
+8-13	523-526	age	_	_	
+8-14	526-527	,	_	_	
+8-15	528-529	a	_	_	
+8-16	530-536	pieoer	_	_	
+8-17	537-539	at	_	_	
+8-18	540-542	Mr	*[1]	BUILDING[1]	
+8-19	542-543	.	*[1]	BUILDING[1]	
+
+#Text=Chadwick’s factory.
+9-1	544-552	Chadwick	*[1]	BUILDING[1]	
+9-2	552-553	’	*[1]	BUILDING[1]	
+9-3	553-554	s	*[1]	BUILDING[1]	
+9-4	555-562	factory	*[1]	BUILDING[1]	
+9-5	562-563	.	_	_	
+
+#Text=Tame Valley, was engaged, on Wednesday, in cleaning some jennies in one of the rooms he met with a severe accident to his head._ The spinner, who is rather deaf, not knowing that the lad was amongst the machinery, set the jennies going, and being unable to hear the shouts of the lad on account of the defect in his hearing, did not stop them until another man made signs to him to stop, which he did instantly.
+10-1	564-568	Tame	_	_	
+10-2	569-575	Valley	_	_	
+10-3	575-576	,	_	_	
+10-4	577-580	was	_	_	
+10-5	581-588	engaged	_	_	
+10-6	588-589	,	_	_	
+10-7	590-592	on	_	_	
+10-8	593-602	Wednesday	_	_	
+10-9	602-603	,	_	_	
+10-10	604-606	in	_	_	
+10-11	607-615	cleaning	_	_	
+10-12	616-620	some	_	_	
+10-13	621-628	jennies	_	_	
+10-14	629-631	in	_	_	
+10-15	632-635	one	_	_	
+10-16	636-638	of	_	_	
+10-17	639-642	the	_	_	
+10-18	643-648	rooms	_	_	
+10-19	649-651	he	_	_	
+10-20	652-655	met	_	_	
+10-21	656-660	with	_	_	
+10-22	661-662	a	_	_	
+10-23	663-669	severe	_	_	
+10-24	670-678	accident	_	_	
+10-25	679-681	to	_	_	
+10-26	682-685	his	_	_	
+10-27	686-690	head	_	_	
+10-28	690-691	.	_	_	
+10-29	691-692	_	_	_	
+10-30	693-696	The	_	_	
+10-31	697-704	spinner	_	_	
+10-32	704-705	,	_	_	
+10-33	706-709	who	_	_	
+10-34	710-712	is	_	_	
+10-35	713-719	rather	_	_	
+10-36	720-724	deaf	_	_	
+10-37	724-725	,	_	_	
+10-38	726-729	not	_	_	
+10-39	730-737	knowing	_	_	
+10-40	738-742	that	_	_	
+10-41	743-746	the	_	_	
+10-42	747-750	lad	_	_	
+10-43	751-754	was	_	_	
+10-44	755-762	amongst	_	_	
+10-45	763-766	the	_	_	
+10-46	767-776	machinery	_	_	
+10-47	776-777	,	_	_	
+10-48	778-781	set	_	_	
+10-49	782-785	the	_	_	
+10-50	786-793	jennies	_	_	
+10-51	794-799	going	_	_	
+10-52	799-800	,	_	_	
+10-53	801-804	and	_	_	
+10-54	805-810	being	_	_	
+10-55	811-817	unable	_	_	
+10-56	818-820	to	_	_	
+10-57	821-825	hear	_	_	
+10-58	826-829	the	_	_	
+10-59	830-836	shouts	_	_	
+10-60	837-839	of	_	_	
+10-61	840-843	the	_	_	
+10-62	844-847	lad	_	_	
+10-63	848-850	on	_	_	
+10-64	851-858	account	_	_	
+10-65	859-861	of	_	_	
+10-66	862-865	the	_	_	
+10-67	866-872	defect	_	_	
+10-68	873-875	in	_	_	
+10-69	876-879	his	_	_	
+10-70	880-887	hearing	_	_	
+10-71	887-888	,	_	_	
+10-72	889-892	did	_	_	
+10-73	893-896	not	_	_	
+10-74	897-901	stop	_	_	
+10-75	902-906	them	_	_	
+10-76	907-912	until	_	_	
+10-77	913-920	another	_	_	
+10-78	921-924	man	_	_	
+10-79	925-929	made	_	_	
+10-80	930-935	signs	_	_	
+10-81	936-938	to	_	_	
+10-82	939-942	him	_	_	
+10-83	943-945	to	_	_	
+10-84	946-950	stop	_	_	
+10-85	950-951	,	_	_	
+10-86	952-957	which	_	_	
+10-87	958-960	he	_	_	
+10-88	961-964	did	_	_	
+10-89	965-974	instantly	_	_	
+10-90	974-975	.	_	_	
+
+#Text=The poor lad had, however, been severely hurt on the head, although no limbs were injured.
+11-1	976-979	The	_	_	
+11-2	980-984	poor	_	_	
+11-3	985-988	lad	_	_	
+11-4	989-992	had	_	_	
+11-5	992-993	,	_	_	
+11-6	994-1001	however	_	_	
+11-7	1001-1002	,	_	_	
+11-8	1003-1007	been	_	_	
+11-9	1008-1016	severely	_	_	
+11-10	1017-1021	hurt	_	_	
+11-11	1022-1024	on	_	_	
+11-12	1025-1028	the	_	_	
+11-13	1029-1033	head	_	_	
+11-14	1033-1034	,	_	_	
+11-15	1035-1043	although	_	_	
+11-16	1044-1046	no	_	_	
+11-17	1047-1052	limbs	_	_	
+11-18	1053-1057	were	_	_	
+11-19	1058-1065	injured	_	_	
+11-20	1065-1066	.	_	_	
+
+#Text=He was immediately conveyed in a cab to the Infirmary, where we understand he is progressing favourably.
+12-1	1067-1069	He	_	_	
+12-2	1070-1073	was	_	_	
+12-3	1074-1085	immediately	_	_	
+12-4	1086-1094	conveyed	_	_	
+12-5	1095-1097	in	_	_	
+12-6	1098-1099	a	_	_	
+12-7	1100-1103	cab	_	_	
+12-8	1104-1106	to	_	_	
+12-9	1107-1110	the	_	_	
+12-10	1111-1120	Infirmary	_	_	
+12-11	1120-1121	,	_	_	
+12-12	1122-1127	where	_	_	
+12-13	1128-1130	we	_	_	
+12-14	1131-1141	understand	_	_	
+12-15	1142-1144	he	_	_	
+12-16	1145-1147	is	_	_	
+12-17	1148-1159	progressing	_	_	
+12-18	1160-1170	favourably	_	_	
+12-19	1170-1171	.	_	_	

@@ -1,0 +1,530 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=NTY CHRONICLE AND SOMERSETSHIRE GAZETTE.
+1-1	0-3	NTY	_	_	
+1-2	4-13	CHRONICLE	_	_	
+1-3	14-17	AND	_	_	
+1-4	18-31	SOMERSETSHIRE	https://en.wikipedia.org/wiki/Somerset	LOC	
+1-5	32-39	GAZETTE	_	_	
+1-6	39-40	.	_	_	
+
+#Text=HAMPSHIRE.
+2-1	42-51	HAMPSHIRE	https://en.wikipedia.org/wiki/Hampshire	LOC	
+2-2	51-52	.	_	_	
+
+#Text=Mrs.
+3-1	54-57	Mrs	_	_	
+3-2	57-58	.	_	_	
+
+#Text=Napier, her two tianghtertf, ami son.
+4-1	59-65	Napier	_	_	
+4-2	65-66	,	_	_	
+4-3	67-70	her	_	_	
+4-4	71-74	two	_	_	
+4-5	75-86	tianghtertf	_	_	
+4-6	86-87	,	_	_	
+4-7	88-91	ami	_	_	
+4-8	92-95	son	_	_	
+4-9	95-96	.	_	_	
+
+#Text=Captain Napier, embarked and sailed for Lisbon, from Portsmouth, on Thursday afternoon, amidst the congratulations and cheers of a numerous party of friends.
+5-1	97-104	Captain	_	_	
+5-2	105-111	Napier	_	_	
+5-3	111-112	,	_	_	
+5-4	113-121	embarked	_	_	
+5-5	122-125	and	_	_	
+5-6	126-132	sailed	_	_	
+5-7	133-136	for	_	_	
+5-8	137-143	Lisbon	https://en.wikipedia.org/wiki/Lisbon	LOC	
+5-9	143-144	,	_	_	
+5-10	145-149	from	_	_	
+5-11	150-160	Portsmouth	https://en.wikipedia.org/wiki/Portsmouth	LOC	
+5-12	160-161	,	_	_	
+5-13	162-164	on	_	_	
+5-14	165-173	Thursday	_	_	
+5-15	174-183	afternoon	_	_	
+5-16	183-184	,	_	_	
+5-17	185-191	amidst	_	_	
+5-18	192-195	the	_	_	
+5-19	196-211	congratulations	_	_	
+5-20	212-215	and	_	_	
+5-21	216-222	cheers	_	_	
+5-22	223-225	of	_	_	
+5-23	226-227	a	_	_	
+5-24	228-236	numerous	_	_	
+5-25	237-242	party	_	_	
+5-26	243-245	of	_	_	
+5-27	246-253	friends	_	_	
+5-28	253-254	.	_	_	
+
+#Text=An itinerant preacher has been holding forth in the streets of Portsea during the week, and issuing tracts.
+6-1	255-257	An	_	_	
+6-2	258-267	itinerant	_	_	
+6-3	268-276	preacher	_	_	
+6-4	277-280	has	_	_	
+6-5	281-285	been	_	_	
+6-6	286-293	holding	_	_	
+6-7	294-299	forth	_	_	
+6-8	300-302	in	_	_	
+6-9	303-306	the	_	_	
+6-10	307-314	streets	_	_	
+6-11	315-317	of	_	_	
+6-12	318-325	Portsea	https://en.wikipedia.org/wiki/Portsea\_Island	LOC	
+6-13	326-332	during	_	_	
+6-14	333-336	the	_	_	
+6-15	337-341	week	_	_	
+6-16	341-342	,	_	_	
+6-17	343-346	and	_	_	
+6-18	347-354	issuing	_	_	
+6-19	355-361	tracts	_	_	
+6-20	361-362	.	_	_	
+
+#Text=He is said to be a disciple of the Kev.
+7-1	363-365	He	_	_	
+7-2	366-368	is	_	_	
+7-3	369-373	said	_	_	
+7-4	374-376	to	_	_	
+7-5	377-379	be	_	_	
+7-6	380-381	a	_	_	
+7-7	382-390	disciple	_	_	
+7-8	391-393	of	_	_	
+7-9	394-397	the	_	_	
+7-10	398-401	Kev	_	_	
+7-11	401-402	.	_	_	
+
+#Text=Mr.
+8-1	403-405	Mr	_	_	
+8-2	405-406	.	_	_	
+
+#Text=Irving.
+9-1	407-413	Irving	_	_	
+9-2	413-414	.	_	_	
+
+#Text=He met with but poor success.
+10-1	415-417	He	_	_	
+10-2	418-421	met	_	_	
+10-3	422-426	with	_	_	
+10-4	427-430	but	_	_	
+10-5	431-435	poor	_	_	
+10-6	436-443	success	_	_	
+10-7	443-444	.	_	_	
+
+#Text=The small-pox is very prevalent at present in the village of Harobteden and its vicinity.
+11-1	446-449	The	_	_	
+11-2	450-459	small-pox	_	_	
+11-3	460-462	is	_	_	
+11-4	463-467	very	_	_	
+11-5	468-477	prevalent	_	_	
+11-6	478-480	at	_	_	
+11-7	481-488	present	_	_	
+11-8	489-491	in	_	_	
+11-9	492-495	the	_	_	
+11-10	496-503	village	_	_	
+11-11	504-506	of	_	_	
+11-12	507-517	Harobteden	https://en.wikipedia.org/wiki/Hambledon,\_Hampshire	LOC	
+11-13	518-521	and	_	_	
+11-14	522-525	its	_	_	
+11-15	526-534	vicinity	_	_	
+11-16	534-535	.	_	_	
+
+#Text=Nearly all the towns in Hampshire will this winter be lighted with gas.
+12-1	536-542	Nearly	_	_	
+12-2	543-546	all	_	_	
+12-3	547-550	the	_	_	
+12-4	551-556	towns	_	_	
+12-5	557-559	in	_	_	
+12-6	560-569	Hampshire	https://en.wikipedia.org/wiki/Hampshire	LOC	
+12-7	570-574	will	_	_	
+12-8	575-579	this	_	_	
+12-9	580-586	winter	_	_	
+12-10	587-589	be	_	_	
+12-11	590-597	lighted	_	_	
+12-12	598-602	with	_	_	
+12-13	603-606	gas	_	_	
+12-14	606-607	.	_	_	
+
+#Text=At Romsey the pipes have been laid down this week, and in the course of next month it is expected the works will be completed.
+13-1	608-610	At	_	_	
+13-2	611-617	Romsey	https://en.wikipedia.org/wiki/Romsey	LOC	
+13-3	618-621	the	_	_	
+13-4	622-627	pipes	_	_	
+13-5	628-632	have	_	_	
+13-6	633-637	been	_	_	
+13-7	638-642	laid	_	_	
+13-8	643-647	down	_	_	
+13-9	648-652	this	_	_	
+13-10	653-657	week	_	_	
+13-11	657-658	,	_	_	
+13-12	659-662	and	_	_	
+13-13	663-665	in	_	_	
+13-14	666-669	the	_	_	
+13-15	670-676	course	_	_	
+13-16	677-679	of	_	_	
+13-17	680-684	next	_	_	
+13-18	685-690	month	_	_	
+13-19	691-693	it	_	_	
+13-20	694-696	is	_	_	
+13-21	697-705	expected	_	_	
+13-22	706-709	the	_	_	
+13-23	710-715	works	_	_	
+13-24	716-720	will	_	_	
+13-25	721-723	be	_	_	
+13-26	724-733	completed	_	_	
+13-27	733-734	.	_	_	
+
+#Text=The money fbr this undertaking waa raised by shares, which were all sold In a few days, the purchasers expecting to obtain 7 or 8 per cent, for their money.
+14-1	735-738	The	_	_	
+14-2	739-744	money	_	_	
+14-3	745-748	fbr	_	_	
+14-4	749-753	this	_	_	
+14-5	754-765	undertaking	_	_	
+14-6	766-769	waa	_	_	
+14-7	770-776	raised	_	_	
+14-8	777-779	by	_	_	
+14-9	780-786	shares	_	_	
+14-10	786-787	,	_	_	
+14-11	788-793	which	_	_	
+14-12	794-798	were	_	_	
+14-13	799-802	all	_	_	
+14-14	803-807	sold	_	_	
+14-15	808-810	In	_	_	
+14-16	811-812	a	_	_	
+14-17	813-816	few	_	_	
+14-18	817-821	days	_	_	
+14-19	821-822	,	_	_	
+14-20	823-826	the	_	_	
+14-21	827-837	purchasers	_	_	
+14-22	838-847	expecting	_	_	
+14-23	848-850	to	_	_	
+14-24	851-857	obtain	_	_	
+14-25	858-859	7	_	_	
+14-26	860-862	or	_	_	
+14-27	863-864	8	_	_	
+14-28	865-868	per	_	_	
+14-29	869-873	cent	_	_	
+14-30	873-874	,	_	_	
+14-31	875-878	for	_	_	
+14-32	879-884	their	_	_	
+14-33	885-890	money	_	_	
+14-34	890-891	.	_	_	
+
+#Text=The inhabitants of St.
+15-1	892-895	The	_	_	
+15-2	896-907	inhabitants	_	_	
+15-3	908-910	of	_	_	
+15-4	911-913	St	_	_	
+15-5	913-914	.	_	_	
+
+#Text=Maty Kalendar, Winchester, resolved, on Thursday last, not to any portion of the expenses incurred in conducting Divine Service in St.
+16-1	915-919	Maty	_	_	
+16-2	920-928	Kalendar	_	_	
+16-3	928-929	,	_	_	
+16-4	930-940	Winchester	https://en.wikipedia.org/wiki/Winchester	LOC	
+16-5	940-941	,	_	_	
+16-6	942-950	resolved	_	_	
+16-7	950-951	,	_	_	
+16-8	952-954	on	_	_	
+16-9	955-963	Thursday	_	_	
+16-10	964-968	last	_	_	
+16-11	968-969	,	_	_	
+16-12	970-973	not	_	_	
+16-13	974-976	to	_	_	
+16-14	977-980	any	_	_	
+16-15	981-988	portion	_	_	
+16-16	989-991	of	_	_	
+16-17	992-995	the	_	_	
+16-18	996-1004	expenses	_	_	
+16-19	1005-1013	incurred	_	_	
+16-20	1014-1016	in	_	_	
+16-21	1017-1027	conducting	_	_	
+16-22	1028-1034	Divine	_	_	
+16-23	1035-1042	Service	_	_	
+16-24	1043-1045	in	_	_	
+16-25	1046-1048	St	_	_	
+16-26	1048-1049	.	_	_	
+
+#Text=Maurices chnrch, except such as the law oompelled,on the ground that the parishioners had no adequate accommodation in the above church, and it was resolved to adjourn the consideration of Risking a new church rate for St.
+17-1	1050-1058	Maurices	_	_	
+17-2	1059-1065	chnrch	_	_	
+17-3	1065-1066	,	_	_	
+17-4	1067-1073	except	_	_	
+17-5	1074-1078	such	_	_	
+17-6	1079-1081	as	_	_	
+17-7	1082-1085	the	_	_	
+17-8	1086-1089	law	_	_	
+17-9	1090-1099	oompelled	_	_	
+17-10	1099-1100	,	_	_	
+17-11	1100-1102	on	_	_	
+17-12	1103-1106	the	_	_	
+17-13	1107-1113	ground	_	_	
+17-14	1114-1118	that	_	_	
+17-15	1119-1122	the	_	_	
+17-16	1123-1135	parishioners	_	_	
+17-17	1136-1139	had	_	_	
+17-18	1140-1142	no	_	_	
+17-19	1143-1151	adequate	_	_	
+17-20	1152-1165	accommodation	_	_	
+17-21	1166-1168	in	_	_	
+17-22	1169-1172	the	_	_	
+17-23	1173-1178	above	_	_	
+17-24	1179-1185	church	_	_	
+17-25	1185-1186	,	_	_	
+17-26	1187-1190	and	_	_	
+17-27	1191-1193	it	_	_	
+17-28	1194-1197	was	_	_	
+17-29	1198-1206	resolved	_	_	
+17-30	1207-1209	to	_	_	
+17-31	1210-1217	adjourn	_	_	
+17-32	1218-1221	the	_	_	
+17-33	1222-1235	consideration	_	_	
+17-34	1236-1238	of	_	_	
+17-35	1239-1246	Risking	_	_	
+17-36	1247-1248	a	_	_	
+17-37	1249-1252	new	_	_	
+17-38	1253-1259	church	_	_	
+17-39	1260-1264	rate	_	_	
+17-40	1265-1268	for	_	_	
+17-41	1269-1271	St	_	_	
+17-42	1271-1272	.	_	_	
+
+#Text=Mary Kalendar until that day nine months.
+18-1	1273-1277	Mary	_	_	
+18-2	1278-1286	Kalendar	_	_	
+18-3	1287-1292	until	_	_	
+18-4	1293-1297	that	_	_	
+18-5	1298-1301	day	_	_	
+18-6	1302-1306	nine	_	_	
+18-7	1307-1313	months	_	_	
+18-8	1313-1314	.	_	_	
+
+#Text=The Members for the Borough of Portsmouth are shortly expected there, for the purpose of undergoing a thorough badgering—M.
+19-1	1315-1318	The	_	_	
+19-2	1319-1326	Members	_	_	
+19-3	1327-1330	for	_	_	
+19-4	1331-1334	the	_	_	
+19-5	1335-1342	Borough	_	_	
+19-6	1343-1345	of	_	_	
+19-7	1346-1356	Portsmouth	_	_	
+19-8	1357-1360	are	_	_	
+19-9	1361-1368	shortly	_	_	
+19-10	1369-1377	expected	_	_	
+19-11	1378-1383	there	_	_	
+19-12	1383-1384	,	_	_	
+19-13	1385-1388	for	_	_	
+19-14	1389-1392	the	_	_	
+19-15	1393-1400	purpose	_	_	
+19-16	1401-1403	of	_	_	
+19-17	1404-1414	undergoing	_	_	
+19-18	1415-1416	a	_	_	
+19-19	1417-1425	thorough	_	_	
+19-20	1426-1437	badgering—M	_	_	
+19-21	1437-1438	.	_	_	
+
+#Text=Herald.
+20-1	1439-1445	Herald	_	_	
+20-2	1445-1446	.	_	_	
+
+#Text=The Select Vestry of Fordingbridgc came to the resolution on Friday of discharging all their labourers who do not belong to the parish.
+21-1	1447-1450	The	_	_	
+21-2	1451-1457	Select	_	_	
+21-3	1458-1464	Vestry	_	_	
+21-4	1465-1467	of	_	_	
+21-5	1468-1481	Fordingbridgc	https://en.wikipedia.org/wiki/Fordingbridge	LOC	
+21-6	1482-1486	came	_	_	
+21-7	1487-1489	to	_	_	
+21-8	1490-1493	the	_	_	
+21-9	1494-1504	resolution	_	_	
+21-10	1505-1507	on	_	_	
+21-11	1508-1514	Friday	_	_	
+21-12	1515-1517	of	_	_	
+21-13	1518-1529	discharging	_	_	
+21-14	1530-1533	all	_	_	
+21-15	1534-1539	their	_	_	
+21-16	1540-1549	labourers	_	_	
+21-17	1550-1553	who	_	_	
+21-18	1554-1556	do	_	_	
+21-19	1557-1560	not	_	_	
+21-20	1561-1567	belong	_	_	
+21-21	1568-1570	to	_	_	
+21-22	1571-1574	the	_	_	
+21-23	1575-1581	parish	_	_	
+21-24	1581-1582	.	_	_	
+
+#Text=I’outes, Sept. 20.
+22-1	1583-1584	I	_	_	
+22-2	1584-1585	’	_	_	
+22-3	1585-1590	outes	_	_	
+22-4	1590-1591	,	_	_	
+22-5	1592-1596	Sept	_	_	
+22-6	1596-1597	.	_	_	
+22-7	1598-1600	20	_	_	
+22-8	1600-1601	.	_	_	
+
+#Text=—The Earl of Durham’s grand fete to the Duchess of Kent, the Princess Victoria, 3fc., was given on Saturday, when the weather was highly propitious.
+23-1	1601-1602	—	_	_	
+23-2	1602-1605	The	_	_	
+23-3	1606-1610	Earl	_	_	
+23-4	1611-1613	of	_	_	
+23-5	1614-1620	Durham	_	_	
+23-6	1620-1621	’	_	_	
+23-7	1621-1622	s	_	_	
+23-8	1623-1628	grand	_	_	
+23-9	1629-1633	fete	_	_	
+23-10	1634-1636	to	_	_	
+23-11	1637-1640	the	_	_	
+23-12	1641-1648	Duchess	_	_	
+23-13	1649-1651	of	_	_	
+23-14	1652-1656	Kent	_	_	
+23-15	1656-1657	,	_	_	
+23-16	1658-1661	the	_	_	
+23-17	1662-1670	Princess	_	_	
+23-18	1671-1679	Victoria	_	_	
+23-19	1679-1680	,	_	_	
+23-20	1681-1684	3fc	_	_	
+23-21	1684-1685	.	_	_	
+23-22	1685-1686	,	_	_	
+23-23	1687-1690	was	_	_	
+23-24	1691-1696	given	_	_	
+23-25	1697-1699	on	_	_	
+23-26	1700-1708	Saturday	_	_	
+23-27	1708-1709	,	_	_	
+23-28	1710-1714	when	_	_	
+23-29	1715-1718	the	_	_	
+23-30	1719-1726	weather	_	_	
+23-31	1727-1730	was	_	_	
+23-32	1731-1737	highly	_	_	
+23-33	1738-1748	propitious	_	_	
+23-34	1748-1749	.	_	_	
+
+#Text=The entertainments concluded with abrilliant display of fire works,— On Monday, their Royal Highnessesembarked at Norris Castle, to pay a visit to Donna Maria, of Portugal.
+24-1	1750-1753	The	_	_	
+24-2	1754-1768	entertainments	_	_	
+24-3	1769-1778	concluded	_	_	
+24-4	1779-1783	with	_	_	
+24-5	1784-1794	abrilliant	_	_	
+24-6	1795-1802	display	_	_	
+24-7	1803-1805	of	_	_	
+24-8	1806-1810	fire	_	_	
+24-9	1811-1816	works	_	_	
+24-10	1816-1817	,	_	_	
+24-11	1817-1818	—	_	_	
+24-12	1819-1821	On	_	_	
+24-13	1822-1828	Monday	_	_	
+24-14	1828-1829	,	_	_	
+24-15	1830-1835	their	_	_	
+24-16	1836-1841	Royal	_	_	
+24-17	1842-1860	Highnessesembarked	_	_	
+24-18	1861-1863	at	_	_	
+24-19	1864-1870	Norris	https://en.wikipedia.org/wiki/Norris\_Castle[1]	LOC[1]	
+24-20	1871-1877	Castle	https://en.wikipedia.org/wiki/Norris\_Castle[1]	LOC[1]	
+24-21	1877-1878	,	_	_	
+24-22	1879-1881	to	_	_	
+24-23	1882-1885	pay	_	_	
+24-24	1886-1887	a	_	_	
+24-25	1888-1893	visit	_	_	
+24-26	1894-1896	to	_	_	
+24-27	1897-1902	Donna	_	_	
+24-28	1903-1908	Maria	_	_	
+24-29	1908-1909	,	_	_	
+24-30	1910-1912	of	_	_	
+24-31	1913-1921	Portugal	https://en.wikipedia.org/wiki/Portugal	LOC	
+24-32	1921-1922	.	_	_	
+
+#Text=At four oclock, the Soho steamer, with the illustrious Portuguese visitors on board, rounded tbe point of Norris Castle, and the wind blowing fresh from the W.S.
+25-1	1923-1925	At	_	_	
+25-2	1926-1930	four	_	_	
+25-3	1931-1937	oclock	_	_	
+25-4	1937-1938	,	_	_	
+25-5	1939-1942	the	_	_	
+25-6	1943-1947	Soho	_	_	
+25-7	1948-1955	steamer	_	_	
+25-8	1955-1956	,	_	_	
+25-9	1957-1961	with	_	_	
+25-10	1962-1965	the	_	_	
+25-11	1966-1977	illustrious	_	_	
+25-12	1978-1988	Portuguese	_	_	
+25-13	1989-1997	visitors	_	_	
+25-14	1998-2000	on	_	_	
+25-15	2001-2006	board	_	_	
+25-16	2006-2007	,	_	_	
+25-17	2008-2015	rounded	_	_	
+25-18	2016-2019	tbe	_	_	
+25-19	2020-2025	point	_	_	
+25-20	2026-2028	of	_	_	
+25-21	2029-2035	Norris	https://en.wikipedia.org/wiki/Norris\_Castle[2]	LOC[2]	
+25-22	2036-2042	Castle	https://en.wikipedia.org/wiki/Norris\_Castle[2]	LOC[2]	
+25-23	2042-2043	,	_	_	
+25-24	2044-2047	and	_	_	
+25-25	2048-2051	the	_	_	
+25-26	2052-2056	wind	_	_	
+25-27	2057-2064	blowing	_	_	
+25-28	2065-2070	fresh	_	_	
+25-29	2071-2075	from	_	_	
+25-30	2076-2079	the	_	_	
+25-31	2080-2083	W.S	_	_	
+25-32	2083-2084	.	_	_	
+
+#Text=Vf., With torrents of rain, the Soho lay-to during the night.
+26-1	2085-2087	Vf	_	_	
+26-2	2087-2088	.	_	_	
+26-3	2088-2089	,	_	_	
+26-4	2090-2094	With	_	_	
+26-5	2095-2103	torrents	_	_	
+26-6	2104-2106	of	_	_	
+26-7	2107-2111	rain	_	_	
+26-8	2111-2112	,	_	_	
+26-9	2113-2116	the	_	_	
+26-10	2117-2121	Soho	_	_	
+26-11	2122-2128	lay-to	_	_	
+26-12	2129-2135	during	_	_	
+26-13	2136-2139	the	_	_	
+26-14	2140-2145	night	_	_	
+26-15	2145-2146	.	_	_	
+
+#Text=At half past five on Tuesday morning, tbe wind having veered round to VV.N.W., the Soho, accompanied by the Government steamer, Salamander, as an escort, got under weigh, and proceeded on their voyage to Lisbon.
+27-1	2147-2149	At	_	_	
+27-2	2150-2154	half	_	_	
+27-3	2155-2159	past	_	_	
+27-4	2160-2164	five	_	_	
+27-5	2165-2167	on	_	_	
+27-6	2168-2175	Tuesday	_	_	
+27-7	2176-2183	morning	_	_	
+27-8	2183-2184	,	_	_	
+27-9	2185-2188	tbe	_	_	
+27-10	2189-2193	wind	_	_	
+27-11	2194-2200	having	_	_	
+27-12	2201-2207	veered	_	_	
+27-13	2208-2213	round	_	_	
+27-14	2214-2216	to	_	_	
+27-15	2217-2223	VV.N.W	_	_	
+27-16	2223-2224	.	_	_	
+27-17	2224-2225	,	_	_	
+27-18	2226-2229	the	_	_	
+27-19	2230-2234	Soho	_	_	
+27-20	2234-2235	,	_	_	
+27-21	2236-2247	accompanied	_	_	
+27-22	2248-2250	by	_	_	
+27-23	2251-2254	the	_	_	
+27-24	2255-2265	Government	_	_	
+27-25	2266-2273	steamer	_	_	
+27-26	2273-2274	,	_	_	
+27-27	2275-2285	Salamander	_	_	
+27-28	2285-2286	,	_	_	
+27-29	2287-2289	as	_	_	
+27-30	2290-2292	an	_	_	
+27-31	2293-2299	escort	_	_	
+27-32	2299-2300	,	_	_	
+27-33	2301-2304	got	_	_	
+27-34	2305-2310	under	_	_	
+27-35	2311-2316	weigh	_	_	
+27-36	2316-2317	,	_	_	
+27-37	2318-2321	and	_	_	
+27-38	2322-2331	proceeded	_	_	
+27-39	2332-2334	on	_	_	
+27-40	2335-2340	their	_	_	
+27-41	2341-2347	voyage	_	_	
+27-42	2348-2350	to	_	_	
+27-43	2351-2357	Lisbon	https://en.wikipedia.org/wiki/Lisbon	LOC	
+27-44	2357-2358	.	_	_	

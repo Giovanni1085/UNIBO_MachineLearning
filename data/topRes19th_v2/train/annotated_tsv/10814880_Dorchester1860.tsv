@@ -1,0 +1,249 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=BUCKFASTLEIGH.
+1-1	0-13	BUCKFASTLEIGH	https://en.wikipedia.org/wiki/Buckfastleigh	LOC	
+1-2	13-14	.	_	_	
+
+#Text=Bread Riot.
+2-1	16-21	Bread	_	_	
+2-2	22-26	Riot	_	_	
+2-3	26-27	.	_	_	
+
+#Text=—One night last week some persons commenced a riot at the Watermans Arms, where the landlord, Mr.
+3-1	27-28	—	_	_	
+3-2	28-31	One	_	_	
+3-3	32-37	night	_	_	
+3-4	38-42	last	_	_	
+3-5	43-47	week	_	_	
+3-6	48-52	some	_	_	
+3-7	53-60	persons	_	_	
+3-8	61-70	commenced	_	_	
+3-9	71-72	a	_	_	
+3-10	73-77	riot	_	_	
+3-11	78-80	at	_	_	
+3-12	81-84	the	_	_	
+3-13	85-94	Watermans	*[1]	BUILDING[1]	
+3-14	95-99	Arms	*[1]	BUILDING[1]	
+3-15	99-100	,	_	_	
+3-16	101-106	where	_	_	
+3-17	107-110	the	_	_	
+3-18	111-119	landlord	_	_	
+3-19	119-120	,	_	_	
+3-20	121-123	Mr	_	_	
+3-21	123-124	.	_	_	
+
+#Text=Bishop, also carries on a baking business.
+4-1	125-131	Bishop	_	_	
+4-2	131-132	,	_	_	
+4-3	133-137	also	_	_	
+4-4	138-145	carries	_	_	
+4-5	146-148	on	_	_	
+4-6	149-150	a	_	_	
+4-7	151-157	baking	_	_	
+4-8	158-166	business	_	_	
+4-9	166-167	.	_	_	
+
+#Text=They smashed several panes of glass, after which they were proceeding towards another bakers house, but were intercepted by P.C.s Pratt and Balsden, who, with Mr.
+5-1	168-172	They	_	_	
+5-2	173-180	smashed	_	_	
+5-3	181-188	several	_	_	
+5-4	189-194	panes	_	_	
+5-5	195-197	of	_	_	
+5-6	198-203	glass	_	_	
+5-7	203-204	,	_	_	
+5-8	205-210	after	_	_	
+5-9	211-216	which	_	_	
+5-10	217-221	they	_	_	
+5-11	222-226	were	_	_	
+5-12	227-237	proceeding	_	_	
+5-13	238-245	towards	_	_	
+5-14	246-253	another	_	_	
+5-15	254-260	bakers	_	_	
+5-16	261-266	house	_	_	
+5-17	266-267	,	_	_	
+5-18	268-271	but	_	_	
+5-19	272-276	were	_	_	
+5-20	277-288	intercepted	_	_	
+5-21	289-291	by	_	_	
+5-22	292-297	P.C.s	_	_	
+5-23	298-303	Pratt	_	_	
+5-24	304-307	and	_	_	
+5-25	308-315	Balsden	_	_	
+5-26	315-316	,	_	_	
+5-27	317-320	who	_	_	
+5-28	320-321	,	_	_	
+5-29	322-326	with	_	_	
+5-30	327-329	Mr	_	_	
+5-31	329-330	.	_	_	
+
+#Text=Coulton and others of the leading inhabitants, persuaded the mob, numbering about 200 to 300, not to commit further damage, aud to disperse.
+6-1	331-338	Coulton	_	_	
+6-2	339-342	and	_	_	
+6-3	343-349	others	_	_	
+6-4	350-352	of	_	_	
+6-5	353-356	the	_	_	
+6-6	357-364	leading	_	_	
+6-7	365-376	inhabitants	_	_	
+6-8	376-377	,	_	_	
+6-9	378-387	persuaded	_	_	
+6-10	388-391	the	_	_	
+6-11	392-395	mob	_	_	
+6-12	395-396	,	_	_	
+6-13	397-406	numbering	_	_	
+6-14	407-412	about	_	_	
+6-15	413-416	200	_	_	
+6-16	417-419	to	_	_	
+6-17	420-423	300	_	_	
+6-18	423-424	,	_	_	
+6-19	425-428	not	_	_	
+6-20	429-431	to	_	_	
+6-21	432-438	commit	_	_	
+6-22	439-446	further	_	_	
+6-23	447-453	damage	_	_	
+6-24	453-454	,	_	_	
+6-25	455-458	aud	_	_	
+6-26	459-461	to	_	_	
+6-27	462-470	disperse	_	_	
+6-28	470-471	.	_	_	
+
+#Text=The town was in a great uproar for about three hours, during which time stones and other missiles were freely thrown, the P.C.s being several times struck.
+7-1	472-475	The	_	_	
+7-2	476-480	town	_	_	
+7-3	481-484	was	_	_	
+7-4	485-487	in	_	_	
+7-5	488-489	a	_	_	
+7-6	490-495	great	_	_	
+7-7	496-502	uproar	_	_	
+7-8	503-506	for	_	_	
+7-9	507-512	about	_	_	
+7-10	513-518	three	_	_	
+7-11	519-524	hours	_	_	
+7-12	524-525	,	_	_	
+7-13	526-532	during	_	_	
+7-14	533-538	which	_	_	
+7-15	539-543	time	_	_	
+7-16	544-550	stones	_	_	
+7-17	551-554	and	_	_	
+7-18	555-560	other	_	_	
+7-19	561-569	missiles	_	_	
+7-20	570-574	were	_	_	
+7-21	575-581	freely	_	_	
+7-22	582-588	thrown	_	_	
+7-23	588-589	,	_	_	
+7-24	590-593	the	_	_	
+7-25	594-599	P.C.s	_	_	
+7-26	600-605	being	_	_	
+7-27	606-613	several	_	_	
+7-28	614-619	times	_	_	
+7-29	620-626	struck	_	_	
+7-30	626-627	.	_	_	
+
+#Text=At the Guildhall, Totnes, on Thursday, before A.
+8-1	628-630	At	_	_	
+8-2	631-634	the	_	_	
+8-3	635-644	Guildhall	*	BUILDING	
+8-4	644-645	,	_	_	
+8-5	646-652	Totnes	https://en.wikipedia.org/wiki/Totnes	LOC	
+8-6	652-653	,	_	_	
+8-7	654-656	on	_	_	
+8-8	657-665	Thursday	_	_	
+8-9	665-666	,	_	_	
+8-10	667-673	before	_	_	
+8-11	674-675	A	_	_	
+8-12	675-676	.	_	_	
+
+#Text=Champernowne, Esq., R.
+9-1	677-689	Champernowne	_	_	
+9-2	689-690	,	_	_	
+9-3	691-694	Esq	_	_	
+9-4	694-695	.	_	_	
+9-5	695-696	,	_	_	
+9-6	697-698	R	_	_	
+9-7	698-699	.	_	_	
+
+#Text=Durant, Esq., and R.
+10-1	700-706	Durant	_	_	
+10-2	706-707	,	_	_	
+10-3	708-711	Esq	_	_	
+10-4	711-712	.	_	_	
+10-5	712-713	,	_	_	
+10-6	714-717	and	_	_	
+10-7	718-719	R	_	_	
+10-8	719-720	.	_	_	
+
+#Text=H.
+11-1	721-722	H	_	_	
+11-2	722-723	.	_	_	
+
+#Text=Watson, Esq., county magistrates, Samuel Winter and Nicholas Fezzy, tbe younger, both of Buckfastleigh, young men, were brought up in custody charged with riotous proceedings on Tuesday night.
+12-1	724-730	Watson	_	_	
+12-2	730-731	,	_	_	
+12-3	732-735	Esq	_	_	
+12-4	735-736	.	_	_	
+12-5	736-737	,	_	_	
+12-6	738-744	county	_	_	
+12-7	745-756	magistrates	_	_	
+12-8	756-757	,	_	_	
+12-9	758-764	Samuel	_	_	
+12-10	765-771	Winter	_	_	
+12-11	772-775	and	_	_	
+12-12	776-784	Nicholas	_	_	
+12-13	785-790	Fezzy	_	_	
+12-14	790-791	,	_	_	
+12-15	792-795	tbe	_	_	
+12-16	796-803	younger	_	_	
+12-17	803-804	,	_	_	
+12-18	805-809	both	_	_	
+12-19	810-812	of	_	_	
+12-20	813-826	Buckfastleigh	https://en.wikipedia.org/wiki/Buckfastleigh	LOC	
+12-21	826-827	,	_	_	
+12-22	828-833	young	_	_	
+12-23	834-837	men	_	_	
+12-24	837-838	,	_	_	
+12-25	839-843	were	_	_	
+12-26	844-851	brought	_	_	
+12-27	852-854	up	_	_	
+12-28	855-857	in	_	_	
+12-29	858-865	custody	_	_	
+12-30	866-873	charged	_	_	
+12-31	874-878	with	_	_	
+12-32	879-886	riotous	_	_	
+12-33	887-898	proceedings	_	_	
+12-34	899-901	on	_	_	
+12-35	902-909	Tuesday	_	_	
+12-36	910-915	night	_	_	
+12-37	915-916	.	_	_	
+
+#Text=Tbe prisoners were among the ringleaders, and not having any defence were committed for trial, bail being refused.
+13-1	917-920	Tbe	_	_	
+13-2	921-930	prisoners	_	_	
+13-3	931-935	were	_	_	
+13-4	936-941	among	_	_	
+13-5	942-945	the	_	_	
+13-6	946-957	ringleaders	_	_	
+13-7	957-958	,	_	_	
+13-8	959-962	and	_	_	
+13-9	963-966	not	_	_	
+13-10	967-973	having	_	_	
+13-11	974-977	any	_	_	
+13-12	978-985	defence	_	_	
+13-13	986-990	were	_	_	
+13-14	991-1000	committed	_	_	
+13-15	1001-1004	for	_	_	
+13-16	1005-1010	trial	_	_	
+13-17	1010-1011	,	_	_	
+13-18	1012-1016	bail	_	_	
+13-19	1017-1022	being	_	_	
+13-20	1023-1030	refused	_	_	
+13-21	1030-1031	.	_	_	
+
+#Text=Buckfastleigh has been quiet since Tuesday.
+14-1	1032-1045	Buckfastleigh	https://en.wikipedia.org/wiki/Buckfastleigh	LOC	
+14-2	1046-1049	has	_	_	
+14-3	1050-1054	been	_	_	
+14-4	1055-1060	quiet	_	_	
+14-5	1061-1066	since	_	_	
+14-6	1067-1074	Tuesday	_	_	
+14-7	1074-1075	.	_	_	

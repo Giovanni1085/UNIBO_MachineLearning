@@ -1,0 +1,628 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=POOLE TOWN COUNCIL.
+1-1	0-5	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+1-2	6-10	TOWN	_	_	
+1-3	11-18	COUNCIL	_	_	
+1-4	18-19	.	_	_	
+
+#Text=A quarterly meeting of the corporation of this borough was held at the Guildhall, on Monday, the Mayor presiding.
+2-1	21-22	A	_	_	
+2-2	23-32	quarterly	_	_	
+2-3	33-40	meeting	_	_	
+2-4	41-43	of	_	_	
+2-5	44-47	the	_	_	
+2-6	48-59	corporation	_	_	
+2-7	60-62	of	_	_	
+2-8	63-67	this	_	_	
+2-9	68-75	borough	_	_	
+2-10	76-79	was	_	_	
+2-11	80-84	held	_	_	
+2-12	85-87	at	_	_	
+2-13	88-91	the	_	_	
+2-14	92-101	Guildhall	*	BUILDING	
+2-15	101-102	,	_	_	
+2-16	103-105	on	_	_	
+2-17	106-112	Monday	_	_	
+2-18	112-113	,	_	_	
+2-19	114-117	the	_	_	
+2-20	118-123	Mayor	_	_	
+2-21	124-133	presiding	_	_	
+2-22	133-134	.	_	_	
+
+#Text=There were also present—Aldermen T.
+3-1	135-140	There	_	_	
+3-2	141-145	were	_	_	
+3-3	146-150	also	_	_	
+3-4	151-167	present—Aldermen	_	_	
+3-5	168-169	T	_	_	
+3-6	169-170	.	_	_	
+
+#Text=Wanhill, J.
+4-1	171-178	Wanhill	_	_	
+4-2	178-179	,	_	_	
+4-3	180-181	J	_	_	
+4-4	181-182	.	_	_	
+
+#Text=Goose, and J.
+5-1	183-188	Goose	_	_	
+5-2	188-189	,	_	_	
+5-3	190-193	and	_	_	
+5-4	194-195	J	_	_	
+5-5	195-196	.	_	_	
+
+#Text=Adey, Councillors H.
+6-1	197-201	Adey	_	_	
+6-2	201-202	,	_	_	
+6-3	203-214	Councillors	_	_	
+6-4	215-216	H	_	_	
+6-5	216-217	.	_	_	
+
+#Text=Harris,U.
+7-1	218-224	Harris	_	_	
+7-2	224-225	,	_	_	
+7-3	225-226	U	_	_	
+7-4	226-227	.	_	_	
+
+#Text=Frampton, C.
+8-1	228-236	Frampton	_	_	
+8-2	236-237	,	_	_	
+8-3	238-239	C	_	_	
+8-4	239-240	.	_	_	
+
+#Text=J.
+9-1	241-242	J	_	_	
+9-2	242-243	.	_	_	
+
+#Text=Stone, W.
+10-1	244-249	Stone	_	_	
+10-2	249-250	,	_	_	
+10-3	251-252	W	_	_	
+10-4	252-253	.	_	_	
+
+#Text=L.
+11-1	254-255	L	_	_	
+11-2	255-256	.	_	_	
+
+#Text=C.
+12-1	257-258	C	_	_	
+12-2	258-259	.	_	_	
+
+#Text=Adey, G.
+13-1	260-264	Adey	_	_	
+13-2	264-265	,	_	_	
+13-3	266-267	G	_	_	
+13-4	267-268	.	_	_	
+
+#Text=Belren, E.
+14-1	269-275	Belren	_	_	
+14-2	275-276	,	_	_	
+14-3	277-278	E	_	_	
+14-4	278-279	.	_	_	
+
+#Text=Mullett, F.
+15-1	280-287	Mullett	_	_	
+15-2	287-288	,	_	_	
+15-3	289-290	F	_	_	
+15-4	290-291	.	_	_	
+
+#Text=Styling, J.
+16-1	292-299	Styling	_	_	
+16-2	299-300	,	_	_	
+16-3	301-302	J	_	_	
+16-4	302-303	.	_	_	
+
+#Text=Wood, K.
+17-1	304-308	Wood	_	_	
+17-2	308-309	,	_	_	
+17-3	310-311	K	_	_	
+17-4	311-312	.	_	_	
+
+#Text=Ledgard, W.
+18-1	313-320	Ledgard	_	_	
+18-2	320-321	,	_	_	
+18-3	322-323	W	_	_	
+18-4	323-324	.	_	_	
+
+#Text=Pearce, G.
+19-1	325-331	Pearce	_	_	
+19-2	331-332	,	_	_	
+19-3	333-334	G	_	_	
+19-4	334-335	.	_	_	
+
+#Text=A.
+20-1	336-337	A	_	_	
+20-2	337-338	.	_	_	
+
+#Text=Adams, E.
+21-1	339-344	Adams	_	_	
+21-2	344-345	,	_	_	
+21-3	346-347	E	_	_	
+21-4	347-348	.	_	_	
+
+#Text=Lacy, G.
+22-1	349-353	Lacy	_	_	
+22-2	353-354	,	_	_	
+22-3	355-356	G	_	_	
+22-4	356-357	.	_	_	
+
+#Text=H.
+23-1	358-359	H	_	_	
+23-2	359-360	.	_	_	
+
+#Text=Gutch, and W.
+24-1	361-366	Gutch	_	_	
+24-2	366-367	,	_	_	
+24-3	368-371	and	_	_	
+24-4	372-373	W	_	_	
+24-5	373-374	.	_	_	
+
+#Text=Rickman.
+25-1	375-382	Rickman	_	_	
+25-2	382-383	.	_	_	
+
+#Text=rtNANCII.
+26-1	385-393	rtNANCII	_	_	
+26-2	393-394	.	_	_	
+
+#Text=The TOWN Cciax read the report of the finance committee, which stated that the expenditure for the past quarter had been /122 I Is.; the estimated expenditure for the ensuing quarter being £303 155.; to meet this £124 9s. would ac rue from various sources, leaving a deficiency of £379 6s.
+27-1	396-399	The	_	_	
+27-2	400-404	TOWN	_	_	
+27-3	405-410	Cciax	_	_	
+27-4	411-415	read	_	_	
+27-5	416-419	the	_	_	
+27-6	420-426	report	_	_	
+27-7	427-429	of	_	_	
+27-8	430-433	the	_	_	
+27-9	434-441	finance	_	_	
+27-10	442-451	committee	_	_	
+27-11	451-452	,	_	_	
+27-12	453-458	which	_	_	
+27-13	459-465	stated	_	_	
+27-14	466-470	that	_	_	
+27-15	471-474	the	_	_	
+27-16	475-486	expenditure	_	_	
+27-17	487-490	for	_	_	
+27-18	491-494	the	_	_	
+27-19	495-499	past	_	_	
+27-20	500-507	quarter	_	_	
+27-21	508-511	had	_	_	
+27-22	512-516	been	_	_	
+27-23	517-518	/	_	_	
+27-24	518-521	122	_	_	
+27-25	522-523	I	_	_	
+27-26	524-526	Is	_	_	
+27-27	526-527	.	_	_	
+27-28	527-528	;	_	_	
+27-29	529-532	the	_	_	
+27-30	533-542	estimated	_	_	
+27-31	543-554	expenditure	_	_	
+27-32	555-558	for	_	_	
+27-33	559-562	the	_	_	
+27-34	563-570	ensuing	_	_	
+27-35	571-578	quarter	_	_	
+27-36	579-584	being	_	_	
+27-37	585-589	£303	_	_	
+27-38	590-593	155	_	_	
+27-39	593-594	.	_	_	
+27-40	594-595	;	_	_	
+27-41	596-598	to	_	_	
+27-42	599-603	meet	_	_	
+27-43	604-608	this	_	_	
+27-44	609-613	£124	_	_	
+27-45	614-616	9s	_	_	
+27-46	616-617	.	_	_	
+27-47	618-623	would	_	_	
+27-48	624-626	ac	_	_	
+27-49	627-630	rue	_	_	
+27-50	631-635	from	_	_	
+27-51	636-643	various	_	_	
+27-52	644-651	sources	_	_	
+27-53	651-652	,	_	_	
+27-54	653-660	leaving	_	_	
+27-55	661-662	a	_	_	
+27-56	663-673	deficiency	_	_	
+27-57	674-676	of	_	_	
+27-58	677-681	£379	_	_	
+27-59	682-684	6s	_	_	
+27-60	684-685	.	_	_	
+
+#Text=Id. to be provided by • borough rate to be levied in the following proportions : St.
+28-1	686-688	Id	_	_	
+28-2	688-689	.	_	_	
+28-3	690-692	to	_	_	
+28-4	693-695	be	_	_	
+28-5	696-704	provided	_	_	
+28-6	705-707	by	_	_	
+28-7	708-709	•	_	_	
+28-8	710-717	borough	_	_	
+28-9	718-722	rate	_	_	
+28-10	723-725	to	_	_	
+28-11	726-728	be	_	_	
+28-12	729-735	levied	_	_	
+28-13	736-738	in	_	_	
+28-14	739-742	the	_	_	
+28-15	743-752	following	_	_	
+28-16	753-764	proportions	_	_	
+28-17	765-766	:	_	_	
+28-18	767-769	St	_	_	
+28-19	769-770	.	_	_	
+
+#Text=James, £220 17e. 6d.; Longtieet, A 75 ls. 64.; Parkstoue, £3i) 11s.; Hatnworthy, £29 161.
+29-1	771-776	James	_	_	
+29-2	776-777	,	_	_	
+29-3	778-782	£220	_	_	
+29-4	783-786	17e	_	_	
+29-5	786-787	.	_	_	
+29-6	788-790	6d	_	_	
+29-7	790-791	.	_	_	
+29-8	791-792	;	_	_	
+29-9	793-802	Longtieet	_	_	
+29-10	802-803	,	_	_	
+29-11	804-805	A	_	_	
+29-12	806-808	75	_	_	
+29-13	809-811	ls	_	_	
+29-14	811-812	.	_	_	
+29-15	813-815	64	_	_	
+29-16	815-816	.	_	_	
+29-17	816-817	;	_	_	
+29-18	818-827	Parkstoue	_	_	
+29-19	827-828	,	_	_	
+29-20	829-832	£3i	_	_	
+29-21	832-833	)	_	_	
+29-22	834-837	11s	_	_	
+29-23	837-838	.	_	_	
+29-24	838-839	;	_	_	
+29-25	840-850	Hatnworthy	_	_	
+29-26	850-851	,	_	_	
+29-27	852-855	£29	_	_	
+29-28	856-859	161	_	_	
+29-29	859-860	.	_	_	
+
+#Text=Id.
+30-1	861-863	Id	_	_	
+30-2	863-864	.	_	_	
+
+#Text=WINDING THE CHURCH CLOCK AND RINGING THE BELLS.
+31-1	865-872	WINDING	_	_	
+31-2	873-876	THE	_	_	
+31-3	877-883	CHURCH	_	_	
+31-4	884-889	CLOCK	_	_	
+31-5	890-893	AND	_	_	
+31-6	894-901	RINGING	_	_	
+31-7	902-905	THE	_	_	
+31-8	906-911	BELLS	_	_	
+31-9	911-912	.	_	_	
+
+#Text=The MAYOR said he bad received the following communication from the pariah authorities :—At • vestry meeting held on Monday, the 00th of January. it was resolved that The church clock and bells of St.
+32-1	914-917	The	_	_	
+32-2	918-923	MAYOR	_	_	
+32-3	924-928	said	_	_	
+32-4	929-931	he	_	_	
+32-5	932-935	bad	_	_	
+32-6	936-944	received	_	_	
+32-7	945-948	the	_	_	
+32-8	949-958	following	_	_	
+32-9	959-972	communication	_	_	
+32-10	973-977	from	_	_	
+32-11	978-981	the	_	_	
+32-12	982-988	pariah	_	_	
+32-13	989-1000	authorities	_	_	
+32-14	1001-1002	:	_	_	
+32-15	1002-1003	—	_	_	
+32-16	1003-1005	At	_	_	
+32-17	1006-1007	•	_	_	
+32-18	1008-1014	vestry	_	_	
+32-19	1015-1022	meeting	_	_	
+32-20	1023-1027	held	_	_	
+32-21	1028-1030	on	_	_	
+32-22	1031-1037	Monday	_	_	
+32-23	1037-1038	,	_	_	
+32-24	1039-1042	the	_	_	
+32-25	1043-1047	00th	_	_	
+32-26	1048-1050	of	_	_	
+32-27	1051-1058	January	_	_	
+32-28	1058-1059	.	_	_	
+32-29	1060-1062	it	_	_	
+32-30	1063-1066	was	_	_	
+32-31	1067-1075	resolved	_	_	
+32-32	1076-1080	that	_	_	
+32-33	1081-1084	The	_	_	
+32-34	1085-1091	church	_	_	
+32-35	1092-1097	clock	_	_	
+32-36	1098-1101	and	_	_	
+32-37	1102-1107	bells	_	_	
+32-38	1108-1110	of	_	_	
+32-39	1111-1113	St	*[1]	BUILDING[1]	
+32-40	1113-1114	.	*[1]	BUILDING[1]	
+
+#Text=James being for the accommodation and convenience of the town and borough generally, this vestry is of opinion that the annual expenses connected with the winding of the clock and ringing the bells should be borne by the borough at large.
+33-1	1115-1120	James	*[1]	BUILDING[1]	
+33-2	1121-1126	being	_	_	
+33-3	1127-1130	for	_	_	
+33-4	1131-1134	the	_	_	
+33-5	1135-1148	accommodation	_	_	
+33-6	1149-1152	and	_	_	
+33-7	1153-1164	convenience	_	_	
+33-8	1165-1167	of	_	_	
+33-9	1168-1171	the	_	_	
+33-10	1172-1176	town	_	_	
+33-11	1177-1180	and	_	_	
+33-12	1181-1188	borough	_	_	
+33-13	1189-1198	generally	_	_	
+33-14	1198-1199	,	_	_	
+33-15	1200-1204	this	_	_	
+33-16	1205-1211	vestry	_	_	
+33-17	1212-1214	is	_	_	
+33-18	1215-1217	of	_	_	
+33-19	1218-1225	opinion	_	_	
+33-20	1226-1230	that	_	_	
+33-21	1231-1234	the	_	_	
+33-22	1235-1241	annual	_	_	
+33-23	1242-1250	expenses	_	_	
+33-24	1251-1260	connected	_	_	
+33-25	1261-1265	with	_	_	
+33-26	1266-1269	the	_	_	
+33-27	1270-1277	winding	_	_	
+33-28	1278-1280	of	_	_	
+33-29	1281-1284	the	_	_	
+33-30	1285-1290	clock	_	_	
+33-31	1291-1294	and	_	_	
+33-32	1295-1302	ringing	_	_	
+33-33	1303-1306	the	_	_	
+33-34	1307-1312	bells	_	_	
+33-35	1313-1319	should	_	_	
+33-36	1320-1322	be	_	_	
+33-37	1323-1328	borne	_	_	
+33-38	1329-1331	by	_	_	
+33-39	1332-1335	the	_	_	
+33-40	1336-1343	borough	_	_	
+33-41	1344-1346	at	_	_	
+33-42	1347-1352	large	_	_	
+33-43	1352-1353	.	_	_	
+
+#Text=Resolved that application be made to the town council to giant the annual sum of £l4 10s. towards defraying the above expenses, there being now no church rate or fund from which the churchwardens can obtain the same, and that a copy of the resolution be sent to the mayor for the consideration of the council."
+34-1	1354-1362	Resolved	_	_	
+34-2	1363-1367	that	_	_	
+34-3	1368-1379	application	_	_	
+34-4	1380-1382	be	_	_	
+34-5	1383-1387	made	_	_	
+34-6	1388-1390	to	_	_	
+34-7	1391-1394	the	_	_	
+34-8	1395-1399	town	_	_	
+34-9	1400-1407	council	_	_	
+34-10	1408-1410	to	_	_	
+34-11	1411-1416	giant	_	_	
+34-12	1417-1420	the	_	_	
+34-13	1421-1427	annual	_	_	
+34-14	1428-1431	sum	_	_	
+34-15	1432-1434	of	_	_	
+34-16	1435-1436	£	_	_	
+34-17	1436-1438	l4	_	_	
+34-18	1439-1442	10s	_	_	
+34-19	1442-1443	.	_	_	
+34-20	1444-1451	towards	_	_	
+34-21	1452-1461	defraying	_	_	
+34-22	1462-1465	the	_	_	
+34-23	1466-1471	above	_	_	
+34-24	1472-1480	expenses	_	_	
+34-25	1480-1481	,	_	_	
+34-26	1482-1487	there	_	_	
+34-27	1488-1493	being	_	_	
+34-28	1494-1497	now	_	_	
+34-29	1498-1500	no	_	_	
+34-30	1501-1507	church	_	_	
+34-31	1508-1512	rate	_	_	
+34-32	1513-1515	or	_	_	
+34-33	1516-1520	fund	_	_	
+34-34	1521-1525	from	_	_	
+34-35	1526-1531	which	_	_	
+34-36	1532-1535	the	_	_	
+34-37	1536-1549	churchwardens	_	_	
+34-38	1550-1553	can	_	_	
+34-39	1554-1560	obtain	_	_	
+34-40	1561-1564	the	_	_	
+34-41	1565-1569	same	_	_	
+34-42	1569-1570	,	_	_	
+34-43	1571-1574	and	_	_	
+34-44	1575-1579	that	_	_	
+34-45	1580-1581	a	_	_	
+34-46	1582-1586	copy	_	_	
+34-47	1587-1589	of	_	_	
+34-48	1590-1593	the	_	_	
+34-49	1594-1604	resolution	_	_	
+34-50	1605-1607	be	_	_	
+34-51	1608-1612	sent	_	_	
+34-52	1613-1615	to	_	_	
+34-53	1616-1619	the	_	_	
+34-54	1620-1625	mayor	_	_	
+34-55	1626-1629	for	_	_	
+34-56	1630-1633	the	_	_	
+34-57	1634-1647	consideration	_	_	
+34-58	1648-1650	of	_	_	
+34-59	1651-1654	the	_	_	
+34-60	1655-1662	council	_	_	
+34-61	1662-1663	.	_	_	
+34-62	1663-1664	"	_	_	
+
+#Text=He (the mayor) should be happy to bear any rematks which might be made.
+35-1	1665-1667	He	_	_	
+35-2	1668-1669	(	_	_	
+35-3	1669-1672	the	_	_	
+35-4	1673-1678	mayor	_	_	
+35-5	1678-1679	)	_	_	
+35-6	1680-1686	should	_	_	
+35-7	1687-1689	be	_	_	
+35-8	1690-1695	happy	_	_	
+35-9	1696-1698	to	_	_	
+35-10	1699-1703	bear	_	_	
+35-11	1704-1707	any	_	_	
+35-12	1708-1715	rematks	_	_	
+35-13	1716-1721	which	_	_	
+35-14	1722-1727	might	_	_	
+35-15	1728-1730	be	_	_	
+35-16	1731-1735	made	_	_	
+35-17	1735-1736	.	_	_	
+
+#Text=Alderman ADLY said he should move that a slim be allowed for ringing the bells on loyal days, such as the birthdays of the Queen, the Prince Consort, the Prince of Wales, and other members of the royal family.
+36-1	1737-1745	Alderman	_	_	
+36-2	1746-1750	ADLY	_	_	
+36-3	1751-1755	said	_	_	
+36-4	1756-1758	he	_	_	
+36-5	1759-1765	should	_	_	
+36-6	1766-1770	move	_	_	
+36-7	1771-1775	that	_	_	
+36-8	1776-1777	a	_	_	
+36-9	1778-1782	slim	_	_	
+36-10	1783-1785	be	_	_	
+36-11	1786-1793	allowed	_	_	
+36-12	1794-1797	for	_	_	
+36-13	1798-1805	ringing	_	_	
+36-14	1806-1809	the	_	_	
+36-15	1810-1815	bells	_	_	
+36-16	1816-1818	on	_	_	
+36-17	1819-1824	loyal	_	_	
+36-18	1825-1829	days	_	_	
+36-19	1829-1830	,	_	_	
+36-20	1831-1835	such	_	_	
+36-21	1836-1838	as	_	_	
+36-22	1839-1842	the	_	_	
+36-23	1843-1852	birthdays	_	_	
+36-24	1853-1855	of	_	_	
+36-25	1856-1859	the	_	_	
+36-26	1860-1865	Queen	_	_	
+36-27	1865-1866	,	_	_	
+36-28	1867-1870	the	_	_	
+36-29	1871-1877	Prince	_	_	
+36-30	1878-1885	Consort	_	_	
+36-31	1885-1886	,	_	_	
+36-32	1887-1890	the	_	_	
+36-33	1891-1897	Prince	_	_	
+36-34	1898-1900	of	_	_	
+36-35	1901-1906	Wales	_	_	
+36-36	1906-1907	,	_	_	
+36-37	1908-1911	and	_	_	
+36-38	1912-1917	other	_	_	
+36-39	1918-1925	members	_	_	
+36-40	1926-1928	of	_	_	
+36-41	1929-1932	the	_	_	
+36-42	1933-1938	royal	_	_	
+36-43	1939-1945	family	_	_	
+36-44	1945-1946	.	_	_	
+
+#Text=As there ass no fund from which to pay those charges he though it only right that the council should provide the sum, to preserve the town from the appearance of disloyalty.
+37-1	1947-1949	As	_	_	
+37-2	1950-1955	there	_	_	
+37-3	1956-1959	ass	_	_	
+37-4	1960-1962	no	_	_	
+37-5	1963-1967	fund	_	_	
+37-6	1968-1972	from	_	_	
+37-7	1973-1978	which	_	_	
+37-8	1979-1981	to	_	_	
+37-9	1982-1985	pay	_	_	
+37-10	1986-1991	those	_	_	
+37-11	1992-1999	charges	_	_	
+37-12	2000-2002	he	_	_	
+37-13	2003-2009	though	_	_	
+37-14	2010-2012	it	_	_	
+37-15	2013-2017	only	_	_	
+37-16	2018-2023	right	_	_	
+37-17	2024-2028	that	_	_	
+37-18	2029-2032	the	_	_	
+37-19	2033-2040	council	_	_	
+37-20	2041-2047	should	_	_	
+37-21	2048-2055	provide	_	_	
+37-22	2056-2059	the	_	_	
+37-23	2060-2063	sum	_	_	
+37-24	2063-2064	,	_	_	
+37-25	2065-2067	to	_	_	
+37-26	2068-2076	preserve	_	_	
+37-27	2077-2080	the	_	_	
+37-28	2081-2085	town	_	_	
+37-29	2086-2090	from	_	_	
+37-30	2091-2094	the	_	_	
+37-31	2095-2105	appearance	_	_	
+37-32	2106-2108	of	_	_	
+37-33	2109-2119	disloyalty	_	_	
+37-34	2119-2120	.	_	_	
+
+#Text=Alderman WANIIILL thought some limit should be prescribed in ringing on these occasions.
+38-1	2121-2129	Alderman	_	_	
+38-2	2130-2138	WANIIILL	_	_	
+38-3	2139-2146	thought	_	_	
+38-4	2147-2151	some	_	_	
+38-5	2152-2157	limit	_	_	
+38-6	2158-2164	should	_	_	
+38-7	2165-2167	be	_	_	
+38-8	2168-2178	prescribed	_	_	
+38-9	2179-2181	in	_	_	
+38-10	2182-2189	ringing	_	_	
+38-11	2190-2192	on	_	_	
+38-12	2193-2198	these	_	_	
+38-13	2199-2208	occasions	_	_	
+38-14	2208-2209	.	_	_	
+
+#Text=Mr.
+39-1	2210-2212	Mr	_	_	
+39-2	2212-2213	.	_	_	
+
+#Text=Lannsati —ls it legal for 111 to pay it ?
+40-1	2214-2222	Lannsati	_	_	
+40-2	2223-2224	—	_	_	
+40-3	2224-2226	ls	_	_	
+40-4	2227-2229	it	_	_	
+40-5	2230-2235	legal	_	_	
+40-6	2236-2239	for	_	_	
+40-7	2240-2243	111	_	_	
+40-8	2244-2246	to	_	_	
+40-9	2247-2250	pay	_	_	
+40-10	2251-2253	it	_	_	
+40-11	2254-2255	?	_	_	
+
+#Text=Mr. 1111.3.trrx.
+41-1	2256-2258	Mr	_	_	
+41-2	2258-2259	.	_	_	
+41-3	2260-2266	1111.3	_	_	
+41-4	2266-2267	.	_	_	
+41-5	2267-2271	trrx	_	_	
+41-6	2271-2272	.	_	_	
+
+#Text=—I wins about to ask the same gutsion.
+42-1	2272-2273	—	_	_	
+42-2	2273-2274	I	_	_	
+42-3	2275-2279	wins	_	_	
+42-4	2280-2285	about	_	_	
+42-5	2286-2288	to	_	_	
+42-6	2289-2292	ask	_	_	
+42-7	2293-2296	the	_	_	
+42-8	2297-2301	same	_	_	
+42-9	2302-2309	gutsion	_	_	
+42-10	2309-2310	.	_	_	
+
+#Text=The Town CLERK real the ninety-second section of the Municipal Corporation Act which referred to disposition of corporate foods.
+43-1	2311-2314	The	_	_	
+43-2	2315-2319	Town	_	_	
+43-3	2320-2325	CLERK	_	_	
+43-4	2326-2330	real	_	_	
+43-5	2331-2334	the	_	_	
+43-6	2335-2348	ninety-second	_	_	
+43-7	2349-2356	section	_	_	
+43-8	2357-2359	of	_	_	
+43-9	2360-2363	the	_	_	
+43-10	2364-2373	Municipal	_	_	
+43-11	2374-2385	Corporation	_	_	
+43-12	2386-2389	Act	_	_	
+43-13	2390-2395	which	_	_	
+43-14	2396-2404	referred	_	_	
+43-15	2405-2407	to	_	_	
+43-16	2408-2419	disposition	_	_	
+43-17	2420-2422	of	_	_	
+43-18	2423-2432	corporate	_	_	
+43-19	2433-2438	foods	_	_	
+43-20	2438-2439	.	_	_	
+
+#Text=It souoteristed
+44-1	2440-2442	It	_	_	
+44-2	2443-2455	souoteristed	_	_	

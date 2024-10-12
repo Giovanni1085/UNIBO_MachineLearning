@@ -1,0 +1,344 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=CHARD.
+1-1	0-5	CHARD	https://en.wikipedia.org/wiki/Chard,\_Somerset	LOC	
+1-2	5-6	.	_	_	
+
+#Text=Petty Sessions.
+2-1	8-13	Petty	_	_	
+2-2	14-22	Sessions	_	_	
+2-3	22-23	.	_	_	
+
+#Text=—Monday: Before J.
+3-1	23-24	—	_	_	
+3-2	24-30	Monday	_	_	
+3-3	30-31	:	_	_	
+3-4	32-38	Before	_	_	
+3-5	39-40	J	_	_	
+3-6	40-41	.	_	_	
+
+#Text=C.
+4-1	42-43	C	_	_	
+4-2	43-44	.	_	_	
+
+#Text=Laugdon, Esq., and R.
+5-1	45-52	Laugdon	_	_	
+5-2	52-53	,	_	_	
+5-3	54-57	Esq	_	_	
+5-4	57-58	.	_	_	
+5-5	58-59	,	_	_	
+5-6	60-63	and	_	_	
+5-7	64-65	R	_	_	
+5-8	65-66	.	_	_	
+
+#Text=J.
+6-1	67-68	J	_	_	
+6-2	68-69	.	_	_	
+
+#Text=Elton, Esq.
+7-1	70-75	Elton	_	_	
+7-2	75-76	,	_	_	
+7-3	77-80	Esq	_	_	
+7-4	80-81	.	_	_	
+
+#Text=—Job Miller was charged with stealing at Chaffcombe, on 26th December last, a brass kettle of the value of 55., the property of Robert Vincent.
+8-1	81-82	—	_	_	
+8-2	82-85	Job	_	_	
+8-3	86-92	Miller	_	_	
+8-4	93-96	was	_	_	
+8-5	97-104	charged	_	_	
+8-6	105-109	with	_	_	
+8-7	110-118	stealing	_	_	
+8-8	119-121	at	_	_	
+8-9	122-132	Chaffcombe	https://en.wikipedia.org/wiki/Chaffcombe	LOC	
+8-10	132-133	,	_	_	
+8-11	134-136	on	_	_	
+8-12	137-141	26th	_	_	
+8-13	142-150	December	_	_	
+8-14	151-155	last	_	_	
+8-15	155-156	,	_	_	
+8-16	157-158	a	_	_	
+8-17	159-164	brass	_	_	
+8-18	165-171	kettle	_	_	
+8-19	172-174	of	_	_	
+8-20	175-178	the	_	_	
+8-21	179-184	value	_	_	
+8-22	185-187	of	_	_	
+8-23	188-190	55	_	_	
+8-24	190-191	.	_	_	
+8-25	191-192	,	_	_	
+8-26	193-196	the	_	_	
+8-27	197-205	property	_	_	
+8-28	206-208	of	_	_	
+8-29	209-215	Robert	_	_	
+8-30	216-223	Vincent	_	_	
+8-31	223-224	.	_	_	
+
+#Text=The case was very clear against the prisoner, to whom the possession of the kettle was traced, and he was consequently committed for trial.
+9-1	225-228	The	_	_	
+9-2	229-233	case	_	_	
+9-3	234-237	was	_	_	
+9-4	238-242	very	_	_	
+9-5	243-248	clear	_	_	
+9-6	249-256	against	_	_	
+9-7	257-260	the	_	_	
+9-8	261-269	prisoner	_	_	
+9-9	269-270	,	_	_	
+9-10	271-273	to	_	_	
+9-11	274-278	whom	_	_	
+9-12	279-282	the	_	_	
+9-13	283-293	possession	_	_	
+9-14	294-296	of	_	_	
+9-15	297-300	the	_	_	
+9-16	301-307	kettle	_	_	
+9-17	308-311	was	_	_	
+9-18	312-318	traced	_	_	
+9-19	318-319	,	_	_	
+9-20	320-323	and	_	_	
+9-21	324-326	he	_	_	
+9-22	327-330	was	_	_	
+9-23	331-343	consequently	_	_	
+9-24	344-353	committed	_	_	
+9-25	354-357	for	_	_	
+9-26	358-363	trial	_	_	
+9-27	363-364	.	_	_	
+
+#Text=James Saturley, a boy about 17 years of age, was brought up and convicted under the Criminal Justice Act, for stealing two leather straps from his master, Mr.
+10-1	365-370	James	_	_	
+10-2	371-379	Saturley	_	_	
+10-3	379-380	,	_	_	
+10-4	381-382	a	_	_	
+10-5	383-386	boy	_	_	
+10-6	387-392	about	_	_	
+10-7	393-395	17	_	_	
+10-8	396-401	years	_	_	
+10-9	402-404	of	_	_	
+10-10	405-408	age	_	_	
+10-11	408-409	,	_	_	
+10-12	410-413	was	_	_	
+10-13	414-421	brought	_	_	
+10-14	422-424	up	_	_	
+10-15	425-428	and	_	_	
+10-16	429-438	convicted	_	_	
+10-17	439-444	under	_	_	
+10-18	445-448	the	_	_	
+10-19	449-457	Criminal	_	_	
+10-20	458-465	Justice	_	_	
+10-21	466-469	Act	_	_	
+10-22	469-470	,	_	_	
+10-23	471-474	for	_	_	
+10-24	475-483	stealing	_	_	
+10-25	484-487	two	_	_	
+10-26	488-495	leather	_	_	
+10-27	496-502	straps	_	_	
+10-28	503-507	from	_	_	
+10-29	508-511	his	_	_	
+10-30	512-518	master	_	_	
+10-31	518-519	,	_	_	
+10-32	520-522	Mr	_	_	
+10-33	522-523	.	_	_	
+
+#Text=J.
+11-1	524-525	J	_	_	
+11-2	525-526	.	_	_	
+
+#Text=Hicks, of Weston Farm, near Chard.
+12-1	527-532	Hicks	_	_	
+12-2	532-533	,	_	_	
+12-3	534-536	of	_	_	
+12-4	537-543	Weston	*[1]	BUILDING[1]	
+12-5	544-548	Farm	*[1]	BUILDING[1]	
+12-6	548-549	,	_	_	
+12-7	550-554	near	_	_	
+12-8	555-560	Chard	https://en.wikipedia.org/wiki/Chard,\_Somerset	LOC	
+12-9	560-561	.	_	_	
+
+#Text=Sentenced to 14 days bard labour.
+13-1	562-571	Sentenced	_	_	
+13-2	572-574	to	_	_	
+13-3	575-577	14	_	_	
+13-4	578-582	days	_	_	
+13-5	583-587	bard	_	_	
+13-6	588-594	labour	_	_	
+13-7	594-595	.	_	_	
+
+#Text=James Cuff and John Batten were summoned for trespassing in pursuit of game at Whitestaunton.
+14-1	596-601	James	_	_	
+14-2	602-606	Cuff	_	_	
+14-3	607-610	and	_	_	
+14-4	611-615	John	_	_	
+14-5	616-622	Batten	_	_	
+14-6	623-627	were	_	_	
+14-7	628-636	summoned	_	_	
+14-8	637-640	for	_	_	
+14-9	641-652	trespassing	_	_	
+14-10	653-655	in	_	_	
+14-11	656-663	pursuit	_	_	
+14-12	664-666	of	_	_	
+14-13	667-671	game	_	_	
+14-14	672-674	at	_	_	
+14-15	675-688	Whitestaunton	https://en.wikipedia.org/wiki/Whitestaunton	LOC	
+14-16	688-689	.	_	_	
+
+#Text=The cbarge not being sufficiently proved, the magistrates dismissed the summons.— Joseph Wetherell, of Chard, Thomas Rayball, of Chard, and Henry Hillard, of Winsham, were convicted under the New Highway Act tor allowing their cattle to stray upon the highways, and were severally fined in the mitigated penalty of Is. and costs.
+15-1	690-693	The	_	_	
+15-2	694-700	cbarge	_	_	
+15-3	701-704	not	_	_	
+15-4	705-710	being	_	_	
+15-5	711-723	sufficiently	_	_	
+15-6	724-730	proved	_	_	
+15-7	730-731	,	_	_	
+15-8	732-735	the	_	_	
+15-9	736-747	magistrates	_	_	
+15-10	748-757	dismissed	_	_	
+15-11	758-761	the	_	_	
+15-12	762-769	summons	_	_	
+15-13	769-770	.	_	_	
+15-14	770-771	—	_	_	
+15-15	772-778	Joseph	_	_	
+15-16	779-788	Wetherell	_	_	
+15-17	788-789	,	_	_	
+15-18	790-792	of	_	_	
+15-19	793-798	Chard	https://en.wikipedia.org/wiki/Chard,\_Somerset	LOC	
+15-20	798-799	,	_	_	
+15-21	800-806	Thomas	_	_	
+15-22	807-814	Rayball	_	_	
+15-23	814-815	,	_	_	
+15-24	816-818	of	_	_	
+15-25	819-824	Chard	https://en.wikipedia.org/wiki/Chard,\_Somerset	LOC	
+15-26	824-825	,	_	_	
+15-27	826-829	and	_	_	
+15-28	830-835	Henry	_	_	
+15-29	836-843	Hillard	_	_	
+15-30	843-844	,	_	_	
+15-31	845-847	of	_	_	
+15-32	848-855	Winsham	https://en.wikipedia.org/wiki/Winsham	LOC	
+15-33	855-856	,	_	_	
+15-34	857-861	were	_	_	
+15-35	862-871	convicted	_	_	
+15-36	872-877	under	_	_	
+15-37	878-881	the	_	_	
+15-38	882-885	New	_	_	
+15-39	886-893	Highway	_	_	
+15-40	894-897	Act	_	_	
+15-41	898-901	tor	_	_	
+15-42	902-910	allowing	_	_	
+15-43	911-916	their	_	_	
+15-44	917-923	cattle	_	_	
+15-45	924-926	to	_	_	
+15-46	927-932	stray	_	_	
+15-47	933-937	upon	_	_	
+15-48	938-941	the	_	_	
+15-49	942-950	highways	_	_	
+15-50	950-951	,	_	_	
+15-51	952-955	and	_	_	
+15-52	956-960	were	_	_	
+15-53	961-970	severally	_	_	
+15-54	971-976	fined	_	_	
+15-55	977-979	in	_	_	
+15-56	980-983	the	_	_	
+15-57	984-993	mitigated	_	_	
+15-58	994-1001	penalty	_	_	
+15-59	1002-1004	of	_	_	
+15-60	1005-1007	Is	_	_	
+15-61	1007-1008	.	_	_	
+15-62	1009-1012	and	_	_	
+15-63	1013-1018	costs	_	_	
+15-64	1018-1019	.	_	_	
+
+#Text=——Walter Boon and Thomas Boon, both sons of Saint Crispin, living at Thorncombe, appeared to cross summonses charging each other with an assault on 27th December last.— The Bench considered Walter the aggressor, and fined him ss. and expenses, and dismissed the summons against Thomas.
+16-1	1019-1020	—	_	_	
+16-2	1020-1021	—	_	_	
+16-3	1021-1027	Walter	_	_	
+16-4	1028-1032	Boon	_	_	
+16-5	1033-1036	and	_	_	
+16-6	1037-1043	Thomas	_	_	
+16-7	1044-1048	Boon	_	_	
+16-8	1048-1049	,	_	_	
+16-9	1050-1054	both	_	_	
+16-10	1055-1059	sons	_	_	
+16-11	1060-1062	of	_	_	
+16-12	1063-1068	Saint	*[2]	LOC[2]	
+16-13	1069-1076	Crispin	*[2]	LOC[2]	
+16-14	1076-1077	,	_	_	
+16-15	1078-1084	living	_	_	
+16-16	1085-1087	at	_	_	
+16-17	1088-1098	Thorncombe	https://en.wikipedia.org/wiki/Thorncombe	LOC	
+16-18	1098-1099	,	_	_	
+16-19	1100-1108	appeared	_	_	
+16-20	1109-1111	to	_	_	
+16-21	1112-1117	cross	_	_	
+16-22	1118-1127	summonses	_	_	
+16-23	1128-1136	charging	_	_	
+16-24	1137-1141	each	_	_	
+16-25	1142-1147	other	_	_	
+16-26	1148-1152	with	_	_	
+16-27	1153-1155	an	_	_	
+16-28	1156-1163	assault	_	_	
+16-29	1164-1166	on	_	_	
+16-30	1167-1171	27th	_	_	
+16-31	1172-1180	December	_	_	
+16-32	1181-1185	last	_	_	
+16-33	1185-1186	.	_	_	
+16-34	1186-1187	—	_	_	
+16-35	1188-1191	The	_	_	
+16-36	1192-1197	Bench	_	_	
+16-37	1198-1208	considered	_	_	
+16-38	1209-1215	Walter	_	_	
+16-39	1216-1219	the	_	_	
+16-40	1220-1229	aggressor	_	_	
+16-41	1229-1230	,	_	_	
+16-42	1231-1234	and	_	_	
+16-43	1235-1240	fined	_	_	
+16-44	1241-1244	him	_	_	
+16-45	1245-1247	ss	_	_	
+16-46	1247-1248	.	_	_	
+16-47	1249-1252	and	_	_	
+16-48	1253-1261	expenses	_	_	
+16-49	1261-1262	,	_	_	
+16-50	1263-1266	and	_	_	
+16-51	1267-1276	dismissed	_	_	
+16-52	1277-1280	the	_	_	
+16-53	1281-1288	summons	_	_	
+16-54	1289-1296	against	_	_	
+16-55	1297-1303	Thomas	_	_	
+16-56	1303-1304	.	_	_	
+
+#Text=—George Daveg, of Chard, appeared to a summons taken out by Sabiua Hawker, to shew cause, &c.
+17-1	1304-1305	—	_	_	
+17-2	1305-1311	George	_	_	
+17-3	1312-1317	Daveg	_	_	
+17-4	1317-1318	,	_	_	
+17-5	1319-1321	of	_	_	
+17-6	1322-1327	Chard	https://en.wikipedia.org/wiki/Chard,\_Somerset	LOC	
+17-7	1327-1328	,	_	_	
+17-8	1329-1337	appeared	_	_	
+17-9	1338-1340	to	_	_	
+17-10	1341-1342	a	_	_	
+17-11	1343-1350	summons	_	_	
+17-12	1351-1356	taken	_	_	
+17-13	1357-1360	out	_	_	
+17-14	1361-1363	by	_	_	
+17-15	1364-1370	Sabiua	_	_	
+17-16	1371-1377	Hawker	_	_	
+17-17	1377-1378	,	_	_	
+17-18	1379-1381	to	_	_	
+17-19	1382-1386	shew	_	_	
+17-20	1387-1392	cause	_	_	
+17-21	1392-1393	,	_	_	
+17-22	1394-1395	&	_	_	
+17-23	1395-1396	c	_	_	
+17-24	1396-1397	.	_	_	
+
+#Text=The case was adjourned to next bench day.
+18-1	1398-1401	The	_	_	
+18-2	1402-1406	case	_	_	
+18-3	1407-1410	was	_	_	
+18-4	1411-1420	adjourned	_	_	
+18-5	1421-1423	to	_	_	
+18-6	1424-1428	next	_	_	
+18-7	1429-1434	bench	_	_	
+18-8	1435-1438	day	_	_	
+18-9	1438-1439	.	_	_	

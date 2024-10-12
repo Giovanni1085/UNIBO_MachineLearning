@@ -1,0 +1,373 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE WEYMOUTH JOURNAL, 
+#Text=PORTLAND & BRIDPORT CHRONICLE, AND DORSET GENERAL ADVERTISER.
+1-1	0-3	THE	_	_	
+1-2	4-12	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+1-3	13-20	JOURNAL	_	_	
+1-4	20-21	,	_	_	
+1-5	23-31	PORTLAND	https://en.wikipedia.org/wiki/Isle\_of\_Portland	LOC	
+1-6	32-33	&	_	_	
+1-7	34-42	BRIDPORT	https://en.wikipedia.org/wiki/Bridport	LOC	
+1-8	43-52	CHRONICLE	_	_	
+1-9	52-53	,	_	_	
+1-10	54-57	AND	_	_	
+1-11	58-64	DORSET	https://en.wikipedia.org/wiki/Dorset	LOC	
+1-12	65-72	GENERAL	_	_	
+1-13	73-83	ADVERTISER	_	_	
+1-14	83-84	.	_	_	
+
+#Text=Fj ROM the large & extensive circulation which this paper has obtained since it was purchased by the present Propnetors,in April, tl6o,it has become a most eligible medium for giving extensive publicity to announce. ments of all descriptions in the South-Western part of England.
+2-1	85-87	Fj	_	_	
+2-2	88-91	ROM	_	_	
+2-3	92-95	the	_	_	
+2-4	96-101	large	_	_	
+2-5	102-103	&	_	_	
+2-6	104-113	extensive	_	_	
+2-7	114-125	circulation	_	_	
+2-8	126-131	which	_	_	
+2-9	132-136	this	_	_	
+2-10	137-142	paper	_	_	
+2-11	143-146	has	_	_	
+2-12	147-155	obtained	_	_	
+2-13	156-161	since	_	_	
+2-14	162-164	it	_	_	
+2-15	165-168	was	_	_	
+2-16	169-178	purchased	_	_	
+2-17	179-181	by	_	_	
+2-18	182-185	the	_	_	
+2-19	186-193	present	_	_	
+2-20	194-204	Propnetors	_	_	
+2-21	204-205	,	_	_	
+2-22	205-207	in	_	_	
+2-23	208-213	April	_	_	
+2-24	213-214	,	_	_	
+2-25	215-219	tl6o	_	_	
+2-26	219-220	,	_	_	
+2-27	220-222	it	_	_	
+2-28	223-226	has	_	_	
+2-29	227-233	become	_	_	
+2-30	234-235	a	_	_	
+2-31	236-240	most	_	_	
+2-32	241-249	eligible	_	_	
+2-33	250-256	medium	_	_	
+2-34	257-260	for	_	_	
+2-35	261-267	giving	_	_	
+2-36	268-277	extensive	_	_	
+2-37	278-287	publicity	_	_	
+2-38	288-290	to	_	_	
+2-39	291-299	announce	_	_	
+2-40	299-300	.	_	_	
+2-41	301-306	ments	_	_	
+2-42	307-309	of	_	_	
+2-43	310-313	all	_	_	
+2-44	314-326	descriptions	_	_	
+2-45	327-329	in	_	_	
+2-46	330-333	the	_	_	
+2-47	334-347	South-Western	https://en.wikipedia.org/wiki/South\_West\_England	LOC	
+2-48	348-352	part	_	_	
+2-49	353-355	of	_	_	
+2-50	356-363	England	https://en.wikipedia.org/wiki/England	LOC	
+2-51	363-364	.	_	_	
+
+#Text=The Journal is a Commercial air!
+3-1	365-368	The	_	_	
+3-2	369-376	Journal	_	_	
+3-3	377-379	is	_	_	
+3-4	380-381	a	_	_	
+3-5	382-392	Commercial	_	_	
+3-6	393-396	air	_	_	
+3-7	396-397	!	_	_	
+
+#Text=Family Paper, and as a Local Intelligences is not escellot.
+4-1	398-404	Family	_	_	
+4-2	405-410	Paper	_	_	
+4-3	410-411	,	_	_	
+4-4	412-415	and	_	_	
+4-5	416-418	as	_	_	
+4-6	419-420	a	_	_	
+4-7	421-426	Local	_	_	
+4-8	427-440	Intelligences	_	_	
+4-9	441-443	is	_	_	
+4-10	444-447	not	_	_	
+4-11	448-456	escellot	_	_	
+4-12	456-457	.	_	_	
+
+#Text=Agreements for Advertising made by the quarter, nr otherwise, with special display.
+5-1	458-468	Agreements	_	_	
+5-2	469-472	for	_	_	
+5-3	473-484	Advertising	_	_	
+5-4	485-489	made	_	_	
+5-5	490-492	by	_	_	
+5-6	493-496	the	_	_	
+5-7	497-504	quarter	_	_	
+5-8	504-505	,	_	_	
+5-9	506-508	nr	_	_	
+5-10	509-518	otherwise	_	_	
+5-11	518-519	,	_	_	
+5-12	520-524	with	_	_	
+5-13	525-532	special	_	_	
+5-14	533-540	display	_	_	
+5-15	540-541	.	_	_	
+
+#Text=Printed and published by the Proprietors, Tutesnrr ■nd MATE, to whom all Post-office orders can be made payable.
+6-1	542-549	Printed	_	_	
+6-2	550-553	and	_	_	
+6-3	554-563	published	_	_	
+6-4	564-566	by	_	_	
+6-5	567-570	the	_	_	
+6-6	571-582	Proprietors	_	_	
+6-7	582-583	,	_	_	
+6-8	584-592	Tutesnrr	_	_	
+6-9	593-594	■	_	_	
+6-10	594-596	nd	_	_	
+6-11	597-601	MATE	_	_	
+6-12	601-602	,	_	_	
+6-13	603-605	to	_	_	
+6-14	606-610	whom	_	_	
+6-15	611-614	all	_	_	
+6-16	615-626	Post-office	_	_	
+6-17	627-633	orders	_	_	
+6-18	634-637	can	_	_	
+6-19	638-640	be	_	_	
+6-20	641-645	made	_	_	
+6-21	646-653	payable	_	_	
+6-22	653-654	.	_	_	
+
+#Text=The Joignsal is published at the Office, 1.
+7-1	655-658	The	_	_	
+7-2	659-667	Joignsal	_	_	
+7-3	668-670	is	_	_	
+7-4	671-680	published	_	_	
+7-5	681-683	at	_	_	
+7-6	684-687	the	_	_	
+7-7	688-694	Office	_	_	
+7-8	694-695	,	_	_	
+7-9	696-697	1	_	_	
+7-10	697-698	.	_	_	
+
+#Text=Grove Buildings, Weymouth, every Friday at noon.
+8-1	699-704	Grove	*[1]	BUILDING[1]	
+8-2	705-714	Buildings	*[1]	BUILDING[1]	
+8-3	714-715	,	_	_	
+8-4	716-724	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+8-5	724-725	,	_	_	
+8-6	726-731	every	_	_	
+8-7	732-738	Friday	_	_	
+8-8	739-741	at	_	_	
+8-9	742-746	noon	_	_	
+8-10	746-747	.	_	_	
+
+#Text=POOLE, BOURNEMOUTH AND SOUTH COAST PRINTING TELEGRAPH COMPANY.
+9-1	749-754	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+9-2	754-755	,	_	_	
+9-3	756-767	BOURNEMOUTH	https://en.wikipedia.org/wiki/Bournemouth	LOC	
+9-4	768-771	AND	_	_	
+9-5	772-777	SOUTH	*[2]	LOC[2]	
+9-6	778-783	COAST	*[2]	LOC[2]	
+9-7	784-792	PRINTING	_	_	
+9-8	793-802	TELEGRAPH	_	_	
+9-9	803-810	COMPANY	_	_	
+9-10	810-811	.	_	_	
+
+#Text=LIMITED• 
+#Text=THE object of the Company is to give the public Cheap Telegraphic Conttnunication.
+10-1	812-819	LIMITED	_	_	
+10-2	819-820	•	_	_	
+10-3	822-825	THE	_	_	
+10-4	826-832	object	_	_	
+10-5	833-835	of	_	_	
+10-6	836-839	the	_	_	
+10-7	840-847	Company	_	_	
+10-8	848-850	is	_	_	
+10-9	851-853	to	_	_	
+10-10	854-858	give	_	_	
+10-11	859-862	the	_	_	
+10-12	863-869	public	_	_	
+10-13	870-875	Cheap	_	_	
+10-14	876-887	Telegraphic	_	_	
+10-15	888-903	Conttnunication	_	_	
+10-16	903-904	.	_	_	
+
+#Text=The line already laid down is between Poole and Bouruetnouth, and the Directors will be open to consider further extensions.
+11-1	905-908	The	_	_	
+11-2	909-913	line	_	_	
+11-3	914-921	already	_	_	
+11-4	922-926	laid	_	_	
+11-5	927-931	down	_	_	
+11-6	932-934	is	_	_	
+11-7	935-942	between	_	_	
+11-8	943-948	Poole	https://en.wikipedia.org/wiki/Poole	LOC	
+11-9	949-952	and	_	_	
+11-10	953-965	Bouruetnouth	https://en.wikipedia.org/wiki/Bournemouth	LOC	
+11-11	965-966	,	_	_	
+11-12	967-970	and	_	_	
+11-13	971-974	the	_	_	
+11-14	975-984	Directors	_	_	
+11-15	985-989	will	_	_	
+11-16	990-992	be	_	_	
+11-17	993-997	open	_	_	
+11-18	998-1000	to	_	_	
+11-19	1001-1009	consider	_	_	
+11-20	1010-1017	further	_	_	
+11-21	1018-1028	extensions	_	_	
+11-22	1028-1029	.	_	_	
+
+#Text=POOLE—Meese.
+12-1	1031-1042	POOLE—Meese	https://en.wikipedia.org/wiki/Poole	LOC	
+12-1.1	1031-1036	POOLE	https://en.wikipedia.org/wiki/Poole	LOC	
+12-2	1042-1043	.	_	_	
+
+#Text=TRlBngrrr & MATE, Herald Office, High Street.
+13-1	1044-1053	TRlBngrrr	_	_	
+13-2	1054-1055	&	_	_	
+13-3	1056-1060	MATE	_	_	
+13-4	1060-1061	,	_	_	
+13-5	1062-1068	Herald	*[3]	BUILDING[3]	
+13-6	1069-1075	Office	*[3]	BUILDING[3]	
+13-7	1075-1076	,	_	_	
+13-8	1077-1081	High	*[4]	STREET[4]	
+13-9	1082-1088	Street	*[4]	STREET[4]	
+13-10	1088-1089	.	_	_	
+
+#Text=BOURN EM 0 UTI-1— Mr.
+14-1	1090-1095	BOURN	https://en.wikipedia.org/wiki/Bournemouth[5]	LOC[5]	
+14-2	1096-1098	EM	https://en.wikipedia.org/wiki/Bournemouth[5]	LOC[5]	
+14-3	1099-1100	0	https://en.wikipedia.org/wiki/Bournemouth[5]	LOC[5]	
+14-4	1101-1104	UTI	https://en.wikipedia.org/wiki/Bournemouth[5]	LOC[5]	
+14-5	1104-1105	-	https://en.wikipedia.org/wiki/Bournemouth[5]	LOC[5]	
+14-6	1105-1106	1	https://en.wikipedia.org/wiki/Bournemouth[5]	LOC[5]	
+14-7	1106-1107	—	_	_	
+14-8	1108-1110	Mr	_	_	
+14-9	1110-1111	.	_	_	
+
+#Text=HEBIIECKS Agency Office 
+#Text=RAIZ OF CEIARGLS.
+15-1	1112-1121	HEBIIECKS	_	_	
+15-2	1122-1128	Agency	_	_	
+15-3	1129-1135	Office	_	_	
+15-4	1137-1141	RAIZ	_	_	
+15-5	1142-1144	OF	_	_	
+15-6	1145-1153	CEIARGLS	_	_	
+15-7	1153-1154	.	_	_	
+
+#Text=Sixpence for every Ten Worths or Fraction of Ten Words, excluding addressee.
+16-1	1156-1164	Sixpence	_	_	
+16-2	1165-1168	for	_	_	
+16-3	1169-1174	every	_	_	
+16-4	1175-1178	Ten	_	_	
+16-5	1179-1185	Worths	_	_	
+16-6	1186-1188	or	_	_	
+16-7	1189-1197	Fraction	_	_	
+16-8	1198-1200	of	_	_	
+16-9	1201-1204	Ten	_	_	
+16-10	1205-1210	Words	_	_	
+16-11	1210-1211	,	_	_	
+16-12	1212-1221	excluding	_	_	
+16-13	1222-1231	addressee	_	_	
+16-14	1231-1232	.	_	_	
+
+#Text=CHARGER FOR DELIVERY OF AILESAGER.
+17-1	1233-1240	CHARGER	_	_	
+17-2	1241-1244	FOR	_	_	
+17-3	1245-1253	DELIVERY	_	_	
+17-4	1254-1256	OF	_	_	
+17-5	1257-1266	AILESAGER	_	_	
+17-6	1266-1267	.	_	_	
+
+#Text=Beyond half-a-mile from either office, Twopence for every half-mile by Foot Messenger, if not more than three miles beyond that distance Sixpence per mile on loot and One Shilling per mile on horse.
+18-1	1269-1275	Beyond	_	_	
+18-2	1276-1287	half-a-mile	_	_	
+18-3	1288-1292	from	_	_	
+18-4	1293-1299	either	_	_	
+18-5	1300-1306	office	_	_	
+18-6	1306-1307	,	_	_	
+18-7	1308-1316	Twopence	_	_	
+18-8	1317-1320	for	_	_	
+18-9	1321-1326	every	_	_	
+18-10	1327-1336	half-mile	_	_	
+18-11	1337-1339	by	_	_	
+18-12	1340-1344	Foot	_	_	
+18-13	1345-1354	Messenger	_	_	
+18-14	1354-1355	,	_	_	
+18-15	1356-1358	if	_	_	
+18-16	1359-1362	not	_	_	
+18-17	1363-1367	more	_	_	
+18-18	1368-1372	than	_	_	
+18-19	1373-1378	three	_	_	
+18-20	1379-1384	miles	_	_	
+18-21	1385-1391	beyond	_	_	
+18-22	1392-1396	that	_	_	
+18-23	1397-1405	distance	_	_	
+18-24	1406-1414	Sixpence	_	_	
+18-25	1415-1418	per	_	_	
+18-26	1419-1423	mile	_	_	
+18-27	1424-1426	on	_	_	
+18-28	1427-1431	loot	_	_	
+18-29	1432-1435	and	_	_	
+18-30	1436-1439	One	_	_	
+18-31	1440-1448	Shilling	_	_	
+18-32	1449-1452	per	_	_	
+18-33	1453-1457	mile	_	_	
+18-34	1458-1460	on	_	_	
+18-35	1461-1466	horse	_	_	
+18-36	1466-1467	.	_	_	
+
+#Text=The Company do not hold themselves responsible for errors or delay arising from indistinct writing or other causes, unless messages arc repeated back at a charge of half the original rate.
+19-1	1468-1471	The	_	_	
+19-2	1472-1479	Company	_	_	
+19-3	1480-1482	do	_	_	
+19-4	1483-1486	not	_	_	
+19-5	1487-1491	hold	_	_	
+19-6	1492-1502	themselves	_	_	
+19-7	1503-1514	responsible	_	_	
+19-8	1515-1518	for	_	_	
+19-9	1519-1525	errors	_	_	
+19-10	1526-1528	or	_	_	
+19-11	1529-1534	delay	_	_	
+19-12	1535-1542	arising	_	_	
+19-13	1543-1547	from	_	_	
+19-14	1548-1558	indistinct	_	_	
+19-15	1559-1566	writing	_	_	
+19-16	1567-1569	or	_	_	
+19-17	1570-1575	other	_	_	
+19-18	1576-1582	causes	_	_	
+19-19	1582-1583	,	_	_	
+19-20	1584-1590	unless	_	_	
+19-21	1591-1599	messages	_	_	
+19-22	1600-1603	arc	_	_	
+19-23	1604-1612	repeated	_	_	
+19-24	1613-1617	back	_	_	
+19-25	1618-1620	at	_	_	
+19-26	1621-1622	a	_	_	
+19-27	1623-1629	charge	_	_	
+19-28	1630-1632	of	_	_	
+19-29	1633-1637	half	_	_	
+19-30	1638-1641	the	_	_	
+19-31	1642-1650	original	_	_	
+19-32	1651-1655	rate	_	_	
+19-33	1655-1656	.	_	_	
+
+#Text=W.
+20-1	1657-1658	W	_	_	
+20-2	1658-1659	.	_	_	
+
+#Text=MATE, lion.
+21-1	1660-1664	MATE	_	_	
+21-2	1664-1665	,	_	_	
+21-3	1666-1670	lion	_	_	
+21-4	1670-1671	.	_	_	
+
+#Text=Secretary. lligh-street, Poole, January, 1860.
+22-1	1672-1681	Secretary	_	_	
+22-2	1681-1682	.	_	_	
+22-3	1683-1695	lligh-street	*	STREET	
+22-4	1695-1696	,	_	_	
+22-5	1697-1702	Poole	https://en.wikipedia.org/wiki/Poole	LOC	
+22-6	1702-1703	,	_	_	
+22-7	1704-1711	January	_	_	
+22-8	1711-1712	,	_	_	
+22-9	1713-1717	1860	_	_	
+22-10	1717-1718	.	_	_	

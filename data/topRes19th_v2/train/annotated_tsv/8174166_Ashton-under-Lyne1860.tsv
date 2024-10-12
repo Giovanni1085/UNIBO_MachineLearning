@@ -1,0 +1,551 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=HURST.
+1-1	0-5	HURST	*	LOC	
+1-2	5-6	.	_	_	
+
+#Text=Hurst General Relief Committee.
+2-1	8-13	Hurst	*	LOC	
+2-2	14-21	General	_	_	
+2-3	22-28	Relief	_	_	
+2-4	29-38	Committee	_	_	
+2-5	38-39	.	_	_	
+
+#Text=—On Thursday 1,304 persons wer* relieved by this committee, at a cost of £B2 9s. sd.
+3-1	39-40	—	_	_	
+3-2	40-42	On	_	_	
+3-3	43-51	Thursday	_	_	
+3-4	52-57	1,304	_	_	
+3-5	58-65	persons	_	_	
+3-6	66-69	wer	_	_	
+3-7	69-70	*	_	_	
+3-8	71-79	relieved	_	_	
+3-9	80-82	by	_	_	
+3-10	83-87	this	_	_	
+3-11	88-97	committee	_	_	
+3-12	97-98	,	_	_	
+3-13	99-101	at	_	_	
+3-14	102-103	a	_	_	
+3-15	104-108	cost	_	_	
+3-16	109-111	of	_	_	
+3-17	112-113	£	_	_	
+3-18	113-115	B2	_	_	
+3-19	116-118	9s	_	_	
+3-20	118-119	.	_	_	
+3-21	120-122	sd	_	_	
+3-22	122-123	.	_	_	
+
+#Text=Hurst Relief Committee.
+4-1	124-129	Hurst	*	LOC	
+4-2	130-136	Relief	_	_	
+4-3	137-146	Committee	_	_	
+4-4	146-147	.	_	_	
+
+#Text=—This committee held their 75ih meeting on Tuesday evening last, when there were 198 oases relieved, at a cost of £32 17s. 7d.; school fees for Higher and Lower Hurst schools, £1 I Os.; total, £34 7s. 7d.
+5-1	147-148	—	_	_	
+5-2	148-152	This	_	_	
+5-3	153-162	committee	_	_	
+5-4	163-167	held	_	_	
+5-5	168-173	their	_	_	
+5-6	174-178	75ih	_	_	
+5-7	179-186	meeting	_	_	
+5-8	187-189	on	_	_	
+5-9	190-197	Tuesday	_	_	
+5-10	198-205	evening	_	_	
+5-11	206-210	last	_	_	
+5-12	210-211	,	_	_	
+5-13	212-216	when	_	_	
+5-14	217-222	there	_	_	
+5-15	223-227	were	_	_	
+5-16	228-231	198	_	_	
+5-17	232-237	oases	_	_	
+5-18	238-246	relieved	_	_	
+5-19	246-247	,	_	_	
+5-20	248-250	at	_	_	
+5-21	251-252	a	_	_	
+5-22	253-257	cost	_	_	
+5-23	258-260	of	_	_	
+5-24	261-264	£32	_	_	
+5-25	265-268	17s	_	_	
+5-26	268-269	.	_	_	
+5-27	270-272	7d	_	_	
+5-28	272-273	.	_	_	
+5-29	273-274	;	_	_	
+5-30	275-281	school	_	_	
+5-31	282-286	fees	_	_	
+5-32	287-290	for	_	_	
+5-33	291-297	Higher	_	_	
+5-34	298-301	and	_	_	
+5-35	302-307	Lower	_	_	
+5-36	308-313	Hurst	*	LOC	
+5-37	314-321	schools	_	_	
+5-38	321-322	,	_	_	
+5-39	323-325	£1	_	_	
+5-40	326-327	I	_	_	
+5-41	328-330	Os	_	_	
+5-42	330-331	.	_	_	
+5-43	331-332	;	_	_	
+5-44	333-338	total	_	_	
+5-45	338-339	,	_	_	
+5-46	340-343	£34	_	_	
+5-47	344-346	7s	_	_	
+5-48	346-347	.	_	_	
+5-49	348-350	7d	_	_	
+5-50	350-351	.	_	_	
+
+#Text=Sudden Death.
+6-1	352-358	Sudden	_	_	
+6-2	359-364	Death	_	_	
+6-3	364-365	.	_	_	
+
+#Text=—An inquest was held on Tuesday at the Bull’s Head beerhouse.
+7-1	365-366	—	_	_	
+7-2	366-368	An	_	_	
+7-3	369-376	inquest	_	_	
+7-4	377-380	was	_	_	
+7-5	381-385	held	_	_	
+7-6	386-388	on	_	_	
+7-7	389-396	Tuesday	_	_	
+7-8	397-399	at	_	_	
+7-9	400-403	the	_	_	
+7-10	404-408	Bull	*[1]	BUILDING[1]	
+7-11	408-409	’	*[1]	BUILDING[1]	
+7-12	409-410	s	*[1]	BUILDING[1]	
+7-13	411-415	Head	*[1]	BUILDING[1]	
+7-14	416-425	beerhouse	_	_	
+7-15	425-426	.	_	_	
+
+#Text=Broad Oak-lane, near Hurst, before Mr.
+8-1	427-432	Broad	_	_	
+8-2	433-441	Oak-lane	*	STREET	
+8-3	441-442	,	_	_	
+8-4	443-447	near	_	_	
+8-5	448-453	Hurst	*	LOC	
+8-6	453-454	,	_	_	
+8-7	455-461	before	_	_	
+8-8	462-464	Mr	_	_	
+8-9	464-465	.	_	_	
+
+#Text=Rutter, coroner, touching the death of Ellen Jane M‘Caw, wife of Robert MCaw, power-loom weaver, who died on Saturday last during confinement.— In consequence of the complaints which had been made by the husband against Mr.
+9-1	466-472	Rutter	_	_	
+9-2	472-473	,	_	_	
+9-3	474-481	coroner	_	_	
+9-4	481-482	,	_	_	
+9-5	483-491	touching	_	_	
+9-6	492-495	the	_	_	
+9-7	496-501	death	_	_	
+9-8	502-504	of	_	_	
+9-9	505-510	Ellen	_	_	
+9-10	511-515	Jane	_	_	
+9-11	516-517	M	_	_	
+9-12	517-518	‘	_	_	
+9-13	518-521	Caw	_	_	
+9-14	521-522	,	_	_	
+9-15	523-527	wife	_	_	
+9-16	528-530	of	_	_	
+9-17	531-537	Robert	_	_	
+9-18	538-542	MCaw	_	_	
+9-19	542-543	,	_	_	
+9-20	544-554	power-loom	_	_	
+9-21	555-561	weaver	_	_	
+9-22	561-562	,	_	_	
+9-23	563-566	who	_	_	
+9-24	567-571	died	_	_	
+9-25	572-574	on	_	_	
+9-26	575-583	Saturday	_	_	
+9-27	584-588	last	_	_	
+9-28	589-595	during	_	_	
+9-29	596-607	confinement	_	_	
+9-30	607-608	.	_	_	
+9-31	608-609	—	_	_	
+9-32	610-612	In	_	_	
+9-33	613-624	consequence	_	_	
+9-34	625-627	of	_	_	
+9-35	628-631	the	_	_	
+9-36	632-642	complaints	_	_	
+9-37	643-648	which	_	_	
+9-38	649-652	had	_	_	
+9-39	653-657	been	_	_	
+9-40	658-662	made	_	_	
+9-41	663-665	by	_	_	
+9-42	666-669	the	_	_	
+9-43	670-677	husband	_	_	
+9-44	678-685	against	_	_	
+9-45	686-688	Mr	_	_	
+9-46	688-689	.	_	_	
+
+#Text=Galt’s assistant, who attended the deceased, a post mortem examination of the body was made, the result of which showed that the complaints were entirely groundless.
+10-1	690-694	Galt	_	_	
+10-2	694-695	’	_	_	
+10-3	695-696	s	_	_	
+10-4	697-706	assistant	_	_	
+10-5	706-707	,	_	_	
+10-6	708-711	who	_	_	
+10-7	712-720	attended	_	_	
+10-8	721-724	the	_	_	
+10-9	725-733	deceased	_	_	
+10-10	733-734	,	_	_	
+10-11	735-736	a	_	_	
+10-12	737-741	post	_	_	
+10-13	742-748	mortem	_	_	
+10-14	749-760	examination	_	_	
+10-15	761-763	of	_	_	
+10-16	764-767	the	_	_	
+10-17	768-772	body	_	_	
+10-18	773-776	was	_	_	
+10-19	777-781	made	_	_	
+10-20	781-782	,	_	_	
+10-21	783-786	the	_	_	
+10-22	787-793	result	_	_	
+10-23	794-796	of	_	_	
+10-24	797-802	which	_	_	
+10-25	803-809	showed	_	_	
+10-26	810-814	that	_	_	
+10-27	815-818	the	_	_	
+10-28	819-829	complaints	_	_	
+10-29	830-834	were	_	_	
+10-30	835-843	entirely	_	_	
+10-31	844-854	groundless	_	_	
+10-32	854-855	.	_	_	
+
+#Text=Hurst Brook Schools.— Mr.
+11-1	857-862	Hurst	*[2]	LOC[2]	
+11-2	863-868	Brook	*[2]	LOC[2]	
+11-3	869-876	Schools	_	_	
+11-4	876-877	.	_	_	
+11-5	877-878	—	_	_	
+11-6	879-881	Mr	_	_	
+11-7	881-882	.	_	_	
+
+#Text=J.
+12-1	883-884	J	_	_	
+12-2	884-885	.	_	_	
+
+#Text=Whittaker’s Liberality.
+13-1	886-895	Whittaker	_	_	
+13-2	895-896	’	_	_	
+13-3	896-897	s	_	_	
+13-4	898-908	Liberality	_	_	
+13-5	908-909	.	_	_	
+
+#Text=—Last night the annual Christmas tea meeting was held in the Hurst Brook New Connexion Methodist Sunday school, when some 600 people sat down to an excellent tea.
+14-1	909-910	—	_	_	
+14-2	910-914	Last	_	_	
+14-3	915-920	night	_	_	
+14-4	921-924	the	_	_	
+14-5	925-931	annual	_	_	
+14-6	932-941	Christmas	_	_	
+14-7	942-945	tea	_	_	
+14-8	946-953	meeting	_	_	
+14-9	954-957	was	_	_	
+14-10	958-962	held	_	_	
+14-11	963-965	in	_	_	
+14-12	966-969	the	_	_	
+14-13	970-975	Hurst	*[3]	LOC[3]	
+14-14	976-981	Brook	*[3]	LOC[3]	
+14-15	982-985	New	_	_	
+14-16	986-995	Connexion	_	_	
+14-17	996-1005	Methodist	_	_	
+14-18	1006-1012	Sunday	_	_	
+14-19	1013-1019	school	_	_	
+14-20	1019-1020	,	_	_	
+14-21	1021-1025	when	_	_	
+14-22	1026-1030	some	_	_	
+14-23	1031-1034	600	_	_	
+14-24	1035-1041	people	_	_	
+14-25	1042-1045	sat	_	_	
+14-26	1046-1050	down	_	_	
+14-27	1051-1053	to	_	_	
+14-28	1054-1056	an	_	_	
+14-29	1057-1066	excellent	_	_	
+14-30	1067-1070	tea	_	_	
+14-31	1070-1071	.	_	_	
+
+#Text=Afterwards they proceeded to the new chapel erected through the efforts of Mr, W.
+15-1	1072-1082	Afterwards	_	_	
+15-2	1083-1087	they	_	_	
+15-3	1088-1097	proceeded	_	_	
+15-4	1098-1100	to	_	_	
+15-5	1101-1104	the	_	_	
+15-6	1105-1108	new	_	_	
+15-7	1109-1115	chapel	_	_	
+15-8	1116-1123	erected	_	_	
+15-9	1124-1131	through	_	_	
+15-10	1132-1135	the	_	_	
+15-11	1136-1143	efforts	_	_	
+15-12	1144-1146	of	_	_	
+15-13	1147-1149	Mr	_	_	
+15-14	1149-1150	,	_	_	
+15-15	1151-1152	W	_	_	
+15-16	1152-1153	.	_	_	
+
+#Text=Pennington, where the chair was taken by John Whittaker, Esq.
+16-1	1154-1164	Pennington	_	_	
+16-2	1164-1165	,	_	_	
+16-3	1166-1171	where	_	_	
+16-4	1172-1175	the	_	_	
+16-5	1176-1181	chair	_	_	
+16-6	1182-1185	was	_	_	
+16-7	1186-1191	taken	_	_	
+16-8	1192-1194	by	_	_	
+16-9	1195-1199	John	_	_	
+16-10	1200-1209	Whittaker	_	_	
+16-11	1209-1210	,	_	_	
+16-12	1211-1214	Esq	_	_	
+16-13	1214-1215	.	_	_	
+
+#Text=The Rev.
+17-1	1216-1219	The	_	_	
+17-2	1220-1223	Rev	_	_	
+17-3	1223-1224	.	_	_	
+
+#Text=Mr.
+18-1	1225-1227	Mr	_	_	
+18-2	1227-1228	.	_	_	
+
+#Text=Ward was present, and took part in the proceedings.
+19-1	1229-1233	Ward	_	_	
+19-2	1234-1237	was	_	_	
+19-3	1238-1245	present	_	_	
+19-4	1245-1246	,	_	_	
+19-5	1247-1250	and	_	_	
+19-6	1251-1255	took	_	_	
+19-7	1256-1260	part	_	_	
+19-8	1261-1263	in	_	_	
+19-9	1264-1267	the	_	_	
+19-10	1268-1279	proceedings	_	_	
+19-11	1279-1280	.	_	_	
+
+#Text=The Wesleyan body having thrown cold water on chapel undertaking, Mr.
+20-1	1281-1284	The	_	_	
+20-2	1285-1293	Wesleyan	_	_	
+20-3	1294-1298	body	_	_	
+20-4	1299-1305	having	_	_	
+20-5	1306-1312	thrown	_	_	
+20-6	1313-1317	cold	_	_	
+20-7	1318-1323	water	_	_	
+20-8	1324-1326	on	_	_	
+20-9	1327-1333	chapel	_	_	
+20-10	1334-1345	undertaking	_	_	
+20-11	1345-1346	,	_	_	
+20-12	1347-1349	Mr	_	_	
+20-13	1349-1350	.	_	_	
+
+#Text=Whittaker has purchased the building, and handed it over to the New Connexion body, and at his suggestion it was last night denominated Hope-street Chapel.
+21-1	1351-1360	Whittaker	_	_	
+21-2	1361-1364	has	_	_	
+21-3	1365-1374	purchased	_	_	
+21-4	1375-1378	the	_	_	
+21-5	1379-1387	building	_	_	
+21-6	1387-1388	,	_	_	
+21-7	1389-1392	and	_	_	
+21-8	1393-1399	handed	_	_	
+21-9	1400-1402	it	_	_	
+21-10	1403-1407	over	_	_	
+21-11	1408-1410	to	_	_	
+21-12	1411-1414	the	_	_	
+21-13	1415-1418	New	_	_	
+21-14	1419-1428	Connexion	_	_	
+21-15	1429-1433	body	_	_	
+21-16	1433-1434	,	_	_	
+21-17	1435-1438	and	_	_	
+21-18	1439-1441	at	_	_	
+21-19	1442-1445	his	_	_	
+21-20	1446-1456	suggestion	_	_	
+21-21	1457-1459	it	_	_	
+21-22	1460-1463	was	_	_	
+21-23	1464-1468	last	_	_	
+21-24	1469-1474	night	_	_	
+21-25	1475-1486	denominated	_	_	
+21-26	1487-1498	Hope-street	_	_	
+21-27	1499-1505	Chapel	_	_	
+21-28	1505-1506	.	_	_	
+
+#Text=That gentleman, in the course of his address, referred to the distress, and stated that the General Relief Committee of Hurst had received and expended, up to October luet, the sum of £5,424.
+22-1	1507-1511	That	_	_	
+22-2	1512-1521	gentleman	_	_	
+22-3	1521-1522	,	_	_	
+22-4	1523-1525	in	_	_	
+22-5	1526-1529	the	_	_	
+22-6	1530-1536	course	_	_	
+22-7	1537-1539	of	_	_	
+22-8	1540-1543	his	_	_	
+22-9	1544-1551	address	_	_	
+22-10	1551-1552	,	_	_	
+22-11	1553-1561	referred	_	_	
+22-12	1562-1564	to	_	_	
+22-13	1565-1568	the	_	_	
+22-14	1569-1577	distress	_	_	
+22-15	1577-1578	,	_	_	
+22-16	1579-1582	and	_	_	
+22-17	1583-1589	stated	_	_	
+22-18	1590-1594	that	_	_	
+22-19	1595-1598	the	_	_	
+22-20	1599-1606	General	_	_	
+22-21	1607-1613	Relief	_	_	
+22-22	1614-1623	Committee	_	_	
+22-23	1624-1626	of	_	_	
+22-24	1627-1632	Hurst	*	LOC	
+22-25	1633-1636	had	_	_	
+22-26	1637-1645	received	_	_	
+22-27	1646-1649	and	_	_	
+22-28	1650-1658	expended	_	_	
+22-29	1658-1659	,	_	_	
+22-30	1660-1662	up	_	_	
+22-31	1663-1665	to	_	_	
+22-32	1666-1673	October	_	_	
+22-33	1674-1678	luet	_	_	
+22-34	1678-1679	,	_	_	
+22-35	1680-1683	the	_	_	
+22-36	1684-1687	sum	_	_	
+22-37	1688-1690	of	_	_	
+22-38	1691-1697	£5,424	_	_	
+22-39	1697-1698	.	_	_	
+
+#Text=That included the grants from the Manchester Central Relief Committee and all other sources; while, out of his own pocket, and within the same time, he had expended £5,789 in doing his part to relieve the distress which bad, and now was, to a great extent, existing amongst them.
+23-1	1699-1703	That	_	_	
+23-2	1704-1712	included	_	_	
+23-3	1713-1716	the	_	_	
+23-4	1717-1723	grants	_	_	
+23-5	1724-1728	from	_	_	
+23-6	1729-1732	the	_	_	
+23-7	1733-1743	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+23-8	1744-1751	Central	_	_	
+23-9	1752-1758	Relief	_	_	
+23-10	1759-1768	Committee	_	_	
+23-11	1769-1772	and	_	_	
+23-12	1773-1776	all	_	_	
+23-13	1777-1782	other	_	_	
+23-14	1783-1790	sources	_	_	
+23-15	1790-1791	;	_	_	
+23-16	1792-1797	while	_	_	
+23-17	1797-1798	,	_	_	
+23-18	1799-1802	out	_	_	
+23-19	1803-1805	of	_	_	
+23-20	1806-1809	his	_	_	
+23-21	1810-1813	own	_	_	
+23-22	1814-1820	pocket	_	_	
+23-23	1820-1821	,	_	_	
+23-24	1822-1825	and	_	_	
+23-25	1826-1832	within	_	_	
+23-26	1833-1836	the	_	_	
+23-27	1837-1841	same	_	_	
+23-28	1842-1846	time	_	_	
+23-29	1846-1847	,	_	_	
+23-30	1848-1850	he	_	_	
+23-31	1851-1854	had	_	_	
+23-32	1855-1863	expended	_	_	
+23-33	1864-1870	£5,789	_	_	
+23-34	1871-1873	in	_	_	
+23-35	1874-1879	doing	_	_	
+23-36	1880-1883	his	_	_	
+23-37	1884-1888	part	_	_	
+23-38	1889-1891	to	_	_	
+23-39	1892-1899	relieve	_	_	
+23-40	1900-1903	the	_	_	
+23-41	1904-1912	distress	_	_	
+23-42	1913-1918	which	_	_	
+23-43	1919-1922	bad	_	_	
+23-44	1922-1923	,	_	_	
+23-45	1924-1927	and	_	_	
+23-46	1928-1931	now	_	_	
+23-47	1932-1935	was	_	_	
+23-48	1935-1936	,	_	_	
+23-49	1937-1939	to	_	_	
+23-50	1940-1941	a	_	_	
+23-51	1942-1947	great	_	_	
+23-52	1948-1954	extent	_	_	
+23-53	1954-1955	,	_	_	
+23-54	1956-1964	existing	_	_	
+23-55	1965-1972	amongst	_	_	
+23-56	1973-1977	them	_	_	
+23-57	1977-1978	.	_	_	
+
+#Text=—(Cheers.)
+24-1	1978-1979	—	_	_	
+24-2	1979-1980	(	_	_	
+24-3	1980-1986	Cheers	_	_	
+24-4	1986-1987	.	_	_	
+24-5	1987-1988	)	_	_	
+
+#Text=He had been told that the greatest existing want was something for the feet, and he had accordingly ordered 1,000 pairs of clogs to be made and distributed amongst the more needy in Hurst.
+25-1	1989-1991	He	_	_	
+25-2	1992-1995	had	_	_	
+25-3	1996-2000	been	_	_	
+25-4	2001-2005	told	_	_	
+25-5	2006-2010	that	_	_	
+25-6	2011-2014	the	_	_	
+25-7	2015-2023	greatest	_	_	
+25-8	2024-2032	existing	_	_	
+25-9	2033-2037	want	_	_	
+25-10	2038-2041	was	_	_	
+25-11	2042-2051	something	_	_	
+25-12	2052-2055	for	_	_	
+25-13	2056-2059	the	_	_	
+25-14	2060-2064	feet	_	_	
+25-15	2064-2065	,	_	_	
+25-16	2066-2069	and	_	_	
+25-17	2070-2072	he	_	_	
+25-18	2073-2076	had	_	_	
+25-19	2077-2088	accordingly	_	_	
+25-20	2089-2096	ordered	_	_	
+25-21	2097-2102	1,000	_	_	
+25-22	2103-2108	pairs	_	_	
+25-23	2109-2111	of	_	_	
+25-24	2112-2117	clogs	_	_	
+25-25	2118-2120	to	_	_	
+25-26	2121-2123	be	_	_	
+25-27	2124-2128	made	_	_	
+25-28	2129-2132	and	_	_	
+25-29	2133-2144	distributed	_	_	
+25-30	2145-2152	amongst	_	_	
+25-31	2153-2156	the	_	_	
+25-32	2157-2161	more	_	_	
+25-33	2162-2167	needy	_	_	
+25-34	2168-2170	in	_	_	
+25-35	2171-2176	Hurst	*	LOC	
+25-36	2176-2177	.	_	_	
+
+#Text=—(Cheers.)
+26-1	2177-2178	—	_	_	
+26-2	2178-2179	(	_	_	
+26-3	2179-2185	Cheers	_	_	
+26-4	2185-2186	.	_	_	
+26-5	2186-2187	)	_	_	
+
+#Text=—The meeting was of an interesting description, recitations and singing being in the ascendant.
+27-1	2187-2188	—	_	_	
+27-2	2188-2191	The	_	_	
+27-3	2192-2199	meeting	_	_	
+27-4	2200-2203	was	_	_	
+27-5	2204-2206	of	_	_	
+27-6	2207-2209	an	_	_	
+27-7	2210-2221	interesting	_	_	
+27-8	2222-2233	description	_	_	
+27-9	2233-2234	,	_	_	
+27-10	2235-2246	recitations	_	_	
+27-11	2247-2250	and	_	_	
+27-12	2251-2258	singing	_	_	
+27-13	2259-2264	being	_	_	
+27-14	2265-2267	in	_	_	
+27-15	2268-2271	the	_	_	
+27-16	2272-2281	ascendant	_	_	
+27-17	2281-2282	.	_	_	
+
+#Text=—A hearty vote of thanks was awarded the chairman at the close.
+28-1	2282-2283	—	_	_	
+28-2	2283-2284	A	_	_	
+28-3	2285-2291	hearty	_	_	
+28-4	2292-2296	vote	_	_	
+28-5	2297-2299	of	_	_	
+28-6	2300-2306	thanks	_	_	
+28-7	2307-2310	was	_	_	
+28-8	2311-2318	awarded	_	_	
+28-9	2319-2322	the	_	_	
+28-10	2323-2331	chairman	_	_	
+28-11	2332-2334	at	_	_	
+28-12	2335-2338	the	_	_	
+28-13	2339-2344	close	_	_	
+28-14	2344-2345	.	_	_	

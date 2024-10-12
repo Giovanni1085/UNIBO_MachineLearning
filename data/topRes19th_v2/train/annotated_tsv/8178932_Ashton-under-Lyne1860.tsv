@@ -1,0 +1,267 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=FOR MELBOURNE AND AUCKLAND.
+1-1	0-3	FOR	_	_	
+1-2	4-13	MELBOURNE	https://en.wikipedia.org/wiki/Melbourne	LOC	
+1-3	14-17	AND	_	_	
+1-4	18-26	AUCKLAND	https://en.wikipedia.org/wiki/Auckland	LOC	
+1-5	26-27	.	_	_	
+
+#Text=Morning Light ..
+2-1	29-36	Morning	_	_	
+2-2	37-42	Light	_	_	
+2-3	43-44	.	_	_	
+2-4	44-45	.	_	_	
+
+#Text=Capt.
+3-1	46-50	Capt	_	_	
+3-2	50-51	.	_	_	
+
+#Text=J.
+4-1	52-53	J	_	_	
+4-2	53-54	.	_	_	
+
+#Text=Gillies 
+#Text=.2377....6000..,.0ct. 20 
+#Text=FOR MELBOURNE.
+5-1	55-62	Gillies	_	_	
+5-2	64-69	.2377	_	_	
+5-3	69-70	.	_	_	
+5-4	70-71	.	_	_	
+5-5	71-72	.	_	_	
+5-6	72-77	.6000	_	_	
+5-7	77-78	.	_	_	
+5-8	78-79	.	_	_	
+5-9	79-80	,	_	_	
+5-10	80-84	.0ct	_	_	
+5-11	84-85	.	_	_	
+5-12	86-88	20	_	_	
+5-13	90-93	FOR	_	_	
+5-14	94-103	MELBOURNE	https://en.wikipedia.org/wiki/Melbourne	LOC	
+5-15	103-104	.	_	_	
+
+#Text=Red Jacket Capt.
+6-1	105-108	Red	_	_	
+6-2	109-115	Jacket	_	_	
+6-3	116-120	Capt	_	_	
+6-4	120-121	.	_	_	
+
+#Text=S.
+7-1	122-123	S	_	_	
+7-2	123-124	.	_	_	
+
+#Text=Reed 1550 4750 Nov. 20 The Morning Light is one of the fastest and most magnificent clippers in the world.
+8-1	125-129	Reed	_	_	
+8-2	130-134	1550	_	_	
+8-3	135-139	4750	_	_	
+8-4	140-143	Nov	_	_	
+8-5	143-144	.	_	_	
+8-6	145-147	20	_	_	
+8-7	148-151	The	_	_	
+8-8	152-159	Morning	_	_	
+8-9	160-165	Light	_	_	
+8-10	166-168	is	_	_	
+8-11	169-172	one	_	_	
+8-12	173-175	of	_	_	
+8-13	176-179	the	_	_	
+8-14	180-187	fastest	_	_	
+8-15	188-191	and	_	_	
+8-16	192-196	most	_	_	
+8-17	197-208	magnificent	_	_	
+8-18	209-217	clippers	_	_	
+8-19	218-220	in	_	_	
+8-20	221-224	the	_	_	
+8-21	225-230	world	_	_	
+8-22	230-231	.	_	_	
+
+#Text=She is sister ship to the celebrated clipper White Star, and has made the astonishing passages of 71 and 73 days from Liverpool to Melbourne.
+9-1	232-235	She	_	_	
+9-2	236-238	is	_	_	
+9-3	239-245	sister	_	_	
+9-4	246-250	ship	_	_	
+9-5	251-253	to	_	_	
+9-6	254-257	the	_	_	
+9-7	258-268	celebrated	_	_	
+9-8	269-276	clipper	_	_	
+9-9	277-282	White	_	_	
+9-10	283-287	Star	_	_	
+9-11	287-288	,	_	_	
+9-12	289-292	and	_	_	
+9-13	293-296	has	_	_	
+9-14	297-301	made	_	_	
+9-15	302-305	the	_	_	
+9-16	306-317	astonishing	_	_	
+9-17	318-326	passages	_	_	
+9-18	327-329	of	_	_	
+9-19	330-332	71	_	_	
+9-20	333-336	and	_	_	
+9-21	337-339	73	_	_	
+9-22	340-344	days	_	_	
+9-23	345-349	from	_	_	
+9-24	350-359	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+9-25	360-362	to	_	_	
+9-26	363-372	Melbourne	https://en.wikipedia.org/wiki/Melbourne	LOC	
+9-27	372-373	.	_	_	
+
+#Text=Her saloon accommodations are of the roost extensive character, splendidly famished, and replete with every appurtenance for the comfortable enjoyment of the voyage.
+10-1	374-377	Her	_	_	
+10-2	378-384	saloon	_	_	
+10-3	385-399	accommodations	_	_	
+10-4	400-403	are	_	_	
+10-5	404-406	of	_	_	
+10-6	407-410	the	_	_	
+10-7	411-416	roost	_	_	
+10-8	417-426	extensive	_	_	
+10-9	427-436	character	_	_	
+10-10	436-437	,	_	_	
+10-11	438-448	splendidly	_	_	
+10-12	449-457	famished	_	_	
+10-13	457-458	,	_	_	
+10-14	459-462	and	_	_	
+10-15	463-470	replete	_	_	
+10-16	471-475	with	_	_	
+10-17	476-481	every	_	_	
+10-18	482-494	appurtenance	_	_	
+10-19	495-498	for	_	_	
+10-20	499-502	the	_	_	
+10-21	503-514	comfortable	_	_	
+10-22	515-524	enjoyment	_	_	
+10-23	525-527	of	_	_	
+10-24	528-531	the	_	_	
+10-25	532-538	voyage	_	_	
+10-26	538-539	.	_	_	
+
+#Text=In a vessel of her majestic size the apartments for second cabin, intermediate, and steerage passengers are lofty, reomy, and well ventilated.
+11-1	540-542	In	_	_	
+11-2	543-544	a	_	_	
+11-3	545-551	vessel	_	_	
+11-4	552-554	of	_	_	
+11-5	555-558	her	_	_	
+11-6	559-567	majestic	_	_	
+11-7	568-572	size	_	_	
+11-8	573-576	the	_	_	
+11-9	577-587	apartments	_	_	
+11-10	588-591	for	_	_	
+11-11	592-598	second	_	_	
+11-12	599-604	cabin	_	_	
+11-13	604-605	,	_	_	
+11-14	606-618	intermediate	_	_	
+11-15	618-619	,	_	_	
+11-16	620-623	and	_	_	
+11-17	624-632	steerage	_	_	
+11-18	633-643	passengers	_	_	
+11-19	644-647	are	_	_	
+11-20	648-653	lofty	_	_	
+11-21	653-654	,	_	_	
+11-22	655-660	reomy	_	_	
+11-23	660-661	,	_	_	
+11-24	662-665	and	_	_	
+11-25	666-670	well	_	_	
+11-26	671-681	ventilated	_	_	
+11-27	681-682	.	_	_	
+
+#Text=Captain Gillies has earned a high reputation in the Australian trade during his many passages in this noble clipper.
+12-1	683-690	Captain	_	_	
+12-2	691-698	Gillies	_	_	
+12-3	699-702	has	_	_	
+12-4	703-709	earned	_	_	
+12-5	710-711	a	_	_	
+12-6	712-716	high	_	_	
+12-7	717-727	reputation	_	_	
+12-8	728-730	in	_	_	
+12-9	731-734	the	_	_	
+12-10	735-745	Australian	_	_	
+12-11	746-751	trade	_	_	
+12-12	752-758	during	_	_	
+12-13	759-762	his	_	_	
+12-14	763-767	many	_	_	
+12-15	768-776	passages	_	_	
+12-16	777-779	in	_	_	
+12-17	780-784	this	_	_	
+12-18	785-790	noble	_	_	
+12-19	791-798	clipper	_	_	
+12-20	798-799	.	_	_	
+
+#Text=Suitable passengers by the Morning Light may obtain land grants for 40 acres of land in New Zealand from the Provincial Agents, for a list of whom, and all information, apply to H.
+13-1	800-808	Suitable	_	_	
+13-2	809-819	passengers	_	_	
+13-3	820-822	by	_	_	
+13-4	823-826	the	_	_	
+13-5	827-834	Morning	_	_	
+13-6	835-840	Light	_	_	
+13-7	841-844	may	_	_	
+13-8	845-851	obtain	_	_	
+13-9	852-856	land	_	_	
+13-10	857-863	grants	_	_	
+13-11	864-867	for	_	_	
+13-12	868-870	40	_	_	
+13-13	871-876	acres	_	_	
+13-14	877-879	of	_	_	
+13-15	880-884	land	_	_	
+13-16	885-887	in	_	_	
+13-17	888-891	New	https://en.wikipedia.org/wiki/New\_Zealand[1]	LOC[1]	
+13-18	892-899	Zealand	https://en.wikipedia.org/wiki/New\_Zealand[1]	LOC[1]	
+13-19	900-904	from	_	_	
+13-20	905-908	the	_	_	
+13-21	909-919	Provincial	_	_	
+13-22	920-926	Agents	_	_	
+13-23	926-927	,	_	_	
+13-24	928-931	for	_	_	
+13-25	932-933	a	_	_	
+13-26	934-938	list	_	_	
+13-27	939-941	of	_	_	
+13-28	942-946	whom	_	_	
+13-29	946-947	,	_	_	
+13-30	948-951	and	_	_	
+13-31	952-955	all	_	_	
+13-32	956-967	information	_	_	
+13-33	967-968	,	_	_	
+13-34	969-974	apply	_	_	
+13-35	975-977	to	_	_	
+13-36	978-979	H	_	_	
+13-37	979-980	.	_	_	
+
+#Text=T.
+14-1	981-982	T	_	_	
+14-2	982-983	.	_	_	
+
+#Text=WILSON and CHAMBERS, 21, Water-street, Liverpool; or to 
+#Text=ON SALE, a Four-iift BEER ENGINE, in good condition.
+15-1	984-990	WILSON	_	_	
+15-2	991-994	and	_	_	
+15-3	995-1003	CHAMBERS	_	_	
+15-4	1003-1004	,	_	_	
+15-5	1005-1007	21	_	_	
+15-6	1007-1008	,	_	_	
+15-7	1009-1021	Water-street	*	STREET	
+15-8	1021-1022	,	_	_	
+15-9	1023-1032	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+15-10	1032-1033	;	_	_	
+15-11	1034-1036	or	_	_	
+15-12	1037-1039	to	_	_	
+15-13	1041-1043	ON	_	_	
+15-14	1044-1048	SALE	_	_	
+15-15	1048-1049	,	_	_	
+15-16	1050-1051	a	_	_	
+15-17	1052-1061	Four-iift	_	_	
+15-18	1062-1066	BEER	_	_	
+15-19	1067-1073	ENGINE	_	_	
+15-20	1073-1074	,	_	_	
+15-21	1075-1077	in	_	_	
+15-22	1078-1082	good	_	_	
+15-23	1083-1092	condition	_	_	
+15-24	1092-1093	.	_	_	
+
+#Text=—Apply at HEAP’S Vaults, Old-street.
+16-1	1093-1094	—	_	_	
+16-2	1094-1099	Apply	_	_	
+16-3	1100-1102	at	_	_	
+16-4	1103-1107	HEAP	_	_	
+16-5	1107-1108	’	_	_	
+16-6	1108-1109	S	_	_	
+16-7	1110-1116	Vaults	_	_	
+16-8	1116-1117	,	_	_	
+16-9	1118-1128	Old-street	*	STREET	
+16-10	1128-1129	.	_	_	

@@ -1,0 +1,523 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=LYME REGIS.
+1-1	0-4	LYME	https://en.wikipedia.org/wiki/Lyme\_Regis[1]	LOC[1]	
+1-2	5-10	REGIS	https://en.wikipedia.org/wiki/Lyme\_Regis[1]	LOC[1]	
+1-3	10-11	.	_	_	
+
+#Text=Election of Mayor.
+2-1	13-21	Election	_	_	
+2-2	22-24	of	_	_	
+2-3	25-30	Mayor	_	_	
+2-4	30-31	.	_	_	
+
+#Text=—Mr.
+3-1	31-32	—	_	_	
+3-2	32-34	Mr	_	_	
+3-3	34-35	.	_	_	
+
+#Text=Samuel Osborn was again chosen Mayor on Saturday last, this being his third successive year.
+4-1	36-42	Samuel	_	_	
+4-2	43-49	Osborn	_	_	
+4-3	50-53	was	_	_	
+4-4	54-59	again	_	_	
+4-5	60-66	chosen	_	_	
+4-6	67-72	Mayor	_	_	
+4-7	73-75	on	_	_	
+4-8	76-84	Saturday	_	_	
+4-9	85-89	last	_	_	
+4-10	89-90	,	_	_	
+4-11	91-95	this	_	_	
+4-12	96-101	being	_	_	
+4-13	102-105	his	_	_	
+4-14	106-111	third	_	_	
+4-15	112-122	successive	_	_	
+4-16	123-127	year	_	_	
+4-17	127-128	.	_	_	
+
+#Text=Shipping Disaster.
+5-1	129-137	Shipping	_	_	
+5-2	138-146	Disaster	_	_	
+5-3	146-147	.	_	_	
+
+#Text=—Mr.
+6-1	147-148	—	_	_	
+6-2	148-150	Mr	_	_	
+6-3	150-151	.	_	_	
+
+#Text=R.
+7-1	152-153	R	_	_	
+7-2	153-154	.	_	_	
+
+#Text=C.
+8-1	155-156	C	_	_	
+8-2	156-157	.	_	_	
+
+#Text=Walkers ketch William foundered on the 29th ult. off Swanage.
+9-1	158-165	Walkers	_	_	
+9-2	166-171	ketch	_	_	
+9-3	172-179	William	_	_	
+9-4	180-189	foundered	_	_	
+9-5	190-192	on	_	_	
+9-6	193-196	the	_	_	
+9-7	197-201	29th	_	_	
+9-8	202-205	ult	_	_	
+9-9	205-206	.	_	_	
+9-10	207-210	off	_	_	
+9-11	211-218	Swanage	https://en.wikipedia.org/wiki/Swanage	LOC	
+9-12	218-219	.	_	_	
+
+#Text=The crew, Sydney Alford and William Gandry, took to the boat, and were shortly after picked up by a Danish vessel, bound for Swansea.
+10-1	220-223	The	_	_	
+10-2	224-228	crew	_	_	
+10-3	228-229	,	_	_	
+10-4	230-236	Sydney	_	_	
+10-5	237-243	Alford	_	_	
+10-6	244-247	and	_	_	
+10-7	248-255	William	_	_	
+10-8	256-262	Gandry	_	_	
+10-9	262-263	,	_	_	
+10-10	264-268	took	_	_	
+10-11	269-271	to	_	_	
+10-12	272-275	the	_	_	
+10-13	276-280	boat	_	_	
+10-14	280-281	,	_	_	
+10-15	282-285	and	_	_	
+10-16	286-290	were	_	_	
+10-17	291-298	shortly	_	_	
+10-18	299-304	after	_	_	
+10-19	305-311	picked	_	_	
+10-20	312-314	up	_	_	
+10-21	315-317	by	_	_	
+10-22	318-319	a	_	_	
+10-23	320-326	Danish	_	_	
+10-24	327-333	vessel	_	_	
+10-25	333-334	,	_	_	
+10-26	335-340	bound	_	_	
+10-27	341-344	for	_	_	
+10-28	345-352	Swansea	https://en.wikipedia.org/wiki/Swansea	LOC	
+10-29	352-353	.	_	_	
+
+#Text=They were very kindly treated, and put ashore at Plymouth.
+11-1	354-358	They	_	_	
+11-2	359-363	were	_	_	
+11-3	364-368	very	_	_	
+11-4	369-375	kindly	_	_	
+11-5	376-383	treated	_	_	
+11-6	383-384	,	_	_	
+11-7	385-388	and	_	_	
+11-8	389-392	put	_	_	
+11-9	393-399	ashore	_	_	
+11-10	400-402	at	_	_	
+11-11	403-411	Plymouth	https://en.wikipedia.org/wiki/Plymouth	LOC	
+11-12	411-412	.	_	_	
+
+#Text=Penny Readings.— The first of these entertainments for this year took place on Friday evening at the Masonic Hall.
+12-1	413-418	Penny	_	_	
+12-2	419-427	Readings	_	_	
+12-3	427-428	.	_	_	
+12-4	428-429	—	_	_	
+12-5	430-433	The	_	_	
+12-6	434-439	first	_	_	
+12-7	440-442	of	_	_	
+12-8	443-448	these	_	_	
+12-9	449-463	entertainments	_	_	
+12-10	464-467	for	_	_	
+12-11	468-472	this	_	_	
+12-12	473-477	year	_	_	
+12-13	478-482	took	_	_	
+12-14	483-488	place	_	_	
+12-15	489-491	on	_	_	
+12-16	492-498	Friday	_	_	
+12-17	499-506	evening	_	_	
+12-18	507-509	at	_	_	
+12-19	510-513	the	_	_	
+12-20	514-521	Masonic	*[2]	BUILDING[2]	
+12-21	522-526	Hall	*[2]	BUILDING[2]	
+12-22	526-527	.	_	_	
+
+#Text=The programme was as follows :—Polka, "The British Volunteers," full band; "The Winter Evening" (Cooper), read by Mr.
+13-1	528-531	The	_	_	
+13-2	532-541	programme	_	_	
+13-3	542-545	was	_	_	
+13-4	546-548	as	_	_	
+13-5	549-556	follows	_	_	
+13-6	557-558	:	_	_	
+13-7	558-559	—	_	_	
+13-8	559-564	Polka	_	_	
+13-9	564-565	,	_	_	
+13-10	566-567	"	_	_	
+13-11	567-570	The	_	_	
+13-12	571-578	British	_	_	
+13-13	579-589	Volunteers	_	_	
+13-14	589-590	,	_	_	
+13-15	590-591	"	_	_	
+13-16	592-596	full	_	_	
+13-17	597-601	band	_	_	
+13-18	601-602	;	_	_	
+13-19	603-604	"	_	_	
+13-20	604-607	The	_	_	
+13-21	608-614	Winter	_	_	
+13-22	615-622	Evening	_	_	
+13-23	622-623	"	_	_	
+13-24	624-625	(	_	_	
+13-25	625-631	Cooper	_	_	
+13-26	631-632	)	_	_	
+13-27	632-633	,	_	_	
+13-28	634-638	read	_	_	
+13-29	639-641	by	_	_	
+13-30	642-644	Mr	_	_	
+13-31	644-645	.	_	_	
+
+#Text=Atkins ; glee, " Lifes a Bumper;" "The London Tailor" (Anon), read by Mr.
+14-1	646-652	Atkins	_	_	
+14-2	653-654	;	_	_	
+14-3	655-659	glee	_	_	
+14-4	659-660	,	_	_	
+14-5	661-662	"	_	_	
+14-6	663-668	Lifes	_	_	
+14-7	669-670	a	_	_	
+14-8	671-677	Bumper	_	_	
+14-9	677-678	;	_	_	
+14-10	678-679	"	_	_	
+14-11	680-681	"	_	_	
+14-12	681-684	The	_	_	
+14-13	685-691	London	https://en.wikipedia.org/wiki/London	LOC	
+14-14	692-698	Tailor	_	_	
+14-15	698-699	"	_	_	
+14-16	700-701	(	_	_	
+14-17	701-705	Anon	_	_	
+14-18	705-706	)	_	_	
+14-19	706-707	,	_	_	
+14-20	708-712	read	_	_	
+14-21	713-715	by	_	_	
+14-22	716-718	Mr	_	_	
+14-23	718-719	.	_	_	
+
+#Text=R.
+15-1	720-721	R	_	_	
+15-2	721-722	.	_	_	
+
+#Text=B.
+16-1	723-724	B	_	_	
+16-2	724-725	.	_	_	
+
+#Text=Lowers ; quick march, " The Forester," full band ; song and chorus, " Come where my love lies dreaming ;" extract from " Julius Cassar" (Shakspeare), read by Mr.
+17-1	726-732	Lowers	_	_	
+17-2	733-734	;	_	_	
+17-3	735-740	quick	_	_	
+17-4	741-746	march	_	_	
+17-5	746-747	,	_	_	
+17-6	748-749	"	_	_	
+17-7	750-753	The	_	_	
+17-8	754-762	Forester	_	_	
+17-9	762-763	,	_	_	
+17-10	763-764	"	_	_	
+17-11	765-769	full	_	_	
+17-12	770-774	band	_	_	
+17-13	775-776	;	_	_	
+17-14	777-781	song	_	_	
+17-15	782-785	and	_	_	
+17-16	786-792	chorus	_	_	
+17-17	792-793	,	_	_	
+17-18	794-795	"	_	_	
+17-19	796-800	Come	_	_	
+17-20	801-806	where	_	_	
+17-21	807-809	my	_	_	
+17-22	810-814	love	_	_	
+17-23	815-819	lies	_	_	
+17-24	820-828	dreaming	_	_	
+17-25	829-830	;	_	_	
+17-26	830-831	"	_	_	
+17-27	832-839	extract	_	_	
+17-28	840-844	from	_	_	
+17-29	845-846	"	_	_	
+17-30	847-853	Julius	_	_	
+17-31	854-860	Cassar	_	_	
+17-32	860-861	"	_	_	
+17-33	862-863	(	_	_	
+17-34	863-873	Shakspeare	_	_	
+17-35	873-874	)	_	_	
+17-36	874-875	,	_	_	
+17-37	876-880	read	_	_	
+17-38	881-883	by	_	_	
+17-39	884-886	Mr	_	_	
+17-40	886-887	.	_	_	
+
+#Text=Woodman ; solo, cornet-a-piston ; trio, " Yes, Brothers, Yes ;" "The Winking Bachelor" (Anon), read by Mr.
+18-1	888-895	Woodman	_	_	
+18-2	896-897	;	_	_	
+18-3	898-902	solo	_	_	
+18-4	902-903	,	_	_	
+18-5	904-919	cornet-a-piston	_	_	
+18-6	920-921	;	_	_	
+18-7	922-926	trio	_	_	
+18-8	926-927	,	_	_	
+18-9	928-929	"	_	_	
+18-10	930-933	Yes	_	_	
+18-11	933-934	,	_	_	
+18-12	935-943	Brothers	_	_	
+18-13	943-944	,	_	_	
+18-14	945-948	Yes	_	_	
+18-15	949-950	;	_	_	
+18-16	950-951	"	_	_	
+18-17	952-953	"	_	_	
+18-18	953-956	The	_	_	
+18-19	957-964	Winking	_	_	
+18-20	965-973	Bachelor	_	_	
+18-21	973-974	"	_	_	
+18-22	975-976	(	_	_	
+18-23	976-980	Anon	_	_	
+18-24	980-981	)	_	_	
+18-25	981-982	,	_	_	
+18-26	983-987	read	_	_	
+18-27	988-990	by	_	_	
+18-28	991-993	Mr	_	_	
+18-29	993-994	.	_	_	
+
+#Text=R.
+19-1	995-996	R	_	_	
+19-2	996-997	.	_	_	
+
+#Text=Radford ; selection, full band.
+20-1	998-1005	Radford	_	_	
+20-2	1006-1007	;	_	_	
+20-3	1008-1017	selection	_	_	
+20-4	1017-1018	,	_	_	
+20-5	1019-1023	full	_	_	
+20-6	1024-1028	band	_	_	
+20-7	1028-1029	.	_	_	
+
+#Text=The room was crowded, under the presidency of the worshipful the Mayor.
+21-1	1030-1033	The	_	_	
+21-2	1034-1038	room	_	_	
+21-3	1039-1042	was	_	_	
+21-4	1043-1050	crowded	_	_	
+21-5	1050-1051	,	_	_	
+21-6	1052-1057	under	_	_	
+21-7	1058-1061	the	_	_	
+21-8	1062-1072	presidency	_	_	
+21-9	1073-1075	of	_	_	
+21-10	1076-1079	the	_	_	
+21-11	1080-1090	worshipful	_	_	
+21-12	1091-1094	the	_	_	
+21-13	1095-1100	Mayor	_	_	
+21-14	1100-1101	.	_	_	
+
+#Text=Magisterial.
+22-1	1102-1113	Magisterial	_	_	
+22-2	1113-1114	.	_	_	
+
+#Text=—Tuesday : Before the Mayor (S.
+23-1	1114-1115	—	_	_	
+23-2	1115-1122	Tuesday	_	_	
+23-3	1123-1124	:	_	_	
+23-4	1125-1131	Before	_	_	
+23-5	1132-1135	the	_	_	
+23-6	1136-1141	Mayor	_	_	
+23-7	1142-1143	(	_	_	
+23-8	1143-1144	S	_	_	
+23-9	1144-1145	.	_	_	
+
+#Text=Osborn, Esq.), and Major Hinton.
+24-1	1146-1152	Osborn	_	_	
+24-2	1152-1153	,	_	_	
+24-3	1154-1157	Esq	_	_	
+24-4	1157-1158	.	_	_	
+24-5	1158-1159	)	_	_	
+24-6	1159-1160	,	_	_	
+24-7	1161-1164	and	_	_	
+24-8	1165-1170	Major	_	_	
+24-9	1171-1177	Hinton	_	_	
+24-10	1177-1178	.	_	_	
+
+#Text=—llicliard Williams, mail contractor, was summoned by Mary Ann Cornish for an assault, and her husband was summoned for a like offence.
+25-1	1178-1179	—	_	_	
+25-2	1179-1188	llicliard	_	_	
+25-3	1189-1197	Williams	_	_	
+25-4	1197-1198	,	_	_	
+25-5	1199-1203	mail	_	_	
+25-6	1204-1214	contractor	_	_	
+25-7	1214-1215	,	_	_	
+25-8	1216-1219	was	_	_	
+25-9	1220-1228	summoned	_	_	
+25-10	1229-1231	by	_	_	
+25-11	1232-1236	Mary	_	_	
+25-12	1237-1240	Ann	_	_	
+25-13	1241-1248	Cornish	_	_	
+25-14	1249-1252	for	_	_	
+25-15	1253-1255	an	_	_	
+25-16	1256-1263	assault	_	_	
+25-17	1263-1264	,	_	_	
+25-18	1265-1268	and	_	_	
+25-19	1269-1272	her	_	_	
+25-20	1273-1280	husband	_	_	
+25-21	1281-1284	was	_	_	
+25-22	1285-1293	summoned	_	_	
+25-23	1294-1297	for	_	_	
+25-24	1298-1299	a	_	_	
+25-25	1300-1304	like	_	_	
+25-26	1305-1312	offence	_	_	
+25-27	1312-1313	.	_	_	
+
+#Text=—These being cross summonses, both parties were cautioned and ordered to pay their own expenses.
+26-1	1313-1314	—	_	_	
+26-2	1314-1319	These	_	_	
+26-3	1320-1325	being	_	_	
+26-4	1326-1331	cross	_	_	
+26-5	1332-1341	summonses	_	_	
+26-6	1341-1342	,	_	_	
+26-7	1343-1347	both	_	_	
+26-8	1348-1355	parties	_	_	
+26-9	1356-1360	were	_	_	
+26-10	1361-1370	cautioned	_	_	
+26-11	1371-1374	and	_	_	
+26-12	1375-1382	ordered	_	_	
+26-13	1383-1385	to	_	_	
+26-14	1386-1389	pay	_	_	
+26-15	1390-1395	their	_	_	
+26-16	1396-1399	own	_	_	
+26-17	1400-1408	expenses	_	_	
+26-18	1408-1409	.	_	_	
+
+#Text=Ships Arrived.
+27-1	1410-1415	Ships	_	_	
+27-2	1416-1423	Arrived	_	_	
+27-3	1423-1424	.	_	_	
+
+#Text=—Collingwood, Clarke ; Ann and Elizabeth, Young, Cowes.
+28-1	1424-1425	—	_	_	
+28-2	1425-1436	Collingwood	_	_	
+28-3	1436-1437	,	_	_	
+28-4	1438-1444	Clarke	_	_	
+28-5	1445-1446	;	_	_	
+28-6	1447-1450	Ann	_	_	
+28-7	1451-1454	and	_	_	
+28-8	1455-1464	Elizabeth	_	_	
+28-9	1464-1465	,	_	_	
+28-10	1466-1471	Young	_	_	
+28-11	1471-1472	,	_	_	
+28-12	1473-1478	Cowes	https://en.wikipedia.org/wiki/Cowes	LOC	
+28-13	1478-1479	.	_	_	
+
+#Text=Alice Jane, Holten ; William and Ann, Holten ; Emerald, Coombs, Portsmouth.
+29-1	1480-1485	Alice	_	_	
+29-2	1486-1490	Jane	_	_	
+29-3	1490-1491	,	_	_	
+29-4	1492-1498	Holten	_	_	
+29-5	1499-1500	;	_	_	
+29-6	1501-1508	William	_	_	
+29-7	1509-1512	and	_	_	
+29-8	1513-1516	Ann	_	_	
+29-9	1516-1517	,	_	_	
+29-10	1518-1524	Holten	_	_	
+29-11	1525-1526	;	_	_	
+29-12	1527-1534	Emerald	_	_	
+29-13	1534-1535	,	_	_	
+29-14	1536-1542	Coombs	_	_	
+29-15	1542-1543	,	_	_	
+29-16	1544-1554	Portsmouth	https://en.wikipedia.org/wiki/Portsmouth	LOC	
+29-17	1554-1555	.	_	_	
+
+#Text=Alert, Torzel, Jersey.
+30-1	1556-1561	Alert	_	_	
+30-2	1561-1562	,	_	_	
+30-3	1563-1569	Torzel	_	_	
+30-4	1569-1570	,	_	_	
+30-5	1571-1577	Jersey	https://en.wikipedia.org/wiki/Jersey	LOC	
+30-6	1577-1578	.	_	_	
+
+#Text=Adolphus, Bridle, Plymouth.
+31-1	1579-1587	Adolphus	_	_	
+31-2	1587-1588	,	_	_	
+31-3	1589-1595	Bridle	_	_	
+31-4	1595-1596	,	_	_	
+31-5	1597-1605	Plymouth	https://en.wikipedia.org/wiki/Plymouth	LOC	
+31-6	1605-1606	.	_	_	
+
+#Text=Tartar, Fowler ; Majestic, Pulsford, Newcastle.
+32-1	1607-1613	Tartar	_	_	
+32-2	1613-1614	,	_	_	
+32-3	1615-1621	Fowler	_	_	
+32-4	1622-1623	;	_	_	
+32-5	1624-1632	Majestic	_	_	
+32-6	1632-1633	,	_	_	
+32-7	1634-1642	Pulsford	_	_	
+32-8	1642-1643	,	_	_	
+32-9	1644-1653	Newcastle	https://en.wikipedia.org/wiki/Newcastle\_upon\_Tyne	LOC	
+32-10	1653-1654	.	_	_	
+
+#Text=Heart of Oak, Searle, Torquay.
+33-1	1655-1660	Heart	_	_	
+33-2	1661-1663	of	_	_	
+33-3	1664-1667	Oak	_	_	
+33-4	1667-1668	,	_	_	
+33-5	1669-1675	Searle	_	_	
+33-6	1675-1676	,	_	_	
+33-7	1677-1684	Torquay	https://en.wikipedia.org/wiki/Torquay	LOC	
+33-8	1684-1685	.	_	_	
+
+#Text=Sailed.— Clarence, Love, Hull.
+34-1	1686-1692	Sailed	_	_	
+34-2	1692-1693	.	_	_	
+34-3	1693-1694	—	_	_	
+34-4	1695-1703	Clarence	_	_	
+34-5	1703-1704	,	_	_	
+34-6	1705-1709	Love	_	_	
+34-7	1709-1710	,	_	_	
+34-8	1711-1715	Hull	https://en.wikipedia.org/wiki/Kingston\_upon\_Hull	LOC	
+34-9	1715-1716	.	_	_	
+
+#Text=Ann and Elizabeth, Young, Cowes. _ Cito, Jacobson, Hamburg.
+35-1	1717-1720	Ann	_	_	
+35-2	1721-1724	and	_	_	
+35-3	1725-1734	Elizabeth	_	_	
+35-4	1734-1735	,	_	_	
+35-5	1736-1741	Young	_	_	
+35-6	1741-1742	,	_	_	
+35-7	1743-1748	Cowes	https://en.wikipedia.org/wiki/Cowes	LOC	
+35-8	1748-1749	.	_	_	
+35-9	1750-1751	_	_	_	
+35-10	1752-1756	Cito	_	_	
+35-11	1756-1757	,	_	_	
+35-12	1758-1766	Jacobson	_	_	
+35-13	1766-1767	,	_	_	
+35-14	1768-1775	Hamburg	https://en.wikipedia.org/wiki/Hamburg	LOC	
+35-15	1775-1776	.	_	_	
+
+#Text=Pentervan, Toms ; Active, Holten; Helen, Holten ; Plyin, Ellis ; Alice Jane, Holten ; William and Ann, Holten ; Emerald, Coombs, Plymouth.
+36-1	1777-1786	Pentervan	_	_	
+36-2	1786-1787	,	_	_	
+36-3	1788-1792	Toms	_	_	
+36-4	1793-1794	;	_	_	
+36-5	1795-1801	Active	_	_	
+36-6	1801-1802	,	_	_	
+36-7	1803-1809	Holten	_	_	
+36-8	1809-1810	;	_	_	
+36-9	1811-1816	Helen	_	_	
+36-10	1816-1817	,	_	_	
+36-11	1818-1824	Holten	_	_	
+36-12	1825-1826	;	_	_	
+36-13	1827-1832	Plyin	_	_	
+36-14	1832-1833	,	_	_	
+36-15	1834-1839	Ellis	_	_	
+36-16	1840-1841	;	_	_	
+36-17	1842-1847	Alice	_	_	
+36-18	1848-1852	Jane	_	_	
+36-19	1852-1853	,	_	_	
+36-20	1854-1860	Holten	_	_	
+36-21	1861-1862	;	_	_	
+36-22	1863-1870	William	_	_	
+36-23	1871-1874	and	_	_	
+36-24	1875-1878	Ann	_	_	
+36-25	1878-1879	,	_	_	
+36-26	1880-1886	Holten	_	_	
+36-27	1887-1888	;	_	_	
+36-28	1889-1896	Emerald	_	_	
+36-29	1896-1897	,	_	_	
+36-30	1898-1904	Coombs	_	_	
+36-31	1904-1905	,	_	_	
+36-32	1906-1914	Plymouth	https://en.wikipedia.org/wiki/Plymouth	LOC	
+36-33	1914-1915	.	_	_	

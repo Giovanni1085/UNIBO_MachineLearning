@@ -1,0 +1,605 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=OUR ELECTRIC DISPATCH.
+1-1	0-3	OUR	_	_	
+1-2	4-12	ELECTRIC	_	_	
+1-3	13-21	DISPATCH	_	_	
+1-4	21-22	.	_	_	
+
+#Text=fEeuters Telegram.)
+2-1	24-32	fEeuters	_	_	
+2-2	33-41	Telegram	_	_	
+2-3	41-42	.	_	_	
+2-4	42-43	)	_	_	
+
+#Text=Wednesday, 6 p.m.
+3-1	44-53	Wednesday	_	_	
+3-2	53-54	,	_	_	
+3-3	55-56	6	_	_	
+3-4	57-60	p.m	_	_	
+3-5	60-61	.	_	_	
+
+#Text=THE AMERICAN TELEGRAM.
+4-1	62-65	THE	_	_	
+4-2	66-74	AMERICAN	_	_	
+4-3	75-83	TELEGRAM	_	_	
+4-4	83-84	.	_	_	
+
+#Text=[We have received the annexed, per Electric and International Telegraph Company, as part of our ordinary despatch ; but it is evidently only another version of the Manchester Examiners telegram, commented on in our leading article.
+5-1	85-86	[	_	_	
+5-2	86-88	We	_	_	
+5-3	89-93	have	_	_	
+5-4	94-102	received	_	_	
+5-5	103-106	the	_	_	
+5-6	107-114	annexed	_	_	
+5-7	114-115	,	_	_	
+5-8	116-119	per	_	_	
+5-9	120-128	Electric	_	_	
+5-10	129-132	and	_	_	
+5-11	133-146	International	_	_	
+5-12	147-156	Telegraph	_	_	
+5-13	157-164	Company	_	_	
+5-14	164-165	,	_	_	
+5-15	166-168	as	_	_	
+5-16	169-173	part	_	_	
+5-17	174-176	of	_	_	
+5-18	177-180	our	_	_	
+5-19	181-189	ordinary	_	_	
+5-20	190-198	despatch	_	_	
+5-21	199-200	;	_	_	
+5-22	201-204	but	_	_	
+5-23	205-207	it	_	_	
+5-24	208-210	is	_	_	
+5-25	211-220	evidently	_	_	
+5-26	221-225	only	_	_	
+5-27	226-233	another	_	_	
+5-28	234-241	version	_	_	
+5-29	242-244	of	_	_	
+5-30	245-248	the	_	_	
+5-31	249-259	Manchester	https://en.wikipedia.org/wiki/Manchester	LOC	
+5-32	260-269	Examiners	_	_	
+5-33	270-278	telegram	_	_	
+5-34	278-279	,	_	_	
+5-35	280-289	commented	_	_	
+5-36	290-292	on	_	_	
+5-37	293-295	in	_	_	
+5-38	296-299	our	_	_	
+5-39	300-307	leading	_	_	
+5-40	308-315	article	_	_	
+5-41	315-316	.	_	_	
+
+#Text=—Ed.]
+6-1	316-317	—	_	_	
+6-2	317-319	Ed	_	_	
+6-3	319-320	.	_	_	
+6-4	320-321	]	_	_	
+
+#Text=New York, Oct. 21.—0n tho 19th Longstreet attacked Sheridan during a dense fog, before daylight, turning and driving most of his line in confusion, and capturing 20 guns.
+7-1	322-325	New	https://en.wikipedia.org/wiki/New\_York\_City[1]	LOC[1]	
+7-2	326-330	York	https://en.wikipedia.org/wiki/New\_York\_City[1]	LOC[1]	
+7-3	330-331	,	_	_	
+7-4	332-335	Oct	_	_	
+7-5	335-336	.	_	_	
+7-6	337-339	21	_	_	
+7-7	339-340	.	_	_	
+7-8	340-341	—	_	_	
+7-9	341-343	0n	_	_	
+7-10	344-347	tho	_	_	
+7-11	348-352	19th	_	_	
+7-12	353-363	Longstreet	_	_	
+7-13	364-372	attacked	_	_	
+7-14	373-381	Sheridan	_	_	
+7-15	382-388	during	_	_	
+7-16	389-390	a	_	_	
+7-17	391-396	dense	_	_	
+7-18	397-400	fog	_	_	
+7-19	400-401	,	_	_	
+7-20	402-408	before	_	_	
+7-21	409-417	daylight	_	_	
+7-22	417-418	,	_	_	
+7-23	419-426	turning	_	_	
+7-24	427-430	and	_	_	
+7-25	431-438	driving	_	_	
+7-26	439-443	most	_	_	
+7-27	444-446	of	_	_	
+7-28	447-450	his	_	_	
+7-29	451-455	line	_	_	
+7-30	456-458	in	_	_	
+7-31	459-468	confusion	_	_	
+7-32	468-469	,	_	_	
+7-33	470-473	and	_	_	
+7-34	474-483	capturing	_	_	
+7-35	484-486	20	_	_	
+7-36	487-491	guns	_	_	
+7-37	491-492	.	_	_	
+
+#Text=Sheridan rallied his troops, formed Hue of battle, and defeated tbe Confederates in the afternoou, capturing 50 guns, including those previously taken by the Confederates, and 1,600 prisoners.
+8-1	493-501	Sheridan	_	_	
+8-2	502-509	rallied	_	_	
+8-3	510-513	his	_	_	
+8-4	514-520	troops	_	_	
+8-5	520-521	,	_	_	
+8-6	522-528	formed	_	_	
+8-7	529-532	Hue	_	_	
+8-8	533-535	of	_	_	
+8-9	536-542	battle	_	_	
+8-10	542-543	,	_	_	
+8-11	544-547	and	_	_	
+8-12	548-556	defeated	_	_	
+8-13	557-560	tbe	_	_	
+8-14	561-573	Confederates	_	_	
+8-15	574-576	in	_	_	
+8-16	577-580	the	_	_	
+8-17	581-590	afternoou	_	_	
+8-18	590-591	,	_	_	
+8-19	592-601	capturing	_	_	
+8-20	602-604	50	_	_	
+8-21	605-609	guns	_	_	
+8-22	609-610	,	_	_	
+8-23	611-620	including	_	_	
+8-24	621-626	those	_	_	
+8-25	627-637	previously	_	_	
+8-26	638-643	taken	_	_	
+8-27	644-646	by	_	_	
+8-28	647-650	the	_	_	
+8-29	651-663	Confederates	_	_	
+8-30	663-664	,	_	_	
+8-31	665-668	and	_	_	
+8-32	669-674	1,600	_	_	
+8-33	675-684	prisoners	_	_	
+8-34	684-685	.	_	_	
+
+#Text=Gold, 109.
+9-1	686-690	Gold	_	_	
+9-2	690-691	,	_	_	
+9-3	692-695	109	_	_	
+9-4	695-696	.	_	_	
+
+#Text=LONDON CORN MARKET* (From Kingsford and Lags Circular.)
+10-1	697-703	LONDON	https://en.wikipedia.org/wiki/London	LOC	
+10-2	704-708	CORN	_	_	
+10-3	709-715	MARKET	_	_	
+10-4	715-716	*	_	_	
+10-5	717-718	(	_	_	
+10-6	718-722	From	_	_	
+10-7	723-732	Kingsford	_	_	
+10-8	733-736	and	_	_	
+10-9	737-741	Lags	_	_	
+10-10	742-750	Circular	_	_	
+10-11	750-751	.	_	_	
+10-12	751-752	)	_	_	
+
+#Text=This Day.
+11-1	753-757	This	_	_	
+11-2	758-761	Day	_	_	
+11-3	761-762	.	_	_	
+
+#Text=—Small attendance.
+12-1	762-763	—	_	_	
+12-2	763-768	Small	_	_	
+12-3	769-779	attendance	_	_	
+12-4	779-780	.	_	_	
+
+#Text=English and foreign wheat nominally as on Monday.
+13-1	781-788	English	_	_	
+13-2	789-792	and	_	_	
+13-3	793-800	foreign	_	_	
+13-4	801-806	wheat	_	_	
+13-5	807-816	nominally	_	_	
+13-6	817-819	as	_	_	
+13-7	820-822	on	_	_	
+13-8	823-829	Monday	_	_	
+13-9	829-830	.	_	_	
+
+#Text=Spring corn unaltered.
+14-1	831-837	Spring	_	_	
+14-2	838-842	corn	_	_	
+14-3	843-852	unaltered	_	_	
+14-4	852-853	.	_	_	
+
+#Text=LATEST MARKET REPORTS.
+15-1	854-860	LATEST	_	_	
+15-2	861-867	MARKET	_	_	
+15-3	868-875	REPORTS	_	_	
+15-4	875-876	.	_	_	
+
+#Text=Leeds, Nov.
+16-1	877-882	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+16-2	882-883	,	_	_	
+16-3	884-887	Nov	_	_	
+16-4	887-888	.	_	_	
+
+#Text=I.
+17-1	889-890	I	_	_	
+17-2	890-891	.	_	_	
+
+#Text=—The arrivals of grain this week are not large.
+18-1	891-892	—	_	_	
+18-2	892-895	The	_	_	
+18-3	896-904	arrivals	_	_	
+18-4	905-907	of	_	_	
+18-5	908-913	grain	_	_	
+18-6	914-918	this	_	_	
+18-7	919-923	week	_	_	
+18-8	924-927	are	_	_	
+18-9	928-931	not	_	_	
+18-10	932-937	large	_	_	
+18-11	937-938	.	_	_	
+
+#Text=The wheat trade to-day is only slow.
+19-1	939-942	The	_	_	
+19-2	943-948	wheat	_	_	
+19-3	949-954	trade	_	_	
+19-4	955-961	to-day	_	_	
+19-5	962-964	is	_	_	
+19-6	965-969	only	_	_	
+19-7	970-974	slow	_	_	
+19-8	974-975	.	_	_	
+
+#Text=Still our millers have to give last weeks prices to enable them to supply their wants.
+20-1	976-981	Still	_	_	
+20-2	982-985	our	_	_	
+20-3	986-993	millers	_	_	
+20-4	994-998	have	_	_	
+20-5	999-1001	to	_	_	
+20-6	1002-1006	give	_	_	
+20-7	1007-1011	last	_	_	
+20-8	1012-1017	weeks	_	_	
+20-9	1018-1024	prices	_	_	
+20-10	1025-1027	to	_	_	
+20-11	1028-1034	enable	_	_	
+20-12	1035-1039	them	_	_	
+20-13	1040-1042	to	_	_	
+20-14	1043-1049	supply	_	_	
+20-15	1050-1055	their	_	_	
+20-16	1056-1061	wants	_	_	
+20-17	1061-1062	.	_	_	
+
+#Text=Barley without change.
+21-1	1063-1069	Barley	_	_	
+21-2	1070-1077	without	_	_	
+21-3	1078-1084	change	_	_	
+21-4	1084-1085	.	_	_	
+
+#Text=Oats and beans a little cheaper.
+22-1	1086-1090	Oats	_	_	
+22-2	1091-1094	and	_	_	
+22-3	1095-1100	beans	_	_	
+22-4	1101-1102	a	_	_	
+22-5	1103-1109	little	_	_	
+22-6	1110-1117	cheaper	_	_	
+22-7	1117-1118	.	_	_	
+
+#Text=Bristol, Nov.
+23-1	1119-1126	Bristol	https://en.wikipedia.org/wiki/Bristol	LOC	
+23-2	1126-1127	,	_	_	
+23-3	1128-1131	Nov	_	_	
+23-4	1131-1132	.	_	_	
+
+#Text=I.
+24-1	1133-1134	I	_	_	
+24-2	1134-1135	.	_	_	
+
+#Text=—At our market there was a good attendance of country buyers, and a decidedly better feeling in wheat.
+25-1	1135-1136	—	_	_	
+25-2	1136-1138	At	_	_	
+25-3	1139-1142	our	_	_	
+25-4	1143-1149	market	_	_	
+25-5	1150-1155	there	_	_	
+25-6	1156-1159	was	_	_	
+25-7	1160-1161	a	_	_	
+25-8	1162-1166	good	_	_	
+25-9	1167-1177	attendance	_	_	
+25-10	1178-1180	of	_	_	
+25-11	1181-1188	country	_	_	
+25-12	1189-1195	buyers	_	_	
+25-13	1195-1196	,	_	_	
+25-14	1197-1200	and	_	_	
+25-15	1201-1202	a	_	_	
+25-16	1203-1212	decidedly	_	_	
+25-17	1213-1219	better	_	_	
+25-18	1220-1227	feeling	_	_	
+25-19	1228-1230	in	_	_	
+25-20	1231-1236	wheat	_	_	
+25-21	1236-1237	.	_	_	
+
+#Text=Transactions occurred at prices unobtainable last week.
+26-1	1238-1250	Transactions	_	_	
+26-2	1251-1259	occurred	_	_	
+26-3	1260-1262	at	_	_	
+26-4	1263-1269	prices	_	_	
+26-5	1270-1282	unobtainable	_	_	
+26-6	1283-1287	last	_	_	
+26-7	1288-1292	week	_	_	
+26-8	1292-1293	.	_	_	
+
+#Text=Barley dull; beans and peas firm ; oats trifle dearer, if these easterly winds continue our supply will off, and they will go dearer.
+27-1	1294-1300	Barley	_	_	
+27-2	1301-1305	dull	_	_	
+27-3	1305-1306	;	_	_	
+27-4	1307-1312	beans	_	_	
+27-5	1313-1316	and	_	_	
+27-6	1317-1321	peas	_	_	
+27-7	1322-1326	firm	_	_	
+27-8	1327-1328	;	_	_	
+27-9	1329-1333	oats	_	_	
+27-10	1334-1340	trifle	_	_	
+27-11	1341-1347	dearer	_	_	
+27-12	1347-1348	,	_	_	
+27-13	1349-1351	if	_	_	
+27-14	1352-1357	these	_	_	
+27-15	1358-1366	easterly	_	_	
+27-16	1367-1372	winds	_	_	
+27-17	1373-1381	continue	_	_	
+27-18	1382-1385	our	_	_	
+27-19	1386-1392	supply	_	_	
+27-20	1393-1397	will	_	_	
+27-21	1398-1401	off	_	_	
+27-22	1401-1402	,	_	_	
+27-23	1403-1406	and	_	_	
+27-24	1407-1411	they	_	_	
+27-25	1412-1416	will	_	_	
+27-26	1417-1419	go	_	_	
+27-27	1420-1426	dearer	_	_	
+27-28	1426-1427	.	_	_	
+
+#Text=Maize extremely quiet.
+28-1	1428-1433	Maize	_	_	
+28-2	1434-1443	extremely	_	_	
+28-3	1444-1449	quiet	_	_	
+28-4	1449-1450	.	_	_	
+
+#Text=Birmingham, Nov.
+29-1	1451-1461	Birmingham	https://en.wikipedia.org/wiki/Birmingham	LOC	
+29-2	1461-1462	,	_	_	
+29-3	1463-1466	Nov	_	_	
+29-4	1466-1467	.	_	_	
+
+#Text=I.
+30-1	1468-1469	I	_	_	
+30-2	1469-1470	.	_	_	
+
+#Text=—We received a good supply of beasts on offer this day, which met a fair inquiry, at about late quotations.
+31-1	1470-1471	—	_	_	
+31-2	1471-1473	We	_	_	
+31-3	1474-1482	received	_	_	
+31-4	1483-1484	a	_	_	
+31-5	1485-1489	good	_	_	
+31-6	1490-1496	supply	_	_	
+31-7	1497-1499	of	_	_	
+31-8	1500-1506	beasts	_	_	
+31-9	1507-1509	on	_	_	
+31-10	1510-1515	offer	_	_	
+31-11	1516-1520	this	_	_	
+31-12	1521-1524	day	_	_	
+31-13	1524-1525	,	_	_	
+31-14	1526-1531	which	_	_	
+31-15	1532-1535	met	_	_	
+31-16	1536-1537	a	_	_	
+31-17	1538-1542	fair	_	_	
+31-18	1543-1550	inquiry	_	_	
+31-19	1550-1551	,	_	_	
+31-20	1552-1554	at	_	_	
+31-21	1555-1560	about	_	_	
+31-22	1561-1565	late	_	_	
+31-23	1566-1576	quotations	_	_	
+31-24	1576-1577	.	_	_	
+
+#Text=Sheep were a good time of year supply, the trade steady without alteration in prices.
+32-1	1578-1583	Sheep	_	_	
+32-2	1584-1588	were	_	_	
+32-3	1589-1590	a	_	_	
+32-4	1591-1595	good	_	_	
+32-5	1596-1600	time	_	_	
+32-6	1601-1603	of	_	_	
+32-7	1604-1608	year	_	_	
+32-8	1609-1615	supply	_	_	
+32-9	1615-1616	,	_	_	
+32-10	1617-1620	the	_	_	
+32-11	1621-1626	trade	_	_	
+32-12	1627-1633	steady	_	_	
+32-13	1634-1641	without	_	_	
+32-14	1642-1652	alteration	_	_	
+32-15	1653-1655	in	_	_	
+32-16	1656-1662	prices	_	_	
+32-17	1662-1663	.	_	_	
+
+#Text=Pat pigs a large supply : demand steady, at lower prices.
+33-1	1664-1667	Pat	_	_	
+33-2	1668-1672	pigs	_	_	
+33-3	1673-1674	a	_	_	
+33-4	1675-1680	large	_	_	
+33-5	1681-1687	supply	_	_	
+33-6	1688-1689	:	_	_	
+33-7	1690-1696	demand	_	_	
+33-8	1697-1703	steady	_	_	
+33-9	1703-1704	,	_	_	
+33-10	1705-1707	at	_	_	
+33-11	1708-1713	lower	_	_	
+33-12	1714-1720	prices	_	_	
+33-13	1720-1721	.	_	_	
+
+#Text=Beef, od. to 7d. per lb.; wether mutton, 7*d. to Bid.; ewes, 7d. to 7£d.; bacon pigs, Bs. to 9s. per score; porkets ditto, 9s. 6d. to 10s.
+34-1	1722-1726	Beef	_	_	
+34-2	1726-1727	,	_	_	
+34-3	1728-1730	od	_	_	
+34-4	1730-1731	.	_	_	
+34-5	1732-1734	to	_	_	
+34-6	1735-1737	7d	_	_	
+34-7	1737-1738	.	_	_	
+34-8	1739-1742	per	_	_	
+34-9	1743-1745	lb	_	_	
+34-10	1745-1746	.	_	_	
+34-11	1746-1747	;	_	_	
+34-12	1748-1754	wether	_	_	
+34-13	1755-1761	mutton	_	_	
+34-14	1761-1762	,	_	_	
+34-15	1763-1764	7	_	_	
+34-16	1764-1765	*	_	_	
+34-17	1765-1766	d	_	_	
+34-18	1766-1767	.	_	_	
+34-19	1768-1770	to	_	_	
+34-20	1771-1774	Bid	_	_	
+34-21	1774-1775	.	_	_	
+34-22	1775-1776	;	_	_	
+34-23	1777-1781	ewes	_	_	
+34-24	1781-1782	,	_	_	
+34-25	1783-1785	7d	_	_	
+34-26	1785-1786	.	_	_	
+34-27	1787-1789	to	_	_	
+34-28	1790-1791	7	_	_	
+34-29	1791-1792	£	_	_	
+34-30	1792-1793	d	_	_	
+34-31	1793-1794	.	_	_	
+34-32	1794-1795	;	_	_	
+34-33	1796-1801	bacon	_	_	
+34-34	1802-1806	pigs	_	_	
+34-35	1806-1807	,	_	_	
+34-36	1808-1810	Bs	_	_	
+34-37	1810-1811	.	_	_	
+34-38	1812-1814	to	_	_	
+34-39	1815-1817	9s	_	_	
+34-40	1817-1818	.	_	_	
+34-41	1819-1822	per	_	_	
+34-42	1823-1828	score	_	_	
+34-43	1828-1829	;	_	_	
+34-44	1830-1837	porkets	_	_	
+34-45	1838-1843	ditto	_	_	
+34-46	1843-1844	,	_	_	
+34-47	1845-1847	9s	_	_	
+34-48	1847-1848	.	_	_	
+34-49	1849-1851	6d	_	_	
+34-50	1851-1852	.	_	_	
+34-51	1853-1855	to	_	_	
+34-52	1856-1859	10s	_	_	
+34-53	1859-1860	.	_	_	
+
+#Text=Liverpool, Nov.
+35-1	1861-1870	Liverpool	https://en.wikipedia.org/wiki/Liverpool	LOC	
+35-2	1870-1871	,	_	_	
+35-3	1872-1875	Nov	_	_	
+35-4	1875-1876	.	_	_	
+
+#Text=I.
+36-1	1877-1878	I	_	_	
+36-2	1878-1879	.	_	_	
+
+#Text=—At to-days market there was a moderate attendance of town and country millers aud dealers, and a fair sale was experienced for wheat, spriug qualities bringing Id. to 2d. over tho low sales of Tuesday last, and other kinds the extreme rates of that day.
+37-1	1879-1880	—	_	_	
+37-2	1880-1882	At	_	_	
+37-3	1883-1890	to-days	_	_	
+37-4	1891-1897	market	_	_	
+37-5	1898-1903	there	_	_	
+37-6	1904-1907	was	_	_	
+37-7	1908-1909	a	_	_	
+37-8	1910-1918	moderate	_	_	
+37-9	1919-1929	attendance	_	_	
+37-10	1930-1932	of	_	_	
+37-11	1933-1937	town	_	_	
+37-12	1938-1941	and	_	_	
+37-13	1942-1949	country	_	_	
+37-14	1950-1957	millers	_	_	
+37-15	1958-1961	aud	_	_	
+37-16	1962-1969	dealers	_	_	
+37-17	1969-1970	,	_	_	
+37-18	1971-1974	and	_	_	
+37-19	1975-1976	a	_	_	
+37-20	1977-1981	fair	_	_	
+37-21	1982-1986	sale	_	_	
+37-22	1987-1990	was	_	_	
+37-23	1991-2002	experienced	_	_	
+37-24	2003-2006	for	_	_	
+37-25	2007-2012	wheat	_	_	
+37-26	2012-2013	,	_	_	
+37-27	2014-2020	spriug	_	_	
+37-28	2021-2030	qualities	_	_	
+37-29	2031-2039	bringing	_	_	
+37-30	2040-2042	Id	_	_	
+37-31	2042-2043	.	_	_	
+37-32	2044-2046	to	_	_	
+37-33	2047-2049	2d	_	_	
+37-34	2049-2050	.	_	_	
+37-35	2051-2055	over	_	_	
+37-36	2056-2059	tho	_	_	
+37-37	2060-2063	low	_	_	
+37-38	2064-2069	sales	_	_	
+37-39	2070-2072	of	_	_	
+37-40	2073-2080	Tuesday	_	_	
+37-41	2081-2085	last	_	_	
+37-42	2085-2086	,	_	_	
+37-43	2087-2090	and	_	_	
+37-44	2091-2096	other	_	_	
+37-45	2097-2102	kinds	_	_	
+37-46	2103-2106	the	_	_	
+37-47	2107-2114	extreme	_	_	
+37-48	2115-2120	rates	_	_	
+37-49	2121-2123	of	_	_	
+37-50	2124-2128	that	_	_	
+37-51	2129-2132	day	_	_	
+37-52	2132-2133	.	_	_	
+
+#Text=Oats were more saleable at full prices, aud oatmeal must be quoted 6d. per load dearer.
+38-1	2134-2138	Oats	_	_	
+38-2	2139-2143	were	_	_	
+38-3	2144-2148	more	_	_	
+38-4	2149-2157	saleable	_	_	
+38-5	2158-2160	at	_	_	
+38-6	2161-2165	full	_	_	
+38-7	2166-2172	prices	_	_	
+38-8	2172-2173	,	_	_	
+38-9	2174-2177	aud	_	_	
+38-10	2178-2185	oatmeal	_	_	
+38-11	2186-2190	must	_	_	
+38-12	2191-2193	be	_	_	
+38-13	2194-2200	quoted	_	_	
+38-14	2201-2203	6d	_	_	
+38-15	2203-2204	.	_	_	
+38-16	2205-2208	per	_	_	
+38-17	2209-2213	load	_	_	
+38-18	2214-2220	dearer	_	_	
+38-19	2220-2221	.	_	_	
+
+#Text=Beans, Is. dearer.
+39-1	2222-2227	Beans	_	_	
+39-2	2227-2228	,	_	_	
+39-3	2229-2231	Is	_	_	
+39-4	2231-2232	.	_	_	
+39-5	2233-2239	dearer	_	_	
+39-6	2239-2240	.	_	_	
+
+#Text=Indian corn met with a fair inquiry, at an advance of 9d. per qr.
+40-1	2241-2247	Indian	_	_	
+40-2	2248-2252	corn	_	_	
+40-3	2253-2256	met	_	_	
+40-4	2257-2261	with	_	_	
+40-5	2262-2263	a	_	_	
+40-6	2264-2268	fair	_	_	
+40-7	2269-2276	inquiry	_	_	
+40-8	2276-2277	,	_	_	
+40-9	2278-2280	at	_	_	
+40-10	2281-2283	an	_	_	
+40-11	2284-2291	advance	_	_	
+40-12	2292-2294	of	_	_	
+40-13	2295-2297	9d	_	_	
+40-14	2297-2298	.	_	_	
+40-15	2299-2302	per	_	_	
+40-16	2303-2305	qr	_	_	
+40-17	2305-2306	.	_	_	
+
+#Text=Flour more saleable, and in some instauces rather better prices were made.
+41-1	2307-2312	Flour	_	_	
+41-2	2313-2317	more	_	_	
+41-3	2318-2326	saleable	_	_	
+41-4	2326-2327	,	_	_	
+41-5	2328-2331	and	_	_	
+41-6	2332-2334	in	_	_	
+41-7	2335-2339	some	_	_	
+41-8	2340-2349	instauces	_	_	
+41-9	2350-2356	rather	_	_	
+41-10	2357-2363	better	_	_	
+41-11	2364-2370	prices	_	_	
+41-12	2371-2375	were	_	_	
+41-13	2376-2380	made	_	_	
+41-14	2380-2381	.	_	_	

@@ -1,0 +1,245 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=THE COURT AND GOVERNMENT.
+1-1	0-3	THE	_	_	
+1-2	4-9	COURT	_	_	
+1-3	10-13	AND	_	_	
+1-4	14-24	GOVERNMENT	_	_	
+1-5	24-25	.	_	_	
+
+#Text=OSEORNE, THURSDA .
+2-1	27-34	OSEORNE	*	LOC	
+2-2	34-35	,	_	_	
+2-3	36-43	THURSDA	_	_	
+2-4	44-45	.	_	_	
+
+#Text=The Qaeen, accompanied by Princess Helena and Prince Albert Victor, drove oat in the grounds yesterday morning Princess Helena rode on horseback in the afternoon, attended by the Hon.
+3-1	46-49	The	_	_	
+3-2	50-55	Qaeen	_	_	
+3-3	55-56	,	_	_	
+3-4	57-68	accompanied	_	_	
+3-5	69-71	by	_	_	
+3-6	72-80	Princess	_	_	
+3-7	81-87	Helena	_	_	
+3-8	88-91	and	_	_	
+3-9	92-98	Prince	_	_	
+3-10	99-105	Albert	_	_	
+3-11	106-112	Victor	_	_	
+3-12	112-113	,	_	_	
+3-13	114-119	drove	_	_	
+3-14	120-123	oat	_	_	
+3-15	124-126	in	_	_	
+3-16	127-130	the	_	_	
+3-17	131-138	grounds	_	_	
+3-18	139-148	yesterday	_	_	
+3-19	149-156	morning	_	_	
+3-20	157-165	Princess	_	_	
+3-21	166-172	Helena	_	_	
+3-22	173-177	rode	_	_	
+3-23	178-180	on	_	_	
+3-24	181-190	horseback	_	_	
+3-25	191-193	in	_	_	
+3-26	194-197	the	_	_	
+3-27	198-207	afternoon	_	_	
+3-28	207-208	,	_	_	
+3-29	209-217	attended	_	_	
+3-30	218-220	by	_	_	
+3-31	221-224	the	_	_	
+3-32	225-228	Hon	_	_	
+3-33	228-229	.	_	_	
+
+#Text=Emma.
+4-1	230-234	Emma	_	_	
+4-2	234-235	.	_	_	
+
+#Text=Lascelles.
+5-1	236-245	Lascelles	_	_	
+5-2	245-246	.	_	_	
+
+#Text=THE PRINCE AND PRINCESS OF WALES.
+6-1	247-250	THE	_	_	
+6-2	251-257	PRINCE	_	_	
+6-3	258-261	AND	_	_	
+6-4	262-270	PRINCESS	_	_	
+6-5	271-273	OF	_	_	
+6-6	274-279	WALES	_	_	
+6-7	279-280	.	_	_	
+
+#Text=Plymouth, Thursday Evenhji;.
+7-1	281-289	Plymouth	https://en.wikipedia.org/wiki/Plymouth	LOC	
+7-2	289-290	,	_	_	
+7-3	291-299	Thursday	_	_	
+7-4	300-307	Evenhji	_	_	
+7-5	307-308	;	_	_	
+7-6	308-309	.	_	_	
+
+#Text=A dejeuner was given to-day at Mount Edgecumbe to about 100 of the elite of the neighbourhood, invited to meet the Prince and Princess of Wales.
+8-1	310-311	A	_	_	
+8-2	312-320	dejeuner	_	_	
+8-3	321-324	was	_	_	
+8-4	325-330	given	_	_	
+8-5	331-337	to-day	_	_	
+8-6	338-340	at	_	_	
+8-7	341-346	Mount	https://en.wikipedia.org/wiki/Mount\_Edgcumbe\_House[1]	BUILDING[1]	
+8-8	347-356	Edgecumbe	https://en.wikipedia.org/wiki/Mount\_Edgcumbe\_House[1]	BUILDING[1]	
+8-9	357-359	to	_	_	
+8-10	360-365	about	_	_	
+8-11	366-369	100	_	_	
+8-12	370-372	of	_	_	
+8-13	373-376	the	_	_	
+8-14	377-382	elite	_	_	
+8-15	383-385	of	_	_	
+8-16	386-389	the	_	_	
+8-17	390-403	neighbourhood	_	_	
+8-18	403-404	,	_	_	
+8-19	405-412	invited	_	_	
+8-20	413-415	to	_	_	
+8-21	416-420	meet	_	_	
+8-22	421-424	the	_	_	
+8-23	425-431	Prince	_	_	
+8-24	432-435	and	_	_	
+8-25	436-444	Princess	_	_	
+8-26	445-447	of	_	_	
+8-27	448-453	Wales	_	_	
+8-28	453-454	.	_	_	
+
+#Text=In the afternoon their Royal Highnesses went a short yachting excursion in the Earl of Edgecunibes yacht; and in the evening the Prince dined with Viscount Templetown, Commander-inChief of the Western District, at the Government House, Mo ant Wise.
+9-1	455-457	In	_	_	
+9-2	458-461	the	_	_	
+9-3	462-471	afternoon	_	_	
+9-4	472-477	their	_	_	
+9-5	478-483	Royal	_	_	
+9-6	484-494	Highnesses	_	_	
+9-7	495-499	went	_	_	
+9-8	500-501	a	_	_	
+9-9	502-507	short	_	_	
+9-10	508-516	yachting	_	_	
+9-11	517-526	excursion	_	_	
+9-12	527-529	in	_	_	
+9-13	530-533	the	_	_	
+9-14	534-538	Earl	_	_	
+9-15	539-541	of	_	_	
+9-16	542-553	Edgecunibes	_	_	
+9-17	554-559	yacht	_	_	
+9-18	559-560	;	_	_	
+9-19	561-564	and	_	_	
+9-20	565-567	in	_	_	
+9-21	568-571	the	_	_	
+9-22	572-579	evening	_	_	
+9-23	580-583	the	_	_	
+9-24	584-590	Prince	_	_	
+9-25	591-596	dined	_	_	
+9-26	597-601	with	_	_	
+9-27	602-610	Viscount	_	_	
+9-28	611-621	Templetown	_	_	
+9-29	621-622	,	_	_	
+9-30	623-640	Commander-inChief	_	_	
+9-31	641-643	of	_	_	
+9-32	644-647	the	_	_	
+9-33	648-655	Western	_	_	
+9-34	656-664	District	_	_	
+9-35	664-665	,	_	_	
+9-36	666-668	at	_	_	
+9-37	669-672	the	_	_	
+9-38	673-683	Government	*[2]	BUILDING[2]	
+9-39	684-689	House	*[2]	BUILDING[2]	
+9-40	689-690	,	_	_	
+9-41	691-693	Mo	https://en.wikipedia.org/wiki/Mount\_Wise,\_Plymouth[3]	BUILDING[3]	
+9-42	694-697	ant	https://en.wikipedia.org/wiki/Mount\_Wise,\_Plymouth[3]	BUILDING[3]	
+9-43	698-702	Wise	https://en.wikipedia.org/wiki/Mount\_Wise,\_Plymouth[3]	BUILDING[3]	
+9-44	702-703	.	_	_	
+
+#Text=The party consisted principally of the army and navy officers in commission at the port, andthe officers •f the French squadron lying in the Sound.
+10-1	704-707	The	_	_	
+10-2	708-713	party	_	_	
+10-3	714-723	consisted	_	_	
+10-4	724-735	principally	_	_	
+10-5	736-738	of	_	_	
+10-6	739-742	the	_	_	
+10-7	743-747	army	_	_	
+10-8	748-751	and	_	_	
+10-9	752-756	navy	_	_	
+10-10	757-765	officers	_	_	
+10-11	766-768	in	_	_	
+10-12	769-779	commission	_	_	
+10-13	780-782	at	_	_	
+10-14	783-786	the	_	_	
+10-15	787-791	port	_	_	
+10-16	791-792	,	_	_	
+10-17	793-799	andthe	_	_	
+10-18	800-808	officers	_	_	
+10-19	809-810	•	_	_	
+10-20	810-811	f	_	_	
+10-21	812-815	the	_	_	
+10-22	816-822	French	_	_	
+10-23	823-831	squadron	_	_	
+10-24	832-837	lying	_	_	
+10-25	838-840	in	_	_	
+10-26	841-844	the	_	_	
+10-27	845-850	Sound	https://en.wikipedia.org/wiki/Plymouth\_Sound	LOC	
+10-28	850-851	.	_	_	
+
+#Text=After dinner the Prince adjourned with the company to a grand ball given by the united services at the Royal William Yard, Stonehouse.
+11-1	852-857	After	_	_	
+11-2	858-864	dinner	_	_	
+11-3	865-868	the	_	_	
+11-4	869-875	Prince	_	_	
+11-5	876-885	adjourned	_	_	
+11-6	886-890	with	_	_	
+11-7	891-894	the	_	_	
+11-8	895-902	company	_	_	
+11-9	903-905	to	_	_	
+11-10	906-907	a	_	_	
+11-11	908-913	grand	_	_	
+11-12	914-918	ball	_	_	
+11-13	919-924	given	_	_	
+11-14	925-927	by	_	_	
+11-15	928-931	the	_	_	
+11-16	932-938	united	_	_	
+11-17	939-947	services	_	_	
+11-18	948-950	at	_	_	
+11-19	951-954	the	_	_	
+11-20	955-960	Royal	https://en.wikipedia.org/wiki/Royal\_William\_Victualling\_Yard[4]	BUILDING[4]	
+11-21	961-968	William	https://en.wikipedia.org/wiki/Royal\_William\_Victualling\_Yard[4]	BUILDING[4]	
+11-22	969-973	Yard	https://en.wikipedia.org/wiki/Royal\_William\_Victualling\_Yard[4]	BUILDING[4]	
+11-23	973-974	,	_	_	
+11-24	975-985	Stonehouse	https://en.wikipedia.org/wiki/Stonehouse,\_Plymouth	LOC	
+11-25	985-986	.	_	_	
+
+#Text=Mr.
+12-1	987-989	Mr	_	_	
+12-2	989-990	.	_	_	
+
+#Text=Frederick Peel ia in improved health, and has been gradually getting better since Tuesday.
+13-1	991-1000	Frederick	_	_	
+13-2	1001-1005	Peel	_	_	
+13-3	1006-1008	ia	_	_	
+13-4	1009-1011	in	_	_	
+13-5	1012-1020	improved	_	_	
+13-6	1021-1027	health	_	_	
+13-7	1027-1028	,	_	_	
+13-8	1029-1032	and	_	_	
+13-9	1033-1036	has	_	_	
+13-10	1037-1041	been	_	_	
+13-11	1042-1051	gradually	_	_	
+13-12	1052-1059	getting	_	_	
+13-13	1060-1066	better	_	_	
+13-14	1067-1072	since	_	_	
+13-15	1073-1080	Tuesday	_	_	
+13-16	1080-1081	.	_	_	
+
+#Text=The right hon. gentleman is still confined to his chamber.
+14-1	1082-1085	The	_	_	
+14-2	1086-1091	right	_	_	
+14-3	1092-1095	hon	_	_	
+14-4	1095-1096	.	_	_	
+14-5	1097-1106	gentleman	_	_	
+14-6	1107-1109	is	_	_	
+14-7	1110-1115	still	_	_	
+14-8	1116-1124	confined	_	_	
+14-9	1125-1127	to	_	_	
+14-10	1128-1131	his	_	_	
+14-11	1132-1139	chamber	_	_	
+14-12	1139-1140	.	_	_	

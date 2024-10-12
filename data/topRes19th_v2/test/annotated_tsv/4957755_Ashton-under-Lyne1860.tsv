@@ -1,0 +1,361 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=LATEST INTE LLIGENCE.
+1-1	0-6	LATEST	_	_	
+1-2	7-11	INTE	_	_	
+1-3	12-20	LLIGENCE	_	_	
+1-4	20-21	.	_	_	
+
+#Text=Overend, Gurney, and Co.
+2-1	23-30	Overend	_	_	
+2-2	30-31	,	_	_	
+2-3	32-38	Gurney	_	_	
+2-4	38-39	,	_	_	
+2-5	40-43	and	_	_	
+2-6	44-46	Co	_	_	
+2-7	46-47	.	_	_	
+
+#Text=—The director# have issued summonses in respect of the call of £lO against all those shareholders who have not paid.
+3-1	47-48	—	_	_	
+3-2	48-51	The	_	_	
+3-3	52-60	director	_	_	
+3-4	60-61	#	_	_	
+3-5	62-66	have	_	_	
+3-6	67-73	issued	_	_	
+3-7	74-83	summonses	_	_	
+3-8	84-86	in	_	_	
+3-9	87-94	respect	_	_	
+3-10	95-97	of	_	_	
+3-11	98-101	the	_	_	
+3-12	102-106	call	_	_	
+3-13	107-109	of	_	_	
+3-14	110-111	£	_	_	
+3-15	111-113	lO	_	_	
+3-16	114-121	against	_	_	
+3-17	122-125	all	_	_	
+3-18	126-131	those	_	_	
+3-19	132-144	shareholders	_	_	
+3-20	145-148	who	_	_	
+3-21	149-153	have	_	_	
+3-22	154-157	not	_	_	
+3-23	158-162	paid	_	_	
+3-24	162-163	.	_	_	
+
+#Text=The number of individuals thus brought within the grasp of the law is about £2,000, and the £lO call represents altogether £1,000,000, The Cattle Plaque.
+4-1	164-167	The	_	_	
+4-2	168-174	number	_	_	
+4-3	175-177	of	_	_	
+4-4	178-189	individuals	_	_	
+4-5	190-194	thus	_	_	
+4-6	195-202	brought	_	_	
+4-7	203-209	within	_	_	
+4-8	210-213	the	_	_	
+4-9	214-219	grasp	_	_	
+4-10	220-222	of	_	_	
+4-11	223-226	the	_	_	
+4-12	227-230	law	_	_	
+4-13	231-233	is	_	_	
+4-14	234-239	about	_	_	
+4-15	240-246	£2,000	_	_	
+4-16	246-247	,	_	_	
+4-17	248-251	and	_	_	
+4-18	252-255	the	_	_	
+4-19	256-257	£	_	_	
+4-20	257-259	lO	_	_	
+4-21	260-264	call	_	_	
+4-22	265-275	represents	_	_	
+4-23	276-286	altogether	_	_	
+4-24	287-297	£1,000,000	_	_	
+4-25	297-298	,	_	_	
+4-26	299-302	The	_	_	
+4-27	303-309	Cattle	_	_	
+4-28	310-316	Plaque	_	_	
+4-29	316-317	.	_	_	
+
+#Text=—Only six cases of cattl# plague are reported in Great Britain for the week ending October 20, being a decrease of five on the previous week.
+5-1	317-318	—	_	_	
+5-2	318-322	Only	_	_	
+5-3	323-326	six	_	_	
+5-4	327-332	cases	_	_	
+5-5	333-335	of	_	_	
+5-6	336-341	cattl	_	_	
+5-7	341-342	#	_	_	
+5-8	343-349	plague	_	_	
+5-9	350-353	are	_	_	
+5-10	354-362	reported	_	_	
+5-11	363-365	in	_	_	
+5-12	366-371	Great	https://en.wikipedia.org/wiki/Great\_Britain[1]	LOC[1]	
+5-13	372-379	Britain	https://en.wikipedia.org/wiki/Great\_Britain[1]	LOC[1]	
+5-14	380-383	for	_	_	
+5-15	384-387	the	_	_	
+5-16	388-392	week	_	_	
+5-17	393-399	ending	_	_	
+5-18	400-407	October	_	_	
+5-19	408-410	20	_	_	
+5-20	410-411	,	_	_	
+5-21	412-417	being	_	_	
+5-22	418-419	a	_	_	
+5-23	420-428	decrease	_	_	
+5-24	429-431	of	_	_	
+5-25	432-436	five	_	_	
+5-26	437-439	on	_	_	
+5-27	440-443	the	_	_	
+5-28	444-452	previous	_	_	
+5-29	453-457	week	_	_	
+5-30	457-458	.	_	_	
+
+#Text=Summonses were issued on Thursday for a cabinet council, to be held at the official residenc# of the First Lord of the Treasury. in Downingstreet, on Wednesday next, the 31st instant.
+6-1	460-469	Summonses	_	_	
+6-2	470-474	were	_	_	
+6-3	475-481	issued	_	_	
+6-4	482-484	on	_	_	
+6-5	485-493	Thursday	_	_	
+6-6	494-497	for	_	_	
+6-7	498-499	a	_	_	
+6-8	500-507	cabinet	_	_	
+6-9	508-515	council	_	_	
+6-10	515-516	,	_	_	
+6-11	517-519	to	_	_	
+6-12	520-522	be	_	_	
+6-13	523-527	held	_	_	
+6-14	528-530	at	_	_	
+6-15	531-534	the	_	_	
+6-16	535-543	official	_	_	
+6-17	544-552	residenc	_	_	
+6-18	552-553	#	_	_	
+6-19	554-556	of	_	_	
+6-20	557-560	the	_	_	
+6-21	561-566	First	_	_	
+6-22	567-571	Lord	_	_	
+6-23	572-574	of	_	_	
+6-24	575-578	the	_	_	
+6-25	579-587	Treasury	_	_	
+6-26	587-588	.	_	_	
+6-27	589-591	in	_	_	
+6-28	592-605	Downingstreet	https://en.wikipedia.org/wiki/Downing\_Street	STREET	
+6-29	605-606	,	_	_	
+6-30	607-609	on	_	_	
+6-31	610-619	Wednesday	_	_	
+6-32	620-624	next	_	_	
+6-33	624-625	,	_	_	
+6-34	626-629	the	_	_	
+6-35	630-634	31st	_	_	
+6-36	635-642	instant	_	_	
+6-37	642-643	.	_	_	
+
+#Text=In the case of Mr.
+7-1	644-646	In	_	_	
+7-2	647-650	the	_	_	
+7-3	651-655	case	_	_	
+7-4	656-658	of	_	_	
+7-5	659-661	Mr	_	_	
+7-6	661-662	.	_	_	
+
+#Text=Greenland, late manager of the Leeds Banking Company, the jury found a verdict of guilty, but recommended him to mercy.
+8-1	663-672	Greenland	_	_	
+8-2	672-673	,	_	_	
+8-3	674-678	late	_	_	
+8-4	679-686	manager	_	_	
+8-5	687-689	of	_	_	
+8-6	690-693	the	_	_	
+8-7	694-699	Leeds	https://en.wikipedia.org/wiki/Leeds	LOC	
+8-8	700-707	Banking	_	_	
+8-9	708-715	Company	_	_	
+8-10	715-716	,	_	_	
+8-11	717-720	the	_	_	
+8-12	721-725	jury	_	_	
+8-13	726-731	found	_	_	
+8-14	732-733	a	_	_	
+8-15	734-741	verdict	_	_	
+8-16	742-744	of	_	_	
+8-17	745-751	guilty	_	_	
+8-18	751-752	,	_	_	
+8-19	753-756	but	_	_	
+8-20	757-768	recommended	_	_	
+8-21	769-772	him	_	_	
+8-22	773-775	to	_	_	
+8-23	776-781	mercy	_	_	
+8-24	781-782	.	_	_	
+
+#Text=Baron Pigott released the prisoner, on securities, to come up for judgment when called upon. 1 ho Post says : “It is rumoured that Sir Henry Storks will proceed to Calcutta, invested with certain powers connected with the command of Her Majesty’s forces in India, and Sir W. iield will be recalled preparatory to an investigation of the case of Captain Jervis.”
+9-1	783-788	Baron	_	_	
+9-2	789-795	Pigott	_	_	
+9-3	796-804	released	_	_	
+9-4	805-808	the	_	_	
+9-5	809-817	prisoner	_	_	
+9-6	817-818	,	_	_	
+9-7	819-821	on	_	_	
+9-8	822-832	securities	_	_	
+9-9	832-833	,	_	_	
+9-10	834-836	to	_	_	
+9-11	837-841	come	_	_	
+9-12	842-844	up	_	_	
+9-13	845-848	for	_	_	
+9-14	849-857	judgment	_	_	
+9-15	858-862	when	_	_	
+9-16	863-869	called	_	_	
+9-17	870-874	upon	_	_	
+9-18	874-875	.	_	_	
+9-19	876-877	1	_	_	
+9-20	878-880	ho	_	_	
+9-21	881-885	Post	_	_	
+9-22	886-890	says	_	_	
+9-23	891-892	:	_	_	
+9-24	893-894	“	_	_	
+9-25	894-896	It	_	_	
+9-26	897-899	is	_	_	
+9-27	900-908	rumoured	_	_	
+9-28	909-913	that	_	_	
+9-29	914-917	Sir	_	_	
+9-30	918-923	Henry	_	_	
+9-31	924-930	Storks	_	_	
+9-32	931-935	will	_	_	
+9-33	936-943	proceed	_	_	
+9-34	944-946	to	_	_	
+9-35	947-955	Calcutta	https://en.wikipedia.org/wiki/Kolkata	LOC	
+9-36	955-956	,	_	_	
+9-37	957-965	invested	_	_	
+9-38	966-970	with	_	_	
+9-39	971-978	certain	_	_	
+9-40	979-985	powers	_	_	
+9-41	986-995	connected	_	_	
+9-42	996-1000	with	_	_	
+9-43	1001-1004	the	_	_	
+9-44	1005-1012	command	_	_	
+9-45	1013-1015	of	_	_	
+9-46	1016-1019	Her	_	_	
+9-47	1020-1027	Majesty	_	_	
+9-48	1027-1028	’	_	_	
+9-49	1028-1029	s	_	_	
+9-50	1030-1036	forces	_	_	
+9-51	1037-1039	in	_	_	
+9-52	1040-1045	India	https://en.wikipedia.org/wiki/India	LOC	
+9-53	1045-1046	,	_	_	
+9-54	1047-1050	and	_	_	
+9-55	1051-1054	Sir	_	_	
+9-56	1055-1056	W	_	_	
+9-57	1056-1057	.	_	_	
+9-58	1058-1063	iield	_	_	
+9-59	1064-1068	will	_	_	
+9-60	1069-1071	be	_	_	
+9-61	1072-1080	recalled	_	_	
+9-62	1081-1092	preparatory	_	_	
+9-63	1093-1095	to	_	_	
+9-64	1096-1098	an	_	_	
+9-65	1099-1112	investigation	_	_	
+9-66	1113-1115	of	_	_	
+9-67	1116-1119	the	_	_	
+9-68	1120-1124	case	_	_	
+9-69	1125-1127	of	_	_	
+9-70	1128-1135	Captain	_	_	
+9-71	1136-1142	Jervis	_	_	
+9-72	1142-1143	.	_	_	
+9-73	1143-1144	”	_	_	
+
+#Text=Death of Mr.
+10-1	1146-1151	Death	_	_	
+10-2	1152-1154	of	_	_	
+10-3	1155-1157	Mr	_	_	
+10-4	1157-1158	.	_	_	
+
+#Text=Snider.
+11-1	1159-1165	Snider	_	_	
+11-2	1165-1166	.	_	_	
+
+#Text=—Mr.
+12-1	1166-1167	—	_	_	
+12-2	1167-1169	Mr	_	_	
+12-3	1169-1170	.	_	_	
+
+#Text=Snider died suddenly on Thursday.
+13-1	1171-1177	Snider	_	_	
+13-2	1178-1182	died	_	_	
+13-3	1183-1191	suddenly	_	_	
+13-4	1192-1194	on	_	_	
+13-5	1195-1203	Thursday	_	_	
+13-6	1203-1204	.	_	_	
+
+#Text=Mr.
+14-1	1205-1207	Mr	_	_	
+14-2	1207-1208	.	_	_	
+
+#Text=Golborne, a solicitor of Newport, representing Mr.
+15-1	1209-1217	Golborne	_	_	
+15-2	1217-1218	,	_	_	
+15-3	1219-1220	a	_	_	
+15-4	1221-1230	solicitor	_	_	
+15-5	1231-1233	of	_	_	
+15-6	1234-1241	Newport	https://en.wikipedia.org/wiki/Newport,\_Wales	LOC	
+15-7	1241-1242	,	_	_	
+15-8	1243-1255	representing	_	_	
+15-9	1256-1258	Mr	_	_	
+15-10	1258-1259	.	_	_	
+
+#Text=Snider and others, says that on the same morning, and before tha death of Mr.
+16-1	1260-1266	Snider	_	_	
+16-2	1267-1270	and	_	_	
+16-3	1271-1277	others	_	_	
+16-4	1277-1278	,	_	_	
+16-5	1279-1283	says	_	_	
+16-6	1284-1288	that	_	_	
+16-7	1289-1291	on	_	_	
+16-8	1292-1295	the	_	_	
+16-9	1296-1300	same	_	_	
+16-10	1301-1308	morning	_	_	
+16-11	1308-1309	,	_	_	
+16-12	1310-1313	and	_	_	
+16-13	1314-1320	before	_	_	
+16-14	1321-1324	tha	_	_	
+16-15	1325-1330	death	_	_	
+16-16	1331-1333	of	_	_	
+16-17	1334-1336	Mr	_	_	
+16-18	1336-1337	.	_	_	
+
+#Text=Snider was known, Colonel Rodon had an interview*with General Peel, at which tha question of arrangement with the War Office was placed on a satisfactory footing with regard to a settlement of Mr.
+17-1	1338-1344	Snider	_	_	
+17-2	1345-1348	was	_	_	
+17-3	1349-1354	known	_	_	
+17-4	1354-1355	,	_	_	
+17-5	1356-1363	Colonel	_	_	
+17-6	1364-1369	Rodon	_	_	
+17-7	1370-1373	had	_	_	
+17-8	1374-1376	an	_	_	
+17-9	1377-1386	interview	_	_	
+17-10	1386-1387	*	_	_	
+17-11	1387-1391	with	_	_	
+17-12	1392-1399	General	_	_	
+17-13	1400-1404	Peel	_	_	
+17-14	1404-1405	,	_	_	
+17-15	1406-1408	at	_	_	
+17-16	1409-1414	which	_	_	
+17-17	1415-1418	tha	_	_	
+17-18	1419-1427	question	_	_	
+17-19	1428-1430	of	_	_	
+17-20	1431-1442	arrangement	_	_	
+17-21	1443-1447	with	_	_	
+17-22	1448-1451	the	_	_	
+17-23	1452-1455	War	_	_	
+17-24	1456-1462	Office	_	_	
+17-25	1463-1466	was	_	_	
+17-26	1467-1473	placed	_	_	
+17-27	1474-1476	on	_	_	
+17-28	1477-1478	a	_	_	
+17-29	1479-1491	satisfactory	_	_	
+17-30	1492-1499	footing	_	_	
+17-31	1500-1504	with	_	_	
+17-32	1505-1511	regard	_	_	
+17-33	1512-1514	to	_	_	
+17-34	1515-1516	a	_	_	
+17-35	1517-1527	settlement	_	_	
+17-36	1528-1530	of	_	_	
+17-37	1531-1533	Mr	_	_	
+17-38	1533-1534	.	_	_	
+
+#Text=Snider’s claims.
+18-1	1535-1541	Snider	_	_	
+18-2	1541-1542	’	_	_	
+18-3	1542-1543	s	_	_	
+18-4	1544-1550	claims	_	_	
+18-5	1550-1551	.	_	_	

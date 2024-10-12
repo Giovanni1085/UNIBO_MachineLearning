@@ -1,0 +1,546 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=BIRTH.
+1-1	0-5	BIRTH	_	_	
+1-2	5-6	.	_	_	
+
+#Text=On Thursday the 26th ult. the Lady of Sir Kun•ret ord Ho kynns.
+2-1	7-9	On	_	_	
+2-2	10-18	Thursday	_	_	
+2-3	19-22	the	_	_	
+2-4	23-27	26th	_	_	
+2-5	28-31	ult	_	_	
+2-6	31-32	.	_	_	
+2-7	33-36	the	_	_	
+2-8	37-41	Lady	_	_	
+2-9	42-44	of	_	_	
+2-10	45-48	Sir	_	_	
+2-11	49-52	Kun	_	_	
+2-12	52-53	•	_	_	
+2-13	53-56	ret	_	_	
+2-14	57-60	ord	_	_	
+2-15	61-63	Ho	_	_	
+2-16	64-69	kynns	_	_	
+2-17	69-70	.	_	_	
+
+#Text=Bait.
+3-1	71-75	Bait	_	_	
+3-2	75-76	.	_	_	
+
+#Text=Harewood, Herefordshire, wis <afeiy delivered of a daughter.
+4-1	77-85	Harewood	https://en.wikipedia.org/wiki/Harewood,\_Herefordshire	LOC	
+4-2	85-86	,	_	_	
+4-3	87-100	Herefordshire	https://en.wikipedia.org/wiki/Herefordshire	LOC	
+4-4	100-101	,	_	_	
+4-5	102-105	wis	_	_	
+4-6	106-107	<	_	_	
+4-7	107-112	afeiy	_	_	
+4-8	113-122	delivered	_	_	
+4-9	123-125	of	_	_	
+4-10	126-127	a	_	_	
+4-11	128-136	daughter	_	_	
+4-12	136-137	.	_	_	
+
+#Text=—On the 31st ult. the La"dy of Wilhraham Egerton, Esq. of Tatton Paik, Ci eshire, of a ton.
+5-1	137-138	—	_	_	
+5-2	138-140	On	_	_	
+5-3	141-144	the	_	_	
+5-4	145-149	31st	_	_	
+5-5	150-153	ult	_	_	
+5-6	153-154	.	_	_	
+5-7	155-158	the	_	_	
+5-8	159-164	La"dy	_	_	
+5-9	165-167	of	_	_	
+5-10	168-177	Wilhraham	_	_	
+5-11	178-185	Egerton	_	_	
+5-12	185-186	,	_	_	
+5-13	187-190	Esq	_	_	
+5-14	190-191	.	_	_	
+5-15	192-194	of	_	_	
+5-16	195-201	Tatton	https://en.wikipedia.org/wiki/Tatton\_Park[1]	LOC[1]	
+5-17	202-206	Paik	https://en.wikipedia.org/wiki/Tatton\_Park[1]	LOC[1]	
+5-18	206-207	,	_	_	
+5-19	208-210	Ci	https://en.wikipedia.org/wiki/Cheshire[2]	LOC[2]	
+5-20	211-217	eshire	https://en.wikipedia.org/wiki/Cheshire[2]	LOC[2]	
+5-21	217-218	,	_	_	
+5-22	219-221	of	_	_	
+5-23	222-223	a	_	_	
+5-24	224-227	ton	_	_	
+5-25	227-228	.	_	_	
+
+#Text=MARRIED.
+6-1	229-236	MARRIED	_	_	
+6-2	236-237	.	_	_	
+
+#Text=On *he 2ftft ult.
+7-1	238-240	On	_	_	
+7-2	241-242	*	_	_	
+7-3	242-244	he	_	_	
+7-4	245-250	2ftft	_	_	
+7-5	251-254	ult	_	_	
+7-6	254-255	.	_	_	
+
+#Text=Mr W.
+8-1	256-258	Mr	_	_	
+8-2	259-260	W	_	_	
+8-3	260-261	.	_	_	
+
+#Text=Hunt, of Rochdale, to Misl Jenkinson, of Burscough.
+9-1	262-266	Hunt	_	_	
+9-2	266-267	,	_	_	
+9-3	268-270	of	_	_	
+9-4	271-279	Rochdale	https://en.wikipedia.org/wiki/Rochdale	LOC	
+9-5	279-280	,	_	_	
+9-6	281-283	to	_	_	
+9-7	284-288	Misl	_	_	
+9-8	289-298	Jenkinson	_	_	
+9-9	298-299	,	_	_	
+9-10	300-302	of	_	_	
+9-11	303-312	Burscough	https://en.wikipedia.org/wiki/Burscough	LOC	
+9-12	312-313	.	_	_	
+
+#Text=—A few days ago, I Mr Waliis, of Robertson and Manleys Company of Comedian--, to Miss Jackson, late of the Theatres Eoya!
+10-1	313-314	—	_	_	
+10-2	314-315	A	_	_	
+10-3	316-319	few	_	_	
+10-4	320-324	days	_	_	
+10-5	325-328	ago	_	_	
+10-6	328-329	,	_	_	
+10-7	330-331	I	_	_	
+10-8	332-334	Mr	_	_	
+10-9	335-341	Waliis	_	_	
+10-10	341-342	,	_	_	
+10-11	343-345	of	_	_	
+10-12	346-355	Robertson	_	_	
+10-13	356-359	and	_	_	
+10-14	360-367	Manleys	_	_	
+10-15	368-375	Company	_	_	
+10-16	376-378	of	_	_	
+10-17	379-387	Comedian	_	_	
+10-18	387-388	-	_	_	
+10-19	388-389	-	_	_	
+10-20	389-390	,	_	_	
+10-21	391-393	to	_	_	
+10-22	394-398	Miss	_	_	
+10-23	399-406	Jackson	_	_	
+10-24	406-407	,	_	_	
+10-25	408-412	late	_	_	
+10-26	413-415	of	_	_	
+10-27	416-419	the	_	_	
+10-28	420-428	Theatres	_	_	
+10-29	429-433	Eoya	_	_	
+10-30	433-434	!	_	_	
+
+#Text=, York and Hull.
+11-1	434-435	,	_	_	
+11-2	436-440	York	https://en.wikipedia.org/wiki/York	LOC	
+11-3	441-444	and	_	_	
+11-4	445-449	Hull	https://en.wikipedia.org/wiki/Kingston\_upon\_Hull	LOC	
+11-5	449-450	.	_	_	
+
+#Text=—On the 22d ult. r.t Zt. }at\\n* Church, Mr Richard Holme, of Welhtiie, riear Ashton-under-lyne, to Miss Ann Hague, daughter <if the late Mr Orlando Hague, of Taunton, near t>e same place.
+12-1	450-451	—	_	_	
+12-2	451-453	On	_	_	
+12-3	454-457	the	_	_	
+12-4	458-461	22d	_	_	
+12-5	462-465	ult	_	_	
+12-6	465-466	.	_	_	
+12-7	467-470	r.t	_	_	
+12-8	471-473	Zt	_	_	
+12-9	473-474	.	_	_	
+12-10	475-476	}	_	_	
+12-11	476-478	at	_	_	
+12-12	478-479	\	_	_	
+12-13	479-480	n	_	_	
+12-14	480-481	*	_	_	
+12-15	482-488	Church	_	_	
+12-16	488-489	,	_	_	
+12-17	490-492	Mr	_	_	
+12-18	493-500	Richard	_	_	
+12-19	501-506	Holme	_	_	
+12-20	506-507	,	_	_	
+12-21	508-510	of	_	_	
+12-22	511-519	Welhtiie	*	LOC	
+12-23	519-520	,	_	_	
+12-24	521-526	riear	_	_	
+12-25	527-544	Ashton-under-lyne	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+12-26	544-545	,	_	_	
+12-27	546-548	to	_	_	
+12-28	549-553	Miss	_	_	
+12-29	554-557	Ann	_	_	
+12-30	558-563	Hague	_	_	
+12-31	563-564	,	_	_	
+12-32	565-573	daughter	_	_	
+12-33	574-575	<	_	_	
+12-34	575-577	if	_	_	
+12-35	578-581	the	_	_	
+12-36	582-586	late	_	_	
+12-37	587-589	Mr	_	_	
+12-38	590-597	Orlando	_	_	
+12-39	598-603	Hague	_	_	
+12-40	603-604	,	_	_	
+12-41	605-607	of	_	_	
+12-42	608-615	Taunton	https://en.wikipedia.org/wiki/Taunton,\_Greater\_Manchester	LOC	
+12-43	615-616	,	_	_	
+12-44	617-621	near	_	_	
+12-45	622-623	t	_	_	
+12-46	623-624	>	_	_	
+12-47	624-625	e	_	_	
+12-48	626-630	same	_	_	
+12-49	631-636	place	_	_	
+12-50	636-637	.	_	_	
+
+#Text=—On Wednesday sennight, at the parochial chapel, in Todmorden, Mr Thomas Red-  t arn, of Rochdale, to Miss Ann Healey, of Small ; Bridge, near Rochdale.
+13-1	637-638	—	_	_	
+13-2	638-640	On	_	_	
+13-3	641-650	Wednesday	_	_	
+13-4	651-659	sennight	_	_	
+13-5	659-660	,	_	_	
+13-6	661-663	at	_	_	
+13-7	664-667	the	_	_	
+13-8	668-677	parochial	_	_	
+13-9	678-684	chapel	_	_	
+13-10	684-685	,	_	_	
+13-11	686-688	in	_	_	
+13-12	689-698	Todmorden	https://en.wikipedia.org/wiki/Todmorden	LOC	
+13-13	698-699	,	_	_	
+13-14	700-702	Mr	_	_	
+13-15	703-709	Thomas	_	_	
+13-16	710-713	Red	_	_	
+13-17	713-714	-	_	_	
+13-18	716-717	t	_	_	
+13-19	718-721	arn	_	_	
+13-20	721-722	,	_	_	
+13-21	723-725	of	_	_	
+13-22	726-734	Rochdale	https://en.wikipedia.org/wiki/Rochdale	LOC	
+13-23	734-735	,	_	_	
+13-24	736-738	to	_	_	
+13-25	739-743	Miss	_	_	
+13-26	744-747	Ann	_	_	
+13-27	748-754	Healey	_	_	
+13-28	754-755	,	_	_	
+13-29	756-758	of	_	_	
+13-30	759-764	Small	*[3]	LOC[3]	
+13-31	765-766	;	*[3]	LOC[3]	
+13-32	767-773	Bridge	*[3]	LOC[3]	
+13-33	773-774	,	_	_	
+13-34	775-779	near	_	_	
+13-35	780-788	Rochdale	https://en.wikipedia.org/wiki/Rochdale	LOC	
+13-36	788-789	.	_	_	
+
+#Text=—On Thursday last, Mr Tho- j in B uton.of Walton, near Preston, to Miss Elton, of S iltord —On Thursday last, at Eccles, Mr James Johnson, of Worsl-y, to Miss Betsey Osbaldeston, of t e same place. — On the 18th ult. at St Johns Church, Mr John Crompton. of Farnworth, to Miss F.I Irtbeth Heywood, of Salford.— On Wednesday the -5th ult. at StocKport, Mr John Sidebotham, of Hauzhton, to Miss Thorneley, daughter of Mr Samiel Ihorneley, of Werneth, Cheshire.
+14-1	789-790	—	_	_	
+14-2	790-792	On	_	_	
+14-3	793-801	Thursday	_	_	
+14-4	802-806	last	_	_	
+14-5	806-807	,	_	_	
+14-6	808-810	Mr	_	_	
+14-7	811-814	Tho	_	_	
+14-8	814-815	-	_	_	
+14-9	816-817	j	_	_	
+14-10	818-820	in	_	_	
+14-11	821-822	B	_	_	
+14-12	823-830	uton.of	_	_	
+14-13	831-837	Walton	*	LOC	
+14-14	837-838	,	_	_	
+14-15	839-843	near	_	_	
+14-16	844-851	Preston	https://en.wikipedia.org/wiki/Preston,\_Lancashire	LOC	
+14-17	851-852	,	_	_	
+14-18	853-855	to	_	_	
+14-19	856-860	Miss	_	_	
+14-20	861-866	Elton	_	_	
+14-21	866-867	,	_	_	
+14-22	868-870	of	_	_	
+14-23	871-872	S	*[4]	LOC[4]	
+14-24	873-879	iltord	*[4]	LOC[4]	
+14-25	880-881	—	_	_	
+14-26	881-883	On	_	_	
+14-27	884-892	Thursday	_	_	
+14-28	893-897	last	_	_	
+14-29	897-898	,	_	_	
+14-30	899-901	at	_	_	
+14-31	902-908	Eccles	https://en.wikipedia.org/wiki/Eccles,\_Greater\_Manchester	LOC	
+14-32	908-909	,	_	_	
+14-33	910-912	Mr	_	_	
+14-34	913-918	James	_	_	
+14-35	919-926	Johnson	_	_	
+14-36	926-927	,	_	_	
+14-37	928-930	of	_	_	
+14-38	931-938	Worsl-y	_	_	
+14-39	938-939	,	_	_	
+14-40	940-942	to	_	_	
+14-41	943-947	Miss	_	_	
+14-42	948-954	Betsey	_	_	
+14-43	955-966	Osbaldeston	_	_	
+14-44	966-967	,	_	_	
+14-45	968-970	of	_	_	
+14-46	971-972	t	_	_	
+14-47	973-974	e	_	_	
+14-48	975-979	same	_	_	
+14-49	980-985	place	_	_	
+14-50	985-986	.	_	_	
+14-51	987-988	—	_	_	
+14-52	989-991	On	_	_	
+14-53	992-995	the	_	_	
+14-54	996-1000	18th	_	_	
+14-55	1001-1004	ult	_	_	
+14-56	1004-1005	.	_	_	
+14-57	1006-1008	at	_	_	
+14-58	1009-1011	St	*[5]	BUILDING[5]	
+14-59	1012-1017	Johns	*[5]	BUILDING[5]	
+14-60	1018-1024	Church	*[5]	BUILDING[5]	
+14-61	1024-1025	,	_	_	
+14-62	1026-1028	Mr	_	_	
+14-63	1029-1033	John	_	_	
+14-64	1034-1042	Crompton	_	_	
+14-65	1042-1043	.	_	_	
+14-66	1044-1046	of	_	_	
+14-67	1047-1056	Farnworth	https://en.wikipedia.org/wiki/Farnworth	LOC	
+14-68	1056-1057	,	_	_	
+14-69	1058-1060	to	_	_	
+14-70	1061-1065	Miss	_	_	
+14-71	1066-1069	F.I	_	_	
+14-72	1070-1077	Irtbeth	_	_	
+14-73	1078-1085	Heywood	_	_	
+14-74	1085-1086	,	_	_	
+14-75	1087-1089	of	_	_	
+14-76	1090-1097	Salford	https://en.wikipedia.org/wiki/Salford	LOC	
+14-77	1097-1098	.	_	_	
+14-78	1098-1099	—	_	_	
+14-79	1100-1102	On	_	_	
+14-80	1103-1112	Wednesday	_	_	
+14-81	1113-1116	the	_	_	
+14-82	1117-1118	-	_	_	
+14-83	1118-1121	5th	_	_	
+14-84	1122-1125	ult	_	_	
+14-85	1125-1126	.	_	_	
+14-86	1127-1129	at	_	_	
+14-87	1130-1139	StocKport	https://en.wikipedia.org/wiki/Stockport	LOC	
+14-88	1139-1140	,	_	_	
+14-89	1141-1143	Mr	_	_	
+14-90	1144-1148	John	_	_	
+14-91	1149-1159	Sidebotham	_	_	
+14-92	1159-1160	,	_	_	
+14-93	1161-1163	of	_	_	
+14-94	1164-1172	Hauzhton	_	_	
+14-95	1172-1173	,	_	_	
+14-96	1174-1176	to	_	_	
+14-97	1177-1181	Miss	_	_	
+14-98	1182-1191	Thorneley	_	_	
+14-99	1191-1192	,	_	_	
+14-100	1193-1201	daughter	_	_	
+14-101	1202-1204	of	_	_	
+14-102	1205-1207	Mr	_	_	
+14-103	1208-1214	Samiel	_	_	
+14-104	1215-1224	Ihorneley	_	_	
+14-105	1224-1225	,	_	_	
+14-106	1226-1228	of	_	_	
+14-107	1229-1236	Werneth	https://en.wikipedia.org/wiki/Werneth\_Low	LOC	
+14-108	1236-1237	,	_	_	
+14-109	1238-1246	Cheshire	https://en.wikipedia.org/wiki/Cheshire	LOC	
+14-110	1246-1247	.	_	_	
+
+#Text=DIED.
+15-1	1248-1252	DIED	_	_	
+15-2	1252-1253	.	_	_	
+
+#Text=On Monday the f.Oth ult. at Walton, Cheshire, Mr Thomas Knowles, jun. aged 27.
+16-1	1254-1256	On	_	_	
+16-2	1257-1263	Monday	_	_	
+16-3	1264-1267	the	_	_	
+16-4	1268-1273	f.Oth	_	_	
+16-5	1274-1277	ult	_	_	
+16-6	1277-1278	.	_	_	
+16-7	1279-1281	at	_	_	
+16-8	1282-1288	Walton	https://en.wikipedia.org/wiki/Walton,\_Cheshire	LOC	
+16-9	1288-1289	,	_	_	
+16-10	1290-1298	Cheshire	https://en.wikipedia.org/wiki/Cheshire	LOC	
+16-11	1298-1299	,	_	_	
+16-12	1300-1302	Mr	_	_	
+16-13	1303-1309	Thomas	_	_	
+16-14	1310-1317	Knowles	_	_	
+16-15	1317-1318	,	_	_	
+16-16	1319-1322	jun	_	_	
+16-17	1322-1323	.	_	_	
+16-18	1324-1328	aged	_	_	
+16-19	1329-1331	27	_	_	
+16-20	1331-1332	.	_	_	
+
+#Text=—Lately, at Newchurch, in Ros-end de, in the 70th year of his age, the Rev.
+17-1	1332-1333	—	_	_	
+17-2	1333-1339	Lately	_	_	
+17-3	1339-1340	,	_	_	
+17-4	1341-1343	at	_	_	
+17-5	1344-1353	Newchurch	https://en.wikipedia.org/wiki/Newchurch,\_Lancashire	LOC	
+17-6	1353-1354	,	_	_	
+17-7	1355-1357	in	_	_	
+17-8	1358-1365	Ros-end	https://en.wikipedia.org/wiki/Borough\_of\_Rossendale[6]	LOC[6]	
+17-9	1366-1368	de	https://en.wikipedia.org/wiki/Borough\_of\_Rossendale[6]	LOC[6]	
+17-10	1368-1369	,	_	_	
+17-11	1370-1372	in	_	_	
+17-12	1373-1376	the	_	_	
+17-13	1377-1381	70th	_	_	
+17-14	1382-1386	year	_	_	
+17-15	1387-1389	of	_	_	
+17-16	1390-1393	his	_	_	
+17-17	1394-1397	age	_	_	
+17-18	1397-1398	,	_	_	
+17-19	1399-1402	the	_	_	
+17-20	1403-1406	Rev	_	_	
+17-21	1406-1407	.	_	_	
+
+#Text=W Thacker, formeny master of the grammar school there.
+18-1	1408-1409	W	_	_	
+18-2	1410-1417	Thacker	_	_	
+18-3	1417-1418	,	_	_	
+18-4	1419-1426	formeny	_	_	
+18-5	1427-1433	master	_	_	
+18-6	1434-1436	of	_	_	
+18-7	1437-1440	the	_	_	
+18-8	1441-1448	grammar	_	_	
+18-9	1449-1455	school	_	_	
+18-10	1456-1461	there	_	_	
+18-11	1461-1462	.	_	_	
+
+#Text=—Tuesday sennight, much lamented by those who had the pleasure of his acquaintance, lames Chetwynd, Esq. second son of Sir George Cherwynd, Bait of Grendon, in Warwickshire, and Brocton, Staffordshire.
+19-1	1462-1463	—	_	_	
+19-2	1463-1470	Tuesday	_	_	
+19-3	1471-1479	sennight	_	_	
+19-4	1479-1480	,	_	_	
+19-5	1481-1485	much	_	_	
+19-6	1486-1494	lamented	_	_	
+19-7	1495-1497	by	_	_	
+19-8	1498-1503	those	_	_	
+19-9	1504-1507	who	_	_	
+19-10	1508-1511	had	_	_	
+19-11	1512-1515	the	_	_	
+19-12	1516-1524	pleasure	_	_	
+19-13	1525-1527	of	_	_	
+19-14	1528-1531	his	_	_	
+19-15	1532-1544	acquaintance	_	_	
+19-16	1544-1545	,	_	_	
+19-17	1546-1551	lames	_	_	
+19-18	1552-1560	Chetwynd	_	_	
+19-19	1560-1561	,	_	_	
+19-20	1562-1565	Esq	_	_	
+19-21	1565-1566	.	_	_	
+19-22	1567-1573	second	_	_	
+19-23	1574-1577	son	_	_	
+19-24	1578-1580	of	_	_	
+19-25	1581-1584	Sir	_	_	
+19-26	1585-1591	George	_	_	
+19-27	1592-1600	Cherwynd	_	_	
+19-28	1600-1601	,	_	_	
+19-29	1602-1606	Bait	_	_	
+19-30	1607-1609	of	_	_	
+19-31	1610-1617	Grendon	https://en.wikipedia.org/wiki/Grendon,\_Atherstone	LOC	
+19-32	1617-1618	,	_	_	
+19-33	1619-1621	in	_	_	
+19-34	1622-1634	Warwickshire	https://en.wikipedia.org/wiki/Warwickshire	LOC	
+19-35	1634-1635	,	_	_	
+19-36	1636-1639	and	_	_	
+19-37	1640-1647	Brocton	https://en.wikipedia.org/wiki/Brocton,\_Staffordshire	LOC	
+19-38	1647-1648	,	_	_	
+19-39	1649-1662	Staffordshire	https://en.wikipedia.org/wiki/Staffordshire	LOC	
+19-40	1662-1663	.	_	_	
+
+#Text=—On Thursday the !
+20-1	1663-1664	—	_	_	
+20-2	1664-1666	On	_	_	
+20-3	1667-1675	Thursday	_	_	
+20-4	1676-1679	the	_	_	
+20-5	1680-1681	!	_	_	
+
+#Text=>6th ult.
+21-1	1681-1682	>	_	_	
+21-2	1682-1685	6th	_	_	
+21-3	1686-1689	ult	_	_	
+21-4	1689-1690	.	_	_	
+
+#Text=Mr Joseph RadclifTe, of Ashton-underline, cabinet-maker, in his 5id year He died suddenly on his way home from Mr James Newtons warehouse—On Saturday sennight, at Hartlebury Castle, aged 88 years, the Right Rev.
+22-1	1691-1693	Mr	_	_	
+22-2	1694-1700	Joseph	_	_	
+22-3	1701-1710	RadclifTe	_	_	
+22-4	1710-1711	,	_	_	
+22-5	1712-1714	of	_	_	
+22-6	1715-1731	Ashton-underline	https://en.wikipedia.org/wiki/Ashton-under-Lyne	LOC	
+22-7	1731-1732	,	_	_	
+22-8	1733-1746	cabinet-maker	_	_	
+22-9	1746-1747	,	_	_	
+22-10	1748-1750	in	_	_	
+22-11	1751-1754	his	_	_	
+22-12	1755-1758	5id	_	_	
+22-13	1759-1763	year	_	_	
+22-14	1764-1766	He	_	_	
+22-15	1767-1771	died	_	_	
+22-16	1772-1780	suddenly	_	_	
+22-17	1781-1783	on	_	_	
+22-18	1784-1787	his	_	_	
+22-19	1788-1791	way	_	_	
+22-20	1792-1796	home	_	_	
+22-21	1797-1801	from	_	_	
+22-22	1802-1804	Mr	_	_	
+22-23	1805-1810	James	_	_	
+22-24	1811-1818	Newtons	_	_	
+22-25	1819-1831	warehouse—On	_	_	
+22-26	1832-1840	Saturday	_	_	
+22-27	1841-1849	sennight	_	_	
+22-28	1849-1850	,	_	_	
+22-29	1851-1853	at	_	_	
+22-30	1854-1864	Hartlebury	https://en.wikipedia.org/wiki/Hartlebury\_Castle[7]	LOC[7]	
+22-31	1865-1871	Castle	https://en.wikipedia.org/wiki/Hartlebury\_Castle[7]	LOC[7]	
+22-32	1871-1872	,	_	_	
+22-33	1873-1877	aged	_	_	
+22-34	1878-1880	88	_	_	
+22-35	1881-1886	years	_	_	
+22-36	1886-1887	,	_	_	
+22-37	1888-1891	the	_	_	
+22-38	1892-1897	Right	_	_	
+22-39	1898-1901	Rev	_	_	
+22-40	1901-1902	.	_	_	
+
+#Text=Richard Hurd, 1_>.
+23-1	1903-1910	Richard	_	_	
+23-2	1911-1915	Hurd	_	_	
+23-3	1915-1916	,	_	_	
+23-4	1917-1918	1	_	_	
+23-5	1918-1919	_	_	_	
+23-6	1919-1920	>	_	_	
+23-7	1920-1921	.	_	_	
+
+#Text=U.
+24-1	1922-1923	U	_	_	
+24-2	1923-1924	.	_	_	
+
+#Text=Lord Bishop of Worcester.
+25-1	1925-1929	Lord	_	_	
+25-2	1930-1936	Bishop	_	_	
+25-3	1937-1939	of	_	_	
+25-4	1940-1949	Worcester	https://en.wikipedia.org/wiki/Worcester,\_England	LOC	
+25-5	1949-1950	.	_	_	
+
+#Text=—On Tuesday last, at Warrington, sincerely regretted by all who knew him, Thomas Lee.
+26-1	1950-1951	—	_	_	
+26-2	1951-1953	On	_	_	
+26-3	1954-1961	Tuesday	_	_	
+26-4	1962-1966	last	_	_	
+26-5	1966-1967	,	_	_	
+26-6	1968-1970	at	_	_	
+26-7	1971-1981	Warrington	https://en.wikipedia.org/wiki/Warrington	LOC	
+26-8	1981-1982	,	_	_	
+26-9	1983-1992	sincerely	_	_	
+26-10	1993-2002	regretted	_	_	
+26-11	2003-2005	by	_	_	
+26-12	2006-2009	all	_	_	
+26-13	2010-2013	who	_	_	
+26-14	2014-2018	knew	_	_	
+26-15	2019-2022	him	_	_	
+26-16	2022-2023	,	_	_	
+26-17	2024-2030	Thomas	_	_	
+26-18	2031-2034	Lee	_	_	
+26-19	2034-2035	.	_	_	
+
+#Text=Esq
+27-1	2036-2039	Esq	_	_	

@@ -1,0 +1,336 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=Suicide and Sensational Novels.
+1-1	0-7	Suicide	_	_	
+1-2	8-11	and	_	_	
+1-3	12-23	Sensational	_	_	
+1-4	24-30	Novels	_	_	
+1-5	30-31	.	_	_	
+
+#Text=The coroner for East Surrey on Saturday held an enquiry at the Winchelsea Tavern, Fleming-road, Kenuington, touching the suicide of Martha Welis, aged 17 years.
+2-1	33-36	The	_	_	
+2-2	37-44	coroner	_	_	
+2-3	45-48	for	_	_	
+2-4	49-53	East	_	_	
+2-5	54-60	Surrey	https://en.wikipedia.org/wiki/Surrey	LOC	
+2-6	61-63	on	_	_	
+2-7	64-72	Saturday	_	_	
+2-8	73-77	held	_	_	
+2-9	78-80	an	_	_	
+2-10	81-88	enquiry	_	_	
+2-11	89-91	at	_	_	
+2-12	92-95	the	_	_	
+2-13	96-106	Winchelsea	*[1]	BUILDING[1]	
+2-14	107-113	Tavern	*[1]	BUILDING[1]	
+2-15	113-114	,	_	_	
+2-16	115-127	Fleming-road	*	STREET	
+2-17	127-128	,	_	_	
+2-18	129-139	Kenuington	https://en.wikipedia.org/wiki/Kennington	LOC	
+2-19	139-140	,	_	_	
+2-20	141-149	touching	_	_	
+2-21	150-153	the	_	_	
+2-22	154-161	suicide	_	_	
+2-23	162-164	of	_	_	
+2-24	165-171	Martha	_	_	
+2-25	172-177	Welis	_	_	
+2-26	177-178	,	_	_	
+2-27	179-183	aged	_	_	
+2-28	184-186	17	_	_	
+2-29	187-192	years	_	_	
+2-30	192-193	.	_	_	
+
+#Text=Mr.
+3-1	194-196	Mr	_	_	
+3-2	196-197	.	_	_	
+
+#Text=F.
+4-1	198-199	F	_	_	
+4-2	199-200	.	_	_	
+
+#Text=W.
+5-1	201-202	W	_	_	
+5-2	202-203	.	_	_	
+
+#Text=Hunwick, a commercial clerk, residing at No. 25, Fleming-road, said that the deceased was his servant.
+6-1	204-211	Hunwick	_	_	
+6-2	211-212	,	_	_	
+6-3	213-214	a	_	_	
+6-4	215-225	commercial	_	_	
+6-5	226-231	clerk	_	_	
+6-6	231-232	,	_	_	
+6-7	233-241	residing	_	_	
+6-8	242-244	at	_	_	
+6-9	245-247	No	_	_	
+6-10	247-248	.	_	_	
+6-11	249-251	25	_	_	
+6-12	251-252	,	_	_	
+6-13	253-265	Fleming-road	*	STREET	
+6-14	265-266	,	_	_	
+6-15	267-271	said	_	_	
+6-16	272-276	that	_	_	
+6-17	277-280	the	_	_	
+6-18	281-289	deceased	_	_	
+6-19	290-293	was	_	_	
+6-20	294-297	his	_	_	
+6-21	298-305	servant	_	_	
+6-22	305-306	.	_	_	
+
+#Text=Last Thuntday she broke a valuable vase, and witness said to her, " You have broken a great number of articles lately, and in future, whenever you break anything, you must pay half the value of it."
+7-1	307-311	Last	_	_	
+7-2	312-320	Thuntday	_	_	
+7-3	321-324	she	_	_	
+7-4	325-330	broke	_	_	
+7-5	331-332	a	_	_	
+7-6	333-341	valuable	_	_	
+7-7	342-346	vase	_	_	
+7-8	346-347	,	_	_	
+7-9	348-351	and	_	_	
+7-10	352-359	witness	_	_	
+7-11	360-364	said	_	_	
+7-12	365-367	to	_	_	
+7-13	368-371	her	_	_	
+7-14	371-372	,	_	_	
+7-15	373-374	"	_	_	
+7-16	375-378	You	_	_	
+7-17	379-383	have	_	_	
+7-18	384-390	broken	_	_	
+7-19	391-392	a	_	_	
+7-20	393-398	great	_	_	
+7-21	399-405	number	_	_	
+7-22	406-408	of	_	_	
+7-23	409-417	articles	_	_	
+7-24	418-424	lately	_	_	
+7-25	424-425	,	_	_	
+7-26	426-429	and	_	_	
+7-27	430-432	in	_	_	
+7-28	433-439	future	_	_	
+7-29	439-440	,	_	_	
+7-30	441-449	whenever	_	_	
+7-31	450-453	you	_	_	
+7-32	454-459	break	_	_	
+7-33	460-468	anything	_	_	
+7-34	468-469	,	_	_	
+7-35	470-473	you	_	_	
+7-36	474-478	must	_	_	
+7-37	479-482	pay	_	_	
+7-38	483-487	half	_	_	
+7-39	488-491	the	_	_	
+7-40	492-497	value	_	_	
+7-41	498-500	of	_	_	
+7-42	501-503	it	_	_	
+7-43	503-504	.	_	_	
+7-44	504-505	"	_	_	
+
+#Text=Deceased made no reply, but on Friday morning Mrs.
+8-1	506-514	Deceased	_	_	
+8-2	515-519	made	_	_	
+8-3	520-522	no	_	_	
+8-4	523-528	reply	_	_	
+8-5	528-529	,	_	_	
+8-6	530-533	but	_	_	
+8-7	534-536	on	_	_	
+8-8	537-543	Friday	_	_	
+8-9	544-551	morning	_	_	
+8-10	552-555	Mrs	_	_	
+8-11	555-556	.	_	_	
+
+#Text=Hunwick found her hanging by a rope to a beam in the washhouse.
+9-1	557-564	Hunwick	_	_	
+9-2	565-570	found	_	_	
+9-3	571-574	her	_	_	
+9-4	575-582	hanging	_	_	
+9-5	583-585	by	_	_	
+9-6	586-587	a	_	_	
+9-7	588-592	rope	_	_	
+9-8	593-595	to	_	_	
+9-9	596-597	a	_	_	
+9-10	598-602	beam	_	_	
+9-11	603-605	in	_	_	
+9-12	606-609	the	_	_	
+9-13	610-619	washhouse	_	_	
+9-14	619-620	.	_	_	
+
+#Text=A Mr.
+10-1	621-622	A	_	_	
+10-2	623-625	Mr	_	_	
+10-3	625-626	.	_	_	
+
+#Text=Steel cut her down with a razor, but she was quite dead.
+11-1	627-632	Steel	_	_	
+11-2	633-636	cut	_	_	
+11-3	637-640	her	_	_	
+11-4	641-645	down	_	_	
+11-5	646-650	with	_	_	
+11-6	651-652	a	_	_	
+11-7	653-658	razor	_	_	
+11-8	658-659	,	_	_	
+11-9	660-663	but	_	_	
+11-10	664-667	she	_	_	
+11-11	668-671	was	_	_	
+11-12	672-677	quite	_	_	
+11-13	678-682	dead	_	_	
+11-14	682-683	.	_	_	
+
+#Text=The witness was of opinion that she had taken her own life in consequence of romance reading, for in her bedroom, under the pillow, he discovered on Friday a romance.
+12-1	684-687	The	_	_	
+12-2	688-695	witness	_	_	
+12-3	696-699	was	_	_	
+12-4	700-702	of	_	_	
+12-5	703-710	opinion	_	_	
+12-6	711-715	that	_	_	
+12-7	716-719	she	_	_	
+12-8	720-723	had	_	_	
+12-9	724-729	taken	_	_	
+12-10	730-733	her	_	_	
+12-11	734-737	own	_	_	
+12-12	738-742	life	_	_	
+12-13	743-745	in	_	_	
+12-14	746-757	consequence	_	_	
+12-15	758-760	of	_	_	
+12-16	761-768	romance	_	_	
+12-17	769-776	reading	_	_	
+12-18	776-777	,	_	_	
+12-19	778-781	for	_	_	
+12-20	782-784	in	_	_	
+12-21	785-788	her	_	_	
+12-22	789-796	bedroom	_	_	
+12-23	796-797	,	_	_	
+12-24	798-803	under	_	_	
+12-25	804-807	the	_	_	
+12-26	808-814	pillow	_	_	
+12-27	814-815	,	_	_	
+12-28	816-818	he	_	_	
+12-29	819-829	discovered	_	_	
+12-30	830-832	on	_	_	
+12-31	833-839	Friday	_	_	
+12-32	840-841	a	_	_	
+12-33	842-849	romance	_	_	
+12-34	849-850	.	_	_	
+
+#Text=The leaf of a tale in the book, entitled " The Only Son of his Mother," was turned down.
+13-1	851-854	The	_	_	
+13-2	855-859	leaf	_	_	
+13-3	860-862	of	_	_	
+13-4	863-864	a	_	_	
+13-5	865-869	tale	_	_	
+13-6	870-872	in	_	_	
+13-7	873-876	the	_	_	
+13-8	877-881	book	_	_	
+13-9	881-882	,	_	_	
+13-10	883-891	entitled	_	_	
+13-11	892-893	"	_	_	
+13-12	894-897	The	_	_	
+13-13	898-902	Only	_	_	
+13-14	903-906	Son	_	_	
+13-15	907-909	of	_	_	
+13-16	910-913	his	_	_	
+13-17	914-920	Mother	_	_	
+13-18	920-921	,	_	_	
+13-19	921-922	"	_	_	
+13-20	923-926	was	_	_	
+13-21	927-933	turned	_	_	
+13-22	934-938	down	_	_	
+13-23	938-939	.	_	_	
+
+#Text=In that tale the son, alter murdering his mother, goes and hangs himself.
+14-1	940-942	In	_	_	
+14-2	943-947	that	_	_	
+14-3	948-952	tale	_	_	
+14-4	953-956	the	_	_	
+14-5	957-960	son	_	_	
+14-6	960-961	,	_	_	
+14-7	962-967	alter	_	_	
+14-8	968-977	murdering	_	_	
+14-9	978-981	his	_	_	
+14-10	982-988	mother	_	_	
+14-11	988-989	,	_	_	
+14-12	990-994	goes	_	_	
+14-13	995-998	and	_	_	
+14-14	999-1004	hangs	_	_	
+14-15	1005-1012	himself	_	_	
+14-16	1012-1013	.	_	_	
+
+#Text=The witness believed that the deceased bad been reading that tale on Thursday night while in low spirits about breaking the vase, and that the incident in the tale made such an impression upon her mind that she committed suicide.
+15-1	1014-1017	The	_	_	
+15-2	1018-1025	witness	_	_	
+15-3	1026-1034	believed	_	_	
+15-4	1035-1039	that	_	_	
+15-5	1040-1043	the	_	_	
+15-6	1044-1052	deceased	_	_	
+15-7	1053-1056	bad	_	_	
+15-8	1057-1061	been	_	_	
+15-9	1062-1069	reading	_	_	
+15-10	1070-1074	that	_	_	
+15-11	1075-1079	tale	_	_	
+15-12	1080-1082	on	_	_	
+15-13	1083-1091	Thursday	_	_	
+15-14	1092-1097	night	_	_	
+15-15	1098-1103	while	_	_	
+15-16	1104-1106	in	_	_	
+15-17	1107-1110	low	_	_	
+15-18	1111-1118	spirits	_	_	
+15-19	1119-1124	about	_	_	
+15-20	1125-1133	breaking	_	_	
+15-21	1134-1137	the	_	_	
+15-22	1138-1142	vase	_	_	
+15-23	1142-1143	,	_	_	
+15-24	1144-1147	and	_	_	
+15-25	1148-1152	that	_	_	
+15-26	1153-1156	the	_	_	
+15-27	1157-1165	incident	_	_	
+15-28	1166-1168	in	_	_	
+15-29	1169-1172	the	_	_	
+15-30	1173-1177	tale	_	_	
+15-31	1178-1182	made	_	_	
+15-32	1183-1187	such	_	_	
+15-33	1188-1190	an	_	_	
+15-34	1191-1201	impression	_	_	
+15-35	1202-1206	upon	_	_	
+15-36	1207-1210	her	_	_	
+15-37	1211-1215	mind	_	_	
+15-38	1216-1220	that	_	_	
+15-39	1221-1224	she	_	_	
+15-40	1225-1234	committed	_	_	
+15-41	1235-1242	suicide	_	_	
+15-42	1242-1243	.	_	_	
+
+#Text=The deceased was very steady and engaged to be married.
+16-1	1244-1247	The	_	_	
+16-2	1248-1256	deceased	_	_	
+16-3	1257-1260	was	_	_	
+16-4	1261-1265	very	_	_	
+16-5	1266-1272	steady	_	_	
+16-6	1273-1276	and	_	_	
+16-7	1277-1284	engaged	_	_	
+16-8	1285-1287	to	_	_	
+16-9	1288-1290	be	_	_	
+16-10	1291-1298	married	_	_	
+16-11	1298-1299	.	_	_	
+
+#Text=—The coroner having summed up, the jury returned a verdict of " Suicide while in a state of unsound mind."
+17-1	1300-1301	—	_	_	
+17-2	1301-1304	The	_	_	
+17-3	1305-1312	coroner	_	_	
+17-4	1313-1319	having	_	_	
+17-5	1320-1326	summed	_	_	
+17-6	1327-1329	up	_	_	
+17-7	1329-1330	,	_	_	
+17-8	1331-1334	the	_	_	
+17-9	1335-1339	jury	_	_	
+17-10	1340-1348	returned	_	_	
+17-11	1349-1350	a	_	_	
+17-12	1351-1358	verdict	_	_	
+17-13	1359-1361	of	_	_	
+17-14	1362-1363	"	_	_	
+17-15	1364-1371	Suicide	_	_	
+17-16	1372-1377	while	_	_	
+17-17	1378-1380	in	_	_	
+17-18	1381-1382	a	_	_	
+17-19	1383-1388	state	_	_	
+17-20	1389-1391	of	_	_	
+17-21	1392-1399	unsound	_	_	
+17-22	1400-1404	mind	_	_	
+17-23	1404-1405	.	_	_	
+17-24	1405-1406	"	_	_	

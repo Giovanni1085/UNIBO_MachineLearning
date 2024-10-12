@@ -1,0 +1,330 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Customentity|identifiier|value
+
+
+#Text=INSOLVENT.
+1-1	0-9	INSOLVENT	_	_	
+1-2	9-10	.	_	_	
+
+#Text=William Eccles, Union Coart, Old Broad Street, apothecary.
+2-1	12-19	William	_	_	
+2-2	20-26	Eccles	_	_	
+2-3	26-27	,	_	_	
+2-4	28-33	Union	*[1]	STREET[1]	
+2-5	34-39	Coart	*[1]	STREET[1]	
+2-6	39-40	,	_	_	
+2-7	41-44	Old	*[2]	STREET[2]	
+2-8	45-50	Broad	*[2]	STREET[2]	
+2-9	51-57	Street	*[2]	STREET[2]	
+2-10	57-58	,	_	_	
+2-11	59-69	apothecary	_	_	
+2-12	69-70	.	_	_	
+
+#Text=BANKRUPTS.
+3-1	72-81	BANKRUPTS	_	_	
+3-2	81-82	.	_	_	
+
+#Text=Phineas Isaacs, Union Street, Bishopsgate Street, furrier.
+4-1	83-90	Phineas	_	_	
+4-2	91-97	Isaacs	_	_	
+4-3	97-98	,	_	_	
+4-4	99-104	Union	*[3]	STREET[3]	
+4-5	105-111	Street	*[3]	STREET[3]	
+4-6	111-112	,	_	_	
+4-7	113-124	Bishopsgate	*[4]	STREET[4]	
+4-8	125-131	Street	*[4]	STREET[4]	
+4-9	131-132	,	_	_	
+4-10	133-140	furrier	_	_	
+4-11	140-141	.	_	_	
+
+#Text=Robert Knight Vorley and John Wailing, Bread Sir jet Hill, dry saltera.
+5-1	142-148	Robert	_	_	
+5-2	149-155	Knight	_	_	
+5-3	156-162	Vorley	_	_	
+5-4	163-166	and	_	_	
+5-5	167-171	John	_	_	
+5-6	172-179	Wailing	_	_	
+5-7	179-180	,	_	_	
+5-8	181-186	Bread	*[5]	STREET[5]	
+5-9	187-190	Sir	*[5]	STREET[5]	
+5-10	191-194	jet	*[5]	STREET[5]	
+5-11	195-199	Hill	*[5]	STREET[5]	
+5-12	199-200	,	_	_	
+5-13	201-204	dry	_	_	
+5-14	205-212	saltera	_	_	
+5-15	212-213	.	_	_	
+
+#Text=MESSRS.
+6-1	215-221	MESSRS	_	_	
+6-2	221-222	.	_	_	
+
+#Text=A. and J.
+7-1	223-224	A	_	_	
+7-2	224-225	.	_	_	
+7-3	226-229	and	_	_	
+7-4	230-231	J	_	_	
+7-5	231-232	.	_	_	
+
+#Text=JONES, Surgeon-Devut* to their Royal Highnesses the Princess Augusta and the Duchess of Gloucester, &c., &c., 64, Lower Orosvenor Street, Grosvenor Square, London.
+8-1	233-238	JONES	_	_	
+8-2	238-239	,	_	_	
+8-3	240-253	Surgeon-Devut	_	_	
+8-4	253-254	*	_	_	
+8-5	255-257	to	_	_	
+8-6	258-263	their	_	_	
+8-7	264-269	Royal	_	_	
+8-8	270-280	Highnesses	_	_	
+8-9	281-284	the	_	_	
+8-10	285-293	Princess	_	_	
+8-11	294-301	Augusta	_	_	
+8-12	302-305	and	_	_	
+8-13	306-309	the	_	_	
+8-14	310-317	Duchess	_	_	
+8-15	318-320	of	_	_	
+8-16	321-331	Gloucester	_	_	
+8-17	331-332	,	_	_	
+8-18	333-334	&	_	_	
+8-19	334-335	c	_	_	
+8-20	335-336	.	_	_	
+8-21	336-337	,	_	_	
+8-22	338-339	&	_	_	
+8-23	339-340	c	_	_	
+8-24	340-341	.	_	_	
+8-25	341-342	,	_	_	
+8-26	343-345	64	_	_	
+8-27	345-346	,	_	_	
+8-28	347-352	Lower	https://en.wikipedia.org/wiki/Lower\_Grosvenor\_Street[6]	STREET[6]	
+8-29	353-362	Orosvenor	https://en.wikipedia.org/wiki/Lower\_Grosvenor\_Street[6]	STREET[6]	
+8-30	363-369	Street	https://en.wikipedia.org/wiki/Lower\_Grosvenor\_Street[6]	STREET[6]	
+8-31	369-370	,	_	_	
+8-32	371-380	Grosvenor	https://en.wikipedia.org/wiki/Grosvenor\_Square[7]	STREET[7]	
+8-33	381-387	Square	https://en.wikipedia.org/wiki/Grosvenor\_Square[7]	STREET[7]	
+8-34	387-388	,	_	_	
+8-35	389-395	London	https://en.wikipedia.org/wiki/London	LOC	
+8-36	395-396	.	_	_	
+
+#Text=Mr.
+9-1	397-399	Mr	_	_	
+9-2	399-400	.	_	_	
+
+#Text=A.
+10-1	401-402	A	_	_	
+10-2	402-403	.	_	_	
+
+#Text=Jones having been solicited by several Families of distinction to attend at DORCHESTER professionally, has the honor of announcing that he may be consulted on Monday and Tuesday next, the Bth aud 9tn inst., at the KING’S ARMS HOTEL; and the remaining part of the week at No. 4, Crescent, WEYMOUTH.
+11-1	404-409	Jones	_	_	
+11-2	410-416	having	_	_	
+11-3	417-421	been	_	_	
+11-4	422-431	solicited	_	_	
+11-5	432-434	by	_	_	
+11-6	435-442	several	_	_	
+11-7	443-451	Families	_	_	
+11-8	452-454	of	_	_	
+11-9	455-466	distinction	_	_	
+11-10	467-469	to	_	_	
+11-11	470-476	attend	_	_	
+11-12	477-479	at	_	_	
+11-13	480-490	DORCHESTER	https://en.wikipedia.org/wiki/Dorchester,\_Dorset	LOC	
+11-14	491-505	professionally	_	_	
+11-15	505-506	,	_	_	
+11-16	507-510	has	_	_	
+11-17	511-514	the	_	_	
+11-18	515-520	honor	_	_	
+11-19	521-523	of	_	_	
+11-20	524-534	announcing	_	_	
+11-21	535-539	that	_	_	
+11-22	540-542	he	_	_	
+11-23	543-546	may	_	_	
+11-24	547-549	be	_	_	
+11-25	550-559	consulted	_	_	
+11-26	560-562	on	_	_	
+11-27	563-569	Monday	_	_	
+11-28	570-573	and	_	_	
+11-29	574-581	Tuesday	_	_	
+11-30	582-586	next	_	_	
+11-31	586-587	,	_	_	
+11-32	588-591	the	_	_	
+11-33	592-595	Bth	_	_	
+11-34	596-599	aud	_	_	
+11-35	600-603	9tn	_	_	
+11-36	604-608	inst	_	_	
+11-37	608-609	.	_	_	
+11-38	609-610	,	_	_	
+11-39	611-613	at	_	_	
+11-40	614-617	the	_	_	
+11-41	618-622	KING	*[8]	BUILDING[8]	
+11-42	622-623	’	*[8]	BUILDING[8]	
+11-43	623-624	S	*[8]	BUILDING[8]	
+11-44	625-629	ARMS	*[8]	BUILDING[8]	
+11-45	630-635	HOTEL	*[8]	BUILDING[8]	
+11-46	635-636	;	_	_	
+11-47	637-640	and	_	_	
+11-48	641-644	the	_	_	
+11-49	645-654	remaining	_	_	
+11-50	655-659	part	_	_	
+11-51	660-662	of	_	_	
+11-52	663-666	the	_	_	
+11-53	667-671	week	_	_	
+11-54	672-674	at	_	_	
+11-55	675-677	No	_	_	
+11-56	677-678	.	_	_	
+11-57	679-680	4	_	_	
+11-58	680-681	,	_	_	
+11-59	682-690	Crescent	*	STREET	
+11-60	690-691	,	_	_	
+11-61	692-700	WEYMOUTH	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+11-62	700-701	.	_	_	
+
+#Text=The loss of Teeth supplied in a superior manner without the use of Spring Clasps or Ligatures; they may be adjusted from one to a complete Set, fully answering all the purposes of the original, in mastication, articulation, &c., &c.
+12-1	702-705	The	_	_	
+12-2	706-710	loss	_	_	
+12-3	711-713	of	_	_	
+12-4	714-719	Teeth	_	_	
+12-5	720-728	supplied	_	_	
+12-6	729-731	in	_	_	
+12-7	732-733	a	_	_	
+12-8	734-742	superior	_	_	
+12-9	743-749	manner	_	_	
+12-10	750-757	without	_	_	
+12-11	758-761	the	_	_	
+12-12	762-765	use	_	_	
+12-13	766-768	of	_	_	
+12-14	769-775	Spring	_	_	
+12-15	776-782	Clasps	_	_	
+12-16	783-785	or	_	_	
+12-17	786-795	Ligatures	_	_	
+12-18	795-796	;	_	_	
+12-19	797-801	they	_	_	
+12-20	802-805	may	_	_	
+12-21	806-808	be	_	_	
+12-22	809-817	adjusted	_	_	
+12-23	818-822	from	_	_	
+12-24	823-826	one	_	_	
+12-25	827-829	to	_	_	
+12-26	830-831	a	_	_	
+12-27	832-840	complete	_	_	
+12-28	841-844	Set	_	_	
+12-29	844-845	,	_	_	
+12-30	846-851	fully	_	_	
+12-31	852-861	answering	_	_	
+12-32	862-865	all	_	_	
+12-33	866-869	the	_	_	
+12-34	870-878	purposes	_	_	
+12-35	879-881	of	_	_	
+12-36	882-885	the	_	_	
+12-37	886-894	original	_	_	
+12-38	894-895	,	_	_	
+12-39	896-898	in	_	_	
+12-40	899-910	mastication	_	_	
+12-41	910-911	,	_	_	
+12-42	912-924	articulation	_	_	
+12-43	924-925	,	_	_	
+12-44	926-927	&	_	_	
+12-45	927-928	c	_	_	
+12-46	928-929	.	_	_	
+12-47	929-930	,	_	_	
+12-48	931-932	&	_	_	
+12-49	932-933	c	_	_	
+12-50	933-934	.	_	_	
+
+#Text=Tender and Decayed Teeth stopped with ANODYNE CEMENT, which in a minute allays the most excruciating pain, fills the cavities, however large, and speedily becomes as hard as enamel, resisting the effects of acids, atmospheric air, &c., Ac.
+13-1	935-941	Tender	_	_	
+13-2	942-945	and	_	_	
+13-3	946-953	Decayed	_	_	
+13-4	954-959	Teeth	_	_	
+13-5	960-967	stopped	_	_	
+13-6	968-972	with	_	_	
+13-7	973-980	ANODYNE	_	_	
+13-8	981-987	CEMENT	_	_	
+13-9	987-988	,	_	_	
+13-10	989-994	which	_	_	
+13-11	995-997	in	_	_	
+13-12	998-999	a	_	_	
+13-13	1000-1006	minute	_	_	
+13-14	1007-1013	allays	_	_	
+13-15	1014-1017	the	_	_	
+13-16	1018-1022	most	_	_	
+13-17	1023-1035	excruciating	_	_	
+13-18	1036-1040	pain	_	_	
+13-19	1040-1041	,	_	_	
+13-20	1042-1047	fills	_	_	
+13-21	1048-1051	the	_	_	
+13-22	1052-1060	cavities	_	_	
+13-23	1060-1061	,	_	_	
+13-24	1062-1069	however	_	_	
+13-25	1070-1075	large	_	_	
+13-26	1075-1076	,	_	_	
+13-27	1077-1080	and	_	_	
+13-28	1081-1089	speedily	_	_	
+13-29	1090-1097	becomes	_	_	
+13-30	1098-1100	as	_	_	
+13-31	1101-1105	hard	_	_	
+13-32	1106-1108	as	_	_	
+13-33	1109-1115	enamel	_	_	
+13-34	1115-1116	,	_	_	
+13-35	1117-1126	resisting	_	_	
+13-36	1127-1130	the	_	_	
+13-37	1131-1138	effects	_	_	
+13-38	1139-1141	of	_	_	
+13-39	1142-1147	acids	_	_	
+13-40	1147-1148	,	_	_	
+13-41	1149-1160	atmospheric	_	_	
+13-42	1161-1164	air	_	_	
+13-43	1164-1165	,	_	_	
+13-44	1166-1167	&	_	_	
+13-45	1167-1168	c	_	_	
+13-46	1168-1169	.	_	_	
+13-47	1169-1170	,	_	_	
+13-48	1171-1173	Ac	_	_	
+13-49	1173-1174	.	_	_	
+
+#Text=Those wishing to consult Mr.
+14-1	1175-1180	Those	_	_	
+14-2	1181-1188	wishing	_	_	
+14-3	1189-1191	to	_	_	
+14-4	1192-1199	consult	_	_	
+14-5	1200-1202	Mr	_	_	
+14-6	1202-1203	.	_	_	
+
+#Text=Jones at Dorchester are solicited to be early in attendance, in consequence of his limited stay.
+15-1	1204-1209	Jones	_	_	
+15-2	1210-1212	at	_	_	
+15-3	1213-1223	Dorchester	https://en.wikipedia.org/wiki/Dorchester,\_Dorset	LOC	
+15-4	1224-1227	are	_	_	
+15-5	1228-1237	solicited	_	_	
+15-6	1238-1240	to	_	_	
+15-7	1241-1243	be	_	_	
+15-8	1244-1249	early	_	_	
+15-9	1250-1252	in	_	_	
+15-10	1253-1263	attendance	_	_	
+15-11	1263-1264	,	_	_	
+15-12	1265-1267	in	_	_	
+15-13	1268-1279	consequence	_	_	
+15-14	1280-1282	of	_	_	
+15-15	1283-1286	his	_	_	
+15-16	1287-1294	limited	_	_	
+15-17	1295-1299	stay	_	_	
+15-18	1299-1300	.	_	_	
+
+#Text=References given to the most eminent of the Faculty. 4, Crescent, Weymouth, September 3d, 1834.
+16-1	1301-1311	References	_	_	
+16-2	1312-1317	given	_	_	
+16-3	1318-1320	to	_	_	
+16-4	1321-1324	the	_	_	
+16-5	1325-1329	most	_	_	
+16-6	1330-1337	eminent	_	_	
+16-7	1338-1340	of	_	_	
+16-8	1341-1344	the	_	_	
+16-9	1345-1352	Faculty	_	_	
+16-10	1352-1353	.	_	_	
+16-11	1354-1355	4	_	_	
+16-12	1355-1356	,	_	_	
+16-13	1357-1365	Crescent	*	STREET	
+16-14	1365-1366	,	_	_	
+16-15	1367-1375	Weymouth	https://en.wikipedia.org/wiki/Weymouth,\_Dorset	LOC	
+16-16	1375-1376	,	_	_	
+16-17	1377-1386	September	_	_	
+16-18	1387-1389	3d	_	_	
+16-19	1389-1390	,	_	_	
+16-20	1391-1395	1834	_	_	
+16-21	1395-1396	.	_	_	
