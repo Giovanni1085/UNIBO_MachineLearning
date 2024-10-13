@@ -13,6 +13,10 @@ RAG addresses, or at least mitigates, the problem of factual accuracy and reliab
 
 ## How Does RAG Work?
 
+<img src="../figures/rag.png" width="600px" heigth="500px">
+
+*[Source](https://www.trantorinc.com/blog/what-is-rag-retrieval-augmented-generation).*
+
 Steps of the RAG Process:
 
 1.	**Query Encoding**: The input query (e.g., a question) is encoded into a vector using a pre-trained encoder.
@@ -27,10 +31,6 @@ The main use cases for RAG include question-answering on specific collections of
 * Retrieval quality: The effectiveness of RAG depends heavily on the quality of the retrieved documents. If the retriever fails to fetch relevant documents, the generated response might be inaccurate.
 * Retrieval speed: Searching through large external corpora can be computationally expensive and slow, especially if the corpus is very large. Efficient retrieval methods, such as DPR (Dense Passage Retrieval), are crucial to maintaining reasonable response times.
 * Fusion of retrieved information: Integrating multiple retrieved documents into the generative process can be complex, and the model must decide how to weigh or combine the information from each retrieved passage.
-
-<img src="../figures/rag.png" width="600px" heigth="500px">
-
-*[Source](https://www.trantorinc.com/blog/what-is-rag-retrieval-augmented-generation).*
 
 ## A RAG application to read papers
 
