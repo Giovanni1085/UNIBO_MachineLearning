@@ -13,13 +13,13 @@ from llama_index.core.memory import ChatMemoryBuffer
 
 @cl.password_auth_callback
 def auth_callback(username: str, password: str):
-    username_stored = os.environ.get("CHAINTLIT_USERNAME")
-    password_stored = os.environ.get("CHAINTLIT_PASSWORD")
+    username_stored = os.environ.get("CHAINLIT_USERNAME")
+    password_stored = os.environ.get("CHAINLIT_PASSWORD")
 
     if username_stored is None or password_stored is None:
         raise ValueError(
-            "Username or password not set. Please set CHAINTLIT_USERNAME and "
-            "CHAINTLIT_PASSWORD environment variables."
+            "Username or password not set. Please set CHAINLIT_USERNAME and "
+            "CHAINLIT_PASSWORD environment variables."
         )
 
     if (username, password) == (username_stored, password_stored):
