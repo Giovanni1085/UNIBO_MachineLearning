@@ -1,6 +1,6 @@
 # Machine Learning for the Arts&Humanities
 
-This repository is part of the course [Machine Learning for the Arts&Humanities](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/490903) at the University of Bologna, master degree in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge).
+This repository is part of the course **Machine Learning for the Arts&Humanities** at the University of Bologna, master degree in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge).
 
 *Please note that this repository will be updated continuosly in the future, as new editions of this course are proposed.*
 
