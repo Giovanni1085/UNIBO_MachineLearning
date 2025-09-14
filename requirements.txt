@@ -16,3 +16,4 @@ llama-index
 llama-index-core
 llama-hub
 llama-index-readers-file
+statsmodels
