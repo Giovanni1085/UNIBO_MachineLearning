@@ -64,7 +64,7 @@ async def start():
     temperature = 0.1
     max_tokens = 2048
     streaming = True
-    Settings.llm = OpenAI(model="gpt-4o", temperature=temperature, max_tokens=max_tokens, streaming=streaming)
+    Settings.llm = OpenAI(model="gpt-5-nano", temperature=temperature, max_tokens=max_tokens, streaming=streaming)
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
     #Settings.context_window = 8192
     Settings.chunk_size = 1024
