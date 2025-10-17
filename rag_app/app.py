@@ -10,6 +10,8 @@ from llama_index.core import (
 from llama_index.llms.openai import OpenAI
 from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.core.memory import ChatMemoryBuffer
+from llama_index.llms.ollama import Ollama
+from llama_index.embeddings.ollama import OllamaEmbedding
 
 @cl.password_auth_callback
 def auth_callback(username: str, password: str):
@@ -31,7 +33,7 @@ def auth_callback(username: str, password: str):
     
 ## START OF APP ##
 
-openai.api_key = os.environ.get("OPENAI_API_KEY")
+#openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 prompt_text = """You are a scientific assistant tasked with answering questions about your knowledge base of scientific articles.
 
@@ -62,10 +64,12 @@ async def start():
 
     # LLM selection and configuration
     temperature = 0.1
-    max_tokens = 2048
+    max_tokens = 4096
     streaming = True
-    Settings.llm = OpenAI(model="gpt-5-nano", temperature=temperature, max_tokens=max_tokens, streaming=streaming)
+    Settings.llm = OpenAI(model="gpt-4-turbo", temperature=temperature, max_tokens=max_tokens, streaming=streaming)
     Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
+    #Settings.llm = Ollama(model="llama3.1", request_timeout=360.0, temperature=temperature, max_tokens=max_tokens, streaming=streaming)
+    #Settings.embed_model = OllamaEmbedding(model_name="nomic-embed-text")
     #Settings.context_window = 8192
     Settings.chunk_size = 1024
     Settings.chunk_overlap = 32
@@ -73,7 +77,7 @@ async def start():
     documents = SimpleDirectoryReader("./data").load_data(show_progress=True)
     index = VectorStoreIndex.from_documents(documents)
 
-    memory = ChatMemoryBuffer.from_defaults(token_limit=2048)
+    memory = ChatMemoryBuffer.from_defaults(token_limit=4096)
     chat_engine = index.as_chat_engine(
         chat_mode="context",
         memory=memory,
