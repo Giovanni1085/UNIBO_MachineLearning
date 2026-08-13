@@ -1,9 +1,7 @@
 notebook
-jupyter_contrib_nbextensions
 pandas
 matplotlib
 seaborn
-nltk
 numpy
 scikit-learn
 torch
@@ -12,8 +10,16 @@ transformers
 tqdm
 chainlit
 openai
+anthropic
+ollama
+python-dotenv
+pypdf
+pillow
 llama-index
 llama-index-core
-llama-hub
 llama-index-readers-file
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-llms-ollama
+llama-index-embeddings-ollama
 statsmodels
