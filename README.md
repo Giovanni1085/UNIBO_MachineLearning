@@ -34,7 +34,7 @@ Starting from week 2, exercises are meant to be tackled with the help of coding 
 
 Please see the `requirements` file for a list of dependencies. [PyTorch can be installed following these instructions](https://pytorch.org/get-started/locally/). For notebook 5 and the RAG app, you will also need:
 * [Ollama](https://ollama.com/) installed locally, with `ollama pull llama3.2:3b` and `ollama pull nomic-embed-text`.
-* API keys for `MISTRAL_API_KEY` and/or `OPENAI_API_KEY`, set as environment variables or in a local `.env` file (never commit this file — it is already covered by `.gitignore`).
+* API keys for `MISTRAL_API_KEY` (notebook 5) and `OPENAI_API_KEY` (RAG app), set as environment variables or in a local `.env` file (never commit this file — it is already covered by `.gitignore`). Copy `.env.template` to `.env` and fill in your keys.
 
 Lastly, to setup your working environment, refer to [this guide](https://github.com/Giovanni1085/UNIBO_Programmazione_LM/blob/main/setup.md).
 
