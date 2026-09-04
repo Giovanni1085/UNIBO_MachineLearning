@@ -1,0 +1,5 @@
+.env
+models/
+__pycache__/
+.chainlit/
+.ipynb_checkpoints/
