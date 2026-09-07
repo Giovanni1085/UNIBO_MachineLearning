@@ -4,17 +4,17 @@ This repository is part of the course **Machine Learning for the Arts&Humanities
 
 *Please note that this repository will be updated continuosly in the future, as new editions of this course are proposed.*
 
-See the [course program](PROGRAM.md) for the week-by-week schedule.
+See the [course program](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2026/542135) for the week-by-week schedule.
 
 ## Contents
 
-0. [Coding agents](0_coding_agents.ipynb) — week 0, day 2
-1. [Linear regression](1_linear_regression.ipynb) — week 1
-2. [Linear classification](2_linear_classification.ipynb) — week 1
-3. [PyTorch](3_pytorch.ipynb) — week 2 (theory/practice + linear regression and MNIST lab)
+0. [Coding agents](0_coding_agents.ipynb) — week 1
+1. [Linear regression](1_linear_regression.ipynb) — week 2
+2. [Linear classification](2_linear_classification.ipynb) — week 2
+3. [PyTorch](3_pytorch.ipynb) — week 3 (theory/practice + linear regression and MNIST lab)
 4. [Transformers](4_transformers.ipynb) — week 4 (attention and text classification, then a CNN recap and CLIP)
 5. [Generative Models and RAG](5_generative_models.ipynb) — week 5 (local vs frontier models, RAG)
-6. [Retrieval Augmented Generation app](rag_app)
+6. [Retrieval Augmented Generation app](rag_app) — week 6
 
 ## Datasets and exercises
 
