@@ -13,7 +13,7 @@ See the [course program](https://www.unibo.it/it/studiare/insegnamenti-competenz
 2. [Linear classification](2_linear_classification.ipynb) — week 2
 3. [PyTorch](3_pytorch.ipynb) — week 3 (theory/practice + linear regression and MNIST lab)
 4. [Transformers](4_transformers.ipynb) — week 4 (attention and text classification, then a CNN recap and CLIP)
-5. [Generative Models and RAG](5_generative_models.ipynb) — week 5 (local vs frontier models, RAG)
+5. [Generative Models and RAG](5_generative_models.ipynb) — week 5 (local vs frontier models, what a local runtime makes visible, RAG)
 6. [Retrieval Augmented Generation app](rag_app) — week 6
 
 ## Datasets and exercises
@@ -34,6 +34,7 @@ Starting from week 2, exercises are meant to be tackled with the help of coding 
 
 Please see the `requirements` file for a list of dependencies. [PyTorch can be installed following these instructions](https://pytorch.org/get-started/locally/). For notebook 5 and the RAG app, you will also need:
 * [Ollama](https://ollama.com/) installed locally, with `ollama pull llama3.2:3b` and `ollama pull nomic-embed-text`.
+* *Optional*, for the local-models section of notebook 5: [LM Studio](https://lmstudio.ai/). Installing it is enough to follow along — that part of the class is a demo, and downloading model weights is not required.
 * API keys for `MISTRAL_API_KEY` (notebook 5) and `OPENAI_API_KEY` (RAG app), set as environment variables or in a local `.env` file (never commit this file — it is already covered by `.gitignore`). Copy `.env.template` to `.env` and fill in your keys.
 
 Lastly, to setup your working environment, refer to [this guide](https://github.com/Giovanni1085/UNIBO_Programmazione_LM/blob/main/setup.md).
@@ -50,3 +51,4 @@ Some materials are re-purposed from:
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/).
 * [CLIP: Connecting text and images](https://openai.com/index/clip/) (OpenAI).
 * [Ollama](https://ollama.com/) for local model serving.
+* [LM Studio](https://lmstudio.ai/) for running and inspecting local models.
