@@ -10,7 +10,7 @@ transformers
 tqdm
 chainlit
 openai
-anthropic
+mistralai
 ollama
 python-dotenv
 pypdf
